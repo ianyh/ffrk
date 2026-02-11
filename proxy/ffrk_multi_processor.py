@@ -13,77 +13,77 @@ import csv
 import re
 from collections import defaultdict
 from datetime import datetime
-from pathlib import Path
 from mitmproxy import http
+from pathlib import Path
+from typing import Dict
 
 
 # Character name translation dictionary (Japanese to English)
 CHARACTER_TRANSLATIONS = {
-    'セブン': 'Seven', 'ナバート': 'Nabaat', 'リノア': 'Rinoa', 'ケルガー': 'Kelger', 
-    'エスティニアン': 'Estinien', 'クイーン': 'Queen', 'エイト': 'Eight', 'シンク': 'Cinque',
-    'デュース': 'Deuce', 'トレイ': 'Trey', 'エース': 'Ace', 'レム': 'Rem', 'マキナ': 'Machina',
-    'カイン': 'Kain', 'セシル': 'Cecil', 'セシル(パラディン)': 'Cecil (Paladin)', 
-    'セシル(暗黒騎士)': 'Cecil (Dark Knight)', 'ローザ': 'Rosa', 'リディア': 'Rydia',
-    'エッジ': 'Edge', 'ヤン': 'Yang', 'パロム': 'Palom', 'ポロム': 'Porom', 'テラ': 'Terra',
-    'ティナ': 'Terra', 'ロック': 'Locke', 'セリス': 'Celes', 'エドガー': 'Edgar',
-    'マッシュ': 'Sabin', 'シャドウ': 'Shadow', 'ストラゴス': 'Strago', 'リルム': 'Relm',
-    'セッツァー': 'Setzer', 'モグ': 'Mog', 'ガウ': 'Gau', 'クラウド': 'Cloud', 'ティファ': 'Tifa',
-    'エアリス': 'Aerith', 'バレット': 'Barret', 'レッドXIII': 'Red XIII', 'ユフィ': 'Yuffie',
-    'ヴィンセント': 'Vincent', 'ケット・シー': 'Cait Sith', 'シド': 'Cid', 'シド(IV)': 'Cid (IV)',
-    'シド(VII)': 'Cid (VII)', 'シド(XIV)': 'Cid (XIV)', 'ザックス': 'Zack', 'セフィロス': 'Sephiroth',
-    'スコール': 'Squall', 'ゼル': 'Zell', 'アーヴァイン': 'Irvine', 'キスティス': 'Quistis',
-    'セルフィ': 'Selphie', 'ラグナ': 'Laguna', 'キロス': 'Kiros', 'ウォード': 'Ward',
-    'サイファー': 'Seifer', 'イデア': 'Edea', 'ジタン': 'Zidane', 'ビビ': 'Vivi',
-    'ガーネット': 'Garnet', 'スタイナー': 'Steiner', 'フライヤ': 'Freya', 'クイナ': 'Quina',
-    'エーコ': 'Eiko', 'サラマンダー': 'Amarant', 'ベアトリクス': 'Beatrix', 'クジャ': 'Kuja',
-    'ティーダ': 'Tidus', 'ユウナ': 'Yuna', 'ワッカ': 'Wakka', 'ルールー': 'Lulu',
-    'キマリ': 'Kimahri', 'リュック': 'Rikku', 'アーロン': 'Auron', 'ジェクト': 'Jecht',
-    'シーモア': 'Seymour', 'パイン': 'Paine', 'ヴァン': 'Vaan', 'バルフレア': 'Balthier',
-    'フラン': 'Fran', 'バッシュ': 'Basch', 'アーシェ': 'Ashe', 'パンネロ': 'Penelo',
-    'ガブラス': 'Gabranth', 'ライトニング': 'Lightning', 'スノウ': 'Snow', 'ヴァニラ': 'Vanille',
-    'サッズ': 'Sazh', 'ホープ': 'Hope', 'ファング': 'Fang', 'セラ': 'Serah', 'ノエル': 'Noel',
-    'ノクティス': 'Noctis', 'グラディオラス': 'Gladiolus', 'イグニス': 'Ignis',
-    'プロンプト': 'Prompto', 'アラネア': 'Aranea', 'イリス': 'Iris', 'ルナフレーナ': 'Lunafreya',
-    'ラムザ': 'Ramza', 'アグリアス': 'Agrias', 'ディリータ': 'Delita', 'ムスタディオ': 'Mustadio',
-    'オヴェリア': 'Ovelia', 'ガフガリオン': 'Gaffgarion', 'メリアドール': 'Meliadoul',
-    'オルランドゥ': 'Orlandeau', 'ラファ': 'Rapha', 'マラーク': 'Marach', 'モンブラン': 'Montblanc',
-    'マーシュ': 'Marche', 'ウォル': 'Warrior of Light', '光の戦士': 'Warrior of Light',
-    'ガーランド': 'Garland', 'セーラ': 'Sarah', 'エコー': 'Echo', 'マトーヤ': 'Matoya',
-    'メイア': 'Meia', 'フリオニール': 'Firion', 'マリア': 'Maria', 'ガイ': 'Guy',
-    'レオンハルト': 'Leon', 'ミンウ': 'Minwu', 'ヨーゼフ': 'Josef', 'ゴードン': 'Gordon',
-    'レイラ': 'Leila', 'リチャード': 'Ricard', 'スコット': 'Scott', 'ヒルダ': 'Hilda',
-    '皇帝': 'Emperor', 'オニオンナイト': 'Onion Knight', 'ルーネス': 'Luneth', 'アルクゥ': 'Arc',
-    'レフィア': 'Refia', 'イングズ': 'Ingus', 'デッシュ': 'Desch', '暗闇の雲': 'Cloud of Darkness',
-    'ギルバート': 'Edward', 'テラ': 'Tellah', 'フースーヤ': 'FuSoYa', 'ゴルベーザ': 'Golbez',
-    'バッツ': 'Bartz', 'レナ': 'Lenna', 'ガラフ': 'Galuf', 'ファリス': 'Faris',
-    'クルル': 'Krile', 'ギルガメッシュ': 'Gilgamesh', 'エクスデス': 'Exdeath', 'ドルガン': 'Dorgann',
-    'ゼザ': 'Xezat', 'カイエン': 'Cyan', 'ケフカ': 'Kefka', 'レオ': 'Leo', 'レオ将軍': 'General Leo',
-    'ウーマロ': 'Umaro', 'レノ': 'Reno', 'ルード': 'Rude', 'ルーファウス': 'Rufus',
-    'シェルク': 'Shelke', 'アンジール': 'Angeal', 'ジェネシス': 'Genesis', 'イリーナ': 'Elena',
-    'レインズ': 'Raines', 'アルフィノ': 'Alphinaud', 'アリゼー': 'Alisaie', 'イゼル': 'Ysayle',
-    'ヤ・シュトラ': "Y'shtola", 'サンクレッド': 'Thancred', 'ミンフィリア': 'Minfilia',
-    'パパリモ': 'Papalymo', 'イダ': 'Yda', 'オルシュファン': 'Haurchefant', 'リセ': 'Lyse',
-    'アイメリク': 'Aymeric', 'ウリエンジェ': 'Urianger', 'ガイウス': 'Gaius', 'ゼノス': 'Zenos',
-    'オルトロス': 'Ultros', 'アデル': 'Adel', 'アーデン': 'Ardyn', 'Dr.モグ': 'Dr. Mog',
-    'バルバリシア': 'Barbariccia', 'スカーレット': 'Scarlet', 'リーブ': 'Reeve', 'デシ': 'Tyro',
-    'エリア': 'Elarra', 'ビッグス': 'Biggs', 'ウェッジ': 'Wedge', 'トット': 'Shantotto',
-    'シャントット': 'Shantotto', 'プリッシュ': 'Prishe', 'アヤメ': 'Ayame', 'クリルラ': 'Curilla',
-    'ライオン': 'Lion', 'アフマウ': 'Aphmau', 'ザイド': 'Zeid', 'アシェラ': 'Ashe',
-    'セオドア': 'Ceodore', 'ゴゴ': 'Gogo', 'ものまねしゴゴ': 'Gogo (Mimic)', 'シーフ(I)': 'Thief (I)',
-    'スーパーモンク': 'Master', 'ルビカンテ': 'Rubicante', 'アルティミシア': 'Ultimecia',
-    '雷神': 'Raijin', '風神': 'Fujin', 'マーカス': 'Marcus', 'ブラスカ': 'Braska',
-    'ラーサー': 'Larsa', 'ヴェイン': 'Vayne', 'ナイン': 'Nine', 'キング': 'King', 'サイス': 'Sice',
-    'ジャック': 'Jack', 'アルマ': 'Alma', 'オーラン': 'Orran', 'リリゼット': 'Lilisette',
-    'コル': 'Cor', 'レイヴス': 'Ravus', 'ラァン': 'Lann', 'レェン': 'Reynn', 'シドルファス': 'Cidolfus',
-    'クライヴ': 'Clive', 'ジョシュア': 'Joshua', 'ジル': 'Jill', 'クラサメ': 'Kurasame',
-    'エモ': 'Emo', 'ウララ': 'Urara', 'ケイト': 'Cater', 'エナ・クロ': 'Ena Kros',
-    'セラフィ': 'Serafie', 'フィーナ': 'Fina', 'ラスウェル': 'Lasswell', 'レイン': 'Rain',
-    'シャドウスミス': 'Shadowsmith', 'レックス': 'Wrexsoul', 'リーグ': 'Rikku',
-    'トゥモロ': 'Tomoe', 'タマ': 'Tama', 'アーシュラ': 'Ursula', 'ナジャ': 'Naja',
+    "セブン": "Seven", "ナバート": "Nabaat", "リノア": "Rinoa", "ケルガー": "Kelger", 
+    "エスティニアン": "Estinien", "クイーン": "Queen", "エイト": "Eight", "シンク": "Cinque",
+    "デュース": "Deuce", "トレイ": "Trey", "エース": "Ace", "レム": "Rem", "マキナ": "Machina",
+    "カイン": "Kain", "セシル": "Cecil", "セシル(パラディン)": "Cecil (Paladin)", 
+    "セシル(暗黒騎士)": "Cecil (Dark Knight)", "ローザ": "Rosa", "リディア": "Rydia",
+    "エッジ": "Edge", "ヤン": "Yang", "パロム": "Palom", "ポロム": "Porom", "テラ": "Terra",
+    "ティナ": "Terra", "ロック": "Locke", "セリス": "Celes", "エドガー": "Edgar",
+    "マッシュ": "Sabin", "シャドウ": "Shadow", "ストラゴス": "Strago", "リルム": "Relm",
+    "セッツァー": "Setzer", "モグ": "Mog", "ガウ": "Gau", "クラウド": "Cloud", "ティファ": "Tifa",
+    "エアリス": "Aerith", "バレット": "Barret", "レッドXIII": "Red XIII", "ユフィ": "Yuffie",
+    "ヴィンセント": "Vincent", "ケット・シー": "Cait Sith", "シド": "Cid", "シド(IV)": "Cid (IV)",
+    "シド(VII)": "Cid (VII)", "シド(XIV)": "Cid (XIV)", "ザックス": "Zack", "セフィロス": "Sephiroth",
+    "スコール": "Squall", "ゼル": "Zell", "アーヴァイン": "Irvine", "キスティス": "Quistis",
+    "セルフィ": "Selphie", "ラグナ": "Laguna", "キロス": "Kiros", "ウォード": "Ward",
+    "サイファー": "Seifer", "イデア": "Edea", "ジタン": "Zidane", "ビビ": "Vivi",
+    "ガーネット": "Garnet", "スタイナー": "Steiner", "フライヤ": "Freya", "クイナ": "Quina",
+    "エーコ": "Eiko", "サラマンダー": "Amarant", "ベアトリクス": "Beatrix", "クジャ": "Kuja",
+    "ティーダ": "Tidus", "ユウナ": "Yuna", "ワッカ": "Wakka", "ルールー": "Lulu",
+    "キマリ": "Kimahri", "リュック": "Rikku", "アーロン": "Auron", "ジェクト": "Jecht",
+    "シーモア": "Seymour", "パイン": "Paine", "ヴァン": "Vaan", "バルフレア": "Balthier",
+    "フラン": "Fran", "バッシュ": "Basch", "アーシェ": "Ashe", "パンネロ": "Penelo",
+    "ガブラス": "Gabranth", "ライトニング": "Lightning", "スノウ": "Snow", "ヴァニラ": "Vanille",
+    "サッズ": "Sazh", "ホープ": "Hope", "ファング": "Fang", "セラ": "Serah", "ノエル": "Noel",
+    "ノクティス": "Noctis", "グラディオラス": "Gladiolus", "イグニス": "Ignis",
+    "プロンプト": "Prompto", "アラネア": "Aranea", "イリス": "Iris", "ルナフレーナ": "Lunafreya",
+    "ラムザ": "Ramza", "アグリアス": "Agrias", "ディリータ": "Delita", "ムスタディオ": "Mustadio",
+    "オヴェリア": "Ovelia", "ガフガリオン": "Gaffgarion", "メリアドール": "Meliadoul",
+    "オルランドゥ": "Orlandeau", "ラファ": "Rapha", "マラーク": "Marach", "モンブラン": "Montblanc",
+    "マーシュ": "Marche", "ウォル": "Warrior of Light", "光の戦士": "Warrior of Light",
+    "ガーランド": "Garland", "セーラ": "Sarah", "エコー": "Echo", "マトーヤ": "Matoya",
+    "メイア": "Meia", "フリオニール": "Firion", "マリア": "Maria", "ガイ": "Guy",
+    "レオンハルト": "Leon", "ミンウ": "Minwu", "ヨーゼフ": "Josef", "ゴードン": "Gordon",
+    "レイラ": "Leila", "リチャード": "Ricard", "スコット": "Scott", "ヒルダ": "Hilda",
+    "皇帝": "Emperor", "オニオンナイト": "Onion Knight", "ルーネス": "Luneth", "アルクゥ": "Arc",
+    "レフィア": "Refia", "イングズ": "Ingus", "デッシュ": "Desch", "暗闇の雲": "Cloud of Darkness",
+    "ギルバート": "Edward", "テラ": "Tellah", "フースーヤ": "FuSoYa", "ゴルベーザ": "Golbez",
+    "バッツ": "Bartz", "レナ": "Lenna", "ガラフ": "Galuf", "ファリス": "Faris",
+    "クルル": "Krile", "ギルガメッシュ": "Gilgamesh", "エクスデス": "Exdeath", "ドルガン": "Dorgann",
+    "ゼザ": "Xezat", "カイエン": "Cyan", "ケフカ": "Kefka", "レオ": "Leo", "レオ将軍": "General Leo",
+    "ウーマロ": "Umaro", "レノ": "Reno", "ルード": "Rude", "ルーファウス": "Rufus",
+    "シェルク": "Shelke", "アンジール": "Angeal", "ジェネシス": "Genesis", "イリーナ": "Elena",
+    "レインズ": "Raines", "アルフィノ": "Alphinaud", "アリゼー": "Alisaie", "イゼル": "Ysayle",
+    "ヤ・シュトラ": "Y'shtola", "サンクレッド": "Thancred", "ミンフィリア": "Minfilia",
+    "パパリモ": "Papalymo", "イダ": "Yda", "オルシュファン": "Haurchefant", "リセ": "Lyse",
+    "アイメリク": "Aymeric", "ウリエンジェ": "Urianger", "ガイウス": "Gaius", "ゼノス": "Zenos",
+    "オルトロス": "Ultros", "アデル": "Adel", "アーデン": "Ardyn", "Dr.モグ": "Dr. Mog",
+    "バルバリシア": "Barbariccia", "スカーレット": "Scarlet", "リーブ": "Reeve", "デシ": "Tyro",
+    "エリア": "Elarra", "ビッグス": "Biggs", "ウェッジ": "Wedge", "トット": "Shantotto",
+    "シャントット": "Shantotto", "プリッシュ": "Prishe", "アヤメ": "Ayame", "クリルラ": "Curilla",
+    "ライオン": "Lion", "アフマウ": "Aphmau", "ザイド": "Zeid", "アシェラ": "Ashe",
+    "セオドア": "Ceodore", "ゴゴ": "Gogo", "ものまねしゴゴ": "Gogo (Mimic)", "シーフ(I)": "Thief (I)",
+    "スーパーモンク": "Master", "ルビカンテ": "Rubicante", "アルティミシア": "Ultimecia",
+    "雷神": "Raijin", "風神": "Fujin", "マーカス": "Marcus", "ブラスカ": "Braska",
+    "ラーサー": "Larsa", "ヴェイン": "Vayne", "ナイン": "Nine", "キング": "King", "サイス": "Sice",
+    "ジャック": "Jack", "アルマ": "Alma", "オーラン": "Orran", "リリゼット": "Lilisette",
+    "コル": "Cor", "レイヴス": "Ravus", "ラァン": "Lann", "レェン": "Reynn", "シドルファス": "Cidolfus",
+    "クライヴ": "Clive", "ジョシュア": "Joshua", "ジル": "Jill", "クラサメ": "Kurasame",
+    "エモ": "Emo", "ウララ": "Urara", "ケイト": "Cater", "エナ・クロ": "Ena Kros",
+    "セラフィ": "Serafie", "フィーナ": "Fina", "ラスウェル": "Lasswell", "レイン": "Rain",
+    "シャドウスミス": "Shadowsmith", "レックス": "Wrexsoul", "リーグ": "Rikku",
+    "トゥモロ": "Tomoe", "タマ": "Tama", "アーシュラ": "Ursula", "ナジャ": "Naja",
 }
 
 
-# Configuration
 OUTPUT_DIR = Path.cwd() / "ffrk_data"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -99,34 +99,34 @@ ENABLE_PAGE_TRACKING = True  # Save individual pages as backup
 
 def extract_character_name(name):
     """Extract character name from between Japanese brackets 【】"""
-    match = re.search(r'【(.+?)】', name)
+    match = re.search(r"【(.+?)】", name)
     if match:
         return match.group(1)
-    return ''
+    return ""
 
 
 def extract_tier(name):
     """Extract Roman numeral tier from the end of the name"""
-    tier_match = re.search(r'】\s*(I{1,3}|IV|V|VI{0,3}|IX|X)\s*$', name)
+    tier_match = re.search(r"】\s*(I{1,3}|IV|V|VI{0,3}|IX|X)\s*$", name)
     if tier_match:
         return tier_match.group(1)
-    return ''
+    return ""
 
 
 def save_to_csv(data, headers, filename):
     """Generic CSV saver"""
-    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=headers, extrasaction='ignore')
+    with open(filename, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=headers, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(data)
 
 
 def deduplicate_by_id(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Deduplicate items by 'id' field, keeping first occurrence"""
+    """Deduplicate items by "id" field, keeping first occurrence"""
     seen = set()
     result = []
     for item in items:
-        item_id = item.get('id')
+        item_id = item.get("id")
         if item_id not in seen:
             seen.add(item_id)
             result.append(item)
@@ -134,229 +134,37 @@ def deduplicate_by_id(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 
 
 # =============================================================================
-# DATA PROCESSORS - Add new processors here for different data types
+# DATA PROCESSORS
 # =============================================================================
 
-class SphereMaterialsProcessor:
-    """Process sphere materials data"""
+class MotesInventoryProcessor:
+    """Process generic and character-specific mote inventory"""
     
     @staticmethod
     def process(data):
         """Process sphere materials and return processed list"""
-        items = data.get('sphere_materials', [])
+        items = data.get("sphere_materials", [])
         if not items:
             return None, None
         
         for item in items:
-            name = item.get('name', '')
+            name = item.get("name", "")
             character_name_jp = extract_character_name(name)
-            item['character_jp'] = character_name_jp
-            item['character'] = CHARACTER_TRANSLATIONS.get(character_name_jp, character_name_jp)
-            item['tier'] = extract_tier(name)
+            item["character_jp"] = character_name_jp
+            item["character"] = CHARACTER_TRANSLATIONS.get(character_name_jp, character_name_jp)
+            item["tier"] = extract_tier(name)
         
         headers = [
-            'character', 'character_jp', 'tier', 'num', 'name', 
-            'id', 'series_id', 'rarity', 'sale_gil', 'description', 
-            'display_type', 'created_at', 'image_path'
+            "character", "character_jp", "tier", "num", "name", 
+            "id", "series_id", "rarity", "sale_gil", "description", 
+            "display_type", "created_at", "image_path"
         ]
         
         return items, headers
     
     @staticmethod
     def get_filename(timestamp):
-        return OUTPUT_DIR / f"sphere_materials_{timestamp}.csv"
-
-    @staticmethod
-    def is_paginated():
-        return False  # list_other is not paginated
-
-
-class AbilitiesProcessor:
-    """Process abilities data"""
-    
-    @staticmethod
-    def process(data):
-        """Process abilities and return processed list"""
-        items = data.get('abilities', [])
-        if not items:
-            return None, None
-        
-        # Add any custom processing here
-        # For example, translating ability names, categorizing by type, etc.
-        
-        headers = [
-            'id', 'name', 'num', 'grade', 'max_grade', 'ability_category_id',
-            'rarity', 'max_num', 'description', 'image_path'
-        ]
-        
-        return items, headers
-    
-    @staticmethod
-    def get_filename(timestamp):
-        return OUTPUT_DIR / f"abilities_{timestamp}.csv"
-    
-    @staticmethod
-    def is_paginated():
-        return False
-
-
-class RecordMateriasProcessor:
-    """Process record materias data"""
-    
-    @staticmethod
-    def process(data):
-        """Process record materias and return processed list"""
-        items = data.get('record_materias', [])
-        if not items:
-            return None, None
-        
-        # Extract character names if present
-        for item in items:
-            name = item.get('name', '')
-            character_name_jp = extract_character_name(name)
-            if character_name_jp:
-                item['character_name_jp'] = character_name_jp
-                item['character_name_en'] = CHARACTER_TRANSLATIONS.get(character_name_jp, character_name_jp)
-            else:
-                item['character_name_jp'] = ''
-                item['character_name_en'] = ''
-        
-        headers = [
-            'character_name_en', 'character_name_jp', 'id', 'name', 'num',
-            'rarity', 'description', 'image_path', 'series_id'
-        ]
-        
-        return items, headers
-    
-    @staticmethod
-    def get_filename(timestamp):
-        return OUTPUT_DIR / f"record_materias_{timestamp}.csv"
-
-    @staticmethod
-    def is_paginated():
-        return False
-
-
-class MaterialsProcessor:
-    """Process general materials data"""
-    
-    @staticmethod
-    def process(data):
-        """Process materials and return processed list"""
-        items = data.get('materials', [])
-        if not items:
-            return None, None
-        
-        headers = [
-            'id', 'name', 'num', 'rarity', 'description', 
-            'image_path', 'sale_gil', 'max_num'
-        ]
-        
-        return items, headers
-    
-    @staticmethod
-    def get_filename(timestamp):
-        return OUTPUT_DIR / f"materials_{timestamp}.csv"
-
-    @staticmethod
-    def is_paginated():
-        return False
-
-
-class SoulStrikeMaterialsProcessor:
-    """Process soul strike materials data"""
-    
-    @staticmethod
-    def process(data):
-        """Process soul strike materials and return processed list"""
-        items = data.get('soul_strike_materials', [])
-        if not items:
-            return None, None
-        
-        # Extract character names
-        for item in items:
-            name = item.get('name', '')
-            character_name_jp = extract_character_name(name)
-            if character_name_jp:
-                item['character_name_jp'] = character_name_jp
-                item['character_name_en'] = CHARACTER_TRANSLATIONS.get(character_name_jp, character_name_jp)
-            else:
-                item['character_name_jp'] = ''
-                item['character_name_en'] = ''
-        
-        headers = [
-            'character_name_en', 'character_name_jp', 'id', 'name', 'num',
-            'rarity', 'description', 'image_path', 'sale_gil'
-        ]
-        
-        return items, headers
-    
-    @staticmethod
-    def get_filename(timestamp):
-        return OUTPUT_DIR / f"soul_strike_materials_{timestamp}.csv"
-
-    @staticmethod
-    def is_paginated():
-        return False
-
-
-class GrowEggsProcessor:
-    """Process growth eggs data"""
-    
-    @staticmethod
-    def process(data):
-        """Process growth eggs and return processed list"""
-        items = data.get('grow_eggs', [])
-        if not items:
-            return None, None
-        
-        headers = [
-            'id', 'name', 'num', 'rarity', 'description', 
-            'image_path', 'exp', 'series_id'
-        ]
-        
-        return items, headers
-    
-    @staticmethod
-    def get_filename(timestamp):
-        return OUTPUT_DIR / f"grow_eggs_{timestamp}.csv"
-
-    @staticmethod
-    def is_paginated():
-        return False
-
-
-class MemoryCrystalsProcessor:
-    """Process memory crystals data"""
-    
-    @staticmethod
-    def process(data):
-        """Process memory crystals and return processed list"""
-        items = data.get('memory_crystals', [])
-        if not items:
-            return None, None
-        
-        # Extract character names
-        for item in items:
-            name = item.get('name', '')
-            character_name_jp = extract_character_name(name)
-            if character_name_jp:
-                item['character_name_jp'] = character_name_jp
-                item['character_name_en'] = CHARACTER_TRANSLATIONS.get(character_name_jp, character_name_jp)
-            else:
-                item['character_name_jp'] = ''
-                item['character_name_en'] = ''
-        
-        headers = [
-            'character_name_en', 'character_name_jp', 'id', 'name', 'num',
-            'rarity', 'description', 'image_path', 'series_id'
-        ]
-        
-        return items, headers
-    
-    @staticmethod
-    def get_filename(timestamp):
-        return OUTPUT_DIR / f"memory_crystals_{timestamp}.csv"
+        return OUTPUT_DIR / f"motes_inventory_{timestamp}.csv"
 
     @staticmethod
     def is_paginated():
@@ -364,29 +172,29 @@ class MemoryCrystalsProcessor:
 
 
 class DressRecordsProcessor:
-    """Process dress records (wardrobe) data"""
+    """Process dress records data"""
     
     @staticmethod
     def process(data):
         """Process dress records and return processed list"""
-        items = data.get('dress_records', [])
+        items = data.get("dress_records", [])
         if not items:
             return None, None
         
         # Extract character names
         for item in items:
-            name = item.get('name', '')
+            name = item.get("name", "")
             character_name_jp = extract_character_name(name)
             if character_name_jp:
-                item['character_name_jp'] = character_name_jp
-                item['character_name_en'] = CHARACTER_TRANSLATIONS.get(character_name_jp, character_name_jp)
+                item["character_jp"] = character_name_jp
+                item["character"] = CHARACTER_TRANSLATIONS.get(character_name_jp, character_name_jp)
             else:
-                item['character_name_jp'] = ''
-                item['character_name_en'] = ''
+                item["character_jp"] = ""
+                item["character"] = ""
         
         headers = [
-            'character_name_en', 'character_name_jp', 'id', 'name', 
-            'description', 'image_path', 'series_id'
+            "character", "character_jp", "id", "name", 
+            "description", "image_path", "series_id"
         ]
         
         return items, headers
@@ -400,32 +208,39 @@ class DressRecordsProcessor:
         return False
 
 
-class BuddiesProcessor:
-    """Process character/buddy data - PAGINATED"""
+class SoulBreaksProcessor:
+    """Process soul breaks data"""
     
     @staticmethod
     def process(data):
-        items = data.get('buddies', [])
+        items = data.get("soul_strikes", [])
         if not items:
             return None, None
         
-        for buddy in items:
-            name_jp = buddy.get('name', '')
-            buddy['character_name_jp'] = name_jp
-            buddy['character_name_en'] = CHARACTER_TRANSLATIONS.get(name_jp, name_jp)
+        for ss in items:
+            buddy_name_jp = ss.get("allowed_buddy_name", "")
+            ss["character_jp"] = buddy_name_jp
+            ss["character"] = CHARACTER_TRANSLATIONS.get(buddy_name_jp, buddy_name_jp)
+            
+            elements = ss.get("elements", [])
+            ss["elements_str"] = ", ".join(map(str, elements)) if elements else ""
         
         headers = [
-            'buddy_id', 'character_name_en', 'character_name_jp',
-            'level', 'level_max', 'hp', 'atk', 'def', 'matk', 'mdef', 'mnd', 'spd', 'acc', 'eva',
-            'magia_level', 'magia_point', 'series_id', 'job_name', 'evolution_num',
-            'image_path'
+            "id", "character", "character_jp", "name", 
+            "soul_strike_category_name", "description",
+            "consume_ss_gauge", "consume_point", "elements_str",
+            "is_default_soul_strike", "is_standard_soul_strike", "is_unique_soul_strike",
+            "is_super_soul_strike", "is_burst_soul_strike", "is_ultra_soul_strike",
+            "is_awake_soul_strike", "is_synchro_soul_strike", "is_dual_awake_soul_strike",
+            "allowed_buddy_id", "allowed_buddy_series_id", "image_path"
         ]
         
         return items, headers
     
+    
     @staticmethod
     def get_filename(timestamp):
-        return OUTPUT_DIR / f"buddies_{timestamp}.csv"
+        return OUTPUT_DIR / f"soul_breaks_{timestamp}.csv"
     
     @staticmethod
     def is_paginated():
@@ -437,15 +252,9 @@ class BuddiesProcessor:
 # =============================================================================
 
 PROCESSORS = [
-    SphereMaterialsProcessor,
-    AbilitiesProcessor,
-    RecordMateriasProcessor,
-    MaterialsProcessor,
-    SoulStrikeMaterialsProcessor,
-    GrowEggsProcessor,
-    MemoryCrystalsProcessor,
-    DressRecordsProcessor,
-    BuddiesProcessor
+    MotesInventoryProcessor,
+    SoulBreaksProcessor,
+    DressRecordsProcessor
 ]
 
 # =============================================================================
@@ -511,7 +320,7 @@ class FFRKMultiProcessorAddon:
         # Use URL path without query params as key
         url = flow.request.pretty_url
         # Remove query parameters for grouping
-        base_url = url.split('?')[0]
+        base_url = url.split("?")[0]
         return base_url
     
     def response(self, flow: http.HTTPFlow) -> None:
@@ -546,16 +355,16 @@ class FFRKMultiProcessorAddon:
                             accumulated_count = len(self.pagination_manager.get_accumulated(endpoint, processor_name))
                             
                             page_info.append({
-                                'type': processor_name.replace('Processor', ''),
-                                'page_items': len(items),
-                                'total_items': accumulated_count,
-                                'pages': page_count
+                                "type": processor_name.replace("Processor", ""),
+                                "page_items": len(items),
+                                "total_items": accumulated_count,
+                                "pages": page_count
                             })
                             
                             # Optional: Save individual pages as backup
                             if ENABLE_PAGE_TRACKING:
                                 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
-                                page_file = OUTPUT_DIR / f"{processor_name.replace('Processor', '').lower()}_page{page_count}_{timestamp}.csv"
+                                page_file = OUTPUT_DIR / f"{processor_name.replace("Processor", "").lower()}_page{page_count}_{timestamp}.csv"
                                 save_to_csv(items, headers, page_file)
                         
                         else:
@@ -564,7 +373,7 @@ class FFRKMultiProcessorAddon:
                             output_file = processor_class.get_filename(timestamp)
                             save_to_csv(items, headers, output_file)
                             
-                            processor_name = processor_class.__name__.replace('Processor', '')
+                            processor_name = processor_class.__name__.replace("Processor", "")
                             self.stats[processor_class.__name__] += 1
                             self.total_processed += 1
                             
@@ -575,14 +384,14 @@ class FFRKMultiProcessorAddon:
             
             # Show pagination progress
             if page_info:
-                print(f"\n{'='*60}")
+                print(f"\n{"="*60}")
                 print(f"📄 Paginated Data Received (Accumulating...)")
-                print(f"{'='*60}")
+                print(f"{"="*60}")
                 for info in page_info:
-                    print(f"  {info['type']:25s}: +{info['page_items']:4d} items  (Total: {info['total_items']:4d} across {info['pages']} pages)")
-                print(f"{'='*60}")
+                    print(f"  {info["type"]:25s}: +{info["page_items"]:4d} items  (Total: {info["total_items"]:4d} across {info["pages"]} pages)")
+                print(f"{"="*60}")
                 print(f"Waiting for more pages... (will auto-save after {ACCUMULATION_TIMEOUT}s of inactivity)")
-                print(f"{'='*60}\n")
+                print(f"{"="*60}\n")
             
             # Check if any pending endpoints should be finalized
             if ENABLE_AUTO_SAVE:
@@ -592,7 +401,7 @@ class FFRKMultiProcessorAddon:
             if response_data:
                 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
                 json_file = OUTPUT_DIR / f"raw_data_{timestamp}.json"
-                with open(json_file, 'w', encoding='utf-8') as f:
+                with open(json_file, "w", encoding="utf-8") as f:
                     json.dump(response_data, f, ensure_ascii=False, indent=2)
                     
         except json.JSONDecodeError:
@@ -615,9 +424,9 @@ class FFRKMultiProcessorAddon:
         """Finalize and save accumulated data for an endpoint"""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         
-        print(f"\n{'='*60}")
+        print(f"\n{"="*60}")
         print(f"✅ FINALIZING ACCUMULATED DATA")
-        print(f"{'='*60}")
+        print(f"{"="*60}")
         
         for processor_class in PROCESSORS:
             if not processor_class.is_paginated():
@@ -631,17 +440,17 @@ class FFRKMultiProcessorAddon:
                 unique_items = deduplicate_by_id(accumulated_items)
                 
                 # Process the accumulated data
-                _, headers = processor_class.process({'temp_key': unique_items})
+                _, headers = processor_class.process({"temp_key": unique_items})
                 if not headers:
                     # Get headers from the processor
-                    dummy_data = {processor_name.replace('Processor', '').lower() + 's': unique_items[:1]}
+                    dummy_data = {processor_name.replace("Processor", "").lower() + "s": unique_items[:1]}
                     _, headers = processor_class.process(dummy_data)
                 
                 # Save final CSV
                 output_file = processor_class.get_filename(timestamp)
                 save_to_csv(unique_items, headers, output_file)
                 
-                clean_name = processor_name.replace('Processor', '')
+                clean_name = processor_name.replace("Processor", "")
                 page_count = self.pagination_manager.get_page_count(endpoint)
                 
                 print(f"  {clean_name:25s}: {len(unique_items):4d} items from {page_count} pages → {output_file.name}")
@@ -649,7 +458,7 @@ class FFRKMultiProcessorAddon:
                 self.stats[processor_class.__name__] += 1
                 self.total_processed += 1
         
-        print(f"{'='*60}\n")
+        print(f"{"="*60}\n")
         
         # Clean up
         self.pagination_manager.finalize(endpoint)
@@ -660,8 +469,8 @@ class FFRKMultiProcessorAddon:
         url = flow.request.pretty_url
         
         ffrk_patterns = [
-            'list_buddy',
-            'list_other',
+            "list_buddy",
+            "list_other",
         ]
         
         url_lower = url.lower()
@@ -675,27 +484,14 @@ class FFRKMultiProcessorAddon:
         
         # Show summary
         if self.total_processed > 0:
-            print(f"\n{'='*60}")
+            print(f"\n{"="*60}")
             print("FFRK Processor Summary")
-            print(f"{'='*60}")
+            print(f"{"="*60}")
             for processor_name, count in self.stats.items():
                 if count > 0:
-                    clean_name = processor_name.replace('Processor', '')
+                    clean_name = processor_name.replace("Processor", "")
                     print(f"  {clean_name:30s}: {count} times")
-            print(f"{'='*60}\n")
-
-    
-    def done(self):
-        """Called when mitmproxy shuts down - show summary"""
-        if self.total_processed > 0:
-            print(f"\n{'='*60}")
-            print("FFRK Processor Summary")
-            print(f"{'='*60}")
-            for processor_name, count in self.stats.items():
-                if count > 0:
-                    clean_name = processor_name.replace('Processor', '')
-                    print(f"  {clean_name:30s}: {count} times")
-            print(f"{'='*60}\n")
+            print(f"{"="*60}\n")
 
 
 # Create the addon instance
