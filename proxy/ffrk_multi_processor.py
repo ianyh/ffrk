@@ -99,7 +99,7 @@ SB_CATEGORY_TRANSLATIONS = {
     "OVERFLOW": "OSB",
     "OVERFLOW_OUGI": "UOSB",
     "OVERFLOW_SHINGI": "OZSB",
-    "SENGI": "FSB+",
+    "SENGI": "FSB",
     "SHIN_OUGI": "TASB",
     "STANDARD": "Default",
     "SUPER": "SSB",
@@ -295,7 +295,6 @@ class PaginationManager:
     """Manages accumulation of paginated data across multiple responses"""
     
     def __init__(self):
-        # Storage: endpoint_url -> processor_name -> list of items
         self.accumulated_data: Dict[str, Dict[str, List]] = defaultdict(lambda: defaultdict(list))
         self.last_update_time: Dict[str, float] = {}
         self.page_counts: Dict[str, int] = defaultdict(int)
