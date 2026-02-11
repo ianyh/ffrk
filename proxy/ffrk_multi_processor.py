@@ -83,6 +83,33 @@ CHARACTER_TRANSLATIONS = {
     "トゥモロ": "Tomoe", "タマ": "Tama", "アーシュラ": "Ursula", "ナジャ": "Naja",
 }
 
+SB_CATEGORY_TRANSLATIONS = {
+    "ACCEL_SHINGI": "ASB",
+    "AWAKE": "AASB",
+    "BURST": "BSB",
+    "BUSTER_SHINGI": "Buster",
+    "COMBO": "CSB",
+    "COMMON": "Shared",
+    "CRYSTAL_SHINGI": "CASB",
+    "DUAL_AWAKE": "DASB",
+    "LIMIT_BREAK_COMBO": "LBC",
+    "LIMIT_BREAK_OVERFLOW": "LBO",
+    "LIMIT_BREAK_SENGI": "LBG",
+    "MASTER_SHINGI": "MASB",
+    "OVERFLOW": "OSB",
+    "OVERFLOW_OUGI": "UOSB",
+    "OVERFLOW_SHINGI": "OZSB",
+    "SENGI": "FSB+",
+    "SHIN_OUGI": "TASB",
+    "STANDARD": "Default",
+    "SUPER": "SSB",
+    "SYNCHRO": "SASB",
+    "TACTICAL_AWAKE": "Tactical",
+    "ULTIMATE_SHINGI": "UASB",
+    "ULTIMATE_SUMMON": "LBGS",
+    "ULTRA": "USB",
+    "UNIQUE": "Unique"
+}
 
 OUTPUT_DIR = Path.cwd() / "ffrk_data"
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -221,6 +248,9 @@ class SoulBreaksProcessor:
             buddy_name_jp = ss.get("allowed_buddy_name", "")
             ss["character_jp"] = buddy_name_jp
             ss["character"] = CHARACTER_TRANSLATIONS.get(buddy_name_jp, buddy_name_jp)
+
+            category_name_jp = ss.get("soul_strike_category_name", "")
+            ss["soul_strike_category_name"] = SB_CATEGORY_TRANSLATIONS.get(category_name_jp, category_name_jp)
             
             elements = ss.get("elements", [])
             ss["elements_str"] = ", ".join(map(str, elements)) if elements else ""
