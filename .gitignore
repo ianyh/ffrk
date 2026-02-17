@@ -2,3 +2,12 @@
 battle.json
 battle.js
 ffrk_data
+
+public/
+token.json
+credentials.json
+service-account-key.json
+.env
+__pycache__/
+*.pyc
+data/items.json
