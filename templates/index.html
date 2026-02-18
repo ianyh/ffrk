@@ -1,0 +1,225 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% set data = load_data(path="data/items.json") %}
+    
+    <div id="app">
+        <!-- Filters -->
+        <div class="filters">
+            <div class="filter-group">
+                <label for="character-filter">Character:</label>
+                <select id="character-filter">
+                    <option value="">All Characters</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="tier-filter">Tier:</label>
+                <select id="tier-filter">
+                    <option value="">All Tiers</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="search-filter">Search Items:</label>
+                <input 
+                    type="text" 
+                    id="search-filter"
+                    placeholder="Search by item name..."
+                >
+            </div>
+            
+            <button id="reset-btn" class="reset-btn">Reset Filters</button>
+            
+            <div class="filter-stats" id="filter-stats"></div>
+        </div>
+
+        <!-- Loading state -->
+        <div id="loading" class="loading">
+            <p>Loading...</p>
+        </div>
+        
+        <!-- Characters display -->
+        <div id="characters-container" class="characters-container" style="display: none;"></div>
+        
+        <!-- No results -->
+        <div id="no-results" class="no-results" style="display: none;">
+            <p>No items match your filters.</p>
+        </div>
+    </div>
+    
+    <script>
+        const allItems = {{ data.items | json_encode() | safe }};
+        
+        // CUSTOMIZE TIER ORDER HERE
+        const TIER_ORDER = ['Tier 1', 'Tier 2', 'Tier 3', 'Tier 4', 'Tier 5'];
+        
+        const characterFilter = document.getElementById('character-filter');
+        const tierFilter = document.getElementById('tier-filter');
+        const searchFilter = document.getElementById('search-filter');
+        const resetBtn = document.getElementById('reset-btn');
+        const container = document.getElementById('characters-container');
+        const loading = document.getElementById('loading');
+        const noResults = document.getElementById('no-results');
+        const stats = document.getElementById('filter-stats');
+        
+        let filters = {
+            character: '',
+            tier: '',
+            search: ''
+        };
+        
+        function sortTiers(tiers) {
+            return tiers.sort((a, b) => {
+                const indexA = TIER_ORDER.indexOf(a);
+                const indexB = TIER_ORDER.indexOf(b);
+                
+                if (indexA !== -1 && indexB !== -1) return indexA - indexB;
+                if (indexA !== -1) return -1;
+                if (indexB !== -1) return 1;
+                return a.localeCompare(b);
+            });
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        function applyFilters() {
+            let results = allItems;
+            
+            // Apply character filter
+            if (filters.character) {
+                results = results.filter(item => item.character === filters.character);
+            }
+            
+            // Apply tier filter
+            if (filters.tier) {
+                results = results.filter(item => item.tier === filters.tier);
+            }
+            
+            // Apply search filter
+            if (filters.search) {
+                const searchLower = filters.search.toLowerCase();
+                results = results.filter(item => 
+                    item.sb_version.toLowerCase().includes(searchLower) ||
+                    item.character.toLowerCase().includes(searchLower)
+                );
+            }
+            
+            render(results);
+        }
+        
+        function render(items) {
+            // Group by character and tier
+            const grouped = {};
+            items.forEach(item => {
+                if (!grouped[item.character]) grouped[item.character] = {};
+                if (!grouped[item.character][item.tier]) grouped[item.character][item.tier] = [];
+                grouped[item.character][item.tier].push(item);
+            });
+            
+            const characters = Object.keys(grouped).sort();
+            
+            // Update stats
+            stats.textContent = `${items.length} items in ${characters.length} characters`;
+            
+            // Show/hide no results
+            if (characters.length === 0) {
+                container.style.display = 'none';
+                noResults.style.display = 'block';
+                return;
+            }
+            
+            noResults.style.display = 'none';
+            container.style.display = 'flex';
+            
+            // Build HTML
+            let html = '';
+            characters.forEach(character => {
+                html += `<div class="character-card">
+                    <div class="character-header">
+                        <h2>${escapeHtml(character)}</h2>
+                    </div>
+                    <div class="tiers-container">`;
+                
+                const tiers = sortTiers(Object.keys(grouped[character]));
+                tiers.forEach(tier => {
+                    html += `<div class="tier-section">
+                        <h3 class="tier-title">${escapeHtml(tier)}</h3>
+                        <div class="items">`;
+                    
+                    grouped[character][tier].forEach(item => {
+                        html += `<div class="item">
+                            <img src="${escapeHtml(item.image_url)}" alt="${escapeHtml(item.sb_version)}" loading="lazy">
+                            <div class="item-name">${escapeHtml(item.sb_version)}</div>
+                        </div>`;
+                    });
+                    
+                    html += '</div></div>';
+                });
+                
+                html += '</div></div>';
+            });
+            
+            container.innerHTML = html;
+        }
+        
+        function populateFilters() {
+            // Get unique characters and tiers
+            const characters = [...new Set(allItems.map(i => i.character))].sort();
+            const tiers = sortTiers([...new Set(allItems.map(i => i.tier))]);
+            
+            characters.forEach(char => {
+                const option = document.createElement('option');
+                option.value = char;
+                option.textContent = char;
+                characterFilter.appendChild(option);
+            });
+            
+            tiers.forEach(tier => {
+                const option = document.createElement('option');
+                option.value = tier;
+                option.textContent = tier;
+                tierFilter.appendChild(option);
+            });
+        }
+        
+        function resetFilters() {
+            filters = { character: '', tier: '', search: '' };
+            characterFilter.value = '';
+            tierFilter.value = '';
+            searchFilter.value = '';
+            applyFilters();
+        }
+        
+        // Event listeners
+        characterFilter.addEventListener('change', (e) => {
+            filters.character = e.target.value;
+            applyFilters();
+        });
+        
+        tierFilter.addEventListener('change', (e) => {
+            filters.tier = e.target.value;
+            applyFilters();
+        });
+        
+        let searchTimeout;
+        searchFilter.addEventListener('input', (e) => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => {
+                filters.search = e.target.value;
+                applyFilters();
+            }, 300);
+        });
+        
+        resetBtn.addEventListener('click', resetFilters);
+        
+        // Initialize
+        populateFilters();
+        loading.style.display = 'none';
+        applyFilters();
+    </script>
+{% endblock %}

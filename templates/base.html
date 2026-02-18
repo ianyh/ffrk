@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ config.title }}</title>
+    <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+    <script src="{{ get_url(path='flexsearch.bundle.js') }}"></script>
+</head>
+<body>
+    {% block content %}{% endblock %}
+</body>
+</html>
