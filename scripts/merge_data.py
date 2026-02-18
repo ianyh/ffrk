@@ -13,9 +13,12 @@ def load_sb_holding_data(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
+            if row["character"] == "":
+                continue
             sbs.append({
                 "id": row["id"],
-                "character": row["character"]
+                "character": row["character"],
+                "image_path": row["image_path"]
             })
     return sbs
 
@@ -48,10 +51,11 @@ def merge_data(sb_holdings, sb_details):
         
         merged_item = {
             "id": id,
+            "image_url": f"https://dff.sp.mbga.jp{entry["image_path"]}",
             "character": entry["character"],
             "tier": details["tier"],
             "sb_version": details["sb_version"],
-            "description": details.get("description", ""),
+            "description": details.get("description", "")
         }
         
         merged.append(merged_item)
