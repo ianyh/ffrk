@@ -11,3 +11,5 @@ service-account-key.json
 __pycache__/
 *.pyc
 data/items.json
+
+static/flexsearch*
