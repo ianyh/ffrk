@@ -10,21 +10,26 @@
   <div x-data="search()">
     <form @submit.prevent="runQuery">
       <input type="text" x-model="query" placeholder="Search...">
-      <select x-model="fields.tier">
+      <select x-model="queryFields.tier">
         <option value="">Tier</option>
         <template x-for="opt in options.tier" :key="opt">
           <option :value="opt" x-text="opt"></option>
         </template>
       </select>
-      <select x-model="fields.character">
+      <select x-model="queryFields.character">
         <option value="">Character</option>
         <template x-for="opt in options.characters" :key="opt">
           <option :value="opt" x-text="opt"></option>
         </template>
       </select>
-      <select x-model="fields.realm">
+      <select x-model="queryFields.realm">
         <option value="">Realm</option>
         <template x-for="opt in options.realms" :key="opt">
+          <option :value="opt" x-text="opt"></option>
+        </template>
+      </select>
+      <select multiple x-model="filterFields.elements">
+        <template x-for="opt in options.elements" :key="opt">
           <option :value="opt" x-text="opt"></option>
         </template>
       </select>
@@ -49,8 +54,9 @@
         query: '',
         results: null,
         index: null,
-        fields: { tier: '', character: '', realm: '' },
-        options: { tier: [], characters: [], realms: [] },
+        filterFields: { elements: [] },
+        queryFields: { tier: '', character: '', realm: '' },
+        options: { tier: [], characters: [], realms: [], elements: [] },
         store: {},
 
         init() {
@@ -61,6 +67,7 @@
               this.options.tier = [...new Set(items.map(item => item.tier))].sort();
               this.options.characters = [...new Set(items.map(item => item.character))].sort();
               this.options.realms = [...new Set(items.map(item => item.realm))].sort();
+              this.options.elements = [...new Set(items.flatMap(item => item.elements))].sort();
               items.forEach(item => this.store[item.id] = item);
               this.index = lunr(function() {
                 this.ref('id');
@@ -78,7 +85,7 @@
 
         runQuery() {
           const queries = [];
-          for (const [key, value] of Object.entries(this.fields)) {
+          for (const [key, value] of Object.entries(this.queryFields)) {
             console.log(`Considering ${key}:${value}`);
             if (!value.trim()) {
               continue;
@@ -90,7 +97,14 @@
 
           try {
             const hits = this.index.search(query);
-            this.results = hits.map(hit => this.store[hit.ref]);
+            const results = hits.map(hit => this.store[hit.ref]); 
+            this.results = results.filter(result => {
+              let matches = false;
+              for (const [key, value] of Object.entries(this.filterFields)) {
+                matches = result[key].some(v => value.includes(v));
+              }
+              return matches;
+            });
           } catch (e) {
             console.error(e);
             this.results = [];
