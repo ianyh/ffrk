@@ -106,9 +106,7 @@
                 } else if (result[key].length == 0) {
                   return false
                 } else {
-                  value_set = new Set(value);
-                  result_value_set = new Set(result[key]);
-                  matches = result_value_set.isSupersetOf(value_set);
+                  matches = value.every(v => result[key].includes(v));
                 }
               }
               return matches;
