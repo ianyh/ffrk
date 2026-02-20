@@ -101,7 +101,15 @@
             this.results = results.filter(result => {
               let matches = false;
               for (const [key, value] of Object.entries(this.filterFields)) {
-                matches = result[key].some(v => value.includes(v));
+                if (value.length == 0) {
+                  matches = true;
+                } else if (result[key].length == 0) {
+                  return false
+                } else {
+                  value_set = new Set(value);
+                  result_value_set = new Set(result[key]);
+                  matches = result_value_set.isSupersetOf(value_set);
+                }
               }
               return matches;
             });
