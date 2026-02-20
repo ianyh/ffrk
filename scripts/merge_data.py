@@ -66,6 +66,7 @@ def merge_data(sb_holdings, sb_details):
             "character": entry["character"],
             "name": details["name"],
             "name_jp": details["name_jp"],
+            "realm": details["realm"],
             "tier": details["tier"],
             "sb_version": details["sb_version"],
             "description": details.get("description", ""),
