@@ -23,11 +23,13 @@ def load_sb_holding_data(filepath):
     return sbs
 
 def element_string_to_elements(elements_string):
+    elements = []
     if "/" in elements_string:
         elements = elements_string.split("/")
     else:
-        elements = [e.removeprefix("and ").removeprefix("or ").strip() for e in elements_string.split(",")]
-    return [e for e in elements if e != "" and e != "-"]
+        elements = elements_string.split(",")
+    stripped_elements = [e.strip().removeprefix("and ").removeprefix("or ").strip() for e in elements]
+    return [e for e in stripped_elements if e != "" and e != "-"]
 
 def load_sb_details(filepath):
     """Load sb details from CSV"""
