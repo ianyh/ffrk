@@ -29,11 +29,18 @@ def load_sb_details(filepath):
         reader = csv.DictReader(f)
         for row in reader:
             id = row["ID"]
+            elements_text = row["Element"]
+            if "/" in elements_text:
+                elements = elements_text.split("/")
+            else:
+                elements = [e.removeprefix("and ").removeprefix("or ").strip() for e in elements_text.split(",")]
             sbs[id] = {
                 "name": row["Character"],
                 "tier": row["Tier"],
                 "sb_version": row["SB Ver"],
-                "description": row["Effects"]
+                "realm": row["Realm"],
+                "description": row["Effects"],
+                "elements": elements
             }
     return sbs
 
@@ -55,7 +62,8 @@ def merge_data(sb_holdings, sb_details):
             "character": entry["character"],
             "tier": details["tier"],
             "sb_version": details["sb_version"],
-            "description": details.get("description", "")
+            "description": details.get("description", ""),
+            "elements": details.get("elements", [])
         }
         
         merged.append(merged_item)
