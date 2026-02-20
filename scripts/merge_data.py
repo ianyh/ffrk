@@ -22,6 +22,13 @@ def load_sb_holding_data(filepath):
             })
     return sbs
 
+def element_string_to_elements(elements_string):
+    if "/" in elements_string:
+        elements = elements_string.split("/")
+    else:
+        elements = [e.removeprefix("and ").removeprefix("or ").strip() for e in elements_string.split(",")]
+    return [e for e in elements if e != "" and e != "-"]
+
 def load_sb_details(filepath):
     """Load sb details from CSV"""
     sbs = {}
@@ -29,13 +36,10 @@ def load_sb_details(filepath):
         reader = csv.DictReader(f)
         for row in reader:
             id = row["ID"]
-            elements_text = row["Element"]
-            if "/" in elements_text:
-                elements = elements_text.split("/")
-            else:
-                elements = [e.removeprefix("and ").removeprefix("or ").strip() for e in elements_text.split(",")]
+            elements = element_string_to_elements(row["Element"])
             sbs[id] = {
-                "name": row["Character"],
+                "name": row["Name"],
+                "name_jp": row["Name (JP)"],
                 "tier": row["Tier"],
                 "sb_version": row["SB Ver"],
                 "realm": row["Realm"],
@@ -60,6 +64,8 @@ def merge_data(sb_holdings, sb_details):
             "id": id,
             "image_url": f"https://dff.sp.mbga.jp{entry["image_path"]}",
             "character": entry["character"],
+            "name": details["name"],
+            "name_jp": details["name_jp"],
             "tier": details["tier"],
             "sb_version": details["sb_version"],
             "description": details.get("description", ""),
