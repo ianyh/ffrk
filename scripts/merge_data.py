@@ -5,7 +5,10 @@ Outputs a single JSON file for Zola to consume
 """
 import json
 import csv
+import re
 from pathlib import Path
+
+pattern = r'\s*(?:,\s*(?:and|or)\s*|,\s*|/\s*|\s+(?:and|or)\s+)\s*'
 
 def load_sb_holding_data(filepath):
     """Load sb holding data from CSV"""
@@ -22,15 +25,6 @@ def load_sb_holding_data(filepath):
             })
     return sbs
 
-def element_string_to_elements(elements_string):
-    elements = []
-    if "/" in elements_string:
-        elements = elements_string.split("/")
-    else:
-        elements = elements_string.split(",")
-    stripped_elements = [e.strip().removeprefix("and ").removeprefix("or ").strip() for e in elements]
-    return [e for e in stripped_elements if e != "" and e != "-"]
-
 def load_sb_details(filepath):
     """Load sb details from CSV"""
     sbs = {}
@@ -38,8 +32,12 @@ def load_sb_details(filepath):
         reader = csv.DictReader(f)
         for row in reader:
             id = row["ID"]
-            elements = element_string_to_elements(row["Element"])
+            elements_string = row["Element"]
+            elements = re.split(pattern, elements_string) if elements_string not in ["", "-"] else []
             sbs[id] = {
+                "id": id,
+                "image_url": f"https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/${id}/${id}_256.png",
+                "character": row["Character"],
                 "name": row["Name"],
                 "name_jp": row["Name (JP)"],
                 "tier": row["Tier"],
@@ -61,21 +59,7 @@ def merge_data(sb_holdings, sb_details):
         if not details:
             print(f"warning: id not found: {id}")
             missing_detail_ids.add(id)
-        
-        merged_item = {
-            "id": id,
-            "image_url": f"https://dff.sp.mbga.jp{entry["image_path"]}",
-            "character": entry["character"],
-            "name": details["name"],
-            "name_jp": details["name_jp"],
-            "realm": details["realm"],
-            "tier": details["tier"],
-            "sb_version": details["sb_version"],
-            "description": details.get("description", ""),
-            "elements": details.get("elements", [])
-        }
-        
-        merged.append(merged_item)
+        merged.append(details)
     
     if missing_detail_ids:
         print(f"\n⚠ {len(missing_detail_ids)} items missing from details spreadsheet")
@@ -83,12 +67,12 @@ def merge_data(sb_holdings, sb_details):
     return merged
 
 def main():
-    # Paths
     base_path = Path(__file__).parent.parent
     raw_path = base_path / "data" / "raw"
     sb_holding_paths = [raw_path / d for d in ["sbs1.csv", "sbs2.csv", "sbs3.csv"]]
     sb_details_path = base_path / "data" / "raw" / "item_details.csv"
     output_file = base_path / "data" / "items.json"
+    output_file_full = base_path / "data" / "all.json"
     
     # Load data
     print("Loading ownership data...")
@@ -101,6 +85,11 @@ def main():
     sb_details = load_sb_details(sb_details_path)
     print(f"  Loaded {len(sb_details)} sb definitions")
     
+    output_file_full.parent.mkdir(parents=True, exist_ok=True)
+    output_full = {"items": [sb for sb in sb_details.values()]}
+    with open(output_file_full, "w", encoding="utf-8") as f:
+        json.dump(output_full, f, indent=2, ensure_ascii=False)
+
     # Merge
     print("\nMerging data...")
     merged = merge_data(sb_holdings, sb_details)
