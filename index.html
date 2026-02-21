@@ -60,7 +60,7 @@
         store: {},
 
         init() {
-            fetch('/data/all.json')
+            fetch('/all.json')
             .then(r => r.json())
             .then(data => {
               const items = data.items;
