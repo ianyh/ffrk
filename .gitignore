@@ -11,5 +11,9 @@ service-account-key.json
 __pycache__/
 *.pyc
 data/items.json
+data/raw/
 
 static/flexsearch*
+
+# wrangler dev local state / cache
+.wrangler/

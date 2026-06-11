@@ -272,3 +272,169 @@ body {
         transition: none !important;
     }
 }
+
+/* ---- Soul break reference page (view.html) ---- */
+.ref-page {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.ref-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.ref-header h1 {
+    margin: 0;
+    font-size: 1.6em;
+    color: #333;
+}
+
+.ref-back {
+    color: #2e7d32;
+    text-decoration: none;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.ref-back:hover {
+    text-decoration: underline;
+}
+
+.ref-missing {
+    background: #fff3e0;
+    border: 1px solid #ffb74d;
+    color: #e65100;
+    padding: 10px 14px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    font-size: 0.9em;
+}
+
+.ref-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.ref-card {
+    display: flex;
+    gap: 14px;
+    padding: 14px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.ref-card-img {
+    width: 64px;
+    height: 64px;
+    border-radius: 6px;
+    background: #f0f0f0;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.ref-card-body {
+    flex: 1;
+    min-width: 0;
+}
+
+.ref-card-title {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.ref-card-title strong {
+    font-size: 1.1em;
+    color: #333;
+}
+
+.ref-card-name {
+    color: #555;
+}
+
+.ref-card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 6px 0;
+}
+
+.ref-tag {
+    font-size: 0.75em;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background: #e8f5e9;
+    color: #2e7d32;
+}
+
+.ref-tag-el {
+    background: #e3f2fd;
+    color: #1565c0;
+}
+
+.ref-card-desc {
+    font-size: 0.9em;
+    color: #444;
+}
+
+/* ---- Share-link builder (index.html) ---- */
+.share-bar {
+    position: sticky;
+    top: 10px;
+    z-index: 90;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    background: #1b5e20;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.share-bar button {
+    padding: 8px 14px;
+    border: none;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    background: #4CAF50;
+    color: white;
+}
+
+.share-bar button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.share-bar .share-clear {
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.6);
+}
+
+.share-status {
+    font-size: 0.9em;
+    opacity: 0.9;
+}
+
+.result-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.result-row input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    flex-shrink: 0;
+}

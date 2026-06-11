@@ -2,122 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Search</title>
-  <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js" defer></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ffrk.xyz</title>
+  <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-  <div x-data="search()">
-    <form @submit.prevent="runQuery">
-      <input type="text" x-model="query" placeholder="Search...">
-      <select x-model="queryFields.tier">
-        <option value="">Tier</option>
-        <template x-for="opt in options.tier" :key="opt">
-          <option :value="opt" x-text="opt"></option>
-        </template>
-      </select>
-      <select x-model="queryFields.character">
-        <option value="">Character</option>
-        <template x-for="opt in options.characters" :key="opt">
-          <option :value="opt" x-text="opt"></option>
-        </template>
-      </select>
-      <select x-model="queryFields.realm">
-        <option value="">Realm</option>
-        <template x-for="opt in options.realms" :key="opt">
-          <option :value="opt" x-text="opt"></option>
-        </template>
-      </select>
-      <select multiple x-model="filterFields.elements">
-        <template x-for="opt in options.elements" :key="opt">
-          <option :value="opt" x-text="opt"></option>
-        </template>
-      </select>
-      <button type="submit">Search</button>
-    </form>
-
-    <p x-show="results !== null" x-text="`${results?.length ?? 0} results`"></p>
-
-    <ul>
-      <template x-for="item in results ?? []" :key="item.id">
-        <li>
-          <strong x-text="item.character"></strong> —
-          <span x-text="item.sb_version"></span>
-        </li>
-      </template>
-    </ul>
+  <div class="ref-page">
+    <header class="ref-header">
+      <h1>ffrk.xyz</h1>
+      <a class="ref-back" href="/search">Search</a>
+    </header>
+    <p>
+      Permalinks for Final Fantasy Record Keeper soul breaks. Reference one by id
+      — e.g. <a href="/20210006">ffrk.xyz/20210006</a> — or several at once via
+      <code>ffrk.xyz/m/?ids=20210006&amp;ids=20210007</code>.
+    </p>
   </div>
-
-  <script>
-    function search() {
-      return {
-        query: '',
-        results: null,
-        index: null,
-        filterFields: { elements: [] },
-        queryFields: { tier: '', character: '', realm: '' },
-        options: { tier: [], characters: [], realms: [], elements: [] },
-        store: {},
-
-        init() {
-            fetch('data/all.json')
-            .then(r => r.json())
-            .then(data => {
-              const items = data.items;
-              this.options.tier = [...new Set(items.map(item => item.tier))].sort();
-              this.options.characters = [...new Set(items.map(item => item.character))].sort();
-              this.options.realms = [...new Set(items.map(item => item.realm))].sort();
-              this.options.elements = [...new Set(items.flatMap(item => item.elements))].sort();
-              items.forEach(item => this.store[item.id] = item);
-              this.index = lunr(function() {
-                this.ref('id');
-                this.field('realm');
-                this.field('elements');
-                this.field('image_url');
-                this.field('character');
-                this.field('tier');
-                this.field('tier_display')
-                this.field("sb_version");
-                items.forEach(item => this.add(item));
-              });
-            });
-        },
-
-        runQuery() {
-          const queries = [];
-          for (const [key, value] of Object.entries(this.queryFields)) {
-            console.log(`Considering ${key}:${value}`);
-            if (!value.trim()) {
-              continue;
-            }
-            queries.push(`+${key}:${value}`);
-          }
-          query = queries.join(" ");
-          console.log(query);
-
-          try {
-            const hits = this.index.search(query);
-            const results = hits.map(hit => this.store[hit.ref]); 
-            this.results = results.filter(result => {
-              let matches = false;
-              for (const [key, value] of Object.entries(this.filterFields)) {
-                if (value.length == 0) {
-                  matches = true;
-                } else if (result[key].length == 0) {
-                  return false
-                } else {
-                  matches = value.every(v => result[key].includes(v));
-                }
-              }
-              return matches;
-            });
-          } catch (e) {
-            console.error(e);
-            this.results = [];
-          }
-        }
-      }
-    }
-  </script>
 </body>
 </html>

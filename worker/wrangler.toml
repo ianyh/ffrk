@@ -1,0 +1,21 @@
+name = "ffrk-og-embed"
+main = "og-embed.js"
+compatibility_date = "2024-11-01"
+
+# The static origin the Worker fronts. In production it's the live site.
+[vars]
+ORIGIN = "https://ffrk.xyz"
+
+# Single-soul-break permalinks are bare numeric paths (ffrk.xyz/20210006), which
+# can't be expressed as a route glob, so the Worker must front the whole zone and
+# decide per request. Non-permalink paths (/, /search, /static, /data) return an
+# immediate passthrough, so their cost is one trivial invocation each. Requires
+# ffrk.xyz to be on Cloudflare with the record proxied (orange cloud).
+routes = [
+  { pattern = "ffrk.xyz/*", zone_name = "ffrk.xyz" },
+]
+
+# `wrangler dev --env dev` points the Worker at a local static server instead of
+# the live site, so the whole thing runs offline. See scripts/dev.sh.
+[env.dev.vars]
+ORIGIN = "http://localhost:8000"
