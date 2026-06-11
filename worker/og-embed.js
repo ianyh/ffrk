@@ -109,6 +109,21 @@ class TitleRewriter {
   element(title) { title.setInnerContent(this.meta.title); }
 }
 
+class RemoveElement {
+  element(el) { el.remove(); }
+}
+
+// Static fallback tags in view.html that buildMeta re-emits. We strip these
+// before appending the dynamic set so the page has exactly one of each —
+// crawlers disagree on whether the first or last duplicate wins. og:site_name
+// and og:type are left intact (the Worker doesn't re-emit them).
+const OVERRIDDEN_META = [
+  'meta[property="og:title"]',
+  'meta[property="og:description"]',
+  'meta[property="og:image"]',
+  'meta[name="twitter:card"]',
+];
+
 export default {
   async fetch(request, env) {
     const origin = (env && env.ORIGIN) || DEFAULT_ORIGIN;
@@ -133,10 +148,11 @@ export default {
       if (found.length === 0) return new Response(templateResp.body, templateResp);
 
       const meta = buildMeta(found);
-      return new HTMLRewriter()
+      let rewriter = new HTMLRewriter()
         .on('head', new HeadRewriter(meta))
-        .on('title', new TitleRewriter(meta))
-        .transform(templateResp);
+        .on('title', new TitleRewriter(meta));
+      for (const sel of OVERRIDDEN_META) rewriter = rewriter.on(sel, new RemoveElement());
+      return rewriter.transform(templateResp);
     } catch (e) {
       return fetch(toOrigin('/view.html'));
     }
