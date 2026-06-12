@@ -47,7 +47,13 @@ function buildCard(sb) {
   const title = el('div', 'title');
   title.append(el('span', 'character', sb.character), el('span', 'version', sb.sb_version));
   const chips = el('div', 'chips');
-  chips.append(el('span', 'chip', sb.type), el('span', 'chip', sb.target));
+  chips.append(
+    el('span', 'chip', sb.type),
+    el('span', 'chip', sb.target)
+  );
+  if (sb.lensable) {
+    chips.append(el('span', 'chip', 'Lensable'));
+  }
   meta.append(title, el('div', 'name', sb.name), chips);
 
   const header = el('div', 'header');

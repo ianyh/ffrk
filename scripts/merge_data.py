@@ -40,7 +40,8 @@ def load_sb_details(filepath):
                 "description": row["Effects"],
                 "elements": elements,
                 "type": row["Type"],
-                "target": row["Target"]
+                "target": row["Target"],
+                "lensable": row["Anima"] != ""
             }
     return sbs
 
