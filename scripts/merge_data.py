@@ -39,6 +39,8 @@ def load_sb_details(filepath):
                 "realm": row["Realm"],
                 "description": row["Effects"],
                 "elements": elements,
+                "type": row["Type"],
+                "target": row["Target"]
             }
     return sbs
 
