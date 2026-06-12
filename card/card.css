@@ -10,7 +10,7 @@
   --divider: #2d364b;
   --accent: #96a0b4;         /* set per-card from the primary element */
 
-  --icon: 200px;
+  --icon: 140px;
   --radius: 12px;
   --accent-bar: 10px;
   --chip-gap: 12px;
@@ -42,18 +42,22 @@ body { background: #0a0e16; }
   background: var(--accent);
 }
 
-.header { display: flex; gap: 50px; }
+.header { display: flex; gap: 36px; }
 
 .icon {
   flex: none;
   width: var(--icon);
   height: var(--icon);
   border-radius: var(--radius);
-  background: var(--panel);
-  display: grid;
-  place-items: center;
+  display: flex;               /* flex centers an oversized child symmetrically;
+                                  grid's auto row anchors it to the top instead */
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;            /* clip the scaled-up transparent margin */
 }
-.icon img { width: 88%; height: 88%; object-fit: contain; }
+/* Source icons are only ~64% art + ~36% transparent padding, so scale ~1.5x to
+   fill the box with the visible art; the transparent overflow is clipped. */
+.icon img { width: 150%; height: 150%; object-fit: contain; }
 
 .meta { min-width: 0; }       /* min-width:0 lets line-clamp work inside flex */
 
@@ -105,7 +109,7 @@ hr {
   border: 0;
   height: 2px;
   background: var(--divider);
-  margin: 34px 0 28px;
+  margin: 22px 0 20px;
 }
 
 .desc {
@@ -113,7 +117,7 @@ hr {
   font-size: 32px;
   line-height: 1.35;
   display: -webkit-box;
-  -webkit-line-clamp: 5;
+  -webkit-line-clamp: 7;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
