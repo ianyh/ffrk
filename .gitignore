@@ -17,3 +17,6 @@ static/flexsearch*
 
 # wrangler dev local state / cache
 .wrangler/
+
+# generated OG card images
+data/og/

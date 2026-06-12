@@ -1,0 +1,114 @@
+:root {
+  --w: 1200px;
+  --h: 630px;
+  --pad: 40px;
+
+  --bg: #111726;
+  --panel: #1a2235;          /* icon backing + neutral chips */
+  --text: #f0f3fa;
+  --muted: #a5afc3;          /* effect description */
+  --divider: #2d364b;
+  --accent: #96a0b4;         /* set per-card from the primary element */
+
+  --icon: 175px;
+  --radius: 12px;
+  --accent-bar: 10px;
+  --chip-gap: 12px;
+
+  --font: "Arial", system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; margin: 0; }
+body { background: #0a0e16; }
+
+.card {
+  position: relative;
+  width: var(--w);
+  height: var(--h);
+  padding: var(--pad);
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.card::before {              /* left accent stripe */
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: var(--accent-bar);
+  background: var(--accent);
+}
+
+.header { display: flex; gap: 50px; }
+
+.icon {
+  flex: none;
+  width: var(--icon);
+  height: var(--icon);
+  border-radius: var(--radius);
+  background: var(--panel);
+  display: grid;
+  place-items: center;
+}
+.icon img { width: 88%; height: 88%; object-fit: contain; }
+
+.meta { min-width: 0; }       /* min-width:0 lets line-clamp work inside flex */
+
+.character {
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 1.1;
+  margin: 6px 0 16px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;      /* long names truncate with … instead of overflowing */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.chips { display: flex; flex-wrap: wrap; gap: var(--chip-gap); }  /* 7 elements wrap to a 2nd row */
+
+.chip {
+  font-size: 26px;
+  font-weight: 700;
+  padding: 7px 16px;
+  border-radius: 999px;
+  background: var(--panel);
+  color: var(--text);
+  white-space: nowrap;
+}
+.chip.version { background: var(--accent); color: var(--bg); }
+
+hr {
+  border: 0;
+  height: 2px;
+  background: var(--divider);
+  margin: 34px 0 28px;
+}
+
+.desc {
+  color: var(--muted);
+  font-size: 32px;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.footer {
+  margin-top: auto;          /* pin to the bottom regardless of content height */
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 28px;
+}

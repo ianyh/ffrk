@@ -61,8 +61,8 @@ async function loadItems(origin) {
   return store;
 }
 
-function buildMeta(found) {
-  let title, description, image;
+function buildMeta(found, origin) {
+  let title, description;
 
   if (found.length === 1) {
     const sb = found[0];
@@ -72,7 +72,6 @@ function buildMeta(found) {
     ].filter(Boolean);
     const attrLine = attrs.join(' · ');
     description = attrLine ? `${attrLine}\n${sb.description}` : sb.description;
-    image = sb.image_url;
   } else {
     title = `${found.length} soul breaks`;
     description = found
@@ -80,22 +79,19 @@ function buildMeta(found) {
       .map(sb => `${sb.character} ${sb.sb_version} — ${sb.name}`)
       .join('\n');
     if (found.length > 12) description += `\n…and ${found.length - 12} more`;
-    image = found[0].image_url;
   }
 
-  // twitter:card isn't just for Twitter — Discord/Slack read it to pick a large
-  // image vs. a small thumbnail. The other twitter:* tags are redundant with the
-  // og: ones (consumers only fall back to them when og: is absent), so we omit
-  // them and let og:title/description/image do the work.
-  const card = found.length === 1 ? 'summary_large_image' : 'summary';
-  let tags = `
+  // og:image is the generated 1200x630 card (served from R2 at /og/<id>.png).
+  // Multi links reuse the first soul break's card. Since the image is now a rich
+  // info card rather than a bare icon, we use the large layout — twitter:card
+  // (which Discord/Slack read to choose large vs. thumbnail) is set accordingly.
+  // The other twitter:* tags are redundant with the og: ones, so we omit them.
+  const image = `${origin}/og/${found[0].id}.png`;
+  const tags = `
     <meta property="og:title" content="${attr(title)}">
     <meta property="og:description" content="${attr(description)}">
-    <meta name="twitter:card" content="${card}">`;
-  if (image) {
-    tags += `
-    <meta property="og:image" content="${attr(image)}">`;
-  }
+    <meta property="og:image" content="${attr(image)}">
+    <meta name="twitter:card" content="summary_large_image">`;
   return { title, tags };
 }
 
@@ -124,11 +120,30 @@ const OVERRIDDEN_META = [
   'meta[name="twitter:card"]',
 ];
 
+// Serve a generated OG card image from the R2 bucket (binding OG_BUCKET).
+async function serveCard(env, id) {
+  if (!env || !env.OG_BUCKET) return new Response('OG bucket not configured', { status: 404 });
+  const obj = await env.OG_BUCKET.get(`${id}.png`);
+  if (!obj) return new Response('card not found', { status: 404 });
+  return new Response(obj.body, {
+    headers: {
+      'content-type': 'image/png',
+      // Cards are immutable per id; let Cloudflare + crawlers cache hard.
+      'cache-control': 'public, max-age=86400, immutable',
+    },
+  });
+}
+
 export default {
   async fetch(request, env) {
     const origin = (env && env.ORIGIN) || DEFAULT_ORIGIN;
     const toOrigin = path => new URL(path, origin).toString();
     const url = new URL(request.url);
+
+    // Generated card image: /og/<id>.png -> R2.
+    const card = /^\/og\/(\d+)\.png$/.exec(url.pathname);
+    if (card) return serveCard(env, card[1]);
+
     const ids = refIds(url);
 
     // Not a permalink — pass through to the static origin (GitHub Pages, or a
@@ -147,7 +162,7 @@ export default {
       // No known ids: leave the static fallback tags in place.
       if (found.length === 0) return new Response(templateResp.body, templateResp);
 
-      const meta = buildMeta(found);
+      const meta = buildMeta(found, origin);
       let rewriter = new HTMLRewriter()
         .on('head', new HeadRewriter(meta))
         .on('title', new TitleRewriter(meta));

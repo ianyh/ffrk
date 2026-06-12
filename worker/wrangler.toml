@@ -18,6 +18,12 @@ routes = [
 [vars]
 ORIGIN = "https://ffrk.xyz"
 
+# Generated OG card images live in R2 and are served at /og/<id>.png. Create the
+# bucket once with: wrangler r2 bucket create ffrk-og
+[[r2_buckets]]
+binding = "OG_BUCKET"
+bucket_name = "ffrk-og"
+
 # `wrangler dev --env dev` points the Worker at a local static server instead of
 # the live site, so the whole thing runs offline. See scripts/dev.sh.
 [env.dev.vars]
