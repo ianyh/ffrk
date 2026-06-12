@@ -17,7 +17,7 @@
 
       const { card, img } = buildCard(sb);
       document.body.append(card);
-      document.title = `${sb.character} – ${sb.name}`;
+      document.title = `${sb.character} - ${sb.name}`;
 
       await img.decode().catch(() => {});   // wait for the icon before screenshotting
       document.body.classList.add('ready');  // signal for the headless renderer

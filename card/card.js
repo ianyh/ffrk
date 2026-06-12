@@ -9,6 +9,19 @@ const ELEMENT_COLORS = {
   Poison: '#b482c8', NE: '#96a0b4',
 };
 
+// Accent (left bar, character label, version chip) keyed off the soul break
+// type: PHY = physical, NAT = general / non-attack effects, everything else
+// (BLK/WHT/SUM/…) = magic. Normalized for stray case + whitespace in the data.
+const TYPE_COLORS = {
+  PHY: '#ef9259',   // physical
+  NAT: '#74c98a',   // general effects (buffs/heals, not attacks)
+};
+const MAGIC_ACCENT = '#8b9bf5';
+
+function accentFor(type) {
+  return TYPE_COLORS[(type || '').trim().toUpperCase()] || MAGIC_ACCENT;
+}
+
 function el(tag, cls, text) {
   const node = document.createElement(tag);
   if (cls) node.className = cls;
@@ -21,7 +34,7 @@ function el(tag, cls, text) {
 // (not :root) so a gallery can show many cards with different accents.
 function buildCard(sb) {
   const card = el('div', 'card');
-  card.style.setProperty('--accent', ELEMENT_COLORS[sb.elements[0]] || ELEMENT_COLORS.NE);
+  card.style.setProperty('--accent', accentFor(sb.type));
 
   const img = el('img');
   img.src = sb.image_url;
@@ -29,18 +42,29 @@ function buildCard(sb) {
   const icon = el('div', 'icon');
   icon.append(img);
 
+  // Lead with character + version (what people identify by); name is a subtitle.
   const meta = el('div', 'meta');
-  meta.append(el('div', 'character', sb.character), el('div', 'name', sb.name));
-
+  const title = el('div', 'title');
+  title.append(el('span', 'character', sb.character), el('span', 'version', sb.sb_version));
   const chips = el('div', 'chips');
-  chips.append(el('span', 'chip version', sb.sb_version), el('span', 'chip', sb.realm));
-  for (const element of sb.elements) chips.append(el('span', 'chip', element));
-  meta.append(chips);
+  chips.append(el('span', 'chip', sb.type), el('span', 'chip', sb.target));
+  meta.append(title, el('div', 'name', sb.name), chips);
 
   const header = el('div', 'header');
   header.append(icon, meta);
 
-  card.append(header, el('hr'), el('div', 'desc', sb.description));
+  // Element chips live in the footer, colored by element, beside the brand.
+  const footer = el('div', 'footer');
+  const elementChips = el('div', 'chips');
+  for (const element of sb.elements) {
+    const chip = el('span', 'chip', element);
+    chip.style.background = ELEMENT_COLORS[element] || ELEMENT_COLORS.NE;
+    chip.style.color = 'var(--bg)';
+    elementChips.append(chip);
+  }
+  footer.append(elementChips);//, el('span', 'brand', 'ffrk.xyz'));
+
+  card.append(header, el('hr'), el('div', 'desc', sb.description), footer);
   return { card, img };
 }
 
