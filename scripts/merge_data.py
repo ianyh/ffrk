@@ -29,26 +29,28 @@ def extract_statuses(text):
     return out
 
 
-# Tweakable: lowercase words allowed *inside* a multi-word proper noun.
+# Lowercase words allowed *inside* a multi-word proper noun.
 _CONNECTORS = r"of|the|and|in|to"
 def extract_with_prefix(text, prefix):
-    """Find 'prefix: <Name>' references in `text` (bracketed or not), de-duped.
+    """Find 'prefix <Name>' references in `text` — colon optional, bracketed or not.
 
-    <Name> is a proper noun: a capitalized word, optionally followed by more
-    capitalized words / connectors, and an optional trailing (parenthetical).
-    Returns the full normalized references, e.g. 'Zenith Mode: Laguna (Ice)'.
+    Handles 'Spirit Attack:' (colon present) and 'Roaring' (no colon) alike.
+    <Name> is a proper noun: capitalized word(s), lowercase connectors
+    (of/the/and/...), and an optional trailing (parenthetical).
+    Returns the full references as they appear, de-duped.
     """
-    label = prefix.strip().rstrip(":").rstrip()
+    label = re.escape(prefix.strip().rstrip(":").rstrip())
     name = rf"[A-Z][\w'’+\-]*(?: (?:{_CONNECTORS}|[A-Z][\w'’+\-]*))*(?: \([^)]*\))?"
-    pattern = re.compile(re.escape(label) + r"\s*:?\s*(" + name + ")")
+    pattern = re.compile(r"\b" + label + r"[:\s]+(" + name + ")")
 
     seen, out = set(), []
     for m in pattern.finditer(text):
-        ref = f"{label}: {m.group(1)}"   # m.group(1) alone is just the name
+        ref = re.sub(r"\s+", " ", m.group(0)).strip()   # m.group(1) is just the name
         if ref not in seen:
             seen.add(ref)
             out.append(ref)
     return out
+
 
 
 CSV_NAMES = [
@@ -128,9 +130,32 @@ class SheetData():
                         })
                 else:
                     print(f"zenith mode not found: {zenith_mode} {zenith_mode_name}")
+            case "ASB":
+                sb_statuses = extract_statuses(sb["effects"])
+                accel_mode_name = next((status for status in sb_statuses if status.startswith("Accel Mode: ")), None)
+                accel_mode = self.status_with_name(accel_mode_name)
+                if accel_mode is not None:
+                    sections.append({
+                        "name": accel_mode["Common Name"],
+                        "text": accel_mode["Effects"]
+                    })
+                    chase = self.other_with_source(accel_mode_name)
+                    if chase:
+                        sections.append({
+                            "name": chase["Name"],
+                            "text": chase["Effects"]
+                        })
+                else:
+                    print(f"accel mode not found: {accel_mode} {accel_mode_name}")
 
 
         return sections
+
+    def other_with_source(self, source):
+        return next((other for other in self.readers["other"] if other["Source"] == source), None)
+    
+    def status_with_name(self, name):
+        return next((status for status in self.readers["status"] if status["Common Name"] == name), None)
 
 
 def load_sb_details(filepath):

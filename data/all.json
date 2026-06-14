@@ -746,6 +746,14 @@
         {
           "name": "Entry",
           "text": "Five single ranged attacks (? or ? each), grants [Damage Cap +10000], [Accel Mode: Tyro], and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Tyro",
+          "text": "Support abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Tyro after using Support abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Tyro",
+          "text": "Six single ranged attacks (? or ? each), grants [Buff Prismatic 10% (5s)] to the user"
         }
       ]
     },
@@ -8888,6 +8896,14 @@
         {
           "name": "Entry",
           "text": "Five Single Attacks (2.60 each), grants [Accel Mode], [Accel Mode: Meia (Water)], [Instant ATB 1] and [Damage Cap +10000] to the user"
+        },
+        {
+          "name": "Accel Mode: Meia (Water)",
+          "text": "Water abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Meia after using Water abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Meia",
+          "text": "Six single attacks (1.50 each), grants [Buff Water 10% (5s)] to the user"
         }
       ]
     },
@@ -10590,6 +10606,10 @@
         {
           "name": "Entry",
           "text": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Firion (Holy, Fire)], and [Instant ATB 1] to the user\nAccel Mode: Firion (Holy, Fire): Holy/Fire Ability High Boost & chases 1/2/3+ Holy/Fire abilities with Holy/Fire Ability Damage +10/20/30% to user"
+        },
+        {
+          "name": "Accel Mode: Firion (Holy, Fire)",
+          "text": "Holy or Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, 10/20/30% more damage for Holy or Fire abilities after using 1/2/3, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -11244,6 +11264,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks (2.60 each). Grants [Accel Mode], [Damage Cap +10000], [Accel Mode: Maria], [Instant ATB 1] to user."
+        },
+        {
+          "name": "Accel Mode: Maria",
+          "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, cast speed x2.00 for Earth abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -11810,6 +11834,10 @@
         {
           "name": "Entry",
           "text": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Guy], and [Instant ATB 1] to the user\nAccel Mode: Guy: Earth Ability High Boost & Quick Earth"
+        },
+        {
+          "name": "Accel Mode: Guy",
+          "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, cast speed x2.00 for Earth abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -14437,6 +14465,10 @@
         {
           "name": "Entry",
           "text": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Leila (Water)], and [Instant ATB 1] to the user\nAccel Mode: Leila (Water): Water Ability High Boost & chases Water abilities with 8 single attacks (0.60 each)"
+        },
+        {
+          "name": "Accel Mode: Leila (Water)",
+          "text": "Water abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Leila (Water)] after using Water abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -15118,6 +15150,10 @@
         {
           "name": "Entry",
           "text": "5 single ranged jump attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Ricard (Lightning, Wind, Water, Dark)], and [Instant ATB 1] to the user\nAccel Mode: Ricard (Lightning, Wind, Water, Dark): Wind/Lightning/Water/Dark Ability High Boost & chases a Wind/Lightning/Water/Dark ability with [Dualcast Dragoon 1] to all allies (max 1 chase)"
+        },
+        {
+          "name": "Accel Mode: Ricard (Lightning, Wind, Water, Dark)",
+          "text": "Wind, Lightning, Water or Dark abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Richard (Wind/Lightning/Water/Dark)] after using Wind, Lightning, Water or Dark abilities (max 1), removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -16684,6 +16720,14 @@
         {
           "name": "Entry",
           "text": "Five single hits (2.60 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Emperor (Earth, Wind, Dark)] and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Emperor (Earth, Wind, Dark)",
+          "text": "Dark/Earth/Wind abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Emperor after using Dark/Earth/Wind abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Emperor",
+          "text": "Six single attacks (1.50 each), grants [Buff Dark 10% (5s)], [Buff Earth 10% (5s)], [Buff Wind 10% (5s)] to the user"
         }
       ]
     },
@@ -20180,6 +20224,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks (0.80 each). Grants [Accel Mode], [Damage Cap +10000], [Accel Mode: Ingus], [Instant ATB 1] to user."
+        },
+        {
+          "name": "Accel Mode: Ingus",
+          "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, instant cast for Earth abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -25332,6 +25380,14 @@
         {
           "name": "Entry",
           "text": "Five single hybrid attacks (0.80 or 2.70 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Cecil (Paladin) (Holy)] and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Cecil (Paladin) (Holy)",
+          "text": "Holy abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Cecil (Paladin) after using Holy  abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Cecil (Paladin)",
+          "text": "Six single hybrid attacks (0.60 or 1.60 each), grants [Buff Holy 10% (5s)] to the user"
         }
       ]
     },
@@ -33233,6 +33289,14 @@
         {
           "name": "Entry",
           "text": "Five single attacks (2.60 each), grants [Damage Cap +10000], [Accel Mode: Golbez], and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Golbez",
+          "text": "Dark abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Golbez after using Dark abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Golbez",
+          "text": "Four single attacks (1.50 each), grants [Buff Dark 10% (5s)] to all allies"
         }
       ]
     },
@@ -41358,6 +41422,14 @@
         {
           "name": "Entry",
           "text": "Grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Faris (Fire, Wind)] and [Instant ATB 1]"
+        },
+        {
+          "name": "Accel Mode: Faris (Fire, Wind)",
+          "text": "Wind/Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Faris after using Wind/Fire abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Faris",
+          "text": "Six single attacks (0.60 each),  causes [ATK and DEF -50% (15s)] every 2n+1 uses, causes [DEF -50% (15s)] every 2n uses"
         }
       ]
     },
@@ -42007,6 +42079,10 @@
         {
           "name": "Entry",
           "text": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Dorgann], and [Instant ATB 1] to the user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 4 single-target Earth/NE physical attacks + minor Imperil Earth for 5 seconds"
+        },
+        {
+          "name": "Accel Mode: Dorgann",
+          "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Dorgann] after using Earth abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -44351,6 +44427,10 @@
         {
           "name": "Entry",
           "text": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Xezat], and [Instant ATB 1] to the user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with Earth Damage +10% for 5 seconds and Quick Cast 1 to party"
+        },
+        {
+          "name": "Accel Mode: Xezat",
+          "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Xezat] after using Earth abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -44960,6 +45040,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks (0.80 each). Grants [Accel Mode], [Damage Cap +10000], [Accel Mode: Kelger], [Instant ATB 1] to user."
+        },
+        {
+          "name": "Accel Mode: Kelger",
+          "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Kelger] after using Earth abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -48079,6 +48163,14 @@
         {
           "name": "Entry",
           "text": "Five single attacks (0.80 each), grants [Instant ATB 1], [Damage Cap +10000], [Accel Mode], and [Accel Mode: Celes (Ice)] to the user"
+        },
+        {
+          "name": "Accel Mode: Celes (Ice)",
+          "text": "Ice abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Celes (Ice) after using Ice abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Celes (Ice)",
+          "text": "Six single (0.60 each), grants [Buff Ice 10% (5s)] to all allies"
         }
       ]
     },
@@ -48157,6 +48249,10 @@
         {
           "name": "Entry",
           "text": "5 single attacks, grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Celes (Holy)], and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Celes (Holy)",
+          "text": "Holy abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, and instant cast speed for Holy abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -48791,6 +48887,10 @@
         {
           "name": "Entry",
           "text": "Five single ranged jump attacks (0.80 each). Grants [Accel Mode], [Accel Mode: Mog (Dragoon)], [Quick Cast], [Instant ATB 1] to user."
+        },
+        {
+          "name": "Accel Mode: Mog (Dragoon)",
+          "text": "Casts [Roaring Mog] after using Dragoon or Dancer abilities (max 4), removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -55952,6 +56052,10 @@
         {
           "name": "Entry",
           "text": "Five single-target Dark/NE magical attacks (2.60 each), grants [Instant ATB 1], [Damage Cap +10000], & [Accel Mode: Kefka (Dark)] to the user"
+        },
+        {
+          "name": "Accel Mode: Kefka (Dark)",
+          "text": "Dark abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, cast speed x2.00 for Dark abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -56133,6 +56237,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks at Cap Break Level 1, [Accel Mode: Kefka (Poison)], [Instant ATB 1] to user\nAccel Mode: Poison Ability High Boost & chases Poison abilities with 8 single-target Poison/NE magic attacks"
+        },
+        {
+          "name": "Accel Mode: Kefka (Poison)",
+          "text": "Poison abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Kefka (Poison)] after using Poison abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -61118,6 +61226,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks (2.60 each). Grants [Accel Mode], [Damage Cap +10000], [Accel Mode: Red XIII], [Instant ATB 1] to user."
+        },
+        {
+          "name": "Accel Mode: Red XIII",
+          "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Red XIII] after using Earth abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -62644,6 +62756,14 @@
         {
           "name": "Entry",
           "text": "Five single attacks (2.60 each). Grants [Accel Mode], [Accel Mode: Cait Sith], [Quick Cast], [Instant ATB 1] to user."
+        },
+        {
+          "name": "Accel Mode: Cait Sith",
+          "text": "Casts [Roaring Cait Sith] after using Bard or Dancer abilities (max 4), removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Cait Sith",
+          "text": "Grants [Sorcery +20% Boost 1] to all allies."
         }
       ]
     },
@@ -69928,6 +70048,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Genesis], and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Genesis",
+          "text": "Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, and instant cast speed for Fire abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -78070,6 +78194,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks (0.80 each), Grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Raijin], and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Raijin",
+          "text": "Lightning abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, and instant cast speed for Lightning abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -82443,6 +82571,10 @@
         {
           "name": "Entry",
           "text": "Five single-target Lightning/NE summon magical attacks (2.60 each), grants [Instant ATB 1], Damage Cap +10000] & [Accel Mode: Garnet (Lightning)] to the user"
+        },
+        {
+          "name": "Accel Mode: Garnet (Lightning)",
+          "text": "Lightning abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Garnet (Lightning)] after using Lightning abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -85304,6 +85436,10 @@
         {
           "name": "Entry",
           "text": "5 single ranged jump attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Freya (Wind)], [Instant ATB 1] to the user\nAccel Mode: Freya (Wind): Wind Ability High Boost & chases Wind abilities with 2 single ranged jump attacks (0.60 each) and [Buff Prismatic 10% (5s)] to all allies"
+        },
+        {
+          "name": "Accel Mode: Freya (Wind)",
+          "text": "Wind abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Freya (Wind)] after using Wind abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -87116,6 +87252,10 @@
         {
           "name": "Entry",
           "text": "5 single-target physical attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Amarant], and [Instant ATB 1] to the user\n[Accel Mode: Amarant]: Fire Ability High Boost & chases 1/2/3+ Fire abilities with Fire Ability Damage +10/20/30%"
+        },
+        {
+          "name": "Accel Mode: Amarant",
+          "text": "Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, 10/20/30% more damage for Fire abilities after using 1/2/3, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -88575,6 +88715,10 @@
         {
           "name": "Entry",
           "text": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Accel Mode: Kuja (Dark)], and [Instant ATB 1] to the user\nAccel Mode: Kuja (Dark): Dark Ability High Boost & chases Dark abilities with 6 single attacks (1.50 each) and [Buff Dark 10% (5s)] to the user"
+        },
+        {
+          "name": "Accel Mode: Kuja (Dark)",
+          "text": "Dark abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Kuja (Dark)] after using Dark abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -100066,6 +100210,10 @@
         {
           "name": "Entry",
           "text": "Five single-target Water/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lion (Water)] to the user"
+        },
+        {
+          "name": "Accel Mode: Lion (Water)",
+          "text": "Water abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Lion (Water)] after using Water abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -109394,11 +109542,15 @@
       "type": "PHY",
       "target": "Single enemy",
       "lensable": false,
-      "effects": "Five single-target Lightning/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lightining (Lightning)] to the user",
+      "effects": "Five single-target Lightning/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lightning (Lightning)] to the user",
       "description": [
         {
           "name": "Entry",
-          "text": "Five single-target Lightning/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lightining (Lightning)] to the user"
+          "text": "Five single-target Lightning/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lightning (Lightning)] to the user"
+        },
+        {
+          "name": "Accel Mode: Lightning (Lightning)",
+          "text": "Lightning abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring  Lightning (Lightning)] after using Lightning abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -110414,6 +110566,14 @@
         {
           "name": "Entry",
           "text": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Snow (Ice)], and [Instant ATB 1] to the user\n"
+        },
+        {
+          "name": "Accel Mode: Snow (Ice)",
+          "text": "Ice abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Snow (Max 6) after using Ice abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Snow",
+          "text": "Six single attacks (0.60 each), grants [20% Damage Reduction Barrier 1] to the user"
         }
       ]
     },
@@ -115424,6 +115584,10 @@
         {
           "name": "Entry",
           "text": "Five single-target ranged Water/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Noel (Water)] to the user"
+        },
+        {
+          "name": "Accel Mode: Noel (Water)",
+          "text": "Water abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, 10/20/30% more damage for Water abilities after using 1/2/3, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -120526,6 +120690,10 @@
         {
           "name": "Entry",
           "text": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Accel Mode: Ysayle (Ice)], and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Ysayle (Ice)",
+          "text": "Ice abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Ysayle after using Ice abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -123361,6 +123529,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks (0.80 each). Grants [Accel Mode], [Damage Cap +10000], [Accel Mode: Gladiolus (Earth)], [Instant ATB 1] to user."
+        },
+        {
+          "name": "Accel Mode: Gladiolus (Earth)",
+          "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, cast speed x2.00 for Earth abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -125206,6 +125378,69 @@
       ]
     },
     {
+      "id": "22980023",
+      "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980023/22980023_256.png",
+      "character": "Aranea",
+      "name": "War-Awoken Alliance Leap (Weapon Skill)",
+      "name_jp": "戦醒アライアンスリープ",
+      "tier": "TASB",
+      "sb_version": "TASB1",
+      "realm": "XV",
+      "elements": [],
+      "type": "",
+      "target": "",
+      "lensable": false,
+      "effects": "",
+      "description": [
+        {
+          "name": "Entry",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "22980024",
+      "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980024/22980024_256.png",
+      "character": "Aranea",
+      "name": "Burst Break: Aranea (Break Arte)",
+      "name_jp": "烈破・アラネア",
+      "tier": "Buster",
+      "sb_version": "Buster1",
+      "realm": "XV",
+      "elements": [],
+      "type": "",
+      "target": "",
+      "lensable": false,
+      "effects": "",
+      "description": [
+        {
+          "name": "Entry",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "22980025",
+      "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980025/22980025_256.png",
+      "character": "Aranea",
+      "name": "Soul Drive: Aranea",
+      "name_jp": "SD・アラネア",
+      "tier": "LBSD",
+      "sb_version": "LBSD1",
+      "realm": "XV",
+      "elements": [],
+      "type": "",
+      "target": "",
+      "lensable": false,
+      "effects": "",
+      "description": [
+        {
+          "name": "Entry",
+          "text": ""
+        }
+      ]
+    },
+    {
       "id": "23420001",
       "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420001/23420001_256.png",
       "character": "Cor",
@@ -125626,6 +125861,48 @@
         {
           "name": "Entry",
           "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode"
+        }
+      ]
+    },
+    {
+      "id": "23420023",
+      "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420023/23420023_256.png",
+      "character": "Cor",
+      "name": "War-Awoken Master and Apprentice (Weapon Skill)",
+      "name_jp": "戦醒師弟の絆",
+      "tier": "TASB",
+      "sb_version": "TASB1",
+      "realm": "XV",
+      "elements": [],
+      "type": "",
+      "target": "",
+      "lensable": false,
+      "effects": "",
+      "description": [
+        {
+          "name": "Entry",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "23420024",
+      "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420024/23420024_256.png",
+      "character": "Cor",
+      "name": "Burst Break: Cor (Break Arte)",
+      "name_jp": "烈破・コル",
+      "tier": "Buster",
+      "sb_version": "Buster1",
+      "realm": "XV",
+      "elements": [],
+      "type": "",
+      "target": "",
+      "lensable": false,
+      "effects": "",
+      "description": [
+        {
+          "name": "Entry",
+          "text": ""
         }
       ]
     },
@@ -126070,6 +126347,69 @@
         {
           "name": "Entry",
           "text": "Instant ATB 1 & Dual Awoken Water God Mode II to user\nDual Awoken Water God Mode II: Water Ability Boost, Instant Water & chases a Water ability with Dualcast Water 1 to party and Quick ATB 1 to user"
+        }
+      ]
+    },
+    {
+      "id": "23460026",
+      "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460026/23460026_256.png",
+      "character": "Lunafreya",
+      "name": "War-Awoken Final Duty (Weapon Skill)",
+      "name_jp": "戦醒最期の使命",
+      "tier": "TASB",
+      "sb_version": "TASB1",
+      "realm": "XV",
+      "elements": [],
+      "type": "",
+      "target": "",
+      "lensable": false,
+      "effects": "",
+      "description": [
+        {
+          "name": "Entry",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "23460027",
+      "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460027/23460027_256.png",
+      "character": "Lunafreya",
+      "name": "Burst Break: Lunafreya (Break Arte)",
+      "name_jp": "烈破・ルナフレーナ",
+      "tier": "Buster",
+      "sb_version": "Buster1",
+      "realm": "XV",
+      "elements": [],
+      "type": "",
+      "target": "",
+      "lensable": false,
+      "effects": "",
+      "description": [
+        {
+          "name": "Entry",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "23460028",
+      "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460028/23460028_256.png",
+      "character": "Lunafreya",
+      "name": "Soul Drive: Lunafreya",
+      "name_jp": "SD・ルナフレーナ",
+      "tier": "LBSD",
+      "sb_version": "LBSD1",
+      "realm": "XV",
+      "elements": [],
+      "type": "",
+      "target": "",
+      "lensable": false,
+      "effects": "",
+      "description": [
+        {
+          "name": "Entry",
+          "text": ""
         }
       ]
     },
@@ -127014,6 +127354,10 @@
         {
           "name": "Entry",
           "text": "Five single attacks (0.80 each), grants [Damage Cap +30000], [Accel Mode: Clive], and [Instant ATB 1] to the user\nAccel Mode: Clive: Fire Ability High Boost & chases Fire abilities with 6 single attacks (0.60 each)"
+        },
+        {
+          "name": "Accel Mode: Clive",
+          "text": "Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Clive] after using Fire abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -132187,6 +132531,14 @@
         {
           "name": "Entry",
           "text": "Five single attacks (0.80 each). Grants [Accel Mode], [Damage Cap +10000], [Accel Mode: Marche], [Instant ATB 1] to user. Grants [Last Stand] to all allies."
+        },
+        {
+          "name": "Accel Mode: Marche",
+          "text": "Holy abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Marche] after using Holy abilities, removed if the character hasn't [Accel Mode]"
+        },
+        {
+          "name": "Roaring Marche",
+          "text": "Four single attacks (0.60 each), heals all allies for 1500 HP"
         }
       ]
     },
@@ -134407,6 +134759,10 @@
         {
           "name": "Entry",
           "text": "5 single ranged jump attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Nine (Wind)], and [Instant ATB 1] to the user\nAccel Mode: Nine (Window): Wind Ability High Boost & chases Wind abilities with 2 single ranged jump attacks (0.60 each) and [Imperil Prismatic 10% (5s)]"
+        },
+        {
+          "name": "Accel Mode: Nine (Wind)",
+          "text": "Wind abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Nine (Wind)] after using Wind abilities, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
@@ -142990,6 +143346,10 @@
         {
           "name": "Entry",
           "text": "Five single hybrid attacks (? each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Lann], and [Instant ATB 1] to the user"
+        },
+        {
+          "name": "Accel Mode: Lann",
+          "text": "Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, chases 1/2/3+ Fire abilities with [Fire Ability +10% Boost 1]/[Fire Ability +20% Boost 1]/[Fire Ability +30% Boost 1] to user, removed if the character hasn't [Accel Mode]"
         }
       ]
     },
