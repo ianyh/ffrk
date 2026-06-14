@@ -34,15 +34,22 @@ def download_sheet_as_csv(spreadsheet_id, gid, output_file):
 
 def main():
     SPREADSHEET_ID = "1f8OJIQhpycljDQ8QNDk_va1GJ1u7RVoMaNjFcHH0LKk"
-    GID = "344457459"
+    GIDS = {
+        "sbs": 344457459,
+        "other": 2001933731,
+        "status": 1899148923,
+        "cf_commands": 712869111,
+        "ua_abilities": 1801274757
+    }
+
+    for name, gid in GIDS.items():
+        base_path = Path(__file__).parent.parent
+        output_file = base_path / "data" / "raw" / f"{name}.csv"
+        
+        success = download_sheet_as_csv(SPREADSHEET_ID, gid, output_file)
     
-    base_path = Path(__file__).parent.parent
-    output_file = base_path / "data" / "raw" / "item_details.csv"
-    
-    success = download_sheet_as_csv(SPREADSHEET_ID, GID, output_file)
-    
-    if not success:
-        exit(1)
+        if not success:
+            exit(1)
 
 if __name__ == "__main__":
     main()
