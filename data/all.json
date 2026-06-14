@@ -577,16 +577,16 @@
           "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [Conditional Attach Element] based on entry element damage, [Damage Cap +10000], [Wisdom of Creation Mode], [Zenith Mode] and [Zenith Mode: Tyro] to the user"
         },
         {
-          "name": "Spirit Attack: Tyro",
-          "text": "Four single hybrid ranged attacks (0.75 or 2.41 each), grants [Quick Cast 1] to all allies, [Prismatic +30% Boost 1] to all allies ELEMENT IS SELECTED BASED ON if the user has Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison"
-        },
-        {
           "name": "Judgment Grimoire+",
           "text": "Three single ranged hybrid attacks (1.10 or 3.60)"
         },
         {
           "name": "Acicular Grimoire+",
           "text": "Five single ranged hybrid attacks (1.20/1.25 or 3.80/3.95) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Tyro",
+          "text": "Four single hybrid ranged attacks (0.75 or 2.41 each), grants [Quick Cast 1] to all allies, [Prismatic +30% Boost 1] to all allies ELEMENT IS SELECTED BASED ON if the user has Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison"
         }
       ]
     },
@@ -1736,12 +1736,12 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Elarra] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Elarra] to the user"
         },
         {
-          "name": "Spirit Attack: Elarra",
-          "text": "Restores HP (25) to all allies"
-        },
-        {
           "name": "Fabula Heal+",
           "text": "Restores HP (25), restores an ability use and grants [Quick Cast 1] every second use"
+        },
+        {
+          "name": "Spirit Attack: Elarra",
+          "text": "Restores HP (25) to all allies"
         }
       ]
     },
@@ -2072,16 +2072,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Biggs (Dark, Earth)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Biggs (Earth, Dark)",
-          "text": "Grants [100% Critical 3],[Quick Cast 3]/[100% Critical 3],[Damage Cap +10000 3],[Instant Cast 3] to the user if 0-3/4+ Core/Beyond allies are alive\n"
-        },
-        {
           "name": "Boulder Blow+",
           "text": "One single attack (7.50) capped at 99999"
         },
         {
           "name": "Unshackled Power+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Biggs (Earth, Dark)",
+          "text": "Grants [100% Critical 3],[Quick Cast 3]/[100% Critical 3],[Damage Cap +10000 3],[Instant Cast 3] to the user if 0-3/4+ Core/Beyond allies are alive\n"
         }
       ]
     },
@@ -2534,16 +2534,16 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Wedge]"
         },
         {
-          "name": "Spirit Attack: Wedge",
-          "text": "Grants [Weakness +30% Boost 3] to the user/party if there are 0-2/3 Thief members in the party, and Six single hybrid attacks (0.6/1.5 each) and grants [Weakness +30% Boost 3] to all allies if there are 4+ Thief members in the party"
-        },
-        {
           "name": "Trickster+",
           "text": "Six single ranged hybrid attacks (1.20/1.25 or 3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses, removes negative effects from all allies every four uses"
         },
         {
           "name": "Star Drive+",
           "text": "Seven single ranged hybrid attacks (1.10 or 3.60 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Wedge",
+          "text": "Grants [Weakness +30% Boost 3] to the user/party if there are 0-2/3 Thief members in the party, and Six single hybrid attacks (0.6/1.5 each) and grants [Weakness +30% Boost 3] to all allies if there are 4+ Thief members in the party"
         }
       ]
     },
@@ -3555,10 +3555,6 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Conditional Attach Element 2 with Stacking From Party], [Zenith Mode], [Zenith Mode: Dr. Mog (Prismatic)], [Wisdom of Creation Mode] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Dr. Mog (Prismatic)",
-          "text": "Causes [Imperil Prismatic 10% (15s)]"
-        },
-        {
           "name": "Dr. Mog's Secret+",
           "text": "Four single attacks (3.60/3.75 each) capped at 9999/19999 after 0-2/3+ uses"
         },
@@ -3569,6 +3565,10 @@
         {
           "name": "Dr. Mog's Water Vortex+",
           "text": "Six single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Dr. Mog (Prismatic)",
+          "text": "Causes [Imperil Prismatic 10% (15s)]"
         }
       ]
     },
@@ -5480,16 +5480,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Garland (Dark)] to the user"
         },
         {
-          "name": "Spirit Attack: Garland (Dark)",
-          "text": "Grants [100% Critical 3] and [Deadly Strikes +10% 3] to all allies"
-        },
-        {
           "name": "Chaos Bringer+",
           "text": "Five single attacks  (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants [ATK +30%, DEF and RES -30% (8s)] to the user"
         },
         {
           "name": "Soul of Chaos+",
           "text": "Six single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Garland (Dark)",
+          "text": "Grants [100% Critical 3] and [Deadly Strikes +10% 3] to all allies"
         }
       ]
     },
@@ -6530,12 +6530,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 2 with Stacking]/[Attach Holy 2 with Stacking] based on if entry damage was Earth/Holy damage, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Wol (Earth, Holy)] to the user"
         },
         {
-          "name": "Spirit Guidance: Wol (Earth/Holy)",
-          "text": "Causes [Imperil Earth 10% (15s)], [Imperil Holy 10% (15s)]"
-        },
-        {
           "name": "Dancing Edge+",
           "text": "Five single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Earth 10% (5s)] and [Imperil Holy 10% (5s)]"
+        },
+        {
+          "name": "Spirit Guidance: Wol (Earth/Holy)",
+          "text": "Causes [Imperil Earth 10% (15s)], [Imperil Holy 10% (15s)]"
         }
       ]
     },
@@ -7045,12 +7045,12 @@
           "text": "Grants [HP Stock (6000)], [High Quick Cast 3], [Buff Prismatic 30% (15s)] and [Natural Cure: Echo] to all allies, Grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Echo] to the user"
         },
         {
-          "name": "Spirit Attack: Echo",
-          "text": "Restores HP (25) to all allies"
-        },
-        {
           "name": "Echo's Prize+",
           "text": "Restores 3000 HP to all allies"
+        },
+        {
+          "name": "Spirit Attack: Echo",
+          "text": "Restores HP (25) to all allies"
         }
       ]
     },
@@ -7573,12 +7573,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] based on if entry damage was Earth/Fire/Lightning damage, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Master (Earth, Fire, Lightning)]"
         },
         {
-          "name": "Spirit Attack: Master (Fire, Lightning, Earth)",
-          "text": "Grants [Instant Cast 3], [Deadly Strikes +20% 3], and [Damage Cap +10000 3] to the user if 4+ Monk allies are alive, grants [Instant Cast 3] and [Deadly Strikes +20% 3] to the user if 0-3 Monk allies are alive"
-        },
-        {
           "name": "Fighting Frenzy+",
           "text": "Five single attacks (1.25 each) capped at 9999/19999 after 0-2/3+ uses, causes [DEF, RES and MND -15% (8s)] to the user"
+        },
+        {
+          "name": "Spirit Attack: Master (Fire, Lightning, Earth)",
+          "text": "Grants [Instant Cast 3], [Deadly Strikes +20% 3], and [Damage Cap +10000 3] to the user if 4+ Monk allies are alive, grants [Instant Cast 3] and [Deadly Strikes +20% 3] to the user if 0-3 Monk allies are alive"
         }
       ]
     },
@@ -8013,12 +8013,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] based on if entry damage was Fire/Ice/Lightning, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Matoya (Fire, Ice, Lightning)] to the user"
         },
         {
-          "name": "Spirit Guidance: Matoya (Fire/Ice/Lightning)",
-          "text": "Grants [(Fire/Ice/Lightning) Ability Quick Cast 2], [Damage Cap +10000 2], [(Fire/Ice/Lightning) Ability +30% Boost 2] to the user if 4+ FF1 allies are alive, grants [(Fire/Ice/Lightning) Ability +30% Boost 2] to the user if 0-3 FF1 allies are alive"
-        },
-        {
           "name": "Inner Eye+",
           "text": "Six single attacks (3.10 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Guidance: Matoya (Fire/Ice/Lightning)",
+          "text": "Grants [(Fire/Ice/Lightning) Ability Quick Cast 2], [Damage Cap +10000 2], [(Fire/Ice/Lightning) Ability +30% Boost 2] to the user if 4+ FF1 allies are alive, grants [(Fire/Ice/Lightning) Ability +30% Boost 2] to the user if 0-3 FF1 allies are alive"
         }
       ]
     },
@@ -8835,12 +8835,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Meia] to the user"
         },
         {
-          "name": "Spirit Attack: Meia",
-          "text": "One single attack (7.50) capped at 99999, grants [Water Ability +30% Boost 3] to the user"
-        },
-        {
           "name": "Pallida Mors+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Meia",
+          "text": "One single attack (7.50) capped at 99999, grants [Water Ability +30% Boost 3] to the user"
         }
       ]
     },
@@ -9402,12 +9402,12 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] to the user if the entry damage was Wind/Poison, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Thief (I)]"
         },
         {
-          "name": "Spirit Attack: Thief (I)",
-          "text": "Grants [Dualcast Thief 1], [Thief Instant Cast 1] and [Thief +30% Boost 1] to the user/party if there are 0-3/4+ Thief members"
-        },
-        {
           "name": "Invisibreak+",
           "text": "Six single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Thief (I)",
+          "text": "Grants [Dualcast Thief 1], [Thief Instant Cast 1] and [Thief +30% Boost 1] to the user/party if there are 0-3/4+ Thief members"
         }
       ]
     },
@@ -11121,12 +11121,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Maria (Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Maria (Earth)",
-          "text": "Grants [Earth Ability Instant Cast 3] and [Buff Earth 20% (15s)] to the user"
-        },
-        {
           "name": "Kerplode VIII+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Maria (Earth)",
+          "text": "Grants [Earth Ability Instant Cast 3] and [Buff Earth 20% (15s)] to the user"
         }
       ]
     },
@@ -11708,12 +11708,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Guy (Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Guy (Earth)",
-          "text": "Causes [Imperil Earth 10% (15s)]"
-        },
-        {
           "name": "Gigantbreak+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Earth 10% (5s)]"
+        },
+        {
+          "name": "Spirit Attack: Guy (Earth)",
+          "text": "Causes [Imperil Earth 10% (15s)]"
         }
       ]
     },
@@ -12384,12 +12384,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Leon] to the user"
         },
         {
-          "name": "Spirit Attack: Leon",
-          "text": "Grants [PHY +15% Boost 3] to all allies/ [Damage +30% Boost 3] to all II allies with 0-3/4+ II allies in the party"
-        },
-        {
           "name": "Darkness Breaker+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Leon",
+          "text": "Grants [PHY +15% Boost 3] to all allies/ [Damage +30% Boost 3] to all II allies with 0-3/4+ II allies in the party"
         }
       ]
     },
@@ -13023,16 +13023,16 @@
           "text": "Seven single attacks (3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Zenith Mode], [Zenith Mode: Minwu (Holy)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Minwu (Holy)",
-          "text": "Grants [Buff Holy 20% (15s)] and [MND +50% (8s)] to the user"
-        },
-        {
           "name": "Holy VIII+",
           "text": "Six single attacks (3.87/4.02 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Seal of Heaven+",
           "text": "Three single attacks (3.67), causes [Imperil Holy 10% (15s)] every second activation"
+        },
+        {
+          "name": "Spirit Attack: Minwu (Holy)",
+          "text": "Grants [Buff Holy 20% (15s)] and [MND +50% (8s)] to the user"
         }
       ]
     },
@@ -13653,16 +13653,16 @@
           "text": "Causes [Imperil Prismatic 20% (25s)], grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)] and [Quick Cast] to all allies, grants [Zenith Mode] and [Zenith Mode: Gordon] to the user"
         },
         {
-          "name": "Spirit Attack: Gordon",
-          "text": "Causes [Imperil Prismatic 10% (15s)]"
-        },
-        {
           "name": "Mark of Resolve+",
           "text": "Transfers the user's Soul Break points to the target, grants [Instant Cast 1]"
         },
         {
           "name": "Flames of Kashuan+",
           "text": "4 single hybrid attacks (1.10 or 3.60 each), causes [DEF -50% (8s)] or [RES -50% (8s)] depending on higher stat of ATK/MAG"
+        },
+        {
+          "name": "Spirit Attack: Gordon",
+          "text": "Causes [Imperil Prismatic 10% (15s)]"
         }
       ]
     },
@@ -14258,12 +14258,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Poison 3 with Stacking], [Damage Cap +10000], and [Zenith Mode], [Zenith Mode: Leila (Poison)] to the user"
         },
         {
-          "name": "Spirit Attack: Leila (Poison)",
-          "text": "Grants [100% Critical 3] and [Deadly Strikes +20% 3] to the user"
-        },
-        {
           "name": "Pirate Anchor+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, causes [ATK and MAG -50% (8s)] every second activation"
+        },
+        {
+          "name": "Spirit Attack: Leila (Poison)",
+          "text": "Grants [100% Critical 3] and [Deadly Strikes +20% 3] to the user"
         }
       ]
     },
@@ -14338,12 +14338,12 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Leila (Water)] to the user, grants [Buff Water 20% (15s)] to the user/grants [ATK and MND +30%, DEF and RES +25% (8s)] and [Thief Quick Cast 1] to all allies if there are 0-3/4+ Thief allies"
         },
         {
-          "name": "Spirit Attack: Leila (Water)",
-          "text": "Four single physical attacks (0.60 each)"
-        },
-        {
           "name": "Pirate Anchor+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, causes [ATK and MAG -50% (8s)] every second activation"
+        },
+        {
+          "name": "Spirit Attack: Leila (Water)",
+          "text": "Four single physical attacks (0.60 each)"
         }
       ]
     },
@@ -14991,16 +14991,16 @@
           "text": "Seven single ranged jump attacks (0.60 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Dark 2 with Stacking] to the user if entry damage was Wind/Lightning/Water/Dark, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Ricard (Wind, Lightning, Water, Dark)] to the user"
         },
         {
-          "name": "Spirit Attack: Ricard (Lightning, Wind, Water, Dark)",
-          "text": "Grants [Dragoon Dualcast 1], [Dragoon +30% Boost 1], [Dragoon Instant Cast 1], [No Air Time 1] to all allies if 4+ Dragoon members alive, Grants [Dragoon Dualcast 1], [Dragoon +30% Boost 1], [Dragoon Instant Cast 1] to the user if 0-3 Dragoon members alive"
-        },
-        {
           "name": "Pride of Deist+",
           "text": "Six single ranged jump attacks (1.25 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Will of the Dragoon+",
           "text": "Four single ranged jump attacks (1.10 each), grants [Jump Instant Cast] to the user"
+        },
+        {
+          "name": "Spirit Attack: Ricard (Lightning, Wind, Water, Dark)",
+          "text": "Grants [Dragoon Dualcast 1], [Dragoon +30% Boost 1], [Dragoon Instant Cast 1], [No Air Time 1] to all allies if 4+ Dragoon members alive, Grants [Dragoon Dualcast 1], [Dragoon +30% Boost 1], [Dragoon Instant Cast 1] to the user if 0-3 Dragoon members alive"
         }
       ]
     },
@@ -15816,16 +15816,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Josef (Ice)] to the user"
         },
         {
-          "name": "Spirit Attack: Josef (Ice)",
-          "text": "Grants [Dualcast Monk 1], [Monk +30% Boost 1], [Monk Instant Cast 1] to the user/all allies if 0-3/4+ Monk allies are alive"
-        },
-        {
           "name": "Heroic Barrage+",
           "text": "Four single attacks (1.10 each), grants [10% Damage Reduction Barrier 1] to all allies"
         },
         {
           "name": "Hero's Smash+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Josef (Ice)",
+          "text": "Grants [Dualcast Monk 1], [Monk +30% Boost 1], [Monk Instant Cast 1] to the user/all allies if 0-3/4+ Monk allies are alive"
         }
       ]
     },
@@ -16556,16 +16556,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark 2 with Stacking], [Attach Earth 2 with Stacking] or [Attach Wind 2 with Stacking] if the entry damage was Dark/Earth/Wind, grants [Zenith Mode], [Zenith Mode: Emperor (Dark)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Emperor (Dark)",
-          "text": "Causes [Imperil Dark 10% (15s)], [Imperil Earth 10% (15s)] and [Imperil Wind 10% (15s)]"
-        },
-        {
           "name": "Starfall+",
           "text": "Three single attacks (3.60 each), causes [Imperil Dark 10% (5s)], [Imperil Earth 10% (5s)] and [Imperil Wind 10% (5s)]"
         },
         {
           "name": "Repentance Thorns+",
           "text": "Five single attacks (3.80/3.95 each), capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Emperor (Dark)",
+          "text": "Causes [Imperil Dark 10% (15s)], [Imperil Earth 10% (15s)] and [Imperil Wind 10% (15s)]"
         }
       ]
     },
@@ -16964,12 +16964,12 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Hilda] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Hilda] to the user"
         },
         {
-          "name": "Spirit Attack: Hilda",
-          "text": "Restores HP (25) to all allies"
-        },
-        {
           "name": "Wild Rose Prayer+",
           "text": "Restores 2500 HP, grants [10% Damage Reduction Barrier 1]"
+        },
+        {
+          "name": "Spirit Attack: Hilda",
+          "text": "Restores HP (25) to all allies"
         }
       ]
     },
@@ -17421,12 +17421,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Scott] to the user"
         },
         {
-          "name": "Spirit Attack: Scott",
-          "text": "Grants [Weakness +30% Boost 3] to the user/all allies with 0-3/4+ Spellblade or II allies in the party"
-        },
-        {
           "name": "Ring of Love+",
           "text": "Six single attacks (1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Scott",
+          "text": "Grants [Weakness +30% Boost 3] to the user/all allies with 0-3/4+ Spellblade or II allies in the party"
         }
       ]
     },
@@ -18094,16 +18094,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Zenith Mode], [Zenith Mode: Luneth (Wind)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Luneth (Wind)",
-          "text": "One single ranged jump attack (3.36) capped at 99999, 100% hit rate, grants [100% Critical 3]/[Damage +50% 1] and [Quick Cast 1] to all allies/all FF3 allies"
-        },
-        {
           "name": "Jump (III)+",
           "text": "Six single ranged jump attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Heavenly Gust+",
           "text": "Three single ranged jump attacks (1.10 each), grants [Instant Cast 1] to the user"
+        },
+        {
+          "name": "Spirit Attack: Luneth (Wind)",
+          "text": "One single ranged jump attack (3.36) capped at 99999, 100% hit rate, grants [100% Critical 3]/[Damage +50% 1] and [Quick Cast 1] to all allies/all FF3 allies"
         }
       ]
     },
@@ -18742,16 +18742,16 @@
           "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Water 2 with Stacking] if entry damage was Holy/Water, [Zenith Mode], [Zenith Mode: Arc (Holy)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Arc",
-          "text": "Grants [Dualcast Holy/Water 1] to the user"
-        },
-        {
           "name": "Auroral Leviath+",
           "text": "Five single hybrid attacks (3.87/4.02 or 5.25/5.40 each), minimum damage 2000 (SUM only), capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Grace of Water+",
           "text": "Four single attacks (5.25 each), minimum damage 2000, grants [Buff Holy 10% (15s)] and [Buff Water 10% (15s)] to all allies every third activation, capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Arc",
+          "text": "Grants [Dualcast Holy/Water 1] to the user"
         }
       ]
     },
@@ -19321,12 +19321,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Refia] to the user"
         },
         {
-          "name": "Spirit Attack: Refia",
-          "text": "Grants [Quick Cast 2] and [100% Critical 2] to the user if there are 0-3 Monk/III members in the party, Causes [Imperil Prismatic 30% (15s)] to the target and grants [Monk Instant Cast 1] to monk allies if there are 4+ monk in the party, Grants [100% Critical (15s)] and [Critical Damage +50% (15s)] to all allies if there are 4+ III allies in the party"
-        },
-        {
           "name": "Blazing Fists+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Refia",
+          "text": "Grants [Quick Cast 2] and [100% Critical 2] to the user if there are 0-3 Monk/III members in the party, Causes [Imperil Prismatic 30% (15s)] to the target and grants [Monk Instant Cast 1] to monk allies if there are 4+ monk in the party, Grants [100% Critical (15s)] and [Critical Damage +50% (15s)] to all allies if there are 4+ III allies in the party"
         }
       ]
     },
@@ -20036,16 +20036,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ingus] to the user"
         },
         {
-          "name": "Spirit Attack: Ingus",
-          "text": "Grants [Earth Ability Quick Cast 1], [Instant ATB 1] and [10% Damage Reduction Barrier 1] to the user"
-        },
-        {
           "name": "Titan's Blade+",
           "text": "Four single attacks (1.10 each), grants [Buff Earth 10% (15s)] to all allies every third activation"
         },
         {
           "name": "Oathsworn Espada+",
           "text": "Six single attacks (1.15/1.20/1.25 each at 0/1000/4500 DEF, 1.20/1.25/1.30 each at 0/1000/4500 DEF) capped at 9999/19999 after 0-2/3+ uses  "
+        },
+        {
+          "name": "Spirit Attack: Ingus",
+          "text": "Grants [Earth Ability Quick Cast 1], [Instant ATB 1] and [10% Damage Reduction Barrier 1] to the user"
         }
       ]
     },
@@ -20733,16 +20733,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Desch (Lightning)], and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Desch (Lightning)",
-          "text": "Causes [Imperil Lightning 10% (5s)], grants [Buff Lightning 10% (5s)] to ally that triggered the chase if they are female"
-        },
-        {
           "name": "Bolt of the Ancients+",
           "text": "Four single attacks (3.60 each), grants [Buff Lightning 10% (15s)] to all allies every second activation"
         },
         {
           "name": "Ancient Lightning+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Desch (Lightning)",
+          "text": "Causes [Imperil Lightning 10% (5s)], grants [Buff Lightning 10% (5s)] to ally that triggered the chase if they are female"
         }
       ]
     },
@@ -21835,12 +21835,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Fire)] to the user"
         },
         {
-          "name": "Spirit Attack: Onion Knight (Fire)",
-          "text": "Two single attacks (1.50 each), causes [RES -50% (8s)] to the target, grants [Quick Cast 2] to all allies"
-        },
-        {
           "name": "Onion Wizardry+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Onion Knight (Fire)",
+          "text": "Two single attacks (1.50 each), causes [RES -50% (8s)] to the target, grants [Quick Cast 2] to all allies"
         }
       ]
     },
@@ -21894,12 +21894,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Earth 2 with Stacking] based on if entry damage was Wind/Water/Fire/Earth damage, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Wind, Water, Fire, Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Onion Knight (Fire, Earth, Wind, Water)",
-          "text": "Grants [Instant ATB 1] to user"
-        },
-        {
           "name": "Multi-Hit+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Onion Knight (Fire, Earth, Wind, Water)",
+          "text": "Grants [Instant ATB 1] to user"
         }
       ]
     },
@@ -21952,12 +21952,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Onion Knight (Earth)",
-          "text": "Grants [Earth Ability +30% Boost 3] to all allies"
-        },
-        {
           "name": "Onion Wizardry+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Onion Knight (Earth)",
+          "text": "Grants [Earth Ability +30% Boost 3] to all allies"
         }
       ]
     },
@@ -22079,12 +22079,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Wind)] to the user"
         },
         {
-          "name": "Spirit Attack: Onion Knight (Wind)",
-          "text": "Four single attacks (1.50 each), grants [Damage Cap +10000 1], [Wind Ability +30% Boost 1] and [Wind Ability Quick Cast 1] to the ally who triggered Spirit Attack: Onion Knight (Wind)"
-        },
-        {
           "name": "Onion Wizardry+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Onion Knight (Wind)",
+          "text": "Four single attacks (1.50 each), grants [Damage Cap +10000 1], [Wind Ability +30% Boost 1] and [Wind Ability Quick Cast 1] to the ally who triggered Spirit Attack: Onion Knight (Wind)"
         }
       ]
     },
@@ -23035,16 +23035,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Cloud of Darkness (Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Cloud of Darkness (Lightning)",
-          "text": "Causes [Imperil Lightning 10% (15s)] to the target"
-        },
-        {
           "name": "Insulating Appendages+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Lightning Thorns+",
           "text": "Seven single attacks (? each), cast time ?/?/?/?/? scaling with [Lightning Thorns Uses]  capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Cloud of Darkness (Lightning)",
+          "text": "Causes [Imperil Lightning 10% (15s)] to the target"
         }
       ]
     },
@@ -23092,16 +23092,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 3 with Stacking], [Zenith Mode], and [Zenith Mode: Cloud of Darkness (Dark)]"
         },
         {
-          "name": "Spirit Attack: Cloud of Darkness",
-          "text": "Causes [MAG and RES -50% (8s)], grants [Quick Cast 2] to the user"
-        },
-        {
           "name": "Insulating Appendages+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Wave Cannon+",
           "text": "One single attack (23.65) capped at 99999"
+        },
+        {
+          "name": "Spirit Attack: Cloud of Darkness",
+          "text": "Causes [MAG and RES -50% (8s)], grants [Quick Cast 2] to the user"
         }
       ]
     },
@@ -24282,12 +24282,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], grants [Zenith Mode], [Zenith Mode: Cecil (Dark Knight) (Dark)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Cecil (Dark Knight) (Dark)",
-          "text": "Grants [PHY +30% Boost 3] and [Quick Cast 3] to the user and damages the user for 25% max HP"
-        },
-        {
           "name": "Darkness+",
           "text": "Six single attacks (1.30 each) capped at 9999/19999 after 0-2/3+ uses and damages the user for 10% max HP"
+        },
+        {
+          "name": "Spirit Attack: Cecil (Dark Knight) (Dark)",
+          "text": "Grants [PHY +30% Boost 3] and [Quick Cast 3] to the user and damages the user for 25% max HP"
         }
       ]
     },
@@ -25080,16 +25080,16 @@
           "text": "Seven single hybrid attacks (0.90/3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Zenith Mode], [Zenith Mode: Cecil (Paladin) (Holy)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Cecil (Paladin)",
-          "text": "Grants [50% Damage Reduction Barrier 1] to all allies, grants [Holy Ability Quick Cast 3], [MND +50% (15s)] if the user's ATK is less than or equal to their MND, [100% Critical 3] if the user's ATK is greater than their MND, to the user (max 1)"
-        },
-        {
           "name": "Paladin Force+",
           "text": "Five single attacks (1.20/1.25 or 3.87/4.02 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Saint's Fall+",
           "text": "Six single hybrid attacks (? or ? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Cecil (Paladin)",
+          "text": "Grants [50% Damage Reduction Barrier 1] to all allies, grants [Holy Ability Quick Cast 3], [MND +50% (15s)] if the user's ATK is less than or equal to their MND, [100% Critical 3] if the user's ATK is greater than their MND, to the user (max 1)"
         }
       ]
     },
@@ -25298,16 +25298,16 @@
           "text": "Seven single hybrid attacks (0.90/3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Zenith Mode], [Zenith Mode: Cecil (Paladin)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Cecil (Paladin) II",
-          "text": "Grants [Holy Ability +50% Boost 2] to all allies"
-        },
-        {
           "name": "Paladin Force+",
           "text": "Five single attacks (1.20/1.25 or 3.87/4.02 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Saint's Fall+",
           "text": "Six single hybrid attacks (? or ? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Cecil (Paladin) II",
+          "text": "Grants [Holy Ability +50% Boost 2] to all allies"
         }
       ]
     },
@@ -25990,16 +25990,16 @@
           "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Kain (Lightning)] to the user"
         },
         {
-          "name": "Spirit Attack: Kain (Lightning)",
-          "text": "Grants [Deadly Strikes +20% 3] to the user"
-        },
-        {
           "name": "Dragoon's Pride+",
           "text": "Six single ranged jump attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Gungnir+",
           "text": "Four single ranged attacks (1.10 each), grants [100% Critical 1] to the user"
+        },
+        {
+          "name": "Spirit Attack: Kain (Lightning)",
+          "text": "Grants [Deadly Strikes +20% 3] to the user"
         }
       ]
     },
@@ -27144,16 +27144,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rydia (Water)] to the user"
         },
         {
-          "name": "Spirit Attack: Rydia (Water)",
-          "text": "Six single attacks (2.70/3.05 each) multiplier increases if exploiting weakness"
-        },
-        {
           "name": "Summoner's Band+",
           "text": "Four single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Law of the Eidolons+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Rydia (Water)",
+          "text": "Six single attacks (2.70/3.05 each) multiplier increases if exploiting weakness"
         }
       ]
     },
@@ -27224,16 +27224,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rydia (Holy)] to the user"
         },
         {
-          "name": "Spirit Attack: Rydia (Holy)",
-          "text": "Grants [Buff Holy 20% (15s)] and [Holy Instant Cast 2]"
-        },
-        {
           "name": "Summoner's Band+",
           "text": "Four single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Law of the Eidolons+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Rydia (Holy)",
+          "text": "Grants [Buff Holy 20% (15s)] and [Holy Instant Cast 2]"
         }
       ]
     },
@@ -27332,16 +27332,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rydia (Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Rydia (Earth)",
-          "text": "Grants [Summoning Instant Cast 2] and [Summoning +30% Boost 2] to the user"
-        },
-        {
           "name": "Summoner's Band+",
           "text": "Four single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Law of the Eidolons+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Rydia (Earth)",
+          "text": "Grants [Summoning Instant Cast 2] and [Summoning +30% Boost 2] to the user"
         }
       ]
     },
@@ -28053,12 +28053,12 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Rosa] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rosa] to the user"
         },
         {
-          "name": "Spirit Attack: Rosa",
-          "text": "Restores HP (25)"
-        },
-        {
           "name": "Pray+",
           "text": "Restores HP (20), restores 1 consumed ability use every fourth activation"
+        },
+        {
+          "name": "Spirit Attack: Rosa",
+          "text": "Restores HP (25)"
         }
       ]
     },
@@ -28487,12 +28487,12 @@
           "text": "Grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)], [Quick Cast], [Instant ATB 1] and [Instant Cast 1] to all allies, grants [Zenith Mode] and [Zenith Mode: Edward] to the user"
         },
         {
-          "name": "Spirit Attack: Edward",
-          "text": "Grants [200% ATB 1] and [Prismatic +30% Boost 1] to the triggering ally"
-        },
-        {
           "name": "Fabled Song+",
           "text": "Grants [111% Quick Cast 1]/[125% Quick Cast 1]/[142% Quick Cast 1]/[166% Quick Cast 1]/[Quick Cast 1], grants [Wanderer 1/2/3/4/4] to the user if the user has Wanderer 0/1/2/3/4"
+        },
+        {
+          "name": "Spirit Attack: Edward",
+          "text": "Grants [200% ATB 1] and [Prismatic +30% Boost 1] to the triggering ally"
         }
       ]
     },
@@ -28926,12 +28926,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Yang (Earth)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Yang (Earth)",
-          "text": "Grants [Earth Ability +30% Boost 3] to user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ FF4 allies are alive"
-        },
-        {
           "name": "Fist Dance+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Yang (Earth)",
+          "text": "Grants [Earth Ability +30% Boost 3] to user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ FF4 allies are alive"
         }
       ]
     },
@@ -29565,12 +29565,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking] to the user if the entry damage was Lightning/Fire/Ice, [Zenith Mode], [Zenith Mode: Palom (Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Palom (Lightning)",
-          "text": "Grants [Buff Lightning 20% (15s)], [Buff Fire 20% (15s)], [Buff Ice 20% (15s)] and [Black Magic Quick Cast 3] to the user"
-        },
-        {
           "name": "Magic Barrage+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Palom (Lightning)",
+          "text": "Grants [Buff Lightning 20% (15s)], [Buff Fire 20% (15s)], [Buff Ice 20% (15s)] and [Black Magic Quick Cast 3] to the user"
         }
       ]
     },
@@ -30753,12 +30753,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Tellah] to the user"
         },
         {
-          "name": "Spirit Attack: Tellah",
-          "text": "Causes [Imperil Earth 20% (5s)] and grants [Dualcast Earth 1] to the user"
-        },
-        {
           "name": "Dire Meteor+",
           "text": "Four single attacks (3.80/3.95 each) followed by one single attack (20.00/20.75) that ignores RES capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Tellah",
+          "text": "Causes [Imperil Earth 20% (5s)] and grants [Dualcast Earth 1] to the user"
         }
       ]
     },
@@ -31439,12 +31439,12 @@
           "text": "Seven single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Water 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Edge (Water, Fire, Lightning)]"
         },
         {
-          "name": "Spirit Attack: Edge (Water/Fire/Lightning)",
-          "text": "Three single hybrid attacks (0.58 or 218.3 each) followed by one single hybrid attack (3.05 or 18.33 each) that ignores DEF and RES, grants [Dualcast Ninja 1] and [Ninja Quick Cast 1] to user"
-        },
-        {
           "name": "Ninjitsu+",
           "text": "4/5/6 single hybrid attacks (1.20/1.25 or 570/592.5 each) if the user has Physical Blink 0/1/2, grants [Physical Blink 1] and [Physical Blink Stacking 2] to the user, capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Edge (Water/Fire/Lightning)",
+          "text": "Three single hybrid attacks (0.58 or 218.3 each) followed by one single hybrid attack (3.05 or 18.33 each) that ignores DEF and RES, grants [Dualcast Ninja 1] and [Ninja Quick Cast 1] to user"
         }
       ]
     },
@@ -31497,12 +31497,12 @@
           "text": "Seven single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Poison 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Edge (Poison)]"
         },
         {
-          "name": "Spirit Attack: Edge (Poison)",
-          "text": "Grants [Buff Poison 10% (15s)] to the user"
-        },
-        {
           "name": "Bio Ninjitsu+",
           "text": "4 single-target Bio hybrid attacks (1.10/1.15 or 540/562.5 each) & single-target Bio piercing hybrid attack (6.15/6.35 or 20/20.75) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Edge (Poison)",
+          "text": "Grants [Buff Poison 10% (15s)] to the user"
         }
       ]
     },
@@ -33026,12 +33026,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Golbez (Dark)] to the user"
         },
         {
-          "name": "Spirit Attack: Golbez (Dark)",
-          "text": "Grants [Buff Dark 10% (15s)] to all allies"
-        },
-        {
           "name": "Shadow Drake+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Golbez (Dark)",
+          "text": "Grants [Buff Dark 10% (15s)] to all allies"
         }
       ]
     },
@@ -33605,16 +33605,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Cid (IV)] to the user"
         },
         {
-          "name": "Spirit Attack: Cid (IV)",
-          "text": "Grants [Deadly Strikes +15% 2] to the user/all allies with 0-3/4+ Machinists or IV members in party"
-        },
-        {
           "name": "Monkey Wrench+",
           "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Thor's Mighty Hammer+",
           "text": "One single ranged attack (7.10) capped at 99999"
+        },
+        {
+          "name": "Spirit Attack: Cid (IV)",
+          "text": "Grants [Deadly Strikes +15% 2] to the user/all allies with 0-3/4+ Machinists or IV members in party"
         }
       ]
     },
@@ -34310,12 +34310,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ceodore] to the user"
         },
         {
-          "name": "Spirit Attack: Ceodore",
-          "text": "Grants [Damage Cap +10000 1], [Holy Instant Cast 1] and [Holy Ability +50% Boost 1] to the user"
-        },
-        {
           "name": "Vibra Slash+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Ceodore",
+          "text": "Grants [Damage Cap +10000 1], [Holy Instant Cast 1] and [Holy Ability +50% Boost 1] to the user"
         }
       ]
     },
@@ -34885,12 +34885,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Rubicante (Fire)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Rubicante",
-          "text": "Grants [Buff Fire 10% (15s)] to all allies"
-        },
-        {
           "name": "Inferno+",
           "text": "Five single attacks (3.8/3.95 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Fire 10% (5s)]"
+        },
+        {
+          "name": "Spirit Attack: Rubicante",
+          "text": "Grants [Buff Fire 10% (15s)] to all allies"
         }
       ]
     },
@@ -35416,12 +35416,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Ursula (Earth)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Ursula (Earth)",
-          "text": "Causes [Imperil Earth 20% (15s)]/[Imperil Prismatic 20% (15s)] and [Quick Cast 2] to all allies if 0-3/4+ FF4 allies are alive"
-        },
-        {
           "name": "Five Star Crimson Palm+",
           "text": "Six single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Ursula (Earth)",
+          "text": "Causes [Imperil Earth 20% (15s)]/[Imperil Prismatic 20% (15s)] and [Quick Cast 2] to all allies if 0-3/4+ FF4 allies are alive"
         }
       ]
     },
@@ -35952,16 +35952,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode: Barbariccia (Wind)] to the user"
         },
         {
-          "name": "Spirit Attack: Barbariccia (Wind)",
-          "text": "Four single attacks (2.70/3.05 each) capped at 19999, higher multiplier if exploiting Wind weakness, grants [Buff Wind 10% (5s)] to the user"
-        },
-        {
           "name": "Whirlwind+",
           "text": "Five single attacks (3.80/3.95) each capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Maelstrom+",
           "text": "Seven single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Barbariccia (Wind)",
+          "text": "Four single attacks (2.70/3.05 each) capped at 19999, higher multiplier if exploiting Wind weakness, grants [Buff Wind 10% (5s)] to the user"
         }
       ]
     },
@@ -37282,16 +37282,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Galuf (Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Galuf (Earth)",
-          "text": "One single attack (3.36) capped at 99999, grants [100% Critical 3] to all allies"
-        },
-        {
           "name": "Fist of the Dawn+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants [40% Damage Reduction Barrier 1] to the user"
         },
         {
           "name": "Dawn Strike+",
           "text": "Six single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Galuf (Earth)",
+          "text": "One single attack (3.36) capped at 99999, grants [100% Critical 3] to all allies"
         }
       ]
     },
@@ -37917,12 +37917,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Gogo (V) (Water)] to the user"
         },
         {
-          "name": "Spirit Attack: Gogo (V) (Water)",
-          "text": "Grants [Buff Water 10% (15s)] to all allies"
-        },
-        {
           "name": "Total Mastery+",
           "text": "Five single attacks (3.80/3.95) each capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Water 10% (5s)]"
+        },
+        {
+          "name": "Spirit Attack: Gogo (V) (Water)",
+          "text": "Grants [Buff Water 10% (15s)] to all allies"
         }
       ]
     },
@@ -38625,12 +38625,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Gilgamesh (Fire)], [High Retaliate] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Gilgamesh (Fire)",
-          "text": "Twenty single attacks (0.01 each) followed by a single attack (3.36) capped at 99999, grants [Quick Cast 1] to all allies"
-        },
-        {
           "name": "Death Claw+",
           "text": "Six single attacks (1.20 each), 100% additional critical chance if user has [Retaliate] or [High Retaliate], capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Gilgamesh (Fire)",
+          "text": "Twenty single attacks (0.01 each) followed by a single attack (3.36) capped at 99999, grants [Quick Cast 1] to all allies"
         }
       ]
     },
@@ -38948,12 +38948,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Gilgamesh (Fire) II] to user. Grants [200% ATB 1]. Grants [Attach Fire 3 with Stacking]."
         },
         {
-          "name": "Spirit Attack: Gilgamesh II",
-          "text": "Grants [200% ATB 1], [Instant Cast 1], [Fire Ability +30% Boost 1]"
-        },
-        {
           "name": "Death Claw+",
           "text": "Six single attacks (1.20 each), 100% additional critical chance if user has [Retaliate] or [High Retaliate], capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Gilgamesh II",
+          "text": "Grants [200% ATB 1], [Instant Cast 1], [Fire Ability +30% Boost 1]"
         }
       ]
     },
@@ -39984,12 +39984,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Zenith Mode], [Zenith Mode: Bartz (Wind)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Bartz (Wind)",
-          "text": "Grants [Dualcast Spellblade 1] and [Spellblade +50% Boost 1] to the user"
-        },
-        {
           "name": "Crystal Shimmer+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Bartz (Wind)",
+          "text": "Grants [Dualcast Spellblade 1] and [Spellblade +50% Boost 1] to the user"
         }
       ]
     },
@@ -40082,12 +40082,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Zenith Mode], [Zenith Mode: Bartz (Water)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Bartz (Water)",
-          "text": "Grants [100% Critical 5] and [Spellblade Instant Cast 5] to the user"
-        },
-        {
           "name": "Crystal Shimmer+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Bartz (Water)",
+          "text": "Grants [100% Critical 5] and [Spellblade Instant Cast 5] to the user"
         }
       ]
     },
@@ -40161,12 +40161,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Bartz (Fire)] to the user"
         },
         {
-          "name": "Spirit Attack: Bartz (Fire)",
-          "text": "One single attack (3.36) capped at 99999, grants [Spellblade +30% Boost 3] to the user"
-        },
-        {
           "name": "Crystal Shimmer+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Bartz (Fire)",
+          "text": "One single attack (3.36) capped at 99999, grants [Spellblade +30% Boost 3] to the user"
         }
       ]
     },
@@ -41302,16 +41302,16 @@
           "text": "Seven ranged single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Fire 2 with Stacking] based on entry element damage, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Faris] to the user"
         },
         {
-          "name": "Spirit Attack: Faris",
-          "text": "Causes [DEF and RES -50% (8s)], grants [Quick Cast 1] to all allies"
-        },
-        {
           "name": "Pirate Cannon+",
           "text": "Four single ranged attacks (1.10 each), causes [ATK and MAG -50% (8s)], grants [ATK and MAG +50% (8s)] to self"
         },
         {
           "name": "Serpent's Gale+",
           "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ users"
+        },
+        {
+          "name": "Spirit Attack: Faris",
+          "text": "Causes [DEF and RES -50% (8s)], grants [Quick Cast 1] to all allies"
         }
       ]
     },
@@ -41838,16 +41838,16 @@
           "text": "Seven single attacks (? each) capped at 19999, causes [DEF, RES and MND -50% (8s)], grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Dorgann]"
         },
         {
-          "name": "Spirit Attack: Dorgann",
-          "text": "Grants [Buff Earth 10% (5s)] to all allies, and causes [DEF, RES and MND -50% (8s)]/[DEF, RES and MND -70% (8s)] to the target if there are 0-1/2-3 of Kelger, Galuf, and Xezat in the party and [Imperil Earth 10% (5s)] to the target if all three of Kelger, Galuf, and Xezat are in the party "
-        },
-        {
           "name": "Brotherhood of the Dawn+",
           "text": "Six single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Seal Guardian+",
           "text": "Four single attacks (? each), grants [Knight Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Dorgann",
+          "text": "Grants [Buff Earth 10% (5s)] to all allies, and causes [DEF, RES and MND -50% (8s)]/[DEF, RES and MND -70% (8s)] to the target if there are 0-1/2-3 of Kelger, Galuf, and Xezat in the party and [Imperil Earth 10% (5s)] to the target if all three of Kelger, Galuf, and Xezat are in the party "
         }
       ]
     },
@@ -42571,12 +42571,12 @@
           "text": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [50% Damange Reduction Barrier 1] to all allies, grants [Attach Dark 2 with Stacking]/[Attach Holy 2 With Stacking] to the user if the entry damage was Dark/Holy, [Zenith Mode], [Zenith Mode: Exdeath (Dark, Holy)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Exdeath (Holy, Dark)",
-          "text": "Two single attacks (1.48/1.58), grants [50% Damage Reduction Barrier 1] to all allies"
-        },
-        {
           "name": "Double Hole+",
           "text": "Five single hybrid attacks (3.80/3.95 or 3.87/4.02 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Exdeath (Holy, Dark)",
+          "text": "Two single attacks (1.48/1.58), grants [50% Damage Reduction Barrier 1] to all allies"
         }
       ]
     },
@@ -43546,16 +43546,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70%] for 8 seconds, grants [Attach Fire 2 with Stacking]/[Attach Earth 2 with Stacking] to the user if the entry damage was Fire/Earth, [Zenith Mode], [Zenith Mode: Krile (Fire, Earth)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Krile",
-          "text": "Causes [DEF, RES and MND -50% (8s)] to the target, grants [Buff Fire 10% (5s)] and [Buff Earth 10% (5s)] to all allies"
-        },
-        {
           "name": "Cleansing+",
           "text": "Four single attacks (3.75 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Kindred Flame+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Krile",
+          "text": "Causes [DEF, RES and MND -50% (8s)] to the target, grants [Buff Fire 10% (5s)] and [Buff Earth 10% (5s)] to all allies"
         }
       ]
     },
@@ -44197,16 +44197,16 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Xezat]"
         },
         {
-          "name": "Spirit Attack: Xezat",
-          "text": "Grants [Deadly Strikes +10% 3] to all allies"
-        },
-        {
           "name": "Spellsword Iceshock+",
           "text": "Four single attacks (? each), followed by one single attack (?) with additonal 20% critical damage, capped 9999/19999 after 0-2/3+ uses "
         },
         {
           "name": "King's Spellblade+",
           "text": "Three single attacks (? each), grants [Instant Cast 1] to the user"
+        },
+        {
+          "name": "Spirit Attack: Xezat",
+          "text": "Grants [Deadly Strikes +10% 3] to all allies"
         }
       ]
     },
@@ -44820,12 +44820,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Kelger (Earth)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Kelger (Earth)",
-          "text": "4/6/8 single attacks (0.80/0.90 each) if user has Physical Blink 0/1/2, higher multiplier if exploiting Earth weakness "
-        },
-        {
           "name": "Lupine Fang+",
           "text": "3/5/7 single attacks (1.20/1.25 each) if the user has Physical Blink 0/1/2, capped at 9999/19999 after 0-2/3+ uses, grants [Physical Blink 1] and [Physical Blink Stacking 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Kelger (Earth)",
+          "text": "4/6/8 single attacks (0.80/0.90 each) if user has Physical Blink 0/1/2, higher multiplier if exploiting Earth weakness "
         }
       ]
     },
@@ -45815,12 +45815,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Terra (Fire)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Terra (Fire)",
-          "text": "4 single attacks (2.70/3.05 each), higher multiplier if exploiting Fire weakness, grants [Buff Fire 10% (5s)] to user"
-        },
-        {
           "name": "Riot Blade+",
           "text": "Four single attacks (3.80/3.95 each), followed by one single attack (20.00/20.75 each) that ignores RES, capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Terra (Fire)",
+          "text": "4 single attacks (2.70/3.05 each), higher multiplier if exploiting Fire weakness, grants [Buff Fire 10% (5s)] to user"
         }
       ]
     },
@@ -46956,16 +46956,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Fire 3 with Stacking], [Zenith Mode], and [Zenith Mode: Locke (Fire)]"
         },
         {
-          "name": "Spirit Attack: Locke",
-          "text": "Ten single attacks (0.60 each)"
-        },
-        {
           "name": "Mirage Raid+",
           "text": "Four single attacks (1.10 each), causes [ATK and DEF -50% (8s)], gants [ATK and DEF +50% (8s)] to the user"
         },
         {
           "name": "Burning Spirit+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Locke",
+          "text": "Ten single attacks (0.60 each)"
         }
       ]
     },
@@ -47865,12 +47865,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Celes (Holy)] to the user"
         },
         {
-          "name": "Spirit Attack: Celes",
-          "text": "Grants [Weakness +30% Boost 2] and [Quick Cast 2] to all allies"
-        },
-        {
           "name": "Spinning Edge+",
           "text": "Five group attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Celes",
+          "text": "Grants [Weakness +30% Boost 2] and [Quick Cast 2] to all allies"
         }
       ]
     },
@@ -48106,12 +48106,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 2 with Stacking] or [Attach Holy 2 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Celes (Ice/Holy)] to the user"
         },
         {
-          "name": "Spirit Attack: Celes",
-          "text": "Grants [Ice, Holy +30% Boost 1]"
-        },
-        {
           "name": "Spinning Edge+ II",
           "text": "Six group attacks (1.20 each)"
+        },
+        {
+          "name": "Spirit Attack: Celes",
+          "text": "Grants [Ice, Holy +30% Boost 1]"
         }
       ]
     },
@@ -48753,12 +48753,12 @@
           "text": "Grants [Zenith Mode], [Conditional Attach Element 3 with Stacking From Party], [Damage Cap +10000], [Zenith Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Causes [ATK -15%, DEF -70% (25s)] and [Imperil Prismatic 20% (25s)] to all enemies"
         },
         {
-          "name": "Star Strike: Mog II",
-          "text": "Grants [200% ATB 1], [Instant Cast 1], [Dragoon +30% Boost 1]"
-        },
-        {
           "name": "Moogle Jump+",
           "text": "Four single ranged jump attacks (1.10 each), 40% DEF piercing"
+        },
+        {
+          "name": "Star Strike: Mog II",
+          "text": "Grants [200% ATB 1], [Instant Cast 1], [Dragoon +30% Boost 1]"
         }
       ]
     },
@@ -49377,16 +49377,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Poison/Fire/Lightning, [Zenith Mode], [Zenith Mode: Edgar (Poison, Fire, Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Edgar",
-          "text": "Grants [Machinist +30% Boost 2] and [Machinist Instant Cast 2] to the user"
-        },
-        {
           "name": "Withering Shot+",
           "text": "Three single attacks (1.10 each) causes [Imperil Poison 10% (5s)], [Imperil Fire 10% (5s)] and [Imperil Lightning 10% (5s)]"
         },
         {
           "name": "Chainsaw+",
           "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Edgar",
+          "text": "Grants [Machinist +30% Boost 2] and [Machinist Instant Cast 2] to the user"
         }
       ]
     },
@@ -50890,12 +50890,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 3 with Stacking], [Zenith Mode], and [Zenith Mode: Shadow (Dark)]"
         },
         {
-          "name": "Spirit Attack: Shadow",
-          "text": "Grants [Quick Dark 1] and [Dark Ability +30% Boost 1] to the user"
-        },
-        {
           "name": "Shadow Fang+",
           "text": "Four single ranged attacks (1.20/1.25 each), followed by one single ranged attack (6.15/6.35 each) that ignores DEF, damage capped at 9999/19999 after 0-2/3+ uses, 100% hit rate"
+        },
+        {
+          "name": "Spirit Attack: Shadow",
+          "text": "Grants [Quick Dark 1] and [Dark Ability +30% Boost 1] to the user"
         }
       ]
     },
@@ -52086,12 +52086,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Wind/Lightning, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Gau] to the user"
         },
         {
-          "name": "Spirit Attack: Gau",
-          "text": "Damages the user for 25% of max HP, grants [PHY +30% Boost 3], [Quick Cast 3] to the user"
-        },
-        {
           "name": "Rage+",
           "text": "Six single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses (no recoil damage)"
+        },
+        {
+          "name": "Spirit Attack: Gau",
+          "text": "Damages the user for 25% of max HP, grants [PHY +30% Boost 3], [Quick Cast 3] to the user"
         }
       ]
     },
@@ -52705,16 +52705,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [100% Critical] and [200% ATB 1] to allies with Dark infusion, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Setzer (Support)] to the user"
         },
         {
-          "name": "Spirit Attack: Setzer (Support)",
-          "text": "Randomly deals one single ranged attack (0.80 each) and causes [DEF -30% (8s), or deals two single ranged attacks (0.80 each) and causes [DEF and RES -30% (8s)], or deals six single ranged attacks (0.80 each) and causes [ATK, DEF, MAG and RES -30% (8s)]"
-        },
-        {
           "name": "Red Card+",
           "text": "Four single ranged attacks (1.10/1.15 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Dark 10% (5s)], randomly grants either [Sharpshooter Quick Cast 2] to the user, or restores 1000 HP to the lowest health ally and removes Poison, Blind, and Sleep"
         },
         {
           "name": "Dealer Shuffle+",
           "text": "Six single ranged attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Setzer (Support)",
+          "text": "Randomly deals one single ranged attack (0.80 each) and causes [DEF -30% (8s), or deals two single ranged attacks (0.80 each) and causes [DEF and RES -30% (8s)], or deals six single ranged attacks (0.80 each) and causes [ATK, DEF, MAG and RES -30% (8s)]"
         }
       ]
     },
@@ -53546,12 +53546,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Strago (Water)] to the user"
         },
         {
-          "name": "Spirit Attack: Strago (Water)",
-          "text": "Grants [Water Ability +30% Boost 2] and [Water Ability Instant Cast 2] to the user"
-        },
-        {
           "name": "Aqua Breath+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Strago (Water)",
+          "text": "Grants [Water Ability +30% Boost 2] and [Water Ability Instant Cast 2] to the user"
         }
       ]
     },
@@ -55149,16 +55149,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Umaro] to the user"
         },
         {
-          "name": "Spirit Attack: Umaro",
-          "text": "Grants [Ice Ability Quick Cast 1], [10% Damage Reduction Barrier 1] and [Instant ATB 1] to the user"
-        },
-        {
           "name": "Icestorm+",
           "text": "One single attack (7.50) capped at 99999"
         },
         {
           "name": "Furious Tackle+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Umaro",
+          "text": "Grants [Ice Ability Quick Cast 1], [10% Damage Reduction Barrier 1] and [Instant ATB 1] to the user"
         }
       ]
     },
@@ -55824,12 +55824,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Kefka (Poison)] to the user"
         },
         {
-          "name": "Spirit Attack: Kefka (Poison)",
-          "text": "Eight single attacks (2.66/3.01 each), higher multiplier if exploiting Poison weakness, capped at 19999, grants [Quick Cast 2] to the user"
-        },
-        {
           "name": "Havoc Wing+",
           "text": "Six single attacks (3.80/3.95 each) capped at 19999 after 0-2/3+ uses, grants [MND -30% (8s)] to the user"
+        },
+        {
+          "name": "Spirit Attack: Kefka (Poison)",
+          "text": "Eight single attacks (2.66/3.01 each), higher multiplier if exploiting Poison weakness, capped at 19999, grants [Quick Cast 2] to the user"
         }
       ]
     },
@@ -56565,16 +56565,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Buff Earth 20% (15s)] to the user/[ATK and MND +30%, DEF and RES +25% (8s)] and [Knight Quick Cast 1] to all allies with 0-3/4+ Knight allies in the party, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Leo] to the user"
         },
         {
-          "name": "Spirit Attack: Leo",
-          "text": "Grants [Deadly Strikes +20% 2] to all allies"
-        },
-        {
           "name": "Shock+",
           "text": "One single attack (7.50) capped at 99999"
         },
         {
           "name": "Fallen Warrior's Blade+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Leo",
+          "text": "Grants [Deadly Strikes +20% 2] to all allies"
         }
       ]
     },
@@ -58111,12 +58111,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Zenith Mode], [Zenith Mode: Cloud (Wind)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Cloud (Wind)",
-          "text": "Grants [Wind Ability +50% Boost 1] to the user"
-        },
-        {
           "name": "Braver+",
           "text": "Five single attacks (1.20/1.25 each), capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Cloud (Wind)",
+          "text": "Grants [Wind Ability +50% Boost 1] to the user"
         }
       ]
     },
@@ -59056,16 +59056,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, causes [DEF and RES -50% (25s)] to the target, grants [200% ATB 1] to the party, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Barret] to the user"
         },
         {
-          "name": "Spirit Attack: Barret",
-          "text": "Grants [Quick Cast 1] to all allies if there are 0-3 VII members in the party, and grant [Instant Cast 1] and [100% Critical (15s)] to all allies and [Attach Fire with Stacking] to the user if there are 4+ VII members in the party"
-        },
-        {
           "name": "Ungarmax+",
           "text": "Seven single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Soul of AVALANCHE+",
           "text": "Transfers the user's Soul Break points to the target (maximum of 500 Soul Break points), grants [Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Barret",
+          "text": "Grants [Quick Cast 1] to all allies if there are 0-3 VII members in the party, and grant [Instant Cast 1] and [100% Critical (15s)] to all allies and [Attach Fire with Stacking] to the user if there are 4+ VII members in the party"
         }
       ]
     },
@@ -59793,16 +59793,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Tifa (Earth)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Tifa (Earth)",
-          "text": "One single attack (5.34) capped at 99999, 6.00 if exploiting Earth weakness"
-        },
-        {
           "name": "Beat Rush+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Somersault+",
           "text": "Four single attacks (1.10 each), grants [Monk Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Tifa (Earth)",
+          "text": "One single attack (5.34) capped at 99999, 6.00 if exploiting Earth weakness"
         }
       ]
     },
@@ -60391,16 +60391,16 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Physical Instant Cast 1], and [Natural Cure: Aerith] to all allies, grants [Quick Cast], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Aerith] to the user"
         },
         {
-          "name": "Spirit Attack: Aerith",
-          "text": "Restores HP (25) to all allies"
-        },
-        {
           "name": "Healing Wind+",
           "text": "Restores HP (25), grants [Quick Cast 1] every second activation"
         },
         {
           "name": "Refreshing Breeze+",
           "text": "Restores 2500 HP, grants [??? ATK +5%/10%/20%/30%], grants [??? 1/2/3/3] to the user if the user has ??? 0/1/2/3"
+        },
+        {
+          "name": "Spirit Attack: Aerith",
+          "text": "Restores HP (25) to all allies"
         }
       ]
     },
@@ -60978,12 +60978,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Red XIII] to user. Causes [MAG and RES -50% (25s)] on enemy. Grants [Attach Earth 3 with Stacking]."
         },
         {
-          "name": "Spirit Attack: Red XIII",
-          "text": "Grants [Buff Earth 10% (5s)] and [Quick Cast 1] to all allies"
-        },
-        {
           "name": "Earth Rave+",
           "text": "Five single attacks (? each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Earth 10% (5s)]"
+        },
+        {
+          "name": "Spirit Attack: Red XIII",
+          "text": "Grants [Buff Earth 10% (5s)] and [Quick Cast 1] to all allies"
         }
       ]
     },
@@ -61861,16 +61861,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Buff Earth 20% (15s)] to self if there are 0-3 Ninja allies in the party, grants  [ATK and MND +30%, DEF and RES +25% (8s)] and [Ninja Quick Cast 1] to all allies if there are 4+ Ninja allies in the party, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Yuffie (Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Yuffie (Earth)",
-          "text": "Eight ranged physical attacks (0.60 each)"
-        },
-        {
           "name": "Gauntlet+",
           "text": "Eight single ranged attacks (0.94 each)"
         },
         {
           "name": "Clearest Tranquil+",
           "text": "4/5/6 single ranged attacks (1.20/1.25 each) if the user has Physical Blink 0/1/2, capped at 9999/19999 after 0-2/3+ uses, grants [Physical Blink 1] and [Physical Blink Stacking 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Yuffie (Earth)",
+          "text": "Eight ranged physical attacks (0.60 each)"
         }
       ]
     },
@@ -61986,16 +61986,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Yuffie (Water)] to the user"
         },
         {
-          "name": "Spirit Attack: Yuffie (Water)",
-          "text": "6/8/10 single ranged attacks (0.59 each) after 1/2/3 uses, grants [200% ATB 1] and [Ninja Instant Cast 1] to the user"
-        },
-        {
           "name": "Gauntlet+",
           "text": "Eight single ranged attacks (0.94 each)"
         },
         {
           "name": "Clearest Tranquil+",
           "text": "4/5/6 single ranged attacks (1.20/1.25 each) if the user has Physical Blink 0/1/2, capped at 9999/19999 after 0-2/3+ uses, grants [Physical Blink 1] and [Physical Blink Stacking 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Yuffie (Water)",
+          "text": "6/8/10 single ranged attacks (0.59 each) after 1/2/3 uses, grants [200% ATB 1] and [Ninja Instant Cast 1] to the user"
         }
       ]
     },
@@ -63171,12 +63171,12 @@
           "text": "Seven single hybrid ranged attacks (0.90/3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Vincent (Fire)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Vincent",
-          "text": "Causes [Imperil Fire 20% (5s)], grants [Buff Fire 20% (5s)] and [Quick Cast 2] to the user"
-        },
-        {
           "name": "Beast Flare+",
           "text": "Six single hybrid ranged attacks (1.20/1.25 or 3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Vincent",
+          "text": "Causes [Imperil Fire 20% (5s)], grants [Buff Fire 20% (5s)] and [Quick Cast 2] to the user"
         }
       ]
     },
@@ -63787,12 +63787,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Zenith Mode], [Zenith Mode: Zack (Wind)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Zack (Wind)",
-          "text": "One single attack (3.36) capped at 99999, grants [100% Critical 3] to all allies"
-        },
-        {
           "name": "Rush Assault+",
           "text": "Six single attacks (1.20 each), capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Zack (Wind)",
+          "text": "One single attack (3.36) capped at 99999, grants [100% Critical 3] to all allies"
         }
       ]
     },
@@ -64687,12 +64687,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 3 with Stacking], [Zenith Mode], and [Zenith Mode: Sephiroth (Dark)]"
         },
         {
-          "name": "Spirit Attach: Sephiroth (Dark)",
-          "text": "Grants [Dark Ability +50% Boost 1] to the user"
-        },
-        {
           "name": "Heartless Angel+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, 100% hit rate"
+        },
+        {
+          "name": "Spirit Attach: Sephiroth (Dark)",
+          "text": "Grants [Dark Ability +50% Boost 1] to the user"
         }
       ]
     },
@@ -64766,12 +64766,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [100% Critical (25s)], [Attach Fire 3 with Stacking], [Zenith Mode], and [Zenith Mode: Sephiroth (Fire)]"
         },
         {
-          "name": "Spirit Attack: Sephiroth (Fire)",
-          "text": "Grants [Buff Fire 20% (15s)] and [Fire Ability Quick Cast 3] to the user"
-        },
-        {
           "name": "Scintilla+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Sephiroth (Fire)",
+          "text": "Grants [Buff Fire 20% (15s)] and [Fire Ability Quick Cast 3] to the user"
         }
       ]
     },
@@ -66183,16 +66183,16 @@
           "text": "Seven single hybrid attacks (? or ? each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Reno]"
         },
         {
-          "name": "Spirit Attack: Reno",
-          "text": "Grants [Lightning +10% Boost 5]/[Lightning +30% Boost 5] to all allies if the enemy has 0/60% Lightning weakness"
-        },
-        {
           "name": "Pyramid+",
           "text": "Six ranged attacks (? or ? each) capped at 9999/19999 after 0-2/3+ uses, removes [Haste] every second activation"
         },
         {
           "name": "Plasma Light+",
           "text": "Five ranged attacks (? each), causes [Imperil Lightning 10% (5s)]"
+        },
+        {
+          "name": "Spirit Attack: Reno",
+          "text": "Grants [Lightning +10% Boost 5]/[Lightning +30% Boost 5] to all allies if the enemy has 0/60% Lightning weakness"
         }
       ]
     },
@@ -66818,16 +66818,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Holy 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Angeal] to the user"
         },
         {
-          "name": "Spirit Attack: Angeal",
-          "text": "Grants [Weakness +30% Boost 3] to user/all allies with 0-3/4+ Knight allies in the party"
-        },
-        {
           "name": "Wings of Pride+",
           "text": "3/5 single attacks (1.10 each) if the user hasn't/has any Damage Reduction Barrier, grants [40% Damage Reduction Barrier 1] to the user"
         },
         {
           "name": "Unleashed Wrath+",
           "text": "Four single attacks (1.20/1.25 each), followed by one single attack (1.20/1.25) with additional 20% critical damage, capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Angeal",
+          "text": "Grants [Weakness +30% Boost 3] to user/all allies with 0-3/4+ Knight allies in the party"
         }
       ]
     },
@@ -67337,16 +67337,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Rufus (Dark)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Rufus (Dark)",
-          "text": "Grants [Buff Dark 10% (15s)] to all allies"
-        },
-        {
           "name": "Mako Barrage+",
           "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Dark 10% (5s)]"
         },
         {
           "name": "President's Shot+",
           "text": "Seven single ranged attacks (? each)"
+        },
+        {
+          "name": "Spirit Attack: Rufus (Dark)",
+          "text": "Grants [Buff Dark 10% (15s)] to all allies"
         }
       ]
     },
@@ -67984,10 +67984,6 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [200% ATB 1] and [100% Critical] for 25 seconds to all allies with Attach Lightning, grants grants [Zenith Mode], [Zenith Mode: Shelke (Lightning)], [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Shelke (Lightning)",
-          "text": "Causes [Imperil Lightning 10% (5s)] "
-        },
-        {
           "name": "Synaptic Net Dive+",
           "text": "Four single attacks (1.10/1.15 each), multiplier increases after 3 uses, grants [High Quick Cast 1]"
         },
@@ -67998,6 +67994,10 @@
         {
           "name": "Rapid Spark+",
           "text": "Seven single ranged attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Shelke (Lightning)",
+          "text": "Causes [Imperil Lightning 10% (5s)] "
         }
       ]
     },
@@ -68559,16 +68559,16 @@
           "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [Attach Earth 2 with Stacking]/[Attach Lightning 2 with Stacking] based on entry element damage, [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rude] to the user"
         },
         {
-          "name": "Spirit Attack: Rude",
-          "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] to the target with 0-4/5 VII allies in the party, Grants [Damage +30% Boost 2] to all allies if there are 5 VII allies in the party"
-        },
-        {
           "name": "Grand Spark+",
           "text": "Five single ranged hybrid attacks (1.20/1.25 or 3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Quake First+",
           "text": "Four single ranged hybrid attacks (1.10 or 3.60 each), causes [Imperil Earth 10% (5s)] and [Imperil Lightning 10% (5s)] to the target"
+        },
+        {
+          "name": "Spirit Attack: Rude",
+          "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] to the target with 0-4/5 VII allies in the party, Grants [Damage +30% Boost 2] to all allies if there are 5 VII allies in the party"
         }
       ]
     },
@@ -69181,16 +69181,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] based on entry element damage, [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Elena] to the user"
         },
         {
-          "name": "Spirit Attack: Elena",
-          "text": "Grants [100% Critical 2] and [Quick Cast 2] to user / [100% Critical (15s)] and [Critical Damage +50% (15s)] to all allies with 0-3/4+ VII allies in the party"
-        },
-        {
           "name": "Elite Resolve+",
           "text": "Five single ranged attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Fire 10% (5s)] and [Imperil Lightning 10% (5s)] to the target"
         },
         {
           "name": "Rookie Sneak Attack+",
           "text": "Four single ranged attacks (? each), grants [Sharpshooter Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Elena",
+          "text": "Grants [100% Critical 2] and [Quick Cast 2] to user / [100% Critical (15s)] and [Critical Damage +50% (15s)] to all allies with 0-3/4+ VII allies in the party"
         }
       ]
     },
@@ -70730,12 +70730,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Squall (Fire)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Squall (Fire)",
-          "text": "Six single attacks (0.80), 0.90 if exploiting Fire weakness, capped at 19999"
-        },
-        {
           "name": "Renzokuken+",
           "text": "Five group attacks (1.20) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Squall (Fire)",
+          "text": "Six single attacks (0.80), 0.90 if exploiting Fire weakness, capped at 19999"
         }
       ]
     },
@@ -70783,12 +70783,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [ATK +30%, DEF +25% (25s)], [Zenith Mode], [Zenith Mode: Squall (Ice)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Squall (Ice)",
-          "text": "Ten single attacks (0.60 each) capped at 19999 with 100% critical rate"
-        },
-        {
           "name": "Renzokuken+",
           "text": "Five group attacks (1.20) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Squall (Ice)",
+          "text": "Ten single attacks (0.60 each) capped at 19999 with 100% critical rate"
         }
       ]
     },
@@ -70908,12 +70908,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Ice/FIre, [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Squall] to the user"
         },
         {
-          "name": "Spirit Attack: Squall",
-          "text": "Grants [(Ice/Fire) Ability +30% Boost 1] to the user"
-        },
-        {
           "name": "Renzokuken+II",
           "text": "Six group attacks (1.20)"
+        },
+        {
+          "name": "Spirit Attack: Squall",
+          "text": "Grants [(Ice/Fire) Ability +30% Boost 1] to the user"
         }
       ]
     },
@@ -71904,12 +71904,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [ATK and MAG +30%, DEF and RES +25% (8s)] to party, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Rinoa (Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Rinoa (Earth)",
-          "text": "Grants [Earth Ability +30% Boost 3] to the user"
-        },
-        {
           "name": "Angel Wing+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Rinoa (Earth)",
+          "text": "Grants [Earth Ability +30% Boost 3] to the user"
         }
       ]
     },
@@ -72833,10 +72833,6 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Quistis (Poison)] to the user"
         },
         {
-          "name": "Spirit Attack: Quistis (Poison)",
-          "text": "Five single attacks (2.70/3.05) higher multiplier when exploiting weakness, Grants [Poison Ability +30% Boost 2] to the user"
-        },
-        {
           "name": "Hail to the Queen+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
         },
@@ -72859,6 +72855,10 @@
         {
           "name": "Lesson Time+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses, Grants [MAG +30%, DEF and RES -15% (8s)] to the user"
+        },
+        {
+          "name": "Spirit Attack: Quistis (Poison)",
+          "text": "Five single attacks (2.70/3.05) higher multiplier when exploiting weakness, Grants [Poison Ability +30% Boost 2] to the user"
         }
       ]
     },
@@ -73742,16 +73742,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Zell (Fire)] to the user"
         },
         {
-          "name": "Spirit Attack: Zell (Fire)",
-          "text": "Grants [Weakness +30% Boost 3] to the user if 0-2 Monk allies are alive, grants [Weakness +30% Boost 3] to all allies if 3 Monk allies are alive, grants [Weakness +30% Boost 3] and one single attack (3.36) capped at 99999 if 4+ Monk allies are alive"
-        },
-        {
           "name": "Meteor Barret+",
           "text": "Six single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Final Punch+",
           "text": "Four single attacks (1.10 each), grants [Monk Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Zell (Fire)",
+          "text": "Grants [Weakness +30% Boost 3] to the user if 0-2 Monk allies are alive, grants [Weakness +30% Boost 3] to all allies if 3 Monk allies are alive, grants [Weakness +30% Boost 3] and one single attack (3.36) capped at 99999 if 4+ Monk allies are alive"
         }
       ]
     },
@@ -74370,16 +74370,16 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Selphie], grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Selphie] to the user"
         },
         {
-          "name": "Spirit Attack: Selphie",
-          "text": "Restores HP (25) to all allies"
-        },
-        {
           "name": "Slots+",
           "text": "Causes [ATK and MAG -50% (8s)], restores 2500 HP to all allies"
         },
         {
           "name": "Trabia's Light+",
           "text": "Restores HP (?), smart ether 1 every fourth activation"
+        },
+        {
+          "name": "Spirit Attack: Selphie",
+          "text": "Restores HP (25) to all allies"
         }
       ]
     },
@@ -75028,16 +75028,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Irvine (Fire)] to the user"
         },
         {
-          "name": "Spirit Attack: Irvine",
-          "text": "Grants [Deadly Strikes +10% 1]/[Deadly Strikes +15% 1]/[Deadly Strikes +20% 1] after 0/1/2+ uses"
-        },
-        {
           "name": "Canister Shot+",
           "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+, causes [Imperil Fire 10% (5s)]"
         },
         {
           "name": "Flame Ammo+",
           "text": "Four single ranged attacks (? each), grants [Sharpshooter Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Irvine",
+          "text": "Grants [Deadly Strikes +10% 1]/[Deadly Strikes +15% 1]/[Deadly Strikes +20% 1] after 0/1/2+ uses"
         }
       ]
     },
@@ -75659,16 +75659,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Dark/Fire, grants [Zenith Mode], [Zenith Mode: Seifer (Dark, Fire)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Seifer (Fire, Dark)",
-          "text": "Grants [100% critical 2], [Critical Damage +50% 2] and [Dark/Fire Ability Quick Cast 2] to the user"
-        },
-        {
           "name": "Bloodfest+",
           "text": "Five single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Demon Slice+",
           "text": "Four single attacks (? each), grants [Buff Fire 10% (5s)] and [Buff Dark 10% (5s)] to all allies every third activation"
+        },
+        {
+          "name": "Spirit Attack: Seifer (Fire, Dark)",
+          "text": "Grants [100% critical 2], [Critical Damage +50% 2] and [Dark/Fire Ability Quick Cast 2] to the user"
         }
       ]
     },
@@ -76498,16 +76498,16 @@
           "text": "Seven single ranged attacks (? each) capped at 19999, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Laguna (Ice)]"
         },
         {
-          "name": "Spirit Attack: Laguna",
-          "text": "Three single ranged physical attacks (0.80/0.90 each) capped at 19999, higher multiplier if exploiting weakness"
-        },
-        {
           "name": "Desperado+",
           "text": "Five ranged attacks (1.10 each), causes [Imperil Ice 10% (5s)]"
         },
         {
           "name": "Freezing Crush+",
           "text": "Seven single ranged attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Laguna",
+          "text": "Three single ranged physical attacks (0.80/0.90 each) capped at 19999, higher multiplier if exploiting weakness"
         }
       ]
     },
@@ -77250,16 +77250,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Dark 2 with Stacking] to the user if the entry damage was Ice/Dark, grants [Zenith Mode], [Zenith Mode: Edea (Ice, Dark)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Edea (Dark/Fire)",
-          "text": "Six single attacks (2.70 each), 3.05 if exploiting Ice or Dark weakness, capped at 19999"
-        },
-        {
           "name": "Ice Strike+",
           "text": "Four single attacks (3.80 each), grants [Quick Cast 1] to self"
         },
         {
           "name": "Astral Realm+",
           "text": "Five single attacks (3.80/3.95 each), capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Edea (Dark/Fire)",
+          "text": "Six single attacks (2.70 each), 3.05 if exploiting Ice or Dark weakness, capped at 19999"
         }
       ]
     },
@@ -77361,16 +77361,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Instant Cast 1] to all allies with Attach Ice or Attach Dark, grants [Attach Ice 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Edea] to the user"
         },
         {
-          "name": "Spirit Attack: Edea",
-          "text": "Grants [Damage Cap +10000 2]/[Damage Cap +10000 2] and [(Ice/Dark) Ability +30% Boost 2] to user/all allies if there are 0-2/3+ allies with Attach Ice or Dark in the party"
-        },
-        {
           "name": "Ice Strike+",
           "text": "Four single attacks (3.80 each), grants [Quick Cast 1] to self"
         },
         {
           "name": "Astral Realm+",
           "text": "Five single attacks (3.80/3.95 each), capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Edea",
+          "text": "Grants [Damage Cap +10000 2]/[Damage Cap +10000 2] and [(Ice/Dark) Ability +30% Boost 2] to user/all allies if there are 0-2/3+ allies with Attach Ice or Dark in the party"
         }
       ]
     },
@@ -77941,16 +77941,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Raijin (Lightning)] to the user"
         },
         {
-          "name": "Spirit Guidance: Raijin (Lightning)",
-          "text": "Grants [Deadly Strikes +20% 3] to all allies"
-        },
-        {
           "name": "Raijin Special+",
           "text": "One single attack (7.50) capped at 99999"
         },
         {
           "name": "Lightning Hammer Flurry+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Guidance: Raijin (Lightning)",
+          "text": "Grants [Deadly Strikes +20% 3] to all allies"
         }
       ]
     },
@@ -78681,12 +78681,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Zenith Mode], [Zenith Mode: Fujin (Wind)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Fujin (Wind)",
-          "text": "Six single attacks (2.70 each), 3.05 if exploiting a weakness to wind, capped at 19999"
-        },
-        {
           "name": "Zan+",
           "text": "Four single attacks (3.80/3.95 each), followed by one single attack (20.00/20.75 each) that ignores RES, capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Fujin (Wind)",
+          "text": "Six single attacks (2.70 each), 3.05 if exploiting a weakness to wind, capped at 19999"
         }
       ]
     },
@@ -79172,10 +79172,6 @@
           "text": "Seven single target attacks (0.90 each) capped at 19999, grants [Physical Blink 1] to all allies, grants [Attach Dark 2 with Stacking]/[Attach Ice 2 with Stacking] depending on element of entry damage, [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Kiros (Dark, Ice)] to the user"
         },
         {
-          "name": "Spirit Attack: Kiros (Ice, Dark)",
-          "text": "Grants [Weakness +30% Boost 3] to the user if 0 members have Physical Blink, grants [Weakness +30% Boost 3] to all allies and [Buff Prismatic +10%] to allies with Physical Blink"
-        },
-        {
           "name": "Exsanguination+",
           "text": "Five single attacks (1.10 each)"
         },
@@ -79190,6 +79186,10 @@
         {
           "name": "Katar Dance+",
           "text": "5/6/7 single attacks (? each) if the user has Physical Blink 0/1/2, grants [Physical Blink 1] and [Physical Blink Stacking 2] to the user "
+        },
+        {
+          "name": "Spirit Attack: Kiros (Ice, Dark)",
+          "text": "Grants [Weakness +30% Boost 3] to the user if 0 members have Physical Blink, grants [Weakness +30% Boost 3] to all allies and [Buff Prismatic +10%] to allies with Physical Blink"
         }
       ]
     },
@@ -79710,16 +79710,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Water 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Earth 2 with Stacking] depending on if entry damage was Water/Ice/Earth, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Ward (Water, Ice, Earth)] to the user"
         },
         {
-          "name": "Spirit Guidance: Ward (Water/Ice/Earth)",
-          "text": "One single ranged attack (3.36) capped at 99999, grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies if Laguna and Kiros are not in the party, grants [100% Critical (15s)] to all allies if one of Laguna or Kiros are in the party, grants [100% Critical (15s)] and [Critical Damage +50% (15s)] to all allies if Laguna and Kiros are in the party"
-        },
-        {
           "name": "Massive Anchor+",
           "text": "One single attack (7.50) capped at 99999"
         },
         {
           "name": "Anchor Rain+",
           "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Guidance: Ward (Water/Ice/Earth)",
+          "text": "One single ranged attack (3.36) capped at 99999, grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies if Laguna and Kiros are not in the party, grants [100% Critical (15s)] to all allies if one of Laguna or Kiros are in the party, grants [100% Critical (15s)] and [Critical Damage +50% (15s)] to all allies if Laguna and Kiros are in the party"
         }
       ]
     },
@@ -80520,16 +80520,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 2 with Stacking][Attach Dark 2 with Stacking] if entry damage was Wind/Dark, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Ultimecia (Wind, Dark)]"
         },
         {
-          "name": "Spirit Attack: Ultimecia (Wind/Dark)",
-          "text": "One single attack (7.39 each) capped at 99999, grants [(Wind/Dark) Ability Damage +30% 3] to the user"
-        },
-        {
           "name": "Final Sentence+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Merciless Blades+",
           "text": "Seven single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Ultimecia (Wind/Dark)",
+          "text": "One single attack (7.39 each) capped at 99999, grants [(Wind/Dark) Ability Damage +30% 3] to the user"
         }
       ]
     },
@@ -81333,12 +81333,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Zidane (Wind)] to the user"
         },
         {
-          "name": "Spirit Attack: Zidane (Wind)",
-          "text": "Grants [100% Critical 3] and [Deadly Strikes +30% 3] to the user"
-        },
-        {
           "name": "Scoop Art+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Zidane (Wind)",
+          "text": "Grants [100% Critical 3] and [Deadly Strikes +30% 3] to the user"
         }
       ]
     },
@@ -82213,12 +82213,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Garnet (Summoning, Bard)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Garnet (Lightning)",
-          "text": "Four single attacks (1.50 each), causes [Imperil Lightning (5s)]"
-        },
-        {
           "name": "Divine Guardian+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000, restores 1000 HP to all allies"
+        },
+        {
+          "name": "Spirit Attack: Garnet (Lightning)",
+          "text": "Four single attacks (1.50 each), causes [Imperil Lightning (5s)]"
         }
       ]
     },
@@ -82315,12 +82315,12 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Garnet (Holy)] "
         },
         {
-          "name": "Spirit Attack: Garnet (Holy)",
-          "text": "Grants [Dualcast Summoning 1] and [Magical Quick Cast 4] to all allies"
-        },
-        {
           "name": "Divine Guardian+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000, restores 1000 HP to all allies"
+        },
+        {
+          "name": "Spirit Attack: Garnet (Holy)",
+          "text": "Grants [Dualcast Summoning 1] and [Magical Quick Cast 4] to all allies"
         }
       ]
     },
@@ -83364,12 +83364,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Vivi (Fire)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Vivi (Fire)",
-          "text": "Grants [Buff Fire 20% (15s)] and [Fire Ability Instant Cast 3] to the user"
-        },
-        {
           "name": "Double Black Magic Fira+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Vivi (Fire)",
+          "text": "Grants [Buff Fire 20% (15s)] and [Fire Ability Instant Cast 3] to the user"
         }
       ]
     },
@@ -84547,12 +84547,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Steiner] to the user"
         },
         {
-          "name": "Spirit Attack: Steiner",
-          "text": "One single attack (0.59), Absolute Devotion +1 to user"
-        },
-        {
           "name": "Spellblade+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Steiner",
+          "text": "One single attack (0.59), Absolute Devotion +1 to user"
         }
       ]
     },
@@ -85199,16 +85199,16 @@
           "text": "Seven single jump attacks (? each) capped at 19999, grants [Damage Cap +10000], [Attach Window 3 with Stacking], [Zenith Mode], and [Zenith Mode: Freya (Wind)]"
         },
         {
-          "name": "Spirit Attack: Freya",
-          "text": "Grants [Weakness +30% Boost 3] to the user/party if there are 0-3/4+ Dragoon or IX members in the party"
-        },
-        {
           "name": "Lancer (IX)+",
           "text": "Five single ranged jump attacks (1.10 each), restores 1000 HP to all allies"
         },
         {
           "name": "Lunar Ray+",
           "text": "Seven single jump attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Freya",
+          "text": "Grants [Weakness +30% Boost 3] to the user/party if there are 0-3/4+ Dragoon or IX members in the party"
         }
       ]
     },
@@ -86327,16 +86327,16 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [High Quick Cast 3], and [Ultimate Re-Cure] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Eiko (White Magic)] to the user"
         },
         {
-          "name": "Spirit Attack: Eiko (White Magic)",
-          "text": "Grants [HP Stock (2000)] to all allies"
-        },
-        {
           "name": "Prayer of the Lost+",
           "text": "Four single attacks (4.95 each), minimum damage 2000, restores 2500 HP to all allies"
         },
         {
           "name": "Emerald Light+",
           "text": "Restores HP (20) to all allies,  grants smart ether 1 to all allies every fourth cast"
+        },
+        {
+          "name": "Spirit Attack: Eiko (White Magic)",
+          "text": "Grants [HP Stock (2000)] to all allies"
         }
       ]
     },
@@ -86385,16 +86385,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Eiko (Wind, Holy)] "
         },
         {
-          "name": "Spirit Attack: Eiko II",
-          "text": "Single attack (14.52/16.40) capped at 99999, higher multiplier if exploiting weakness"
-        },
-        {
           "name": "Prayer of the Lost+ II",
           "text": "Four single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000, restores 1500 HP to all allies"
         },
         {
           "name": "Emerald Light+",
           "text": "Restores HP (20) to all allies,  grants smart ether 1 to all allies every fourth cast"
+        },
+        {
+          "name": "Spirit Attack: Eiko II",
+          "text": "Single attack (14.52/16.40) capped at 99999, higher multiplier if exploiting weakness"
         }
       ]
     },
@@ -87034,16 +87034,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Amarant (Fire)] to the user"
         },
         {
-          "name": "Spirit Attack: Amarant (Fire)",
-          "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3]/[Weakness +30% Boost 3] to all allies if 0-3/4+ FF9 allies are alive"
-        },
-        {
           "name": "Countdown+",
           "text": "Five single attacks (1.20 each), restores 1500 HP to the lowest HP% ally"
         },
         {
           "name": "Faithful Fist+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Amarant (Fire)",
+          "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3]/[Weakness +30% Boost 3] to all allies if 0-3/4+ FF9 allies are alive"
         }
       ]
     },
@@ -87706,16 +87706,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Beatrix (Holy)] to the user"
         },
         {
-          "name": "Spirit Attack: Beatrix (Holy)",
-          "text": "Two single attacks (0.60 each) with 100% hit rate, causes [Imperil Holy 10% (5s)]"
-        },
-        {
           "name": "Seiken Shock+",
           "text": "One single ranged attack (7.50) capped at 99999 with 100% hit rate"
         },
         {
           "name": "Seiken Climhazzard+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Beatrix (Holy)",
+          "text": "Two single attacks (0.60 each) with 100% hit rate, causes [Imperil Holy 10% (5s)]"
         }
       ]
     },
@@ -88452,16 +88452,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Kuja (Dark)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Kuja (Dark)",
-          "text": "Grants [Damage Cap +10000 2] and [Dark Ability +30% Boost 2] to the user and damages the user for 25% max HP"
-        },
-        {
           "name": "Darkflare Star+",
           "text": "Five single attacks (3.80/3.95 each), capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Snatch Blow+",
           "text": "Seven single attacks (?/? each) after 0-2/3+ uses, causes [Doom: 45] to the user"
+        },
+        {
+          "name": "Spirit Attack: Kuja (Dark)",
+          "text": "Grants [Damage Cap +10000 2] and [Dark Ability +30% Boost 2] to the user and damages the user for 25% max HP"
         }
       ]
     },
@@ -89004,12 +89004,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] to the user if entry damage was Wind/Poison, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Marcus (Wind, Poison)] to the user"
         },
         {
-          "name": "Spirit Attack: Marcus (Wind, Poison)",
-          "text": "Causes [Imperil Wind 10% (5s)] and [Imperil Poison 10% (5s)], grants [Buff Wind 10% (5s)] and [Buff Poison 10% (5s)] to all allies"
-        },
-        {
           "name": "Tantalus Break+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Marcus (Wind, Poison)",
+          "text": "Causes [Imperil Wind 10% (5s)] and [Imperil Poison 10% (5s)], grants [Buff Wind 10% (5s)] and [Buff Poison 10% (5s)] to all allies"
         }
       ]
     },
@@ -90811,16 +90811,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Yuna (Holy)] to the user"
         },
         {
-          "name": "Spirit Attack: Yuna",
-          "text": "One single attack (14.30) capped at 99999, 16.15 if exploiting weakness"
-        },
-        {
           "name": "The Sending+",
           "text": "Five single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000, restores 1000 HP to all allies"
         },
         {
           "name": "Whistle Promise+",
           "text": "Restores HP (20), smart ether 1 every fourth activation"
+        },
+        {
+          "name": "Spirit Attack: Yuna",
+          "text": "One single attack (14.30) capped at 99999, 16.15 if exploiting weakness"
         }
       ]
     },
@@ -91574,16 +91574,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Wakka]"
         },
         {
-          "name": "Spirit Attack: Wakka",
-          "text": "Two single ranged physical attacks (0.60 each) and causes [Imperil Water 10% (5s)] to the target"
-        },
-        {
           "name": "Element Reels+",
           "text": "Four single ranged attacks (1.00 each), grants [Buff Water 10% (15s)] to all allies every second activation"
         },
         {
           "name": "Attack Reels+",
           "text": "Six single ranged attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Wakka",
+          "text": "Two single ranged physical attacks (0.60 each) and causes [Imperil Water 10% (5s)] to the target"
         }
       ]
     },
@@ -92917,16 +92917,16 @@
           "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Kimahri] to the user"
         },
         {
-          "name": "Spirit Attack: Kimahri",
-          "text": "Grants [Weakness +30% Boost 3] to self/all allies with at least 0-3/4+ Dragoon or X members in the party"
-        },
-        {
           "name": "Ronso Jump+",
           "text": "Seven single ranged jump attacks (1.05/1.10 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Azure Lance+",
           "text": "Three single ranged jump attacks (1.10 each), grants [Instant Cast 1] to the user"
+        },
+        {
+          "name": "Spirit Attack: Kimahri",
+          "text": "Grants [Weakness +30% Boost 3] to self/all allies with at least 0-3/4+ Dragoon or X members in the party"
         }
       ]
     },
@@ -93717,16 +93717,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rikku] to the user"
         },
         {
-          "name": "Spirit Attack: Rikku",
-          "text": "Grants [Deadly Strikes +20% 3] to all allies"
-        },
-        {
           "name": "Al Bhed Steal+",
           "text": "Four single attacks (1.10 each), causes [ATK and DEF -50% (8s)], grants [ATK and DEF +50%] for 8 seconds to the user"
         },
         {
           "name": "Tidal Wave+",
           "text": "Seven single ranged attacks (0.95/1.00 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Rikku",
+          "text": "Grants [Deadly Strikes +20% 3] to all allies"
         }
       ]
     },
@@ -94548,16 +94548,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Buff Fire 20% (15s)] to the user/ [ATK and MND +30%, DEF and RES +25% (8s)] and [Samurai Quick Cast 1] to all allies with 0-3/4+ Samurai allies in the party, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Auron] to the user"
         },
         {
-          "name": "Spirit Attack: Auron",
-          "text": "Grants [Deadly Strikes +20% 2] to all allies"
-        },
-        {
           "name": "Banishing Blade+",
           "text": "One single attack (7.50) capped at 99999, causes [ATK, DEF, MAG and RES -50% (15s)] to the target"
         },
         {
           "name": "Dragon Fang+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Auron",
+          "text": "Grants [Deadly Strikes +20% 2] to all allies"
         }
       ]
     },
@@ -95301,16 +95301,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark 2 with Stacking]/[Attach Fire 2 with Stacking] based on entry element damage, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Jecht] to the user, grants [Physical Quick Cast 3]/[Physical Quick Cast] to party with at least 0-3/4 X members"
         },
         {
-          "name": "Spirit Attack: Jecht",
-          "text": "Six single attacks (0.59 each)"
-        },
-        {
           "name": "Jecht Beam+",
           "text": "Four single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, followed by one ranged attack (1.20/1.25) capped at 9999/19999 after 0-2/3+ uses with additional 20% critical damage"
         },
         {
           "name": "Jecht Shot Mark III+",
           "text": "Four single ranged attacks (1.10 each), grants [Sharpshooter Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Jecht",
+          "text": "Six single attacks (0.59 each)"
         }
       ]
     },
@@ -97233,12 +97233,12 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Seymour]"
         },
         {
-          "name": "Spirit Attack: Seymour",
-          "text": "Causes  [Imperil Dark 30% (5s)] to the target and grants [Dualcast Dark 1] to the user"
-        },
-        {
           "name": "Anima's Pain+",
           "text": "Five group attacks (? each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000"
+        },
+        {
+          "name": "Spirit Attack: Seymour",
+          "text": "Causes  [Imperil Dark 30% (5s)] to the target and grants [Dualcast Dark 1] to the user"
         }
       ]
     },
@@ -98543,16 +98543,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Ayame (Ice)] to the user"
         },
         {
-          "name": "Spirit Attack: Ayame (Ice)",
-          "text": "Grants [Deadly Strikes +20% 1], [Damage Cap +10000 1], [Samurai +50% Boost 1] and [Samurai Ability Instant Cast 1] to the user"
-        },
-        {
           "name": "Tachi: Gekko+",
           "text": "Six single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses, 100% additional critical chance if user has [Retaliate] or [High Retaliate]"
         },
         {
           "name": "Hagakure Kaiden: Yukikaze+",
           "text": "One single attack (7.50) capped at 99999, grants [Retaliate] to the user"
+        },
+        {
+          "name": "Spirit Attack: Ayame (Ice)",
+          "text": "Grants [Deadly Strikes +20% 1], [Damage Cap +10000 1], [Samurai +50% Boost 1] and [Samurai Ability Instant Cast 1] to the user"
         }
       ]
     },
@@ -99097,16 +99097,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Instant Cast 1] to all XI/Knight allies, grants [Attach Holy with Stacking, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Curilla] to the user"
         },
         {
-          "name": "Spirit Attack: Curilla",
-          "text": "Grants [Damage Cap +10000 2] to user/[Damage Cap +10000 2] and [Prismatic +30% Boost 2] to all allies if 0-3/4+ XI/Knight allies are alive"
-        },
-        {
           "name": "Swift Blade+",
           "text": "4 single attacks (1.10 each), grants [10% Damage Reduction Barrier 1] to all allies"
         },
         {
           "name": "Circle Blade+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Curilla",
+          "text": "Grants [Damage Cap +10000 2] to user/[Damage Cap +10000 2] and [Prismatic +30% Boost 2] to all allies if 0-3/4+ XI/Knight allies are alive"
         }
       ]
     },
@@ -100859,12 +100859,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 3 with Stacking], [Zenith Mode], and [Zenith Mode: Zeid (Dark)]"
         },
         {
-          "name": "Spirit Attack: Zeid",
-          "text": "Grants [Damage Cap +10000 2] and [Dark Ability +30% Boost 2] to the user and damages the user for 25% max HP"
-        },
-        {
           "name": "Abyssal Strike+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Zeid",
+          "text": "Grants [Damage Cap +10000 2] and [Dark Ability +30% Boost 2] to the user and damages the user for 25% max HP"
         }
       ]
     },
@@ -101214,16 +101214,16 @@
           "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [Pentabreak Damage Boost (15s)] and [Quick Cast] to all allies, grants [Zenith Mode] and [Zenith Mode: Lilisette] to the user"
         },
         {
-          "name": "Spirit Attack: Lilisette",
-          "text": "Causes [Imperil Prismatic 10% (5s)] and grants [Buff Prismatic 10% (5s)] to all allies"
-        },
-        {
           "name": "Sensual Dance+",
           "text": "Restores 2500 HP, causes [ATK, DEF and MAG -50% (8s)] to all enemies"
         },
         {
           "name": "Dancer's Cheer+",
           "text": "Transfers the user's Soul Break points to the target (maximum of 500 Soul Break points), grants [Instant Cast 1]"
+        },
+        {
+          "name": "Spirit Attack: Lilisette",
+          "text": "Causes [Imperil Prismatic 10% (5s)] and grants [Buff Prismatic 10% (5s)] to all allies"
         }
       ]
     },
@@ -101427,16 +101427,16 @@
           "text": "Seven single attacks (0.79 each) capped at 19999, grants [ATK and MND +50% (15s)] and [100% Critical (25s)] to all allies, grants [Zenith Mode], and [Zenith Mode: Naja]"
         },
         {
-          "name": "Spirit Attack: Naja",
-          "text": "Grants [Weakness +30% Boost 1] to all allies"
-        },
-        {
           "name": "Cat President's Reward+",
           "text": "Grants [Physical Quick Cast 2] to all allies"
         },
         {
           "name": "Peacebreaker+",
           "text": "Four single hits (1.10 each), causes [DEF -50% (8s)]"
+        },
+        {
+          "name": "Spirit Attack: Naja",
+          "text": "Grants [Weakness +30% Boost 1] to all allies"
         }
       ]
     },
@@ -101771,12 +101771,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] if entry damage was Ice/Lightning/Water/Wind, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Arciela] to the user"
         },
         {
-          "name": "Spirit Attack: Arciela",
-          "text": "Grants [Ice/Lightning/Water/Wind Ability +10% Boost 3]/[Prismatic Ability +30% Boost 3] if 0-3/4+ FFXI allies are alive"
-        },
-        {
           "name": "Harmonic Displacement+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Arciela",
+          "text": "Grants [Ice/Lightning/Water/Wind Ability +10% Boost 3]/[Prismatic Ability +30% Boost 3] if 0-3/4+ FFXI allies are alive"
         }
       ]
     },
@@ -102600,16 +102600,16 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Vaan]"
         },
         {
-          "name": "Spirit Attack: Vaan",
-          "text": "Six single physical attacks (0.80/0.90 each) capped at 19999, higher multiplier if exploiting weakness"
-        },
-        {
           "name": "Red Spiral+",
           "text": "Five single attacks (1.10/? each) after 0-2/3+ uses, causes [Imperil Wind 10% (5s)]"
         },
         {
           "name": "Windburst+",
           "text": "Seven single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Vaan",
+          "text": "Six single physical attacks (0.80/0.90 each) capped at 19999, higher multiplier if exploiting weakness"
         }
       ]
     },
@@ -103413,16 +103413,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Balthier (Fire)] to the user"
         },
         {
-          "name": "Spirit Attack: Balthier",
-          "text": "Causes [Imperil Fire 10% (5s)]/[Fire Ability +30% Boost 1] and [Quick Cast 1] to the user if target's Fire Weakness is 0%-40%/50%+"
-        },
-        {
           "name": "Fires of War+",
           "text": "Seven single ranged attacks (0.95/1.00 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Makara+",
           "text": "Five single ranged attacks (1.10 each), causes [Imperil Fire 10% (5s)]"
+        },
+        {
+          "name": "Spirit Attack: Balthier",
+          "text": "Causes [Imperil Fire 10% (5s)]/[Fire Ability +30% Boost 1] and [Quick Cast 1] to the user if target's Fire Weakness is 0%-40%/50%+"
         }
       ]
     },
@@ -104084,16 +104084,16 @@
           "text": "Seven single ranged attacks (0.90 each), grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage is Ice/Lightning, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Fran] to the user"
         },
         {
-          "name": "Spirit Attack: Fran",
-          "text": "Causes [DEF and RES -50% (8s) Custom Param], grants [Quick Cast 1] to the user"
-        },
-        {
           "name": "Shatterheart+",
           "text": "Four single ranged attacks (1.10 each), causes [Imperil Ice 10% (5s)] and [Imperil Lightning 10% (5s)]"
         },
         {
           "name": "Feral Mist Strike+",
           "text": "Six single ranged attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Fran",
+          "text": "Causes [DEF and RES -50% (8s) Custom Param], grants [Quick Cast 1] to the user"
         }
       ]
     },
@@ -104817,16 +104817,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Holy/Fire, grants [Zenith Mode], [Zenith Mode: Basch (Holy)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Basch (Holy)",
-          "text": "One single attack (3.31) capped at 99999, grants [100% Critical 3] to all allies"
-        },
-        {
           "name": "Ruin Impendent+",
           "text": "Four single attacks (1.10 each), grants [HP Stock (2000)] to the user"
         },
         {
           "name": "Clash of Light and Flame+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Basch (Holy)",
+          "text": "One single attack (3.31) capped at 99999, grants [100% Critical 3] to all allies"
         }
       ]
     },
@@ -105557,12 +105557,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Ashe (Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Ashe (Lightning)",
-          "text": "Four single attacks (2.70 each), 3.05 if exploiting Lightning weakness"
-        },
-        {
           "name": "Maelstrom's Bolt+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Ashe (Lightning)",
+          "text": "Four single attacks (2.70 each), 3.05 if exploiting Lightning weakness"
         }
       ]
     },
@@ -106096,16 +106096,16 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], [High Quick Cast 3], and [Natural Cure: Penelo] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Penelo] to the user"
         },
         {
-          "name": "Spirit Attack: Penelo",
-          "text": "Grants [HP Stock (2000)] to all allies"
-        },
-        {
           "name": "War Dance+",
           "text": "Restores 2000 HP, grants [War Dance ATK and MAG +5%/10%/20%/30%], grants [Proficiency 1/2/3/3] to the user if the user has Proficiency 0/1/2/3"
         },
         {
           "name": "Healing Step+",
           "text": "Restores HP (?)"
+        },
+        {
+          "name": "Spirit Attack: Penelo",
+          "text": "Grants [HP Stock (2000)] to all allies"
         }
       ]
     },
@@ -107792,12 +107792,12 @@
           "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [MAG and DEF +50% (25s)] or [ATK and DEF +50% (25s)], [Attach Dark 3 with Stacking], [Damage Cap +10000] and [Zenith Mode: Vayne (Dark)] to the user"
         },
         {
-          "name": "Spirit Attack: Vayne (Dark)",
-          "text": "Grants [Buff Dark 10% (5s)] and causes [Imperil Dark 10% (5s)]"
-        },
-        {
           "name": "Force of Will+",
           "text": "Six single ranged hybrid attacks (3.80/3.95 or 1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Vayne (Dark)",
+          "text": "Grants [Buff Dark 10% (5s)] and causes [Imperil Dark 10% (5s)]"
         }
       ]
     },
@@ -108292,12 +108292,12 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Reks]"
         },
         {
-          "name": "Spirit Attack: Reks",
-          "text": "Single target attack (3.36) capped at 99999 and grant [100% Critical 3] to all allies/[Damage +50% Boost 1] and [Quick Cast 1] to all XII allies with 0-3/4+ XII allies alive "
-        },
-        {
           "name": "Dual Swords+",
           "text": "Six single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Reks",
+          "text": "Single target attack (3.36) capped at 99999 and grant [100% Critical 3] to all allies/[Damage +50% Boost 1] and [Quick Cast 1] to all XII allies with 0-3/4+ XII allies alive "
         }
       ]
     },
@@ -109237,16 +109237,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Lightning (Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Lightning (Lightning)",
-          "text": "Grants [100% Critical 5] and [Instant Cast 5] to the user"
-        },
-        {
           "name": "Blaze Rush+",
           "text": "Six single ranged attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Crushing Blow+",
           "text": "Three single attacks (1.10 each), grants [Instant Cast 1] to the user"
+        },
+        {
+          "name": "Spirit Attack: Lightning (Lightning)",
+          "text": "Grants [100% Critical 5] and [Instant Cast 5] to the user"
         }
       ]
     },
@@ -109297,16 +109297,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Zenith Mode], [Zenith Mode: Lightning (Holy)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Lightning (Holy)",
-          "text": "1/5/15 single attacks (0.60) each, increasing after each use, grants [Physical Quick Cast 1] to all allies"
-        },
-        {
           "name": "Blaze Rush+",
           "text": "Six single ranged attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Crushing Blow+",
           "text": "Three single attacks (1.10 each), grants [Instant Cast 1] to the user"
+        },
+        {
+          "name": "Spirit Attack: Lightning (Holy)",
+          "text": "1/5/15 single attacks (0.60) each, increasing after each use, grants [Physical Quick Cast 1] to all allies"
         }
       ]
     },
@@ -110245,16 +110245,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [Zenith Mode], [Zenith Mode: Snow (Ice)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Snow (Ice)",
-          "text": "Four single attacks (0.60 each), 100% hit rate, damages the user for 25% max HP,  grants [Buff Ice 10% (15s)] and [Quick Cast 1] to the user"
-        },
-        {
           "name": "Froststrike+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants [40% Damage Reduction Barrier 1] to the user"
         },
         {
           "name": "Sovereign Fist+",
           "text": "One single attack (7.50) capped at 99999"
+        },
+        {
+          "name": "Spirit Attack: Snow (Ice)",
+          "text": "Four single attacks (0.60 each), 100% hit rate, damages the user for 25% max HP,  grants [Buff Ice 10% (15s)] and [Quick Cast 1] to the user"
         }
       ]
     },
@@ -110881,12 +110881,12 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Last Stand], [High Quick Cast 2], and [Natural Cure: Vanille] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Vanille] to the user"
         },
         {
-          "name": "Spirit Attack: Vanille",
-          "text": "Grants [HP Stock (2000)] to all allies, and grants [Quick Cast 1] to all allies every other cast"
-        },
-        {
           "name": "Oerba's Boon+",
           "text": "Restores HP (25)"
+        },
+        {
+          "name": "Spirit Attack: Vanille",
+          "text": "Grants [HP Stock (2000)] to all allies, and grants [Quick Cast 1] to all allies every other cast"
         }
       ]
     },
@@ -111423,16 +111423,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Zenith Mode], [Zenith Mode: Sazh (Machinist)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Sazh (Machinist)",
-          "text": "Grants [Deadly Strikes +10% 1]/[Deadly Strikes +30% 1] if 0-3/4+ allies are Machinists"
-        },
-        {
           "name": "Chocolina Blues+",
           "text": "Grants [10% Damage Reduction Barrier 1], grants [Exertion ATK and MAG +5%/10%/20%/30%], grants [Exertion 1/2/3/3] to the user if the user has Exertion 0/1/2/3"
         },
         {
           "name": "Godsend Shot+",
           "text": "Three single ranged attacks (1.10/1.15 each) capped at 9999/19999 after 0-2/3+ uses, grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)] and [Buff Lightning 10% (15s)] to all allies every third activation"
+        },
+        {
+          "name": "Spirit Attack: Sazh (Machinist)",
+          "text": "Grants [Deadly Strikes +10% 1]/[Deadly Strikes +30% 1] if 0-3/4+ allies are Machinists"
         }
       ]
     },
@@ -112811,16 +112811,16 @@
           "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Fang (Dragoon)]"
         },
         {
-          "name": "Spirit Attack: Fang (Dragoon)",
-          "text": "Grants [Dragoon Instant Cast 2] and [Dragoon +30% Boost 2] to the user"
-        },
-        {
           "name": "Whirlwind+",
           "text": "Seven single ranged jump attacks (1.05 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Aerial Loop+",
           "text": "Four single ranged jump attacks (1.10 each), grants [Jump Instant Cast] to the user"
+        },
+        {
+          "name": "Spirit Attack: Fang (Dragoon)",
+          "text": "Grants [Dragoon Instant Cast 2] and [Dragoon +30% Boost 2] to the user"
         }
       ]
     },
@@ -113663,12 +113663,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Serah (Water)] to the user"
         },
         {
-          "name": "Spirit Attack: Serah (Water)",
-          "text": "Causes [DEF and RES -50% (8s)], grants [Quick Cast 1] to all allies"
-        },
-        {
           "name": "Artemis Volley+",
           "text": "Five single attacks (3.80 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Water 10% (5s)]"
+        },
+        {
+          "name": "Spirit Attack: Serah (Water)",
+          "text": "Causes [DEF and RES -50% (8s)], grants [Quick Cast 1] to all allies"
         }
       ]
     },
@@ -114522,12 +114522,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 2 with Stacking]/[Attach Holy 2 with Stacking] if entry damage was Dark/Holy, [Zenith Mode] [Zenith Mode: Cid Raines (Seraphic Shift)] to the user"
         },
         {
-          "name": "Spirit Attack: Cid Raines (Seraphic Shift)",
-          "text": "Two single attacks (2.66/3.01 each) capped at 9999/19999 if the user's Doom timer is below 20, higher multiplier if exploiting holy/dark weakness and the user's Doom timer is below 20.  Grants [Buff Dark 10% (5s)] and [Buff Holy 10% (5s)] to all allies."
-        },
-        {
           "name": "Seraphic Wing+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses, causes [Doom: 45] to the user"
+        },
+        {
+          "name": "Spirit Attack: Cid Raines (Seraphic Shift)",
+          "text": "Two single attacks (2.66/3.01 each) capped at 9999/19999 if the user's Doom timer is below 20, higher multiplier if exploiting holy/dark weakness and the user's Doom timer is below 20.  Grants [Buff Dark 10% (5s)] and [Buff Holy 10% (5s)] to all allies."
         }
       ]
     },
@@ -115201,16 +115201,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Noel (Ice)] to the user"
         },
         {
-          "name": "Spirit Attack: Noel (Ice)",
-          "text": "Grants [Buff Ice 20% (15s)], [Ice Ability Instant Cast 3] to the user"
-        },
-        {
           "name": "Meteor Javelin+",
           "text": "Six single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Fang Lance+",
           "text": "Four single ranged attacks (? each), grants [Sharpshooter Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Noel (Ice)",
+          "text": "Grants [Buff Ice 20% (15s)], [Ice Ability Instant Cast 3] to the user"
         }
       ]
     },
@@ -116047,16 +116047,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Nabaat (Dark)] to the user"
         },
         {
-          "name": "Spirit Attack: Nabaat (Dark)",
-          "text": "Damages the user for 25% max HP, grants [Magical +30% Boost 3] and [Quick Cast 3] to the user"
-        },
-        {
           "name": "Sacrifice Pawn+",
           "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses, grants [HP Stock (3000)] to the user"
         },
         {
           "name": "Ruthless Gear+",
           "text": "Seven single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Nabaat (Dark)",
+          "text": "Damages the user for 25% max HP, grants [Magical +30% Boost 3] and [Quick Cast 3] to the user"
         }
       ]
     },
@@ -116834,12 +116834,12 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Y'shtola] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Y'shtola] to the user"
         },
         {
-          "name": "Spirit Attack: Y'shtola",
-          "text": "Grants [HP Stock (2000)] to all allies"
-        },
-        {
           "name": "Medica II+",
           "text": "Restores HP (20), restores 1 consumed ability use every fourth activation"
+        },
+        {
+          "name": "Spirit Attack: Y'shtola",
+          "text": "Grants [HP Stock (2000)] to all allies"
         }
       ]
     },
@@ -116917,12 +116917,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Y'shtola II] to the user"
         },
         {
-          "name": "Spirit Attack: Y'shtola II",
-          "text": "Grants [HP Stock (3000)] to all allies, and grants [Soul Break Gauge +250] to the user after 3 chases"
-        },
-        {
           "name": "Ethereal Force+",
           "text": "Six single attacks (3.80 each)"
+        },
+        {
+          "name": "Spirit Attack: Y'shtola II",
+          "text": "Grants [HP Stock (3000)] to all allies, and grants [Soul Break Gauge +250] to the user after 3 chases"
         }
       ]
     },
@@ -118475,12 +118475,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Papalymo] to the user"
         },
         {
-          "name": "Spirit Attack: Papalymo",
-          "text": "One single attack (14.52/16.40) higher multiplier if exploiting weakness to Fire, grants [Buff Fire 10% (5s)] to the user"
-        },
-        {
           "name": "Scion's Fire+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Papalymo",
+          "text": "One single attack (14.52/16.40) higher multiplier if exploiting weakness to Fire, grants [Buff Fire 10% (5s)] to the user"
         }
       ]
     },
@@ -119142,12 +119142,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Alphinaud] to the user"
         },
         {
-          "name": "Spirit Attack: Alphinaud",
-          "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250] to the user"
-        },
-        {
           "name": "Aerial Slice+",
           "text": "Five single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000, restores 1000 HP to all allies"
+        },
+        {
+          "name": "Spirit Attack: Alphinaud",
+          "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250] to the user"
         }
       ]
     },
@@ -119671,16 +119671,16 @@
           "text": "Grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)], [Quick Cast] and [Weakness +30% Boost (15s)] to all allies, grants [Zenith Mode] and [Zenith Mode: Minfilia] to the user"
         },
         {
-          "name": "Spirit Attack: Minfilia",
-          "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 10% (15s)], [Buff Prismatic 10% (15s)] and [200% ATB 1] if 0-3/4+ XIV allies are alive"
-        },
-        {
           "name": "The Echo+",
           "text": "Restores 2000 HP"
         },
         {
           "name": "Entrusted Will+",
           "text": "Transfers the user's Soul Break points to the target (maximum of 500 Soul Break points), grants [Instant Cast 1]"
+        },
+        {
+          "name": "Spirit Attack: Minfilia",
+          "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 10% (15s)], [Buff Prismatic 10% (15s)] and [200% ATB 1] if 0-3/4+ XIV allies are alive"
         }
       ]
     },
@@ -120404,12 +120404,12 @@
           "text": "Seven single summoning attacks (3.05) capped at 19999, grants [Damage Cap +10000], [Attach Ice 3 with Stacking], [Zenith Mode], and [Zenith Mode: Ysayle (Ice)]"
         },
         {
-          "name": "Spirit Attack: Ysayle",
-          "text": "Grants [Buff Ice 20% (15s)] and [Damage Cap +10000 2]"
-        },
-        {
           "name": "Diamond Dust+",
           "text": "Five group attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000"
+        },
+        {
+          "name": "Spirit Attack: Ysayle",
+          "text": "Grants [Buff Ice 20% (15s)] and [Damage Cap +10000 2]"
         }
       ]
     },
@@ -121200,16 +121200,16 @@
           "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Dark 2 with Stacking] if entry damage was Wind/Dark, [Zenith Mode], [Zenith Mode: Estinien] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Estinien",
-          "text": "One single ranged jump attack (3.36), grants [Dragoon Instant Cast 3]/[Damage +50% Boost 1] and [Quick Cast 1] if 0-3/4+ FF14 allies are alive"
-        },
-        {
           "name": "Star Diver+",
           "text": "Six single ranged jump attacks (1.25/1.30 each), capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Coerthan Torment+",
           "text": "Four single ranged jump attacks (1.10 each), grants [Dragoon Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Estinien",
+          "text": "One single ranged jump attack (3.36), grants [Dragoon Instant Cast 3]/[Damage +50% Boost 1] and [Quick Cast 1] if 0-3/4+ FF14 allies are alive"
         }
       ]
     },
@@ -121670,16 +121670,16 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Lightning 2 with Stacking] based if entry damage was Wind/Lightning, [Zenith Mode], [Zenith Mode: Alisaie (Wind, Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Alisaie (Lightning, Wind)",
-          "text": "Four single attacks (2.60 each), grants [Magical Quick Cast 1] to user"
-        },
-        {
           "name": "Jolt+",
           "text": "Three single attacks (3.60  each), grants [Instant Cast 1] to the user"
         },
         {
           "name": "Impact+",
           "text": "Six single attacks (3.80/3.95 each), capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Alisaie (Lightning, Wind)",
+          "text": "Four single attacks (2.60 each), grants [Magical Quick Cast 1] to user"
         }
       ]
     },
@@ -122428,12 +122428,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Noctis (Lightning, Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Noctis (Lightning)",
-          "text": "Six single attacks (0.8 each), 0.9 if exploiting Lightning weakness"
-        },
-        {
           "name": "Shifting Lightning+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Noctis (Lightning)",
+          "text": "Six single attacks (0.8 each), 0.9 if exploiting Lightning weakness"
         }
       ]
     },
@@ -122505,16 +122505,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Noctis (Fire)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Noctis (Fire)",
-          "text": "Grants [Fire Instant Cast 1] to the user, grants [Buff Fire 10% (5s)] every 2 uses"
-        },
-        {
           "name": "Shifting Flame+",
           "text": "Three single attacks (1.10 each), grants [Instant Cast 1] to the user"
         },
         {
           "name": "Shifting Ignition+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Noctis (Fire)",
+          "text": "Grants [Fire Instant Cast 1] to the user, grants [Buff Fire 10% (5s)] every 2 uses"
         }
       ]
     },
@@ -122612,12 +122612,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Noctis (Earth)] to the user"
         },
         {
-          "name": "Spirit Attack: Noctis (Earth)",
-          "text": "Grants [Damage Cap +10000 2] and [Weakness +30% Boost 2] to the user and Gladiolus"
-        },
-        {
           "name": "Shift Earth+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Noctis (Earth)",
+          "text": "Grants [Damage Cap +10000 2] and [Weakness +30% Boost 2] to the user and Gladiolus"
         }
       ]
     },
@@ -123262,12 +123262,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Gladiolus (Earth)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Gladiolus (Earth)",
-          "text": "Six single attacks (0.80/0.90 each) with a higher multiplier if hitting Earth weakness, grants [Earth Ability Instant Cast 3] to the user"
-        },
-        {
           "name": "Royal Guard+",
           "text": "Six single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses, grants [20% Damage Reduction Barrier 1] to the user"
+        },
+        {
+          "name": "Spirit Attack: Gladiolus (Earth)",
+          "text": "Six single attacks (0.80/0.90 each) with a higher multiplier if hitting Earth weakness, grants [Earth Ability Instant Cast 3] to the user"
         }
       ]
     },
@@ -123758,10 +123758,6 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ignis (Fire)] to the user"
         },
         {
-          "name": "Spirit Attack: Ignis",
-          "text": "Grants [Buff Fire +10% (5s)], [Buff Lightning +10% (5s)], [Buff Earth +10% (5s)] and [Physical Quick Cast 1] to the ally that triggered the chase"
-        },
-        {
           "name": "Sagefire+",
           "text": "Four single attacks (1.00) each, grants [Buff Fire 10% (15s)] to the user every second activation"
         },
@@ -123772,6 +123768,10 @@
         {
           "name": "Quick Recipe+",
           "text": "Transfers the user's Soul Break points to the target (maximum of 500 Soul Break points), grants [Instant Cast 1] to the user"
+        },
+        {
+          "name": "Spirit Attack: Ignis",
+          "text": "Grants [Buff Fire +10% (5s)], [Buff Lightning +10% (5s)], [Buff Earth +10% (5s)] and [Physical Quick Cast 1] to the ally that triggered the chase"
         }
       ]
     },
@@ -124297,16 +124297,16 @@
           "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Prompto] to the user"
         },
         {
-          "name": "Spirit Attack: Prompto",
-          "text": "Two single attacks (0.80 each), 100% hit rate, causes [Imperil Lightning 10% (5s)], grants [Quick Cast 2] to the user"
-        },
-        {
           "name": "Trigger Happy+",
           "text": "Seven single ranged attacks (0.95/1.00 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Recoil (XV)+",
           "text": "Four single ranged attacks (1.10 each), grants [Machinist Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Prompto",
+          "text": "Two single attacks (0.80 each), 100% hit rate, causes [Imperil Lightning 10% (5s)], grants [Quick Cast 2] to the user"
         }
       ]
     },
@@ -125078,16 +125078,16 @@
           "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Aranea (Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Aranea",
-          "text": "One single ranged jump attack (3.36) capped at 99999, grants [Quick Cast 3] to self/[Weakness +30% Boost 3] to party is 0-3/4+ XV allies are alive"
-        },
-        {
           "name": "Air Superiority+",
           "text": "Seven single ranged jump attacks (1.05 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Spearouette Storm+",
           "text": "Four single ranged jump attacks (1.10 each), grants [Jump Instant Cast 1] to user"
+        },
+        {
+          "name": "Spirit Attack: Aranea",
+          "text": "One single ranged jump attack (3.36) capped at 99999, grants [Quick Cast 3] to self/[Weakness +30% Boost 3] to party is 0-3/4+ XV allies are alive"
         }
       ]
     },
@@ -125479,16 +125479,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Cor (Fire)] to the user"
         },
         {
-          "name": "Spirit Attack: Cor",
-          "text": "Grants [100% Critical 3] and [Quick Cast 3]/[PHY +30% Boost 3] to the user/party with at least 0-3/4+ XV members in the party"
-        },
-        {
           "name": "Predecessor's Might+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants [Retaliate] to the user for 15 seconds"
         },
         {
           "name": "Harangue+",
           "text": "Four single attacks (? each), grants [Samurai Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Cor",
+          "text": "Grants [100% Critical 3] and [Quick Cast 3]/[PHY +30% Boost 3] to the user/party with at least 0-3/4+ XV members in the party"
         }
       ]
     },
@@ -125885,12 +125885,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Lunafreya] to the user"
         },
         {
-          "name": "Spirit Attack: Lunafreya",
-          "text": "Grants  [Magical +30% Boost 1]/[Damage +30% Boost 1] if 0-3/4+ FFXV allies are alive"
-        },
-        {
           "name": "Hydraean Protection+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000, restores 1000 HP to all allies"
+        },
+        {
+          "name": "Spirit Attack: Lunafreya",
+          "text": "Grants  [Magical +30% Boost 1]/[Damage +30% Boost 1] if 0-3/4+ FFXV allies are alive"
         }
       ]
     },
@@ -126353,12 +126353,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], grants [Attach Dark 2 with Stacking]/[Attach Fire 2 with Stacking] depending on if the entry damage was Dark/Fire, [Zenith Mode], and [Zenith Mode: Ardyn (Dark, Fire)]"
         },
         {
-          "name": "Spirit Attack: Ardyn",
-          "text": "Grants [Critical Damage +50% 2], [Instant ATB 2], and [Instant Dark/Fire 2] to the user"
-        },
-        {
           "name": "Aura of Darkness+",
           "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Ardyn",
+          "text": "Grants [Critical Damage +50% 2], [Instant ATB 2], and [Instant Dark/Fire 2] to the user"
         }
       ]
     },
@@ -126667,16 +126667,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Instant Cast 1] to all allies with Attach Lightning or Attach Dark, grants [Attach Lightning 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Ravus (Lightning, Dark)] to the user"
         },
         {
-          "name": "Spirit Attack: Ravus",
-          "text": "Grants [Damage Cap +10000 2]/[Damage Cap +10000 2] and [(Lightning/Dark) Ability +30% Boost 2] to the user/all allies if there are 0-2/3+ allies with Attach Lightning or Dark in the party"
-        },
-        {
           "name": "Zantetsuken+",
           "text": "One single attack (7.10) capped at 99999"
         },
         {
           "name": "Last Rites+",
           "text": "Six single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Ravus",
+          "text": "Grants [Damage Cap +10000 2]/[Damage Cap +10000 2] and [(Lightning/Dark) Ability +30% Boost 2] to the user/all allies if there are 0-2/3+ allies with Attach Lightning or Dark in the party"
         }
       ]
     },
@@ -128121,12 +128121,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Zenith Mode], [Damage Cap +10000], [Holy Ability +30% Boost (15s)], [Zenith Mode: Dion] to user. Grants [Attach Holy 3 with Stacking]."
         },
         {
-          "name": "Spirit Attack: Dion",
-          "text": "Six single attacks (0.90 each), ranged."
-        },
-        {
           "name": "Bahamut Blade+",
           "text": "Seven single ranged attacks (1.05 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Dion",
+          "text": "Six single attacks (0.90 each), ranged."
         }
       ]
     },
@@ -133359,12 +133359,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Ace (Fire)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Ace ",
-          "text": "Four single attacks (2.70 each), 3.05 if exploiting Fire weakness"
-        },
-        {
           "name": "Firaga RF+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Ace ",
+          "text": "Four single attacks (2.70 each), 3.05 if exploiting Fire weakness"
         }
       ]
     },
@@ -133867,16 +133867,16 @@
           "text": "Grants [HP Stock (6000)], [Regenga], [ATK, MAG and MND +30%], [Last Stand], [High Quick Cast 2], and [Natural Cure: Deuce] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Deuce] to the user"
         },
         {
-          "name": "Spirit Attack: Deuce",
-          "text": "Grants [Stoneskin: 20%] to all allies"
-        },
-        {
           "name": "Hymn of Healing",
           "text": "Restores 1000 HP, grants [Hymn of Healing ATK and MAG +5%/10%/20%/30%], grants [Performance 1/2/3/3] to the user if the user has Performance 0/1/2/3"
         },
         {
           "name": "Concerto+",
           "text": "Restores HP (20)"
+        },
+        {
+          "name": "Spirit Attack: Deuce",
+          "text": "Grants [Stoneskin: 20%] to all allies"
         }
       ]
     },
@@ -134285,12 +134285,12 @@
           "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Nine] to the user"
         },
         {
-          "name": "Spirit Attack: Nine",
-          "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] to the target and grants [Deadly Strikes +10% 2] to the user/party with at least 0-3/4+ Dragoon members in the party"
-        },
-        {
           "name": "Whirling Lance+",
           "text": "Six single ranged jump attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Nine",
+          "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] to the target and grants [Deadly Strikes +10% 2] to the user/party with at least 0-3/4+ Dragoon members in the party"
         }
       ]
     },
@@ -134951,12 +134951,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Machina] to the user"
         },
         {
-          "name": "Spirit Attack: Machina",
-          "text": "Grants all allies [100% Critical 3] and [Deadly Strikes +10% 3]"
-        },
-        {
           "name": "Cyclone Drive+",
           "text": "Seven single attacks (1.10/1.15 each) after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Machina",
+          "text": "Grants all allies [100% Critical 3] and [Deadly Strikes +10% 3]"
         }
       ]
     },
@@ -135643,12 +135643,12 @@
           "text": "Seven single attacks (3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rem] to the user"
         },
         {
-          "name": "Spirit Attack: Rem",
-          "text": "Five single attacks (1.60 each) and grants [Holy Ability +30% Boost 3] to the user"
-        },
-        {
           "name": "Siphon Sphere+",
           "text": "Six single attacks (3.87/4.02 each) after 0-2/3+ uses, Smart ether 1 on every second activation"
+        },
+        {
+          "name": "Spirit Attack: Rem",
+          "text": "Five single attacks (1.60 each) and grants [Holy Ability +30% Boost 3] to the user"
         }
       ]
     },
@@ -136232,12 +136232,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Queen (Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Queen (Lightning)",
-          "text": "Grants [Buff Lightning 20% (15s)] and [Lightning Ability Instant Cast 3] to the user"
-        },
-        {
           "name": "Divine Judgement Blade+",
           "text": "Seven single attacks (1.20/1.25 each) after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Queen (Lightning)",
+          "text": "Grants [Buff Lightning 20% (15s)] and [Lightning Ability Instant Cast 3] to the user"
         }
       ]
     },
@@ -136513,16 +136513,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Queen], [Instant Cast 1] to user. Grants [Attach Lightning 3 with Stacking]."
         },
         {
-          "name": "Spirit Attack: Queen II",
-          "text": "Grants [Instant ATB 2], [Lightning Instant Cast 2] to user."
-        },
-        {
           "name": "Divine Judgement Blade+",
           "text": "Seven single attacks (1.20/1.25 each) after 0-2/3+ uses"
         },
         {
           "name": "Mana Sphere+",
           "text": "Four single attacks (1.20/1.25 each), followed by one single attack (6.15/6.35) that ignores DEF, capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Queen II",
+          "text": "Grants [Instant ATB 2], [Lightning Instant Cast 2] to user."
         }
       ]
     },
@@ -136858,16 +136858,16 @@
           "text": "Seven single attacks (? each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: King]"
         },
         {
-          "name": "Spirit Attack: King",
-          "text": "Grants [Lightning Damage +10% (5s)] and [Deadly Strikes +10% 1] to all allies"
-        },
-        {
           "name": "Trigger Finger+",
           "text": "Six single ranged attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Plasma King+",
           "text": "Four single ranged attacks (?/? each after 0-2/3+ uses), grants [Buff Lightning 10% (15s)] to all allies every second activation"
+        },
+        {
+          "name": "Spirit Attack: King",
+          "text": "Grants [Lightning Damage +10% (5s)] and [Deadly Strikes +10% 1] to all allies"
         }
       ]
     },
@@ -137483,16 +137483,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Cinque (Earth, Wind)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Cinque (Earth, Wind)",
-          "text": "Grants [100% Critical 3], [Quick Cast 3] to the user/[100% Critical 3], [Quick Cast 3] and [PHY +30% Boost 3] to all allies if 0-3/4+ Type-0 allies are alive"
-        },
-        {
           "name": "Full Swing+",
           "text": "Six single attacks (1.20 each), grants [Heavy Charge +1] to the user"
         },
         {
           "name": "Gaia Pulse+",
           "text": "Five single attacks (1.15/1.20/1.25 each)/(1.20/1.25/1.30 each) at Heavy Charge 0/1/2 capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Cinque (Earth, Wind)",
+          "text": "Grants [100% Critical 3], [Quick Cast 3] to the user/[100% Critical 3], [Quick Cast 3] and [PHY +30% Boost 3] to all allies if 0-3/4+ Type-0 allies are alive"
         }
       ]
     },
@@ -138778,12 +138778,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Sice (Dark)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Sice (Dark)",
-          "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3] to the user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ Type-0 allies are alive"
-        },
-        {
           "name": "Dark Nebula+",
           "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants the user [HP Stock (3000)]"
+        },
+        {
+          "name": "Spirit Attack: Sice (Dark)",
+          "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3] to the user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ Type-0 allies are alive"
         }
       ]
     },
@@ -139239,12 +139239,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [High Retaliate], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Jack] to the user"
         },
         {
-          "name": "Spirit Attack: Jack",
-          "text": "Grants [Weakness +30% Boost 3] to the user/all allies with 0-3/4+ Samurai or Type-0 allies in the party"
-        },
-        {
           "name": "Lightning Flash+",
           "text": "Six single attacks (1.15/1.25 each) if user hasn't/has [Retaliate] or [High Retaliate], 50% additional critical chance if user has [Retaliate] or [High Retaliate], capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Jack",
+          "text": "Grants [Weakness +30% Boost 3] to the user/all allies with 0-3/4+ Samurai or Type-0 allies in the party"
         }
       ]
     },
@@ -139725,16 +139725,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Eight (Ice)] to the user"
         },
         {
-          "name": "Spirit Attack: Eight (Ice)",
-          "text": "Grants [Deadly Strikes +20% 3], [100% Critical 3 (v2)] to the user"
-        },
-        {
           "name": "Explosive Fist+",
           "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
         },
         {
           "name": "Iceburst Stance+",
           "text": "Four single attacks (1.10 each), grants [Monk Quick Cast 2] to the user"
+        },
+        {
+          "name": "Spirit Attack: Eight (Ice)",
+          "text": "Grants [Deadly Strikes +20% 3], [100% Critical 3 (v2)] to the user"
         }
       ]
     },
@@ -140301,16 +140301,16 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Fire/Ice/Lightning, [Zenith Mode], [Zenith Mode: Cater (Fire, Ice, Lightning)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Cater (Fire, Ice, Lightning)",
-          "text": "Causes [Imperil Prismatic 10% (15s)] and [Machinist Ability Instant Cast 1]/[Imperil Prismatic 30% (15s)] and [Machinist Ability Instant Cast 1] if 0-3/4+ allies are machinists"
-        },
-        {
           "name": "Charged Shot+",
           "text": "Three single ranged attacks (1.10 each), causes [Imperil Fire 10% (5s)], [Imperil Ice 10% (5s)] and [Imperil Lightning 10% (5s)]"
         },
         {
           "name": "Elementillery+",
           "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Cater (Fire, Ice, Lightning)",
+          "text": "Causes [Imperil Prismatic 10% (15s)] and [Machinist Ability Instant Cast 1]/[Imperil Prismatic 30% (15s)] and [Machinist Ability Instant Cast 1] if 0-3/4+ allies are machinists"
         }
       ]
     },
@@ -140918,12 +140918,12 @@
           "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking] to the user if the entry damage was Fire/Ice/Water, [Zenith Mode], [Zenith Mode: Trey (Fire, Ice, Water)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Trey",
-          "text": "One single attack (5.19) capped at 99999, 5.83 if exploiting Fire/Ice/Water weakness"
-        },
-        {
           "name": "Freezing Rain+",
           "text": "Four single ranged attacks (1.20/1.25 each), followed by one single ranged attack (1.20/1.25 each) with additional 20% critical damage capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Trey",
+          "text": "One single attack (5.19) capped at 99999, 5.83 if exploiting Fire/Ice/Water weakness"
         }
       ]
     },
@@ -141435,12 +141435,12 @@
           "text": "Seven single hybrid attacks (0.90/3.05 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Dark 2 with Stacking] if entry damage was Ice/Dark, [Zenith Mode], [Zenith Mode: Kurasame (Ice, Dark)] and [Damage Cap +10000] to the user"
         },
         {
-          "name": "Spirit Attack: Kurasame (Ice, Dark)",
-          "text": "Grants [Buff Ice 20% (15s)], [Buff Dark 20% (15s)] and [(Ice/Dark) Ability Instant Cast 2] to the user"
-        },
-        {
           "name": "Arcane Boreal Blade+",
           "text": "Six single hybrid attacks (1.20 or 3.80 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Kurasame (Ice, Dark)",
+          "text": "Grants [Buff Ice 20% (15s)], [Buff Dark 20% (15s)] and [(Ice/Dark) Ability Instant Cast 2] to the user"
         }
       ]
     },
@@ -142381,12 +142381,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and RES +30% (25s)] to all allies, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Reynn (Ice)] to the user"
         },
         {
-          "name": "Spirit Attack: Reynn (Ice)",
-          "text": "Grants [Dualcast Ice 1] to the user"
-        },
-        {
           "name": "Blizzard Mirajewel+",
           "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Ice 10% (5s)]"
+        },
+        {
+          "name": "Spirit Attack: Reynn (Ice)",
+          "text": "Grants [Dualcast Ice 1] to the user"
         }
       ]
     },
@@ -144355,12 +144355,12 @@
           "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Enna Kros] to the user"
         },
         {
-          "name": "Spirit Attack: Enna Kros",
-          "text": "Five single attacks (1.48 each), grants [Earth Ability +30% Boost 3] to the user"
-        },
-        {
           "name": "The World's Rules+",
           "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+        },
+        {
+          "name": "Spirit Attack: Enna Kros",
+          "text": "Five single attacks (1.48 each), grants [Earth Ability +30% Boost 3] to the user"
         }
       ]
     },
@@ -145566,16 +145566,16 @@
           "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Last Stand], [High Quick Cast 2], and [Natural Cure: Fina] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Fina] to the user"
         },
         {
-          "name": "Spirit Attack: Fina",
-          "text": "Grants [HP Stock (2000)] to all allies, and grants [Quick Cast 1] to all allies every other cast"
-        },
-        {
           "name": "Blossom Heart+",
           "text": "Restores 1000 HP"
         },
         {
           "name": "Prime Heal+",
           "text": "Restores HP (?)"
+        },
+        {
+          "name": "Spirit Attack: Fina",
+          "text": "Grants [HP Stock (2000)] to all allies, and grants [Quick Cast 1] to all allies every other cast"
         }
       ]
     },

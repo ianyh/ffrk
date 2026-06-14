@@ -105,6 +105,15 @@ class SheetData():
         ]
         match sb["tier"]:
             case "ZSB":
+                # try to find the upgraded has
+                sb_name = sb["name"]
+                has = filter(lambda h: h["Source"] == sb_name, self.readers["ua_abilities"])
+                for ha in has:
+                    sections.append({
+                        "name": ha["Name"],
+                        "text": ha["Effects"]
+                    })
+
                 # try to find the character specific mode
                 sb_statuses = extract_statuses(sb["effects"])
                 zenith_mode_name = next((status for status in sb_statuses if status.startswith("Zenith Mode: ")), None)
@@ -120,14 +129,6 @@ class SheetData():
                 else:
                     print(f"zenith mode not found: {zenith_mode} {zenith_mode_name}")
 
-                # try to find the upgraded has
-                sb_name = sb["name"]
-                has = filter(lambda h: h["Source"] == sb_name, self.readers["ua_abilities"])
-                for ha in has:
-                    sections.append({
-                        "name": ha["Name"],
-                        "text": ha["Effects"]
-                    })
 
         return sections
 
