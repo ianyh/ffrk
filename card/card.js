@@ -32,6 +32,45 @@ function el(tag, cls, text) {
 // Build a .card element for one soul break. Returns { card, img } so callers can
 // await the icon load before screenshotting. Accent is set on the card itself
 // (not :root) so a gallery can show many cards with different accents.
+// Render the effect text with emphasis: named sub-entries ("Name = …", e.g.
+// "Desparado+ = …") become bold accent headers, and [status] terms are
+// brightened. A name is the run of text right before " = " (a ; , [ or ] ends
+// it), so commas inside a sub-entry's body don't trip it up.
+// Append text into a container, wrapping [status] terms in highlighted spans.
+function appendRich(container, text) {
+  const re = /(\[[^\]]+\])/g;
+  let last = 0, m;
+  while ((m = re.exec(text))) {
+    if (m.index > last) container.append(text.slice(last, m.index));
+    container.append(el('span', 'status', m[1]));
+    last = re.lastIndex;
+  }
+  if (last < text.length) container.append(text.slice(last));
+}
+
+// Render the effect. `data` is either a plain string, or an array of segments:
+// a string segment is plain lead text, a {name, text} segment is a bubbled
+// sub-entry. Sub-entries flow inline in one continuous paragraph; adjacent
+// bubbles alternate shade so they read as separate.
+function buildDesc(data) {
+  const desc = el('div', 'desc');
+  const segments = Array.isArray(data) ? data : [data];
+  let alt = false;
+  for (const seg of segments) {
+    if (typeof seg === 'string') {
+      appendRich(desc, seg);
+      desc.append(' ');
+    } else {
+      const sec = el('span', alt ? 'section alt' : 'section');
+      alt = !alt;
+      if (seg.name) sec.append(el('span', 'term', seg.name + ':'), ' ');
+      appendRich(sec, seg.text || '');
+      desc.append(sec, ' ');  // wrap opportunity; the visible gap is .section's margin
+    }
+  }
+  return desc;
+}
+
 function buildCard(sb) {
   const card = el('div', 'card');
   card.style.setProperty('--accent', accentFor(sb.type));
@@ -70,7 +109,7 @@ function buildCard(sb) {
   }
   footer.append(elementChips);//, el('span', 'brand', 'ffrk.xyz'));
 
-  card.append(header, el('hr'), el('div', 'desc', sb.description), footer);
+  card.append(header, el('hr'), buildDesc(sb.description), footer);
   return { card, img };
 }
 

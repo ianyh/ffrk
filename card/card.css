@@ -1,12 +1,12 @@
 :root {
   --w: 1200px;
   --h: 630px;
-  --pad: 40px;
+  --pad: 30px 40px;
 
   --bg: #111726;
   --panel: #1a2235;          /* icon backing + neutral chips */
   --text: #f0f3fa;
-  --muted: #a5afc3;          /* effect description */
+  --muted: #b3bed3;          /* effect description */
   --divider: #2d364b;
   --accent: #96a0b4;         /* set per-card from the primary element */
 
@@ -113,14 +113,27 @@ hr {
 }
 
 .desc {
+  flex: 1;                    /* bound to the space between divider and footer */
+  min-height: 0;
   color: var(--muted);
   font-size: 32px;
-  line-height: 1.35;
+  line-height: 1.42;          /* room so wrapped bubble lines don't touch */
   display: -webkit-box;
-  -webkit-line-clamp: 7;
+  -webkit-line-clamp: 8;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+.section {                    /* a bubbled sub-entry, flowing inline */
+  background: #1c2436;
+  border-radius: 8px;
+  padding: 2px 7px;
+  margin-right: 5px;          /* a little space between sections (doesn't collapse) */
+  -webkit-box-decoration-break: clone;  /* round every wrapped line, not just the ends */
+  box-decoration-break: clone;
+}
+.section.alt { background: #2a2335; }   /* alternate shade: separates stacked bubbles */
+.section .term { color: hsl(222, 74%, 80%); font-weight: 700; }  /* sub-entry name */
+.section.alt .term { color: #b19cd4; }
 
 .footer {
   margin-top: auto;          /* pin to the bottom regardless of content height */

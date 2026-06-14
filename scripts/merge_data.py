@@ -37,7 +37,12 @@ def load_sb_details(filepath):
                 "tier": row["Tier"],
                 "sb_version": row["SB Ver"],
                 "realm": row["Realm"],
-                "description": row["Effects"],
+                "description": [
+                    {
+                        "name": "Entry",
+                        "text": row["Effects"]
+                    }
+                ],
                 "elements": elements,
                 "type": row["Type"],
                 "target": row["Target"],
