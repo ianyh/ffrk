@@ -87,7 +87,7 @@ function buildCard(sb) {
   title.append(el('span', 'character', sb.character), el('span', 'version', sb.sb_version));
   const chips = el('div', 'chips');
   chips.append(
-    el('span', 'chip', sb.type),
+    el('span', 'chip type', sb.type),
     el('span', 'chip', sb.target)
   );
   if (sb.lensable) {

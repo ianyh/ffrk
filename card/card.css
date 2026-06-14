@@ -72,8 +72,8 @@ body { background: #0a0e16; }
 }
 
 .version {                   /* lead identity, filled in the type accent */
-  background: var(--accent);
-  color: var(--bg);
+  background: var(--panel);
+  color: var(--text);
   font-weight: 700;
   font-size: 28px;
   padding: 4px 14px;
@@ -103,7 +103,7 @@ body { background: #0a0e16; }
   color: var(--text);
   white-space: nowrap;
 }
-.chip.version { background: var(--accent); color: var(--bg); }
+.chip.type { background: var(--accent); color: var(--bg); }
 
 hr {
   border: 0;
