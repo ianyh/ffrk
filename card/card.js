@@ -109,7 +109,7 @@ function buildCard(sb) {
   }
   footer.append(elementChips);//, el('span', 'brand', 'ffrk.xyz'));
 
-  card.append(header, el('hr'), buildDesc(sb.description), footer);
+  card.append(header, el('hr'), buildDesc(sb.card_description ?? sb.description), footer);
   return { card, img };
 }
 

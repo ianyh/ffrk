@@ -89,7 +89,6 @@ function buildMeta(found, origin) {
   const image = `${origin}/og/${found[0].id}.png`;
   const tags = `
     <meta property="og:title" content="${attr(title)}">
-    <meta property="og:description" content="${attr(description)}">
     <meta property="og:image" content="${attr(image)}">
     <meta name="twitter:card" content="summary_large_image">`;
   return { title, tags };

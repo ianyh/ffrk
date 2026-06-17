@@ -96,7 +96,17 @@ class SheetData():
                 "effects": row["Effects"]
             }
             sbs[id]["description"] = self.description_for_sb(sbs[id])
+            card_desc = self.card_description_for_sb(sbs[id])
+            if card_desc is not None:
+                sbs[id]["card_description"] = card_desc
         return sbs
+
+    def card_description_for_sb(self, sb):
+        """Curated/compressed sections for the compact OG card (different order or
+        trimmed text). Return None to use the full `description` on the card as
+        well; override per tier here, like description_for_sb. The card renderer
+        falls back to `description` when this is absent."""
+        return None
 
     def description_for_sb(self, sb):
         sections = [
@@ -205,6 +215,11 @@ def main():
         default=base_path / "data" / "all.json",
         help="Output JSON file (default: data/all.json)",
     )
+    parser.add_argument(
+        "--sb-dir", type=Path,
+        default=base_path / "data" / "sb",
+        help="Per-soul-break JSON dir, one <id>.json each (default: data/sb)",
+    )
     args = parser.parse_args()
 
     print(f"Loading soul break details from {args.input}...")
@@ -215,8 +230,19 @@ def main():
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump({"items": list(sbs.values())}, f, indent=2, ensure_ascii=False)
-
     print(f"✓ Wrote {len(sbs)} items to {args.output}")
+
+    # Per-SB files (full item each) for the detail page to load individually.
+    # Prune stale ids so the committed dir tracks the current set.
+    args.sb_dir.mkdir(parents=True, exist_ok=True)
+    for stale in args.sb_dir.glob("*.json"):
+        if stale.stem not in sbs:
+            stale.unlink()
+    for id, item in sbs.items():
+        (args.sb_dir / f"{id}.json").write_text(
+            json.dumps(item, indent=2, ensure_ascii=False), encoding="utf-8"
+        )
+    print(f"✓ Wrote {len(sbs)} per-SB files to {args.sb_dir}")
 
 
 if __name__ == "__main__":

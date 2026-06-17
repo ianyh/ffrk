@@ -4,101 +4,111 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Soul Break</title>
-  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="/static/view.css">
 
   <!-- Static fallback embed metadata. The Cloudflare Worker (worker/og-embed.js)
        serves this template at pretty URLs (/20210006, /m/?ids=…) and rewrites
-       these tags per request so unfurls reflect the referenced soul breaks. -->
+       og:title/og:image/twitter:card per request. Do not remove — the Worker's
+       OVERRIDDEN_META rewriter strips and re-emits these. -->
   <meta property="og:site_name" content="ffrk.xyz">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Soul Break">
   <meta property="og:description" content="Final Fantasy Record Keeper soul break reference.">
   <meta name="twitter:card" content="summary">
+
+  <!-- parseRef (ids from path/query) + buildDesc/accentFor/ELEMENT_COLORS/el (shared with the cards) -->
+  <script src="/static/sb-ids.js"></script>
+  <script src="/card/card.js"></script>
 </head>
 <body>
-  <div class="ref-page">
-    <header class="ref-header">
-      <h1>Soul Break</h1>
-      <a class="ref-back" href="/search">Search</a>
-    </header>
-
-    <div id="loading" class="loading"><p>Loading…</p></div>
-    <div id="empty" class="no-results" style="display:none">
-      <p>No soul break referenced.</p>
-    </div>
-    <div id="missing" class="ref-missing" style="display:none"></div>
-    <div id="cards" class="ref-cards"></div>
+  <div class="sb-page">
+    <div class="sb-topbar"><strong>ffrk.xyz</strong><a href="/search">Search</a></div>
+    <div id="loading" class="sb-empty">Loading…</div>
+    <div id="empty" class="sb-empty" style="display:none">No soul break referenced.</div>
+    <div id="missing" class="sb-missing" style="display:none"></div>
+    <div id="details"></div>
   </div>
 
-  <script src="/static/sb-ids.js"></script>
   <script>
-    const loading = document.getElementById('loading');
-    const empty = document.getElementById('empty');
-    const missing = document.getElementById('missing');
-    const cards = document.getElementById('cards');
+    const $loading = document.getElementById('loading');
+    const $empty = document.getElementById('empty');
+    const $missing = document.getElementById('missing');
+    const $details = document.getElementById('details');
 
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text ?? '';
-      return div.innerHTML;
+    // Build one detail block, reusing the card renderers from /card/card.js.
+    function renderDetail(item) {
+      const detail = el('div', 'sb-detail');
+      detail.style.setProperty('--accent', accentFor(item.type));
+
+      const img = el('img');
+      img.src = item.image_url;
+      img.alt = '';
+      img.loading = 'lazy';
+      const icon = el('div', 'sb-icon');
+      icon.append(img);
+
+      const title = el('div', 'sb-title');
+      title.append(el('span', 'sb-character', item.character), el('span', 'sb-version', item.sb_version));
+
+      const headtext = el('div', 'sb-headtext');
+      headtext.append(title, el('div', 'sb-name', item.name));
+      if (item.name_jp) headtext.append(el('div', 'sb-name-jp', item.name_jp));
+
+      const chips = el('div', 'sb-chips');
+      if (item.type) chips.append(el('span', 'sb-chip type', item.type));
+      if (item.target) chips.append(el('span', 'sb-chip', item.target));
+      if (item.realm) chips.append(el('span', 'sb-chip', item.realm));
+      if (item.tier) chips.append(el('span', 'sb-chip', item.tier));
+      if (item.lensable) chips.append(el('span', 'sb-chip', 'Lensable'));
+      for (const e of (item.elements || [])) {
+        const c = el('span', 'sb-chip el', e);
+        c.style.background = ELEMENT_COLORS[e] || ELEMENT_COLORS.NE;
+        chips.append(c);
+      }
+      headtext.append(chips);
+
+      const header = el('div', 'sb-header');
+      header.append(icon, headtext);
+
+      const body = el('div', 'sb-body');
+      body.append(buildDesc(item.description));   // full sections, unclamped
+
+      detail.append(header, body);
+      return detail;
     }
 
     const ids = parseRef(window.location.pathname, window.location.search);
 
     if (ids.length === 0) {
-      loading.style.display = 'none';
-      empty.style.display = 'block';
+      $loading.style.display = 'none';
+      $empty.style.display = 'block';
     } else {
-      fetch('/data/all.json')
-        .then(r => r.json())
-        .then(data => {
-          const store = {};
-          data.items.forEach(item => { store[item.id] = item; });
+      Promise.all(ids.map(id =>
+        fetch(`/data/sb/${id}.json`)
+          .then(r => (r.ok ? r.json() : null))
+          .catch(() => null)
+      )).then(results => {
+        $loading.style.display = 'none';
 
-          const found = [];
-          const notFound = [];
-          ids.forEach(id => (store[id] ? found.push(store[id]) : notFound.push(id)));
+        const found = [], notFound = [];
+        ids.forEach((id, i) => (results[i] ? found.push(results[i]) : notFound.push(id)));
 
-          loading.style.display = 'none';
+        if (notFound.length) {
+          $missing.style.display = 'block';
+          $missing.textContent = `${notFound.length} unknown id${notFound.length === 1 ? '' : 's'}: ${notFound.join(', ')}`;
+        }
 
-          if (found.length === 1) {
-            document.title = `${found[0].character} – ${found[0].name} | ffrk.xyz`;
-          } else if (found.length > 1) {
-            document.title = `${found.length} soul breaks | ffrk.xyz`;
-          }
+        if (found.length === 0) {
+          $empty.style.display = 'block';
+          return;
+        }
 
-          if (notFound.length) {
-            missing.style.display = 'block';
-            missing.textContent = `${notFound.length} unknown id${notFound.length === 1 ? '' : 's'}: ${notFound.join(', ')}`;
-          }
+        document.title = found.length === 1
+          ? `${found[0].character} – ${found[0].name} | ffrk.xyz`
+          : `${found.length} soul breaks | ffrk.xyz`;
 
-          if (found.length === 0) {
-            empty.style.display = 'block';
-            return;
-          }
-
-          cards.innerHTML = found.map(item => `
-            <div class="ref-card">
-              <img class="ref-card-img" src="${escapeHtml(item.image_url)}" alt="${escapeHtml(item.sb_version)}" loading="lazy">
-              <div class="ref-card-body">
-                <div class="ref-card-title">
-                  <strong>${escapeHtml(item.character)}</strong>
-                  <span class="ref-card-name">${escapeHtml(item.name)}</span>
-                </div>
-                <div class="ref-card-meta">
-                  <span class="ref-tag">${escapeHtml(item.sb_version)}</span>
-                  <span class="ref-tag">${escapeHtml(item.realm)}</span>
-                  ${(item.elements || []).map(e => `<span class="ref-tag ref-tag-el">${escapeHtml(e)}</span>`).join('')}
-                </div>
-                <div class="ref-card-desc">${escapeHtml(item.description)}</div>
-              </div>
-            </div>
-          `).join('');
-        })
-        .catch(err => {
-          loading.textContent = 'Failed to load soul break data.';
-          console.error(err);
-        });
+        for (const item of found) $details.append(renderDetail(item));
+      });
     }
   </script>
 </body>
