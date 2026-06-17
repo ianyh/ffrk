@@ -13,8 +13,8 @@ WORKER_PORT=8787
 echo "Static origin → http://localhost:$STATIC_PORT"
 python3 -m http.server "$STATIC_PORT" --directory "$ROOT" >/tmp/ffrk-static.log 2>&1 &
 STATIC_PID=$!
-trap 'kill "$STATIC_PID" 2>/dev/null || true' EXIT
+trap 'kill "$STATIC_PID" 2>/dev/null || true' EXIT INT TERM
 
 echo "Worker        → http://localhost:$WORKER_PORT"
 cd "$ROOT/worker"
-exec npx wrangler dev --env dev --port "$WORKER_PORT"
+npx wrangler dev --env dev --port "$WORKER_PORT"
