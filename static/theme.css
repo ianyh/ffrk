@@ -1,0 +1,32 @@
+/* Shared theme for the OG cards (card/card.css) and the detail page
+   (static/view.css). Load this BEFORE the page-specific stylesheet so local rules
+   can override. Keep only things that should look identical in both places:
+   the color palette, the reset, and the description-bubble *colors*. Layout
+   (the card's fixed geometry, the page's responsive flow, and the inline-vs-
+   stacked bubble treatment) stays in each consumer and is free to diverge.
+
+   --accent and --font are deliberately NOT fixed here: --accent is set per
+   card/soul-break in JS, and --font differs (the card uses Arial for stable text
+   metrics when screenshotted; the page uses the native UI stack). */
+:root {
+  --bg: #111726;
+  --panel: #1a2235;            /* icon backing + neutral chips */
+  --text: #f0f3fa;
+  --muted: #b3bed3;            /* effect description */
+  --divider: #2d364b;
+  --accent: #96a0b4;           /* fallback; overridden per card/SB in JS */
+
+  --section-bg: #1c2436;       /* description sub-entry bubble */
+  --section-alt-bg: #2a2335;   /* alternate shade: separates adjacent bubbles */
+  --term: hsl(222, 74%, 80%);  /* sub-entry name */
+  --term-alt: #b19cd4;
+}
+
+* { box-sizing: border-box; margin: 0; }
+
+/* Description bubbles — colors only; each consumer sets its own layout/sizing. */
+.desc { color: var(--muted); }
+.section { background: var(--section-bg); border-radius: 8px; }
+.section.alt { background: var(--section-alt-bg); }
+.section .term { color: var(--term); font-weight: 700; }
+.section.alt .term { color: var(--term-alt); }

@@ -1,24 +1,18 @@
+/* Card-specific styles. Shared palette, reset, and bubble colors live in
+   /static/theme.css (linked first in card.html / gallery.html). */
 :root {
   --w: 1200px;
   --h: 630px;
   --pad: 30px 40px;
-
-  --bg: #111726;
-  --panel: #1a2235;          /* icon backing + neutral chips */
-  --text: #f0f3fa;
-  --muted: #b3bed3;          /* effect description */
-  --divider: #2d364b;
-  --accent: #96a0b4;         /* set per-card from the primary element */
 
   --icon: 140px;
   --radius: 12px;
   --accent-bar: 10px;
   --chip-gap: 12px;
 
-  --font: "Arial", system-ui, sans-serif;
+  --font: "Arial", system-ui, sans-serif;   /* Arial: stable text metrics when screenshotted */
 }
 
-* { box-sizing: border-box; margin: 0; }
 body { background: #0a0e16; }
 
 .card {
@@ -71,7 +65,7 @@ body { background: #0a0e16; }
   text-transform: uppercase;
 }
 
-.version {                   /* lead identity, filled in the type accent */
+.version {
   background: var(--panel);
   color: var(--text);
   font-weight: 700;
@@ -92,7 +86,7 @@ body { background: #0a0e16; }
   overflow: hidden;
 }
 
-.chips { display: flex; flex-wrap: wrap; gap: var(--chip-gap); }  /* 7 elements wrap to a 2nd row */
+.chips { display: flex; flex-wrap: wrap; gap: var(--chip-gap); }
 
 .chip {
   font-size: 26px;
@@ -112,8 +106,9 @@ hr {
   margin: 22px 0 20px;
 }
 
+/* Colors come from theme.css; here the card clamps the description and flows the
+   bubbles inline to fit its fixed box. */
 .desc {
-  color: var(--muted);
   font-size: 32px;
   line-height: 1.42;          /* room so wrapped bubble lines don't touch */
   display: -webkit-box;
@@ -122,16 +117,11 @@ hr {
   overflow: hidden;
 }
 .section {                    /* a bubbled sub-entry, flowing inline */
-  background: #1c2436;
-  border-radius: 8px;
   padding: 2px 7px;
   margin-right: 5px;          /* a little space between sections (doesn't collapse) */
   -webkit-box-decoration-break: clone;  /* round every wrapped line, not just the ends */
   box-decoration-break: clone;
 }
-.section.alt { background: #2a2335; }   /* alternate shade: separates stacked bubbles */
-.section .term { color: hsl(222, 74%, 80%); font-weight: 700; }  /* sub-entry name */
-.section.alt .term { color: #b19cd4; }
 
 .footer {
   margin-top: auto;          /* pin to the bottom regardless of content height */
