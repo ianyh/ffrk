@@ -58,8 +58,6 @@
       const chips = el('div', 'sb-chips');
       if (item.type) chips.append(el('span', 'sb-chip type', item.type));
       if (item.target) chips.append(el('span', 'sb-chip', item.target));
-      if (item.realm) chips.append(el('span', 'sb-chip', item.realm));
-      if (item.tier) chips.append(el('span', 'sb-chip', item.tier));
       if (item.lensable) chips.append(el('span', 'sb-chip', 'Lensable'));
       for (const e of (item.elements || [])) {
         const c = el('span', 'sb-chip el', e);
