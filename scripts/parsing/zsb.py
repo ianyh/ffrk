@@ -9,22 +9,21 @@ class ZSB():
 
     def ordered_sections(self, is_card: bool) -> list[dict]:
         sections = self.sections()
-        ordered = []
         if is_card:
-            ordered = [
-                sections["entry"]
-            ] + sections.get("ha+", []) + [
+            return [
+                sections["entry"],
+                *sections["ha+"],
                 sections.get("spirit_attack", None)
             ]
         else:
-            ordered = [
+            return [
                 sections["entry"],
                 sections.get("mode", None),
-            ] + sections.get("ha+", []) + [
-                sections.get("spirit_attack", None)
-            ] + sections.get("other", []) + sections.get("other_status", [])
-        
-        return [s for s in ordered if s is not None]
+                *sections["ha+"],
+                sections.get("spirit_attack", None),
+                *sections.get("other", []),
+                *sections.get("other_status", [])
+            ]
     
     def sections(self) -> dict:
         sections = {

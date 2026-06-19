@@ -9,12 +9,11 @@ class ASB():
 
     def ordered_sections(self, is_card: bool) -> list[dict]:
         sections = self.sections()
-        ordered = [
+        return [
             sections["entry"],
             sections.get("mode"),
             sections.get("chase")
         ]
-        return [s for s in ordered if s is not None]
     
     def sections(self) -> dict:
         sections = {

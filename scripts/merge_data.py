@@ -60,12 +60,14 @@ class Parser():
                 "text": sb["effects"]
             }
         ]
+
         match sb["tier"]:
             case "ZSB":
-                return ZSB(self.sheet_data, sb).ordered_sections(is_card)
+                sections = ZSB(self.sheet_data, sb).ordered_sections(is_card)
             case "ASB":
-                return ASB(self.sheet_data, sb).ordered_sections(is_card)
-        return sections
+                sections = ASB(self.sheet_data, sb).ordered_sections(is_card)
+
+        return [s for s in sections if s is not None]
 
 
 def main():
