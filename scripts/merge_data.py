@@ -10,6 +10,7 @@ import argparse
 import csv
 import json
 import re
+from dataclasses import dataclass
 from pathlib import Path
 
 # Split an "Element" cell into individual elements, tolerating separators like
@@ -52,7 +53,6 @@ def extract_with_prefix(text, prefix):
     return out
 
 
-
 CSV_NAMES = [
     "sbs",
     "other",
@@ -60,8 +60,6 @@ CSV_NAMES = [
     "cf_commands",
     "ua_abilities"
 ]
-
-
 class SheetData():
     """
     Encapsulates a representation of db data based on available csv export.
@@ -101,14 +99,13 @@ class SheetData():
                 sbs[id]["card_description"] = card_desc
         return sbs
 
-    def card_description_for_sb(self, sb):
-        """Curated/compressed sections for the compact OG card (different order or
-        trimmed text). Return None to use the full `description` on the card as
-        well; override per tier here, like description_for_sb. The card renderer
-        falls back to `description` when this is absent."""
-        return None
-
     def description_for_sb(self, sb):
+        return self.sections_for_sb(sb)
+
+    def card_description_for_sb(self, sb):
+        return self.sections_for_sb(sb, True)
+
+    def sections_for_sb(self, sb, is_card: bool = False):
         sections = [
             {
                 "name": "Entry",
@@ -117,89 +114,117 @@ class SheetData():
         ]
         match sb["tier"]:
             case "ZSB":
-                # try to find the upgraded has
-                sb_name = sb["name"]
-                has = filter(lambda h: h["Source"] == sb_name, self.readers["ua_abilities"])
-                for ha in has:
-                    sections.append({
-                        "name": ha["Name"],
-                        "text": ha["Effects"]
-                    })
-
-                # try to find the character specific mode
-                sb_statuses = extract_statuses(sb["effects"])
-                zenith_mode_name = next((status for status in sb_statuses if status.startswith("Zenith Mode: ")), None)
-                zenith_mode = next((status for status in self.readers["status"] if status["Common Name"] == zenith_mode_name), None)
-                if zenith_mode is not None:
-                    zenith_mode_actions = extract_with_prefix(zenith_mode["Effects"], "Spirit Attack")
-                    other = next((other for other in self.readers["other"] if other["Source"] == zenith_mode_name), None)
-                    if other:
-                        sections.append({
-                            "name": other["Name"],
-                            "text": other["Effects"]
-                        })
-                else:
-                    print(f"zenith mode not found: {zenith_mode} {zenith_mode_name}")
+                return ZSB(self, sb).ordered_sections(is_card)
             case "ASB":
-                sb_statuses = extract_statuses(sb["effects"])
-                accel_mode_name = next((status for status in sb_statuses if status.startswith("Accel Mode: ")), None)
-                accel_mode = self.status_with_name(accel_mode_name)
-                if accel_mode is not None:
-                    sections.append({
-                        "name": accel_mode["Common Name"],
-                        "text": accel_mode["Effects"]
-                    })
-                    chase = self.other_with_source(accel_mode_name)
-                    if chase:
-                        sections.append({
-                            "name": chase["Name"],
-                            "text": chase["Effects"]
-                        })
-                else:
-                    print(f"accel mode not found: {accel_mode} {accel_mode_name}")
-
+                pass
+                # sb_statuses = extract_statuses(sb["effects"])
+                # accel_mode_name = next((status for status in sb_statuses if status.startswith("Accel Mode: ")), None)
+                # accel_mode = self.status_with_name(accel_mode_name)
+                # if accel_mode is not None:
+                #     sections.append({
+                #         "name": accel_mode["Common Name"],
+                #         "text": accel_mode["Effects"]
+                #     })
+                #     chase = self.other_with_source(accel_mode_name)
+                #     if chase:
+                #         sections.append({
+                #             "name": chase["Name"],
+                #             "text": chase["Effects"]
+                #         })
+                # else:
+                #     print(f"accel mode not found: {accel_mode} {accel_mode_name}")
 
         return sections
 
-    def other_with_source(self, source):
-        return next((other for other in self.readers["other"] if other["Source"] == source), None)
+    def others_with_source(self, source):
+        return [other for other in self.readers["other"] if other["Source"] == source]
+
+    def other_with_name(self, name):
+        return next((other for other in self.readers["other"] if other["Name"] == name), None)
     
     def status_with_name(self, name):
         return next((status for status in self.readers["status"] if status["Common Name"] == name), None)
 
 
-def load_sb_details(filepath):
-    """Load soul break definitions from the details CSV, keyed by ID."""
-    sbs = {}
-    with open(filepath, "r", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            id = row["ID"]
-            if not id:
-                continue
-            elements_string = row["Element"]
-            elements = re.split(ELEMENT_SPLIT, elements_string) if elements_string not in ["", "-"] else []
-            sbs[id] = {
-                "id": id,
-                "image_url": f"https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/{id}/{id}_256.png",
-                "character": row["Character"],
-                "name": row["Name"],
-                "name_jp": row["Name (JP)"],
-                "tier": row["Tier"],
-                "sb_version": row["SB Ver"],
-                "realm": row["Realm"],
-                "description": [
-                    {
-                        "name": "Entry",
-                        "text": row["Effects"]
-                    }
-                ],
-                "elements": elements,
-                "type": row["Type"],
-                "target": row["Target"],
-                "lensable": row["Anima"] != ""
+@dataclass(frozen=True)
+class ZSB():
+    data: SheetData
+    sb: dict
+
+    def ordered_sections(self, is_card: bool) -> list[dict]:
+        sections = self.sections()
+        ordered = []
+        if is_card:
+            ordered = [
+                sections["entry"]
+            ] + sections.get("ha+", []) + [
+                sections.get("spirit_attack", None)
+            ]
+        else:
+            ordered = [
+                sections["entry"],
+                sections.get("mode", None),
+            ] + sections.get("ha+", []) + [
+                sections.get("spirit_attack", None)
+            ] + sections.get("other", []) + sections.get("other_status", [])
+        
+        return [s for s in ordered if s is not None]
+    
+    def sections(self) -> dict:
+        sections = {
+            "entry": {
+                "name": "Entry",
+                "text": self.sb["effects"]
             }
-    return sbs
+        }
+
+        # try to find the upgraded has
+        sections["ha+"] = []
+        sb_name = self.sb["name"]
+        has: list[dict] = filter(lambda h: h["Source"] == sb_name, self.data.readers["ua_abilities"])
+        for ha in has:
+            sections["ha+"].append({
+                "name": ha["Name"],
+                "text": ha["Effects"]
+            })
+
+        sb_statuses = extract_statuses(self.sb["effects"])
+
+        # try to find the character specific mode
+        zenith_mode_name = next((status for status in sb_statuses if status.startswith("Zenith Mode: ")), None)
+        zenith_mode = self.data.status_with_name(zenith_mode_name)
+        if zenith_mode is not None:
+            sections["mode"] = {
+                "name": zenith_mode_name,
+                "text": zenith_mode["Effects"]
+            }
+            # if we have the character specific mode then try to extract a spirit attack
+            zenith_mode_actions = extract_with_prefix(zenith_mode["Effects"], "Spirit Attack")
+            spirit_attack_name = zenith_mode_actions[0] if len(zenith_mode_actions) > 0 else None
+            if spirit_attack_name:
+                spirit_attack = self.data.other_with_name(spirit_attack_name)
+                if spirit_attack is not None:
+                    sections["spirit_attack"] = {
+                        "name": spirit_attack["Name"],
+                        "text": spirit_attack["Effects"]
+                    }
+            others = [other for other in self.data.others_with_source(zenith_mode_name) if other["Name"] != spirit_attack_name]
+            if others:
+                sections["other"] = [{ "name": other["Name"], "text": other["Effects"]} for other in others]
+        else:
+            print(f"zenith mode not found: {zenith_mode} {zenith_mode_name}")
+        
+        # add sections for each non-mode status
+        sections["other_status"] = []
+        for status_name in [s for s in sb_statuses if s != zenith_mode_name]:
+            status_details = self.data.status_with_name(status_name)
+            if status_details:
+                sections["other_status"].append({
+                    "name": status_name,
+                    "text": status_details["Effects"]
+                })
+            
+        return sections
 
 
 def main():
