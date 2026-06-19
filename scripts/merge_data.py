@@ -10,6 +10,7 @@ import argparse
 import json
 import re
 from parsing.sheet_data import SheetData, ELEMENT_SPLIT
+from parsing.asb import ASB
 from parsing.zsb import ZSB
 from pathlib import Path
 
@@ -63,8 +64,7 @@ class Parser():
             case "ZSB":
                 return ZSB(self.sheet_data, sb).ordered_sections(is_card)
             case "ASB":
-                pass
-
+                return ASB(self.sheet_data, sb).ordered_sections(is_card)
         return sections
 
 
