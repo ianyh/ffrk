@@ -1,0 +1,27 @@
+{
+  "id": "21000062",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000062/21000062_256.png",
+  "character": "-",
+  "name": "Mass Mending",
+  "name_jp": "全体治療",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (35)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ]
+}

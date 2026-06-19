@@ -1,0 +1,27 @@
+{
+  "id": "22740008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740008/22740008_256.png",
+  "character": "Noctis",
+  "name": "Airstride",
+  "name_jp": "エアステップコンボ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XV",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.74 each), grants [Non-Elemental +50% Boost] and [Future King EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.74 each), grants [Non-Elemental +50% Boost] and [Future King EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.74 each), grants [Non-Elemental +50% Boost] and [Future King EX Mode] to the user"
+    }
+  ]
+}

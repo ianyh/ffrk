@@ -1,0 +1,30 @@
+{
+  "id": "20560010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560010/20560010_256.png",
+  "character": "Maria",
+  "name": "Sagittarius LXIV",
+  "name_jp": "サジタリウス64",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Earth], [Damage Cap +10000] and [Kaus Australis Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Earth], [Damage Cap +10000] and [Kaus Australis Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Earth], [Damage Cap +10000] and [Kaus Australis Follow-Up] to the user"
+    }
+  ]
+}

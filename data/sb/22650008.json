@@ -1,0 +1,46 @@
+{
+  "id": "22650008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650008/22650008_256.png",
+  "character": "Lann",
+  "name": "Zenith Crimson Punch",
+  "name_jp": "究極クリムゾンパンチ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Fire/NE ranged hybrid attacks at Cap Break Level 1, Quick ATB 1 to En-Fire members, Lv.3 En-Fire, En-Fire Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire Damage +20%, Physical/Magic Casting Speed x1.1 & chases 2 Fire abilities with Fire Ability Damage +30% for 2 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Fire, Higher Multiplier & Zero Hone Cost to Hero Ability; Crimson Punch+: Higher multiplier & Cap Break Level 1 after 3 uses; Fire Mirajewel+: Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE ranged hybrid attacks at Cap Break Level 1, Quick ATB 1 to En-Fire members, Lv.3 En-Fire, En-Fire Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire Damage +20%, Physical/Magic Casting Speed x1.1 & chases 2 Fire abilities with Fire Ability Damage +30% for 2 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Fire, Higher Multiplier & Zero Hone Cost to Hero Ability; Crimson Punch+: Higher multiplier & Cap Break Level 1 after 3 uses; Fire Mirajewel+: Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Fire Mirajewel+",
+      "text": "Five single attacks (? each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Fire 10% (5s)]"
+    },
+    {
+      "name": "Crimson Punch+",
+      "text": "Six single ranged attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE ranged hybrid attacks at Cap Break Level 1, Quick ATB 1 to En-Fire members, Lv.3 En-Fire, En-Fire Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire Damage +20%, Physical/Magic Casting Speed x1.1 & chases 2 Fire abilities with Fire Ability Damage +30% for 2 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Fire, Higher Multiplier & Zero Hone Cost to Hero Ability; Crimson Punch+: Higher multiplier & Cap Break Level 1 after 3 uses; Fire Mirajewel+: Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Fire Mirajewel+",
+      "text": "Five single attacks (? each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Fire 10% (5s)]"
+    },
+    {
+      "name": "Crimson Punch+",
+      "text": "Six single ranged attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+    }
+  ]
+}

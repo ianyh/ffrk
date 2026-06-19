@@ -1,0 +1,27 @@
+{
+  "id": "20150027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150027/20150027_256.png",
+  "character": "Wakka",
+  "name": "Awoken Last Blitz (Dual Shift)",
+  "name_jp": "覚醒ラストブリッツ",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka v2)] to the user, grants [ATK/MAG/DEF/RES +15% (8s)] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka v2)] to the user, grants [ATK/MAG/DEF/RES +15% (8s)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka v2)] to the user, grants [ATK/MAG/DEF/RES +15% (8s)] to all allies"
+    }
+  ]
+}

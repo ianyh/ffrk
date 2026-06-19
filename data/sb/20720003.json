@@ -1,0 +1,27 @@
+{
+  "id": "20720003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720003/20720003_256.png",
+  "character": "Strago",
+  "name": "Sabre Soul",
+  "name_jp": "セバーソウル",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)"
+    }
+  ]
+}

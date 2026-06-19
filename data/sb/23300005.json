@@ -1,0 +1,27 @@
+{
+  "id": "23300005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300005/23300005_256.png",
+  "character": "Hilda",
+  "name": "Dignity Preserved",
+  "name_jp": "保たれし品格",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Protect], [Shell] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20500053",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500053/20500053_256.png",
+  "character": "Quistis",
+  "name": "War-Awoken Twinstrom (Weapon Skill)",
+  "name_jp": "戦醒ツインシュトローム",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack (31.00) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Quick Cast]/[Sorcery +20% Boost (15s)] to all allies if there are 0-1/2+ allies with EnWater.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack (31.00) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Quick Cast]/[Sorcery +20% Boost (15s)] to all allies if there are 0-1/2+ allies with EnWater."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack (31.00) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Quick Cast]/[Sorcery +20% Boost (15s)] to all allies if there are 0-1/2+ allies with EnWater."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "22780010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780010/22780010_256.png",
+  "character": "Cid (XIV)",
+  "name": "Garlond Overload",
+  "name_jp": "オーバーロード・G",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Earth, Wind, Poison)], [Legendary Engineer Mode] and [Volley Fire Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Earth, Wind, Poison)], [Legendary Engineer Mode] and [Volley Fire Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Earth, Wind, Poison)], [Legendary Engineer Mode] and [Volley Fire Follow-Up] to the user"
+    }
+  ]
+}

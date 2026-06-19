@@ -1,0 +1,30 @@
+{
+  "id": "22730014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730014/22730014_256.png",
+  "character": "Gogo (V)",
+  "name": "Apex Deep Aqua Breath",
+  "name_jp": "深海アクアブレス・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "V",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Deep Aqua Breath level 0/1/2, removes Arcane Dyad Empowered: Gogo (V) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Deep Aqua Breath level 0/1/2, removes Arcane Dyad Empowered: Gogo (V) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Deep Aqua Breath level 0/1/2, removes Arcane Dyad Empowered: Gogo (V) from the user"
+    }
+  ]
+}

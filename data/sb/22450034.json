@@ -1,0 +1,27 @@
+{
+  "id": "22450034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450034/22450034_256.png",
+  "character": "Noel",
+  "name": "Water Bond (Noel)",
+  "name_jp": "水絆【ノエル】",
+  "tier": "CSB+",
+  "sb_version": "CSB+2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Water Chain (max 150, field +50%) or adds +25 to the current chain limit, inflicts [Imperil Water 10% (5s)]/[Imperil Water 20% (5s)]/[Imperil Water 30% (5s)] to all enemies with 0-1/2-3/4 allies with [Attach Water], grants [ATK +50%] to all allies & [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Water Chain (max 150, field +50%) or adds +25 to the current chain limit, inflicts [Imperil Water 10% (5s)]/[Imperil Water 20% (5s)]/[Imperil Water 30% (5s)] to all enemies with 0-1/2-3/4 allies with [Attach Water], grants [ATK +50%] to all allies & [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Water Chain (max 150, field +50%) or adds +25 to the current chain limit, inflicts [Imperil Water 10% (5s)]/[Imperil Water 20% (5s)]/[Imperil Water 30% (5s)] to all enemies with 0-1/2-3/4 allies with [Attach Water], grants [ATK +50%] to all allies & [Instant Cast 1] to the user"
+    }
+  ]
+}

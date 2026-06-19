@@ -1,0 +1,30 @@
+{
+  "id": "20400063",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400063/20400063_256.png",
+  "character": "Bartz",
+  "name": "Woven Bond: Bartz (Wind)",
+  "name_jp": "紡絆・バッツ風",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates Wind Chain (max 150, field +0%) or adds 25 to the current Wind Chain maximum limit, grants [Chain Force Mode: Bartz (Wind)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Wind Chain (max 150, field +0%) or adds 25 to the current Wind Chain maximum limit, grants [Chain Force Mode: Bartz (Wind)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Wind Chain (max 150, field +0%) or adds 25 to the current Wind Chain maximum limit, grants [Chain Force Mode: Bartz (Wind)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

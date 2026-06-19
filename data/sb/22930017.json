@@ -1,0 +1,33 @@
+{
+  "id": "22930017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930017/22930017_256.png",
+  "character": "Gogo (VI)",
+  "name": "Roaring Majestic Comet",
+  "name_jp": "轟・せいさいコメット",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Wind",
+    "Earth",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Fire/Ice/Wind/Earth/NE hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Ice/Wind/Earth Ability High Boost & chases Fire/Ice/Wind/Earth abilities with 2 single-target Fire/Ice/Wind/Earth/NE hybrid attacks + minor Prismatic Imperil for 5 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/Ice/Wind/Earth/NE hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Ice/Wind/Earth Ability High Boost & chases Fire/Ice/Wind/Earth abilities with 2 single-target Fire/Ice/Wind/Earth/NE hybrid attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/Ice/Wind/Earth/NE hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Ice/Wind/Earth Ability High Boost & chases Fire/Ice/Wind/Earth abilities with 2 single-target Fire/Ice/Wind/Earth/NE hybrid attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ]
+}

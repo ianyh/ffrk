@@ -1,0 +1,31 @@
+{
+  "id": "20370007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370007/20370007_256.png",
+  "character": "Vivi",
+  "name": "Magic Fury",
+  "name_jp": "怒りの魔力",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "Lightning",
+    "Ice"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (2.01 each), [MAG and RES +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.01 each), [MAG and RES +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.01 each), [MAG and RES +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

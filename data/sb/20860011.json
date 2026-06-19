@@ -1,0 +1,30 @@
+{
+  "id": "20860011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860011/20860011_256.png",
+  "character": "Zidane",
+  "name": "Gale Unbound",
+  "name_jp": "刀魂放気・烈風",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Wind], [Thief Rank Boost] and [Thievery Finisher] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Wind], [Thief Rank Boost] and [Thievery Finisher] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Wind], [Thief Rank Boost] and [Thievery Finisher] to the user"
+    }
+  ]
+}

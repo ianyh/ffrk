@@ -1,0 +1,30 @@
+{
+  "id": "20550014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550014/20550014_256.png",
+  "character": "Sabin",
+  "name": "Fiery Bond",
+  "name_jp": "猛炎・兄弟の絆",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Figaro Firebrand Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Figaro Firebrand Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Figaro Firebrand Mode] to the user"
+    }
+  ]
+}

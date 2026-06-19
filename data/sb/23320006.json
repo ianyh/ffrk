@@ -1,0 +1,30 @@
+{
+  "id": "23320006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320006/23320006_256.png",
+  "character": "Wedge",
+  "name": "Flying Star",
+  "name_jp": "フライングスター",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Core",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Smooth Sailing!] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Smooth Sailing!] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Smooth Sailing!] to the user"
+    }
+  ]
+}

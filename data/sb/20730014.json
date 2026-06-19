@@ -1,0 +1,30 @@
+{
+  "id": "20730014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730014/20730014_256.png",
+  "character": "Fusoya",
+  "name": "Lunarian Spirit",
+  "name_jp": "月の民の精神",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quick Cast 1]/[Quick Cast 2] to all allies if 0-1/2+ FF4 allies are alive, grants [Attach Holy with Stacking], [Awoken Night Vigil], and [Damage Cap +10000] to the user, grants [Dualcast Holy 2] to the user if 4+ FF4 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quick Cast 1]/[Quick Cast 2] to all allies if 0-1/2+ FF4 allies are alive, grants [Attach Holy with Stacking], [Awoken Night Vigil], and [Damage Cap +10000] to the user, grants [Dualcast Holy 2] to the user if 4+ FF4 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quick Cast 1]/[Quick Cast 2] to all allies if 0-1/2+ FF4 allies are alive, grants [Attach Holy with Stacking], [Awoken Night Vigil], and [Damage Cap +10000] to the user, grants [Dualcast Holy 2] to the user if 4+ FF4 allies are alive"
+    }
+  ]
+}

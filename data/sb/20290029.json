@@ -1,0 +1,30 @@
+{
+  "id": "20290029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290029/20290029_256.png",
+  "character": "Luneth",
+  "name": "Roaring Spear Squall",
+  "name_jp": "轟・暴風の槍撃",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target ranged physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind Ability High Boost & chases Wind abilities with 4 single-target Wind/NE ranged physical attacks (0.60 each), Wind Damage +10% for 5 seconds to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target ranged physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind Ability High Boost & chases Wind abilities with 4 single-target Wind/NE ranged physical attacks (0.60 each), Wind Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target ranged physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind Ability High Boost & chases Wind abilities with 4 single-target Wind/NE ranged physical attacks (0.60 each), Wind Damage +10% for 5 seconds to party"
+    }
+  ]
+}

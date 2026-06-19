@@ -1,0 +1,27 @@
+{
+  "id": "20280025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280025/20280025_256.png",
+  "character": "Gordon",
+  "name": "Continuous Flash: Gordon",
+  "name_jp": "連閃・ゴードン",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, MND, DEF, RES +15% (8s)], grants [Quick ATB 1] & [Instant Cast 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MND, DEF, RES +15% (8s)], grants [Quick ATB 1] & [Instant Cast 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MND, DEF, RES +15% (8s)], grants [Quick ATB 1] & [Instant Cast 1] to user"
+    }
+  ]
+}

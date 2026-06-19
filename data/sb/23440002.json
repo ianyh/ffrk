@@ -1,0 +1,29 @@
+{
+  "id": "23440002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23440002/23440002_256.png",
+  "character": "Naja",
+  "name": "Salaheem Slam",
+  "name_jp": "ネコ社長の鉄槌",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "XI",
+  "elements": [
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (8.00 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ]
+}

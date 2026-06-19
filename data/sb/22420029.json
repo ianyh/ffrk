@@ -1,0 +1,30 @@
+{
+  "id": "22420029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22420029/22420029_256.png",
+  "character": "Paine",
+  "name": "Woven Bond: Paine (Water)",
+  "name_jp": "紡絆・パイン水",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Water/NE physical attacks at Cap Break Level 1, activates Water Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Water/NE Overflow physical attack, multiplier increases with each chase, Quick Water 2 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Water/NE physical attacks at Cap Break Level 1, activates Water Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Water/NE Overflow physical attack, multiplier increases with each chase, Quick Water 2 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Water/NE physical attacks at Cap Break Level 1, activates Water Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Water/NE Overflow physical attack, multiplier increases with each chase, Quick Water 2 to user"
+    }
+  ]
+}

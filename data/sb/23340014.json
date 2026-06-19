@@ -1,0 +1,27 @@
+{
+  "id": "23340014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23340014/23340014_256.png",
+  "character": "Jack",
+  "name": "Awoken Vermillion Tranquility (Dual Shift)",
+  "name_jp": "覚醒明鏡止水・朱",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II: Jack v2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II: Jack v2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II: Jack v2] to the user"
+    }
+  ]
+}

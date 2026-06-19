@@ -1,0 +1,27 @@
+{
+  "id": "20060012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060012/20060012_256.png",
+  "character": "Cecil (Dark Knight)",
+  "name": "Evil Force",
+  "name_jp": "イビルフォース",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Stoneskin: 100%] and [Darkness Rank Boost]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 100%] and [Darkness Rank Boost]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 100%] and [Darkness Rank Boost]"
+    }
+  ]
+}

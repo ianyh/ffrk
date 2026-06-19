@@ -1,0 +1,27 @@
+{
+  "id": "20490004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20490004/20490004_256.png",
+  "character": "Kimahri",
+  "name": "Fang of Gagazet",
+  "name_jp": "霊峰ガガゼトの牙",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "X",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies"
+    }
+  ]
+}

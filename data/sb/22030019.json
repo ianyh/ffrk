@@ -1,0 +1,30 @@
+{
+  "id": "22030019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030019/22030019_256.png",
+  "character": "Fang",
+  "name": "Apex Highwind (XIII)",
+  "name_jp": "ハイウィンド・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single ranged jump attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged jump attack (10.00/11.00/12.00) capped at 99999 at Apex Highwind (XIII) level 0/1/2, removes Arcane Dyad Empowered: Fang from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single ranged jump attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged jump attack (10.00/11.00/12.00) capped at 99999 at Apex Highwind (XIII) level 0/1/2, removes Arcane Dyad Empowered: Fang from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single ranged jump attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged jump attack (10.00/11.00/12.00) capped at 99999 at Apex Highwind (XIII) level 0/1/2, removes Arcane Dyad Empowered: Fang from the user"
+    }
+  ]
+}

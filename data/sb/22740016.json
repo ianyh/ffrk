@@ -1,0 +1,30 @@
+{
+  "id": "22740016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740016/22740016_256.png",
+  "character": "Noctis",
+  "name": "Steel Pirouette",
+  "name_jp": "シフトサイクロン・F",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Steel Pirouette level 0/1/2, removes Arcane Dyad Empowered: Noctis (Fire) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Steel Pirouette level 0/1/2, removes Arcane Dyad Empowered: Noctis (Fire) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Steel Pirouette level 0/1/2, removes Arcane Dyad Empowered: Noctis (Fire) from the user"
+    }
+  ]
+}

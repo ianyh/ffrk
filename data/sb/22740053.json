@@ -1,0 +1,32 @@
+{
+  "id": "22740053",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740053/22740053_256.png",
+  "character": "Noctis",
+  "name": "War-Awoken Might of the Chosen King (Weapon Skill)",
+  "name_jp": "戦醒選ばれし王の力",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "Earth",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Fire/Earth/Lightning/NE piercing physical attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user; during [Tactical Awoken Mode], Cap Break Level 2 & 30% DEF/RES Pierce to Fire/Earth/Lightning Abilities; Critical Chance +100% & Critical Damage +50% to user / during [Tactical Awoken Mode], Fire/Earth/Lightning Ability Damage +50% & chases a Fire/Earth/Lightning ability with [200% ATB 2] to user (max 1 chase) at 0/100% Critical Chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/Earth/Lightning/NE piercing physical attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user; during [Tactical Awoken Mode], Cap Break Level 2 & 30% DEF/RES Pierce to Fire/Earth/Lightning Abilities; Critical Chance +100% & Critical Damage +50% to user / during [Tactical Awoken Mode], Fire/Earth/Lightning Ability Damage +50% & chases a Fire/Earth/Lightning ability with [200% ATB 2] to user (max 1 chase) at 0/100% Critical Chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/Earth/Lightning/NE piercing physical attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user; during [Tactical Awoken Mode], Cap Break Level 2 & 30% DEF/RES Pierce to Fire/Earth/Lightning Abilities; Critical Chance +100% & Critical Damage +50% to user / during [Tactical Awoken Mode], Fire/Earth/Lightning Ability Damage +50% & chases a Fire/Earth/Lightning ability with [200% ATB 2] to user (max 1 chase) at 0/100% Critical Chance"
+    }
+  ]
+}

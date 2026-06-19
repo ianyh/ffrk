@@ -1,0 +1,27 @@
+{
+  "id": "22770002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770002/22770002_256.png",
+  "character": "Reks",
+  "name": "Dual Swords",
+  "name_jp": "ソードコンボ",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.98 each), restores HP to all allies for 40% of their maximum HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.98 each), restores HP to all allies for 40% of their maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.98 each), restores HP to all allies for 40% of their maximum HP"
+    }
+  ]
+}

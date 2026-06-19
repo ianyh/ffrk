@@ -1,0 +1,27 @@
+{
+  "id": "20670024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670024/20670024_256.png",
+  "character": "Zell",
+  "name": "Fated Bond: Zell",
+  "name_jp": "絆・ゼル天命",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Monk Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Monk Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Monk Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
+    }
+  ]
+}

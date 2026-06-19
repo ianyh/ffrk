@@ -1,0 +1,30 @@
+{
+  "id": "22170010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170010/22170010_256.png",
+  "character": "Vincent",
+  "name": "Forsaken Power",
+  "name_jp": "禁忌の力",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Fire Stacking] and [Attach Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
+    }
+  ]
+}

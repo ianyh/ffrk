@@ -1,0 +1,31 @@
+{
+  "id": "20110033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110033/20110033_256.png",
+  "character": "Cloud",
+  "name": "Dark Side Braver",
+  "name_jp": "ダークサイドブレイバー",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Awoken Ex-SOLDIER], [Damage Cap +10000], [Linked Materia Mode II (Wind, Dark)] and [Deathblow Materia Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Ex-SOLDIER], [Damage Cap +10000], [Linked Materia Mode II (Wind, Dark)] and [Deathblow Materia Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Ex-SOLDIER], [Damage Cap +10000], [Linked Materia Mode II (Wind, Dark)] and [Deathblow Materia Mode] to the user"
+    }
+  ]
+}

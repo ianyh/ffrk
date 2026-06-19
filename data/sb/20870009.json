@@ -1,0 +1,30 @@
+{
+  "id": "20870009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870009/20870009_256.png",
+  "character": "Amarant",
+  "name": "Hidden Vocation",
+  "name_jp": "裏稼業の流儀",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Overflow Fire Radiant Shield: 75%], [Critical Damage +50%], [Awoken Fire], [Damage Cap +10000], and [Power Throw Counter Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Overflow Fire Radiant Shield: 75%], [Critical Damage +50%], [Awoken Fire], [Damage Cap +10000], and [Power Throw Counter Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Overflow Fire Radiant Shield: 75%], [Critical Damage +50%], [Awoken Fire], [Damage Cap +10000], and [Power Throw Counter Mode] to the user"
+    }
+  ]
+}

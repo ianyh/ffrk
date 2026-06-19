@@ -1,0 +1,29 @@
+{
+  "id": "20700014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700014/20700014_256.png",
+  "character": "Vaan",
+  "name": "Calamitous Orb",
+  "name_jp": "カラミティドライブ",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "XII",
+  "elements": [
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.64 each), [DEF and MAG -40%] for 25 seconds, grants [Thief Quick Cast] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.64 each), [DEF and MAG -40%] for 25 seconds, grants [Thief Quick Cast] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.64 each), [DEF and MAG -40%] for 25 seconds, grants [Thief Quick Cast] and [Brave Mode] to the user"
+    }
+  ]
+}

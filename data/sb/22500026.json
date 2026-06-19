@@ -1,0 +1,31 @@
+{
+  "id": "22500026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500026/22500026_256.png",
+  "character": "Angeal",
+  "name": "Radiant Idle Rage",
+  "name_jp": "耀光怠惰なる怒り",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Wind/Holy/NE physical attacks at Cap Break Level 1, En-Wind Stack or En-Holy Stack, Cap Break Level 1, Radiant Idle Rage & Crystal Mode to user\nCrystal Mode: Wind/Holy Ability Boost, Dualcast Wind/Holy, Zero Hone Cost to Wind/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/Holy/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Wind/Holy Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Idle Rage: Deadly Strikes +20% for 3 turns/15 seconds to user/party with at least 0/4 Knight/VII members",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Wind/Holy/NE physical attacks at Cap Break Level 1, En-Wind Stack or En-Holy Stack, Cap Break Level 1, Radiant Idle Rage & Crystal Mode to user\nCrystal Mode: Wind/Holy Ability Boost, Dualcast Wind/Holy, Zero Hone Cost to Wind/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/Holy/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Wind/Holy Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Idle Rage: Deadly Strikes +20% for 3 turns/15 seconds to user/party with at least 0/4 Knight/VII members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Wind/Holy/NE physical attacks at Cap Break Level 1, En-Wind Stack or En-Holy Stack, Cap Break Level 1, Radiant Idle Rage & Crystal Mode to user\nCrystal Mode: Wind/Holy Ability Boost, Dualcast Wind/Holy, Zero Hone Cost to Wind/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/Holy/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Wind/Holy Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Idle Rage: Deadly Strikes +20% for 3 turns/15 seconds to user/party with at least 0/4 Knight/VII members"
+    }
+  ]
+}

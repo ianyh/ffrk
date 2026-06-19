@@ -1,0 +1,27 @@
+{
+  "id": "20620027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620027/20620027_256.png",
+  "character": "Eiko",
+  "name": "Mending Light",
+  "name_jp": "癒しの光",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "IX",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores 3000 HP, grants [Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores 3000 HP, grants [Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores 3000 HP, grants [Quick Cast 2]"
+    }
+  ]
+}

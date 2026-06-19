@@ -1,0 +1,30 @@
+{
+  "id": "20250009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250009/20250009_256.png",
+  "character": "Sephiroth",
+  "name": "Octaslash",
+  "name_jp": "八刀一閃",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.78 each), grants [Haste], [Dual Blink 2], [Attach Dark] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.78 each), grants [Haste], [Dual Blink 2], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.78 each), grants [Haste], [Dual Blink 2], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ]
+}

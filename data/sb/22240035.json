@@ -1,0 +1,27 @@
+{
+  "id": "22240035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240035/22240035_256.png",
+  "character": "Kuja",
+  "name": "Soul Drive: Kuja",
+  "name_jp": "SD・クジャ",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Kuja], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Kuja], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Kuja], [Instant ATB 1] to user."
+    }
+  ]
+}

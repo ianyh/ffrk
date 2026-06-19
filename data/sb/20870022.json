@@ -1,0 +1,70 @@
+{
+  "id": "20870022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870022/20870022_256.png",
+  "character": "Amarant",
+  "name": "Zenith Searing Special",
+  "name_jp": "究極焦熱の絶技",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Amarant (Fire)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Amarant (Fire)] to the user"
+    },
+    {
+      "name": "Zenith Mode: Amarant (Fire)",
+      "text": "Increases [Fire Infusion] damage bonus by 20%, cast speed x1.10 for PHY attack, Fire abilities trigger 1 additional time, casts Spirit Attack: Amarant (Fire) after using two Fire abilities (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Countdown+",
+      "text": "Five single attacks (1.20 each), restores 1500 HP to the lowest HP% ally"
+    },
+    {
+      "name": "Faithful Fist+",
+      "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Amarant (Fire)",
+      "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3]/[Weakness +30% Boost 3] to all allies if 0-3/4+ FF9 allies are alive"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Amarant (Fire)] to the user"
+    },
+    {
+      "name": "Countdown+",
+      "text": "Five single attacks (1.20 each), restores 1500 HP to the lowest HP% ally"
+    },
+    {
+      "name": "Faithful Fist+",
+      "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Amarant (Fire)",
+      "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3]/[Weakness +30% Boost 3] to all allies if 0-3/4+ FF9 allies are alive"
+    }
+  ]
+}

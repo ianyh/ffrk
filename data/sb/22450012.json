@@ -1,0 +1,27 @@
+{
+  "id": "22450012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450012/22450012_256.png",
+  "character": "Noel",
+  "name": "Sunleth Blow",
+  "name_jp": "サンレスブロウ",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Double Crystarium Mode II (Ice, Water)] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Double Crystarium Mode II (Ice, Water)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Double Crystarium Mode II (Ice, Water)] and [High Quick Cast 1]"
+    }
+  ]
+}

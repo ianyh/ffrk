@@ -1,0 +1,30 @@
+{
+  "id": "22820034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820034/22820034_256.png",
+  "character": "Shelke",
+  "name": "War-Awoken Transparent Frenzy (Weapon Skill)",
+  "name_jp": "戦醒無式・電結狂乱",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% critical rate\nWS Blue: [During Tactical Awoken Mode, Damage +50% & ATB Speed x1.3 to Lightning Abilities] to user\nWS Gold: [Deadly Strikes +20% to party]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% critical rate\nWS Blue: [During Tactical Awoken Mode, Damage +50% & ATB Speed x1.3 to Lightning Abilities] to user\nWS Gold: [Deadly Strikes +20% to party]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% critical rate\nWS Blue: [During Tactical Awoken Mode, Damage +50% & ATB Speed x1.3 to Lightning Abilities] to user\nWS Gold: [Deadly Strikes +20% to party]"
+    }
+  ]
+}

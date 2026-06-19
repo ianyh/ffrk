@@ -1,0 +1,27 @@
+{
+  "id": "20200019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200019/20200019_256.png",
+  "character": "Lenna",
+  "name": "Benevolent Princess",
+  "name_jp": "慈愛の姫君",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "V",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Fire Quick Cast 4], grants [Attach Fire], [Damage Cap +10000], [Synchro Mode] and [Compassion Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Fire Quick Cast 4], grants [Attach Fire], [Damage Cap +10000], [Synchro Mode] and [Compassion Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Fire Quick Cast 4], grants [Attach Fire], [Damage Cap +10000], [Synchro Mode] and [Compassion Mode] to the user"
+    }
+  ]
+}

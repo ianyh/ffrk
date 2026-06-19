@@ -1,0 +1,27 @@
+{
+  "id": "20110003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110003/20110003_256.png",
+  "character": "Cloud",
+  "name": "Cross Slash",
+  "name_jp": "凶斬り",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (5.00), causes [Paralyze] (50%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (5.00), causes [Paralyze] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (5.00), causes [Paralyze] (50%)"
+    }
+  ]
+}

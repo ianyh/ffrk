@@ -1,0 +1,30 @@
+{
+  "id": "20350013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350013/20350013_256.png",
+  "character": "Squall",
+  "name": "Fated Fangs",
+  "name_jp": "フェイテッド・ファング",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Fire], [Heart of the Lion EX Mode] and [Lionheart 0] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Fire], [Heart of the Lion EX Mode] and [Lionheart 0] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Fire], [Heart of the Lion EX Mode] and [Lionheart 0] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20230012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230012/20230012_256.png",
+  "character": "Tifa",
+  "name": "Zangan Awakening",
+  "name_jp": "ザンガン流開眼",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Monk Rank Boost], grants [Striker Mode 1/2/3/3] if the user has Striker Mode 0/1/2/3",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Monk Rank Boost], grants [Striker Mode 1/2/3/3] if the user has Striker Mode 0/1/2/3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Monk Rank Boost], grants [Striker Mode 1/2/3/3] if the user has Striker Mode 0/1/2/3"
+    }
+  ]
+}

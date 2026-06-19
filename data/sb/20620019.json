@@ -1,0 +1,30 @@
+{
+  "id": "20620019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620019/20620019_256.png",
+  "character": "Eiko",
+  "name": "Apex Terra Homing",
+  "name_jp": "テラホーミング・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.85 each) capped at 9999/19999, followed by one single attack (34.60/41.52) capped at 99999 at Apex Terra Homing level 0/1, removes Arcane Dyad Empowered: Eiko from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.85 each) capped at 9999/19999, followed by one single attack (34.60/41.52) capped at 99999 at Apex Terra Homing level 0/1, removes Arcane Dyad Empowered: Eiko from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.85 each) capped at 9999/19999, followed by one single attack (34.60/41.52) capped at 99999 at Apex Terra Homing level 0/1, removes Arcane Dyad Empowered: Eiko from the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20400031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400031/20400031_256.png",
+  "character": "Bartz",
+  "name": "Blazing Power",
+  "name_jp": "授かりし炎の力",
+  "tier": "Glint+",
+  "sb_version": "Glint+4",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire with Stacking] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking] and [Instant Cast 1]"
+    }
+  ]
+}

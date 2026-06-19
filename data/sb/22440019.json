@@ -1,0 +1,27 @@
+{
+  "id": "22440019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440019/22440019_256.png",
+  "character": "Larsa",
+  "name": "Starry Solidor's White Light",
+  "name_jp": "極星ソリドールの白き光",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Solidor's White Light to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Solidor's White Light: [Damage] or [Bio Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeProtect for 5 seconds] & [Damage] or [Bio Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Bio members, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Solidor's White Light to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Solidor's White Light: [Damage] or [Bio Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeProtect for 5 seconds] & [Damage] or [Bio Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Bio members, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Solidor's White Light to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Solidor's White Light: [Damage] or [Bio Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeProtect for 5 seconds] & [Damage] or [Bio Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Bio members, removes Master Mode"
+    }
+  ]
+}

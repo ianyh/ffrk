@@ -1,0 +1,27 @@
+{
+  "id": "23220024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220024/23220024_256.png",
+  "character": "Barbariccia",
+  "name": "Continuous Flash: Barbariccia (Wind)",
+  "name_jp": "連閃・バルバリシア風",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Continuous Flash & Instant ATB 1 to user\nContinuous Flash: After using Wind abilities, chases with 4 single-target Wind/NE magic attacks (1.50 each), every 2 chases grant Wind Damage +10% to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Continuous Flash & Instant ATB 1 to user\nContinuous Flash: After using Wind abilities, chases with 4 single-target Wind/NE magic attacks (1.50 each), every 2 chases grant Wind Damage +10% to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Continuous Flash & Instant ATB 1 to user\nContinuous Flash: After using Wind abilities, chases with 4 single-target Wind/NE magic attacks (1.50 each), every 2 chases grant Wind Damage +10% to party"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "20620031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620031/20620031_256.png",
+  "character": "Eiko",
+  "name": "Zenith Homing Blast",
+  "name_jp": "究極ブラストホーミング",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Eiko (Wind, Holy)] ",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Eiko (Wind, Holy)] "
+    },
+    {
+      "name": "Zenith Mode: Eiko (Wind, Holy)",
+      "text": "Increases [Wind Infusion] damage bonus by 20%, cast speed x1.10 for White Magic or Summoning abilities, White Magic or Summoning abilities trigger 1 additional time, casts Spirit Attack: Eiko II after using a White Magic or Summoning ability (max 3), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Prayer of the Lost+ II",
+      "text": "Four single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000, restores 1500 HP to all allies"
+    },
+    {
+      "name": "Emerald Light+",
+      "text": "Restores HP (20) to all allies,  grants smart ether 1 to all allies every fourth cast"
+    },
+    {
+      "name": "Spirit Attack: Eiko II",
+      "text": "Single attack (14.52/16.40) capped at 99999, higher multiplier if exploiting weakness"
+    },
+    {
+      "name": "Attach Wind 3 with Stacking",
+      "text": "Increase Attach Wind Level by 3 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Eiko (Wind, Holy)] "
+    },
+    {
+      "name": "Prayer of the Lost+ II",
+      "text": "Four single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses, minimum damage 2000, restores 1500 HP to all allies"
+    },
+    {
+      "name": "Emerald Light+",
+      "text": "Restores HP (20) to all allies,  grants smart ether 1 to all allies every fourth cast"
+    },
+    {
+      "name": "Spirit Attack: Eiko II",
+      "text": "Single attack (14.52/16.40) capped at 99999, higher multiplier if exploiting weakness"
+    }
+  ]
+}

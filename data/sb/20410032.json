@@ -1,0 +1,30 @@
+{
+  "id": "20410032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410032/20410032_256.png",
+  "character": "Irvine",
+  "name": "War-Awoken Hyper Shot (Weapon Skill)",
+  "name_jp": "戦醒ハイパーショット",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold with at least Imperil Fire 0/40%\nWS Blue: Imperil Fire 30% to all enemies\nWS Gold: DeProtect 20% to all enemies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold with at least Imperil Fire 0/40%\nWS Blue: Imperil Fire 30% to all enemies\nWS Gold: DeProtect 20% to all enemies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold with at least Imperil Fire 0/40%\nWS Blue: Imperil Fire 30% to all enemies\nWS Gold: DeProtect 20% to all enemies"
+    }
+  ]
+}

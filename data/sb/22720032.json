@@ -1,0 +1,30 @@
+{
+  "id": "22720032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720032/22720032_256.png",
+  "character": "Ceodore",
+  "name": "War-Awoken Luminous Thruster (Weapon Skill)",
+  "name_jp": "戦醒ルミナススラスター",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Holy;\nWS Blue: Grants [Lv.2 En-Holy Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Ability Damage +50% & ATB Speed x1.3 to Holy Abilities] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Holy;\nWS Blue: Grants [Lv.2 En-Holy Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Ability Damage +50% & ATB Speed x1.3 to Holy Abilities] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Holy;\nWS Blue: Grants [Lv.2 En-Holy Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Ability Damage +50% & ATB Speed x1.3 to Holy Abilities] to user"
+    }
+  ]
+}

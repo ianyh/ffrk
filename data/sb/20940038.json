@@ -1,0 +1,31 @@
+{
+  "id": "20940038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940038/20940038_256.png",
+  "character": "Krile",
+  "name": "Choice Attack",
+  "name_jp": "ちょうふんかあたっく",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Magical Quick Cast], [Buff Fire 20% (15s)], and [Buff Earth 20% (15s)] to all allies, grants [Awoken Successor], [Twin Element Mode II (Fire, Earth)] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Magical Quick Cast], [Buff Fire 20% (15s)], and [Buff Earth 20% (15s)] to all allies, grants [Awoken Successor], [Twin Element Mode II (Fire, Earth)] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Magical Quick Cast], [Buff Fire 20% (15s)], and [Buff Earth 20% (15s)] to all allies, grants [Awoken Successor], [Twin Element Mode II (Fire, Earth)] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

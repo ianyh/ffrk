@@ -1,0 +1,27 @@
+{
+  "id": "21000088",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000088/21000088_256.png",
+  "character": "-",
+  "name": "Tiger's Roar",
+  "name_jp": "タイガーロア",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (4.90), causes [Slow] (50%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (4.90), causes [Slow] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (4.90), causes [Slow] (50%)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20520010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520010/20520010_256.png",
+  "character": "Yuna",
+  "name": "Grand Summon Overdrive",
+  "name_jp": "マスター召喚・OD",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "X",
+  "elements": [
+    "Holy",
+    "Wind"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Summoning Rank Boost] and [Last Summoner EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Summoning Rank Boost] and [Last Summoner EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Summoning Rank Boost] and [Last Summoner EX Mode] to the user"
+    }
+  ]
+}

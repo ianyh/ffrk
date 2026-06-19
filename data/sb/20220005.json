@@ -1,0 +1,27 @@
+{
+  "id": "20220005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220005/20220005_256.png",
+  "character": "Cyan",
+  "name": "Bushido Sky",
+  "name_jp": "必殺剣・空",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies"
+    }
+  ]
+}

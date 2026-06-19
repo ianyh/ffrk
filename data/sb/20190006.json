@@ -1,0 +1,27 @@
+{
+  "id": "20190006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190006/20190006_256.png",
+  "character": "Josef",
+  "name": "Undaunted Hero",
+  "name_jp": "漢の生き様",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK and MAG +30%] for 25 seconds, grants [Haste], [Attach Ice] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds, grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds, grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ]
+}

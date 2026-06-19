@@ -1,0 +1,27 @@
+{
+  "id": "22720007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720007/22720007_256.png",
+  "character": "Ceodore",
+  "name": "Holy Fellowship",
+  "name_jp": "ホーリーバンド",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Holy Chain (max 150, field +50%), [ATK +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
+    }
+  ]
+}

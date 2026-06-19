@@ -1,0 +1,31 @@
+{
+  "id": "20090028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090028/20090028_256.png",
+  "character": "Rydia",
+  "name": "Deluge (IV)",
+  "name_jp": "おおつなみ",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Deluge (IV) level 0/1, removes Arcane Dyad Empowered: Rydia (Water/Holy) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Deluge (IV) level 0/1, removes Arcane Dyad Empowered: Rydia (Water/Holy) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Deluge (IV) level 0/1, removes Arcane Dyad Empowered: Rydia (Water/Holy) from the user"
+    }
+  ]
+}

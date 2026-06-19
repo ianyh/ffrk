@@ -1,0 +1,70 @@
+{
+  "id": "20090050",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090050/20090050_256.png",
+  "character": "Rydia",
+  "name": "Zenith Raging Giant",
+  "name_jp": "究極幻獣召喚・猛る巨人",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rydia (Earth)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rydia (Earth)] to the user"
+    },
+    {
+      "name": "Zenith Mode: Rydia (Earth)",
+      "text": "Increases [Earth Infusion] damage bonus by 20%, cast speed x1.10 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage, Summoning abilities trigger 1 additional time, casts Spirit Attack: Rydia (Earth) after using three Summoning abilities (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Summoner's Band+",
+      "text": "Four single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Law of the Eidolons+",
+      "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Rydia (Earth)",
+      "text": "Grants [Summoning Instant Cast 2] and [Summoning +30% Boost 2] to the user"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rydia (Earth)] to the user"
+    },
+    {
+      "name": "Summoner's Band+",
+      "text": "Four single attacks (5.25/5.40 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Law of the Eidolons+",
+      "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Rydia (Earth)",
+      "text": "Grants [Summoning Instant Cast 2] and [Summoning +30% Boost 2] to the user"
+    }
+  ]
+}

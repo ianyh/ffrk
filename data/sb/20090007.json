@@ -1,0 +1,30 @@
+{
+  "id": "20090007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090007/20090007_256.png",
+  "character": "Rydia",
+  "name": "Lord of the Seas",
+  "name_jp": "幻獣召喚・大海を制す王",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), minimum damage 1100, [MAG and RES +30%] to all allies for 25 seconds, grants [Attach Water] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), minimum damage 1100, [MAG and RES +30%] to all allies for 25 seconds, grants [Attach Water] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), minimum damage 1100, [MAG and RES +30%] to all allies for 25 seconds, grants [Attach Water] to the user"
+    }
+  ]
+}

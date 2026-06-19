@@ -1,0 +1,27 @@
+{
+  "id": "21000118",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000118/21000118_256.png",
+  "character": "-",
+  "name": "Moon Energy",
+  "name_jp": "エナジーボール",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[ATK and RES +15%] for 25 seconds, grants [Critical Chance 15%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and RES +15%] for 25 seconds, grants [Critical Chance 15%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and RES +15%] for 25 seconds, grants [Critical Chance 15%] for 25 seconds"
+    }
+  ]
+}

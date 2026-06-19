@@ -1,0 +1,30 @@
+{
+  "id": "20600022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600022/20600022_256.png",
+  "character": "Lightning",
+  "name": "Gestalt Drive",
+  "name_jp": "ゲシュタルトドライブ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Instant ATB 1] to the user"
+    }
+  ]
+}

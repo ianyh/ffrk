@@ -1,0 +1,32 @@
+{
+  "id": "22380008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22380008/22380008_256.png",
+  "character": "Delita",
+  "name": "Somebody to Love",
+  "name_jp": "愛にすべてを",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Lightning",
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.69 each), grants [Critical Chance 75%] to the user for 25 seconds, grants [Quick Cast] and [Hero-King Blade Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [Critical Chance 75%] to the user for 25 seconds, grants [Quick Cast] and [Hero-King Blade Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [Critical Chance 75%] to the user for 25 seconds, grants [Quick Cast] and [Hero-King Blade Follow-Up] to the user"
+    }
+  ]
+}

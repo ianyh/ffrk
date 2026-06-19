@@ -1,0 +1,30 @@
+{
+  "id": "23250002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23250002/23250002_256.png",
+  "character": "Riku",
+  "name": "Dark Firaga",
+  "name_jp": "ダークファイガ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "KH",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single ranged attacks (0.71 each), grants [Attach Dark], [Aura of Darkness] and [Darkhand Scourge Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Dark], [Aura of Darkness] and [Darkhand Scourge Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Dark], [Aura of Darkness] and [Darkhand Scourge Follow-Up] to the user"
+    }
+  ]
+}

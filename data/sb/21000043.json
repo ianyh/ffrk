@@ -1,0 +1,27 @@
+{
+  "id": "21000043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000043/21000043_256.png",
+  "character": "-",
+  "name": "Spellbane Strike",
+  "name_jp": "魔法封じの一撃",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single ranged attack (2.10), causes [Silence] (50%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.10), causes [Silence] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.10), causes [Silence] (50%)"
+    }
+  ]
+}

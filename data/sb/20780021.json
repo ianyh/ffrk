@@ -1,0 +1,74 @@
+{
+  "id": "20780021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780021/20780021_256.png",
+  "character": "Setzer",
+  "name": "Zenith Spare Darts",
+  "name_jp": "究極エクストラダーツ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [100% Critical] and [200% ATB 1] to allies with Dark infusion, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Setzer (Support)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [100% Critical] and [200% ATB 1] to allies with Dark infusion, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Setzer (Support)] to the user"
+    },
+    {
+      "name": "Zenith Mode: Setzer (Support)",
+      "text": "Cast speed x1.10 for Support or Sharpshooter abilities, Sharpshooter abilities trigger 1 additional time, casts Spirit Attack: Setzer (Support) after using three Support or Sharpshooter abilities (max 2), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Red Card+",
+      "text": "Four single ranged attacks (1.10/1.15 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Dark 10% (5s)], randomly grants either [Sharpshooter Quick Cast 2] to the user, or restores 1000 HP to the lowest health ally and removes Poison, Blind, and Sleep"
+    },
+    {
+      "name": "Dealer Shuffle+",
+      "text": "Six single ranged attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Setzer (Support)",
+      "text": "Randomly deals one single ranged attack (0.80 each) and causes [DEF -30% (8s), or deals two single ranged attacks (0.80 each) and causes [DEF and RES -30% (8s)], or deals six single ranged attacks (0.80 each) and causes [ATK, DEF, MAG and RES -30% (8s)]"
+    },
+    {
+      "name": "100% Critical",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [100% Critical] and [200% ATB 1] to allies with Dark infusion, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Setzer (Support)] to the user"
+    },
+    {
+      "name": "Red Card+",
+      "text": "Four single ranged attacks (1.10/1.15 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Dark 10% (5s)], randomly grants either [Sharpshooter Quick Cast 2] to the user, or restores 1000 HP to the lowest health ally and removes Poison, Blind, and Sleep"
+    },
+    {
+      "name": "Dealer Shuffle+",
+      "text": "Six single ranged attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Setzer (Support)",
+      "text": "Randomly deals one single ranged attack (0.80 each) and causes [DEF -30% (8s), or deals two single ranged attacks (0.80 each) and causes [DEF and RES -30% (8s)], or deals six single ranged attacks (0.80 each) and causes [ATK, DEF, MAG and RES -30% (8s)]"
+    }
+  ]
+}

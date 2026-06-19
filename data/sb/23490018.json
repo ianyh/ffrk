@@ -1,0 +1,27 @@
+{
+  "id": "23490018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490018/23490018_256.png",
+  "character": "Rain",
+  "name": "Father's Blood",
+  "name_jp": "父より受け継ぎし血",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Break Gauge +250] and [Quick Cast 3] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +250] and [Quick Cast 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +250] and [Quick Cast 3] to the user"
+    }
+  ]
+}

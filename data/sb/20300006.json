@@ -1,0 +1,30 @@
+{
+  "id": "20300006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300006/20300006_256.png",
+  "character": "Rinoa",
+  "name": "Sorceress's Awakening",
+  "name_jp": "魔女の覚醒",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VIII",
+  "elements": [
+    "Earth",
+    "Ice"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Eight group attacks (1.80 each), grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (1.80 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (1.80 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

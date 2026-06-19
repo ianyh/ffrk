@@ -1,0 +1,27 @@
+{
+  "id": "23210027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23210027/23210027_256.png",
+  "character": "Elarra",
+  "name": "Continuous Flash: Elarra",
+  "name_jp": "連閃・ウララ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (3000)], [Quick Cast 2] to all allies, grants [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)], [Quick Cast 2] to all allies, grants [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)], [Quick Cast 2] to all allies, grants [200% ATB 1] to the user"
+    }
+  ]
+}

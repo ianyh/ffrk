@@ -1,0 +1,27 @@
+{
+  "id": "21000107",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000107/21000107_256.png",
+  "character": "-",
+  "name": "Apothecary Lore",
+  "name_jp": "回復薬の知識",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (35)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ]
+}

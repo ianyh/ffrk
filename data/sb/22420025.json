@@ -1,0 +1,27 @@
+{
+  "id": "22420025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22420025/22420025_256.png",
+  "character": "Paine",
+  "name": "Approval Rating Down!",
+  "name_jp": "尊敬ポイント減点！",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ]
+}

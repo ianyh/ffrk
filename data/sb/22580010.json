@@ -1,0 +1,32 @@
+{
+  "id": "22580010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580010/22580010_256.png",
+  "character": "Master",
+  "name": "Raging Spirit",
+  "name_jp": "怒涛の気合",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "I",
+  "elements": [
+    "Earth",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Rousing Charge Mode III (Fire, Lightning, Earth)], [Frenzied Monk Mode] and Martial Will +5 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Rousing Charge Mode III (Fire, Lightning, Earth)], [Frenzied Monk Mode] and Martial Will +5 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Rousing Charge Mode III (Fire, Lightning, Earth)], [Frenzied Monk Mode] and Martial Will +5 to the user"
+    }
+  ]
+}

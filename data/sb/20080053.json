@@ -1,0 +1,30 @@
+{
+  "id": "20080053",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080053/20080053_256.png",
+  "character": "Kain",
+  "name": "War-Awoken True Soaring Dragoon (Weapon Skill)",
+  "name_jp": "戦醒真の天翔ける竜騎士",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single Lightning/NE piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% Critical Rate;\nWS Blue: Grants [Critical Chance +100% & Critical Damage +50%] to user\nWS Gold: Grants [During Tactical Awoken Mode, Lightning Ability Damage +50% & chases a Lightning ability with Quick ATB 2 to user (max 1 chase)] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Lightning/NE piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% Critical Rate;\nWS Blue: Grants [Critical Chance +100% & Critical Damage +50%] to user\nWS Gold: Grants [During Tactical Awoken Mode, Lightning Ability Damage +50% & chases a Lightning ability with Quick ATB 2 to user (max 1 chase)] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Lightning/NE piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% Critical Rate;\nWS Blue: Grants [Critical Chance +100% & Critical Damage +50%] to user\nWS Gold: Grants [During Tactical Awoken Mode, Lightning Ability Damage +50% & chases a Lightning ability with Quick ATB 2 to user (max 1 chase)] to user"
+    }
+  ]
+}

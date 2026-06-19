@@ -1,0 +1,31 @@
+{
+  "id": "22670022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670022/22670022_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Spiraling Flash (Cloud of Darkness)",
+  "name_jp": " 降閃【暗闇の雲】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (1.48 each), causes [Imperil Lightning 40% (5s)] and [Imperil Dark 40% (5s)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.48 each), causes [Imperil Lightning 40% (5s)] and [Imperil Dark 40% (5s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.48 each), causes [Imperil Lightning 40% (5s)] and [Imperil Dark 40% (5s)]"
+    }
+  ]
+}

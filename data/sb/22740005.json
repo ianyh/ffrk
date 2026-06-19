@@ -1,0 +1,27 @@
+{
+  "id": "22740005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740005/22740005_256.png",
+  "character": "Noctis",
+  "name": "Armiger Wakes",
+  "name_jp": "覚醒ファントムソード",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.74 each), grants [Royal Might EX Mode] and [Stoneskin: 100%] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.74 each), grants [Royal Might EX Mode] and [Stoneskin: 100%] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.74 each), grants [Royal Might EX Mode] and [Stoneskin: 100%] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20400009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400009/20400009_256.png",
+  "character": "Bartz",
+  "name": "Woken Water",
+  "name_jp": "水のかけらに眠りし心",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "V",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Water] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
+    }
+  ]
+}

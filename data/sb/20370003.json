@@ -1,0 +1,27 @@
+{
+  "id": "20370003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370003/20370003_256.png",
+  "character": "Vivi",
+  "name": "Doublecast Meteorite",
+  "name_jp": "W魔法・隕石",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Two group attacks (3.90 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (3.90 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (3.90 each)"
+    }
+  ]
+}

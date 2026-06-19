@@ -1,0 +1,27 @@
+{
+  "id": "20860004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860004/20860004_256.png",
+  "character": "Zidane",
+  "name": "Shift Break",
+  "name_jp": "シフトブレイク",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group ranged attacks (1.50 each), ATK -50% for 25 seconds, ATK +35% to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.50 each), ATK -50% for 25 seconds, ATK +35% to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.50 each), ATK -50% for 25 seconds, ATK +35% to the user for 25 seconds"
+    }
+  ]
+}

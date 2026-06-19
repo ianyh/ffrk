@@ -1,0 +1,30 @@
+{
+  "id": "23100012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100012/23100012_256.png",
+  "character": "Queen",
+  "name": "Apex Savage Heart Mode",
+  "name_jp": "羅刹モード・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Savage Heart Mode level 0/1/2, removes Arcane Dyad Empowered: Queen from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Savage Heart Mode level 0/1/2, removes Arcane Dyad Empowered: Queen from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Savage Heart Mode level 0/1/2, removes Arcane Dyad Empowered: Queen from the user"
+    }
+  ]
+}

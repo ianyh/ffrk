@@ -1,0 +1,31 @@
+{
+  "id": "22710005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22710005/22710005_256.png",
+  "character": "Marach",
+  "name": "Beastly Wrath",
+  "name_jp": "操獣・裏天鼓雷音",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Awoken Lightning], [Damage Cap +10000] and [Lightning Instant Cast] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Awoken Lightning], [Damage Cap +10000] and [Lightning Instant Cast] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Awoken Lightning], [Damage Cap +10000] and [Lightning Instant Cast] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22090002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090002/22090002_256.png",
+  "character": "Jecht",
+  "name": "Jecht Beam",
+  "name_jp": "ジェクトビーム",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "X",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged attacks (1.37 each), [ATK +30%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.37 each), [ATK +30%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.37 each), [ATK +30%] to all allies for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22040022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040022/22040022_256.png",
+  "character": "Yuffie",
+  "name": "Dominate Mind",
+  "name_jp": "我流・境地圧砕",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2] and [Inner Exaltation Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2] and [Inner Exaltation Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2] and [Inner Exaltation Follow-Up] to the user"
+    }
+  ]
+}

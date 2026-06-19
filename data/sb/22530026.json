@@ -1,0 +1,27 @@
+{
+  "id": "22530026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22530026/22530026_256.png",
+  "character": "Alphinaud",
+  "name": "Awoken S Carbuncle (Dual Shift)",
+  "name_jp": "覚醒S・カーバンクル",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1], [Dual Awoken Summoning Mode II (Alphinaud v2)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1], [Dual Awoken Summoning Mode II (Alphinaud v2)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1], [Dual Awoken Summoning Mode II (Alphinaud v2)]"
+    }
+  ]
+}

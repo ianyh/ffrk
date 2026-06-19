@@ -1,0 +1,30 @@
+{
+  "id": "20500032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500032/20500032_256.png",
+  "character": "Quistis",
+  "name": "Radiant Lesson Time",
+  "name_jp": "耀光指導の時間",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, [Attach Water with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Quistis (Water) to user. Crystal Force Mode: Quistis (Water): [Water Ability Boost], [Dualcast Water], [Zero Hone Cost to Water Abilities] & [25% DEF/RES Pierce]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (? each) capped at 19999, [Attach Water with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Quistis (Water) to user. Crystal Force Mode: Quistis (Water): [Water Ability Boost], [Dualcast Water], [Zero Hone Cost to Water Abilities] & [25% DEF/RES Pierce]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (? each) capped at 19999, [Attach Water with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Quistis (Water) to user. Crystal Force Mode: Quistis (Water): [Water Ability Boost], [Dualcast Water], [Zero Hone Cost to Water Abilities] & [25% DEF/RES Pierce]"
+    }
+  ]
+}

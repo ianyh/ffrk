@@ -1,0 +1,31 @@
+{
+  "id": "23200003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200003/23200003_256.png",
+  "character": "Ignis",
+  "name": "Analysis Sting",
+  "name_jp": "アナライズスティング",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "Lightning",
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (1.30 each), grants [Critical Damage +50%] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.30 each), grants [Critical Damage +50%] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.30 each), grants [Critical Damage +50%] to all allies"
+    }
+  ]
+}

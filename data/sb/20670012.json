@@ -1,0 +1,27 @@
+{
+  "id": "20670012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670012/20670012_256.png",
+  "character": "Zell",
+  "name": "Assiduous Heat",
+  "name_jp": "スタディ・ヒート",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]"
+    }
+  ]
+}

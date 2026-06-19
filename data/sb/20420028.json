@@ -1,0 +1,27 @@
+{
+  "id": "20420028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420028/20420028_256.png",
+  "character": "Arc",
+  "name": "Awoken Basilica Basiliscus (Dual Shift)",
+  "name_jp": "覚醒召喚魔法・聖蛇",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc v2)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc v2)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc v2)]"
+    }
+  ]
+}

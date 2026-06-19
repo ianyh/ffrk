@@ -1,0 +1,27 @@
+{
+  "id": "22730027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730027/22730027_256.png",
+  "character": "Gogo (V)",
+  "name": "War-Awoken Deep Blue Demolition",
+  "name_jp": "戦醒碧淵デモリッシュ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gogo (V)], [MAG +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gogo (V)], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gogo (V)], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

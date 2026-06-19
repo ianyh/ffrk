@@ -1,0 +1,63 @@
+{
+  "id": "23030017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030017/23030017_256.png",
+  "character": "Ursula",
+  "name": "Zenith Crushing Fist",
+  "name_jp": "究極砕岩ノ拳打",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Ursula (Earth)] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Ursula (Earth)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Zenith Mode: Ursula (Earth)",
+      "text": "Increases [Earth Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Earth abilities trigger 1 additional time, casts Spirit Attack: Ursula (Earth) after using two Earth abilities (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Five Star Crimson Palm+",
+      "text": "Six single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Ursula (Earth)",
+      "text": "Causes [Imperil Earth 20% (15s)]/[Imperil Prismatic 20% (15s)] and [Quick Cast 2] to all allies if 0-3/4+ FF4 allies are alive"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Ursula (Earth)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Five Star Crimson Palm+",
+      "text": "Six single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Ursula (Earth)",
+      "text": "Causes [Imperil Earth 20% (15s)]/[Imperil Prismatic 20% (15s)] and [Quick Cast 2] to all allies if 0-3/4+ FF4 allies are alive"
+    }
+  ]
+}

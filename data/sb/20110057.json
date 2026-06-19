@@ -1,0 +1,27 @@
+{
+  "id": "20110057",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110057/20110057_256.png",
+  "character": "Cloud",
+  "name": "Roaring Eye of Evil",
+  "name_jp": "轟・邪龍点睛",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "",
+  "lensable": false,
+  "effects": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases 1/2/3+ Dark abilities with single-target Dark/NE physical attack (3.36) at Cap Break Level 4/6/8",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases 1/2/3+ Dark abilities with single-target Dark/NE physical attack (3.36) at Cap Break Level 4/6/8"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases 1/2/3+ Dark abilities with single-target Dark/NE physical attack (3.36) at Cap Break Level 4/6/8"
+    }
+  ]
+}

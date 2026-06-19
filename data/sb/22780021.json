@@ -1,0 +1,27 @@
+{
+  "id": "22780021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780021/22780021_256.png",
+  "character": "Cid (XIV)",
+  "name": "Continuous Flash: Cid (XIV)",
+  "name_jp": "連閃・シド(XIV)",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Quad Element Mode II (Fire, Earth, Wind, Poison)], [Soul Break Gauge +250], and [200% ATB 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quad Element Mode II (Fire, Earth, Wind, Poison)], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quad Element Mode II (Fire, Earth, Wind, Poison)], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ]
+}

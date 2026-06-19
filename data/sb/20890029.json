@@ -1,0 +1,27 @@
+{
+  "id": "20890029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890029/20890029_256.png",
+  "character": "Shadow",
+  "name": "Super Flash (Shadow)",
+  "name_jp": "超閃【シャドウ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Dark ability, grants Dark Ability Damage +30% for 3 turns to user (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Dark ability, grants Dark Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Dark ability, grants Dark Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ]
+}

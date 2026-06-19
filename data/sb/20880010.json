@@ -1,0 +1,27 @@
+{
+  "id": "20880010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880010/20880010_256.png",
+  "character": "Lulu",
+  "name": "Icy Beauty",
+  "name_jp": "クールビューティー",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Ice Stacking], [Attach Ice] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [High Quick Cast 2]"
+    }
+  ]
+}

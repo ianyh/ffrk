@@ -1,0 +1,27 @@
+{
+  "id": "23490013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490013/23490013_256.png",
+  "character": "Rain",
+  "name": "Awoken Soul Prominence (Dual Shift)",
+  "name_jp": "覚醒ソウルプロミネンス",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Dual Awoken Spellblade Mode II (Rain)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Awoken Spellblade Mode II (Rain)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Awoken Spellblade Mode II (Rain)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

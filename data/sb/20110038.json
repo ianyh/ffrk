@@ -1,0 +1,30 @@
+{
+  "id": "20110038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110038/20110038_256.png",
+  "character": "Cloud",
+  "name": "Sonic Blade",
+  "name_jp": "ソニックブレード",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

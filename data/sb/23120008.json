@@ -1,0 +1,27 @@
+{
+  "id": "23120008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120008/23120008_256.png",
+  "character": "Estinien",
+  "name": "Life of the Dragon",
+  "name_jp": "紅の竜血",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode II (Wind, Dark)] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Wind, Dark)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Wind, Dark)] and [High Quick Cast 1]"
+    }
+  ]
+}

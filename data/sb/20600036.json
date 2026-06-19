@@ -1,0 +1,31 @@
+{
+  "id": "20600036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600036/20600036_256.png",
+  "character": "Lightning",
+  "name": "Blinding Requiem",
+  "name_jp": "閃光の鎮魂歌",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "FIfteen single attacks (0.60 each), grants [Awoken Sublime Thunder], [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)] and [Watchful Protector Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Awoken Sublime Thunder], [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)] and [Watchful Protector Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Awoken Sublime Thunder], [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)] and [Watchful Protector Mode] to the user"
+    }
+  ]
+}

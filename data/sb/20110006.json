@@ -1,0 +1,29 @@
+{
+  "id": "20110006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110006/20110006_256.png",
+  "character": "Cloud",
+  "name": "Climhazzard",
+  "name_jp": "クライムハザード",
+  "tier": "SB",
+  "sb_version": "SB3",
+  "realm": "VII",
+  "elements": [
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Seven single attacks (0.73 each), grants [Attach Wind] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.73 each), grants [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.73 each), grants [Attach Wind] to the user"
+    }
+  ]
+}

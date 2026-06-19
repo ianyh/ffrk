@@ -1,0 +1,27 @@
+{
+  "id": "23120019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120019/23120019_256.png",
+  "character": "Estinien",
+  "name": "Continuous Flash: Estinien II",
+  "name_jp": "連閃・エスティニアンII",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Twin Element Mode II (Wind, Dark)], [Soul Break Gauge +250], [200% ATB 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Wind, Dark)], [Soul Break Gauge +250], [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Wind, Dark)], [Soul Break Gauge +250], [200% ATB 1]"
+    }
+  ]
+}

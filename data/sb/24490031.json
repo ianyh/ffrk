@@ -1,0 +1,38 @@
+{
+  "id": "24490031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490031/24490031_256.png",
+  "character": "Kimahri",
+  "name": "Burst Break: Kimahri (Break Arte)",
+  "name_jp": "烈破・キマリ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Kimahri], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Kimahri], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Kimahri], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    }
+  ]
+}

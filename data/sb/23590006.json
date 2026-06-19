@@ -1,0 +1,27 @@
+{
+  "id": "23590006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23590006/23590006_256.png",
+  "character": "Jill",
+  "name": "Awoken Blizzaga (XVI) (Dual Shift)",
+  "name_jp": "覚醒ブリザガ【XVI】",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XVI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1], Dual Awoken Ice Mode II to user, removes Dual Awoken Ice Mode I\nDual Awoken Ice Mode II: Cap Break Level 1, Ice Ability Boost, Triplecast Ice, Ice Ability Damage +30%, Instant Ice & Instant ATB",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1], Dual Awoken Ice Mode II to user, removes Dual Awoken Ice Mode I\nDual Awoken Ice Mode II: Cap Break Level 1, Ice Ability Boost, Triplecast Ice, Ice Ability Damage +30%, Instant Ice & Instant ATB"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1], Dual Awoken Ice Mode II to user, removes Dual Awoken Ice Mode I\nDual Awoken Ice Mode II: Cap Break Level 1, Ice Ability Boost, Triplecast Ice, Ice Ability Damage +30%, Instant Ice & Instant ATB"
+    }
+  ]
+}

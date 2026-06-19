@@ -1,0 +1,27 @@
+{
+  "id": "20900010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900010/20900010_256.png",
+  "character": "Mog",
+  "name": "Snow Ensemble",
+  "name_jp": "雪のアンサンブル",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [MAG and MND +50% (25s)], grants [Synchro Mode] and [Arcane Virtuoso Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], grants [Synchro Mode] and [Arcane Virtuoso Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], grants [Synchro Mode] and [Arcane Virtuoso Mode] to the user"
+    }
+  ]
+}

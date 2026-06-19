@@ -1,0 +1,32 @@
+{
+  "id": "23370008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370008/23370008_256.png",
+  "character": "Cater",
+  "name": "Quad-Color Shot",
+  "name_jp": "四色効果弾",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ Type-0 allies are alive, grants [Awoken Engineer], [Damage Cap +10000] and [Heavy Debuff Shot Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ Type-0 allies are alive, grants [Awoken Engineer], [Damage Cap +10000] and [Heavy Debuff Shot Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ Type-0 allies are alive, grants [Awoken Engineer], [Damage Cap +10000] and [Heavy Debuff Shot Follow-Up] to the user"
+    }
+  ]
+}

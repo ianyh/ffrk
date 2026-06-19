@@ -1,0 +1,30 @@
+{
+  "id": "20420011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420011/20420011_256.png",
+  "character": "Arc",
+  "name": "Summon Leviath",
+  "name_jp": "召喚魔法・リバイア",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "III",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Water] and [Esoteric Light EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Water] and [Esoteric Light EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Water] and [Esoteric Light EX Mode] to the user"
+    }
+  ]
+}

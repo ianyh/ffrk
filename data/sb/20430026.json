@@ -1,0 +1,30 @@
+{
+  "id": "20430026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430026/20430026_256.png",
+  "character": "Refia",
+  "name": "Dance of Shiranui",
+  "name_jp": "戦舞・不知火",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "III",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "15 single attacks (0.60 each), grants [Physical Quick Cast] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user, grants [Instant ATB 3] and [Instant Cast 3] to the user with 5 Monk or III allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single attacks (0.60 each), grants [Physical Quick Cast] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user, grants [Instant ATB 3] and [Instant Cast 3] to the user with 5 Monk or III allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single attacks (0.60 each), grants [Physical Quick Cast] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user, grants [Instant ATB 3] and [Instant Cast 3] to the user with 5 Monk or III allies"
+    }
+  ]
+}

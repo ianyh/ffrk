@@ -1,0 +1,27 @@
+{
+  "id": "22430028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430028/22430028_256.png",
+  "character": "Guy",
+  "name": "War-Awoken Moonlit Maul",
+  "name_jp": "戦醒月下狼爪",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Guy], [ATK +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Guy], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Guy], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

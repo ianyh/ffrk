@@ -1,0 +1,27 @@
+{
+  "id": "22180004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180004/22180004_256.png",
+  "character": "Basch",
+  "name": "Ruin Impendent",
+  "name_jp": "紛れ無き終焉",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single ranged attacks (1.30 each), grants [Physical Blink 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (1.30 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (1.30 each), grants [Physical Blink 1] to all allies"
+    }
+  ]
+}

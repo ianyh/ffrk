@@ -1,0 +1,30 @@
+{
+  "id": "20290017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290017/20290017_256.png",
+  "character": "Luneth",
+  "name": "Silver Wind",
+  "name_jp": "白銀の風",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Strong Heart Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Strong Heart Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Strong Heart Mode] to the user"
+    }
+  ]
+}

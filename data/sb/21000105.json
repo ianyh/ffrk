@@ -1,0 +1,27 @@
+{
+  "id": "21000105",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000105/21000105_256.png",
+  "character": "-",
+  "name": "Witchcraft",
+  "name_jp": "ブラック・マジック",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[MAG +15%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +15%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +15%] for 25 seconds"
+    }
+  ]
+}

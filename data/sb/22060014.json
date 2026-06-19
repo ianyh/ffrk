@@ -1,0 +1,83 @@
+{
+  "id": "22060014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060014/22060014_256.png",
+  "character": "Penelo",
+  "name": "Zenith Dance of Rapture",
+  "name_jp": "究極ファイナルダンス",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], [High Quick Cast 3], and [Natural Cure: Penelo] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Penelo] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], [High Quick Cast 3], and [Natural Cure: Penelo] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Penelo] to the user"
+    },
+    {
+      "name": "Zenith Mode: Penelo",
+      "text": "Cast speed x1.10 for White Magic or Dancer abilities, White Magic or Dancer abilities trigger 1 additional time, casts Spirit Attack: Penelo after using two White Magic or Dancer abilities, maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode], "
+    },
+    {
+      "name": "War Dance+",
+      "text": "Restores 2000 HP, grants [War Dance ATK and MAG +5%/10%/20%/30%], grants [Proficiency 1/2/3/3] to the user if the user has Proficiency 0/1/2/3"
+    },
+    {
+      "name": "Healing Step+",
+      "text": "Restores HP (?)"
+    },
+    {
+      "name": "Spirit Attack: Penelo",
+      "text": "Grants [HP Stock (2000)] to all allies"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 3",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Natural Cure: Penelo",
+      "text": "Grants [HP Stock (3000)] and [Quick Cast 1] when HP fall below 20%, removed after triggering"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], [High Quick Cast 3], and [Natural Cure: Penelo] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Penelo] to the user"
+    },
+    {
+      "name": "War Dance+",
+      "text": "Restores 2000 HP, grants [War Dance ATK and MAG +5%/10%/20%/30%], grants [Proficiency 1/2/3/3] to the user if the user has Proficiency 0/1/2/3"
+    },
+    {
+      "name": "Healing Step+",
+      "text": "Restores HP (?)"
+    },
+    {
+      "name": "Spirit Attack: Penelo",
+      "text": "Grants [HP Stock (2000)] to all allies"
+    }
+  ]
+}

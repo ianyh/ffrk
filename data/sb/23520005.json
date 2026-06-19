@@ -1,0 +1,31 @@
+{
+  "id": "23520005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23520005/23520005_256.png",
+  "character": "Ardyn",
+  "name": "Aura of Darkness (XV)",
+  "name_jp": "闇のオーラ【XV】",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XV",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.62 each), grants [Instant Cast 1] and [Last Stand] to all allies, grants [Twin Element Mode (Fire, Dark)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.62 each), grants [Instant Cast 1] and [Last Stand] to all allies, grants [Twin Element Mode (Fire, Dark)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.62 each), grants [Instant Cast 1] and [Last Stand] to all allies, grants [Twin Element Mode (Fire, Dark)] to the user"
+    }
+  ]
+}

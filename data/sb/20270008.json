@@ -1,0 +1,30 @@
+{
+  "id": "20270008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270008/20270008_256.png",
+  "character": "Firion",
+  "name": "Double Trouble",
+  "name_jp": "ダブルディフィート",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Holy] and [Loyal Shield EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Holy] and [Loyal Shield EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Holy] and [Loyal Shield EX Mode] to the user"
+    }
+  ]
+}

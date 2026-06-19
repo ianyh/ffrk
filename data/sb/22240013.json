@@ -1,0 +1,27 @@
+{
+  "id": "22240013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240013/22240013_256.png",
+  "character": "Kuja",
+  "name": "Cloudburst Blessing",
+  "name_jp": "祝福の陰雨",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Dark Chain (max 99, field +50%), grants [MAG +50%] for 25 seconds, grants [Buff Dark 20% (15s)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 99, field +50%), grants [MAG +50%] for 25 seconds, grants [Buff Dark 20% (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 99, field +50%), grants [MAG +50%] for 25 seconds, grants [Buff Dark 20% (15s)]"
+    }
+  ]
+}

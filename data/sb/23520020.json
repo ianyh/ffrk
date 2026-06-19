@@ -1,0 +1,31 @@
+{
+  "id": "23520020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23520020/23520020_256.png",
+  "character": "Ardyn",
+  "name": "Radiant Shadow King's Might",
+  "name_jp": "耀光闇の王の力",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XV",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Fire with Stacking] to the user depending on entry damage, grants [Damage Cap +10000] and Crystal Mode to the user\nCrystal Mode: Dark/Fire Ability Boost, Dualcast Dark/Fire, Zero Hone Cost to Dark/Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Dark/Fire/NE physical attack (10.00) at True Cap Break Level 1, Instant Cast, grants [Damage Cap +10000 2], [Quick Cast 2], [Physical +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Fire with Stacking] to the user depending on entry damage, grants [Damage Cap +10000] and Crystal Mode to the user\nCrystal Mode: Dark/Fire Ability Boost, Dualcast Dark/Fire, Zero Hone Cost to Dark/Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Dark/Fire/NE physical attack (10.00) at True Cap Break Level 1, Instant Cast, grants [Damage Cap +10000 2], [Quick Cast 2], [Physical +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Fire with Stacking] to the user depending on entry damage, grants [Damage Cap +10000] and Crystal Mode to the user\nCrystal Mode: Dark/Fire Ability Boost, Dualcast Dark/Fire, Zero Hone Cost to Dark/Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Dark/Fire/NE physical attack (10.00) at True Cap Break Level 1, Instant Cast, grants [Damage Cap +10000 2], [Quick Cast 2], [Physical +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
+    }
+  ]
+}

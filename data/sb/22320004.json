@@ -1,0 +1,30 @@
+{
+  "id": "22320004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22320004/22320004_256.png",
+  "character": "Yda",
+  "name": "Forbidden Chakra",
+  "name_jp": "陰陽闘気斬",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

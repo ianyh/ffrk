@@ -1,0 +1,27 @@
+{
+  "id": "20420032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420032/20420032_256.png",
+  "character": "Arc",
+  "name": "Blessed Dawn",
+  "name_jp": "神聖なる来光",
+  "tier": "CSB",
+  "sb_version": "CSB2",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Holy Chain (max 150, field +30%), grants [MAG and MND +30% (25s)] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +30%), grants [MAG and MND +30% (25s)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +30%), grants [MAG and MND +30% (25s)] to all allies"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22640015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640015/22640015_256.png",
+  "character": "Emperor",
+  "name": "Hellish Gale",
+  "name_jp": "フィアトルネード",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "Earth",
+    "Wind"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (7.28) capped at 99999, 7.79 multiplier if exploiting elemental weakness, grants [Tri-Element Mode II (Earth, Wind, Dark)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (7.28) capped at 99999, 7.79 multiplier if exploiting elemental weakness, grants [Tri-Element Mode II (Earth, Wind, Dark)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (7.28) capped at 99999, 7.79 multiplier if exploiting elemental weakness, grants [Tri-Element Mode II (Earth, Wind, Dark)] to the user"
+    }
+  ]
+}

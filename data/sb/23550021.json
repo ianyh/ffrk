@@ -1,0 +1,31 @@
+{
+  "id": "23550021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550021/23550021_256.png",
+  "character": "Kurasame",
+  "name": "War-Awoken Icy Grave (Weapon Skill)",
+  "name_jp": "戦醒氷の墓標",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Dark\nWS Blue: Lv.2 En-Ice/Dark Stack to user\nWS Gold: During Tactical Awoken Mode, chases an Ice/Dark ability with Quick ATB 3 (max 1 chase) to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Dark\nWS Blue: Lv.2 En-Ice/Dark Stack to user\nWS Gold: During Tactical Awoken Mode, chases an Ice/Dark ability with Quick ATB 3 (max 1 chase) to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Dark\nWS Blue: Lv.2 En-Ice/Dark Stack to user\nWS Gold: During Tactical Awoken Mode, chases an Ice/Dark ability with Quick ATB 3 (max 1 chase) to user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23360002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360002/23360002_256.png",
+  "character": "Eight",
+  "name": "Glacial Phantasm",
+  "name_jp": "夢幻氷舞",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.65 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.65 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.65 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20940009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940009/20940009_256.png",
+  "character": "Krile",
+  "name": "Cleansing",
+  "name_jp": "てんちほうかい",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Fire] and [Dance of the Flame Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Fire] and [Dance of the Flame Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Fire] and [Dance of the Flame Follow-Up] to the user"
+    }
+  ]
+}

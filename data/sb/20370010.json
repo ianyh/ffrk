@@ -1,0 +1,27 @@
+{
+  "id": "20370010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370010/20370010_256.png",
+  "character": "Vivi",
+  "name": "True Black Mage",
+  "name_jp": "黒き魔道士の可能性",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
+    }
+  ]
+}

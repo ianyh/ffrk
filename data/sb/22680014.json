@@ -1,0 +1,30 @@
+{
+  "id": "22680014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680014/22680014_256.png",
+  "character": "Prishe",
+  "name": "Chi Blast",
+  "name_jp": "気孔弾",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "XI",
+  "elements": [
+    "Lightning",
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

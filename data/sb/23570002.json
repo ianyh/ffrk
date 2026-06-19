@@ -1,0 +1,66 @@
+{
+  "id": "23570002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23570002/23570002_256.png",
+  "character": "Clive",
+  "name": "Zenith Ignition",
+  "name_jp": "究極イグニッション",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XVI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +50000], [Fire Ability Quick Cast (15s)], [Zenith Mode], and [Zenith Mode: Clive] to the user\nZenith Mode: Clive: En-Fire Damage +20%, Dualcast Fire, Zero Hone Cost to Hero Ability, +1500 max HP, Astra, and replaces Rising Flames with Rising Flames+ and Ignition with Ignition+",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +50000], [Fire Ability Quick Cast (15s)], [Zenith Mode], and [Zenith Mode: Clive] to the user\nZenith Mode: Clive: En-Fire Damage +20%, Dualcast Fire, Zero Hone Cost to Hero Ability, +1500 max HP, Astra, and replaces Rising Flames with Rising Flames+ and Ignition with Ignition+"
+    },
+    {
+      "name": "Zenith Mode: Clive",
+      "text": "Increases [Fire Infusion] damage bonus by 20%, Fire abilities trigger 1 additional time, Hero Abilities have zero hone cost, maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Rising Flames+",
+      "text": "Seven single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Ignition+",
+      "text": "Four single attacks (1.10 each), grants [Fire Ability Quick Cast 2] to the user"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +50000",
+      "text": "Increases the damage/healing cap by 50000"
+    },
+    {
+      "name": "Fire Ability Quick Cast (15s)",
+      "text": "Cast speed x2.00 for Fire abilities"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +50000], [Fire Ability Quick Cast (15s)], [Zenith Mode], and [Zenith Mode: Clive] to the user\nZenith Mode: Clive: En-Fire Damage +20%, Dualcast Fire, Zero Hone Cost to Hero Ability, +1500 max HP, Astra, and replaces Rising Flames with Rising Flames+ and Ignition with Ignition+"
+    },
+    {
+      "name": "Rising Flames+",
+      "text": "Seven single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Ignition+",
+      "text": "Four single attacks (1.10 each), grants [Fire Ability Quick Cast 2] to the user"
+    }
+  ]
+}

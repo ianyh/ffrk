@@ -1,0 +1,30 @@
+{
+  "id": "22030008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030008/22030008_256.png",
+  "character": "Fang",
+  "name": "Raging Whirlwind",
+  "name_jp": "烈・エアリアルレイヴ",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "XIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Nine single attacks (0.74 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Nine single attacks (0.74 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Nine single attacks (0.74 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ]
+}

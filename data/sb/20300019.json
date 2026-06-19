@@ -1,0 +1,30 @@
+{
+  "id": "20300019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300019/20300019_256.png",
+  "character": "Rinoa",
+  "name": "Star Cradle",
+  "name_jp": "スタークレイドル",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VIII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Primordial], [Damage Cap +10000], [Ability Berserk], and [Starforge Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Primordial], [Damage Cap +10000], [Ability Berserk], and [Starforge Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Primordial], [Damage Cap +10000], [Ability Berserk], and [Starforge Mode] to the user"
+    }
+  ]
+}

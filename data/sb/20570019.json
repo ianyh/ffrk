@@ -1,0 +1,32 @@
+{
+  "id": "20570019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570019/20570019_256.png",
+  "character": "Steiner",
+  "name": "Double Shock",
+  "name_jp": "W・ショック",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Steiner Trance] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Steiner Trance] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Steiner Trance] to the user"
+    }
+  ]
+}

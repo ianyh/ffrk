@@ -1,0 +1,30 @@
+{
+  "id": "20970025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970025/20970025_256.png",
+  "character": "Rikku",
+  "name": "True Aqua Toxin",
+  "name_jp": "真・アクアトキシン",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Versatile Bomb Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Versatile Bomb Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Versatile Bomb Follow-Up] to the user"
+    }
+  ]
+}

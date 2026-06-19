@@ -1,0 +1,30 @@
+{
+  "id": "22900005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900005/22900005_256.png",
+  "character": "Gladiolus",
+  "name": "Cyclone",
+  "name_jp": "サイクロン",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Earth], [Heavy Charge Booster] and [Shield of the King Finisher] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Earth], [Heavy Charge Booster] and [Shield of the King Finisher] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Earth], [Heavy Charge Booster] and [Shield of the King Finisher] to the user"
+    }
+  ]
+}

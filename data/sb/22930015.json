@@ -1,0 +1,33 @@
+{
+  "id": "22930015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930015/22930015_256.png",
+  "character": "Gogo (VI)",
+  "name": "Radiant Belly of the Beast",
+  "name_jp": "耀光ゾーンイーターの中",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Wind",
+    "Earth",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Fire/Ice/Wind/Earth/NE hybrid attacks at Cap Break Level 1, En-Fire Stack, En-Ice Stack, En-Wind Stack or En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Wind/Earth Ability Boost, Zero Hone Cost to Fire/Ice/Wind/Earth Abilities & 25% DEF/RES Pierce; When ally uses Fire/Ice/Wind/Earth abilities, chases with Mimic 1\nCrystal Force I/II: 6 single-target Fire/Ice/Wind/Earth/NE hybrid attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1 & 50% DEF/RES Pierce] for 5 seconds & Quick ATB 1 to user; After using 0/1/2 Crystal Force, Mimic Damage +15/30/50% to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Wind/Earth/NE hybrid attacks at Cap Break Level 1, En-Fire Stack, En-Ice Stack, En-Wind Stack or En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Wind/Earth Ability Boost, Zero Hone Cost to Fire/Ice/Wind/Earth Abilities & 25% DEF/RES Pierce; When ally uses Fire/Ice/Wind/Earth abilities, chases with Mimic 1\nCrystal Force I/II: 6 single-target Fire/Ice/Wind/Earth/NE hybrid attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1 & 50% DEF/RES Pierce] for 5 seconds & Quick ATB 1 to user; After using 0/1/2 Crystal Force, Mimic Damage +15/30/50% to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Wind/Earth/NE hybrid attacks at Cap Break Level 1, En-Fire Stack, En-Ice Stack, En-Wind Stack or En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Wind/Earth Ability Boost, Zero Hone Cost to Fire/Ice/Wind/Earth Abilities & 25% DEF/RES Pierce; When ally uses Fire/Ice/Wind/Earth abilities, chases with Mimic 1\nCrystal Force I/II: 6 single-target Fire/Ice/Wind/Earth/NE hybrid attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1 & 50% DEF/RES Pierce] for 5 seconds & Quick ATB 1 to user; After using 0/1/2 Crystal Force, Mimic Damage +15/30/50% to user"
+    }
+  ]
+}

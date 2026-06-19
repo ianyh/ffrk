@@ -1,0 +1,27 @@
+{
+  "id": "22410001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410001/22410001_256.png",
+  "character": "Cid Raines",
+  "name": "Offensive Shift",
+  "name_jp": "アタックシフト",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (1.98 each), grants [Haste] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.98 each), grants [Haste] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.98 each), grants [Haste] to all allies"
+    }
+  ]
+}

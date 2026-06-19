@@ -1,0 +1,27 @@
+{
+  "id": "22660019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22660019/22660019_256.png",
+  "character": "Reynn",
+  "name": "Continuous Flash: Reynn (Ice) II",
+  "name_jp": "連閃・レェン氷II",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Ice with Stacking], [Soul Break Gauge +250], and [200% ATB 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice with Stacking], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice with Stacking], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ]
+}

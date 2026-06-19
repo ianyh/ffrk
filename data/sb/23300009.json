@@ -1,0 +1,27 @@
+{
+  "id": "23300009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300009/23300009_256.png",
+  "character": "Hilda",
+  "name": "Road to Victory",
+  "name_jp": "勝利への歩み",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "II",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Instant Cast 1], [Last Stand] and [Haste], grants [Awoken Princess of Fynn], [Dualcast Bard] and [Royal Talent Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Instant Cast 1], [Last Stand] and [Haste], grants [Awoken Princess of Fynn], [Dualcast Bard] and [Royal Talent Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Instant Cast 1], [Last Stand] and [Haste], grants [Awoken Princess of Fynn], [Dualcast Bard] and [Royal Talent Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20800026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800026/20800026_256.png",
+  "character": "Ingus",
+  "name": "Zenith Titan's Blade",
+  "name_jp": "究極ティターンブレード",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "III",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ingus] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ingus] to the user"
+    },
+    {
+      "name": "Zenith Mode: Ingus",
+      "text": "Increases [Earth Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Earth abilities trigger 1 additional time, casts Spirit Attack: Ingus when any Damage Reduction Barrier is removed (max 5), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Titan's Blade+",
+      "text": "Four single attacks (1.10 each), grants [Buff Earth 10% (15s)] to all allies every third activation"
+    },
+    {
+      "name": "Oathsworn Espada+",
+      "text": "Six single attacks (1.15/1.20/1.25 each at 0/1000/4500 DEF, 1.20/1.25/1.30 each at 0/1000/4500 DEF) capped at 9999/19999 after 0-2/3+ uses  "
+    },
+    {
+      "name": "Spirit Attack: Ingus",
+      "text": "Grants [Earth Ability Quick Cast 1], [Instant ATB 1] and [10% Damage Reduction Barrier 1] to the user"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "10% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 10% for the next attack"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ingus] to the user"
+    },
+    {
+      "name": "Titan's Blade+",
+      "text": "Four single attacks (1.10 each), grants [Buff Earth 10% (15s)] to all allies every third activation"
+    },
+    {
+      "name": "Oathsworn Espada+",
+      "text": "Six single attacks (1.15/1.20/1.25 each at 0/1000/4500 DEF, 1.20/1.25/1.30 each at 0/1000/4500 DEF) capped at 9999/19999 after 0-2/3+ uses  "
+    },
+    {
+      "name": "Spirit Attack: Ingus",
+      "text": "Grants [Earth Ability Quick Cast 1], [Instant ATB 1] and [10% Damage Reduction Barrier 1] to the user"
+    }
+  ]
+}

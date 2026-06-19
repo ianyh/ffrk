@@ -1,0 +1,27 @@
+{
+  "id": "20690001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690001/20690001_256.png",
+  "character": "Auron",
+  "name": "Threaten",
+  "name_jp": "おどす",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "X",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single ranged attack (1.40), causes [Stop] (50%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.40), causes [Stop] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.40), causes [Stop] (50%)"
+    }
+  ]
+}

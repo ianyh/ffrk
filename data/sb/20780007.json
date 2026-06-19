@@ -1,0 +1,27 @@
+{
+  "id": "20780007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780007/20780007_256.png",
+  "character": "Setzer",
+  "name": "Jokers Wild",
+  "name_jp": "ランダムジョーカー",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random ranged attacks (0.71 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Gambling Break] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.71 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Gambling Break] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.71 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Gambling Break] to the user"
+    }
+  ]
+}

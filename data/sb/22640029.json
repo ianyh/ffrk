@@ -1,0 +1,48 @@
+{
+  "id": "22640029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640029/22640029_256.png",
+  "character": "Emperor",
+  "name": "Roaring Abominable Invasion",
+  "name_jp": "轟・忌まわしき侵攻",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single hits (2.60 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Emperor (Earth, Wind, Dark)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single hits (2.60 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Emperor (Earth, Wind, Dark)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Accel Mode: Emperor (Earth, Wind, Dark)",
+      "text": "Dark/Earth/Wind abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Emperor after using Dark/Earth/Wind abilities, removed if the character hasn't [Accel Mode]"
+    },
+    {
+      "name": "Roaring Emperor",
+      "text": "Six single attacks (1.50 each), grants [Buff Dark 10% (5s)], [Buff Earth 10% (5s)], [Buff Wind 10% (5s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single hits (2.60 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Emperor (Earth, Wind, Dark)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Accel Mode: Emperor (Earth, Wind, Dark)",
+      "text": "Dark/Earth/Wind abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Emperor after using Dark/Earth/Wind abilities, removed if the character hasn't [Accel Mode]"
+    },
+    {
+      "name": "Roaring Emperor",
+      "text": "Six single attacks (1.50 each), grants [Buff Dark 10% (5s)], [Buff Earth 10% (5s)], [Buff Wind 10% (5s)] to the user"
+    }
+  ]
+}

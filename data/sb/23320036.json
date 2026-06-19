@@ -1,0 +1,30 @@
+{
+  "id": "23320036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320036/23320036_256.png",
+  "character": "Wedge",
+  "name": "War-Awoken Shadowbind Twinflash! (Weapon Skill)",
+  "name_jp": "戦醒影縫い双閃！",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "Core",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (11.00 or 66.00 each) capped at 199,999 based on ATK and MAG. Grants [Poison Damage Cap +20000 (Tactical)], [Poison 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Instant ATB 1], [Instant Cast 1] to all allies if Level 2+ EnPoison, grants [Attach Poison 2 with Stacking] to user if not.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 or 66.00 each) capped at 199,999 based on ATK and MAG. Grants [Poison Damage Cap +20000 (Tactical)], [Poison 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Instant ATB 1], [Instant Cast 1] to all allies if Level 2+ EnPoison, grants [Attach Poison 2 with Stacking] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 or 66.00 each) capped at 199,999 based on ATK and MAG. Grants [Poison Damage Cap +20000 (Tactical)], [Poison 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Instant ATB 1], [Instant Cast 1] to all allies if Level 2+ EnPoison, grants [Attach Poison 2 with Stacking] to user if not."
+    }
+  ]
+}

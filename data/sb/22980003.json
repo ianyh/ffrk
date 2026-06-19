@@ -1,0 +1,30 @@
+{
+  "id": "22980003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980003/22980003_256.png",
+  "character": "Aranea",
+  "name": "Aerial Spearouette",
+  "name_jp": "魔導槍空中戦技",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single ranged jump attacks (1.23 each), grants [Magical Blink 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged jump attacks (1.23 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged jump attacks (1.23 each), grants [Magical Blink 1] to all allies"
+    }
+  ]
+}

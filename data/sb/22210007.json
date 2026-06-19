@@ -1,0 +1,27 @@
+{
+  "id": "22210007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210007/22210007_256.png",
+  "character": "Palom",
+  "name": "Black Magic Touch",
+  "name_jp": "ブラックセンス",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Weakness +30% Boost (15s)] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Weakness +30% Boost (15s)] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Weakness +30% Boost (15s)] and [High Quick Cast 2]"
+    }
+  ]
+}

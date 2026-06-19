@@ -1,0 +1,29 @@
+{
+  "id": "20980003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980003/20980003_256.png",
+  "character": "Edge",
+  "name": "Eblan Dual Wield",
+  "name_jp": "エブラーナ二刀流",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "IV",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.66 each), causes [Paralyze] (100%) and [Slow] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.66 each), causes [Paralyze] (100%) and [Slow] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.66 each), causes [Paralyze] (100%) and [Slow] (100%)"
+    }
+  ]
+}

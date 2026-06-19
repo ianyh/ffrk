@@ -1,0 +1,32 @@
+{
+  "id": "22580007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580007/22580007_256.png",
+  "character": "Master",
+  "name": "Driving Fist",
+  "name_jp": "渾身の一拳",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "I",
+  "elements": [
+    "Earth",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Awoken Monk], [Damage Cap +10000], [Rousing Charge Mode (Fire, Lightning, Earth)] and [Rousing Rush Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Monk], [Damage Cap +10000], [Rousing Charge Mode (Fire, Lightning, Earth)] and [Rousing Rush Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Monk], [Damage Cap +10000], [Rousing Charge Mode (Fire, Lightning, Earth)] and [Rousing Rush Mode] to the user"
+    }
+  ]
+}

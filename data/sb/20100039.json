@@ -1,0 +1,27 @@
+{
+  "id": "20100039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100039/20100039_256.png",
+  "character": "Terra",
+  "name": "Awoken Tornado Combo (Dual Shift)",
+  "name_jp": "覚醒トルネドコンボ",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Zephyr Mode II (Terra)], removes [Dual Awoken Zephyr Mode I (Terra)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Zephyr Mode II (Terra)], removes [Dual Awoken Zephyr Mode I (Terra)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Zephyr Mode II (Terra)], removes [Dual Awoken Zephyr Mode I (Terra)]"
+    }
+  ]
+}

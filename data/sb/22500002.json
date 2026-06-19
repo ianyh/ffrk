@@ -1,0 +1,27 @@
+{
+  "id": "22500002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500002/22500002_256.png",
+  "character": "Angeal",
+  "name": "Defense of Lust",
+  "name_jp": "色欲の守り",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[DEF +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +30%] for 25 seconds"
+    }
+  ]
+}

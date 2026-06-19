@@ -1,0 +1,38 @@
+{
+  "id": "23580012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580012/23580012_256.png",
+  "character": "Shadowsmith",
+  "name": "War-Awoken Nemesis Code (Weapon Skill)",
+  "name_jp": "戦醒ネメシスコード",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Prismatic Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Prismatic\nWS Blue: Lv.2 En-Prismatic Stack to user\nWS Gold: During Tactical Awoken Mode, Prismatic Ability Damage +50% & Quick Prismatic to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Prismatic Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Prismatic\nWS Blue: Lv.2 En-Prismatic Stack to user\nWS Gold: During Tactical Awoken Mode, Prismatic Ability Damage +50% & Quick Prismatic to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Prismatic Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Prismatic\nWS Blue: Lv.2 En-Prismatic Stack to user\nWS Gold: During Tactical Awoken Mode, Prismatic Ability Damage +50% & Quick Prismatic to user"
+    }
+  ]
+}

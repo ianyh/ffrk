@@ -1,0 +1,30 @@
+{
+  "id": "20730033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730033/20730033_256.png",
+  "character": "Fusoya",
+  "name": "Zenith Moon Lineage",
+  "name_jp": "究極月の系譜",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20%, Magic Casting Speed x1.1 & chases a Holy ability with Dualcast Holy 4 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Bless+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20%, Magic Casting Speed x1.1 & chases a Holy ability with Dualcast Holy 4 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Bless+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20%, Magic Casting Speed x1.1 & chases a Holy ability with Dualcast Holy 4 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Bless+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

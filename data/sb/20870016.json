@@ -1,0 +1,27 @@
+{
+  "id": "20870016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870016/20870016_256.png",
+  "character": "Amarant",
+  "name": "Bond Flash (Amarant)",
+  "name_jp": "絆閃【サラマンダー】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Quick Cast 2], grants [ATK, DEF, MAG and RES +30% (25s)] if 4+ FF9 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 2], grants [ATK, DEF, MAG and RES +30% (25s)] if 4+ FF9 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 2], grants [ATK, DEF, MAG and RES +30% (25s)] if 4+ FF9 allies are alive"
+    }
+  ]
+}

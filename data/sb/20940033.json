@@ -1,0 +1,31 @@
+{
+  "id": "20940033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940033/20940033_256.png",
+  "character": "Krile",
+  "name": "Inspiring Heart",
+  "name_jp": "心をつなぐ少女",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Earth)] and Beast Whisperer +1",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Earth)] and Beast Whisperer +1"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Earth)] and Beast Whisperer +1"
+    }
+  ]
+}

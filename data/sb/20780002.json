@@ -1,0 +1,27 @@
+{
+  "id": "20780002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780002/20780002_256.png",
+  "character": "Setzer",
+  "name": "Dice (VI)",
+  "name_jp": "ダイス",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Randomly deals 1, 22, 33, 444, 555 or 6666 damage",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Randomly deals 1, 22, 33, 444, 555 or 6666 damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Randomly deals 1, 22, 33, 444, 555 or 6666 damage"
+    }
+  ]
+}

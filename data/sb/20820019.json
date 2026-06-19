@@ -1,0 +1,31 @@
+{
+  "id": "20820019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820019/20820019_256.png",
+  "character": "Seifer",
+  "name": "Forbidden Shadowflame Strike",
+  "name_jp": "禁忌・闇炎斬",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Sorceress's Knight], [Damage Cap +10000] and [Quick Cast] to the user, grants [100% Critical 1] and [Dualcast Dark/Fire 1]/[100% Critical 2] and [Dualcast Dark/Fire 2]/[100% Critical 3] and [Dualcast Dark/Fire 3] to the user if 0/2/4+ FF8 allies are alive, grants [Quick Cast] to Edea if she is alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Sorceress's Knight], [Damage Cap +10000] and [Quick Cast] to the user, grants [100% Critical 1] and [Dualcast Dark/Fire 1]/[100% Critical 2] and [Dualcast Dark/Fire 2]/[100% Critical 3] and [Dualcast Dark/Fire 3] to the user if 0/2/4+ FF8 allies are alive, grants [Quick Cast] to Edea if she is alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Sorceress's Knight], [Damage Cap +10000] and [Quick Cast] to the user, grants [100% Critical 1] and [Dualcast Dark/Fire 1]/[100% Critical 2] and [Dualcast Dark/Fire 2]/[100% Critical 3] and [Dualcast Dark/Fire 3] to the user if 0/2/4+ FF8 allies are alive, grants [Quick Cast] to Edea if she is alive"
+    }
+  ]
+}

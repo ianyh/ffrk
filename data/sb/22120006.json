@@ -1,0 +1,30 @@
+{
+  "id": "22120006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120006/22120006_256.png",
+  "character": "Minwu",
+  "name": "Light of Mysidia",
+  "name_jp": "ミシディアの聖光",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.80 each), [MND +50%] to the user for 25 seconds, grants [White Magic Rank Boost] and [White Magic Double] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each), [MND +50%] to the user for 25 seconds, grants [White Magic Rank Boost] and [White Magic Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each), [MND +50%] to the user for 25 seconds, grants [White Magic Rank Boost] and [White Magic Double] to the user"
+    }
+  ]
+}

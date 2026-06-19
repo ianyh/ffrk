@@ -1,0 +1,27 @@
+{
+  "id": "22950013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22950013/22950013_256.png",
+  "character": "Meliadoul",
+  "name": "Awoken Shatter Accessory (Dual Shift)",
+  "name_jp": "覚醒剛剣・咬撃氷狼破",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with Prismatic Damage 10/20/30/40/50/60% for 5 seconds to party with target has 0/1/2/3/4/5 Stat Breaks",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with Prismatic Damage 10/20/30/40/50/60% for 5 seconds to party with target has 0/1/2/3/4/5 Stat Breaks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with Prismatic Damage 10/20/30/40/50/60% for 5 seconds to party with target has 0/1/2/3/4/5 Stat Breaks"
+    }
+  ]
+}

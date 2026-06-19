@@ -1,0 +1,30 @@
+{
+  "id": "22560006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22560006/22560006_256.png",
+  "character": "Gaffgarion",
+  "name": "Unholy Sacrifice",
+  "name_jp": "イービルデッド",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "FFT",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Dark], [Dark Drain v2] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Dark Drain v2] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Dark Drain v2] and [Brave Mode] to the user"
+    }
+  ]
+}

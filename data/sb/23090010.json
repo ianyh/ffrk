@@ -1,0 +1,31 @@
+{
+  "id": "23090010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090010/23090010_256.png",
+  "character": "Machina",
+  "name": "Power of Fear",
+  "name_jp": "恐れ故の力",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Lance Flurry Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Lance Flurry Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Lance Flurry Follow-Up] to the user"
+    }
+  ]
+}

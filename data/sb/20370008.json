@@ -1,0 +1,30 @@
+{
+  "id": "20370008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370008/20370008_256.png",
+  "character": "Vivi",
+  "name": "Beyond the Twilight",
+  "name_jp": "黄昏の彼方に",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.71 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Fire] and [Black Magic Double] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.71 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Fire] and [Black Magic Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.71 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Fire] and [Black Magic Double] to the user"
+    }
+  ]
+}

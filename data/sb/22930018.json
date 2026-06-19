@@ -1,0 +1,27 @@
+{
+  "id": "22930018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930018/22930018_256.png",
+  "character": "Gogo (VI)",
+  "name": "Fated Bond: Gogo",
+  "name_jp": "絆・ゴゴ天命",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Mage I Limit Chain (150) & 50% Mage I Field, MAG +50% & Haste to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Mage I Limit Chain (150) & 50% Mage I Field, MAG +50% & Haste to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Mage I Limit Chain (150) & 50% Mage I Field, MAG +50% & Haste to party"
+    }
+  ]
+}

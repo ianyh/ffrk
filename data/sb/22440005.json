@@ -1,0 +1,27 @@
+{
+  "id": "22440005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440005/22440005_256.png",
+  "character": "Larsa",
+  "name": "Potions Aplenty",
+  "name_jp": "ポーションオブプリンス",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), removes negative effects, grants [Astra] and [High Regen]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), removes negative effects, grants [Astra] and [High Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), removes negative effects, grants [Astra] and [High Regen]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20100034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100034/20100034_256.png",
+  "character": "Terra",
+  "name": "Cross Meltdown",
+  "name_jp": "クロスメルトン",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Twin Element Mode II (Fire, Wind) v2], [Awoken Blazewind Elite], [Damage Cap +10000] and [Fire/Wind Ability +30% Boost (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode II (Fire, Wind) v2], [Awoken Blazewind Elite], [Damage Cap +10000] and [Fire/Wind Ability +30% Boost (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode II (Fire, Wind) v2], [Awoken Blazewind Elite], [Damage Cap +10000] and [Fire/Wind Ability +30% Boost (15s)] to the user"
+    }
+  ]
+}

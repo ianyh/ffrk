@@ -1,0 +1,30 @@
+{
+  "id": "23230005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230005/23230005_256.png",
+  "character": "Ultimecia",
+  "name": "Hell's Judgment",
+  "name_jp": "ヘル・ジャッジメント",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.50 each), [DEF, RES and MND -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.50 each), [DEF, RES and MND -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.50 each), [DEF, RES and MND -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user"
+    }
+  ]
+}

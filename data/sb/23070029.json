@@ -1,0 +1,31 @@
+{
+  "id": "23070029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070029/23070029_256.png",
+  "character": "Marcus",
+  "name": "War-Awoken Are You Serious? (Weapon Skill)",
+  "name_jp": "戦醒本気っスか？",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Wind/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Fire Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Wind/Bio\nWS Blue: Imperil Wind/Bio 30% to all targets\nWS Gold: DeProtect 20% to all targets",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Fire Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Wind/Bio\nWS Blue: Imperil Wind/Bio 30% to all targets\nWS Gold: DeProtect 20% to all targets"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Fire Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Wind/Bio\nWS Blue: Imperil Wind/Bio 30% to all targets\nWS Gold: DeProtect 20% to all targets"
+    }
+  ]
+}

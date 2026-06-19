@@ -1,0 +1,30 @@
+{
+  "id": "22850007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22850007/22850007_256.png",
+  "character": "Wrieg",
+  "name": "Zenith Impact Leap",
+  "name_jp": "究極インパクトリープ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Earth/NE jump attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1, 250 SB Points, Instant ATB 1, Instant Cast 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Heimdall's Jump+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE jump attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1, 250 SB Points, Instant ATB 1, Instant Cast 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Heimdall's Jump+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE jump attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1, 250 SB Points, Instant ATB 1, Instant Cast 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Heimdall's Jump+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20410019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410019/20410019_256.png",
+  "character": "Irvine",
+  "name": "Apex Quick Shot",
+  "name_jp": "クイックショット・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Quick Shot level 0/1/2, removes Arcane Dyad Empowered: Irvine from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Quick Shot level 0/1/2, removes Arcane Dyad Empowered: Irvine from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Quick Shot level 0/1/2, removes Arcane Dyad Empowered: Irvine from the user"
+    }
+  ]
+}

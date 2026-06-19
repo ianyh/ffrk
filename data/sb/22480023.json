@@ -1,0 +1,27 @@
+{
+  "id": "22480023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22480023/22480023_256.png",
+  "character": "Ayame",
+  "name": "Continuous Flash: Ayame",
+  "name_jp": "連閃・アヤメ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Deadly Strikes +5% ?] and [Quick Cast 2], grants [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Deadly Strikes +5% ?] and [Quick Cast 2], grants [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Deadly Strikes +5% ?] and [Quick Cast 2], grants [200% ATB 1] to the user"
+    }
+  ]
+}

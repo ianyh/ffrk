@@ -1,0 +1,30 @@
+{
+  "id": "22270010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270010/22270010_256.png",
+  "character": "Braska",
+  "name": "High Summoner's Flame",
+  "name_jp": "大召喚士の火炎",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Calm Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Calm Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Calm Mode] to the user"
+    }
+  ]
+}

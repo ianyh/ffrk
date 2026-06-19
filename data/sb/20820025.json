@@ -1,0 +1,29 @@
+{
+  "id": "20820025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820025/20820025_256.png",
+  "character": "Seifer",
+  "name": "Woven Bond: Seifer (Dark)",
+  "name_jp": "紡絆・サイファー闇",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VIII",
+  "elements": [
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates Dark Chain (max 150, field +0%) or adds 25 to the current Dark Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Seifer (Dark)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Dark Chain (max 150, field +0%) or adds 25 to the current Dark Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Seifer (Dark)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Dark Chain (max 150, field +0%) or adds 25 to the current Dark Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Seifer (Dark)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23500020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23500020/23500020_256.png",
+  "character": "Lasswell",
+  "name": "Omniblade - Star Slicer",
+  "name_jp": "八垓抜刀 軌ら星",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Beyond",
+  "elements": [
+    "Ice",
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Ice Ability +30% Boost (15s)], [Instant Cast 2], [Damage Cap +10000], and [Awoken Hess King Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Ice Ability +30% Boost (15s)], [Instant Cast 2], [Damage Cap +10000], and [Awoken Hess King Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Ice Ability +30% Boost (15s)], [Instant Cast 2], [Damage Cap +10000], and [Awoken Hess King Mode] to the user"
+    }
+  ]
+}

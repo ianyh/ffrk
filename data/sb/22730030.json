@@ -1,0 +1,30 @@
+{
+  "id": "22730030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730030/22730030_256.png",
+  "character": "Gogo (V)",
+  "name": "War-Awoken Deep Blue Demolition (Weapon Skill)",
+  "name_jp": "戦醒碧淵デモリッシュ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "V",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (31.00 each) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Water Mimic Mode (Tactical) 2] to user if Level 2+ EnWater, grants [Attach Water 2 with Stacking] to user if not.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Water Mimic Mode (Tactical) 2] to user if Level 2+ EnWater, grants [Attach Water 2 with Stacking] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Water Mimic Mode (Tactical) 2] to user if Level 2+ EnWater, grants [Attach Water 2 with Stacking] to user if not."
+    }
+  ]
+}

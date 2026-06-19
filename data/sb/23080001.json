@@ -1,0 +1,30 @@
+{
+  "id": "23080001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080001/23080001_256.png",
+  "character": "Rem",
+  "name": "Manalchemy",
+  "name_jp": "コンバートベノム",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Type-0",
+  "elements": [
+    "Holy",
+    "Dark"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.80 each), grants [Attach Holy], [Dominion EX Mode] and [High Quick Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each), grants [Attach Holy], [Dominion EX Mode] and [High Quick Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each), grants [Attach Holy], [Dominion EX Mode] and [High Quick Cast 1] to the user"
+    }
+  ]
+}

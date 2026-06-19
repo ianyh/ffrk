@@ -1,0 +1,27 @@
+{
+  "id": "22670003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670003/22670003_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Tentacle of Pain",
+  "name_jp": "痛みの触手",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "III",
+  "elements": [],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Three single attacks (0.67 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (0.67 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (0.67 each)"
+    }
+  ]
+}

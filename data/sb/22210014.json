@@ -1,0 +1,32 @@
+{
+  "id": "22210014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210014/22210014_256.png",
+  "character": "Palom",
+  "name": "Particle Bomb",
+  "name_jp": "パーティクルボム",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "Fire",
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.65 each), grants [Buff Lightning 20% (15s)], [Buff Fire 20% (15s)], [Buff Ice 20% (15s)], [Quick Cast], [Tri-Element Mode (Fire, Ice, Lightning)] and [Triple Bomb Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.65 each), grants [Buff Lightning 20% (15s)], [Buff Fire 20% (15s)], [Buff Ice 20% (15s)], [Quick Cast], [Tri-Element Mode (Fire, Ice, Lightning)] and [Triple Bomb Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.65 each), grants [Buff Lightning 20% (15s)], [Buff Fire 20% (15s)], [Buff Ice 20% (15s)], [Quick Cast], [Tri-Element Mode (Fire, Ice, Lightning)] and [Triple Bomb Follow-Up] to the user"
+    }
+  ]
+}

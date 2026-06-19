@@ -1,0 +1,27 @@
+{
+  "id": "20700033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700033/20700033_256.png",
+  "character": "Vaan",
+  "name": "Calamity Wind",
+  "name_jp": "カラミティウィンド",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Wind with Stacking] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind with Stacking] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind with Stacking] and [Soul Break Gauge +250]"
+    }
+  ]
+}

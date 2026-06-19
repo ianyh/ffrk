@@ -1,0 +1,32 @@
+{
+  "id": "22460008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460008/22460008_256.png",
+  "character": "Onion Knight",
+  "name": "Sage Unleashed",
+  "name_jp": "賢者のだいまほう",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "Water",
+    "Fire",
+    "Earth"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.65 each), grants [Light's Wisdom EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.65 each), grants [Light's Wisdom EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.65 each), grants [Light's Wisdom EX Mode] to the user"
+    }
+  ]
+}

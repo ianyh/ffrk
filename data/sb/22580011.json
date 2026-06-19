@@ -1,0 +1,27 @@
+{
+  "id": "22580011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580011/22580011_256.png",
+  "character": "Master",
+  "name": "Blazing Speed",
+  "name_jp": "電光石火の極意",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Instant Cast 3]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 3]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 3]"
+    }
+  ]
+}

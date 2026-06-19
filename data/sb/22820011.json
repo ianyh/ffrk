@@ -1,0 +1,30 @@
+{
+  "id": "22820011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820011/22820011_256.png",
+  "character": "Shelke",
+  "name": "Transparent Spark",
+  "name_jp": "無式・雷閃",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.63 each), grants [Attach Lightning with Stacking] and [Lightning Crash Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [Attach Lightning with Stacking] and [Lightning Crash Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [Attach Lightning with Stacking] and [Lightning Crash Follow-Up] to the user"
+    }
+  ]
+}

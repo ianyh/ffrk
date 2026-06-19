@@ -1,0 +1,30 @@
+{
+  "id": "20240014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240014/20240014_256.png",
+  "character": "Locke",
+  "name": "Burning Spirit",
+  "name_jp": "バーニンスピリット",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Instant Cast 1] and [Adventurer EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Instant Cast 1] and [Adventurer EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Instant Cast 1] and [Adventurer EX Mode] to the user"
+    }
+  ]
+}

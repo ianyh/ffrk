@@ -1,0 +1,30 @@
+{
+  "id": "20560034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560034/20560034_256.png",
+  "character": "Maria",
+  "name": "War-Awoken Meteor Shower CXXVIII (Weapon Skill)",
+  "name_jp": "戦醒りゅうせいぐん128",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (31.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Tactical Chase Mode: Maria] to user if Level 2+ EnEarth, grants [Attach Earth 2 with Stacking] to user if not",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Tactical Chase Mode: Maria] to user if Level 2+ EnEarth, grants [Attach Earth 2 with Stacking] to user if not"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Tactical Chase Mode: Maria] to user if Level 2+ EnEarth, grants [Attach Earth 2 with Stacking] to user if not"
+    }
+  ]
+}

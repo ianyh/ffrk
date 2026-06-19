@@ -1,0 +1,27 @@
+{
+  "id": "22050013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050013/22050013_256.png",
+  "character": "Beatrix",
+  "name": "Rose Catharsis",
+  "name_jp": "ローズ・カタルシス",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Holy Stacking], [Attach Holy] and [Knight Quick Cast]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy Stacking], [Attach Holy] and [Knight Quick Cast]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy Stacking], [Attach Holy] and [Knight Quick Cast]"
+    }
+  ]
+}

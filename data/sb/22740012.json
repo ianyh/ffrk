@@ -1,0 +1,30 @@
+{
+  "id": "22740012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740012/22740012_256.png",
+  "character": "Noctis",
+  "name": "True Ignis Link",
+  "name_jp": "真リンクアタック・I",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attack (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Quick Cast 1] and [Phantom Flame Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Quick Cast 1] and [Phantom Flame Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Quick Cast 1] and [Phantom Flame Mode] to the user"
+    }
+  ]
+}

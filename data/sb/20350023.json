@@ -1,0 +1,27 @@
+{
+  "id": "20350023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350023/20350023_256.png",
+  "character": "Squall",
+  "name": "Blasting Force",
+  "name_jp": "ブラスティングフォース",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
+    }
+  ]
+}

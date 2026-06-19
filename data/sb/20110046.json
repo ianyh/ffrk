@@ -1,0 +1,27 @@
+{
+  "id": "20110046",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110046/20110046_256.png",
+  "character": "Cloud",
+  "name": "Awoken Climirage (Dual Shift)",
+  "name_jp": "覚醒クライムミラージュ",
+  "tier": "DASB",
+  "sb_version": "DASB3",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Ex-Shinra Mode II (Cloud)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Shinra Mode II (Cloud)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Shinra Mode II (Cloud)] to the user"
+    }
+  ]
+}

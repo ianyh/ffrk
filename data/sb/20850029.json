@@ -1,0 +1,31 @@
+{
+  "id": "20850029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850029/20850029_256.png",
+  "character": "Gau",
+  "name": "War-Awoken Wild Destruction (Weapon Skill)",
+  "name_jp": "戦醒やせいのかいほう",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Wind/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Lightning Abilities, and Weapon Skill Blue/Gold at at least Level 0/2 Attach Wind/Lightning\nWS Blue: [Lv.2 En-Wind/Lightning Stack] to user\nWS Gold: [During Tactical Awoken Mode, ATB Speed x1.3 & Instant Cast to Wind/Lightning Abilities] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Lightning Abilities, and Weapon Skill Blue/Gold at at least Level 0/2 Attach Wind/Lightning\nWS Blue: [Lv.2 En-Wind/Lightning Stack] to user\nWS Gold: [During Tactical Awoken Mode, ATB Speed x1.3 & Instant Cast to Wind/Lightning Abilities] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Lightning Abilities, and Weapon Skill Blue/Gold at at least Level 0/2 Attach Wind/Lightning\nWS Blue: [Lv.2 En-Wind/Lightning Stack] to user\nWS Gold: [During Tactical Awoken Mode, ATB Speed x1.3 & Instant Cast to Wind/Lightning Abilities] to user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22610026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610026/22610026_256.png",
+  "character": "Raijin",
+  "name": "Awoken Stormcall (Dual Shift)",
+  "name_jp": "覚醒豪雷招来",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick Lightning to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick Lightning to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick Lightning to party"
+    }
+  ]
+}

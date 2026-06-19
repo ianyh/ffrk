@@ -1,0 +1,27 @@
+{
+  "id": "22620031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620031/22620031_256.png",
+  "character": "Vayne",
+  "name": "Super Flash (Vayne)",
+  "name_jp": "超装【ヴェイン】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Dark members, Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Dark members, Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Dark members, Instant ATB 1 to user"
+    }
+  ]
+}

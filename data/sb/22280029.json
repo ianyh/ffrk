@@ -1,0 +1,27 @@
+{
+  "id": "22280029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280029/22280029_256.png",
+  "character": "Wol",
+  "name": "Continuous Flash: Wol",
+  "name_jp": "連閃・ウォル",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Twin Element Mode II (Earth, Holy)], [Instant ATB 1], and [Instant Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Earth, Holy)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Earth, Holy)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23190022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190022/23190022_256.png",
+  "character": "Cinque",
+  "name": "Woven Bond: Cinque",
+  "name_jp": "紡絆・シンク",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Cinque] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Cinque] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Cinque] and [Instant ATB 1] to the user"
+    }
+  ]
+}

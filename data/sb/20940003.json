@@ -1,0 +1,27 @@
+{
+  "id": "20940003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940003/20940003_256.png",
+  "character": "Krile",
+  "name": "Heaven Arc",
+  "name_jp": "ヘブンズアーク",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (2.36 each), causes [Sap] (15%) and [Sleep] (15%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (2.36 each), causes [Sap] (15%) and [Sleep] (15%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (2.36 each), causes [Sap] (15%) and [Sleep] (15%)"
+    }
+  ]
+}

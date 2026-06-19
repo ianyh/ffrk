@@ -1,0 +1,27 @@
+{
+  "id": "20390016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390016/20390016_256.png",
+  "character": "Fran",
+  "name": "Steady Grip",
+  "name_jp": "手練の射手",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode II (Ice, Lightning)] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Ice, Lightning)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Ice, Lightning)] and [High Quick Cast 1]"
+    }
+  ]
+}

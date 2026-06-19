@@ -1,0 +1,27 @@
+{
+  "id": "23200004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200004/23200004_256.png",
+  "character": "Ignis",
+  "name": "First Aid (XV)",
+  "name_jp": "応急処置【XV】",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single ally",
+  "lensable": false,
+  "effects": "Restores HP for 40% of the target's maximum HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP"
+    }
+  ]
+}

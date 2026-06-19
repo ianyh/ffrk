@@ -1,0 +1,27 @@
+{
+  "id": "23030002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030002/23030002_256.png",
+  "character": "Ursula",
+  "name": "Chakra (IV)",
+  "name_jp": "チャクラ【IV】",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP for 40% of the target's maximum HP, grants [Last Stand], [RES +100%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP, grants [Last Stand], [RES +100%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP, grants [Last Stand], [RES +100%] for 25 seconds"
+    }
+  ]
+}

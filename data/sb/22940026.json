@@ -1,0 +1,30 @@
+{
+  "id": "22940026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940026/22940026_256.png",
+  "character": "Scott",
+  "name": "War-Awoken Ring of Hope (Weapon Skill)",
+  "name_jp": "戦醒希望のリング",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "II",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold with at least 0/4 Spellblade/II members\nWS Blue: [Dualcast Fire 3, Instant Fire 3 & Weakness Damage +30% for 3 turns to user]\nWS Gold: [Dualcast Prismatic 2, Quick Cast 2 & Weakness Damage +30% for 2 turns to party]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold with at least 0/4 Spellblade/II members\nWS Blue: [Dualcast Fire 3, Instant Fire 3 & Weakness Damage +30% for 3 turns to user]\nWS Gold: [Dualcast Prismatic 2, Quick Cast 2 & Weakness Damage +30% for 2 turns to party]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold with at least 0/4 Spellblade/II members\nWS Blue: [Dualcast Fire 3, Instant Fire 3 & Weakness Damage +30% for 3 turns to user]\nWS Gold: [Dualcast Prismatic 2, Quick Cast 2 & Weakness Damage +30% for 2 turns to party]"
+    }
+  ]
+}

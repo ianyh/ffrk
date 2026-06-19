@@ -1,0 +1,27 @@
+{
+  "id": "23100023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100023/23100023_256.png",
+  "character": "Queen",
+  "name": "Fiendish Flux",
+  "name_jp": "羅刹の急駛",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20390014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390014/20390014_256.png",
+  "character": "Fran",
+  "name": "Shatterheart Flash",
+  "name_jp": "雷光咬撃氷狼波",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XII",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [High Quick Cast 1], [Awoken Viera Warrior], [Damage Cap +10000], [Twin Element Mode II (Ice, Lightning)] and [Flowing Mist Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [High Quick Cast 1], [Awoken Viera Warrior], [Damage Cap +10000], [Twin Element Mode II (Ice, Lightning)] and [Flowing Mist Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [High Quick Cast 1], [Awoken Viera Warrior], [Damage Cap +10000], [Twin Element Mode II (Ice, Lightning)] and [Flowing Mist Follow-Up] to the user"
+    }
+  ]
+}

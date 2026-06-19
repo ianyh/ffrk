@@ -1,0 +1,32 @@
+{
+  "id": "22180017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180017/22180017_256.png",
+  "character": "Basch",
+  "name": "True Ruin Impendent",
+  "name_jp": "真・紛れ無き終焉",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Fire, Holy)], [Synchro Mode], [Damage Cap +10000] and [Holy Bladefire Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Fire, Holy)], [Synchro Mode], [Damage Cap +10000] and [Holy Bladefire Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Fire, Holy)], [Synchro Mode], [Damage Cap +10000] and [Holy Bladefire Follow-Up] to the user"
+    }
+  ]
+}

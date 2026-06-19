@@ -1,0 +1,32 @@
+{
+  "id": "20980026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980026/20980026_256.png",
+  "character": "Edge",
+  "name": "Divine Might: Edge",
+  "name_jp": "神威・エッジ",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Fire",
+    "Lightning",
+    "Poison"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 1290.0/1395.0/1447.5/1500.0 each) capped at 19999/29999/49999/59999, followed by three single hybrid attacks (11.0 or 66.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Water, Fire, Lightning or Poison abilities on allies/5+ Water, Fire, Lightning or Poison abilities on allies and 2+ allies with Attach Water, Fire, Lightning or Poison",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 1290.0/1395.0/1447.5/1500.0 each) capped at 19999/29999/49999/59999, followed by three single hybrid attacks (11.0 or 66.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Water, Fire, Lightning or Poison abilities on allies/5+ Water, Fire, Lightning or Poison abilities on allies and 2+ allies with Attach Water, Fire, Lightning or Poison"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 1290.0/1395.0/1447.5/1500.0 each) capped at 19999/29999/49999/59999, followed by three single hybrid attacks (11.0 or 66.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Water, Fire, Lightning or Poison abilities on allies/5+ Water, Fire, Lightning or Poison abilities on allies and 2+ allies with Attach Water, Fire, Lightning or Poison"
+    }
+  ]
+}

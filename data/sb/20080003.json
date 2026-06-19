@@ -1,0 +1,27 @@
+{
+  "id": "20080003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080003/20080003_256.png",
+  "character": "Kain",
+  "name": "Gungnir",
+  "name_jp": "グングニル",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single ranged jump attack (5.00), [DEF and RES -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (5.00), [DEF and RES -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (5.00), [DEF and RES -50%] for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20370055",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370055/20370055_256.png",
+  "character": "Vivi",
+  "name": "Roaring My Memories",
+  "name_jp": "轟・ボクノ記憶",
+  "tier": "ASB",
+  "sb_version": "ASB3",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 8 single-target Fire/NE magic attacks",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 8 single-target Fire/NE magic attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 8 single-target Fire/NE magic attacks"
+    }
+  ]
+}

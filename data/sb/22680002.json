@@ -1,0 +1,27 @@
+{
+  "id": "22680002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680002/22680002_256.png",
+  "character": "Prishe",
+  "name": "Rigorous Reverie",
+  "name_jp": "夢想練気",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP for 40% of the target's maximum HP, grants [Last Stand] and [High Regen]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP, grants [Last Stand] and [High Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP, grants [Last Stand] and [High Regen]"
+    }
+  ]
+}

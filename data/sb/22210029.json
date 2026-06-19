@@ -1,0 +1,32 @@
+{
+  "id": "22210029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210029/22210029_256.png",
+  "character": "Palom",
+  "name": "Roaring Rapid Bomb",
+  "name_jp": "轟・ラピッドボム",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "Fire",
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Lightning/Fire/Ice/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning/Fire/Ice Ability High Boost & chases Lightning/Fire/Ice abilities with 4 single-target Lightning/Fire/Ice/NE magic attacks, Lightning/Fire/Ice Damage +10% for 5 seconds to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Lightning/Fire/Ice/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning/Fire/Ice Ability High Boost & chases Lightning/Fire/Ice abilities with 4 single-target Lightning/Fire/Ice/NE magic attacks, Lightning/Fire/Ice Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Lightning/Fire/Ice/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning/Fire/Ice Ability High Boost & chases Lightning/Fire/Ice abilities with 4 single-target Lightning/Fire/Ice/NE magic attacks, Lightning/Fire/Ice Damage +10% for 5 seconds to party"
+    }
+  ]
+}

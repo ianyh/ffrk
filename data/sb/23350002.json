@@ -1,0 +1,27 @@
+{
+  "id": "23350002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23350002/23350002_256.png",
+  "character": "Lilisette",
+  "name": "Vivifying Waltz",
+  "name_jp": "ビビファインワルツ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [HP Stock (2000)], [ATK, DEF, MAG and RES -40%] to all enemies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], [ATK, DEF, MAG and RES -40%] to all enemies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], [ATK, DEF, MAG and RES -40%] to all enemies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

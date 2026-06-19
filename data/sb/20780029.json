@@ -1,0 +1,27 @@
+{
+  "id": "20780029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780029/20780029_256.png",
+  "character": "Setzer",
+  "name": "Fated Bond: Setzer",
+  "name_jp": "絆・セッツァー天命",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Sharpshooter Limit Chain (150) & 50% Sharpshooter Field, ATK +50% & Haste to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Sharpshooter Limit Chain (150) & 50% Sharpshooter Field, ATK +50% & Haste to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Sharpshooter Limit Chain (150) & 50% Sharpshooter Field, ATK +50% & Haste to party"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23030009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030009/23030009_256.png",
+  "character": "Ursula",
+  "name": "Twin Wing Frenzy",
+  "name_jp": "双翼乱舞",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF4 allies are alive, grants [ATK and DEF +30% (25s)]/[ATK, DEF, MAG and RES +30% (25s)] to all allies if 0-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Ladle +2 to the user if 4+ FF4 allies and Yang are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF4 allies are alive, grants [ATK and DEF +30% (25s)]/[ATK, DEF, MAG and RES +30% (25s)] to all allies if 0-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Ladle +2 to the user if 4+ FF4 allies and Yang are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF4 allies are alive, grants [ATK and DEF +30% (25s)]/[ATK, DEF, MAG and RES +30% (25s)] to all allies if 0-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Ladle +2 to the user if 4+ FF4 allies and Yang are alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20920009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920009/20920009_256.png",
+  "character": "Reno",
+  "name": "Chain of Thunder",
+  "name_jp": "チェインオブサンダー",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Lightning Chain (max 99, field +20%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 99, field +20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 99, field +20%)"
+    }
+  ]
+}

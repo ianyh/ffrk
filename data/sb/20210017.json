@@ -1,0 +1,27 @@
+{
+  "id": "20210017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210017/20210017_256.png",
+  "character": "Celes",
+  "name": "Rune Knight's Triumph",
+  "name_jp": "ルーンナイトの武勲",
+  "tier": "Glint",
+  "sb_version": "Glint2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Ice with Stacking] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice with Stacking] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice with Stacking] and [High Quick Cast 2]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22770013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770013/22770013_256.png",
+  "character": "Reks",
+  "name": "Patriot's Sword",
+  "name_jp": "祖国へ捧げる剣",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Patriot's Sword level 0/1/2, removes Arcane Dyad Empowered: Reks from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Patriot's Sword level 0/1/2, removes Arcane Dyad Empowered: Reks from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Patriot's Sword level 0/1/2, removes Arcane Dyad Empowered: Reks from the user"
+    }
+  ]
+}

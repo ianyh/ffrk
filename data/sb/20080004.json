@@ -1,0 +1,27 @@
+{
+  "id": "20080004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080004/20080004_256.png",
+  "character": "Kain",
+  "name": "Rising Drive",
+  "name_jp": "ライジングドライヴ",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single ranged jump attacks (1.95 each), grants [No Air Time 3] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single ranged jump attacks (1.95 each), grants [No Air Time 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single ranged jump attacks (1.95 each), grants [No Air Time 3] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20710007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710007/20710007_256.png",
+  "character": "Ashe",
+  "name": "Empyrean's Edict",
+  "name_jp": "天魔鬼神の霊符",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Lightning Sigil Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Lightning Sigil Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Lightning Sigil Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "22150011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22150011/22150011_256.png",
+  "character": "Agrias",
+  "name": "Bestowed Blade",
+  "name_jp": "我が主君に捧げし剣",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "FFT",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20140014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140014/20140014_256.png",
+  "character": "Tyro",
+  "name": "Arbiter's Tome",
+  "name_jp": "禁書「裁定者」",
+  "tier": "USB",
+  "sb_version": "USB4",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste] and [50% Critical] to all allies, Grants [High Quick Cast] and [Judge's Apocrypha] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [50% Critical] to all allies, Grants [High Quick Cast] and [Judge's Apocrypha] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [50% Critical] to all allies, Grants [High Quick Cast] and [Judge's Apocrypha] to the user"
+    }
+  ]
+}

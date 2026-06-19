@@ -1,0 +1,27 @@
+{
+  "id": "20850004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850004/20850004_256.png",
+  "character": "Gau",
+  "name": "Maul of the Wild",
+  "name_jp": "獣ヶ原だいこうしん",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.95 each), grants [Dark Bargain] to the user for 25 seconds, grants [Haste], [Quick Cast 3] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.95 each), grants [Dark Bargain] to the user for 25 seconds, grants [Haste], [Quick Cast 3] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.95 each), grants [Dark Bargain] to the user for 25 seconds, grants [Haste], [Quick Cast 3] and [Burst Mode] to the user"
+    }
+  ]
+}

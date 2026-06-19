@@ -1,0 +1,33 @@
+{
+  "id": "20400085",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400085/20400085_256.png",
+  "character": "Bartz",
+  "name": "Radiant Heroes's Might",
+  "name_jp": "耀光勇者達の力",
+  "tier": "CASB",
+  "sb_version": "CASB5",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Water",
+    "Wind",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Bartz (Fire/Water/Wind/Earth)] to user. Grants [Attach Fire with Stacking]/[Attach Water with Stacking]/[Attach Wind with Stacking]/[Attach Earth with Stacking] based on if entry damage was Fire/Water/Wind/Earth.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Bartz (Fire/Water/Wind/Earth)] to user. Grants [Attach Fire with Stacking]/[Attach Water with Stacking]/[Attach Wind with Stacking]/[Attach Earth with Stacking] based on if entry damage was Fire/Water/Wind/Earth."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Bartz (Fire/Water/Wind/Earth)] to user. Grants [Attach Fire with Stacking]/[Attach Water with Stacking]/[Attach Wind with Stacking]/[Attach Earth with Stacking] based on if entry damage was Fire/Water/Wind/Earth."
+    }
+  ]
+}

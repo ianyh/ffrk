@@ -1,0 +1,30 @@
+{
+  "id": "20950007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950007/20950007_256.png",
+  "character": "Thancred",
+  "name": "Fang of the Serpent",
+  "name_jp": "大残影蛇毒斬り",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "XIV",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.80 each), grants [Physical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.80 each), grants [Physical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.80 each), grants [Physical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

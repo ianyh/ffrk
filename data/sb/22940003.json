@@ -1,0 +1,27 @@
+{
+  "id": "22940003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940003/22940003_256.png",
+  "character": "Scott",
+  "name": "Royal Constitution",
+  "name_jp": "王族の闘志",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "[DEF +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +50%] for 25 seconds"
+    }
+  ]
+}

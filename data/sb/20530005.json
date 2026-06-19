@@ -1,0 +1,30 @@
+{
+  "id": "20530005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530005/20530005_256.png",
+  "character": "Edgar",
+  "name": "Armageddon Blast",
+  "name_jp": "ディスアスターブラスト",
+  "tier": "OSB",
+  "sb_version": "OSB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group ranged attack (8.60/9.60/10.60/11.60) capped at 99999 if the target has 0/1/2/3 ailments, causes [Poison], [Blind], [Silence] and [Petrify] (15%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (8.60/9.60/10.60/11.60) capped at 99999 if the target has 0/1/2/3 ailments, causes [Poison], [Blind], [Silence] and [Petrify] (15%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (8.60/9.60/10.60/11.60) capped at 99999 if the target has 0/1/2/3 ailments, causes [Poison], [Blind], [Silence] and [Petrify] (15%)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23460022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460022/23460022_256.png",
+  "character": "Lunafreya",
+  "name": "Roaring Endless Torrent",
+  "name_jp": "轟・無尽の奔流",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XV",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Water/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases Water abilities with 4 single-target Water/NE summon magic attacks, Water Damage +10% for 5 seconds to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Water/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases Water abilities with 4 single-target Water/NE summon magic attacks, Water Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Water/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases Water abilities with 4 single-target Water/NE summon magic attacks, Water Damage +10% for 5 seconds to party"
+    }
+  ]
+}

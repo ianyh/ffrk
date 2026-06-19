@@ -1,0 +1,30 @@
+{
+  "id": "20210034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210034/20210034_256.png",
+  "character": "Celes",
+  "name": "Woven Bond: Celes (Ice)",
+  "name_jp": "紡絆・セリス氷",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Celes] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Celes] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Celes] and [Instant ATB 1] to the user"
+    }
+  ]
+}

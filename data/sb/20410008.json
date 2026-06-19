@@ -1,0 +1,30 @@
+{
+  "id": "20410008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410008/20410008_256.png",
+  "character": "Irvine",
+  "name": "Hyper Canister",
+  "name_jp": "ハイパーキャニスター",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random ranged attacks (0.77 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged attacks (0.77 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged attacks (0.77 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

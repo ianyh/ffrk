@@ -1,0 +1,31 @@
+{
+  "id": "23050001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23050001/23050001_256.png",
+  "character": "Montblanc",
+  "name": "Black Combo",
+  "name_jp": "黒コンボ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "FFT",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.67 each), [DEF and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.67 each), [DEF and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.67 each), [DEF and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

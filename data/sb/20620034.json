@@ -1,0 +1,31 @@
+{
+  "id": "20620034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620034/20620034_256.png",
+  "character": "Eiko",
+  "name": "Radiant Sonic Blast",
+  "name_jp": "耀光ソニックブラスト",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single summon magic attacks (3.05 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], and Crystal Mode to user\nCrystal Mode: Summoning/White Magic Ability Boost, Dualcast Summoning/White Magic, Zero Hone Cost to Summoning/White Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/Holy/NE summon magic attacks (6.60 each) capped at 19999, Instant Cast, [Instant Summoning/White Magic, Dualcast Summoning/White Magic & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single summon magic attacks (3.05 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], and Crystal Mode to user\nCrystal Mode: Summoning/White Magic Ability Boost, Dualcast Summoning/White Magic, Zero Hone Cost to Summoning/White Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/Holy/NE summon magic attacks (6.60 each) capped at 19999, Instant Cast, [Instant Summoning/White Magic, Dualcast Summoning/White Magic & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single summon magic attacks (3.05 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], and Crystal Mode to user\nCrystal Mode: Summoning/White Magic Ability Boost, Dualcast Summoning/White Magic, Zero Hone Cost to Summoning/White Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/Holy/NE summon magic attacks (6.60 each) capped at 19999, Instant Cast, [Instant Summoning/White Magic, Dualcast Summoning/White Magic & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

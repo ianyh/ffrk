@@ -1,0 +1,27 @@
+{
+  "id": "23580005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580005/23580005_256.png",
+  "character": "Shadowsmith",
+  "name": "Awoken Darkstar Ruinous Strike (Dual Shift)",
+  "name_jp": "覚醒黒星極砕拳",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Special Director Mode II to user\nDual Awoken Special Director Mode II: Instant Prismatic & chases a Prismatic ability with Prismatic Ability Damage +30% for 3 turns to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Special Director Mode II to user\nDual Awoken Special Director Mode II: Instant Prismatic & chases a Prismatic ability with Prismatic Ability Damage +30% for 3 turns to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Special Director Mode II to user\nDual Awoken Special Director Mode II: Instant Prismatic & chases a Prismatic ability with Prismatic Ability Damage +30% for 3 turns to party"
+    }
+  ]
+}

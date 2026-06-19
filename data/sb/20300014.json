@@ -1,0 +1,29 @@
+{
+  "id": "20300014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300014/20300014_256.png",
+  "character": "Rinoa",
+  "name": "Angel Wing Ice Ruin",
+  "name_jp": "ヴァリー・氷壊",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "VIII",
+  "elements": [
+    "Ice"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.73 each), grants [Attach Ice], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Ice], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Ice], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ]
+}

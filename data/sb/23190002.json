@@ -1,0 +1,30 @@
+{
+  "id": "23190002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190002/23190002_256.png",
+  "character": "Cinque",
+  "name": "Gaia Pulse",
+  "name_jp": "アースインパルス",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.96 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.96 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.96 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20290010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290010/20290010_256.png",
+  "character": "Luneth",
+  "name": "Howling Vortex",
+  "name_jp": "吹き荒ぶ颶風",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Wind], [Wind Drain] and [Gale Spear Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Wind], [Wind Drain] and [Gale Spear Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Wind], [Wind Drain] and [Gale Spear Follow-Up] to the user"
+    }
+  ]
+}

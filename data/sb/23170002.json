@@ -1,0 +1,30 @@
+{
+  "id": "23170002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170002/23170002_256.png",
+  "character": "Kelger",
+  "name": "Sonic Swiftness",
+  "name_jp": "スピードソニック",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ]
+}

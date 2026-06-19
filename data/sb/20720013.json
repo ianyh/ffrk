@@ -1,0 +1,27 @@
+{
+  "id": "20720013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720013/20720013_256.png",
+  "character": "Strago",
+  "name": "Blue Costume",
+  "name_jp": "ブルーコスチューム",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Water with Stacking] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water with Stacking] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water with Stacking] and [Soul Break Gauge +250]"
+    }
+  ]
+}

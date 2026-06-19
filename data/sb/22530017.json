@@ -1,0 +1,30 @@
+{
+  "id": "22530017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22530017/22530017_256.png",
+  "character": "Alphinaud",
+  "name": "Tri-Shackle",
+  "name_jp": "トライパニッシュ",
+  "tier": "SASB",
+  "sb_version": "SASB3",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [40% Damage Reduction Barrier 1] and [Scion's Calling Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [40% Damage Reduction Barrier 1] and [Scion's Calling Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [40% Damage Reduction Barrier 1] and [Scion's Calling Mode] to the user"
+    }
+  ]
+}

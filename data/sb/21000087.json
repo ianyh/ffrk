@@ -1,0 +1,27 @@
+{
+  "id": "21000087",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000087/21000087_256.png",
+  "character": "-",
+  "name": "Light's Protection",
+  "name_jp": "光の守護",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Shell]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Shell]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Shell]"
+    }
+  ]
+}

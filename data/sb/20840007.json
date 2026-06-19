@@ -1,0 +1,27 @@
+{
+  "id": "20840007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840007/20840007_256.png",
+  "character": "Quina",
+  "name": "Angel's Banquet",
+  "name_jp": "天使のランチ",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Removes negative effects, grants [Astra] and [HP Stock (2000)], grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes negative effects, grants [Astra] and [HP Stock (2000)], grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes negative effects, grants [Astra] and [HP Stock (2000)], grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

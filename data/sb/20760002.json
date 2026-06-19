@@ -1,0 +1,27 @@
+{
+  "id": "20760002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760002/20760002_256.png",
+  "character": "Barret",
+  "name": "Grenade Bomb",
+  "name_jp": "グレネードボム",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group attack (3.20), [DEF -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.20), [DEF -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.20), [DEF -50%] for 25 seconds"
+    }
+  ]
+}

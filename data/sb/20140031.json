@@ -1,0 +1,27 @@
+{
+  "id": "20140031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140031/20140031_256.png",
+  "character": "Tyro",
+  "name": "Bond (Tyro)",
+  "name_jp": "絆【デシ】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Core or Beyond Chain (max 150, field +50%), Grants [ATK and MAG +30% (25s)] and [Quick Cast 1] to all allies, Grants [Linked Burst Mode: Core, Beyond] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Core or Beyond Chain (max 150, field +50%), Grants [ATK and MAG +30% (25s)] and [Quick Cast 1] to all allies, Grants [Linked Burst Mode: Core, Beyond] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Core or Beyond Chain (max 150, field +50%), Grants [ATK and MAG +30% (25s)] and [Quick Cast 1] to all allies, Grants [Linked Burst Mode: Core, Beyond] and [Instant Cast 1] to the user"
+    }
+  ]
+}

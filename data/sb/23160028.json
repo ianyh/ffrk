@@ -1,0 +1,27 @@
+{
+  "id": "23160028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160028/23160028_256.png",
+  "character": "Xezat",
+  "name": "War-Awoken Spellsoul Earthsplitter",
+  "name_jp": "戦醒魔法剣真髄・地裂斬",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user."
+    }
+  ]
+}

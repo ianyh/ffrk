@@ -1,0 +1,27 @@
+{
+  "id": "23120015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120015/23120015_256.png",
+  "character": "Estinien",
+  "name": "Continuous Flash: Estinien",
+  "name_jp": "連閃・エスティニアン",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [100% Critical (25s)], [200% ATB 1] and [Quick Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s)], [200% ATB 1] and [Quick Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s)], [200% ATB 1] and [Quick Cast 1] to the user"
+    }
+  ]
+}

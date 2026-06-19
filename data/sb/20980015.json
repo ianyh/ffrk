@@ -1,0 +1,32 @@
+{
+  "id": "20980015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980015/20980015_256.png",
+  "character": "Edge",
+  "name": "Eblan Harmony",
+  "name_jp": "エブラーナ流・渾然一体",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid attacks (0.60 or 225.0 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Lightning, Water)] and [Eblan Unity] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.0 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Lightning, Water)] and [Eblan Unity] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.0 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Lightning, Water)] and [Eblan Unity] to the user"
+    }
+  ]
+}

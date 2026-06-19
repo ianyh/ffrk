@@ -1,0 +1,31 @@
+{
+  "id": "22210003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210003/22210003_256.png",
+  "character": "Palom",
+  "name": "Twincast Magic Barrage",
+  "name_jp": "ふたりがけ魔法乱れ撃ち",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Eight group attacks (1.69 each), [MAG and RES -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (1.69 each), [MAG and RES -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (1.69 each), [MAG and RES -50%] for 25 seconds"
+    }
+  ]
+}

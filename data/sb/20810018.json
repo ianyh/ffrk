@@ -1,0 +1,30 @@
+{
+  "id": "20810018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810018/20810018_256.png",
+  "character": "Gilgamesh",
+  "name": "Future Ally",
+  "name_jp": "その時はおれも仲間",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and Blade Collection +2 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and Blade Collection +2 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and Blade Collection +2 to the user"
+    }
+  ]
+}

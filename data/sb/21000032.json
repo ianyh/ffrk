@@ -1,0 +1,27 @@
+{
+  "id": "21000032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000032/21000032_256.png",
+  "character": "-",
+  "name": "Power Sigil",
+  "name_jp": "刻印の力",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (5.10)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (5.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (5.10)"
+    }
+  ]
+}

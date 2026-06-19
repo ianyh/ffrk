@@ -1,0 +1,29 @@
+{
+  "id": "22300014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300014/22300014_256.png",
+  "character": "Warrior of Light",
+  "name": "Eternal Sword",
+  "name_jp": "エターナルソード",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "I",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

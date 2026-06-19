@@ -1,0 +1,27 @@
+{
+  "id": "22250011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250011/22250011_256.png",
+  "character": "Cait Sith",
+  "name": "Miraculous Luck",
+  "name_jp": "ミラクルラッキーガール",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [MAG and MND +50% (25s)], [Magical High Quick Cast 3] and [Magical +30% Boost (15s)], grants [Synchro Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], [Magical High Quick Cast 3] and [Magical +30% Boost (15s)], grants [Synchro Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], [Magical High Quick Cast 3] and [Magical +30% Boost (15s)], grants [Synchro Mode] to the user"
+    }
+  ]
+}

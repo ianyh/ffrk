@@ -1,0 +1,27 @@
+{
+  "id": "20200014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200014/20200014_256.png",
+  "character": "Lenna",
+  "name": "Champion of Life",
+  "name_jp": "命と魂の護り手",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Dual Blink 1] and [Haste], grants [Awoken Love] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Dual Blink 1] and [Haste], grants [Awoken Love] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Dual Blink 1] and [Haste], grants [Awoken Love] to the user"
+    }
+  ]
+}

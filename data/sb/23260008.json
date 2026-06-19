@@ -1,0 +1,30 @@
+{
+  "id": "23260008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260008/23260008_256.png",
+  "character": "Seven",
+  "name": "Icicle Strike",
+  "name_jp": "アイシクルストライク",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20290013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290013/20290013_256.png",
+  "character": "Luneth",
+  "name": "Master Dragoon",
+  "name_jp": "りゅうきしマスター",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Dragoon High Quick Cast] and [Jump +30% Boost (15s)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dragoon High Quick Cast] and [Jump +30% Boost (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dragoon High Quick Cast] and [Jump +30% Boost (15s)]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20520008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520008/20520008_256.png",
+  "character": "Yuna",
+  "name": "Tenets of the Fayth",
+  "name_jp": "祈り子の福音",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "X",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (55), [MAG and MND +30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), [MAG and MND +30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), [MAG and MND +30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

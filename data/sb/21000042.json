@@ -1,0 +1,27 @@
+{
+  "id": "21000042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000042/21000042_256.png",
+  "character": "-",
+  "name": "Mending Melody",
+  "name_jp": "癒しの調べ",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (35)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ]
+}

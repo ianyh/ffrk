@@ -1,0 +1,79 @@
+{
+  "id": "20720053",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720053/20720053_256.png",
+  "character": "Strago",
+  "name": "Zenith Raging Tempest",
+  "name_jp": "究極レイジテンペスト",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "VI",
+  "elements": [
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Strago], [Soul Break Gauge +250], [Instant ATB 1], [Instant Cast 1] to user. Grants [Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] based on if entry damage was Water/Wind.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Strago], [Soul Break Gauge +250], [Instant ATB 1], [Instant Cast 1] to user. Grants [Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] based on if entry damage was Water/Wind."
+    },
+    {
+      "name": "Zenith Mode: Strago",
+      "text": "Increases Water and Wind infusion damage bonus by 20%, cast speed x1.10 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage, Water and Wind abilities trigger 1 additional time, maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Aeroga (VI)+",
+      "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Aqua Breath+",
+      "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Attach Water 2 with Stacking",
+      "text": "Increase Attach Water Level by 2 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Attach Wind 2 with Stacking",
+      "text": "Increase Attach Wind Level by 2 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Strago], [Soul Break Gauge +250], [Instant ATB 1], [Instant Cast 1] to user. Grants [Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] based on if entry damage was Water/Wind."
+    },
+    {
+      "name": "Aeroga (VI)+",
+      "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Aqua Breath+",
+      "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+    }
+  ]
+}

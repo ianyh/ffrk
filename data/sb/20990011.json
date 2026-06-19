@@ -1,0 +1,27 @@
+{
+  "id": "20990011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990011/20990011_256.png",
+  "character": "Rosa",
+  "name": "Divine Shelter",
+  "name_jp": "ディバインコート",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Protect], [Shell] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ]
+}

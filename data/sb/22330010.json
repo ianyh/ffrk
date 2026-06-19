@@ -1,0 +1,30 @@
+{
+  "id": "22330010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330010/22330010_256.png",
+  "character": "Papalymo",
+  "name": "Enochian Despair",
+  "name_jp": "エノキアンデスペア",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Quick Cast] and [Scion Thaumaturge Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Quick Cast] and [Scion Thaumaturge Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Quick Cast] and [Scion Thaumaturge Mode] to the user"
+    }
+  ]
+}

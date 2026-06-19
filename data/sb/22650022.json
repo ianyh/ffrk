@@ -1,0 +1,30 @@
+{
+  "id": "22650022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650022/22650022_256.png",
+  "character": "Lann",
+  "name": "War-Awoken Champions of Ignition (Weapon Skill)",
+  "name_jp": "戦醒セイヴァー・火扇",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "?",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing ranged hybrid attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Fire;\nWS Blue: Grants [Lv.2 En-Fire Stack] to user\nWS Gold: Grants [Deadly Strikes or Sorcery Damage +20%] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing ranged hybrid attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Fire;\nWS Blue: Grants [Lv.2 En-Fire Stack] to user\nWS Gold: Grants [Deadly Strikes or Sorcery Damage +20%] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing ranged hybrid attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Fire;\nWS Blue: Grants [Lv.2 En-Fire Stack] to user\nWS Gold: Grants [Deadly Strikes or Sorcery Damage +20%] to user"
+    }
+  ]
+}

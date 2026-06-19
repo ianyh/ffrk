@@ -1,0 +1,33 @@
+{
+  "id": "22460030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460030/22460030_256.png",
+  "character": "Onion Knight",
+  "name": "Onion Dual Wield",
+  "name_jp": "オニオンソード二刀流",
+  "tier": "SASB",
+  "sb_version": "SASB4",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "Water",
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Earth, Wind, Water)] and [Crystal's Revelation Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Earth, Wind, Water)] and [Crystal's Revelation Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Earth, Wind, Water)] and [Crystal's Revelation Mode] to the user"
+    }
+  ]
+}

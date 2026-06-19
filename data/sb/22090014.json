@@ -1,0 +1,31 @@
+{
+  "id": "22090014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090014/22090014_256.png",
+  "character": "Jecht",
+  "name": "Jecht Dream",
+  "name_jp": "ジェクトドリーム",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Double Sphere Mode (Fire, Dark)], [Awoken Legend], [Damage Cap +10000] and [Perfection Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Double Sphere Mode (Fire, Dark)], [Awoken Legend], [Damage Cap +10000] and [Perfection Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Double Sphere Mode (Fire, Dark)], [Awoken Legend], [Damage Cap +10000] and [Perfection Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20710029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710029/20710029_256.png",
+  "character": "Ashe",
+  "name": "Awoken Dusk's Decree (Dual Shift)",
+  "name_jp": "覚醒黄昏の裁き",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with 2 single-target Lightning/NE Overflow magic attacks, Lightning Ability Damage +50% for 2 turns to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with 2 single-target Lightning/NE Overflow magic attacks, Lightning Ability Damage +50% for 2 turns to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with 2 single-target Lightning/NE Overflow magic attacks, Lightning Ability Damage +50% for 2 turns to user"
+    }
+  ]
+}

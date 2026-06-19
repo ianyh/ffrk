@@ -1,0 +1,27 @@
+{
+  "id": "20930021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930021/20930021_256.png",
+  "character": "Faris",
+  "name": "Heartening Call",
+  "name_jp": "ブレイブエール",
+  "tier": "CSB",
+  "sb_version": "CSB2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates V Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates V Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates V Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20770001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770001/20770001_256.png",
+  "character": "Hope",
+  "name": "Fearsiphon",
+  "name_jp": "ブレイクアスピル",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single ranged attack (1.40), grants [Haste] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.40), grants [Haste] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.40), grants [Haste] to the user"
+    }
+  ]
+}

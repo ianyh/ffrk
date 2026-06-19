@@ -1,0 +1,27 @@
+{
+  "id": "20110005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110005/20110005_256.png",
+  "character": "Cloud",
+  "name": "Fenrir Overdrive",
+  "name_jp": "フェンリルドライブ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (1.00 each), grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (1.00 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (1.00 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

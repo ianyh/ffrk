@@ -1,0 +1,27 @@
+{
+  "id": "23610009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23610009/23610009_256.png",
+  "character": "Cidolfus",
+  "name": "A Man Named Cid",
+  "name_jp": "シドという男",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XVI",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ]
+}

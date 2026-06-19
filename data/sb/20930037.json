@@ -1,0 +1,27 @@
+{
+  "id": "20930037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930037/20930037_256.png",
+  "character": "Faris",
+  "name": "Starry Captain's Command",
+  "name_jp": "極星おかしらの号令",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "PHY",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Master Mode], [Master Mode: Faris], [Instant ATB 1] and [Diffusion Barrier 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Faris], [Instant ATB 1] and [Diffusion Barrier 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Faris], [Instant ATB 1] and [Diffusion Barrier 1]"
+    }
+  ]
+}

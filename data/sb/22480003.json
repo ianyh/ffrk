@@ -1,0 +1,27 @@
+{
+  "id": "22480003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22480003/22480003_256.png",
+  "character": "Ayame",
+  "name": "Tachi Enpi",
+  "name_jp": "壱之太刀・燕飛",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Two single attacks (0.75 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.75 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.75 each)"
+    }
+  ]
+}

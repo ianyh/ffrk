@@ -1,0 +1,27 @@
+{
+  "id": "20930039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930039/20930039_256.png",
+  "character": "Faris",
+  "name": "Continuous Flash: Faris",
+  "name_jp": "連閃・ファリス",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Twin Element Mode II (Fire, Wind)], [Instant ATB 1] and [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Fire, Wind)], [Instant ATB 1] and [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Fire, Wind)], [Instant ATB 1] and [Instant Cast 2] to the user"
+    }
+  ]
+}

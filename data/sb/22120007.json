@@ -1,0 +1,30 @@
+{
+  "id": "22120007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120007/22120007_256.png",
+  "character": "Minwu",
+  "name": "Holy XVI",
+  "name_jp": "ホーリー16",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.00 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.00 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.00 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ]
+}

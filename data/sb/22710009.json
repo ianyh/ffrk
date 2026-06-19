@@ -1,0 +1,32 @@
+{
+  "id": "22710009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22710009/22710009_256.png",
+  "character": "Marach",
+  "name": "Zenith Nether Ashura",
+  "name_jp": "究極裏阿修羅",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "FFT",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Lightning/Dark/Fire/NE magic attacks at Cap Break Level 1 + Imperil Lightning, Quick ATB 1 to En-Lightning members, Lv.3 En-Lightning, En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Hell's Wrath+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/Dark/Fire/NE magic attacks at Cap Break Level 1 + Imperil Lightning, Quick ATB 1 to En-Lightning members, Lv.3 En-Lightning, En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Hell's Wrath+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/Dark/Fire/NE magic attacks at Cap Break Level 1 + Imperil Lightning, Quick ATB 1 to En-Lightning members, Lv.3 En-Lightning, En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Hell's Wrath+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

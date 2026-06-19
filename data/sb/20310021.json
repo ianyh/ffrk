@@ -1,0 +1,29 @@
+{
+  "id": "20310021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310021/20310021_256.png",
+  "character": "Snow",
+  "name": "Ice Chain Promise",
+  "name_jp": "氷鎖の約束",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "XIII",
+  "elements": [
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies"
+    }
+  ]
+}

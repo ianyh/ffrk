@@ -1,0 +1,30 @@
+{
+  "id": "20600053",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600053/20600053_256.png",
+  "character": "Lightning",
+  "name": "Radiant Holy Shadowslash",
+  "name_jp": "耀光聖影向斬",
+  "tier": "CASB",
+  "sb_version": "CASB2",
+  "realm": "XIII",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/NE physical attacks at Cap Break Level 1, Instant Cast, PHY Damage +15% for 2 turns to Warrior II members, [Cap Break Level 1 & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/NE physical attacks at Cap Break Level 1, Instant Cast, PHY Damage +15% for 2 turns to Warrior II members, [Cap Break Level 1 & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/NE physical attacks at Cap Break Level 1, Instant Cast, PHY Damage +15% for 2 turns to Warrior II members, [Cap Break Level 1 & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

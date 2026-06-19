@@ -1,0 +1,30 @@
+{
+  "id": "20070035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070035/20070035_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Light of the Crystal",
+  "name_jp": "クリスタルの光閃",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid attacks (0.60 or 1.60 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3], [Instant Cast 3] and Paladin +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.60 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3], [Instant Cast 3] and Paladin +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.60 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3], [Instant Cast 3] and Paladin +1 to the user"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20630003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630003/20630003_256.png",
+  "character": "Golbez",
+  "name": "Nightglow",
+  "name_jp": "ナイトグロウ",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "IV",
+  "elements": [
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Two group attacks (3.75 each), causes [Sap] (29%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (3.75 each), causes [Sap] (29%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (3.75 each), causes [Sap] (29%)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20630006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630006/20630006_256.png",
+  "character": "Golbez",
+  "name": "Genesis Rock",
+  "name_jp": "ジェネシスロック",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "IV",
+  "elements": [
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (1.57 each), grants [Attach Dark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.57 each), grants [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.57 each), grants [Attach Dark] to the user"
+    }
+  ]
+}

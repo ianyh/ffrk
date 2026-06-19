@@ -1,0 +1,32 @@
+{
+  "id": "20960011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960011/20960011_256.png",
+  "character": "Y'shtola",
+  "name": "Scion's Meteor",
+  "name_jp": "サイオンズ・メテオ",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ]
+}

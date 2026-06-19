@@ -1,0 +1,30 @@
+{
+  "id": "23140005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140005/23140005_256.png",
+  "character": "Thief (I)",
+  "name": "Dust Devil",
+  "name_jp": "ダストデビル",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "I",
+  "elements": [
+    "Wind",
+    "Poison"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (8.00 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ]
+}

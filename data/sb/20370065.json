@@ -1,0 +1,31 @@
+{
+  "id": "20370065",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370065/20370065_256.png",
+  "character": "Vivi",
+  "name": "Burst Break: Vivi (Ice, Lightning) (Break Arte)",
+  "name_jp": "烈破・ビビ氷雷",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IX",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group Ice/NE or Lightning/NE Overflow magic attack under En-Ice or En-Lightning, Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group Ice/NE or Lightning/NE Overflow magic attack under En-Ice or En-Lightning, Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group Ice/NE or Lightning/NE Overflow magic attack under En-Ice or En-Lightning, Instant ATB 1 to user"
+    }
+  ]
+}

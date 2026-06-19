@@ -1,0 +1,30 @@
+{
+  "id": "20640013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640013/20640013_256.png",
+  "character": "Tellah",
+  "name": "Grand Astron",
+  "name_jp": "グランドアストロン",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Earth with Stacking], [Earth Ability +30% Boost (15s)] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Earth with Stacking], [Earth Ability +30% Boost (15s)] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Earth with Stacking], [Earth Ability +30% Boost (15s)] and [Instant Cast 1] to the user"
+    }
+  ]
+}

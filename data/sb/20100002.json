@@ -1,0 +1,29 @@
+{
+  "id": "20100002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100002/20100002_256.png",
+  "character": "Terra",
+  "name": "Trance Fira",
+  "name_jp": "トランス・ファイラ",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VI",
+  "elements": [
+    "Fire"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group attack (7.17)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17)"
+    }
+  ]
+}

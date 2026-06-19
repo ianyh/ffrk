@@ -1,0 +1,30 @@
+{
+  "id": "20400011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400011/20400011_256.png",
+  "character": "Bartz",
+  "name": "Latent Power",
+  "name_jp": "土のかけらに宿りし力",
+  "tier": "BSB",
+  "sb_version": "BSB3",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ]
+}

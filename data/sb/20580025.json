@@ -1,0 +1,27 @@
+{
+  "id": "20580025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580025/20580025_256.png",
+  "character": "Leon",
+  "name": "Continuous Flash: Leon",
+  "name_jp": "連閃・レオンハルト",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1]"
+    }
+  ]
+}

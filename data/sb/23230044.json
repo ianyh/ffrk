@@ -1,0 +1,30 @@
+{
+  "id": "23230044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230044/23230044_256.png",
+  "character": "Ultimecia",
+  "name": "War-Awoken Hellstorm Spear (Weapon Skill)",
+  "name_jp": "戦醒嵐獄の魔槍",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Wind/NE piercing magic attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind\nWS Blue: [Lv.2 En-Wind Stack]\nWS Gold: [During Tactical Awoken Mode, Dualcast Wind 2 & Instant Wind 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/NE piercing magic attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind\nWS Blue: [Lv.2 En-Wind Stack]\nWS Gold: [During Tactical Awoken Mode, Dualcast Wind 2 & Instant Wind 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/NE piercing magic attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind\nWS Blue: [Lv.2 En-Wind Stack]\nWS Gold: [During Tactical Awoken Mode, Dualcast Wind 2 & Instant Wind 2]"
+    }
+  ]
+}

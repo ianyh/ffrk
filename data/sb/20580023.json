@@ -1,0 +1,27 @@
+{
+  "id": "20580023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580023/20580023_256.png",
+  "character": "Leon",
+  "name": "Continuous Flash: Leon (Dark)",
+  "name_jp": "連閃・レオンハルト闇",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Dark with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ]
+}

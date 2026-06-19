@@ -1,0 +1,27 @@
+{
+  "id": "20770011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770011/20770011_256.png",
+  "character": "Hope",
+  "name": "Resolute Faith",
+  "name_jp": "希望であり続ける決意",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Holy Stacking] and [Attach Holy], Summoning smart ether 2",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy Stacking] and [Attach Holy], Summoning smart ether 2"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy Stacking] and [Attach Holy], Summoning smart ether 2"
+    }
+  ]
+}

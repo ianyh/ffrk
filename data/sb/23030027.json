@@ -1,0 +1,30 @@
+{
+  "id": "23030027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030027/23030027_256.png",
+  "character": "Ursula",
+  "name": "Burst Break: Ursula (Break Arte)",
+  "name_jp": "烈破・アーシュラ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group Overflow attack, grants Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group Overflow attack, grants Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group Overflow attack, grants Instant ATB 1 to user"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "22580028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580028/22580028_256.png",
+  "character": "Master",
+  "name": "Burst Break: Master (Break Arte)",
+  "name_jp": "烈破・スーパーモンク",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "I",
+  "elements": [
+    "Earth",
+    "NE",
+    "Fire",
+    "NE",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group Earth/NE, Fire/NE, or Lightning/NE Overflow attack under En-Earth, En-Fire, or En-Lightning; grants Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group Earth/NE, Fire/NE, or Lightning/NE Overflow attack under En-Earth, En-Fire, or En-Lightning; grants Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group Earth/NE, Fire/NE, or Lightning/NE Overflow attack under En-Earth, En-Fire, or En-Lightning; grants Instant ATB 1 to user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20600009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600009/20600009_256.png",
+  "character": "Lightning",
+  "name": "Focused Bolts",
+  "name_jp": "ストライクボルト",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (0.96 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.96 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.96 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23550010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550010/23550010_256.png",
+  "character": "Kurasame",
+  "name": "Absolute Zero",
+  "name_jp": "絶対零度",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Ice Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)] if the user's ATK < MAG/ATK >= MAG",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)] if the user's ATK < MAG/ATK >= MAG"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)] if the user's ATK < MAG/ATK >= MAG"
+    }
+  ]
+}

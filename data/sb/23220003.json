@@ -1,0 +1,27 @@
+{
+  "id": "23220003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220003/23220003_256.png",
+  "character": "Barbariccia",
+  "name": "Stone Touch",
+  "name_jp": "ゆびさき",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Petrify] (50%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Petrify] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Petrify] (50%)"
+    }
+  ]
+}

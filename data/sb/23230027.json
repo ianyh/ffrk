@@ -1,0 +1,30 @@
+{
+  "id": "23230027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230027/23230027_256.png",
+  "character": "Ultimecia",
+  "name": "Apex Hell's Judgment",
+  "name_jp": "ヘル・ジャッジメント極",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Hell's Judgment level 0/1/2, removes Arcane Dyad Empowered: Ultimecia (Wind) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Hell's Judgment level 0/1/2, removes Arcane Dyad Empowered: Ultimecia (Wind) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Hell's Judgment level 0/1/2, removes Arcane Dyad Empowered: Ultimecia (Wind) from the user"
+    }
+  ]
+}

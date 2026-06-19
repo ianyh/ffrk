@@ -1,0 +1,29 @@
+{
+  "id": "22060005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060005/22060005_256.png",
+  "character": "Penelo",
+  "name": "Evanescence",
+  "name_jp": "雲散霧消",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XII",
+  "elements": [
+    "Holy"
+  ],
+  "type": "WHT",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (1.50 each), restores HP (55) to all allies, [MAG and MND +15%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (1.50 each), restores HP (55) to all allies, [MAG and MND +15%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (1.50 each), restores HP (55) to all allies, [MAG and MND +15%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

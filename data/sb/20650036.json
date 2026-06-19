@@ -1,0 +1,27 @@
+{
+  "id": "20650036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650036/20650036_256.png",
+  "character": "Galuf",
+  "name": "Super Flash (Galuf)",
+  "name_jp": "超閃【ガラフ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using an Earth ability, grants Quick Cast 3 to party (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using an Earth ability, grants Quick Cast 3 to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using an Earth ability, grants Quick Cast 3 to party (max 1 chase)"
+    }
+  ]
+}

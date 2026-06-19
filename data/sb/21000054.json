@@ -1,0 +1,27 @@
+{
+  "id": "21000054",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000054/21000054_256.png",
+  "character": "-",
+  "name": "Shimmering Mirage",
+  "name_jp": "ミラージュトリック",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single ally",
+  "lensable": false,
+  "effects": "Grants [Physical Blink 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1]"
+    }
+  ]
+}

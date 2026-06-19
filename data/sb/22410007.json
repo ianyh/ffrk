@@ -1,0 +1,30 @@
+{
+  "id": "22410007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410007/22410007_256.png",
+  "character": "Cid Raines",
+  "name": "True Miracle",
+  "name_jp": "偽りなき奇跡",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.62 each), 1.87 multiplier with any Doom, [MAG and RES +30%] to the user for 25 seconds, grants [Doom: 30], [Instant Cast 1] and [Seraph-Wing Buffet Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.62 each), 1.87 multiplier with any Doom, [MAG and RES +30%] to the user for 25 seconds, grants [Doom: 30], [Instant Cast 1] and [Seraph-Wing Buffet Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.62 each), 1.87 multiplier with any Doom, [MAG and RES +30%] to the user for 25 seconds, grants [Doom: 30], [Instant Cast 1] and [Seraph-Wing Buffet Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22810019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810019/22810019_256.png",
+  "character": "Nine",
+  "name": "Radiant Laser Lance",
+  "name_jp": "耀光ストライクランサー",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Crystal Force Mode], [Crystal Force Mode: Nine] to the user\nCrystal Force Mode: Nine: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Crystal Force Mode], [Crystal Force Mode: Nine] to the user\nCrystal Force Mode: Nine: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Crystal Force Mode], [Crystal Force Mode: Nine] to the user\nCrystal Force Mode: Nine: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22890002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890002/22890002_256.png",
+  "character": "Zeid",
+  "name": "Freezebite",
+  "name_jp": "フリーズバイト",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XI",
+  "elements": [
+    "Dark",
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83~1.34 each scaling with HP%), restores HP to the user for 40% of their maximum HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83~1.34 each scaling with HP%), restores HP to the user for 40% of their maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83~1.34 each scaling with HP%), restores HP to the user for 40% of their maximum HP"
+    }
+  ]
+}

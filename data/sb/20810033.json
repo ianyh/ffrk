@@ -1,0 +1,30 @@
+{
+  "id": "20810033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810033/20810033_256.png",
+  "character": "Gilgamesh",
+  "name": "Radiant Faithful Friends",
+  "name_jp": " 耀光持つべきものは友！",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Gilgamesh (Fire)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Gilgamesh (Fire)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Gilgamesh (Fire)] to the user"
+    }
+  ]
+}

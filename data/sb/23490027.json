@@ -1,0 +1,27 @@
+{
+  "id": "23490027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490027/23490027_256.png",
+  "character": "Rain",
+  "name": "Continuous Flash: Rain",
+  "name_jp": "連閃・レイン",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack"
+    }
+  ]
+}

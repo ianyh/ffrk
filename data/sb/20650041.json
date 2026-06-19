@@ -1,0 +1,27 @@
+{
+  "id": "20650041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650041/20650041_256.png",
+  "character": "Galuf",
+  "name": "Continuous Flash: Galuf",
+  "name_jp": "連閃・ガラフ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
+    }
+  ]
+}

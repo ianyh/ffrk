@@ -1,0 +1,27 @@
+{
+  "id": "20920017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920017/20920017_256.png",
+  "character": "Reno",
+  "name": "Stun Pyramid",
+  "name_jp": "スタンピラミッド",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Cause [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Cause [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Cause [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    }
+  ]
+}

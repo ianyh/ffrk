@@ -1,0 +1,27 @@
+{
+  "id": "20950014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950014/20950014_256.png",
+  "character": "Thancred",
+  "name": "Kassatsu",
+  "name_jp": "活殺自在",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Tri-Element Mode II (Earth, Wind, Poison)] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Earth, Wind, Poison)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Earth, Wind, Poison)] and [High Quick Cast 1]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23100007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100007/23100007_256.png",
+  "character": "Queen",
+  "name": "Fiendish Impulse",
+  "name_jp": "羅刹の衝動",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Lightning Stacking], [Attach Lightning] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning Stacking], [Attach Lightning] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning Stacking], [Attach Lightning] and [Instant Cast 1] to the user"
+    }
+  ]
+}

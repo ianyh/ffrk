@@ -1,0 +1,27 @@
+{
+  "id": "20670004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670004/20670004_256.png",
+  "character": "Zell",
+  "name": "Different Beat",
+  "name_jp": "ディファレントビート",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.99 each), grants [Critical Chance 25%] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.99 each), grants [Critical Chance 25%] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.99 each), grants [Critical Chance 25%] to the user for 25 seconds"
+    }
+  ]
+}

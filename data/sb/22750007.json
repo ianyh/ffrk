@@ -1,0 +1,30 @@
+{
+  "id": "22750007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22750007/22750007_256.png",
+  "character": "Meia",
+  "name": "Fiat Lux",
+  "name_jp": "フィアット・ルクス",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "I",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (1.25 each), grants [Attach Water Stacking] and [Attach Water] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.25 each), grants [Attach Water Stacking] and [Attach Water] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.25 each), grants [Attach Water Stacking] and [Attach Water] to the user"
+    }
+  ]
+}

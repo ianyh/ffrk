@@ -1,0 +1,27 @@
+{
+  "id": "20840011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840011/20840011_256.png",
+  "character": "Quina",
+  "name": "So Happy",
+  "name_jp": "ワタシ幸せアルよ",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates IX Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates IX Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates IX Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ]
+}

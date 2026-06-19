@@ -1,0 +1,30 @@
+{
+  "id": "22340008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340008/22340008_256.png",
+  "character": "Yang",
+  "name": "Kick Fest",
+  "name_jp": "蹴宴",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [100% Critical (25s)], [Awoken Monk], [Damage Cap +10000] and [Bequeathed Knowledge Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [100% Critical (25s)], [Awoken Monk], [Damage Cap +10000] and [Bequeathed Knowledge Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [100% Critical (25s)], [Awoken Monk], [Damage Cap +10000] and [Bequeathed Knowledge Follow-Up] to the user"
+    }
+  ]
+}

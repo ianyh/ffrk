@@ -1,0 +1,27 @@
+{
+  "id": "20670005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670005/20670005_256.png",
+  "character": "Zell",
+  "name": "Combat King",
+  "name_jp": "格闘王",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (0.96 each), grants [Combat King] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.96 each), grants [Combat King] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.96 each), grants [Combat King] to the user for 25 seconds"
+    }
+  ]
+}

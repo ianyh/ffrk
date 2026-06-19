@@ -1,0 +1,27 @@
+{
+  "id": "20620006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620006/20620006_256.png",
+  "character": "Eiko",
+  "name": "Guardian Mog",
+  "name_jp": "モグのおまもり",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Last Stand] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Last Stand] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Last Stand] and [Haste]"
+    }
+  ]
+}

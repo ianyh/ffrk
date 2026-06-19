@@ -1,0 +1,31 @@
+{
+  "id": "22180028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180028/22180028_256.png",
+  "character": "Basch",
+  "name": "Roaring Purging Shockwave",
+  "name_jp": "轟・百鬼の衝撃",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Holy/Fire/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire Ability High Boost & Quick Holy/Fire",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Holy/Fire/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire Ability High Boost & Quick Holy/Fire"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Holy/Fire/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire Ability High Boost & Quick Holy/Fire"
+    }
+  ]
+}

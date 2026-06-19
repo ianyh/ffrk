@@ -1,0 +1,27 @@
+{
+  "id": "20420003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420003/20420003_256.png",
+  "character": "Arc",
+  "name": "Soothing Light",
+  "name_jp": "優しき光",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (50), damages undeads, [RES +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (50), damages undeads, [RES +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (50), damages undeads, [RES +50%] for 25 seconds"
+    }
+  ]
+}

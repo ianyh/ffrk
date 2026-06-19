@@ -1,0 +1,30 @@
+{
+  "id": "20350026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350026/20350026_256.png",
+  "character": "Squall",
+  "name": "Fated Flame",
+  "name_jp": "フェイテッド・フレイム",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Lion's Soul] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Lion's Soul] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Lion's Soul] to the user"
+    }
+  ]
+}

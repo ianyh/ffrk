@@ -1,0 +1,27 @@
+{
+  "id": "23300010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300010/23300010_256.png",
+  "character": "Hilda",
+  "name": "Awoken Prayer for Peace (Dual Shift)",
+  "name_jp": "覚醒平和への祈り",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Brilliance Mode II (Hilda)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Brilliance Mode II (Hilda)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Brilliance Mode II (Hilda)]"
+    }
+  ]
+}

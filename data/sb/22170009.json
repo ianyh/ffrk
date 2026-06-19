@@ -1,0 +1,29 @@
+{
+  "id": "22170009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170009/22170009_256.png",
+  "character": "Vincent",
+  "name": "Dirge of Cerberus",
+  "name_jp": "地獄の番犬の哀歌",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VII",
+  "elements": [
+    "Fire"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Fire], [Instant Cast 1] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Fire], [Instant Cast 1] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Fire], [Instant Cast 1] and [Brave Mode] to the user"
+    }
+  ]
+}

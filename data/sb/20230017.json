@@ -1,0 +1,29 @@
+{
+  "id": "20230017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230017/20230017_256.png",
+  "character": "Tifa",
+  "name": "Crushing Palm",
+  "name_jp": "破砕・掌打クラッシュ",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "VII",
+  "elements": [
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20150034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150034/20150034_256.png",
+  "character": "Wakka",
+  "name": "War-Awoken Aurochs Burst (Weapon Skill)",
+  "name_jp": "戦醒オーラカバースト",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Water/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Water Abilities, and Weapon Skill Blue/Gold to all targets with at least 0/40% Imperil Water\nWS Blue: Imperil Water 30% to all enemies\nWS Gold: DeProtect 20% to all enemies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Water/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Water Abilities, and Weapon Skill Blue/Gold to all targets with at least 0/40% Imperil Water\nWS Blue: Imperil Water 30% to all enemies\nWS Gold: DeProtect 20% to all enemies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Water/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Water Abilities, and Weapon Skill Blue/Gold to all targets with at least 0/40% Imperil Water\nWS Blue: Imperil Water 30% to all enemies\nWS Gold: DeProtect 20% to all enemies"
+    }
+  ]
+}

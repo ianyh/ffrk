@@ -1,0 +1,32 @@
+{
+  "id": "22180026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180026/22180026_256.png",
+  "character": "Basch",
+  "name": "Twilight Flame",
+  "name_jp": "黄昏の炎撃",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Physical Quick Cast], [Buff Holy 20% (15s)] and [Buff Fire 20% (15s)] to all allies, grants [Awoken Dalmascan Captain], [Damage Cap +10000] and [Twin Element Mode II (Fire, Holy)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Physical Quick Cast], [Buff Holy 20% (15s)] and [Buff Fire 20% (15s)] to all allies, grants [Awoken Dalmascan Captain], [Damage Cap +10000] and [Twin Element Mode II (Fire, Holy)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Physical Quick Cast], [Buff Holy 20% (15s)] and [Buff Fire 20% (15s)] to all allies, grants [Awoken Dalmascan Captain], [Damage Cap +10000] and [Twin Element Mode II (Fire, Holy)] to the user"
+    }
+  ]
+}

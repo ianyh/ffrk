@@ -1,0 +1,27 @@
+{
+  "id": "21000009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000009/21000009_256.png",
+  "character": "-",
+  "name": "Blessing of Spira",
+  "name_jp": "スピラの祈り",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "Single",
+  "lensable": false,
+  "effects": "Removes negative effects",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes negative effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes negative effects"
+    }
+  ]
+}

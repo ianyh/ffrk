@@ -1,0 +1,31 @@
+{
+  "id": "23550012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550012/23550012_256.png",
+  "character": "Kurasame",
+  "name": "Radiant Commander Zero's Magic",
+  "name_jp": "耀光0組隊長たる魔力",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks (0.90/3.05 each) capped at 19999, grants [Attach Ice with Stacking]/[Attach Dark with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kurasame] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (0.90/3.05 each) capped at 19999, grants [Attach Ice with Stacking]/[Attach Dark with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kurasame] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (0.90/3.05 each) capped at 19999, grants [Attach Ice with Stacking]/[Attach Dark with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kurasame] to the user"
+    }
+  ]
+}

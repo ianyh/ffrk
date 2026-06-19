@@ -1,0 +1,27 @@
+{
+  "id": "21000025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000025/21000025_256.png",
+  "character": "-",
+  "name": "Stunner",
+  "name_jp": "影縛り",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single ranged attack (2.10), causes [Stop] (50%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.10), causes [Stop] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.10), causes [Stop] (50%)"
+    }
+  ]
+}

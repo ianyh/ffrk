@@ -1,0 +1,30 @@
+{
+  "id": "22570006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570006/22570006_256.png",
+  "character": "Cid (IV)",
+  "name": "Engineer's Trial",
+  "name_jp": "技術屋の試行錯誤",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), damages the user for 99% current HP, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Stoneskin: 100%], [Once in a Lifetime Mode] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), damages the user for 99% current HP, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Stoneskin: 100%], [Once in a Lifetime Mode] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), damages the user for 99% current HP, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Stoneskin: 100%], [Once in a Lifetime Mode] and [Brave Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20770010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770010/20770010_256.png",
+  "character": "Hope",
+  "name": "Reflecting Arc",
+  "name_jp": "リフレクトブーメラン",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XIII",
+  "elements": [
+    "Holy"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.73 each), grants [Holy Radiant Shield: 75%] to all allies, grants [Saintly Arc Finisher] and [Beyond Enlightened Mode 0] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Holy Radiant Shield: 75%] to all allies, grants [Saintly Arc Finisher] and [Beyond Enlightened Mode 0] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Holy Radiant Shield: 75%] to all allies, grants [Saintly Arc Finisher] and [Beyond Enlightened Mode 0] to the user"
+    }
+  ]
+}

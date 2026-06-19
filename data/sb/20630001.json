@@ -1,0 +1,27 @@
+{
+  "id": "20630001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630001/20630001_256.png",
+  "character": "Golbez",
+  "name": "Binding Cold",
+  "name_jp": "呪縛の冷気",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Causes [Paralyze] (20%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Paralyze] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Paralyze] (20%)"
+    }
+  ]
+}

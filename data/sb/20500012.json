@@ -1,0 +1,31 @@
+{
+  "id": "20500012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500012/20500012_256.png",
+  "character": "Quistis",
+  "name": "Mixed Breath",
+  "name_jp": "ミックスブレス",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.68 each), causes [Imperil Water 20% (25s)] and [Imperil Poison 20% (25s)], grants [Switch Draw Mode (Water, Poison)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), causes [Imperil Water 20% (25s)] and [Imperil Poison 20% (25s)], grants [Switch Draw Mode (Water, Poison)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), causes [Imperil Water 20% (25s)] and [Imperil Poison 20% (25s)], grants [Switch Draw Mode (Water, Poison)] and [Brave Mode] to the user"
+    }
+  ]
+}

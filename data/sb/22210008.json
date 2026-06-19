@@ -1,0 +1,30 @@
+{
+  "id": "22210008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210008/22210008_256.png",
+  "character": "Palom",
+  "name": "Thunderous Malady",
+  "name_jp": "サンダーシンドローム",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000] and [Rising Thunder Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000] and [Rising Thunder Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000] and [Rising Thunder Mode] to the user"
+    }
+  ]
+}

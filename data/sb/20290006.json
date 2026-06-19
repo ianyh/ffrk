@@ -1,0 +1,30 @@
+{
+  "id": "20290006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290006/20290006_256.png",
+  "character": "Luneth",
+  "name": "Heavenly Gust",
+  "name_jp": "天空の一閃",
+  "tier": "OSB",
+  "sb_version": "OSB1",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single ranged jump attack (11.20~14.50 scaling with Wind attacks used) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (11.20~14.50 scaling with Wind attacks used) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (11.20~14.50 scaling with Wind attacks used) capped at 99999"
+    }
+  ]
+}

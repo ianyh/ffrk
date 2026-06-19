@@ -1,0 +1,30 @@
+{
+  "id": "22540001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540001/22540001_256.png",
+  "character": "Seymour",
+  "name": "Anima's Pain",
+  "name_jp": "アニマ召喚・ペイン",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (2.18 each), causes [Imperil Dark 20%] for 25 seconds, causes [Instant KO] (9%), grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.18 each), causes [Imperil Dark 20%] for 25 seconds, causes [Instant KO] (9%), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.18 each), causes [Imperil Dark 20%] for 25 seconds, causes [Instant KO] (9%), grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

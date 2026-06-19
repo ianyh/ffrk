@@ -1,0 +1,30 @@
+{
+  "id": "23360004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360004/23360004_256.png",
+  "character": "Eight",
+  "name": "Icebound Billow",
+  "name_jp": "氷雪の型改・「怒涛」",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Monk], [Damage Cap +10000], [Physical Blink 3] and [Righteous Fist Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Monk], [Damage Cap +10000], [Physical Blink 3] and [Righteous Fist Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Monk], [Damage Cap +10000], [Physical Blink 3] and [Righteous Fist Mode] to the user"
+    }
+  ]
+}

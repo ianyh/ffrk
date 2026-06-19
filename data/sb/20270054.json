@@ -1,0 +1,30 @@
+{
+  "id": "20270054",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270054/20270054_256.png",
+  "character": "Firion",
+  "name": "War-Awoken Icicle Valor (Weapon Skill)",
+  "name_jp": "戦醒アイシクルヴァラー",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "II",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Ice;\nWS Blue: Grants [Lv.2 En-Ice Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, chases Ice abilities with 10 single-target Ice/NE physical attacks (max 5 chases)] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Ice;\nWS Blue: Grants [Lv.2 En-Ice Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, chases Ice abilities with 10 single-target Ice/NE physical attacks (max 5 chases)] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Ice;\nWS Blue: Grants [Lv.2 En-Ice Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, chases Ice abilities with 10 single-target Ice/NE physical attacks (max 5 chases)] to user"
+    }
+  ]
+}

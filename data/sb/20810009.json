@@ -1,0 +1,27 @@
+{
+  "id": "20810009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810009/20810009_256.png",
+  "character": "Gilgamesh",
+  "name": "Historic Splendor",
+  "name_jp": "歴史に残るかっこ良さ！",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Fire Chain (max 150, field +50%), [ATK +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
+    }
+  ]
+}

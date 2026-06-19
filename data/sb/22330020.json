@@ -1,0 +1,29 @@
+{
+  "id": "22330020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330020/22330020_256.png",
+  "character": "Papalymo",
+  "name": "Scion's Fire",
+  "name_jp": "サイオンズ・ファイア",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "XIV",
+  "elements": [
+    "Fire"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ]
+}

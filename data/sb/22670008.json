@@ -1,0 +1,27 @@
+{
+  "id": "22670008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670008/22670008_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Arcane Rampart",
+  "name_jp": "耐魔式 波動壁",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Magical Blink 1] and [Haste] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Blink 1] and [Haste] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Blink 1] and [Haste] to all allies"
+    }
+  ]
+}

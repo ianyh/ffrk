@@ -1,0 +1,32 @@
+{
+  "id": "20530046",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530046/20530046_256.png",
+  "character": "Edgar",
+  "name": "War-Awoken Brothership Ray (Weapon Skill)",
+  "name_jp": "戦醒ブラザーシップレイ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Poison, Fire, Lightning Damage Cap +20000 (Tactical)], [Poison, Fire, Lightning Ability DEF and RES 40% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Dualcast Poison, Fire, Lightning (Tactical) 5] to user if Level 2+ EnPoison or EnFire or EnLightning, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Poison, Fire, Lightning Damage Cap +20000 (Tactical)], [Poison, Fire, Lightning Ability DEF and RES 40% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Dualcast Poison, Fire, Lightning (Tactical) 5] to user if Level 2+ EnPoison or EnFire or EnLightning, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Poison, Fire, Lightning Damage Cap +20000 (Tactical)], [Poison, Fire, Lightning Ability DEF and RES 40% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Dualcast Poison, Fire, Lightning (Tactical) 5] to user if Level 2+ EnPoison or EnFire or EnLightning, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not."
+    }
+  ]
+}

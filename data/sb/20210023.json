@@ -1,0 +1,30 @@
+{
+  "id": "20210023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210023/20210023_256.png",
+  "character": "Celes",
+  "name": "Proud Blade",
+  "name_jp": "誇り高き常勝の剣",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Aria Mode] and [More the Merrier Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Aria Mode] and [More the Merrier Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Aria Mode] and [More the Merrier Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20990016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990016/20990016_256.png",
+  "character": "Rosa",
+  "name": "Sacred Devout",
+  "name_jp": "セイクリッドデボート",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Haste], [Regenga] and [High Quick Cast 3], removes negative effects, grants [Awoken Empath] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste], [Regenga] and [High Quick Cast 3], removes negative effects, grants [Awoken Empath] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste], [Regenga] and [High Quick Cast 3], removes negative effects, grants [Awoken Empath] to the user"
+    }
+  ]
+}

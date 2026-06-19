@@ -1,0 +1,27 @@
+{
+  "id": "22900025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900025/22900025_256.png",
+  "character": "Gladiolus",
+  "name": "Super Flash (Gladiolus)",
+  "name_jp": "超閃【グラディオラス】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Super Flash: Gladiolus Follow-Up], [Limit Break Gauge +250], and [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Super Flash: Gladiolus Follow-Up], [Limit Break Gauge +250], and [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Super Flash: Gladiolus Follow-Up], [Limit Break Gauge +250], and [Instant ATB 1] to user"
+    }
+  ]
+}

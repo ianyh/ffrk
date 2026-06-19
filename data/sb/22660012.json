@@ -1,0 +1,30 @@
+{
+  "id": "22660012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22660012/22660012_256.png",
+  "character": "Reynn",
+  "name": "Champions of Ice",
+  "name_jp": "セイヴァー・氷",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Buff Ice 30% (15s)] to all allies, grants [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Buff Ice 30% (15s)] to all allies, grants [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Buff Ice 30% (15s)] to all allies, grants [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], [Instant Cast 2] to the user"
+    }
+  ]
+}

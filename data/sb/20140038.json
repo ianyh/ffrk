@@ -1,0 +1,38 @@
+{
+  "id": "20140038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140038/20140038_256.png",
+  "character": "Tyro",
+  "name": "Radiant Luminous Myth",
+  "name_jp": "耀光神話「光彩陸離」",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Earth]/[Attach Wind]/[Attach Water]/[Attach Holy]/[Attach Dark]/[Attach Poison] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Tyro] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Earth]/[Attach Wind]/[Attach Water]/[Attach Holy]/[Attach Dark]/[Attach Poison] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Tyro] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Earth]/[Attach Wind]/[Attach Water]/[Attach Holy]/[Attach Dark]/[Attach Poison] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Tyro] to the user"
+    }
+  ]
+}

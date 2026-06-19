@@ -1,0 +1,27 @@
+{
+  "id": "22230007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230007/22230007_256.png",
+  "character": "Desch",
+  "name": "Lightning Embodied",
+  "name_jp": "我が命脈、雷となりて",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Lightning Chain (max 150, field +50%), [MAG +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
+    }
+  ]
+}

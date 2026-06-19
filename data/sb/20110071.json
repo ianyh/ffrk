@@ -1,0 +1,30 @@
+{
+  "id": "20110071",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110071/20110071_256.png",
+  "character": "Cloud",
+  "name": "Burst Break: Cloud (Wind) (Break Arte)",
+  "name_jp": "烈破・クラウド風",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Wind/NE Overflow physical attack, Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Wind/NE Overflow physical attack, Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Wind/NE Overflow physical attack, Instant ATB 1 to user"
+    }
+  ]
+}

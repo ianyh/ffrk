@@ -1,0 +1,30 @@
+{
+  "id": "22450028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450028/22450028_256.png",
+  "character": "Noel",
+  "name": "Divine Might: Noel",
+  "name_jp": "神威・ノエル",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing ranged attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Water abilities on allies/5+ Ice or Water abilities on allies and 2+ allies with Attach Ice or Water",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing ranged attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Water abilities on allies/5+ Ice or Water abilities on allies and 2+ allies with Attach Ice or Water"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing ranged attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Water abilities on allies/5+ Ice or Water abilities on allies and 2+ allies with Attach Ice or Water"
+    }
+  ]
+}

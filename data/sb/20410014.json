@@ -1,0 +1,30 @@
+{
+  "id": "20410014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410014/20410014_256.png",
+  "character": "Irvine",
+  "name": "Quick Canister",
+  "name_jp": "クイックキャニスター",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Dark Ammo-RF Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Dark Ammo-RF Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Dark Ammo-RF Follow-Up] to the user"
+    }
+  ]
+}

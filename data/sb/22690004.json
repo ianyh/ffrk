@@ -1,0 +1,27 @@
+{
+  "id": "22690004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690004/22690004_256.png",
+  "character": "Lion",
+  "name": "Pirate Pummel",
+  "name_jp": "パイレーツパメル",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Nine random attacks (0.78 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Nine random attacks (0.78 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Nine random attacks (0.78 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Instant Cast 2] to the user"
+    }
+  ]
+}

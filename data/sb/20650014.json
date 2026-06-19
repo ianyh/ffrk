@@ -1,0 +1,30 @@
+{
+  "id": "20650014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650014/20650014_256.png",
+  "character": "Galuf",
+  "name": "Laws of Nature",
+  "name_jp": "天理人情",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Damage Cap +10000], [Awoken Stalwart], [Last Stand], [Stoneskin: 100%] and [Do-or-Die] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Damage Cap +10000], [Awoken Stalwart], [Last Stand], [Stoneskin: 100%] and [Do-or-Die] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Damage Cap +10000], [Awoken Stalwart], [Last Stand], [Stoneskin: 100%] and [Do-or-Die] to the user"
+    }
+  ]
+}

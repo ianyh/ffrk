@@ -1,0 +1,29 @@
+{
+  "id": "23080012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080012/23080012_256.png",
+  "character": "Rem",
+  "name": "Saintly Dagger Boomerang",
+  "name_jp": "S・ブーメランダガー",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "Type-0",
+  "elements": [
+    "Holy"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (3.17 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (3.17 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (3.17 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ]
+}

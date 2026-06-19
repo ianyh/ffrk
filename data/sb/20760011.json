@@ -1,0 +1,27 @@
+{
+  "id": "20760011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760011/20760011_256.png",
+  "character": "Barret",
+  "name": "Avenging Flames",
+  "name_jp": "リベンジフレイム",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
+    }
+  ]
+}

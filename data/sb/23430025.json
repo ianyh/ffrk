@@ -1,0 +1,32 @@
+{
+  "id": "23430025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430025/23430025_256.png",
+  "character": "Trey",
+  "name": "Roaring Tri-Zip Arrow",
+  "name_jp": "轟・トライジップアロー",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Fire/Ice/Water/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Ice/Water Ability High Boost & chases Fire/Ice/Water abilities with 8 single-target Fire/Ice/Water/NE ranged physical attacks",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/Ice/Water/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Ice/Water Ability High Boost & chases Fire/Ice/Water abilities with 8 single-target Fire/Ice/Water/NE ranged physical attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/Ice/Water/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Ice/Water Ability High Boost & chases Fire/Ice/Water abilities with 8 single-target Fire/Ice/Water/NE ranged physical attacks"
+    }
+  ]
+}

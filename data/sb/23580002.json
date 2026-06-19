@@ -1,0 +1,27 @@
+{
+  "id": "23580002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580002/23580002_256.png",
+  "character": "Shadowsmith",
+  "name": "Guardians of History",
+  "name_jp": "歴史の守護者たち",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party"
+    }
+  ]
+}

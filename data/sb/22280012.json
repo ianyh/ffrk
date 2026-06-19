@@ -1,0 +1,27 @@
+{
+  "id": "22280012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280012/22280012_256.png",
+  "character": "Wol",
+  "name": "Awoken Sudden Smite (Dual Shift)",
+  "name_jp": "覚醒サドンスマイト",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Cosmic Warrior Mode II (Wol)] to the user, removes [Dual Awoken Cosmic Warrior Mode I (Wol)] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Cosmic Warrior Mode II (Wol)] to the user, removes [Dual Awoken Cosmic Warrior Mode I (Wol)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Cosmic Warrior Mode II (Wol)] to the user, removes [Dual Awoken Cosmic Warrior Mode I (Wol)] from the user"
+    }
+  ]
+}

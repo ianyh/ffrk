@@ -1,0 +1,30 @@
+{
+  "id": "23160002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160002/23160002_256.png",
+  "character": "Xezat",
+  "name": "Spellstorm Frostclash",
+  "name_jp": "魔法剣技・轟氷閃",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "V",
+  "elements": [
+    "Ice",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (0.79 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.79 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.79 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

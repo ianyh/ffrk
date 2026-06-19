@@ -1,0 +1,27 @@
+{
+  "id": "20780036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780036/20780036_256.png",
+  "character": "Setzer",
+  "name": "Soul Drive: Setzer (Dark)",
+  "name_jp": "SD・セッツァー闇",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants En-Dark to members with/without En-Dark & Quick ATB 1 to user after casting SB, removes Soul Drive Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants En-Dark to members with/without En-Dark & Quick ATB 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants En-Dark to members with/without En-Dark & Quick ATB 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ]
+}

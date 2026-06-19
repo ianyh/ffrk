@@ -1,0 +1,27 @@
+{
+  "id": "22750003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22750003/22750003_256.png",
+  "character": "Meia",
+  "name": "Meia Sync",
+  "name_jp": "メイアシンクロ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "[MAG +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds"
+    }
+  ]
+}

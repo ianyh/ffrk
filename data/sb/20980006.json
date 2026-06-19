@@ -1,0 +1,27 @@
+{
+  "id": "20980006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980006/20980006_256.png",
+  "character": "Edge",
+  "name": "Eblan Doppelganger",
+  "name_jp": "エブラーナ流・分身",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste], [Last Stand] and [Physical Blink 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [Last Stand] and [Physical Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [Last Stand] and [Physical Blink 1]"
+    }
+  ]
+}

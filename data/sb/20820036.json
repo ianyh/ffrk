@@ -1,0 +1,31 @@
+{
+  "id": "20820036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820036/20820036_256.png",
+  "character": "Seifer",
+  "name": "War-Awoken Knight's Purge (Weapon Skill)",
+  "name_jp": "戦醒騎士の粛清",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Dark/Fire/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark/Fire\nWS Blue: Lv.2 En-Dark/Fire Stack to user\nWS Gold: Surging Power 30% for 6 turns to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/Fire/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark/Fire\nWS Blue: Lv.2 En-Dark/Fire Stack to user\nWS Gold: Surging Power 30% for 6 turns to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/Fire/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark/Fire\nWS Blue: Lv.2 En-Dark/Fire Stack to user\nWS Gold: Surging Power 30% for 6 turns to all allies"
+    }
+  ]
+}

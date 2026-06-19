@@ -1,0 +1,27 @@
+{
+  "id": "20320013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320013/20320013_256.png",
+  "character": "Vanille",
+  "name": "Rose Promenade",
+  "name_jp": "プロムナード・ロゼ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [High Quick Cast 2] and [Haste], grants [Awoken Empath] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [High Quick Cast 2] and [Haste], grants [Awoken Empath] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [High Quick Cast 2] and [Haste], grants [Awoken Empath] to the user"
+    }
+  ]
+}

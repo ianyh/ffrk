@@ -1,0 +1,27 @@
+{
+  "id": "23090003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090003/23090003_256.png",
+  "character": "Machina",
+  "name": "Slayer of Fear",
+  "name_jp": "恐れを司る者",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[RES +100%] for 25 seconds, grants [Haste] and [Critical Damage +50%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[RES +100%] for 25 seconds, grants [Haste] and [Critical Damage +50%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[RES +100%] for 25 seconds, grants [Haste] and [Critical Damage +50%]"
+    }
+  ]
+}

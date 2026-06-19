@@ -1,0 +1,30 @@
+{
+  "id": "20560026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560026/20560026_256.png",
+  "character": "Maria",
+  "name": "Radiant Meteor CXXVIII",
+  "name_jp": "耀光メテオ128",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single Enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Maria (Earth)] to user. Grants [Attach Earth with Stacking].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Maria (Earth)] to user. Grants [Attach Earth with Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Maria (Earth)] to user. Grants [Attach Earth with Stacking]."
+    }
+  ]
+}

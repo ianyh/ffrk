@@ -1,0 +1,27 @@
+{
+  "id": "23320030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320030/23320030_256.png",
+  "character": "Wedge",
+  "name": "War-Awoken Shadowbind Twinflash!",
+  "name_jp": "戦醒影縫い双閃！",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Wedge (Poison)], [ATK and MAG +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Wedge (Poison)], [ATK and MAG +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Wedge (Poison)], [ATK and MAG +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22240033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240033/22240033_256.png",
+  "character": "Kuja",
+  "name": "War-Awoken Ruinous Siege",
+  "name_jp": "戦醒破滅への包囲網",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kuja], [MAG +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kuja], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kuja], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

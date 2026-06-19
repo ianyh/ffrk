@@ -1,0 +1,30 @@
+{
+  "id": "22650005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650005/22650005_256.png",
+  "character": "Lann",
+  "name": "Atomic Impact",
+  "name_jp": "アトミックインパクト",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Stoneskin: 100%] and [Surge Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Stoneskin: 100%] and [Surge Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Stoneskin: 100%] and [Surge Mode] to the user"
+    }
+  ]
+}

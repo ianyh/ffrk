@@ -1,0 +1,27 @@
+{
+  "id": "20850003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850003/20850003_256.png",
+  "character": "Gau",
+  "name": "Meteor Rage",
+  "name_jp": "あばれる：メテオ",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged attacks (2.05 each), grants [Rage] to the user for 3 turns",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.05 each), grants [Rage] to the user for 3 turns"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.05 each), grants [Rage] to the user for 3 turns"
+    }
+  ]
+}

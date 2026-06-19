@@ -1,0 +1,27 @@
+{
+  "id": "20140033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140033/20140033_256.png",
+  "character": "Tyro",
+  "name": "Swift Flash (Tyro)",
+  "name_jp": "迅閃【デシ】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Quick Cast 1], grants [Soul Break Gauge +250] and [Limit Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 1], grants [Soul Break Gauge +250] and [Limit Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 1], grants [Soul Break Gauge +250] and [Limit Break Gauge +250] to the user"
+    }
+  ]
+}

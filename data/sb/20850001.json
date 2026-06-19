@@ -1,0 +1,27 @@
+{
+  "id": "20850001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850001/20850001_256.png",
+  "character": "Gau",
+  "name": "Rage I",
+  "name_jp": "あばれるⅠ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (1.50), grants [Rage] to the user for 2 turns",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50), grants [Rage] to the user for 2 turns"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50), grants [Rage] to the user for 2 turns"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "22380010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22380010/22380010_256.png",
+  "character": "Delita",
+  "name": "Hero-King's Ruination",
+  "name_jp": "英雄王・聖光爆裂破",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Lightning",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Quad Element Mode III (Fire, Ice, Lightning, Holy)], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Unyielding Flurry Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Quad Element Mode III (Fire, Ice, Lightning, Holy)], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Unyielding Flurry Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Quad Element Mode III (Fire, Ice, Lightning, Holy)], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Unyielding Flurry Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20760027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760027/20760027_256.png",
+  "character": "Barret",
+  "name": "Continuous Flash: Barret (Fire) II",
+  "name_jp": "連閃・バレット炎II",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "6 single-target Fire/NE ranged physical attacks, 250 SB Points & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "6 single-target Fire/NE ranged physical attacks, 250 SB Points & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "6 single-target Fire/NE ranged physical attacks, 250 SB Points & Quick ATB 1 to user"
+    }
+  ]
+}

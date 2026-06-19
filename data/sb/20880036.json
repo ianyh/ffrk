@@ -1,0 +1,32 @@
+{
+  "id": "20880036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880036/20880036_256.png",
+  "character": "Lulu",
+  "name": "War-Awoken Doll Embrace (Weapon Skill)",
+  "name_jp": "戦醒ドールエンブレイス",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Water",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (31.00 each) capped at 199,999. Grants [Ice, Lightning, Water Damage Cap +20000 (Tactical)], [Ice, Lightning, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice, Lightning, Water Ability +60% Boost (Tactical)] to user if Level 2+ EnIce or EnWater or EnLightning, grants [Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Ice, Lightning, Water Damage Cap +20000 (Tactical)], [Ice, Lightning, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice, Lightning, Water Ability +60% Boost (Tactical)] to user if Level 2+ EnIce or EnWater or EnLightning, grants [Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Ice, Lightning, Water Damage Cap +20000 (Tactical)], [Ice, Lightning, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice, Lightning, Water Ability +60% Boost (Tactical)] to user if Level 2+ EnIce or EnWater or EnLightning, grants [Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not."
+    }
+  ]
+}

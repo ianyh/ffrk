@@ -1,0 +1,30 @@
+{
+  "id": "22810014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810014/22810014_256.png",
+  "character": "Nine",
+  "name": "Spear Torpedo",
+  "name_jp": "シュートランサー",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Type-0",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [ATK and MND +30%, DEF and RES +25% (25s)]/[ATK, DEF, MAG and RES +30% (25s)] to all allies if 0-4/4+ Type-0 allies are alive, grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Spear Torpedo] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [ATK and MND +30%, DEF and RES +25% (25s)]/[ATK, DEF, MAG and RES +30% (25s)] to all allies if 0-4/4+ Type-0 allies are alive, grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Spear Torpedo] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [ATK and MND +30%, DEF and RES +25% (25s)]/[ATK, DEF, MAG and RES +30% (25s)] to all allies if 0-4/4+ Type-0 allies are alive, grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Spear Torpedo] to the user"
+    }
+  ]
+}

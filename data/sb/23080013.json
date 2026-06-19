@@ -1,0 +1,30 @@
+{
+  "id": "23080013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080013/23080013_256.png",
+  "character": "Rem",
+  "name": "Dagger Toss",
+  "name_jp": "ダガーショット",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (35.15/38.67/42.18) capped at 99999 at Dagger Toss level 0/1/2, removes Arcane Dyad Empowered: Rem from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (35.15/38.67/42.18) capped at 99999 at Dagger Toss level 0/1/2, removes Arcane Dyad Empowered: Rem from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (35.15/38.67/42.18) capped at 99999 at Dagger Toss level 0/1/2, removes Arcane Dyad Empowered: Rem from the user"
+    }
+  ]
+}

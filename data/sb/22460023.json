@@ -1,0 +1,30 @@
+{
+  "id": "22460023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460023/22460023_256.png",
+  "character": "Onion Knight",
+  "name": "Channel Earth",
+  "name_jp": "地の潜在力・魔",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "III",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [MAG, RES and MND +30% (25s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Magus of Earth] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG, RES and MND +30% (25s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Magus of Earth] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG, RES and MND +30% (25s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Magus of Earth] to the user"
+    }
+  ]
+}

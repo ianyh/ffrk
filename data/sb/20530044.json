@@ -1,0 +1,32 @@
+{
+  "id": "20530044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530044/20530044_256.png",
+  "character": "Edgar",
+  "name": "Radiant Machinery Combo",
+  "name_jp": "耀光マシーナリーコンボ",
+  "tier": "CASB",
+  "sb_version": "CASB2",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Edgar (Poison/Fire/Lightning)] to user. Causes [Imperil Prismatic 20% (15s)] if there are at least 4 VI party members, causes [Imperil Fire 20% (15s)], [Imperil Lightning 20% (15s)], and [Imperil Poison 20% (15s)] if not. Grants [Attach Poison with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] based on if entry damage was Poison/Fire/Lightning.\n",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Edgar (Poison/Fire/Lightning)] to user. Causes [Imperil Prismatic 20% (15s)] if there are at least 4 VI party members, causes [Imperil Fire 20% (15s)], [Imperil Lightning 20% (15s)], and [Imperil Poison 20% (15s)] if not. Grants [Attach Poison with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] based on if entry damage was Poison/Fire/Lightning.\n"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Edgar (Poison/Fire/Lightning)] to user. Causes [Imperil Prismatic 20% (15s)] if there are at least 4 VI party members, causes [Imperil Fire 20% (15s)], [Imperil Lightning 20% (15s)], and [Imperil Poison 20% (15s)] if not. Grants [Attach Poison with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] based on if entry damage was Poison/Fire/Lightning.\n"
+    }
+  ]
+}

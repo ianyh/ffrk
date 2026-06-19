@@ -1,0 +1,27 @@
+{
+  "id": "20780005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780005/20780005_256.png",
+  "character": "Setzer",
+  "name": "Red Card",
+  "name_jp": "ブラッディカード",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.97 each), [ATK, DEF, MAG and RES -40%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.97 each), [ATK, DEF, MAG and RES -40%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.97 each), [ATK, DEF, MAG and RES -40%] for 25 seconds"
+    }
+  ]
+}

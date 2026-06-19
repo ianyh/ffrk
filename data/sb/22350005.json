@@ -1,0 +1,27 @@
+{
+  "id": "22350005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350005/22350005_256.png",
+  "character": "Edward",
+  "name": "Song of Hope",
+  "name_jp": "希望の歌",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds"
+    }
+  ]
+}

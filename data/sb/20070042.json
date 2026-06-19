@@ -1,0 +1,46 @@
+{
+  "id": "20070042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070042/20070042_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Roaring Paladin Arts",
+  "name_jp": "轟・パラディンアーツ",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single Enemy",
+  "lensable": false,
+  "effects": "Five single hybrid attacks (0.80 or 2.70 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Cecil (Paladin) (Holy)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single hybrid attacks (0.80 or 2.70 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Cecil (Paladin) (Holy)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Accel Mode: Cecil (Paladin) (Holy)",
+      "text": "Holy abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Cecil (Paladin) after using Holy  abilities, removed if the character hasn't [Accel Mode]"
+    },
+    {
+      "name": "Roaring Cecil (Paladin)",
+      "text": "Six single hybrid attacks (0.60 or 1.60 each), grants [Buff Holy 10% (5s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single hybrid attacks (0.80 or 2.70 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Cecil (Paladin) (Holy)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Accel Mode: Cecil (Paladin) (Holy)",
+      "text": "Holy abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Cecil (Paladin) after using Holy  abilities, removed if the character hasn't [Accel Mode]"
+    },
+    {
+      "name": "Roaring Cecil (Paladin)",
+      "text": "Six single hybrid attacks (0.60 or 1.60 each), grants [Buff Holy 10% (5s)] to the user"
+    }
+  ]
+}

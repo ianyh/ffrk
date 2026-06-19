@@ -1,0 +1,31 @@
+{
+  "id": "23510003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510003/23510003_256.png",
+  "character": "Alisaie",
+  "name": "Embolden Combo",
+  "name_jp": "エンボルデンコンボ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Weakness +30% Boost 1] to all allies, grants [Awoken Scion Red Mage], [Damage Cap +10000], [Twin Element Mode (Lightning, Wind)] and [Embolden Combo] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Weakness +30% Boost 1] to all allies, grants [Awoken Scion Red Mage], [Damage Cap +10000], [Twin Element Mode (Lightning, Wind)] and [Embolden Combo] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Weakness +30% Boost 1] to all allies, grants [Awoken Scion Red Mage], [Damage Cap +10000], [Twin Element Mode (Lightning, Wind)] and [Embolden Combo] to the user"
+    }
+  ]
+}

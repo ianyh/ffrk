@@ -1,0 +1,27 @@
+{
+  "id": "22960004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960004/22960004_256.png",
+  "character": "Aria",
+  "name": "Seaborne Encounter",
+  "name_jp": "大海原の邂逅",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "III",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Fire Stoneskin: 100%] and [High Regen]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Fire Stoneskin: 100%] and [High Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Fire Stoneskin: 100%] and [High Regen]"
+    }
+  ]
+}

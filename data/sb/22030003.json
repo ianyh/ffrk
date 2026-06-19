@@ -1,0 +1,27 @@
+{
+  "id": "22030003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030003/22030003_256.png",
+  "character": "Fang",
+  "name": "High Dive",
+  "name_jp": "インパクトダイブ",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged jump attacks (1.40 each), [DEF and RES -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged jump attacks (1.40 each), [DEF and RES -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged jump attacks (1.40 each), [DEF and RES -50%] for 25 seconds"
+    }
+  ]
+}

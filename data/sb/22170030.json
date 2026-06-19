@@ -1,0 +1,30 @@
+{
+  "id": "22170030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170030/22170030_256.png",
+  "character": "Vincent",
+  "name": "Radiant Marksman's Spite",
+  "name_jp": "耀光魔弾の射手",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target ranged hybrid attacks (0.90/3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE ranged hybrid attacks (2.00/6.60 each) capped at 19999, minor Imperil Fire, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target ranged hybrid attacks (0.90/3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE ranged hybrid attacks (2.00/6.60 each) capped at 19999, minor Imperil Fire, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target ranged hybrid attacks (0.90/3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE ranged hybrid attacks (2.00/6.60 each) capped at 19999, minor Imperil Fire, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

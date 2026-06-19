@@ -1,0 +1,30 @@
+{
+  "id": "22370010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370010/22370010_256.png",
+  "character": "Gabranth",
+  "name": "Endless Wail",
+  "name_jp": "果て無き慟哭",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Judge], [Damage Cap +10000] and [Quick Cast] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Judge], [Damage Cap +10000] and [Quick Cast] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Judge], [Damage Cap +10000] and [Quick Cast] to the user"
+    }
+  ]
+}

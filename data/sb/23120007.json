@@ -1,0 +1,31 @@
+{
+  "id": "23120007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120007/23120007_256.png",
+  "character": "Estinien",
+  "name": "Crimson Dragoon",
+  "name_jp": "紅の竜騎士",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged jump attacks (0.71 each), grants [Twin Element Mode II (Wind, Dark)], [Jump Instant Cast] and [Wind, Dark Ability +30% Boost (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Twin Element Mode II (Wind, Dark)], [Jump Instant Cast] and [Wind, Dark Ability +30% Boost (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Twin Element Mode II (Wind, Dark)], [Jump Instant Cast] and [Wind, Dark Ability +30% Boost (15s)] to the user"
+    }
+  ]
+}

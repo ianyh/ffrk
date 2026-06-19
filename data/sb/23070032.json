@@ -1,0 +1,27 @@
+{
+  "id": "23070032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070032/23070032_256.png",
+  "character": "Marcus",
+  "name": "Continuous Flash: Marcus II",
+  "name_jp": "連閃・マーカスII",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
+    }
+  ]
+}

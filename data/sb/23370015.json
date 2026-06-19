@@ -1,0 +1,32 @@
+{
+  "id": "23370015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370015/23370015_256.png",
+  "character": "Cater",
+  "name": "Trine Blast Shot",
+  "name_jp": "三色炸裂弾",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Ice, Lightning)] and [Snipe Charge Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Ice, Lightning)] and [Snipe Charge Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Ice, Lightning)] and [Snipe Charge Follow-Up] to the user"
+    }
+  ]
+}

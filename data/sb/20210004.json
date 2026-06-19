@@ -1,0 +1,27 @@
+{
+  "id": "20210004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210004/20210004_256.png",
+  "character": "Celes",
+  "name": "Indomitable Blade",
+  "name_jp": "華麗なる常勝の剣",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (1.58 each), grants [High Runic] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.58 each), grants [High Runic] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.58 each), grants [High Runic] to the user for 25 seconds"
+    }
+  ]
+}

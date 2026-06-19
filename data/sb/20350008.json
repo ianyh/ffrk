@@ -1,0 +1,30 @@
+{
+  "id": "20350008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350008/20350008_256.png",
+  "character": "Squall",
+  "name": "Steely Blade",
+  "name_jp": "冷刃",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ]
+}

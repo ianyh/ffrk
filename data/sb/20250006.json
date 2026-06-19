@@ -1,0 +1,27 @@
+{
+  "id": "20250006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250006/20250006_256.png",
+  "character": "Sephiroth",
+  "name": "Reunion",
+  "name_jp": "リユニオン",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (1.54 each), grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.54 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.54 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

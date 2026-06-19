@@ -1,0 +1,27 @@
+{
+  "id": "20360034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360034/20360034_256.png",
+  "character": "Garnet",
+  "name": "Fated Bond: Garnet",
+  "name_jp": "絆・ガーネット天命",
+  "tier": "CSB",
+  "sb_version": "CSB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Summoning Chain (max 150, field +50%), grants [MAG +50% (25s)] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Summoning Chain (max 150, field +50%), grants [MAG +50% (25s)] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Summoning Chain (max 150, field +50%), grants [MAG +50% (25s)] and [Haste]"
+    }
+  ]
+}

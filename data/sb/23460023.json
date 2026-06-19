@@ -1,0 +1,27 @@
+{
+  "id": "23460023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460023/23460023_256.png",
+  "character": "Lunafreya",
+  "name": "Awoken Duty Fulfilled (Dual Shift)",
+  "name_jp": "覚醒果たされた使命",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Water God Mode II to user\nDual Awoken Water God Mode II: Water Ability Boost, Instant Water & chases a Water ability with Dualcast Water 1 to party and Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Water God Mode II to user\nDual Awoken Water God Mode II: Water Ability Boost, Instant Water & chases a Water ability with Dualcast Water 1 to party and Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Water God Mode II to user\nDual Awoken Water God Mode II: Water Ability Boost, Instant Water & chases a Water ability with Dualcast Water 1 to party and Quick ATB 1 to user"
+    }
+  ]
+}

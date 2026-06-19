@@ -1,0 +1,32 @@
+{
+  "id": "23050006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23050006/23050006_256.png",
+  "character": "Montblanc",
+  "name": "Black Geomancy Combo",
+  "name_jp": "属性強化・黒コンボ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Haste] to all allies, grants [Tri-Element Mode (Fire, Ice, Lightning)], [Awoken Clanmate], [Damage Cap +10000] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Haste] to all allies, grants [Tri-Element Mode (Fire, Ice, Lightning)], [Awoken Clanmate], [Damage Cap +10000] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Haste] to all allies, grants [Tri-Element Mode (Fire, Ice, Lightning)], [Awoken Clanmate], [Damage Cap +10000] and [Instant Cast 1] to the user"
+    }
+  ]
+}

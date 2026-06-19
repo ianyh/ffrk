@@ -1,0 +1,27 @@
+{
+  "id": "22390007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390007/22390007_256.png",
+  "character": "Ovelia",
+  "name": "Desperate Plea",
+  "name_jp": "切なる願いの叫び！",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "FFT",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Stoneskin: 30%], grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Stoneskin: 30%], grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Stoneskin: 30%], grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

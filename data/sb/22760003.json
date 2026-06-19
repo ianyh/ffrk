@@ -1,0 +1,27 @@
+{
+  "id": "22760003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760003/22760003_256.png",
+  "character": "Nabaat",
+  "name": "Imperil",
+  "name_jp": "ウィーク",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XIII",
+  "elements": [],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "[DEF and RES -20%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and RES -20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and RES -20%] for 25 seconds"
+    }
+  ]
+}

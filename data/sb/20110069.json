@@ -1,0 +1,30 @@
+{
+  "id": "20110069",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110069/20110069_256.png",
+  "character": "Cloud",
+  "name": "War-Awoken Inherited Pride (Weapon Skill)",
+  "name_jp": "戦醒受け継がれる誇り",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Wind/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Wind Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Wind\nWS Blue: Lv.2 En-Wind Stack to user\nWS Gold: [During Tactical Awoken Mode, Wind Ability Damage +50% & chases Wind abilities with 20 single-target Wind/NE physical attacks, Instant Cast 1 to user (max 2 chases)] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Wind Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Wind\nWS Blue: Lv.2 En-Wind Stack to user\nWS Gold: [During Tactical Awoken Mode, Wind Ability Damage +50% & chases Wind abilities with 20 single-target Wind/NE physical attacks, Instant Cast 1 to user (max 2 chases)] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Wind Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Wind\nWS Blue: Lv.2 En-Wind Stack to user\nWS Gold: [During Tactical Awoken Mode, Wind Ability Damage +50% & chases Wind abilities with 20 single-target Wind/NE physical attacks, Instant Cast 1 to user (max 2 chases)] to user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20400070",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400070/20400070_256.png",
+  "character": "Bartz",
+  "name": "Radiant Gale Spellblade",
+  "name_jp": "耀光魔法剣・疾風",
+  "tier": "CASB",
+  "sb_version": "CASB2",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Wind/NE physical attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Spellblade Ability Boost, Dualcast Spellblade, Zero Hone Cost to Spellblade Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Spellblade, Spellblade Damage +30%, Dualcast Spellblade, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Wind/NE physical attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Spellblade Ability Boost, Dualcast Spellblade, Zero Hone Cost to Spellblade Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Spellblade, Spellblade Damage +30%, Dualcast Spellblade, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Wind/NE physical attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Spellblade Ability Boost, Dualcast Spellblade, Zero Hone Cost to Spellblade Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Spellblade, Spellblade Damage +30%, Dualcast Spellblade, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

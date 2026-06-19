@@ -1,0 +1,27 @@
+{
+  "id": "21000059",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000059/21000059_256.png",
+  "character": "-",
+  "name": "Provoke",
+  "name_jp": "挑発",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Draw Fire] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Draw Fire] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Draw Fire] for 25 seconds"
+    }
+  ]
+}

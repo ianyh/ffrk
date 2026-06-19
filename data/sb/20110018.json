@@ -1,0 +1,30 @@
+{
+  "id": "20110018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110018/20110018_256.png",
+  "character": "Cloud",
+  "name": "Darkpetal Bloom",
+  "name_jp": "黒華狂咲",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Dark], [Heavy Charge Booster] and [Darkness Blow Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Heavy Charge Booster] and [Darkness Blow Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Heavy Charge Booster] and [Darkness Blow Follow-Up] to the user"
+    }
+  ]
+}

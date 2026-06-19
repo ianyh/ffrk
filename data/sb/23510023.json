@@ -1,0 +1,31 @@
+{
+  "id": "23510023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510023/23510023_256.png",
+  "character": "Alisaie",
+  "name": "War-Awoken Prefulgence (Weapon Skill)",
+  "name_jp": "戦醒プリフルジェンス",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Wind/Lightning;\nWS Blue: [Lv.2 En-Wind/Lightning to user]\nWS Gold: [Instant Magic 3 & Sorcery Damage +30% for 3 turns to party]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Wind/Lightning;\nWS Blue: [Lv.2 En-Wind/Lightning to user]\nWS Gold: [Instant Magic 3 & Sorcery Damage +30% for 3 turns to party]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Wind/Lightning;\nWS Blue: [Lv.2 En-Wind/Lightning to user]\nWS Gold: [Instant Magic 3 & Sorcery Damage +30% for 3 turns to party]"
+    }
+  ]
+}

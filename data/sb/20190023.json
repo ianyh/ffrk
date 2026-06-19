@@ -1,0 +1,30 @@
+{
+  "id": "20190023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190023/20190023_256.png",
+  "character": "Josef",
+  "name": "Ice Flash (Josef)",
+  "name_jp": "氷閃【ヨーゼフ】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "II",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    }
+  ]
+}

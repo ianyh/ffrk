@@ -1,0 +1,27 @@
+{
+  "id": "22230019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230019/22230019_256.png",
+  "character": "Desch",
+  "name": "Awoken Owen's Rage (Dual Shift)",
+  "name_jp": "覚醒オーエンの怒り",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Desch)], removes [Dual Awoken Lightning Mode I (Desch)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Desch)], removes [Dual Awoken Lightning Mode I (Desch)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Desch)], removes [Dual Awoken Lightning Mode I (Desch)]"
+    }
+  ]
+}

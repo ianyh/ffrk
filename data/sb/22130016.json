@@ -1,0 +1,27 @@
+{
+  "id": "22130016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130016/22130016_256.png",
+  "character": "Leila",
+  "name": "Aqua Venom",
+  "name_jp": "アクアベノム",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]"
+    }
+  ]
+}

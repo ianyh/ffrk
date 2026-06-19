@@ -1,0 +1,29 @@
+{
+  "id": "20330004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330004/20330004_256.png",
+  "character": "Warrior of Light",
+  "name": "Crossover",
+  "name_jp": "クロスオーバー",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "I",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.30 each), [RES +100%] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.30 each), [RES +100%] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.30 each), [RES +100%] to the user for 25 seconds"
+    }
+  ]
+}

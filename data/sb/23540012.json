@@ -1,0 +1,77 @@
+{
+  "id": "23540012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540012/23540012_256.png",
+  "character": "Arciela",
+  "name": "Zenith Sight Unseen",
+  "name_jp": "究極サイトアンシーン",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] if entry damage was Ice/Lightning/Water/Wind, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Arciela] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] if entry damage was Ice/Lightning/Water/Wind, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Arciela] to the user"
+    },
+    {
+      "name": "Zenith Mode: Arciela",
+      "text": "Increases [Ice/Lightning/Wind/Water Infusion] damage bonus by 20%, cast speed x1.10 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage, Ice, Lightning, Wind or Water abilities trigger 1 additional time, casts Spirit Attack: Arciela after using two Ice, Lightning, Wind or Water abilities (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Harmonic Displacement+",
+      "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Arciela",
+      "text": "Grants [Ice/Lightning/Water/Wind Ability +10% Boost 3]/[Prismatic Ability +30% Boost 3] if 0-3/4+ FFXI allies are alive"
+    },
+    {
+      "name": "Attach Ice 2 with Stacking",
+      "text": "Increase Attach Ice Level by 2 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Attach Lightning 2 with Stacking",
+      "text": "Increase Attach Lightning Level by 2 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Attach Water 2 with Stacking",
+      "text": "Increase Attach Water Level by 2 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Attach Wind 2 with Stacking",
+      "text": "Increase Attach Wind Level by 2 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] if entry damage was Ice/Lightning/Water/Wind, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Arciela] to the user"
+    },
+    {
+      "name": "Harmonic Displacement+",
+      "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Arciela",
+      "text": "Grants [Ice/Lightning/Water/Wind Ability +10% Boost 3]/[Prismatic Ability +30% Boost 3] if 0-3/4+ FFXI allies are alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20690006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690006/20690006_256.png",
+  "character": "Auron",
+  "name": "Bushido",
+  "name_jp": "秘伝",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "X",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group attacks (1.19 each), grants [Bushido] to the user for 30 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (1.19 each), grants [Bushido] to the user for 30 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (1.19 each), grants [Bushido] to the user for 30 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

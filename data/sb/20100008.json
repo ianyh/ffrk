@@ -1,0 +1,30 @@
+{
+  "id": "20100008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100008/20100008_256.png",
+  "character": "Terra",
+  "name": "Omen",
+  "name_jp": "予兆",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Fire] to the user, grants [Magitek EX Mode] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Fire] to the user, grants [Magitek EX Mode] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Fire] to the user, grants [Magitek EX Mode] to the user for 25 seconds"
+    }
+  ]
+}

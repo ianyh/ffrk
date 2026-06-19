@@ -1,0 +1,27 @@
+{
+  "id": "20710023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710023/20710023_256.png",
+  "character": "Ashe",
+  "name": "Liberator's Truth",
+  "name_jp": "歴史の解放者",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ]
+}

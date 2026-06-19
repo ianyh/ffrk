@@ -1,0 +1,30 @@
+{
+  "id": "22340005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340005/22340005_256.png",
+  "character": "Yang",
+  "name": "Shuddering Fist",
+  "name_jp": "師父烈震拳",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Earth], [Furious Kick Finisher] and [Frying Pan 0] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Earth], [Furious Kick Finisher] and [Frying Pan 0] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Earth], [Furious Kick Finisher] and [Frying Pan 0] to the user"
+    }
+  ]
+}

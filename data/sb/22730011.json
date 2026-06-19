@@ -1,0 +1,27 @@
+{
+  "id": "22730011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730011/22730011_256.png",
+  "character": "Gogo (V)",
+  "name": "Punishing Waterja",
+  "name_jp": "おしおきウォタジャ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Quick Cast 3], grants [Attach Water with Stacking], [Awoken Virtuoso], and [Damage Cap +10000] to the user, casts the last ability used by any ally three times, default ability (PHY: single, 1.50 physical)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3], grants [Attach Water with Stacking], [Awoken Virtuoso], and [Damage Cap +10000] to the user, casts the last ability used by any ally three times, default ability (PHY: single, 1.50 physical)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3], grants [Attach Water with Stacking], [Awoken Virtuoso], and [Damage Cap +10000] to the user, casts the last ability used by any ally three times, default ability (PHY: single, 1.50 physical)"
+    }
+  ]
+}

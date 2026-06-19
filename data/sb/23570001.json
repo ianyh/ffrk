@@ -1,0 +1,30 @@
+{
+  "id": "23570001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23570001/23570001_256.png",
+  "character": "Clive",
+  "name": "Radiant Embrace Your Power",
+  "name_jp": "耀光受け入れし己の力",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XVI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single attacks (0.90 each) capped at 19999, [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Clive] to the user\nCrystal Force Mode: Clive: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce, grants [Fire Ability Instant Cast 1] and [True Damage Cap 199999 1] to the user after using Crustsal Force II",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Clive] to the user\nCrystal Force Mode: Clive: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce, grants [Fire Ability Instant Cast 1] and [True Damage Cap 199999 1] to the user after using Crustsal Force II"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Clive] to the user\nCrystal Force Mode: Clive: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce, grants [Fire Ability Instant Cast 1] and [True Damage Cap 199999 1] to the user after using Crustsal Force II"
+    }
+  ]
+}

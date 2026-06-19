@@ -1,0 +1,30 @@
+{
+  "id": "20220022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220022/20220022_256.png",
+  "character": "Cyan",
+  "name": "Woven Bond: Cyan",
+  "name_jp": "紡絆・カイエン",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates VI Chain (max 150, field +0%) or adds 25 to the current VI Chain maximum limit, grants [Chain Force Mode: Cyan] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates VI Chain (max 150, field +0%) or adds 25 to the current VI Chain maximum limit, grants [Chain Force Mode: Cyan] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates VI Chain (max 150, field +0%) or adds 25 to the current VI Chain maximum limit, grants [Chain Force Mode: Cyan] and [Instant ATB 1] to the user"
+    }
+  ]
+}

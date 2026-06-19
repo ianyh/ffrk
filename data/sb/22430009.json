@@ -1,0 +1,30 @@
+{
+  "id": "22430009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430009/22430009_256.png",
+  "character": "Guy",
+  "name": "Silent Support",
+  "name_jp": "寡黙なる支え",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Silent Support level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Guy from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Silent Support level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Guy from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Silent Support level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Guy from the user"
+    }
+  ]
+}

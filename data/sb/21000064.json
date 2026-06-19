@@ -1,0 +1,29 @@
+{
+  "id": "21000064",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000064/21000064_256.png",
+  "character": "-",
+  "name": "Will-o'-the-Wisp",
+  "name_jp": "おにび",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [
+    "Fire"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (4.70), causes [Confuse] (50%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (4.70), causes [Confuse] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (4.70), causes [Confuse] (50%)"
+    }
+  ]
+}

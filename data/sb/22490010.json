@@ -1,0 +1,31 @@
+{
+  "id": "22490010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490010/22490010_256.png",
+  "character": "Leo",
+  "name": "Shattering Highblade",
+  "name_jp": "破砕の将剣",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] and [50% Critical (15s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [General's Proclamation] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] and [50% Critical (15s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [General's Proclamation] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] and [50% Critical (15s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [General's Proclamation] to the user"
+    }
+  ]
+}

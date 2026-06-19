@@ -1,0 +1,32 @@
+{
+  "id": "23160016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160016/23160016_256.png",
+  "character": "Xezat",
+  "name": "United We Stand",
+  "name_jp": "盟友との共闘",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Spellblade] and [Damage Cap +10000] to the user, grants [Dualcast Spellblade 1] and [Quick Cast 1]/[Attach Earth], [Dualcast Spellblade 2] and [Quick Cast 2]/[Attach Earth with Stacking], [Dualcast Spellblade 3] and [Quick Cast 3] to the user if 0-1/2-3/4+ FF5 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Spellblade] and [Damage Cap +10000] to the user, grants [Dualcast Spellblade 1] and [Quick Cast 1]/[Attach Earth], [Dualcast Spellblade 2] and [Quick Cast 2]/[Attach Earth with Stacking], [Dualcast Spellblade 3] and [Quick Cast 3] to the user if 0-1/2-3/4+ FF5 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Spellblade] and [Damage Cap +10000] to the user, grants [Dualcast Spellblade 1] and [Quick Cast 1]/[Attach Earth], [Dualcast Spellblade 2] and [Quick Cast 2]/[Attach Earth with Stacking], [Dualcast Spellblade 3] and [Quick Cast 3] to the user if 0-1/2-3/4+ FF5 allies are alive"
+    }
+  ]
+}

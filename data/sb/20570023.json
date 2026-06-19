@@ -1,0 +1,32 @@
+{
+  "id": "20570023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570023/20570023_256.png",
+  "character": "Steiner",
+  "name": "Reckless Blade",
+  "name_jp": "魔法剣・盲進！",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Reckless Blade] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Reckless Blade] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Reckless Blade] to the user"
+    }
+  ]
+}

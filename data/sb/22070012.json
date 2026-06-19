@@ -1,0 +1,27 @@
+{
+  "id": "22070012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070012/22070012_256.png",
+  "character": "Kefka",
+  "name": "Dark Raiment (Kefka)",
+  "name_jp": "闇装【ケフカ】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Attach Dark]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark]"
+    }
+  ]
+}

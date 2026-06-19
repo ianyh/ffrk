@@ -1,0 +1,27 @@
+{
+  "id": "23290001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290001/23290001_256.png",
+  "character": "Tama",
+  "name": "World Parade",
+  "name_jp": "ワールド・パレード",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Last Stand] and [Reraise: 40%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Last Stand] and [Reraise: 40%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Last Stand] and [Reraise: 40%]"
+    }
+  ]
+}

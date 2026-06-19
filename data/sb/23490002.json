@@ -1,0 +1,31 @@
+{
+  "id": "23490002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490002/23490002_256.png",
+  "character": "Rain",
+  "name": "Lava Floor",
+  "name_jp": "グラウンドラヴァ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Fire 20% (25s)] and [Imperil Earth 20% (25s)], grants [Awoken Spellblade], [Damage Cap +10000], [Twin Element Mode (Fire, Earth)] and [Lava Flow Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Fire 20% (25s)] and [Imperil Earth 20% (25s)], grants [Awoken Spellblade], [Damage Cap +10000], [Twin Element Mode (Fire, Earth)] and [Lava Flow Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Fire 20% (25s)] and [Imperil Earth 20% (25s)], grants [Awoken Spellblade], [Damage Cap +10000], [Twin Element Mode (Fire, Earth)] and [Lava Flow Follow-Up] to the user"
+    }
+  ]
+}

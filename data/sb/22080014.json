@@ -1,0 +1,27 @@
+{
+  "id": "22080014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080014/22080014_256.png",
+  "character": "Exdeath",
+  "name": "Unknown Orbit",
+  "name_jp": "アンノウンオービット",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode II (Holy, Dark)] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Holy, Dark)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Holy, Dark)] and [High Quick Cast 1]"
+    }
+  ]
+}

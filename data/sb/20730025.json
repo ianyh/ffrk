@@ -1,0 +1,30 @@
+{
+  "id": "20730025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730025/20730025_256.png",
+  "character": "Fusoya",
+  "name": "Roaring Lunar Wisdom",
+  "name_jp": "轟・月華の叡智",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Holy/NE white magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy Ability High Boost & chases Holy abilities with 4 single-target Holy/NE white magic attacks, Holy Damage +10% for 5 seconds to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Holy/NE white magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy Ability High Boost & chases Holy abilities with 4 single-target Holy/NE white magic attacks, Holy Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Holy/NE white magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy Ability High Boost & chases Holy abilities with 4 single-target Holy/NE white magic attacks, Holy Damage +10% for 5 seconds to party"
+    }
+  ]
+}

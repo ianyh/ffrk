@@ -1,0 +1,27 @@
+{
+  "id": "22220010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22220010/22220010_256.png",
+  "character": "Porom",
+  "name": "Sync Renew",
+  "name_jp": "シンクロ・フルケア",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), grants [Magical High Quick Cast 3] and [Regenga], grants [Synchro Mode], [Damage Cap +10000] and Precocious +1",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Magical High Quick Cast 3] and [Regenga], grants [Synchro Mode], [Damage Cap +10000] and Precocious +1"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Magical High Quick Cast 3] and [Regenga], grants [Synchro Mode], [Damage Cap +10000] and Precocious +1"
+    }
+  ]
+}

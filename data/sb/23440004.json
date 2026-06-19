@@ -1,0 +1,27 @@
+{
+  "id": "23440004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23440004/23440004_256.png",
+  "character": "Naja",
+  "name": "Warrior's Charge",
+  "name_jp": "ウォリアーチャージ",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]"
+    }
+  ]
+}

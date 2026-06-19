@@ -1,0 +1,30 @@
+{
+  "id": "20440014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440014/20440014_256.png",
+  "character": "Balthier",
+  "name": "Untouchable Hellfire",
+  "name_jp": "業火のアンタッチャブル",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [High Quick Cast] and [Scorching Shot Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [High Quick Cast] and [Scorching Shot Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [High Quick Cast] and [Scorching Shot Follow-Up] to the user"
+    }
+  ]
+}

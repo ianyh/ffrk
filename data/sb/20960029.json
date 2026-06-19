@@ -1,0 +1,33 @@
+{
+  "id": "20960029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960029/20960029_256.png",
+  "character": "Y'shtola",
+  "name": "Radiant Scion's Flare",
+  "name_jp": "耀光サイオンズ・フレア",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Dark with Stacking] based on element of entry damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Y'shtola] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Dark with Stacking] based on element of entry damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Y'shtola] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Dark with Stacking] based on element of entry damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Y'shtola] to the user"
+    }
+  ]
+}

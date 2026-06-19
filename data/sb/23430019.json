@@ -1,0 +1,32 @@
+{
+  "id": "23430019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430019/23430019_256.png",
+  "character": "Trey",
+  "name": "Triad Arrow",
+  "name_jp": "トライドアロー",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Sharpshooter], [Damage Cap +10000] and [Smart Archer Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Sharpshooter], [Damage Cap +10000] and [Smart Archer Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Sharpshooter], [Damage Cap +10000] and [Smart Archer Mode] to the user"
+    }
+  ]
+}

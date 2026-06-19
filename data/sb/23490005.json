@@ -1,0 +1,30 @@
+{
+  "id": "23490005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490005/23490005_256.png",
+  "character": "Rain",
+  "name": "Rising Mantle",
+  "name_jp": "マントルライズ",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (3.31) capped at 99999, grants [Twin Element Mode II (Fire, Earth)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.31) capped at 99999, grants [Twin Element Mode II (Fire, Earth)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.31) capped at 99999, grants [Twin Element Mode II (Fire, Earth)] to the user"
+    }
+  ]
+}

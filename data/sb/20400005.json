@@ -1,0 +1,29 @@
+{
+  "id": "20400005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400005/20400005_256.png",
+  "character": "Bartz",
+  "name": "Hurricane Tomahawk",
+  "name_jp": "ハリケーントマホーク",
+  "tier": "SB",
+  "sb_version": "SB3",
+  "realm": "V",
+  "elements": [
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group ranged attacks (1.04 each), grants [Attach Wind] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.04 each), grants [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.04 each), grants [Attach Wind] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22690023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690023/22690023_256.png",
+  "character": "Lion",
+  "name": "Radiant Powder Keg",
+  "name_jp": "耀光パウダーケッグ",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single-target Water/NE physical attacks (0.9 each) capped at 19999, grants [Attach Water with Stacking], Damage Cap +10000], & [Crystal Force Mode: Lion (Water)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Water/NE physical attacks (0.9 each) capped at 19999, grants [Attach Water with Stacking], Damage Cap +10000], & [Crystal Force Mode: Lion (Water)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Water/NE physical attacks (0.9 each) capped at 19999, grants [Attach Water with Stacking], Damage Cap +10000], & [Crystal Force Mode: Lion (Water)] to the user"
+    }
+  ]
+}

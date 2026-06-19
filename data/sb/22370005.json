@@ -1,0 +1,30 @@
+{
+  "id": "22370005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370005/22370005_256.png",
+  "character": "Gabranth",
+  "name": "Avenger",
+  "name_jp": "悲哀",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group attacks (0.99 each), grants [Attach Dark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (0.99 each), grants [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (0.99 each), grants [Attach Dark] to the user"
+    }
+  ]
+}

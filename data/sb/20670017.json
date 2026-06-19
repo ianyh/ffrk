@@ -1,0 +1,27 @@
+{
+  "id": "20670017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670017/20670017_256.png",
+  "character": "Zell",
+  "name": "Awoken Burning Rave (Dual Shift)",
+  "name_jp": "覚醒バーニングレイヴ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Zell)] to the user, removes [Dual Awoken Monk Mode I (Zell)] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Zell)] to the user, removes [Dual Awoken Monk Mode I (Zell)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Zell)] to the user, removes [Dual Awoken Monk Mode I (Zell)] from the user"
+    }
+  ]
+}

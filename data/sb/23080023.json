@@ -1,0 +1,30 @@
+{
+  "id": "23080023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080023/23080023_256.png",
+  "character": "Rem",
+  "name": "Radiant Manalchemy Saint",
+  "name_jp": "耀光コンバートセイント",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target white magic attacks (3.10 each) capped at 19999, En-Holy, En-Holy Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 10 single-target Holy/NE white magic attacks (6.70 each), [Quick Holy, Holy Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II & a Holy ability, grants Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target white magic attacks (3.10 each) capped at 19999, En-Holy, En-Holy Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 10 single-target Holy/NE white magic attacks (6.70 each), [Quick Holy, Holy Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II & a Holy ability, grants Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target white magic attacks (3.10 each) capped at 19999, En-Holy, En-Holy Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 10 single-target Holy/NE white magic attacks (6.70 each), [Quick Holy, Holy Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II & a Holy ability, grants Instant ATB 1 to user"
+    }
+  ]
+}

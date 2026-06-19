@@ -1,0 +1,31 @@
+{
+  "id": "23100006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100006/23100006_256.png",
+  "character": "Queen",
+  "name": "Fiendish Judgment",
+  "name_jp": "羅刹の審判",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [No Quarter Mode] and [No Quarter 0] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [No Quarter Mode] and [No Quarter 0] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [No Quarter Mode] and [No Quarter 0] to the user"
+    }
+  ]
+}

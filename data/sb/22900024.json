@@ -1,0 +1,27 @@
+{
+  "id": "22900024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900024/22900024_256.png",
+  "character": "Gladiolus",
+  "name": "Soul Drive: Gladiolus",
+  "name_jp": "SD・グラディオラス",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Gladiolus], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Gladiolus], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Gladiolus], [Instant ATB 1] to user."
+    }
+  ]
+}

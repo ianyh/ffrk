@@ -1,0 +1,27 @@
+{
+  "id": "23480014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23480014/23480014_256.png",
+  "character": "Fina",
+  "name": "Delightful Glow",
+  "name_jp": "ディライトグロウ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55), grants [Regenga] and [Instant Cast 1] to all allies, grants [Awoken Devotion] and [Pure Lotus Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga] and [Instant Cast 1] to all allies, grants [Awoken Devotion] and [Pure Lotus Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga] and [Instant Cast 1] to all allies, grants [Awoken Devotion] and [Pure Lotus Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22060008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060008/22060008_256.png",
+  "character": "Penelo",
+  "name": "Tear Drops",
+  "name_jp": "ティアーズドロップ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Instant Cast 1], grants [Cure Step Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Instant Cast 1], grants [Cure Step Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Instant Cast 1], grants [Cure Step Follow-Up] to the user"
+    }
+  ]
+}

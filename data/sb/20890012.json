@@ -1,0 +1,27 @@
+{
+  "id": "20890012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890012/20890012_256.png",
+  "character": "Shadow",
+  "name": "Fleeting Shadow",
+  "name_jp": "刹那の影印",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Soul Break Gauge +500]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ]
+}

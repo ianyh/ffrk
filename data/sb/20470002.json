@@ -1,0 +1,27 @@
+{
+  "id": "20470002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470002/20470002_256.png",
+  "character": "Red XIII",
+  "name": "Lunatic High",
+  "name_jp": "ルナティックハイ",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Protect] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect] and [Haste]"
+    }
+  ]
+}

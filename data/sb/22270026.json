@@ -1,0 +1,27 @@
+{
+  "id": "22270026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270026/22270026_256.png",
+  "character": "Braska",
+  "name": "Continuous Flash: Braska",
+  "name_jp": "連閃・ブラスカ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [200% ATB 1] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [200% ATB 1] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [200% ATB 1] and [Instant Cast 1] to the user"
+    }
+  ]
+}

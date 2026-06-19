@@ -1,0 +1,27 @@
+{
+  "id": "22610019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610019/22610019_256.png",
+  "character": "Raijin",
+  "name": "Valiant Assault",
+  "name_jp": "剛気急襲",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    }
+  ]
+}

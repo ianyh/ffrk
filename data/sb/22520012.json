@@ -1,0 +1,27 @@
+{
+  "id": "22520012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520012/22520012_256.png",
+  "character": "Minfilia",
+  "name": "Awoken Call of the Stars (Dual Shift)",
+  "name_jp": "覚醒星の声",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Oracle of Light Mode II (Minfilia)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Oracle of Light Mode II (Minfilia)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Oracle of Light Mode II (Minfilia)]"
+    }
+  ]
+}

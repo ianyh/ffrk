@@ -1,0 +1,27 @@
+{
+  "id": "20810028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810028/20810028_256.png",
+  "character": "Gilgamesh",
+  "name": "Awoken Gilgamesh Morphing Time (Dual Shift)",
+  "name_jp": "覚醒秘剣・八方ふさがり",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Gilgamesh v2)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Gilgamesh v2)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Gilgamesh v2)] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20960025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960025/20960025_256.png",
+  "character": "Y'shtola",
+  "name": "Shimmering Stars",
+  "name_jp": "取り戻した夜空",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Weakness +30% Boost (15s)] and [Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Weakness +30% Boost (15s)] and [Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Weakness +30% Boost (15s)] and [Quick Cast 2]"
+    }
+  ]
+}

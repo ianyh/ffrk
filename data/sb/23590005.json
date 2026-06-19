@@ -1,0 +1,30 @@
+{
+  "id": "23590005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23590005/23590005_256.png",
+  "character": "Jill",
+  "name": "Roaring Ice Field",
+  "name_jp": "轟・アイスフィールド",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XVI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks, grants Cap Break Level 1, Accel Mode, [Instant ATB 1] to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with [6 > 12] single-target Ice/NE magic attacks",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks, grants Cap Break Level 1, Accel Mode, [Instant ATB 1] to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with [6 > 12] single-target Ice/NE magic attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks, grants Cap Break Level 1, Accel Mode, [Instant ATB 1] to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with [6 > 12] single-target Ice/NE magic attacks"
+    }
+  ]
+}

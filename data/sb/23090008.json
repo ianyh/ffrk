@@ -1,0 +1,30 @@
+{
+  "id": "23090008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090008/23090008_256.png",
+  "character": "Machina",
+  "name": "Quake Rush",
+  "name_jp": "クエイクラッシュ",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
+    }
+  ]
+}

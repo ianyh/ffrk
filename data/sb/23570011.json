@@ -1,0 +1,30 @@
+{
+  "id": "23570011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23570011/23570011_256.png",
+  "character": "Clive",
+  "name": "War-Awoken Ifrit Manifestation (Weapon Skill)",
+  "name_jp": "戦醒イフリート顕現",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XVI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Fire/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire\nWS Blue: Lv.2 En-Fire Stack to user\nWS Gold: During Tactical Awoken Mode, Fire Ability Damage +50% & Quick Fire to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire\nWS Blue: Lv.2 En-Fire Stack to user\nWS Gold: During Tactical Awoken Mode, Fire Ability Damage +50% & Quick Fire to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire\nWS Blue: Lv.2 En-Fire Stack to user\nWS Gold: During Tactical Awoken Mode, Fire Ability Damage +50% & Quick Fire to user"
+    }
+  ]
+}

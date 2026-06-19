@@ -1,0 +1,30 @@
+{
+  "id": "22630024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630024/22630024_256.png",
+  "character": "Rufus",
+  "name": "Roaring Mako Blast",
+  "name_jp": "轟・魔晄ショット",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "SIngle enemy",
+  "lensable": false,
+  "effects": "5 single-target Dark/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases Dark abilities with 4 single-target Dark/NE ranged physical attacks, Dark Damage +10% for 5 seconds to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Dark/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases Dark abilities with 4 single-target Dark/NE ranged physical attacks, Dark Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Dark/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases Dark abilities with 4 single-target Dark/NE ranged physical attacks, Dark Damage +10% for 5 seconds to party"
+    }
+  ]
+}

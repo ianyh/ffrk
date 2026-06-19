@@ -1,0 +1,75 @@
+{
+  "id": "23100033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100033/23100033_256.png",
+  "character": "Queen",
+  "name": "Zenith Energy Blaster",
+  "name_jp": "究極エナジーブラスター",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Queen], [Instant Cast 1] to user. Grants [Attach Lightning 3 with Stacking].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Queen], [Instant Cast 1] to user. Grants [Attach Lightning 3 with Stacking]."
+    },
+    {
+      "name": "Zenith Mode: Queen",
+      "text": "Increases Lightning Infusion damage bonus by 20%, cast speed x1.10 for PHY attacks, Lightning abilities trigger 1 additional time, casts Spirit Attack: Queen II after using Lightning abilities (max 2), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Divine Judgement Blade+",
+      "text": "Seven single attacks (1.20/1.25 each) after 0-2/3+ uses"
+    },
+    {
+      "name": "Mana Sphere+",
+      "text": "Four single attacks (1.20/1.25 each), followed by one single attack (6.15/6.35) that ignores DEF, capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Queen II",
+      "text": "Grants [Instant ATB 2], [Lightning Instant Cast 2] to user."
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Attach Lightning 3 with Stacking",
+      "text": "Increase Attach Lightning Level by 3 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Queen], [Instant Cast 1] to user. Grants [Attach Lightning 3 with Stacking]."
+    },
+    {
+      "name": "Divine Judgement Blade+",
+      "text": "Seven single attacks (1.20/1.25 each) after 0-2/3+ uses"
+    },
+    {
+      "name": "Mana Sphere+",
+      "text": "Four single attacks (1.20/1.25 each), followed by one single attack (6.15/6.35) that ignores DEF, capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Queen II",
+      "text": "Grants [Instant ATB 2], [Lightning Instant Cast 2] to user."
+    }
+  ]
+}

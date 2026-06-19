@@ -1,0 +1,27 @@
+{
+  "id": "23550016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550016/23550016_256.png",
+  "character": "Kurasame",
+  "name": "Starry Cold Deathbringer",
+  "name_jp": "極星死剣・寒獄",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives ATK/MND/DEF/RES debuff, chases with ATK/MND/DEF/RES +15% for 8 seconds to party\nInterval Chase: 10 single-target Ice/NE or Dark/NE hybrid attacks under En-Ice or En-Dark, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives ATK/MND/DEF/RES debuff, chases with ATK/MND/DEF/RES +15% for 8 seconds to party\nInterval Chase: 10 single-target Ice/NE or Dark/NE hybrid attacks under En-Ice or En-Dark, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives ATK/MND/DEF/RES debuff, chases with ATK/MND/DEF/RES +15% for 8 seconds to party\nInterval Chase: 10 single-target Ice/NE or Dark/NE hybrid attacks under En-Ice or En-Dark, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, removes Master Mode"
+    }
+  ]
+}

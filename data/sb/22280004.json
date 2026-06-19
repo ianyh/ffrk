@@ -1,0 +1,27 @@
+{
+  "id": "22280004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280004/22280004_256.png",
+  "character": "Wol",
+  "name": "Overkill",
+  "name_jp": "オーバーキル",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "I",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single ranged attacks (0.96 each), causes [Crushed DEF and RES -70%] for 8 seconds, removes positive effects",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.96 each), causes [Crushed DEF and RES -70%] for 8 seconds, removes positive effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.96 each), causes [Crushed DEF and RES -70%] for 8 seconds, removes positive effects"
+    }
+  ]
+}

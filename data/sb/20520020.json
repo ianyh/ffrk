@@ -1,0 +1,27 @@
+{
+  "id": "20520020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520020/20520020_256.png",
+  "character": "Yuna",
+  "name": "Farplane Wish",
+  "name_jp": "異界より届きし願い",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "X",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Innocent Prism Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Innocent Prism Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Innocent Prism Follow-Up] to the user"
+    }
+  ]
+}

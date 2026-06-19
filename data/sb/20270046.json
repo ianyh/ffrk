@@ -1,0 +1,39 @@
+{
+  "id": "20270046",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270046/20270046_256.png",
+  "character": "Firion",
+  "name": "Roaring Saintfire Sweep",
+  "name_jp": "轟・聖炎刀技の払い",
+  "tier": "ASB",
+  "sb_version": "ASB2",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single Enemy",
+  "lensable": false,
+  "effects": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Firion (Holy, Fire)], and [Instant ATB 1] to the user\nAccel Mode: Firion (Holy, Fire): Holy/Fire Ability High Boost & chases 1/2/3+ Holy/Fire abilities with Holy/Fire Ability Damage +10/20/30% to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Firion (Holy, Fire)], and [Instant ATB 1] to the user\nAccel Mode: Firion (Holy, Fire): Holy/Fire Ability High Boost & chases 1/2/3+ Holy/Fire abilities with Holy/Fire Ability Damage +10/20/30% to user"
+    },
+    {
+      "name": "Accel Mode: Firion (Holy, Fire)",
+      "text": "Holy or Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, 10/20/30% more damage for Holy or Fire abilities after using 1/2/3, removed if the character hasn't [Accel Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Firion (Holy, Fire)], and [Instant ATB 1] to the user\nAccel Mode: Firion (Holy, Fire): Holy/Fire Ability High Boost & chases 1/2/3+ Holy/Fire abilities with Holy/Fire Ability Damage +10/20/30% to user"
+    },
+    {
+      "name": "Accel Mode: Firion (Holy, Fire)",
+      "text": "Holy or Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, 10/20/30% more damage for Holy or Fire abilities after using 1/2/3, removed if the character hasn't [Accel Mode]"
+    }
+  ]
+}

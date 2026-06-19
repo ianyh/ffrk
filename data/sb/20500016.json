@@ -1,0 +1,31 @@
+{
+  "id": "20500016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500016/20500016_256.png",
+  "character": "Quistis",
+  "name": "Ultra Waves",
+  "name_jp": "超振動",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Awoken Instructor], [Damage Cap +10000], [High Quick Cast 1], [Switch Draw Mode (Water, Poison)] and [Elem-Atk-J] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Awoken Instructor], [Damage Cap +10000], [High Quick Cast 1], [Switch Draw Mode (Water, Poison)] and [Elem-Atk-J] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Awoken Instructor], [Damage Cap +10000], [High Quick Cast 1], [Switch Draw Mode (Water, Poison)] and [Elem-Atk-J] to the user"
+    }
+  ]
+}

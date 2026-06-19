@@ -1,0 +1,27 @@
+{
+  "id": "22210033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210033/22210033_256.png",
+  "character": "Palom",
+  "name": "War-Awoken Delta Disaster",
+  "name_jp": "戦醒デルタディザスター",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Palom], [MAG +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Palom], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Palom], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

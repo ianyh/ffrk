@@ -1,0 +1,30 @@
+{
+  "id": "20640019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640019/20640019_256.png",
+  "character": "Tellah",
+  "name": "Forbidden Meteor",
+  "name_jp": "究極魔法メテオ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Forbidden Meteor level 0/1/2, removes Arcane Dyad Empowered: Tellah from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Forbidden Meteor level 0/1/2, removes Arcane Dyad Empowered: Tellah from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Forbidden Meteor level 0/1/2, removes Arcane Dyad Empowered: Tellah from the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20810015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810015/20810015_256.png",
+  "character": "Gilgamesh",
+  "name": "Faithful Friends",
+  "name_jp": "持つべきものは友！",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Quick Cast], [High Retaliate] and [True Friends Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Quick Cast], [High Retaliate] and [True Friends Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Quick Cast], [High Retaliate] and [True Friends Mode] to the user"
+    }
+  ]
+}

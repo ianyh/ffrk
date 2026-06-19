@@ -1,0 +1,31 @@
+{
+  "id": "22980010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980010/22980010_256.png",
+  "character": "Aranea",
+  "name": "Spearouette",
+  "name_jp": "魔導槍",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Airborne Division Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Airborne Division Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Airborne Division Mode] to the user"
+    }
+  ]
+}

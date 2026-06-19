@@ -1,0 +1,30 @@
+{
+  "id": "22470011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470011/22470011_256.png",
+  "character": "Curilla",
+  "name": "Knights of Round",
+  "name_jp": "ナイツオブラウンド",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF11 allies are alive, grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [One-Eyed Swordmaster Mode] and Temple Knight +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF11 allies are alive, grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [One-Eyed Swordmaster Mode] and Temple Knight +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF11 allies are alive, grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [One-Eyed Swordmaster Mode] and Temple Knight +1 to the user"
+    }
+  ]
+}

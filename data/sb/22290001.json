@@ -1,0 +1,30 @@
+{
+  "id": "22290001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290001/22290001_256.png",
+  "character": "Echo",
+  "name": "Elemental Gift",
+  "name_jp": "エレメントほいほい",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "I",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (2.40 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.40 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.40 each)"
+    }
+  ]
+}

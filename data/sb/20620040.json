@@ -1,0 +1,30 @@
+{
+  "id": "20620040",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620040/20620040_256.png",
+  "character": "Eiko",
+  "name": "War-Awoken Prayer's Windclaw (Weapon Skill)",
+  "name_jp": "戦醒いのりの風爪",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Wind/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at less than 100/50% HP\nWS Blue: Dualcast Wind 3, Instant Wind 3 & Weakess Damage +30% for 3 turns to user\nWS Gold: 50% Stoneskin to party & Dualcast Wind 3 and Instant Wind 3 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at less than 100/50% HP\nWS Blue: Dualcast Wind 3, Instant Wind 3 & Weakess Damage +30% for 3 turns to user\nWS Gold: 50% Stoneskin to party & Dualcast Wind 3 and Instant Wind 3 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at less than 100/50% HP\nWS Blue: Dualcast Wind 3, Instant Wind 3 & Weakess Damage +30% for 3 turns to user\nWS Gold: 50% Stoneskin to party & Dualcast Wind 3 and Instant Wind 3 to user"
+    }
+  ]
+}

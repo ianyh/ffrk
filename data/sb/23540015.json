@@ -1,0 +1,32 @@
+{
+  "id": "23540015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540015/23540015_256.png",
+  "character": "Arciela",
+  "name": "Divine Might: Arciela",
+  "name_jp": "神威・アシェラ",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "Water",
+    "Wind"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single attacks (31.00 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice, Lightning, Water or Wind abilities on allies/5+ Ice, Lightning, Water or Wind abilities on allies and 2+ allies have Attach Ice, Lightning, Water or Wind",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single attacks (31.00 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice, Lightning, Water or Wind abilities on allies/5+ Ice, Lightning, Water or Wind abilities on allies and 2+ allies have Attach Ice, Lightning, Water or Wind"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single attacks (31.00 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice, Lightning, Water or Wind abilities on allies/5+ Ice, Lightning, Water or Wind abilities on allies and 2+ allies have Attach Ice, Lightning, Water or Wind"
+    }
+  ]
+}

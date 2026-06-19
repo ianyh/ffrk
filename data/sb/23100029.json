@@ -1,0 +1,27 @@
+{
+  "id": "23100029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100029/23100029_256.png",
+  "character": "Queen",
+  "name": "Awoken Austere Judge (Dual Shift)",
+  "name_jp": "覚醒シリアスジャッジ",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Acumen Mode II to user\nDual Awoken Acumen Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick ATB 2 and Instant Lightning 2 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Acumen Mode II to user\nDual Awoken Acumen Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick ATB 2 and Instant Lightning 2 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Acumen Mode II to user\nDual Awoken Acumen Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick ATB 2 and Instant Lightning 2 to user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22540012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540012/22540012_256.png",
+  "character": "Seymour",
+  "name": "Eternal Peace",
+  "name_jp": "永遠の安息",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), causes [Imperil Dark 20% (25s)], grants [Attach Dark with Stacking], [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), causes [Imperil Dark 20% (25s)], grants [Attach Dark with Stacking], [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), causes [Imperil Dark 20% (25s)], grants [Attach Dark with Stacking], [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to the user"
+    }
+  ]
+}

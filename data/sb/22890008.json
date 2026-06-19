@@ -1,0 +1,30 @@
+{
+  "id": "22890008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890008/22890008_256.png",
+  "character": "Zeid",
+  "name": "Scourge (XI)",
+  "name_jp": "スカージ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Last Resort Mode] and Blood Weapon +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Last Resort Mode] and Blood Weapon +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Last Resort Mode] and Blood Weapon +1 to the user"
+    }
+  ]
+}

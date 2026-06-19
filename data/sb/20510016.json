@@ -1,0 +1,27 @@
+{
+  "id": "20510016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510016/20510016_256.png",
+  "character": "Selphie",
+  "name": "Thoughts of Trabia",
+  "name_jp": "トラビアへの想い",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores 3000 HP, grants [Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores 3000 HP, grants [Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores 3000 HP, grants [Quick Cast 2]"
+    }
+  ]
+}

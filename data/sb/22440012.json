@@ -1,0 +1,27 @@
+{
+  "id": "22440012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440012/22440012_256.png",
+  "character": "Larsa",
+  "name": "Tracer Potion",
+  "name_jp": "タッグポーション",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55), grants [Regenga], [Instant Cast 1] and [ATK, DEF, MAG and RES +30% (25s)], grants [Awoken Potion Prince] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga], [Instant Cast 1] and [ATK, DEF, MAG and RES +30% (25s)], grants [Awoken Potion Prince] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga], [Instant Cast 1] and [ATK, DEF, MAG and RES +30% (25s)], grants [Awoken Potion Prince] to the user"
+    }
+  ]
+}

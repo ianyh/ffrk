@@ -1,0 +1,33 @@
+{
+  "id": "22380011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22380011/22380011_256.png",
+  "character": "Delita",
+  "name": "Hero-King's Strike",
+  "name_jp": "英雄王・北斗骨砕打",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Lightning",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Quad Element Mode II (Fire, Ice, Lightning, Holy)], [Awoken War Hero], [100% Critical (25s)], [Damage Cap +10000] and [Hero-King's Strike] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Quad Element Mode II (Fire, Ice, Lightning, Holy)], [Awoken War Hero], [100% Critical (25s)], [Damage Cap +10000] and [Hero-King's Strike] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Quad Element Mode II (Fire, Ice, Lightning, Holy)], [Awoken War Hero], [100% Critical (25s)], [Damage Cap +10000] and [Hero-King's Strike] to the user"
+    }
+  ]
+}

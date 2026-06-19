@@ -1,0 +1,29 @@
+{
+  "id": "20510005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510005/20510005_256.png",
+  "character": "Selphie",
+  "name": "Strange Vision",
+  "name_jp": "夢か幻か",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VIII",
+  "elements": [
+    "Holy"
+  ],
+  "type": "WHT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (3.50 each), causes [Instant KO] (100%), [MAG and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.50 each), causes [Instant KO] (100%), [MAG and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.50 each), causes [Instant KO] (100%), [MAG and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

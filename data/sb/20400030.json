@@ -1,0 +1,30 @@
+{
+  "id": "20400030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400030/20400030_256.png",
+  "character": "Bartz",
+  "name": "Flame Awakening",
+  "name_jp": "炎のめざめ",
+  "tier": "AASB",
+  "sb_version": "AASB5",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Spellblade], [Damage Cap +10000], [50% Damage Reduction Barrier 1] and [Path of Flame Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Spellblade], [Damage Cap +10000], [50% Damage Reduction Barrier 1] and [Path of Flame Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Spellblade], [Damage Cap +10000], [50% Damage Reduction Barrier 1] and [Path of Flame Mode] to the user"
+    }
+  ]
+}

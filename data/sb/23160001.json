@@ -1,0 +1,30 @@
+{
+  "id": "23160001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160001/23160001_256.png",
+  "character": "Xezat",
+  "name": "Spellstrike Rimebolt",
+  "name_jp": "魔法剣絶技・凍雷斬",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "V",
+  "elements": [
+    "Ice",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Quick Cast 1], [Attach Ice] and [Spellblade Rank Boost] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Quick Cast 1], [Attach Ice] and [Spellblade Rank Boost] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Quick Cast 1], [Attach Ice] and [Spellblade Rank Boost] to the user"
+    }
+  ]
+}

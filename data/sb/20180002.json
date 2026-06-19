@@ -1,0 +1,27 @@
+{
+  "id": "20180002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20180002/20180002_256.png",
+  "character": "Summoner",
+  "name": "Call II",
+  "name_jp": "よびだすⅡ",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "-",
+  "lensable": false,
+  "effects": "Randomly casts Goblin, Chocobo, Ifrit, Shiva or Ramuh",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Randomly casts Goblin, Chocobo, Ifrit, Shiva or Ramuh"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Randomly casts Goblin, Chocobo, Ifrit, Shiva or Ramuh"
+    }
+  ]
+}

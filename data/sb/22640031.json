@@ -1,0 +1,32 @@
+{
+  "id": "22640031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640031/22640031_256.png",
+  "character": "Emperor",
+  "name": "War-Awoken Emperor's Tyranny (Weapon Skill)",
+  "name_jp": "戦醒皇帝の暴圧",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Dark/Earth/Wind/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Earth/Wind Abilities, and Weapon Skill Blue/Gold if target has 0-30%/40%+ imperil dark/earth/wind\nWS Blue: Imperil Dark/Earth/Wind 30% to all enemies\nWS Gold: DeShell 20% to all enemies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/Earth/Wind/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Earth/Wind Abilities, and Weapon Skill Blue/Gold if target has 0-30%/40%+ imperil dark/earth/wind\nWS Blue: Imperil Dark/Earth/Wind 30% to all enemies\nWS Gold: DeShell 20% to all enemies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/Earth/Wind/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Earth/Wind Abilities, and Weapon Skill Blue/Gold if target has 0-30%/40%+ imperil dark/earth/wind\nWS Blue: Imperil Dark/Earth/Wind 30% to all enemies\nWS Gold: DeShell 20% to all enemies"
+    }
+  ]
+}

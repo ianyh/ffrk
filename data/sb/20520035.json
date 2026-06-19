@@ -1,0 +1,30 @@
+{
+  "id": "20520035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520035/20520035_256.png",
+  "character": "Yuna",
+  "name": "Woven Bond: Yuna (Holy)",
+  "name_jp": "紡絆・ユウナ聖",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "X",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (2.60 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit, grants [Chain Force Mode: Yuna] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit, grants [Chain Force Mode: Yuna] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit, grants [Chain Force Mode: Yuna] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20650032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650032/20650032_256.png",
+  "character": "Galuf",
+  "name": "Awoken Dawn Combo (Dual Shift)",
+  "name_jp": "覚醒暁の連撃",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with [Earth Damage +20% & Quick Cast 2 to party] or [ATK/MAG/DEF/RES +15% for 8 seconds, Prismatic Damage +20% & Quick Cast 2 to party] with at least 0/4 V members",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with [Earth Damage +20% & Quick Cast 2 to party] or [ATK/MAG/DEF/RES +15% for 8 seconds, Prismatic Damage +20% & Quick Cast 2 to party] with at least 0/4 V members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with [Earth Damage +20% & Quick Cast 2 to party] or [ATK/MAG/DEF/RES +15% for 8 seconds, Prismatic Damage +20% & Quick Cast 2 to party] with at least 0/4 V members"
+    }
+  ]
+}

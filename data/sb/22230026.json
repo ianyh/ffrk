@@ -1,0 +1,30 @@
+{
+  "id": "22230026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230026/22230026_256.png",
+  "character": "Desch",
+  "name": "Radiant Distant Lightning",
+  "name_jp": "耀光閃雷の彼方",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "III",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single attacks (3.05 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (3.05 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (3.05 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce"
+    }
+  ]
+}

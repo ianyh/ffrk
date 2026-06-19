@@ -1,0 +1,30 @@
+{
+  "id": "22940009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940009/22940009_256.png",
+  "character": "Scott",
+  "name": "Scarlet Pyroblade",
+  "name_jp": "緋色の炎剣",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "II",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK +30%, DEF +25% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Prince Royal Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK +30%, DEF +25% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Prince Royal Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK +30%, DEF +25% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Prince Royal Mode] to the user"
+    }
+  ]
+}

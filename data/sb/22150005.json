@@ -1,0 +1,30 @@
+{
+  "id": "22150005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22150005/22150005_256.png",
+  "character": "Agrias",
+  "name": "Holy Knight Charge",
+  "name_jp": "ホーリーナイトレイド",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Seven single attacks (1.11 each), grants [Attach Holy] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (1.11 each), grants [Attach Holy] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (1.11 each), grants [Attach Holy] to the user"
+    }
+  ]
+}

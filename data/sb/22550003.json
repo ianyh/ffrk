@@ -1,0 +1,27 @@
+{
+  "id": "22550003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550003/22550003_256.png",
+  "character": "Orlandeau",
+  "name": "For the Homeland",
+  "name_jp": "護国の剣",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "FFT",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group attack (1.10)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (1.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (1.10)"
+    }
+  ]
+}

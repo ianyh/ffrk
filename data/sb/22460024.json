@@ -1,0 +1,27 @@
+{
+  "id": "22460024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460024/22460024_256.png",
+  "character": "Onion Knight",
+  "name": "Onion Earth",
+  "name_jp": "アースオブタマネギ",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Earth with Stacking] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking] and [Soul Break Gauge +250]"
+    }
+  ]
+}

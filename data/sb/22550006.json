@@ -1,0 +1,31 @@
+{
+  "id": "22550006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550006/22550006_256.png",
+  "character": "Orlandeau",
+  "name": "Sword Saint's Savvy",
+  "name_jp": "剣聖神技",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), 100% additional critical chance, grants [100% Critical], [Awoken Thunder God Mode], [Damage Cap +10000] and [Thunder God's Might] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), 100% additional critical chance, grants [100% Critical], [Awoken Thunder God Mode], [Damage Cap +10000] and [Thunder God's Might] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), 100% additional critical chance, grants [100% Critical], [Awoken Thunder God Mode], [Damage Cap +10000] and [Thunder God's Might] to the user"
+    }
+  ]
+}

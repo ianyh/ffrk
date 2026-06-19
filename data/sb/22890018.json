@@ -1,0 +1,27 @@
+{
+  "id": "22890018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890018/22890018_256.png",
+  "character": "Zeid",
+  "name": "Continuous Flash: Zeid",
+  "name_jp": "連閃・ザイド",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [100% Critical 3 (v2)], [Instant ATB 1], and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical 3 (v2)], [Instant ATB 1], and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical 3 (v2)], [Instant ATB 1], and [Instant Cast 1] to the user"
+    }
+  ]
+}

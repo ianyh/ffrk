@@ -1,0 +1,30 @@
+{
+  "id": "23320019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320019/23320019_256.png",
+  "character": "Wedge",
+  "name": "Triple Star",
+  "name_jp": "トリプルスター",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Core",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Awoken Wind Agent], [Damage Cap +10000] to the user, and cause [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if there are 0-3/4+ Thief or Job/Beyond allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Awoken Wind Agent], [Damage Cap +10000] to the user, and cause [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if there are 0-3/4+ Thief or Job/Beyond allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Awoken Wind Agent], [Damage Cap +10000] to the user, and cause [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if there are 0-3/4+ Thief or Job/Beyond allies"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22980008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980008/22980008_256.png",
+  "character": "Aranea",
+  "name": "Blitz Rush",
+  "name_jp": "ラッシュスペリオリティ",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single ranged jump attacks (0.52 each), grants [Attach Lightning] and [Attach Lightning Stacking] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged jump attacks (0.52 each), grants [Attach Lightning] and [Attach Lightning Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged jump attacks (0.52 each), grants [Attach Lightning] and [Attach Lightning Stacking] to the user"
+    }
+  ]
+}

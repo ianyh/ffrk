@@ -1,0 +1,30 @@
+{
+  "id": "20970027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970027/20970027_256.png",
+  "character": "Rikku",
+  "name": "Water Buster",
+  "name_jp": "ウォータバスター",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Attach Water], [Awoken Salvager], [Damage Cap +10000] and [Spirited Guardian Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Attach Water], [Awoken Salvager], [Damage Cap +10000] and [Spirited Guardian Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF and MAG +30% (25s)] to all allies, grants [Attach Water], [Awoken Salvager], [Damage Cap +10000] and [Spirited Guardian Mode] to the user"
+    }
+  ]
+}

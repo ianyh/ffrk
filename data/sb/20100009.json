@@ -1,0 +1,30 @@
+{
+  "id": "20100009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100009/20100009_256.png",
+  "character": "Terra",
+  "name": "Finding Love",
+  "name_jp": "愛の在処",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (1.88 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

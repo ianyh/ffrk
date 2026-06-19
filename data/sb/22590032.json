@@ -1,0 +1,32 @@
+{
+  "id": "22590032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590032/22590032_256.png",
+  "character": "Matoya",
+  "name": "War-Awoken Magic Fusion (Weapon Skill)",
+  "name_jp": "戦醒魔力融合陣",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "I",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack (31.00) capped at 199,999. Grants [Fire, Ice, Lightning Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Ice, Lightning Ability +50% Boost (Tactical)], [Fire, Ice, Lightning 142% ATB Quick Cycle (Tactical)] to user/[Magical +30% Boost (15s)] to all allies if there are 0-2/3+ Witch allies in the party.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack (31.00) capped at 199,999. Grants [Fire, Ice, Lightning Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Ice, Lightning Ability +50% Boost (Tactical)], [Fire, Ice, Lightning 142% ATB Quick Cycle (Tactical)] to user/[Magical +30% Boost (15s)] to all allies if there are 0-2/3+ Witch allies in the party."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack (31.00) capped at 199,999. Grants [Fire, Ice, Lightning Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Ice, Lightning Ability +50% Boost (Tactical)], [Fire, Ice, Lightning 142% ATB Quick Cycle (Tactical)] to user/[Magical +30% Boost (15s)] to all allies if there are 0-2/3+ Witch allies in the party."
+    }
+  ]
+}

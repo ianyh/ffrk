@@ -1,0 +1,27 @@
+{
+  "id": "22530011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22530011/22530011_256.png",
+  "character": "Alphinaud",
+  "name": "Shining Moonstone",
+  "name_jp": "ムーンストーンの輝き",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]"
+    }
+  ]
+}

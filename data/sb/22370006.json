@@ -1,0 +1,30 @@
+{
+  "id": "22370006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370006/22370006_256.png",
+  "character": "Gabranth",
+  "name": "Ruin Unflinching",
+  "name_jp": "恐れ無き終焉",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Dark], [Quick Cast 1] and [Dark Quick Cycle] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Dark], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Dark], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    }
+  ]
+}

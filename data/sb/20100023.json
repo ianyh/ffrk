@@ -1,0 +1,30 @@
+{
+  "id": "20100023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100023/20100023_256.png",
+  "character": "Terra",
+  "name": "Riot Storm",
+  "name_jp": "ライオットストーム",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Terra Trance] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Terra Trance] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Terra Trance] to the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20930022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930022/20930022_256.png",
+  "character": "Faris",
+  "name": "Precious Friend",
+  "name_jp": "かけがえのない親友",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode III (Fire, Wind)], [Synchro Mode], [Damage Cap +10000] and [Solid Bond Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode III (Fire, Wind)], [Synchro Mode], [Damage Cap +10000] and [Solid Bond Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode III (Fire, Wind)], [Synchro Mode], [Damage Cap +10000] and [Solid Bond Follow-Up] to the user"
+    }
+  ]
+}

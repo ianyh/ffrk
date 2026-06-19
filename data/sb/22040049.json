@@ -1,0 +1,30 @@
+{
+  "id": "22040049",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040049/22040049_256.png",
+  "character": "Yuffie",
+  "name": "Roaring Earth Shatter",
+  "name_jp": "轟・石破天驚",
+  "tier": "ASB",
+  "sb_version": "ASB2",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 8 single-target Earth/NE ranged physical attacks",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 8 single-target Earth/NE ranged physical attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 8 single-target Earth/NE ranged physical attacks"
+    }
+  ]
+}

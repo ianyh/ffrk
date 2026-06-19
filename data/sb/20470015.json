@@ -1,0 +1,30 @@
+{
+  "id": "20470015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470015/20470015_256.png",
+  "character": "Red XIII",
+  "name": "Soaring Comet",
+  "name_jp": "コメットハイ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB] to the user"
+    }
+  ]
+}

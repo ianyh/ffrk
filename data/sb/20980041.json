@@ -1,0 +1,32 @@
+{
+  "id": "20980041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980041/20980041_256.png",
+  "character": "Edge",
+  "name": "Continuous Flash: Edge II",
+  "name_jp": "連閃・エッジII",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Six single attacks (0.80 or 390.00 each), grants [Soul Break Gauge +250] and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.80 or 390.00 each), grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.80 or 390.00 each), grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ]
+}

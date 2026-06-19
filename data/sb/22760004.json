@@ -1,0 +1,30 @@
+{
+  "id": "22760004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760004/22760004_256.png",
+  "character": "Nabaat",
+  "name": "Giver of Pain",
+  "name_jp": "加虐の極み",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), causes [Imperil Dark 20%] for 25 seconds, grants [DEF and MAG +30%], [Quick Cast 1] and [Dark Quick Cycle] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), causes [Imperil Dark 20%] for 25 seconds, grants [DEF and MAG +30%], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), causes [Imperil Dark 20%] for 25 seconds, grants [DEF and MAG +30%], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    }
+  ]
+}

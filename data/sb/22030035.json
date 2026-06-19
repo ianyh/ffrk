@@ -1,0 +1,30 @@
+{
+  "id": "22030035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030035/22030035_256.png",
+  "character": "Fang",
+  "name": "War-Awoken Dragoon Dive (Weapon Skill)",
+  "name_jp": "戦醒ドラグーンドライブ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind;\nWS Blue: [Lv.2 En-Wind Stack]\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Wind Abilities]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind;\nWS Blue: [Lv.2 En-Wind Stack]\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Wind Abilities]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind;\nWS Blue: [Lv.2 En-Wind Stack]\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Wind Abilities]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20940021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940021/20940021_256.png",
+  "character": "Krile",
+  "name": "Terrestrial Incandescence",
+  "name_jp": "ちねつのせんこく",
+  "tier": "USB",
+  "sb_version": "USB4",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.48 each), grants [50% Damage Reduction Barrier 1] to all allies, grants [Twin Element Mode II (Fire, Earth)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.48 each), grants [50% Damage Reduction Barrier 1] to all allies, grants [Twin Element Mode II (Fire, Earth)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.48 each), grants [50% Damage Reduction Barrier 1] to all allies, grants [Twin Element Mode II (Fire, Earth)] to the user"
+    }
+  ]
+}

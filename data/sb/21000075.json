@@ -1,0 +1,29 @@
+{
+  "id": "21000075",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000075/21000075_256.png",
+  "character": "-",
+  "name": "Zeus Wrath",
+  "name_jp": "ゼウスのいかり",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single ranged attack (1.50), causes [Paralyze] (20%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.50), causes [Paralyze] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.50), causes [Paralyze] (20%)"
+    }
+  ]
+}

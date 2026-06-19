@@ -1,0 +1,27 @@
+{
+  "id": "20140041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140041/20140041_256.png",
+  "character": "Tyro",
+  "name": "Zenith Divine Sentinel's Grimoire",
+  "name_jp": "究極天壁のグリモア",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "40% Damage Reduction Barrier 3, 30% Stoneskin, Astra 1, Critical Chance +100% & Quick Cast to party, Ultimate Mode to user\nUltimate Spirit Mode: Support Casting Speed x1.1 & chases 2 Support abilities with Prismatic Damage +10% to party (max 2 chases)\nUltimate Dexterity Mode: Higher Multiplier & Zero Hone Cost to Hero Ability; Acicular Grimoire+: Higher multiplier & Cap Break Level 1 after 3 uses; Judgment Grimoire+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "40% Damage Reduction Barrier 3, 30% Stoneskin, Astra 1, Critical Chance +100% & Quick Cast to party, Ultimate Mode to user\nUltimate Spirit Mode: Support Casting Speed x1.1 & chases 2 Support abilities with Prismatic Damage +10% to party (max 2 chases)\nUltimate Dexterity Mode: Higher Multiplier & Zero Hone Cost to Hero Ability; Acicular Grimoire+: Higher multiplier & Cap Break Level 1 after 3 uses; Judgment Grimoire+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "40% Damage Reduction Barrier 3, 30% Stoneskin, Astra 1, Critical Chance +100% & Quick Cast to party, Ultimate Mode to user\nUltimate Spirit Mode: Support Casting Speed x1.1 & chases 2 Support abilities with Prismatic Damage +10% to party (max 2 chases)\nUltimate Dexterity Mode: Higher Multiplier & Zero Hone Cost to Hero Ability; Acicular Grimoire+: Higher multiplier & Cap Break Level 1 after 3 uses; Judgment Grimoire+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22230002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230002/22230002_256.png",
+  "character": "Desch",
+  "name": "Selfless Spirit",
+  "name_jp": "捨て身の決心",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK and DEF +35%] for 25 seconds, damages the user for 50% current HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and DEF +35%] for 25 seconds, damages the user for 50% current HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and DEF +35%] for 25 seconds, damages the user for 50% current HP"
+    }
+  ]
+}

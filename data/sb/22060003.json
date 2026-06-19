@@ -1,0 +1,29 @@
+{
+  "id": "22060003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060003/22060003_256.png",
+  "character": "Penelo",
+  "name": "Intercession",
+  "name_jp": "生殺与奪",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XII",
+  "elements": [
+    "Holy"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (4.00 each), restores HP (85) to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (4.00 each), restores HP (85) to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (4.00 each), restores HP (85) to all allies"
+    }
+  ]
+}

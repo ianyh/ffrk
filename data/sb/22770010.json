@@ -1,0 +1,30 @@
+{
+  "id": "22770010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770010/22770010_256.png",
+  "character": "Reks",
+  "name": "Dalmascan Hazard",
+  "name_jp": "ダルマスカハザード",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ XII members are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ XII members are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ XII members are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user"
+    }
+  ]
+}

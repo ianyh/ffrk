@@ -1,0 +1,27 @@
+{
+  "id": "20060033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060033/20060033_256.png",
+  "character": "Cecil (Dark Knight)",
+  "name": "Continuous Flash: Cecil (Dark Knight) (Dark)",
+  "name_jp": "連閃・セシル闇",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Dark with Stacking], [Soul Break Guage +250], and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking], [Soul Break Guage +250], and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking], [Soul Break Guage +250], and [200% ATB 1] to the user"
+    }
+  ]
+}

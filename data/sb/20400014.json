@@ -1,0 +1,32 @@
+{
+  "id": "20400014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400014/20400014_256.png",
+  "character": "Bartz",
+  "name": "Crystals' Chosen",
+  "name_jp": "四晶に選ばれし戦士",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Water",
+    "Fire",
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.69 each), grants [Crystal Might EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [Crystal Might EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [Crystal Might EX Mode] to the user"
+    }
+  ]
+}

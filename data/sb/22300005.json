@@ -1,0 +1,27 @@
+{
+  "id": "22300005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300005/22300005_256.png",
+  "character": "Sarah",
+  "name": "Age-old Hymn",
+  "name_jp": "古の祈り歌",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "I",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (55), grants [Magical Blink 1], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Magical Blink 1], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Magical Blink 1], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

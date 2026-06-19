@@ -1,0 +1,30 @@
+{
+  "id": "20800038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800038/20800038_256.png",
+  "character": "Ingus",
+  "name": "War-Awoken Monolith Impact (Weapon Skill)",
+  "name_jp": "戦醒モノリスインパクト",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "III",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ability +50% Boost (Tactical)] and [Dualcast Earth (Tactical) 4] to user if HP is less than 70%, else grants [Surging Power +30% 6] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ability +50% Boost (Tactical)] and [Dualcast Earth (Tactical) 4] to user if HP is less than 70%, else grants [Surging Power +30% 6] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ability +50% Boost (Tactical)] and [Dualcast Earth (Tactical) 4] to user if HP is less than 70%, else grants [Surging Power +30% 6] to all allies"
+    }
+  ]
+}

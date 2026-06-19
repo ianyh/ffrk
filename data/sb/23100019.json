@@ -1,0 +1,31 @@
+{
+  "id": "23100019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100019/23100019_256.png",
+  "character": "Queen",
+  "name": "Austere Judge",
+  "name_jp": "シリアスジャッジ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Lightning with Stacking], [Awoken Acumen], [Damage Cap +10000] and [Austere Judge] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning with Stacking], [Awoken Acumen], [Damage Cap +10000] and [Austere Judge] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning with Stacking], [Awoken Acumen], [Damage Cap +10000] and [Austere Judge] to the user"
+    }
+  ]
+}

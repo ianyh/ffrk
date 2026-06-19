@@ -1,0 +1,27 @@
+{
+  "id": "22570009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570009/22570009_256.png",
+  "character": "Cid (IV)",
+  "name": "So Young!",
+  "name_jp": "ワシゃまだ若いわ！",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Lightning with Stacking] and [High Quick Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning with Stacking] and [High Quick Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning with Stacking] and [High Quick Cast 2] to the user"
+    }
+  ]
+}

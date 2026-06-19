@@ -1,0 +1,27 @@
+{
+  "id": "21000003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000003/21000003_256.png",
+  "character": "-",
+  "name": "Mystic Prayer",
+  "name_jp": "神秘の祈り",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (35)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ]
+}

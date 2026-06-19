@@ -1,0 +1,30 @@
+{
+  "id": "20210047",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210047/20210047_256.png",
+  "character": "Celes",
+  "name": "Radiant Mystical Snow",
+  "name_jp": "耀光ミスティカルスノー",
+  "tier": "CASB",
+  "sb_version": "CASB2",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Celes (Ice)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Celes (Ice)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Celes (Ice)] to the user"
+    }
+  ]
+}

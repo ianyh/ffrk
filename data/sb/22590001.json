@@ -1,0 +1,31 @@
+{
+  "id": "22590001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590001/22590001_256.png",
+  "character": "Matoya",
+  "name": "Inner Eye",
+  "name_jp": "真眼の魔女",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "I",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.00 each), ten attacks if exploiting elemental weakness, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.00 each), ten attacks if exploiting elemental weakness, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.00 each), ten attacks if exploiting elemental weakness, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

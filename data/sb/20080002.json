@@ -1,0 +1,27 @@
+{
+  "id": "20080002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080002/20080002_256.png",
+  "character": "Kain",
+  "name": "Lancet",
+  "name_jp": "竜剣",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (4.00), heals the user for 50% of the damage dealt",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (4.00), heals the user for 50% of the damage dealt"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (4.00), heals the user for 50% of the damage dealt"
+    }
+  ]
+}

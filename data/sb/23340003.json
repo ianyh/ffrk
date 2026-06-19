@@ -1,0 +1,27 @@
+{
+  "id": "23340003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23340003/23340003_256.png",
+  "character": "Jack",
+  "name": "Ninja Slice",
+  "name_jp": "一の太刀",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (1.50), 20% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50), 20% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50), 20% additional critical chance"
+    }
+  ]
+}

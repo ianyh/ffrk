@@ -1,0 +1,30 @@
+{
+  "id": "20070038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070038/20070038_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Woven Bond: Cecil (Paladin)",
+  "name_jp": "紡絆・セシル(パラディン)",
+  "tier": "LBC",
+  "sb_version": "LBC2",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single hybrid attacks (0.80/2.70 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Cecil (Paladin)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.80/2.70 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Cecil (Paladin)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.80/2.70 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Cecil (Paladin)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

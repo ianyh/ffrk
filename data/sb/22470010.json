@@ -1,0 +1,27 @@
+{
+  "id": "22470010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470010/22470010_256.png",
+  "character": "Curilla",
+  "name": "Dawn Prayer",
+  "name_jp": "暁の女神への祈り",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates XI Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates XI Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates XI Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ]
+}

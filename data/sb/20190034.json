@@ -1,0 +1,30 @@
+{
+  "id": "20190034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190034/20190034_256.png",
+  "character": "Josef",
+  "name": "Snowfield Shaker",
+  "name_jp": "雪原揺るがす剛腕",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "II",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Ice 20% (25s)], grants [Instant Cast 1] and [Buff Ice 20% (15s)] to all allies, grants [Awoken Rebel Army Mode] and [Damage Cap +10000] to the user\nAwoken Rebel Army Mode: Unlimited Ice Hones, Ice Rank Quick Cast & chases Ice abilities with 6 single attacks (0.72 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Ice 20% (25s)], grants [Instant Cast 1] and [Buff Ice 20% (15s)] to all allies, grants [Awoken Rebel Army Mode] and [Damage Cap +10000] to the user\nAwoken Rebel Army Mode: Unlimited Ice Hones, Ice Rank Quick Cast & chases Ice abilities with 6 single attacks (0.72 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Ice 20% (25s)], grants [Instant Cast 1] and [Buff Ice 20% (15s)] to all allies, grants [Awoken Rebel Army Mode] and [Damage Cap +10000] to the user\nAwoken Rebel Army Mode: Unlimited Ice Hones, Ice Rank Quick Cast & chases Ice abilities with 6 single attacks (0.72 each)"
+    }
+  ]
+}

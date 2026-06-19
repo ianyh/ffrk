@@ -1,0 +1,29 @@
+{
+  "id": "22760005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760005/22760005_256.png",
+  "character": "Nabaat",
+  "name": "Fatal Refrain",
+  "name_jp": "優雅なる死の調べ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XIII",
+  "elements": [
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.73 each), grants [Buff Dark 10% (15s)] to all allies, grants [Attach Dark] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Buff Dark 10% (15s)] to all allies, grants [Attach Dark] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Buff Dark 10% (15s)] to all allies, grants [Attach Dark] and [Brave Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20840004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840004/20840004_256.png",
+  "character": "Quina",
+  "name": "Frog Drop",
+  "name_jp": "カエルおとし",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (1.49 each), [ATK +50%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.49 each), [ATK +50%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.49 each), [ATK +50%] to all allies for 25 seconds"
+    }
+  ]
+}

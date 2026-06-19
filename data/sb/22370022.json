@@ -1,0 +1,30 @@
+{
+  "id": "22370022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370022/22370022_256.png",
+  "character": "Gabranth",
+  "name": "Guilt",
+  "name_jp": "エグゼクション",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000] and [Seething Hatred] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000] and [Seething Hatred] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000] and [Seething Hatred] to the user"
+    }
+  ]
+}

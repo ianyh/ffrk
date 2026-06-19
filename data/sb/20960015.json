@@ -1,0 +1,33 @@
+{
+  "id": "20960015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960015/20960015_256.png",
+  "character": "Y'shtola",
+  "name": "Spiritual Ray",
+  "name_jp": "スピリチュアル・レイ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50 each) capped at 9999/29999, followed by one single attack (34.60/38.06) capped at 99999 at Spiritual Ray level 0/1, removes Arcane Dyad Empowered: Y'shtola from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/29999, followed by one single attack (34.60/38.06) capped at 99999 at Spiritual Ray level 0/1, removes Arcane Dyad Empowered: Y'shtola from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/29999, followed by one single attack (34.60/38.06) capped at 99999 at Spiritual Ray level 0/1, removes Arcane Dyad Empowered: Y'shtola from the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22540033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540033/22540033_256.png",
+  "character": "Seymour",
+  "name": "War-Awoken Phantom Assault (Weapon Skill)",
+  "name_jp": "戦醒幻光交撃",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Dark/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if user has at least 0/40% Dark Damage\nWS Blue: Dark Damage +30% to all allies\nWS Gold: Sorcery Damage +20% to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if user has at least 0/40% Dark Damage\nWS Blue: Dark Damage +30% to all allies\nWS Gold: Sorcery Damage +20% to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if user has at least 0/40% Dark Damage\nWS Blue: Dark Damage +30% to all allies\nWS Gold: Sorcery Damage +20% to all allies"
+    }
+  ]
+}

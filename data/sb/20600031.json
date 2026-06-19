@@ -1,0 +1,27 @@
+{
+  "id": "20600031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600031/20600031_256.png",
+  "character": "Lightning",
+  "name": "Bond (Lightning)",
+  "name_jp": "絆【ライトニング】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates XIII Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIII] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates XIII Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIII] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates XIII Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIII] and [Instant Cast 1] to the user"
+    }
+  ]
+}

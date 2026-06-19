@@ -1,0 +1,27 @@
+{
+  "id": "23260026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260026/23260026_256.png",
+  "character": "Seven",
+  "name": "Continuous Flash: Seven (Ice)",
+  "name_jp": "連閃・セブン氷",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "[Imperil Ice 20% (?s)], grants [200% ATB 1] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[Imperil Ice 20% (?s)], grants [200% ATB 1] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[Imperil Ice 20% (?s)], grants [200% ATB 1] and [Instant Cast 1] to the user"
+    }
+  ]
+}

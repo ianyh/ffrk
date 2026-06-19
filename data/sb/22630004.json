@@ -1,0 +1,30 @@
+{
+  "id": "22630004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630004/22630004_256.png",
+  "character": "Rufus",
+  "name": "Recreant Son",
+  "name_jp": "気づけよ親不孝者",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Ground Dive Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Ground Dive Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Ground Dive Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22300002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300002/22300002_256.png",
+  "character": "Sarah",
+  "name": "Ballad of Cornelia",
+  "name_jp": "コーネリアの調べ",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK and DEF +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and DEF +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and DEF +30%] for 25 seconds"
+    }
+  ]
+}

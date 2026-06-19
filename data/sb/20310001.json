@@ -1,0 +1,27 @@
+{
+  "id": "20310001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310001/20310001_256.png",
+  "character": "Snow",
+  "name": "Mediguard",
+  "name_jp": "リジェネガード",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Protect] and [Low Regen]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect] and [Low Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect] and [Low Regen]"
+    }
+  ]
+}

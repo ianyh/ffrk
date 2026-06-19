@@ -1,0 +1,30 @@
+{
+  "id": "20690018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690018/20690018_256.png",
+  "character": "Auron",
+  "name": "Secret Shooting Star",
+  "name_jp": "秘伝・流星",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Pentabreak Damage Boost (15s)] and [Crimson Steel Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Pentabreak Damage Boost (15s)] and [Crimson Steel Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Pentabreak Damage Boost (15s)] and [Crimson Steel Mode] to the user"
+    }
+  ]
+}

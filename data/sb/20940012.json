@@ -1,0 +1,29 @@
+{
+  "id": "20940012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940012/20940012_256.png",
+  "character": "Krile",
+  "name": "Kindred Flame",
+  "name_jp": "絆の灯火",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "V",
+  "elements": [
+    "Fire"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.73 each), grants [Attach Fire], [Quick Cast] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Fire], [Quick Cast] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Fire], [Quick Cast] and [Brave Mode] to the user"
+    }
+  ]
+}

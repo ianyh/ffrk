@@ -1,0 +1,30 @@
+{
+  "id": "22770018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770018/22770018_256.png",
+  "character": "Reks",
+  "name": "Woven Bond: Reks",
+  "name_jp": "紡絆・レックス",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (? each) capped at 19999, activates XII Chain (max 150, field +0%) or adds 25 to the current XII Chain maximum limit, grants [Chain Force Mode: Reks] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (? each) capped at 19999, activates XII Chain (max 150, field +0%) or adds 25 to the current XII Chain maximum limit, grants [Chain Force Mode: Reks] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (? each) capped at 19999, activates XII Chain (max 150, field +0%) or adds 25 to the current XII Chain maximum limit, grants [Chain Force Mode: Reks] and [Instant Cast 1] to the user"
+    }
+  ]
+}

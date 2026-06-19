@@ -1,0 +1,27 @@
+{
+  "id": "22720003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720003/22720003_256.png",
+  "character": "Ceodore",
+  "name": "White Magic Cure",
+  "name_jp": "しろまほう・ケアル",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "Single ally",
+  "lensable": false,
+  "effects": "Restores HP (55)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55)"
+    }
+  ]
+}

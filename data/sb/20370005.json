@@ -1,0 +1,30 @@
+{
+  "id": "20370005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370005/20370005_256.png",
+  "character": "Vivi",
+  "name": "Proof of Existence",
+  "name_jp": "心の証明",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (2.98 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.98 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.98 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

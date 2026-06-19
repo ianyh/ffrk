@@ -1,0 +1,27 @@
+{
+  "id": "22990016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990016/22990016_256.png",
+  "character": "Kiros",
+  "name": "Blood Charge",
+  "name_jp": "ブラッドチャージ",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250] to the user"
+    }
+  ]
+}

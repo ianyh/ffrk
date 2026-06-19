@@ -1,0 +1,29 @@
+{
+  "id": "20880005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880005/20880005_256.png",
+  "character": "Lulu",
+  "name": "Icy Smile",
+  "name_jp": "氷の微笑",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "X",
+  "elements": [
+    "Ice"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (3.60 each), grants [Attach Ice] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.60 each), grants [Attach Ice] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.60 each), grants [Attach Ice] to the user"
+    }
+  ]
+}

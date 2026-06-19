@@ -1,0 +1,30 @@
+{
+  "id": "20630012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630012/20630012_256.png",
+  "character": "Golbez",
+  "name": "Dark Meteor",
+  "name_jp": "ダークメテオ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Dark Meteor Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Dark Meteor Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Dark Meteor Follow-Up] to the user"
+    }
+  ]
+}

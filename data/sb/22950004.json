@@ -1,0 +1,30 @@
+{
+  "id": "22950004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22950004/22950004_256.png",
+  "character": "Meliadoul",
+  "name": "Templar's Fury",
+  "name_jp": "神殿騎士団の猛襲",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "FFT",
+  "elements": [
+    "Earth",
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random ranged attacks (0.68 each), causes [Imperil Earth 20%] for 25 seconds, [DEF, MAG and RES -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.68 each), causes [Imperil Earth 20%] for 25 seconds, [DEF, MAG and RES -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.68 each), causes [Imperil Earth 20%] for 25 seconds, [DEF, MAG and RES -50%] for 25 seconds"
+    }
+  ]
+}

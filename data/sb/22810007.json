@@ -1,0 +1,29 @@
+{
+  "id": "22810007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810007/22810007_256.png",
+  "character": "Nine",
+  "name": "Swift Lancer",
+  "name_jp": "クイックランサー",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "Type-0",
+  "elements": [
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user"
+    }
+  ]
+}

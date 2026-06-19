@@ -1,0 +1,29 @@
+{
+  "id": "20970035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970035/20970035_256.png",
+  "character": "Rikku",
+  "name": "Divine Might: Rikku",
+  "name_jp": "神威・リュック",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "X",
+  "elements": [
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Water physical attacks at Conditional Cap Break & 3 single-target Water Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Water Abilities in party, Level 5 with at least 5 Water Abilities & 2 En-Water members in party; Multiplier increases with each tier",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Water physical attacks at Conditional Cap Break & 3 single-target Water Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Water Abilities in party, Level 5 with at least 5 Water Abilities & 2 En-Water members in party; Multiplier increases with each tier"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Water physical attacks at Conditional Cap Break & 3 single-target Water Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Water Abilities in party, Level 5 with at least 5 Water Abilities & 2 En-Water members in party; Multiplier increases with each tier"
+    }
+  ]
+}

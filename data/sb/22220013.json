@@ -1,0 +1,27 @@
+{
+  "id": "22220013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22220013/22220013_256.png",
+  "character": "Porom",
+  "name": "Bond Flash (Porom)",
+  "name_jp": "絆閃【ポロム】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (2000)], grants [ATK, DEF, MAG and RES +30% (25s)] if 4+ FF4 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], grants [ATK, DEF, MAG and RES +30% (25s)] if 4+ FF4 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], grants [ATK, DEF, MAG and RES +30% (25s)] if 4+ FF4 allies are alive"
+    }
+  ]
+}

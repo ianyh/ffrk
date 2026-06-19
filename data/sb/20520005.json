@@ -1,0 +1,27 @@
+{
+  "id": "20520005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520005/20520005_256.png",
+  "character": "Yuna",
+  "name": "Trigger Happy",
+  "name_jp": "クイックトリガー",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.80 each), grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

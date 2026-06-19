@@ -1,0 +1,27 @@
+{
+  "id": "22160006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160006/22160006_256.png",
+  "character": "Relm",
+  "name": "Divine Portrait",
+  "name_jp": "女神の絵画",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Stoneskin: 30%] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Stoneskin: 30%] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Stoneskin: 30%] and [Instant Cast 1]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20390007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390007/20390007_256.png",
+  "character": "Fran",
+  "name": "Vanquished Cries",
+  "name_jp": "冥界恐叫覇",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XII",
+  "elements": [
+    "Ice",
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.91 each), causes [Imperil Ice 20%] for 25 seconds, grants [Quick Cast 2] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.91 each), causes [Imperil Ice 20%] for 25 seconds, grants [Quick Cast 2] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.91 each), causes [Imperil Ice 20%] for 25 seconds, grants [Quick Cast 2] to all allies"
+    }
+  ]
+}

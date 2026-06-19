@@ -1,0 +1,29 @@
+{
+  "id": "20940011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940011/20940011_256.png",
+  "character": "Krile",
+  "name": "Raging Hellfire",
+  "name_jp": "ちょう・じごくのかえん",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "V",
+  "elements": [
+    "Fire"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999"
+    }
+  ]
+}

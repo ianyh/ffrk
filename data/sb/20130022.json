@@ -1,0 +1,27 @@
+{
+  "id": "20130022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20130022/20130022_256.png",
+  "character": "Tidus",
+  "name": "Water Raiment (Tidus)",
+  "name_jp": "水装【ティーダ】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Attach Water]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water]"
+    }
+  ]
+}

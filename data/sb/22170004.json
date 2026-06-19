@@ -1,0 +1,29 @@
+{
+  "id": "22170004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170004/22170004_256.png",
+  "character": "Vincent",
+  "name": "Bestial Roar",
+  "name_jp": "ビーストハウル",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VII",
+  "elements": [
+    "Fire"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.21 each), grants [Attach Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.21 each), grants [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.21 each), grants [Attach Fire] to the user"
+    }
+  ]
+}

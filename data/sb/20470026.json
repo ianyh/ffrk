@@ -1,0 +1,27 @@
+{
+  "id": "20470026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470026/20470026_256.png",
+  "character": "Red XIII",
+  "name": "Continuous Flash: Red XIII (Earth)",
+  "name_jp": "連閃・レッドXIII地",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Earth with Stacking], [Instant ATB 1], and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking], [Instant ATB 1], and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking], [Instant ATB 1], and [Instant Cast 1]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22090012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090012/22090012_256.png",
+  "character": "Jecht",
+  "name": "Struggle Within",
+  "name_jp": "ケモノと父の狭間",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.70 each), grants [Attach Dark] and [Struggle Within] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Attach Dark] and [Struggle Within] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Attach Dark] and [Struggle Within] to the user"
+    }
+  ]
+}

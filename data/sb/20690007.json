@@ -1,0 +1,30 @@
+{
+  "id": "20690007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690007/20690007_256.png",
+  "character": "Auron",
+  "name": "Tornado",
+  "name_jp": "陣風",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

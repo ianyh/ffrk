@@ -1,0 +1,32 @@
+{
+  "id": "23430032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430032/23430032_256.png",
+  "character": "Trey",
+  "name": "War-Awoken Piercing Concentrate (Weapon Skill)",
+  "name_jp": "戦醒精神統一・真貫",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies."
+    }
+  ]
+}

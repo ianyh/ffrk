@@ -1,0 +1,29 @@
+{
+  "id": "24490020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490020/24490020_256.png",
+  "character": "Kimahri",
+  "name": "Divine Might: Kimahri",
+  "name_jp": "神威・キマリ",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "X",
+  "elements": [
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged jump attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing ranged jump attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-1/2-3/4+ Dragoon or X members/4+ Dragoon or X members and 2+ allies with Attach Water",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing ranged jump attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-1/2-3/4+ Dragoon or X members/4+ Dragoon or X members and 2+ allies with Attach Water"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing ranged jump attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-1/2-3/4+ Dragoon or X members/4+ Dragoon or X members and 2+ allies with Attach Water"
+    }
+  ]
+}

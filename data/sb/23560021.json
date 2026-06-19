@@ -1,0 +1,27 @@
+{
+  "id": "23560021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560021/23560021_256.png",
+  "character": "Ultros",
+  "name": "Super Flash (Ultros)",
+  "name_jp": "超装【オルトロス】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Bio members & Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Bio members & Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Bio members & Instant ATB 1 to user"
+    }
+  ]
+}

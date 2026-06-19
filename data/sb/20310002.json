@@ -1,0 +1,29 @@
+{
+  "id": "20310002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310002/20310002_256.png",
+  "character": "Snow",
+  "name": "Froststrike",
+  "name_jp": "フロストブロウ",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (4.80)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (4.80)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (4.80)"
+    }
+  ]
+}

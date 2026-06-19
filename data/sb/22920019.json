@@ -1,0 +1,30 @@
+{
+  "id": "22920019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920019/22920019_256.png",
+  "character": "Umaro",
+  "name": "War-Awoken Howling Cherry (Weapon Skill)",
+  "name_jp": "戦醒ハウリングチェリー",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Ice/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold if user has less than 100/50% HP\nWS Blue: [During Tactical Awoken Mode, Deadly Strikes +30% to user]\nWS Gold: [During Tactical Awoken Mode, Instant Ice & Ability Berserk, and Cap Break Level 4 & Damage +50% to Ice Abilities] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold if user has less than 100/50% HP\nWS Blue: [During Tactical Awoken Mode, Deadly Strikes +30% to user]\nWS Gold: [During Tactical Awoken Mode, Instant Ice & Ability Berserk, and Cap Break Level 4 & Damage +50% to Ice Abilities] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold if user has less than 100/50% HP\nWS Blue: [During Tactical Awoken Mode, Deadly Strikes +30% to user]\nWS Gold: [During Tactical Awoken Mode, Instant Ice & Ability Berserk, and Cap Break Level 4 & Damage +50% to Ice Abilities] to user"
+    }
+  ]
+}

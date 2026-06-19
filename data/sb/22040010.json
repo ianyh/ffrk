@@ -1,0 +1,30 @@
+{
+  "id": "22040010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040010/22040010_256.png",
+  "character": "Yuffie",
+  "name": "Freewheeling Gauntlet",
+  "name_jp": "我流・鎧袖一触",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), grants [Attach Water], [Physical Blink 1] and [Torrent Blade Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Water], [Physical Blink 1] and [Torrent Blade Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Water], [Physical Blink 1] and [Torrent Blade Follow-Up] to the user"
+    }
+  ]
+}

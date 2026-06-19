@@ -1,0 +1,27 @@
+{
+  "id": "20390011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390011/20390011_256.png",
+  "character": "Fran",
+  "name": "Chain of Blizzard",
+  "name_jp": "チェインオブブリザド",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Ice Chain (max 99, field +20%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 99, field +20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 99, field +20%)"
+    }
+  ]
+}

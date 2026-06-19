@@ -1,0 +1,29 @@
+{
+  "id": "22690008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690008/22690008_256.png",
+  "character": "Lion",
+  "name": "Shark Bite",
+  "name_jp": "シャークバイト",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XI",
+  "elements": [
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting elemental weakness, grants [Attach Water Stacking] and [Attach Water] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting elemental weakness, grants [Attach Water Stacking] and [Attach Water] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting elemental weakness, grants [Attach Water Stacking] and [Attach Water] to the user"
+    }
+  ]
+}

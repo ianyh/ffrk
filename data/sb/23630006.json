@@ -1,0 +1,27 @@
+{
+  "id": "23630006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23630006/23630006_256.png",
+  "character": "Dion",
+  "name": "Soul Drive: Dion",
+  "name_jp": "SD・ディオン",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XVI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Dion], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Dion], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Dion], [Instant ATB 1] to user."
+    }
+  ]
+}

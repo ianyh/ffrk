@@ -1,0 +1,31 @@
+{
+  "id": "23010013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010013/23010013_256.png",
+  "character": "Rude",
+  "name": "Apex Grand Spark",
+  "name_jp": "地走り・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single hybrid ranged attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single hybrid ranged attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Apex Grand Spark level 0/1, removes Arcane Dyad Empowered: Rude from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid ranged attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single hybrid ranged attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Apex Grand Spark level 0/1, removes Arcane Dyad Empowered: Rude from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid ranged attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single hybrid ranged attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Apex Grand Spark level 0/1, removes Arcane Dyad Empowered: Rude from the user"
+    }
+  ]
+}

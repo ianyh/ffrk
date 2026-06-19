@@ -1,0 +1,31 @@
+{
+  "id": "20530017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530017/20530017_256.png",
+  "character": "Edgar",
+  "name": "Proven Weaponry",
+  "name_jp": "試行錯誤の武器開発",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.70 each), grants [High Quick Cast 1], [Machinist +30% Boost (15s)] and [Change Machinery Mode II (Fire, Lightning, Poison)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.70 each), grants [High Quick Cast 1], [Machinist +30% Boost (15s)] and [Change Machinery Mode II (Fire, Lightning, Poison)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.70 each), grants [High Quick Cast 1], [Machinist +30% Boost (15s)] and [Change Machinery Mode II (Fire, Lightning, Poison)] to the user"
+    }
+  ]
+}

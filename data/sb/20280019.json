@@ -1,0 +1,27 @@
+{
+  "id": "20280019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280019/20280019_256.png",
+  "character": "Gordon",
+  "name": "Radiant Flames of Inspiration",
+  "name_jp": "耀光奮起の炎",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK and MAG +30%, DEF and RES +25% (25s)] and [Quick Cast 3] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Gordon] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK and MAG +30%, DEF and RES +25% (25s)] and [Quick Cast 3] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Gordon] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK and MAG +30%, DEF and RES +25% (25s)] and [Quick Cast 3] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Gordon] to the user"
+    }
+  ]
+}

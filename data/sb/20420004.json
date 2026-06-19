@@ -1,0 +1,27 @@
+{
+  "id": "20420004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420004/20420004_256.png",
+  "character": "Arc",
+  "name": "Renewing Rains",
+  "name_jp": "豊水の祈り",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Shell], [High Regen] and [Magical Blink 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Shell], [High Regen] and [Magical Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Shell], [High Regen] and [Magical Blink 1]"
+    }
+  ]
+}

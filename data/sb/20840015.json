@@ -1,0 +1,27 @@
+{
+  "id": "20840015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840015/20840015_256.png",
+  "character": "Quina",
+  "name": "Taste Test!",
+  "name_jp": "食研究アルよ！",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Causes [ATK and MAG -15%, DEF -70% (25s)], grants [50% Damage Reduction Barrier 1] and [High Quick Cast 3] to all allies, grants [Awoken Way of the Qu] and [Purveyor of Taste Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK and MAG -15%, DEF -70% (25s)], grants [50% Damage Reduction Barrier 1] and [High Quick Cast 3] to all allies, grants [Awoken Way of the Qu] and [Purveyor of Taste Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK and MAG -15%, DEF -70% (25s)], grants [50% Damage Reduction Barrier 1] and [High Quick Cast 3] to all allies, grants [Awoken Way of the Qu] and [Purveyor of Taste Mode] to the user"
+    }
+  ]
+}

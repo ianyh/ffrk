@@ -1,0 +1,30 @@
+{
+  "id": "22490003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490003/22490003_256.png",
+  "character": "Leo",
+  "name": "Warrior's Warrior",
+  "name_jp": "屈強なる将軍の証",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VI",
+  "elements": [
+    "Holy",
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.94 each), [ATK and RES +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.94 each), [ATK and RES +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.94 each), [ATK and RES +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

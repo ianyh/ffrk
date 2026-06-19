@@ -1,0 +1,30 @@
+{
+  "id": "22490012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490012/22490012_256.png",
+  "character": "Leo",
+  "name": "Second Rebellion",
+  "name_jp": "セカンドリベリオン",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VI",
+  "elements": [
+    "Earth",
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Earth with Stacking], [Quick Cast 1] and [Second Rebellion] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Earth with Stacking], [Quick Cast 1] and [Second Rebellion] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Earth with Stacking], [Quick Cast 1] and [Second Rebellion] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "21000006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000006/21000006_256.png",
+  "character": "-",
+  "name": "Veil of Protection",
+  "name_jp": "ガードアップ",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Protect]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect]"
+    }
+  ]
+}

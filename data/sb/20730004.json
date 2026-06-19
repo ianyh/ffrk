@@ -1,0 +1,30 @@
+{
+  "id": "20730004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730004/20730004_256.png",
+  "character": "Fusoya",
+  "name": "Lunarian Prayer",
+  "name_jp": "月の民の祈祷",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (1.88 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ]
+}

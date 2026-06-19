@@ -1,0 +1,30 @@
+{
+  "id": "22670005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670005/22670005_256.png",
+  "character": "Cloud of Darkness",
+  "name": "0-Form Particle Beam",
+  "name_jp": "零式 波動砲",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (2.10 each), [MAG and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.10 each), [MAG and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.10 each), [MAG and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user"
+    }
+  ]
+}

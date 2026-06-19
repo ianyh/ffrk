@@ -1,0 +1,27 @@
+{
+  "id": "20500027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500027/20500027_256.png",
+  "character": "Quistis",
+  "name": "Awoken Ultra Waves (Dual Shift)",
+  "name_jp": "覚醒超振動",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Instructor Mode II (Quistis - Water)] to the user, removes [Dual Awoken Instructor Mode I (Quistis - Water)] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Instructor Mode II (Quistis - Water)] to the user, removes [Dual Awoken Instructor Mode I (Quistis - Water)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Instructor Mode II (Quistis - Water)] to the user, removes [Dual Awoken Instructor Mode I (Quistis - Water)] from the user"
+    }
+  ]
+}

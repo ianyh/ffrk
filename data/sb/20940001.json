@@ -1,0 +1,27 @@
+{
+  "id": "20940001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940001/20940001_256.png",
+  "character": "Krile",
+  "name": "Calm",
+  "name_jp": "なだめる",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "[ATK -30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK -30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK -30%] for 25 seconds"
+    }
+  ]
+}

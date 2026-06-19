@@ -1,0 +1,27 @@
+{
+  "id": "20560036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560036/20560036_256.png",
+  "character": "Maria",
+  "name": "Super Flash (Maria)",
+  "name_jp": "超閃【マリア】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Super Flash: Maria Follow-Up], [Instant ATB 1], and [Limit Break Gauge +250] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Super Flash: Maria Follow-Up], [Instant ATB 1], and [Limit Break Gauge +250] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Super Flash: Maria Follow-Up], [Instant ATB 1], and [Limit Break Gauge +250] to user"
+    }
+  ]
+}

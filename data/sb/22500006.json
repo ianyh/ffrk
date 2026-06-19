@@ -1,0 +1,31 @@
+{
+  "id": "22500006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500006/22500006_256.png",
+  "character": "Angeal",
+  "name": "Pride and Ambition",
+  "name_jp": "夢と誇りと",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Awoken Pride], [Damage Cap +10000], [Linked Materia Mode (Wind, Holy)] and [Dreams and Dignity] to the user, grants [PHY +30% Boost (15s)] to the user if Cloud or Zack are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Pride], [Damage Cap +10000], [Linked Materia Mode (Wind, Holy)] and [Dreams and Dignity] to the user, grants [PHY +30% Boost (15s)] to the user if Cloud or Zack are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Pride], [Damage Cap +10000], [Linked Materia Mode (Wind, Holy)] and [Dreams and Dignity] to the user, grants [PHY +30% Boost (15s)] to the user if Cloud or Zack are alive"
+    }
+  ]
+}

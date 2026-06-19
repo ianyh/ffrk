@@ -1,0 +1,27 @@
+{
+  "id": "20250037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250037/20250037_256.png",
+  "character": "Sephiroth",
+  "name": "Awoken Purgatory (Dual Shift)",
+  "name_jp": "覚醒煉獄",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Sephiroth)], removes [Dual Awoken Fire Mode I (Sephiroth)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Sephiroth)], removes [Dual Awoken Fire Mode I (Sephiroth)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Sephiroth)], removes [Dual Awoken Fire Mode I (Sephiroth)]"
+    }
+  ]
+}

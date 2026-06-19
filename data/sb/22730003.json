@@ -1,0 +1,27 @@
+{
+  "id": "22730003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730003/22730003_256.png",
+  "character": "Gogo (V)",
+  "name": "Art of Mimicry",
+  "name_jp": "ものまね芸",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "-",
+  "lensable": false,
+  "effects": "50% chance to cast the last ability used by any ally, default ability (PHY: single, 1.50 physical). Also grants 270 SB points to the user if successful",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "50% chance to cast the last ability used by any ally, default ability (PHY: single, 1.50 physical). Also grants 270 SB points to the user if successful"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "50% chance to cast the last ability used by any ally, default ability (PHY: single, 1.50 physical). Also grants 270 SB points to the user if successful"
+    }
+  ]
+}

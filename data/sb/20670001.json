@@ -1,0 +1,27 @@
+{
+  "id": "20670001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670001/20670001_256.png",
+  "character": "Zell",
+  "name": "Punch Rush",
+  "name_jp": "ラッシュパンチ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (1.40)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.40)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.40)"
+    }
+  ]
+}

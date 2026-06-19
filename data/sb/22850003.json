@@ -1,0 +1,27 @@
+{
+  "id": "22850003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22850003/22850003_256.png",
+  "character": "Wrieg",
+  "name": "Magic Sweets",
+  "name_jp": "マジックスイーツ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Smart ether 1",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Smart ether 1"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Smart ether 1"
+    }
+  ]
+}

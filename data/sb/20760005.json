@@ -1,0 +1,27 @@
+{
+  "id": "20760005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760005/20760005_256.png",
+  "character": "Barret",
+  "name": "Ungarmax",
+  "name_jp": "アンガーマックス",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random ranged attacks (0.78 each), [ATK and DEF -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.78 each), [ATK and DEF -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.78 each), [ATK and DEF -50%] for 25 seconds"
+    }
+  ]
+}

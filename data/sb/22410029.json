@@ -1,0 +1,27 @@
+{
+  "id": "22410029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410029/22410029_256.png",
+  "character": "Cid Raines",
+  "name": "Continuous Flash: Cid Raines",
+  "name_jp": "連閃・レインズ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Double Crystarium Mode II (Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Double Crystarium Mode II (Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Double Crystarium Mode II (Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ]
+}

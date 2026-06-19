@@ -1,0 +1,27 @@
+{
+  "id": "22390016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390016/22390016_256.png",
+  "character": "Ovelia",
+  "name": "Radiant Lifespring Zephyr",
+  "name_jp": "耀光清らかなる生命の風",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "h55 heal, ATK/MND/DEF +30%, En-Heal +30% & Holy Damage +30% for 4 turns to party, Crystal Mode to user\nCrystal Mode: Quick White Magic & Zero Hone Cost to White Magic Abilities\nCrystal Force I/II: h55 heal & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "h55 heal, ATK/MND/DEF +30%, En-Heal +30% & Holy Damage +30% for 4 turns to party, Crystal Mode to user\nCrystal Mode: Quick White Magic & Zero Hone Cost to White Magic Abilities\nCrystal Force I/II: h55 heal & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "h55 heal, ATK/MND/DEF +30%, En-Heal +30% & Holy Damage +30% for 4 turns to party, Crystal Mode to user\nCrystal Mode: Quick White Magic & Zero Hone Cost to White Magic Abilities\nCrystal Force I/II: h55 heal & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ]
+}

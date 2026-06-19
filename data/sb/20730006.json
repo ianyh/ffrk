@@ -1,0 +1,30 @@
+{
+  "id": "20730006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730006/20730006_256.png",
+  "character": "Fusoya",
+  "name": "Supersault Magic",
+  "name_jp": "ムーンサルトマジック",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Highborn], [Damage Cap +10000] to the user, grants [Regenga] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Highborn], [Damage Cap +10000] to the user, grants [Regenga] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Highborn], [Damage Cap +10000] to the user, grants [Regenga] to all allies"
+    }
+  ]
+}

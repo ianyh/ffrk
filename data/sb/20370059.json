@@ -1,0 +1,30 @@
+{
+  "id": "20370059",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370059/20370059_256.png",
+  "character": "Vivi",
+  "name": "War-Awoken Black Mage's Poison Memory (Weapon Skill)",
+  "name_jp": "戦醒黒魔道士の記憶・毒",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IX",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Bio/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Bio Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Bio members\nWS Blue: Dualcast Bio 3, Instant Bio 3 & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Bio 2, Instant Bio 2 & Weakness Damage +30% for 2 turns to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Bio/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Bio Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Bio members\nWS Blue: Dualcast Bio 3, Instant Bio 3 & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Bio 2, Instant Bio 2 & Weakness Damage +30% for 2 turns to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Bio/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Bio Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Bio members\nWS Blue: Dualcast Bio 3, Instant Bio 3 & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Bio 2, Instant Bio 2 & Weakness Damage +30% for 2 turns to all allies"
+    }
+  ]
+}

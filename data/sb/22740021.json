@@ -1,0 +1,27 @@
+{
+  "id": "22740021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740021/22740021_256.png",
+  "character": "Noctis",
+  "name": "Awoken Warp-strike (Dual Shift)",
+  "name_jp": "覚醒シフトブレイク",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Lucian King Mode II (Noctis - Fire)], removes [Dual Awoken Lucian King Mode I (Noctis - Fire)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lucian King Mode II (Noctis - Fire)], removes [Dual Awoken Lucian King Mode I (Noctis - Fire)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lucian King Mode II (Noctis - Fire)], removes [Dual Awoken Lucian King Mode I (Noctis - Fire)]"
+    }
+  ]
+}

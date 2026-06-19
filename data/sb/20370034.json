@@ -1,0 +1,27 @@
+{
+  "id": "20370034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370034/20370034_256.png",
+  "character": "Vivi",
+  "name": "Black Mage Evolution",
+  "name_jp": "黒魔道士の成長",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ]
+}

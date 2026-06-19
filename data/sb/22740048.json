@@ -1,0 +1,30 @@
+{
+  "id": "22740048",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740048/22740048_256.png",
+  "character": "Noctis",
+  "name": "Heavy Hand",
+  "name_jp": "シフトインパクト・E",
+  "tier": "ADSB",
+  "sb_version": "ADSB3",
+  "realm": "XV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "20 single-target Earth/NE physical attacks & single-target Earth/NE Overflow physical attack, removes True Arcane Augment Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "20 single-target Earth/NE physical attacks & single-target Earth/NE Overflow physical attack, removes True Arcane Augment Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "20 single-target Earth/NE physical attacks & single-target Earth/NE Overflow physical attack, removes True Arcane Augment Mode"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20710004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710004/20710004_256.png",
+  "character": "Ashe",
+  "name": "Maelstrom's Bolt",
+  "name_jp": "天鼓雷音稲妻斬",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (3.50 each), restores HP to all allies for 25% of their maximum HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.50 each), restores HP to all allies for 25% of their maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.50 each), restores HP to all allies for 25% of their maximum HP"
+    }
+  ]
+}

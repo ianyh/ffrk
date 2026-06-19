@@ -1,0 +1,30 @@
+{
+  "id": "20300028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300028/20300028_256.png",
+  "character": "Rinoa",
+  "name": "Apocalypse R",
+  "name_jp": "アポカリプス・R",
+  "tier": "SASB",
+  "sb_version": "SASB3",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 1] to the user"
+    }
+  ]
+}

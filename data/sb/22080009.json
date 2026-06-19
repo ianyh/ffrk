@@ -1,0 +1,30 @@
+{
+  "id": "22080009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080009/22080009_256.png",
+  "character": "Exdeath",
+  "name": "Dimensional Void",
+  "name_jp": "ディメンションホール",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (26.50 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ]
+}

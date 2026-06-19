@@ -1,0 +1,31 @@
+{
+  "id": "23120005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120005/23120005_256.png",
+  "character": "Estinien",
+  "name": "Black Dragon Dive",
+  "name_jp": "漆黒のドラゴンダイブ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode III (Wind, Dark)], [Synchro Mode], [Damage Cap +10000] and [Azure Dragoon Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode III (Wind, Dark)], [Synchro Mode], [Damage Cap +10000] and [Azure Dragoon Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode III (Wind, Dark)], [Synchro Mode], [Damage Cap +10000] and [Azure Dragoon Mode] to the user"
+    }
+  ]
+}

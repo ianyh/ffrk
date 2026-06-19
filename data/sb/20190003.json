@@ -1,0 +1,29 @@
+{
+  "id": "20190003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190003/20190003_256.png",
+  "character": "Josef",
+  "name": "Avalanche",
+  "name_jp": "雪崩",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "II",
+  "elements": [
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged attacks (1.37 each), [ATK +30%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.37 each), [ATK +30%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.37 each), [ATK +30%] to all allies for 25 seconds"
+    }
+  ]
+}

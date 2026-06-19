@@ -1,0 +1,32 @@
+{
+  "id": "20880017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880017/20880017_256.png",
+  "character": "Lulu",
+  "name": "Ultima Fury",
+  "name_jp": "T・アルテマ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Water",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Ultima Fury level 0/1, removes Arcane Dyad Empowered: Lulu from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Ultima Fury level 0/1, removes Arcane Dyad Empowered: Lulu from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Ultima Fury level 0/1, removes Arcane Dyad Empowered: Lulu from the user"
+    }
+  ]
+}

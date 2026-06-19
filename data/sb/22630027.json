@@ -1,0 +1,30 @@
+{
+  "id": "22630027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630027/22630027_256.png",
+  "character": "Rufus",
+  "name": "War-Awoken President's Authority (Weapon Skill)",
+  "name_jp": "戦醒プレジデントの威光",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "SIngle enemy",
+  "lensable": false,
+  "effects": "Single-target Dark/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Dark Ability Damage +40% & Instant Dark to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Dark Ability Damage +40% & Instant Dark to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Dark Ability Damage +40% & Instant Dark to user"
+    }
+  ]
+}

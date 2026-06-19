@@ -1,0 +1,27 @@
+{
+  "id": "20580013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580013/20580013_256.png",
+  "character": "Leon",
+  "name": "Awoken Darkborn Blade (Dual Shift)",
+  "name_jp": "覚醒闇を背負う剣",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, DEF, MAG and RES +30% (25s)], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Leon)] to the user, removes [Dual Awoken Darkness Mode I (Leon)] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (25s)], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Leon)] to the user, removes [Dual Awoken Darkness Mode I (Leon)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (25s)], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Leon)] to the user, removes [Dual Awoken Darkness Mode I (Leon)] from the user"
+    }
+  ]
+}

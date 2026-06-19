@@ -1,0 +1,38 @@
+{
+  "id": "20460025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460025/20460025_256.png",
+  "character": "Ricard",
+  "name": "Burst Break: Ricard (Break Glint)",
+  "name_jp": "烈破・リチャード",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "II",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "Water",
+    "Dark",
+    "Fire",
+    "Ice",
+    "Earth",
+    "Holy",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking]."
+    }
+  ]
+}

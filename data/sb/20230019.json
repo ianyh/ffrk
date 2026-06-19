@@ -1,0 +1,30 @@
+{
+  "id": "20230019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230019/20230019_256.png",
+  "character": "Tifa",
+  "name": "Limit Combo",
+  "name_jp": "リミットコンボ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Limit Combo Follow-Up] and Earth Limit Form +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Limit Combo Follow-Up] and Earth Limit Form +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Limit Combo Follow-Up] and Earth Limit Form +1 to the user"
+    }
+  ]
+}

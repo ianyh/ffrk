@@ -1,0 +1,30 @@
+{
+  "id": "20360023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360023/20360023_256.png",
+  "character": "Garnet",
+  "name": "Thundering Dark",
+  "name_jp": "暗黒の雷鳴",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (3.10/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Thundering Dark level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Garnet (Lightning) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (3.10/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Thundering Dark level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Garnet (Lightning) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (3.10/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Thundering Dark level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Garnet (Lightning) from the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20870007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870007/20870007_256.png",
+  "character": "Amarant",
+  "name": "Detonating Fist",
+  "name_jp": "爆裂秘孔拳",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.62 each), causes [Imperil Fire 20%] and [Imperil Lightning 20%] for 25 seconds, grants [Monk High Quick Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.62 each), causes [Imperil Fire 20%] and [Imperil Lightning 20%] for 25 seconds, grants [Monk High Quick Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.62 each), causes [Imperil Fire 20%] and [Imperil Lightning 20%] for 25 seconds, grants [Monk High Quick Cast 2] to the user"
+    }
+  ]
+}

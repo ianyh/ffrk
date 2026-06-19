@@ -1,0 +1,30 @@
+{
+  "id": "20310025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310025/20310025_256.png",
+  "character": "Snow",
+  "name": "Diamond Fist",
+  "name_jp": "ダイヤモンドフィスト",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Overflow Ice Radiant Shield: 500% (8s)] and [Sovereign Barrier Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Overflow Ice Radiant Shield: 500% (8s)] and [Sovereign Barrier Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Overflow Ice Radiant Shield: 500% (8s)] and [Sovereign Barrier Follow-Up] to the user"
+    }
+  ]
+}

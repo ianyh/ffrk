@@ -1,0 +1,30 @@
+{
+  "id": "20330035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330035/20330035_256.png",
+  "character": "Warrior of Light",
+  "name": "Radiant Photon Wave",
+  "name_jp": "耀光フォトンウェーブ",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "I",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE physical attacks at Cap Break Level 1, Instant Cast, [PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns to user; After using Crystal Force, grants [Cap Break Level 0/1/1 for 2 turns, Quick/Quick/Instant Cast 2 & Quick/Quick/Instant ATB 1] to user with at least 0/2/4 I members",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE physical attacks at Cap Break Level 1, Instant Cast, [PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns to user; After using Crystal Force, grants [Cap Break Level 0/1/1 for 2 turns, Quick/Quick/Instant Cast 2 & Quick/Quick/Instant ATB 1] to user with at least 0/2/4 I members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE physical attacks at Cap Break Level 1, Instant Cast, [PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns to user; After using Crystal Force, grants [Cap Break Level 0/1/1 for 2 turns, Quick/Quick/Instant Cast 2 & Quick/Quick/Instant ATB 1] to user with at least 0/2/4 I members"
+    }
+  ]
+}

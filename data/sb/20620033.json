@@ -1,0 +1,27 @@
+{
+  "id": "20620033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620033/20620033_256.png",
+  "character": "Eiko",
+  "name": "Continuous Flash: Eiko",
+  "name_jp": "連閃・エーコ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IX",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55), grants Summoning smart ether 2, [200% ATB 1], and [Flash Attack: Eiko Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants Summoning smart ether 2, [200% ATB 1], and [Flash Attack: Eiko Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants Summoning smart ether 2, [200% ATB 1], and [Flash Attack: Eiko Follow-Up] to the user"
+    }
+  ]
+}

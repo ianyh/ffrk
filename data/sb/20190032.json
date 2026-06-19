@@ -1,0 +1,30 @@
+{
+  "id": "20190032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190032/20190032_256.png",
+  "character": "Josef",
+  "name": "Roaring Hyperborean Fist",
+  "name_jp": "轟・漢の氷拳",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "II",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (0.80 each), grants [Damage Cap +10000], Accel Mode: Josef, and [Instant ATB 1] to the user\nAccel Mode: Josef: Ice Ability High Boost & Quick Ice",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (0.80 each), grants [Damage Cap +10000], Accel Mode: Josef, and [Instant ATB 1] to the user\nAccel Mode: Josef: Ice Ability High Boost & Quick Ice"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (0.80 each), grants [Damage Cap +10000], Accel Mode: Josef, and [Instant ATB 1] to the user\nAccel Mode: Josef: Ice Ability High Boost & Quick Ice"
+    }
+  ]
+}

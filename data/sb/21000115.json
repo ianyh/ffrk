@@ -1,0 +1,29 @@
+{
+  "id": "21000115",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000115/21000115_256.png",
+  "character": "-",
+  "name": "Galaxy Rush",
+  "name_jp": "ギャラクシィ",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Four group attacks (2.25 each), causes [Blind] (60%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.25 each), causes [Blind] (60%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.25 each), causes [Blind] (60%)"
+    }
+  ]
+}

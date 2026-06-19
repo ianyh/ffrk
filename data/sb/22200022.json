@@ -1,0 +1,31 @@
+{
+  "id": "22200022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200022/22200022_256.png",
+  "character": "Edea",
+  "name": "Beyond Return",
+  "name_jp": "戻れない場所へ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode II (Ice, Dark)], [Awoken Frostshade Witch], [Damage Cap +10000], [Quick Cast] and [(Ice/Dark) Ability +30% Boost (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode II (Ice, Dark)], [Awoken Frostshade Witch], [Damage Cap +10000], [Quick Cast] and [(Ice/Dark) Ability +30% Boost (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode II (Ice, Dark)], [Awoken Frostshade Witch], [Damage Cap +10000], [Quick Cast] and [(Ice/Dark) Ability +30% Boost (15s)] to the user"
+    }
+  ]
+}

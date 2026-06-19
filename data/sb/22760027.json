@@ -1,0 +1,30 @@
+{
+  "id": "22760027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760027/22760027_256.png",
+  "character": "Nabaat",
+  "name": "Zenith Army Gear",
+  "name_jp": "究極アーミー＝ギア",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark/NE magic attacks at Cap Break Level 1, Lv.3 En-Dark, En-Dark Stack, Cap Break Level 1, Zenith Army Gear & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark Damage +20%, Magic Casting Speed x1.1 & chases a Dark ability with Sorcery Damage +30% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Dark, Higher Multiplier & Zero Hone Cost to Hero Ability; Sacrifice Pawn+: Higher multiplier & Cap Break Level 1 after 3 uses; Ruthless Gear+: 1.65s CT, Cap Break Level 1 after 3 uses \nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Army Gear: [Dark Damage +20% to user] or [MAG/MND/DEF/RES +15% for 8 seconds to party] with at least 0/4 Mage II members in party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/NE magic attacks at Cap Break Level 1, Lv.3 En-Dark, En-Dark Stack, Cap Break Level 1, Zenith Army Gear & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark Damage +20%, Magic Casting Speed x1.1 & chases a Dark ability with Sorcery Damage +30% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Dark, Higher Multiplier & Zero Hone Cost to Hero Ability; Sacrifice Pawn+: Higher multiplier & Cap Break Level 1 after 3 uses; Ruthless Gear+: 1.65s CT, Cap Break Level 1 after 3 uses \nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Army Gear: [Dark Damage +20% to user] or [MAG/MND/DEF/RES +15% for 8 seconds to party] with at least 0/4 Mage II members in party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/NE magic attacks at Cap Break Level 1, Lv.3 En-Dark, En-Dark Stack, Cap Break Level 1, Zenith Army Gear & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark Damage +20%, Magic Casting Speed x1.1 & chases a Dark ability with Sorcery Damage +30% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Dark, Higher Multiplier & Zero Hone Cost to Hero Ability; Sacrifice Pawn+: Higher multiplier & Cap Break Level 1 after 3 uses; Ruthless Gear+: 1.65s CT, Cap Break Level 1 after 3 uses \nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Army Gear: [Dark Damage +20% to user] or [MAG/MND/DEF/RES +15% for 8 seconds to party] with at least 0/4 Mage II members in party"
+    }
+  ]
+}

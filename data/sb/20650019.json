@@ -1,0 +1,30 @@
+{
+  "id": "20650019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650019/20650019_256.png",
+  "character": "Galuf",
+  "name": "Unending Toil",
+  "name_jp": "精励恪勤",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.70 each), causes [Imperil Earth 20% (25s)], grants [Buff Earth 20% (15s)] to all allies, grants [Attach Earth] and [Quick Cast 3] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), causes [Imperil Earth 20% (25s)], grants [Buff Earth 20% (15s)] to all allies, grants [Attach Earth] and [Quick Cast 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), causes [Imperil Earth 20% (25s)], grants [Buff Earth 20% (15s)] to all allies, grants [Attach Earth] and [Quick Cast 3] to the user"
+    }
+  ]
+}

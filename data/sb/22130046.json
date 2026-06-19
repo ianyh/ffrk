@@ -1,0 +1,30 @@
+{
+  "id": "22130046",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130046/22130046_256.png",
+  "character": "Leila",
+  "name": "War-Awoken Bio Burst (Weapon Skill)",
+  "name_jp": "戦醒バイオバースト",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "II",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Bio Abilities, and Weapon Skill Blue/Gold if there are 0-1/2+ allies with Attach Bio\nWS Blue: [Lv.2 En-Bio Stack] to user\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Bio Abilities] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Bio Abilities, and Weapon Skill Blue/Gold if there are 0-1/2+ allies with Attach Bio\nWS Blue: [Lv.2 En-Bio Stack] to user\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Bio Abilities] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Bio Abilities, and Weapon Skill Blue/Gold if there are 0-1/2+ allies with Attach Bio\nWS Blue: [Lv.2 En-Bio Stack] to user\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Bio Abilities] to user"
+    }
+  ]
+}

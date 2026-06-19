@@ -1,0 +1,31 @@
+{
+  "id": "20210026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210026/20210026_256.png",
+  "character": "Celes",
+  "name": "Virtuous Blade",
+  "name_jp": "高潔なる常勝の剣",
+  "tier": "SASB",
+  "sb_version": "SASB3",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Ice, Holy)], [Synchro Mode], [Damage Cap +10000], [Rebel Rune Knight Mode] and Frozen Holy Sword +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Ice, Holy)], [Synchro Mode], [Damage Cap +10000], [Rebel Rune Knight Mode] and Frozen Holy Sword +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Ice, Holy)], [Synchro Mode], [Damage Cap +10000], [Rebel Rune Knight Mode] and Frozen Holy Sword +1 to the user"
+    }
+  ]
+}

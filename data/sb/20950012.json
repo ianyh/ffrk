@@ -1,0 +1,31 @@
+{
+  "id": "20950012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950012/20950012_256.png",
+  "character": "Thancred",
+  "name": "Hakke Mujinsatsu",
+  "name_jp": "八卦無刃殺",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "XIV",
+  "elements": [
+    "Earth",
+    "Wind",
+    "Poison"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single ranged attacks (0.55 each), followed by one single ranged attack (8.00) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single ranged attacks (0.55 each), followed by one single ranged attack (8.00) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single ranged attacks (0.55 each), followed by one single ranged attack (8.00) capped at 99999"
+    }
+  ]
+}

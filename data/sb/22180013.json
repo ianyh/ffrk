@@ -1,0 +1,27 @@
+{
+  "id": "22180013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180013/22180013_256.png",
+  "character": "Basch",
+  "name": "Swordflash Oath",
+  "name_jp": "誓いの剣光",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Holy Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Holy 20% (15s)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Holy 20% (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Holy 20% (15s)]"
+    }
+  ]
+}

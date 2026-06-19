@@ -1,0 +1,30 @@
+{
+  "id": "22270012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270012/22270012_256.png",
+  "character": "Braska",
+  "name": "Sorrowbane Flame",
+  "name_jp": "悲しみを消す炎",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to all allies, grants [Attach Fire with Stacking] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to all allies, grants [Attach Fire with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to all allies, grants [Attach Fire with Stacking] to the user"
+    }
+  ]
+}

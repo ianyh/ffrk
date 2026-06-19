@@ -1,0 +1,27 @@
+{
+  "id": "23150003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23150003/23150003_256.png",
+  "character": "Alma",
+  "name": "Cleric's Prayer",
+  "name_jp": "クレリックの祈り",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Resist Holy 10% (15s)] and [HP Stock (3000)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Resist Holy 10% (15s)] and [HP Stock (3000)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Resist Holy 10% (15s)] and [HP Stock (3000)]"
+    }
+  ]
+}

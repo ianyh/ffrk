@@ -1,0 +1,30 @@
+{
+  "id": "20860009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860009/20860009_256.png",
+  "character": "Zidane",
+  "name": "Solution 9",
+  "name_jp": "ソリューション9",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Nine random ranged attacks (0.74 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Nine random ranged attacks (0.74 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Nine random ranged attacks (0.74 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ]
+}

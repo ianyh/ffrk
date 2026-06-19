@@ -1,0 +1,27 @@
+{
+  "id": "23200002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200002/23200002_256.png",
+  "character": "Ignis",
+  "name": "Stalwart Cook",
+  "name_jp": "親愛なる料理人",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "ATK and RES +30% for 25 seconds, grants [Haste], grants [Ingredients +2] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK and RES +30% for 25 seconds, grants [Haste], grants [Ingredients +2] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK and RES +30% for 25 seconds, grants [Haste], grants [Ingredients +2] and [Burst Mode] to the user"
+    }
+  ]
+}

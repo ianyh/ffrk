@@ -1,0 +1,30 @@
+{
+  "id": "22570016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570016/22570016_256.png",
+  "character": "Cid (IV)",
+  "name": "Machine Break",
+  "name_jp": "マシンブレイク",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)] if 0-3 FF4 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] if 4+ FF4 allies are alive, grants [Attach Lightning], [Awoken Airship Tech], [Damage Cap +10000] and [Buff Lightning 20% (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)] if 0-3 FF4 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] if 4+ FF4 allies are alive, grants [Attach Lightning], [Awoken Airship Tech], [Damage Cap +10000] and [Buff Lightning 20% (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)] if 0-3 FF4 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] if 4+ FF4 allies are alive, grants [Attach Lightning], [Awoken Airship Tech], [Damage Cap +10000] and [Buff Lightning 20% (15s)] to the user"
+    }
+  ]
+}

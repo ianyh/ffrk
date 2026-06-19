@@ -1,0 +1,30 @@
+{
+  "id": "22030009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030009/22030009_256.png",
+  "character": "Fang",
+  "name": "Bahamut Dive",
+  "name_jp": "ダイブオブバハムート",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Wind] and [Jump Instant Cast] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Wind] and [Jump Instant Cast] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Wind] and [Jump Instant Cast] to the user"
+    }
+  ]
+}

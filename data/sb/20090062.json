@@ -1,0 +1,27 @@
+{
+  "id": "20090062",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090062/20090062_256.png",
+  "character": "Rydia",
+  "name": "Soul Drive: Rydia",
+  "name_jp": "SD・リディア",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode: Rydia] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Rydia] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Rydia] and [Instant ATB 1] to the user"
+    }
+  ]
+}

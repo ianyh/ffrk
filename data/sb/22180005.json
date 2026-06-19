@@ -1,0 +1,30 @@
+{
+  "id": "22180005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180005/22180005_256.png",
+  "character": "Basch",
+  "name": "Shining Ray",
+  "name_jp": "シャイニングレイ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ]
+}

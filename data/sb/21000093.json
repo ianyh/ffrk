@@ -1,0 +1,27 @@
+{
+  "id": "21000093",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000093/21000093_256.png",
+  "character": "-",
+  "name": "Rekindle",
+  "name_jp": "再起",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "Single ally",
+  "lensable": false,
+  "effects": "Removes KO [Raise: 20%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes KO [Raise: 20%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes KO [Raise: 20%]"
+    }
+  ]
+}

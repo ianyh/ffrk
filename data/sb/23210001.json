@@ -1,0 +1,27 @@
+{
+  "id": "23210001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23210001/23210001_256.png",
+  "character": "Elarra",
+  "name": "Magika Album",
+  "name_jp": "マギカ・アルブム",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Regenga] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Regenga] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Regenga] and [High Quick Cast 2]"
+    }
+  ]
+}

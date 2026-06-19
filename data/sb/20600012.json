@@ -1,0 +1,30 @@
+{
+  "id": "20600012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600012/20600012_256.png",
+  "character": "Lightning",
+  "name": "Seismic Strike",
+  "name_jp": "烈破",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (0.52 each), grants [Attach Lightning Stacking] and [Attach Lightning] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Lightning Stacking] and [Attach Lightning] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Lightning Stacking] and [Attach Lightning] to the user"
+    }
+  ]
+}

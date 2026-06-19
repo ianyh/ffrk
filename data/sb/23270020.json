@@ -1,0 +1,27 @@
+{
+  "id": "23270020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270020/23270020_256.png",
+  "character": "Sice",
+  "name": "War-Awoken Venom Reaper (Weapon Skill)",
+  "name_jp": "戦醒ヴェノムリーパー",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Dark/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Bio Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark/Bio\nWS Blue: Lv.3 En-Dark/Bio Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 to Dark/Bio Abilities, Dark/Bio Ability Damage +50% & Quick Dark/Bio to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Bio Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark/Bio\nWS Blue: Lv.3 En-Dark/Bio Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 to Dark/Bio Abilities, Dark/Bio Ability Damage +50% & Quick Dark/Bio to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Bio Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark/Bio\nWS Blue: Lv.3 En-Dark/Bio Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 to Dark/Bio Abilities, Dark/Bio Ability Damage +50% & Quick Dark/Bio to user"
+    }
+  ]
+}

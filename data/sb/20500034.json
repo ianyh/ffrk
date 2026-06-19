@@ -1,0 +1,30 @@
+{
+  "id": "20500034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500034/20500034_256.png",
+  "character": "Quistis",
+  "name": "Woven Bond: Quistis (Water)",
+  "name_jp": "紡絆・キスティス水",
+  "tier": "LBC",
+  "sb_version": "LBC2",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Water/NE magic attacks at Cap Break Level 1, activates Water Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Water ability, grants Instant Cast 1 to party (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Water/NE magic attacks at Cap Break Level 1, activates Water Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Water ability, grants Instant Cast 1 to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Water/NE magic attacks at Cap Break Level 1, activates Water Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Water ability, grants Instant Cast 1 to party (max 1 chase)"
+    }
+  ]
+}

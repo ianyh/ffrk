@@ -1,0 +1,27 @@
+{
+  "id": "20730023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730023/20730023_256.png",
+  "character": "Fusoya",
+  "name": "Lunar Guardian",
+  "name_jp": "月の民の番人",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ]
+}

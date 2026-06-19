@@ -1,0 +1,27 @@
+{
+  "id": "22740009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740009/22740009_256.png",
+  "character": "Noctis",
+  "name": "Warp Factor",
+  "name_jp": "シフトブレイク強化",
+  "tier": "Glint",
+  "sb_version": "Glint2",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Critical Damage +50%] and [Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Critical Damage +50%] and [Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Critical Damage +50%] and [Quick Cast 2]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20500006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500006/20500006_256.png",
+  "character": "Quistis",
+  "name": "Doomtrain",
+  "name_jp": "G.F.グラシャラボラス",
+  "tier": "OSB",
+  "sb_version": "OSB1",
+  "realm": "VIII",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (39.60) capped at 99999, causes [Poison] (15%), [Blind] (15%), [Silence] (15%) and [Confuse] (15%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (39.60) capped at 99999, causes [Poison] (15%), [Blind] (15%), [Silence] (15%) and [Confuse] (15%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (39.60) capped at 99999, causes [Poison] (15%), [Blind] (15%), [Silence] (15%) and [Confuse] (15%)"
+    }
+  ]
+}

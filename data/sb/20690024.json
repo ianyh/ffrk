@@ -1,0 +1,29 @@
+{
+  "id": "20690024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690024/20690024_256.png",
+  "character": "Auron",
+  "name": "Secret Dragon Fang",
+  "name_jp": "秘伝・牙龍",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "X",
+  "elements": [
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

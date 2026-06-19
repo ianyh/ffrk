@@ -1,0 +1,27 @@
+{
+  "id": "22790028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790028/22790028_256.png",
+  "character": "Ace",
+  "name": "Continuous Flash: Ace (Fire)",
+  "name_jp": "連閃・エース炎",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23280011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280011/23280011_256.png",
+  "character": "Enna Kros",
+  "name": "The Creator's Rules",
+  "name_jp": "世界のルール・創造",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [World Watcher Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [World Watcher Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [World Watcher Mode] to the user"
+    }
+  ]
+}

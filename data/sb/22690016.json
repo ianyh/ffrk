@@ -1,0 +1,30 @@
+{
+  "id": "22690016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690016/22690016_256.png",
+  "character": "Lion",
+  "name": "True Pirate Pummel",
+  "name_jp": "真・パイレーツパメル",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF11 allies are alive, grants [Quick Cast 1] to all allies if 4+ FF11 allies are alive, grants [Attach Water with Stacking], [Awoken King of Beasts] and [Damage Cap +10000] to the user, grants [Inundating Pummel Follow-Up] to the user if 0-3 FF11 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF11 allies are alive, grants [Quick Cast 1] to all allies if 4+ FF11 allies are alive, grants [Attach Water with Stacking], [Awoken King of Beasts] and [Damage Cap +10000] to the user, grants [Inundating Pummel Follow-Up] to the user if 0-3 FF11 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF11 allies are alive, grants [Quick Cast 1] to all allies if 4+ FF11 allies are alive, grants [Attach Water with Stacking], [Awoken King of Beasts] and [Damage Cap +10000] to the user, grants [Inundating Pummel Follow-Up] to the user if 0-3 FF11 allies are alive"
+    }
+  ]
+}

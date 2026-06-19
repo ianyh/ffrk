@@ -1,0 +1,30 @@
+{
+  "id": "22040055",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040055/22040055_256.png",
+  "character": "Yuffie",
+  "name": "War-Awoken Skilled Deception (Weapon Skill)",
+  "name_jp": "戦醒才華欺騙",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "?",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing ranged hybrid attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Earth;\nWS Blue: Grants [Lv.2 En-Earth Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Damage +50% & Casting Speed x1.3 to Earth Abilities] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing ranged hybrid attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Earth;\nWS Blue: Grants [Lv.2 En-Earth Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Damage +50% & Casting Speed x1.3 to Earth Abilities] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing ranged hybrid attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Earth;\nWS Blue: Grants [Lv.2 En-Earth Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Damage +50% & Casting Speed x1.3 to Earth Abilities] to user"
+    }
+  ]
+}

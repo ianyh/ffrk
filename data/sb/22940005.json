@@ -1,0 +1,27 @@
+{
+  "id": "22940005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940005/22940005_256.png",
+  "character": "Scott",
+  "name": "Boundless Spirit",
+  "name_jp": "潰えぬ気炎",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive"
+    }
+  ]
+}

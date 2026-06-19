@@ -1,0 +1,27 @@
+{
+  "id": "22390009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390009/22390009_256.png",
+  "character": "Ovelia",
+  "name": "Saintly Wave",
+  "name_jp": "セイントウェーブ",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [HP Stock (2000)], grants [Attach Holy] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
+    }
+  ]
+}

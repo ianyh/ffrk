@@ -1,0 +1,80 @@
+{
+  "id": "20530030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530030/20530030_256.png",
+  "character": "Edgar",
+  "name": "Zenith Chainsaw",
+  "name_jp": "究極回転のこぎり",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Poison/Fire/Lightning, [Zenith Mode], [Zenith Mode: Edgar (Poison, Fire, Lightning)] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Poison/Fire/Lightning, [Zenith Mode], [Zenith Mode: Edgar (Poison, Fire, Lightning)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Zenith Mode: Edgar (Poison, Fire, Lightning)",
+      "text": "Increases [Fire/Lightning/Poison Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Fire, Lightning or Poison abilities trigger 1 additional time, casts Spirit Attack: Edgar after using three Fire, Lightning or Poison abilities (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Withering Shot+",
+      "text": "Three single attacks (1.10 each) causes [Imperil Poison 10% (5s)], [Imperil Fire 10% (5s)] and [Imperil Lightning 10% (5s)]"
+    },
+    {
+      "name": "Chainsaw+",
+      "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Edgar",
+      "text": "Grants [Machinist +30% Boost 2] and [Machinist Instant Cast 2] to the user"
+    },
+    {
+      "name": "Attach Poison 2 with Stacking",
+      "text": "Increase Attach Poison Level by 2 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Attach Fire 2 with Stacking",
+      "text": "Increase Attach Fire Level by 2 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Attach Lightning 2 with Stacking",
+      "text": "Increase Attach Lightning Level by 2 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Poison/Fire/Lightning, [Zenith Mode], [Zenith Mode: Edgar (Poison, Fire, Lightning)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Withering Shot+",
+      "text": "Three single attacks (1.10 each) causes [Imperil Poison 10% (5s)], [Imperil Fire 10% (5s)] and [Imperil Lightning 10% (5s)]"
+    },
+    {
+      "name": "Chainsaw+",
+      "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Edgar",
+      "text": "Grants [Machinist +30% Boost 2] and [Machinist Instant Cast 2] to the user"
+    }
+  ]
+}

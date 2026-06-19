@@ -1,0 +1,29 @@
+{
+  "id": "22830009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22830009/22830009_256.png",
+  "character": "Morrow",
+  "name": "Warriors of Time and Space",
+  "name_jp": "時空の戦士たち",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Beyond",
+  "elements": [
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "15 single attacks, Quick Cast & Prismatic Damage +30% to party, Awoken Time Traveller Mode to user\nAwoken Time Traveller Mode: Unlimited Support Hones, Support Rank Quick Cast & chases Support abilities with [DEF & RES -50%] > [ATK/MAG/DEF/RES -50%] for 8 seconds to all targets",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single attacks, Quick Cast & Prismatic Damage +30% to party, Awoken Time Traveller Mode to user\nAwoken Time Traveller Mode: Unlimited Support Hones, Support Rank Quick Cast & chases Support abilities with [DEF & RES -50%] > [ATK/MAG/DEF/RES -50%] for 8 seconds to all targets"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single attacks, Quick Cast & Prismatic Damage +30% to party, Awoken Time Traveller Mode to user\nAwoken Time Traveller Mode: Unlimited Support Hones, Support Rank Quick Cast & chases Support abilities with [DEF & RES -50%] > [ATK/MAG/DEF/RES -50%] for 8 seconds to all targets"
+    }
+  ]
+}

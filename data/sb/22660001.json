@@ -1,0 +1,30 @@
+{
+  "id": "22660001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22660001/22660001_256.png",
+  "character": "Reynn",
+  "name": "Channel Element: Ice",
+  "name_jp": "属性ハーモニクス・氷",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (1.99 each), minimum damage 1100, grants [Haste], [Attach Ice] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.99 each), minimum damage 1100, grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.99 each), minimum damage 1100, grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ]
+}

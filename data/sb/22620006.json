@@ -1,0 +1,30 @@
+{
+  "id": "22620006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620006/22620006_256.png",
+  "character": "Vayne",
+  "name": "Relentless Drive",
+  "name_jp": "不撓邁進",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single hybrid attacks (0.71 or 1.70 each), grants [Instant Cast 1] to all allies, grants [Attach Dark] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.71 or 1.70 each), grants [Instant Cast 1] to all allies, grants [Attach Dark] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.71 or 1.70 each), grants [Instant Cast 1] to all allies, grants [Attach Dark] and [Brave Mode] to the user"
+    }
+  ]
+}

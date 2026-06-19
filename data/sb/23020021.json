@@ -1,0 +1,27 @@
+{
+  "id": "23020021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020021/23020021_256.png",
+  "character": "Elena",
+  "name": "Continuous Flash: Elena",
+  "name_jp": "連閃・イリーナ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Linked Materia Mode II (Fire, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Linked Materia Mode II (Fire, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Linked Materia Mode II (Fire, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ]
+}

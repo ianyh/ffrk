@@ -1,0 +1,29 @@
+{
+  "id": "20070006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070006/20070006_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Paladin Force",
+  "name_jp": "パラディンフォース",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group ranged attacks (1.02 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.02 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.02 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ]
+}

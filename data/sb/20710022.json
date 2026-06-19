@@ -1,0 +1,29 @@
+{
+  "id": "20710022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710022/20710022_256.png",
+  "character": "Ashe",
+  "name": "Northswain Bolt",
+  "name_jp": "天砕北斗稲妻斬",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "XII",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ]
+}

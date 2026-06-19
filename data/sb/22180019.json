@@ -1,0 +1,32 @@
+{
+  "id": "22180019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180019/22180019_256.png",
+  "character": "Basch",
+  "name": "Apex Flame Purge",
+  "name_jp": "百鬼・烈日の破邪・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Flame Purge level 0/1, removes Arcane Dyad Empowered: Basch from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Flame Purge level 0/1, removes Arcane Dyad Empowered: Basch from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Flame Purge level 0/1, removes Arcane Dyad Empowered: Basch from the user"
+    }
+  ]
+}

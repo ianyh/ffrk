@@ -1,0 +1,27 @@
+{
+  "id": "22870020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870020/22870020_256.png",
+  "character": "Rubicante",
+  "name": "Spiraling Flash (Rubicante)",
+  "name_jp": "降閃【ルビカンテ】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Imperil Fire 40% (5s)] to target, grants [Quick Cast 2] to all allies.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Fire 40% (5s)] to target, grants [Quick Cast 2] to all allies."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Fire 40% (5s)] to target, grants [Quick Cast 2] to all allies."
+    }
+  ]
+}

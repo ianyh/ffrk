@@ -1,0 +1,31 @@
+{
+  "id": "20930020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930020/20930020_256.png",
+  "character": "Faris",
+  "name": "Flamestorm",
+  "name_jp": "フレイムストーム",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [ATK, DEF, MAG, RES and MND -30% (15s)]/[ATK, DEF, MAG, RES and MND -50% (15s)] if 1/2+ FF5 allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 2/4+ FF5 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [ATK, DEF, MAG, RES and MND -30% (15s)]/[ATK, DEF, MAG, RES and MND -50% (15s)] if 1/2+ FF5 allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 2/4+ FF5 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [ATK, DEF, MAG, RES and MND -30% (15s)]/[ATK, DEF, MAG, RES and MND -50% (15s)] if 1/2+ FF5 allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 2/4+ FF5 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20310018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310018/20310018_256.png",
+  "character": "Snow",
+  "name": "Soaring Tension",
+  "name_jp": "テンション爆あげ",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Last Stand] and [40% Damage Reduction Barrier 3] to all allies, grants [Attach Ice] and [Avenging Fist Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Last Stand] and [40% Damage Reduction Barrier 3] to all allies, grants [Attach Ice] and [Avenging Fist Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Last Stand] and [40% Damage Reduction Barrier 3] to all allies, grants [Attach Ice] and [Avenging Fist Follow-Up] to the user"
+    }
+  ]
+}

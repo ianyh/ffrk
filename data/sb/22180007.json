@@ -1,0 +1,30 @@
+{
+  "id": "22180007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180007/22180007_256.png",
+  "character": "Basch",
+  "name": "Clash of Light and Flame",
+  "name_jp": "光と紅蓮の衝撃",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), [DEF +100%] to the user for 25 seconds, grants [Attach Holy] and [Knight Rank Boost] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), [DEF +100%] to the user for 25 seconds, grants [Attach Holy] and [Knight Rank Boost] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), [DEF +100%] to the user for 25 seconds, grants [Attach Holy] and [Knight Rank Boost] to the user"
+    }
+  ]
+}

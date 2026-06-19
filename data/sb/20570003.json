@@ -1,0 +1,27 @@
+{
+  "id": "20570003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570003/20570003_256.png",
+  "character": "Steiner",
+  "name": "Sword Art Stock Break",
+  "name_jp": "剣技・ストックブレイク",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group attacks (1.37 each), causes [Paralyze] (15%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (1.37 each), causes [Paralyze] (15%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (1.37 each), causes [Paralyze] (15%)"
+    }
+  ]
+}

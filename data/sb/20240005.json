@@ -1,0 +1,27 @@
+{
+  "id": "20240005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240005/20240005_256.png",
+  "character": "Locke",
+  "name": "Valiant Strike",
+  "name_jp": "バリアントアタック",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (1.00 each), ATK increases as HP decreases",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.00 each), ATK increases as HP decreases"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.00 each), ATK increases as HP decreases"
+    }
+  ]
+}

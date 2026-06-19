@@ -1,0 +1,27 @@
+{
+  "id": "23230006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230006/23230006_256.png",
+  "character": "Ultimecia",
+  "name": "Time Tamperer",
+  "name_jp": "時への干渉",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Weakness +30% Boost (15s)] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Weakness +30% Boost (15s)] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Weakness +30% Boost (15s)] and [High Quick Cast 2]"
+    }
+  ]
+}

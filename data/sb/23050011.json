@@ -1,0 +1,32 @@
+{
+  "id": "23050011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23050011/23050011_256.png",
+  "character": "Montblanc",
+  "name": "Roaring Moogle Rush",
+  "name_jp": "轟・魔法アクセル",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "FFT",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks, grants Accel Mode, [Quick Cast] & [Instant ATB 1] to user\nAccel Mode: After using Black Magic/Dancer abilities, grants Prismatic Damage +10% for 5 seconds & 10% Damage Reduction Barrier 1 to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks, grants Accel Mode, [Quick Cast] & [Instant ATB 1] to user\nAccel Mode: After using Black Magic/Dancer abilities, grants Prismatic Damage +10% for 5 seconds & 10% Damage Reduction Barrier 1 to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks, grants Accel Mode, [Quick Cast] & [Instant ATB 1] to user\nAccel Mode: After using Black Magic/Dancer abilities, grants Prismatic Damage +10% for 5 seconds & 10% Damage Reduction Barrier 1 to party"
+    }
+  ]
+}

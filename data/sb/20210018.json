@@ -1,0 +1,30 @@
+{
+  "id": "20210018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210018/20210018_256.png",
+  "character": "Celes",
+  "name": "Apex Spinning Edge",
+  "name_jp": "スピニングエッジ・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Spinning Edge level 0/1/2, removes Arcane Dyad Empowered: Celes (Ice) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Spinning Edge level 0/1/2, removes Arcane Dyad Empowered: Celes (Ice) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Spinning Edge level 0/1/2, removes Arcane Dyad Empowered: Celes (Ice) from the user"
+    }
+  ]
+}

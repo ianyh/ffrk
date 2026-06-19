@@ -1,0 +1,27 @@
+{
+  "id": "20150021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150021/20150021_256.png",
+  "character": "Wakka",
+  "name": "Awoken Ace Lesson (Dual Shift)",
+  "name_jp": "覚醒エースレクチャー",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka)], removes [Dual Awoken Sharpshooter Mode I (Wakka)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka)], removes [Dual Awoken Sharpshooter Mode I (Wakka)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka)], removes [Dual Awoken Sharpshooter Mode I (Wakka)]"
+    }
+  ]
+}

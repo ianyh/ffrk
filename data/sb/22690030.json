@@ -1,0 +1,27 @@
+{
+  "id": "22690030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690030/22690030_256.png",
+  "character": "Lion",
+  "name": "War-Awoken Spiral Fall",
+  "name_jp": "戦醒スパイラルフォール",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lion], [ATK +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lion], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lion], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

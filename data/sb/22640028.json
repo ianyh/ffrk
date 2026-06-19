@@ -1,0 +1,27 @@
+{
+  "id": "22640028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640028/22640028_256.png",
+  "character": "Emperor",
+  "name": "Starry Dynamite",
+  "name_jp": "極星スティックボム",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Master Mode], [Master Mode: Emperor], [Instant ATB 1] and [Diffusion Barrier 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Emperor], [Instant ATB 1] and [Diffusion Barrier 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Emperor], [Instant ATB 1] and [Diffusion Barrier 1]"
+    }
+  ]
+}

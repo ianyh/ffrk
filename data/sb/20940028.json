@@ -1,0 +1,27 @@
+{
+  "id": "20940028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940028/20940028_256.png",
+  "character": "Krile",
+  "name": "Awoken Cleansing (Dual Shift)",
+  "name_jp": "覚醒てんちほうかい",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Successor Mode II (Krile)], removes [Dual Awoken Successor Mode I (Krile)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Successor Mode II (Krile)], removes [Dual Awoken Successor Mode I (Krile)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Successor Mode II (Krile)], removes [Dual Awoken Successor Mode I (Krile)]"
+    }
+  ]
+}

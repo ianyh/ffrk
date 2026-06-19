@@ -1,0 +1,30 @@
+{
+  "id": "22990001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990001/22990001_256.png",
+  "character": "Kiros",
+  "name": "Exsanguination",
+  "name_jp": "ブラッドペイン",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.74 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.74 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.74 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

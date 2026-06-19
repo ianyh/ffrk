@@ -1,0 +1,32 @@
+{
+  "id": "20270016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270016/20270016_256.png",
+  "character": "Firion",
+  "name": "Full Mastery",
+  "name_jp": "熟練度マスター",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "Ice",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Ice, Holy)], [Elemental Command Mode] and [Gulp] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Ice, Holy)], [Elemental Command Mode] and [Gulp] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Ice, Holy)], [Elemental Command Mode] and [Gulp] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22330005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330005/22330005_256.png",
+  "character": "Papalymo",
+  "name": "Enochian Firaja",
+  "name_jp": "エノキアンファイジャ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (1.88 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

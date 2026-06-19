@@ -1,0 +1,27 @@
+{
+  "id": "20270004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270004/20270004_256.png",
+  "character": "Firion",
+  "name": "Lord of Arms",
+  "name_jp": "ロードオブアームズ",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "II",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single ranged attacks (1.56 each), causes [Blind] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.56 each), causes [Blind] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.56 each), causes [Blind] (100%)"
+    }
+  ]
+}

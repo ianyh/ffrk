@@ -1,0 +1,30 @@
+{
+  "id": "22730017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730017/22730017_256.png",
+  "character": "Gogo (V)",
+  "name": "Illusory Mimicry",
+  "name_jp": "ものまねイリュージョン",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "V",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000] and [Mimicry Stunt Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000] and [Mimicry Stunt Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000] and [Mimicry Stunt Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20810016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810016/20810016_256.png",
+  "character": "Gilgamesh",
+  "name": "Time to Tussle!",
+  "name_jp": "いい気分だぜ！",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Soul Break Gauge +500]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ]
+}

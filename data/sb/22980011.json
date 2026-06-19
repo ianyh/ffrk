@@ -1,0 +1,31 @@
+{
+  "id": "22980011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980011/22980011_256.png",
+  "character": "Aranea",
+  "name": "Twice the Jump",
+  "name_jp": "トゥワイスジャンプ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged jump attacks (0.71 each), grants [Attach Lightning with Stacking], [Jump Instant Cast] and [Dragoon +30% Boost (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Attach Lightning with Stacking], [Jump Instant Cast] and [Dragoon +30% Boost (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Attach Lightning with Stacking], [Jump Instant Cast] and [Dragoon +30% Boost (15s)] to the user"
+    }
+  ]
+}

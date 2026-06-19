@@ -1,0 +1,30 @@
+{
+  "id": "23310003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310003/23310003_256.png",
+  "character": "Biggs",
+  "name": "Flashy Blow",
+  "name_jp": "オレ様流・気合一閃",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "Core",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
+    }
+  ]
+}

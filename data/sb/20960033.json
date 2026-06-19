@@ -1,0 +1,27 @@
+{
+  "id": "20960033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960033/20960033_256.png",
+  "character": "Y'shtola",
+  "name": "Continuous Flash: Y'shtola",
+  "name_jp": "連閃・ヤ・シュトラ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Stoneskin: 30%], grants [Soul Break Gauge +250] and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 30%], grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 30%], grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23120001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120001/23120001_256.png",
+  "character": "Estinien",
+  "name": "Skydragon Dive",
+  "name_jp": "蒼空のドラゴンダイブ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged jump attacks (0.71 each), grants [ATK and DEF +30%] for 25 seconds, [Attach Wind], [Quick Cast 1] and [Dragoon Quick Cycle: Wind] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [ATK and DEF +30%] for 25 seconds, [Attach Wind], [Quick Cast 1] and [Dragoon Quick Cycle: Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [ATK and DEF +30%] for 25 seconds, [Attach Wind], [Quick Cast 1] and [Dragoon Quick Cycle: Wind] to the user"
+    }
+  ]
+}

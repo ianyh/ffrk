@@ -1,0 +1,27 @@
+{
+  "id": "22460001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460001/22460001_256.png",
+  "character": "Onion Knight",
+  "name": "Vessel of Fate",
+  "name_jp": "予言の大器",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user"
+    }
+  ]
+}

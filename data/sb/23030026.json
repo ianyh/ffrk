@@ -1,0 +1,31 @@
+{
+  "id": "23030026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030026/23030026_256.png",
+  "character": "Ursula",
+  "name": "War-Awoken Flowery Rush (Weapon Skill)",
+  "name_jp": "戦醒麗華襲脚",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth/Fire Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Monk/IV members;\nWS Blue: Instant Physical to user\nWS Gold: Instant Physical to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth/Fire Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Monk/IV members;\nWS Blue: Instant Physical to user\nWS Gold: Instant Physical to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth/Fire Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Monk/IV members;\nWS Blue: Instant Physical to user\nWS Gold: Instant Physical to party"
+    }
+  ]
+}

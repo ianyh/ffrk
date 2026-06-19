@@ -1,0 +1,29 @@
+{
+  "id": "20060002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060002/20060002_256.png",
+  "character": "Cecil (Dark Knight)",
+  "name": "Darkness",
+  "name_jp": "あんこく",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "IV",
+  "elements": [
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group ranged attack (3.20), damages the user for 10% max HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.20), damages the user for 10% max HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.20), damages the user for 10% max HP"
+    }
+  ]
+}

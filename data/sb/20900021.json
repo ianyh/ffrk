@@ -1,0 +1,67 @@
+{
+  "id": "20900021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900021/20900021_256.png",
+  "character": "Mog",
+  "name": "Zenith Twilight Requiem",
+  "name_jp": "究極闇のレクイエム",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Zenith Mode], [Conditional Attach Element 3 with Stacking From Party], [Damage Cap +10000], [Zenith Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Causes [ATK -15%, DEF -70% (25s)] and [Imperil Prismatic 20% (25s)] to all enemies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Zenith Mode], [Conditional Attach Element 3 with Stacking From Party], [Damage Cap +10000], [Zenith Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Causes [ATK -15%, DEF -70% (25s)] and [Imperil Prismatic 20% (25s)] to all enemies"
+    },
+    {
+      "name": "Zenith Mode: Mog (Dragoon)",
+      "text": "Increases all elemental infusion damage bonuses by 20%, cast speed x1.10 for PHY abilities, Dragoon abilities trigger 1 additional time, casts [Spirit Attack: Mog II] on another ally after that ally uses a Dragoon ability (max 2), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Moogle Jump+",
+      "text": "Four single ranged jump attacks (1.10 each), 40% DEF piercing"
+    },
+    {
+      "name": "Star Strike: Mog II",
+      "text": "Grants [200% ATB 1], [Instant Cast 1], [Dragoon +30% Boost 1]"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Conditional Attach Element 3 with Stacking From Party",
+      "text": "Grants [Attach Fire 3 with Stacking]/[Attach Ice 3 with Stacking]/[Attach Lightning 3 with Stacking]/[Attach Earth 3 with Stacking]/[Attach Wind 3 with Stacking]/[Attach Water 3 with Stacking]/[Attach Holy 3 with Stacking]/[Attach Dark 3 with Stacking]/[Attach Poison 3 with Stacking] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Nature's Warrior Mode",
+      "text": "ATK +150%, DEF and RES +25%, cast speed x999999 to Dragoon abilities, triggers [Nature's Warrior] after using Dragoon abilities"
+    },
+    {
+      "name": "ATK -15%, DEF -70% (25s)",
+      "text": "ATK -15%, DEF -70%"
+    },
+    {
+      "name": "Imperil Prismatic 20% (25s)",
+      "text": "Causes [Imperil Fire 20% (25s)], [Imperil Ice 20% (25s)], [Imperil Lightning 20% (25s)], [Imperil Earth 20% (25s)], [Imperil Wind 20% (25s)], [Imperil Water 20% (25s)], [Imperil Holy 20% (25s)], [Imperil Dark 20% (25s)] and [Imperil Poison 20% (25s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Zenith Mode], [Conditional Attach Element 3 with Stacking From Party], [Damage Cap +10000], [Zenith Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Causes [ATK -15%, DEF -70% (25s)] and [Imperil Prismatic 20% (25s)] to all enemies"
+    },
+    {
+      "name": "Moogle Jump+",
+      "text": "Four single ranged jump attacks (1.10 each), 40% DEF piercing"
+    }
+  ]
+}

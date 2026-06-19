@@ -1,0 +1,27 @@
+{
+  "id": "22200002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200002/22200002_256.png",
+  "character": "Edea",
+  "name": "Inaugural Parade",
+  "name_jp": "魔女のパレード",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[MAG +20%] for 25 seconds, grants [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +20%] for 25 seconds, grants [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +20%] for 25 seconds, grants [Haste]"
+    }
+  ]
+}

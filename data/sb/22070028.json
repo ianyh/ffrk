@@ -1,0 +1,31 @@
+{
+  "id": "22070028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070028/22070028_256.png",
+  "character": "Kefka",
+  "name": "Radiant Scorn of Destruction",
+  "name_jp": "耀光破壊の嘲笑",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single-target Dark/Poison/NE magical attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Kefka (Dark) to the user\nCrystal Force I/II: Single-target overflow Dark/Poison/NE magic attack (34.60 each) capped at 199999; Crystal Force II: Grants [Damage Cap +10000 2], [Magical 30% Boost 2], [50% DEF/RES Pierce 2], & [200% ATB 1] to user; After using Crystal Force II, chases with 8 single-target Dark/Poison/NE magic attack (3.05 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Dark/Poison/NE magical attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Kefka (Dark) to the user\nCrystal Force I/II: Single-target overflow Dark/Poison/NE magic attack (34.60 each) capped at 199999; Crystal Force II: Grants [Damage Cap +10000 2], [Magical 30% Boost 2], [50% DEF/RES Pierce 2], & [200% ATB 1] to user; After using Crystal Force II, chases with 8 single-target Dark/Poison/NE magic attack (3.05 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Dark/Poison/NE magical attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Kefka (Dark) to the user\nCrystal Force I/II: Single-target overflow Dark/Poison/NE magic attack (34.60 each) capped at 199999; Crystal Force II: Grants [Damage Cap +10000 2], [Magical 30% Boost 2], [50% DEF/RES Pierce 2], & [200% ATB 1] to user; After using Crystal Force II, chases with 8 single-target Dark/Poison/NE magic attack (3.05 each)"
+    }
+  ]
+}

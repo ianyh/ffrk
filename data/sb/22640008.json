@@ -1,0 +1,32 @@
+{
+  "id": "22640008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640008/22640008_256.png",
+  "character": "Emperor",
+  "name": "Elemental Domination",
+  "name_jp": "ドミネートエレメンツ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Imperial Mode], [Damage Cap +10000], [Buff Earth 30% (15s)], [Buff Wind 30% (15s)], [Buff Dark 30% (15s)] and [Resist Break Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Imperial Mode], [Damage Cap +10000], [Buff Earth 30% (15s)], [Buff Wind 30% (15s)], [Buff Dark 30% (15s)] and [Resist Break Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Imperial Mode], [Damage Cap +10000], [Buff Earth 30% (15s)], [Buff Wind 30% (15s)], [Buff Dark 30% (15s)] and [Resist Break Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20360033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360033/20360033_256.png",
+  "character": "Garnet",
+  "name": "O Holy Guardian",
+  "name_jp": "守護神への祈り",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode II (Lightning, Holy)] and [Memories of Home Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode II (Lightning, Holy)] and [Memories of Home Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode II (Lightning, Holy)] and [Memories of Home Mode] to the user"
+    }
+  ]
+}

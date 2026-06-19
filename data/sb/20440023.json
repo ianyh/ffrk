@@ -1,0 +1,27 @@
+{
+  "id": "20440023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440023/20440023_256.png",
+  "character": "Balthier",
+  "name": "Rise and Fall",
+  "name_jp": "好転のアップダウン",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Causes [Imperil Fire 20% (15s)], grants [Buff Fire 20% (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Fire 20% (15s)], grants [Buff Fire 20% (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Fire 20% (15s)], grants [Buff Fire 20% (15s)] to the user"
+    }
+  ]
+}

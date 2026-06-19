@@ -1,0 +1,39 @@
+{
+  "id": "22950012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22950012/22950012_256.png",
+  "character": "Meliadoul",
+  "name": "Zenith Crush Armor",
+  "name_jp": "究極剛剣・強甲破点突き",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "FFT",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, Damage +5/10/15/20/25/30% to party if target has 0/1/2/3/4/5 Stat Breaks, Lv.2 En-Earth Stack or Lv.2 En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth/Holy Damage +20%, Physical Casting Speed x1.1 & chases an Earth/Holy ability with single-target Earth/Holy physical attack (3.36 each) capped at 99999  + ATK/MAG/DEF/RES -50% (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Shatter Armor+: 1.65s CT, Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, Damage +5/10/15/20/25/30% to party if target has 0/1/2/3/4/5 Stat Breaks, Lv.2 En-Earth Stack or Lv.2 En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth/Holy Damage +20%, Physical Casting Speed x1.1 & chases an Earth/Holy ability with single-target Earth/Holy physical attack (3.36 each) capped at 99999  + ATK/MAG/DEF/RES -50% (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Shatter Armor+: 1.65s CT, Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Shatter Armor+",
+      "text": "Five single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses, cast time 3.30/2.90/2.475/2.075/1.65 scaling with [Shatter Armor Uses], causes [Imperil Earth 10% (5s)] and [Imperil Holy 10% (5s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, Damage +5/10/15/20/25/30% to party if target has 0/1/2/3/4/5 Stat Breaks, Lv.2 En-Earth Stack or Lv.2 En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth/Holy Damage +20%, Physical Casting Speed x1.1 & chases an Earth/Holy ability with single-target Earth/Holy physical attack (3.36 each) capped at 99999  + ATK/MAG/DEF/RES -50% (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Shatter Armor+: 1.65s CT, Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Shatter Armor+",
+      "text": "Five single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses, cast time 3.30/2.90/2.475/2.075/1.65 scaling with [Shatter Armor Uses], causes [Imperil Earth 10% (5s)] and [Imperil Holy 10% (5s)]"
+    }
+  ]
+}

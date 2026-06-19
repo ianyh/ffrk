@@ -1,0 +1,32 @@
+{
+  "id": "22210011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210011/22210011_256.png",
+  "character": "Palom",
+  "name": "Coordinated Twin Meteor",
+  "name_jp": "ふたりがけ・Wメテオ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "Fire",
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning) v2], [Synchro Mode], [Damage Cap +10000] and [Double Bluff Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning) v2], [Synchro Mode], [Damage Cap +10000] and [Double Bluff Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning) v2], [Synchro Mode], [Damage Cap +10000] and [Double Bluff Mode] to the user"
+    }
+  ]
+}

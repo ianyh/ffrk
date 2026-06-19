@@ -1,0 +1,27 @@
+{
+  "id": "22080002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080002/22080002_256.png",
+  "character": "Exdeath",
+  "name": "Grand Cross",
+  "name_jp": "グランドクロス",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (2.37 each), grants [High Runic] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.37 each), grants [High Runic] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.37 each), grants [High Runic] to the user for 25 seconds"
+    }
+  ]
+}

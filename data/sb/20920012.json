@@ -1,0 +1,30 @@
+{
+  "id": "20920012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920012/20920012_256.png",
+  "character": "Reno",
+  "name": "Electro Rod Mark II",
+  "name_jp": "電気ロッド・マーク２",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Lightning], [Overflow Lightning Radiant Shield: 75%], [Awoken Lightning], [Damage Cap +10000], [Quick Cast] and [Electrostatic Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Lightning], [Overflow Lightning Radiant Shield: 75%], [Awoken Lightning], [Damage Cap +10000], [Quick Cast] and [Electrostatic Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Lightning], [Overflow Lightning Radiant Shield: 75%], [Awoken Lightning], [Damage Cap +10000], [Quick Cast] and [Electrostatic Mode] to the user"
+    }
+  ]
+}

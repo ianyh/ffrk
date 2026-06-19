@@ -1,0 +1,27 @@
+{
+  "id": "23200008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200008/23200008_256.png",
+  "character": "Ignis",
+  "name": "Tactical Sense",
+  "name_jp": "タクティカルセンス",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire with Stacking] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking] and [Instant Cast 1]"
+    }
+  ]
+}

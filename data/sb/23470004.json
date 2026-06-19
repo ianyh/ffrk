@@ -1,0 +1,30 @@
+{
+  "id": "23470004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23470004/23470004_256.png",
+  "character": "Genesis",
+  "name": "Apocalypse Genesis",
+  "name_jp": "アポカリプス・G",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [High Quick Cast 1], [Attach Fire], [50% Critical] and [Fire High Quick Cycle] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [High Quick Cast 1], [Attach Fire], [50% Critical] and [Fire High Quick Cycle] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [High Quick Cast 1], [Attach Fire], [50% Critical] and [Fire High Quick Cycle] to the user"
+    }
+  ]
+}

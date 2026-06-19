@@ -1,0 +1,29 @@
+{
+  "id": "20800006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800006/20800006_256.png",
+  "character": "Ingus",
+  "name": "Attested Strength",
+  "name_jp": "金剛不壊",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "III",
+  "elements": [
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies"
+    }
+  ]
+}

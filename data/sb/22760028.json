@@ -1,0 +1,27 @@
+{
+  "id": "22760028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760028/22760028_256.png",
+  "character": "Nabaat",
+  "name": "Fated Bond: Nabaat",
+  "name_jp": "絆・ナバート天命",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23070009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070009/23070009_256.png",
+  "character": "Marcus",
+  "name": "Moment of Vengeance",
+  "name_jp": "今こそ、年貢の納め時！",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.70 each), grants [Twin Element Mode II (Wind, Poison)], [High Quick Cast 1] and [Poison Trick (IX) Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Twin Element Mode II (Wind, Poison)], [High Quick Cast 1] and [Poison Trick (IX) Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Twin Element Mode II (Wind, Poison)], [High Quick Cast 1] and [Poison Trick (IX) Follow-Up] to the user"
+    }
+  ]
+}

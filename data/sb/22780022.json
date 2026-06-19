@@ -1,0 +1,33 @@
+{
+  "id": "22780022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780022/22780022_256.png",
+  "character": "Cid (XIV)",
+  "name": "War-Awoken Full Metal Field (Weapon Skill)",
+  "name_jp": "戦醒フルメタルバースト",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing ranged attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth/Wind/Poison Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Fire/Earth/Wind/Poison;\nWS Blue: Grants [Lv.2 En-Fire/Earth/Wind/Poison Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, ATD Speed x1.3 & Instant Cast to Fire/Earth/Wind/Poison Abilities] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing ranged attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth/Wind/Poison Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Fire/Earth/Wind/Poison;\nWS Blue: Grants [Lv.2 En-Fire/Earth/Wind/Poison Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, ATD Speed x1.3 & Instant Cast to Fire/Earth/Wind/Poison Abilities] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing ranged attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth/Wind/Poison Abilities, and Weapon Skill Blue/Gold if the user has at least Lv.0/2 En-Fire/Earth/Wind/Poison;\nWS Blue: Grants [Lv.2 En-Fire/Earth/Wind/Poison Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, ATD Speed x1.3 & Instant Cast to Fire/Earth/Wind/Poison Abilities] to user"
+    }
+  ]
+}

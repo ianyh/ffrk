@@ -1,0 +1,30 @@
+{
+  "id": "20950006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950006/20950006_256.png",
+  "character": "Thancred",
+  "name": "Kiss of the Jugulator",
+  "name_jp": "蜂毒喉斬り",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "XIV",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (1.34 each), causes [Stun] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.34 each), causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.34 each), causes [Stun] (100%)"
+    }
+  ]
+}

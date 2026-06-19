@@ -1,0 +1,30 @@
+{
+  "id": "20670011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670011/20670011_256.png",
+  "character": "Zell",
+  "name": "My Final Punch",
+  "name_jp": "俺式ファイナルパンチ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Monk], [Damage Cap +10000], [75% Critical (15s)] and [Rapid Heartbeat Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Monk], [Damage Cap +10000], [75% Critical (15s)] and [Rapid Heartbeat Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Monk], [Damage Cap +10000], [75% Critical (15s)] and [Rapid Heartbeat Mode] to the user"
+    }
+  ]
+}

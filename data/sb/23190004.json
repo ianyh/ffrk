@@ -1,0 +1,27 @@
+{
+  "id": "23190004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190004/23190004_256.png",
+  "character": "Cinque",
+  "name": "Cheerleader",
+  "name_jp": "気合",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "[ATK +35%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +35%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +35%] for 25 seconds"
+    }
+  ]
+}

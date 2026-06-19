@@ -1,0 +1,29 @@
+{
+  "id": "20240004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240004/20240004_256.png",
+  "character": "Locke",
+  "name": "Phoenix Plunder",
+  "name_jp": "フェニックスの秘宝",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "VI",
+  "elements": [
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group attack (3.30), restores HP (40) to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.30), restores HP (40) to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.30), restores HP (40) to all allies"
+    }
+  ]
+}

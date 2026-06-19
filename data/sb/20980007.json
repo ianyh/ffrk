@@ -1,0 +1,30 @@
+{
+  "id": "20980007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980007/20980007_256.png",
+  "character": "Edge",
+  "name": "Chaotic Moon",
+  "name_jp": "乱れ名月",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random attacks (0.71 each), grants [Chaotic Moon] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.71 each), grants [Chaotic Moon] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.71 each), grants [Chaotic Moon] to the user"
+    }
+  ]
+}

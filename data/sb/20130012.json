@@ -1,0 +1,29 @@
+{
+  "id": "20130012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20130012/20130012_256.png",
+  "character": "Tidus",
+  "name": "Slash & Splash",
+  "name_jp": "アサルト＆スプラッシュ",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "X",
+  "elements": [
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single ranged attacks (0.55 each), followed by one single ranged attack (8.00) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single ranged attacks (0.55 each), followed by one single ranged attack (8.00) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single ranged attacks (0.55 each), followed by one single ranged attack (8.00) capped at 99999"
+    }
+  ]
+}

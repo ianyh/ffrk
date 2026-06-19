@@ -1,0 +1,31 @@
+{
+  "id": "23490004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490004/23490004_256.png",
+  "character": "Rain",
+  "name": "Soul Prominence",
+  "name_jp": "ソウルプロミネンス",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Twin Element Mode II (Fire, Earth)] and [Perdition's Charge EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Twin Element Mode II (Fire, Earth)] and [Perdition's Charge EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Twin Element Mode II (Fire, Earth)] and [Perdition's Charge EX Mode] to the user"
+    }
+  ]
+}

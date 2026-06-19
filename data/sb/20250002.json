@@ -1,0 +1,27 @@
+{
+  "id": "20250002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250002/20250002_256.png",
+  "character": "Sephiroth",
+  "name": "Hell's Gate",
+  "name_jp": "獄門",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group attack (3.36)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.36)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.36)"
+    }
+  ]
+}

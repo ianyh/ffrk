@@ -1,0 +1,31 @@
+{
+  "id": "22950009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22950009/22950009_256.png",
+  "character": "Meliadoul",
+  "name": "Shatter Weapon",
+  "name_jp": "剛剣・冥界恐叫打",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "FFT",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode III (Earth, Holy)], [Synchro Mode], [Damage Cap +10000], [High Quick Cast 1] and [Ferocious Blade Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode III (Earth, Holy)], [Synchro Mode], [Damage Cap +10000], [High Quick Cast 1] and [Ferocious Blade Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode III (Earth, Holy)], [Synchro Mode], [Damage Cap +10000], [High Quick Cast 1] and [Ferocious Blade Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20770002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770002/20770002_256.png",
+  "character": "Hope",
+  "name": "Brutal Sanction",
+  "name_jp": "苛烈なる制裁",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three random attacks (3.50 each), causes [Stop] (50%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three random attacks (3.50 each), causes [Stop] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three random attacks (3.50 each), causes [Stop] (50%)"
+    }
+  ]
+}

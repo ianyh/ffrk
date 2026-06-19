@@ -1,0 +1,31 @@
+{
+  "id": "23030013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030013/23030013_256.png",
+  "character": "Ursula",
+  "name": "Sword and Fist",
+  "name_jp": "剣拳剛豪",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Sword and Fist level 0/1/2, removes Arcane Dyad Empowered: Ursula from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Sword and Fist level 0/1/2, removes Arcane Dyad Empowered: Ursula from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Sword and Fist level 0/1/2, removes Arcane Dyad Empowered: Ursula from the user"
+    }
+  ]
+}

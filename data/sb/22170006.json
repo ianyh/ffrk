@@ -1,0 +1,30 @@
+{
+  "id": "22170006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170006/22170006_256.png",
+  "character": "Vincent",
+  "name": "Lucrecia's Lament",
+  "name_jp": "ルクレツィアリグレット",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group hybrid ranged attacks (0.85 or 2.25 each), grants [Attach Fire], [Quick Cast 1], [Hellhound EX Mode] and [Hellhound ATK +30%] or [Hellhound MAG +30%] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group hybrid ranged attacks (0.85 or 2.25 each), grants [Attach Fire], [Quick Cast 1], [Hellhound EX Mode] and [Hellhound ATK +30%] or [Hellhound MAG +30%] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group hybrid ranged attacks (0.85 or 2.25 each), grants [Attach Fire], [Quick Cast 1], [Hellhound EX Mode] and [Hellhound ATK +30%] or [Hellhound MAG +30%] to the user"
+    }
+  ]
+}

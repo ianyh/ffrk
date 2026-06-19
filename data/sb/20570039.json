@@ -1,0 +1,32 @@
+{
+  "id": "20570039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570039/20570039_256.png",
+  "character": "Steiner",
+  "name": "War-Awoken Shocking Blade (Weapon Skill)",
+  "name_jp": "戦醒魔法剣・豪衝",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Fire/Ice/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire/Ice/Lightning\nWS Blue: Lv.2 En-Fire/Ice/Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Fire/Ice/Lightning Ability Damage +50% & Quadcast Fire/Ice Lightning 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/Ice/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire/Ice/Lightning\nWS Blue: Lv.2 En-Fire/Ice/Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Fire/Ice/Lightning Ability Damage +50% & Quadcast Fire/Ice Lightning 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/Ice/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire/Ice/Lightning\nWS Blue: Lv.2 En-Fire/Ice/Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Fire/Ice/Lightning Ability Damage +50% & Quadcast Fire/Ice Lightning 1 to user"
+    }
+  ]
+}

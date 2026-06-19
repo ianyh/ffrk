@@ -1,0 +1,27 @@
+{
+  "id": "22180015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180015/22180015_256.png",
+  "character": "Basch",
+  "name": "Faith Shield",
+  "name_jp": "希望を守る盾",
+  "tier": "CSB",
+  "sb_version": "CSB2",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates XII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates XII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates XII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ]
+}

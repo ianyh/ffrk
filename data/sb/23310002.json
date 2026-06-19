@@ -1,0 +1,31 @@
+{
+  "id": "23310002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310002/23310002_256.png",
+  "character": "Biggs",
+  "name": "Boulder Blow",
+  "name_jp": "オレ様流・聖岩裂斬",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Core",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.70 each), grants [Elbow Follow-Up] and [PHY +30%/50%/70% Boost] to the user scaling with [Boulder Blow Uses]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Elbow Follow-Up] and [PHY +30%/50%/70% Boost] to the user scaling with [Boulder Blow Uses]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Elbow Follow-Up] and [PHY +30%/50%/70% Boost] to the user scaling with [Boulder Blow Uses]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20630010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630010/20630010_256.png",
+  "character": "Golbez",
+  "name": "Creature of Shadow",
+  "name_jp": "参れ、黒竜！",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), damages the user for 99% current HP, grants [Attach Dark], [Stoneskin: 100%] and [Shadow Dragon Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), damages the user for 99% current HP, grants [Attach Dark], [Stoneskin: 100%] and [Shadow Dragon Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), damages the user for 99% current HP, grants [Attach Dark], [Stoneskin: 100%] and [Shadow Dragon Mode] to the user"
+    }
+  ]
+}

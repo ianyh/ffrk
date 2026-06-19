@@ -1,0 +1,33 @@
+{
+  "id": "20400018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400018/20400018_256.png",
+  "character": "Bartz",
+  "name": "Tetra Spellblade",
+  "name_jp": "マスター魔法剣・四光",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Water",
+    "Wind",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Buff Fire 30% (15s)], [Buff Water 30% (15s)], [Buff Wind 30% (15s)], [Buff Earth 30% (15s)], [Awoken Spellblade], [Damage Cap +10000] and [Barrage Master Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Buff Fire 30% (15s)], [Buff Water 30% (15s)], [Buff Wind 30% (15s)], [Buff Earth 30% (15s)], [Awoken Spellblade], [Damage Cap +10000] and [Barrage Master Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Buff Fire 30% (15s)], [Buff Water 30% (15s)], [Buff Wind 30% (15s)], [Buff Earth 30% (15s)], [Awoken Spellblade], [Damage Cap +10000] and [Barrage Master Follow-Up] to the user"
+    }
+  ]
+}

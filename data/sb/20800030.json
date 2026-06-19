@@ -1,0 +1,27 @@
+{
+  "id": "20800030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800030/20800030_256.png",
+  "character": "Ingus",
+  "name": "Continuous Flash: Ingus (Earth)",
+  "name_jp": "連閃・イングズ地",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Earth with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ]
+}

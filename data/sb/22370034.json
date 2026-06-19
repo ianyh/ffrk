@@ -1,0 +1,27 @@
+{
+  "id": "22370034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370034/22370034_256.png",
+  "character": "Gabranth",
+  "name": "War-Awoken Sword of Judgement",
+  "name_jp": "戦醒裁きを下す剣",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gabranth], [ATK +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gabranth], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gabranth], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

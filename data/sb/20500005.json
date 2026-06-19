@@ -1,0 +1,30 @@
+{
+  "id": "20500005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500005/20500005_256.png",
+  "character": "Quistis",
+  "name": "Hail to the Queen",
+  "name_jp": "コールミーキング",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VIII",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (1.88 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (1.88 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (1.88 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user"
+    }
+  ]
+}

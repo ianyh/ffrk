@@ -1,0 +1,27 @@
+{
+  "id": "20990018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990018/20990018_256.png",
+  "character": "Rosa",
+  "name": "Radiant Affect Form",
+  "name_jp": "耀光アフェクトフォーム",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "h60 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Support & Zero Hone Cost to White Magic/Support Abilities\nCrystal Force I/II: h60 heal, Quick Cast 1 & Magic Blink 1 to party, Instant Cast, Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "h60 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Support & Zero Hone Cost to White Magic/Support Abilities\nCrystal Force I/II: h60 heal, Quick Cast 1 & Magic Blink 1 to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "h60 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Support & Zero Hone Cost to White Magic/Support Abilities\nCrystal Force I/II: h60 heal, Quick Cast 1 & Magic Blink 1 to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22670002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670002/22670002_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Anti-air Particle Beam",
+  "name_jp": "高射式 波動砲",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group attacks (2.80 each), grants [Attach Dark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.80 each), grants [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.80 each), grants [Attach Dark] to the user"
+    }
+  ]
+}

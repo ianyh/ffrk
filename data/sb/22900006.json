@@ -1,0 +1,27 @@
+{
+  "id": "22900006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900006/22900006_256.png",
+  "character": "Gladiolus",
+  "name": "Double Charging...",
+  "name_jp": "ダブルチャージ",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Heavy Rank Boost] and [Heavy Charge +2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Heavy Rank Boost] and [Heavy Charge +2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Heavy Rank Boost] and [Heavy Charge +2]"
+    }
+  ]
+}

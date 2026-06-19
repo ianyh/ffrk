@@ -1,0 +1,30 @@
+{
+  "id": "22120035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120035/22120035_256.png",
+  "character": "Minwu",
+  "name": "Burst Break: Minwu (Break Arte)",
+  "name_jp": "烈破・ミンウ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single Overflow attack, grants [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ]
+}

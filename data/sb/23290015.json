@@ -1,0 +1,27 @@
+{
+  "id": "23290015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290015/23290015_256.png",
+  "character": "Tama",
+  "name": "Continuous Flash: Tama II",
+  "name_jp": "連閃・タマII",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Sorcery Damage +5% & Quick Cast 2 to party, Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Sorcery Damage +5% & Quick Cast 2 to party, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Sorcery Damage +5% & Quick Cast 2 to party, Quick ATB 1 to user"
+    }
+  ]
+}

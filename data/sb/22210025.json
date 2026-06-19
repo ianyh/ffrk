@@ -1,0 +1,30 @@
+{
+  "id": "22210025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210025/22210025_256.png",
+  "character": "Palom",
+  "name": "Woven Bond: Palom (Lightning)",
+  "name_jp": "紡絆・パロム雷",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit, grants [Chain Force Mode: Palom (Lightning)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit, grants [Chain Force Mode: Palom (Lightning)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit, grants [Chain Force Mode: Palom (Lightning)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23130004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130004/23130004_256.png",
+  "character": "Ysayle",
+  "name": "Dreams of Ice",
+  "name_jp": "氷結の幻想",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[MAG +15%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +15%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +15%] for 25 seconds"
+    }
+  ]
+}

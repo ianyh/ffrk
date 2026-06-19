@@ -1,0 +1,27 @@
+{
+  "id": "20410001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410001/20410001_256.png",
+  "character": "Irvine",
+  "name": "Normal Ammo",
+  "name_jp": "ショット・通常弾",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Three single ranged attacks (0.50 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (0.50 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (0.50 each)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20640030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640030/20640030_256.png",
+  "character": "Tellah",
+  "name": "Soul Drive: Tellah (Earth)",
+  "name_jp": "SD・テラ地",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants En-Earth to members with/without En-Earth & Quick ATB 1 to user after casting SB, removes Soul Drive Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants En-Earth to members with/without En-Earth & Quick ATB 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants En-Earth to members with/without En-Earth & Quick ATB 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ]
+}

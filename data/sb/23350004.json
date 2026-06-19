@@ -1,0 +1,27 @@
+{
+  "id": "23350004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23350004/23350004_256.png",
+  "character": "Lilisette",
+  "name": "Desperate Flourish",
+  "name_jp": "D.フラリッシュ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Awoken Moonshade Butterfly], [Troupe Mayakov Mode (Support, Dancer)] and [Troupe Mayakov Mode (Celerity)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Awoken Moonshade Butterfly], [Troupe Mayakov Mode (Support, Dancer)] and [Troupe Mayakov Mode (Celerity)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Awoken Moonshade Butterfly], [Troupe Mayakov Mode (Support, Dancer)] and [Troupe Mayakov Mode (Celerity)] to the user"
+    }
+  ]
+}

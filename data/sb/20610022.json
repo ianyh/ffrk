@@ -1,0 +1,72 @@
+{
+  "id": "20610022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610022/20610022_256.png",
+  "character": "Sazh",
+  "name": "Zenith Wild Assault",
+  "name_jp": "究極ワイルドアサルト",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIII",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Zenith Mode], [Zenith Mode: Sazh (Machinist)] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Zenith Mode], [Zenith Mode: Sazh (Machinist)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Zenith Mode: Sazh (Machinist)",
+      "text": "Cast speed x1.10 for PHY attacks, Machinist abilities trigger 1 additional time, casts Spirit Attack: Sazh (Machinist) after using two Machinist abilities (max 2), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Chocolina Blues+",
+      "text": "Grants [10% Damage Reduction Barrier 1], grants [Exertion ATK and MAG +5%/10%/20%/30%], grants [Exertion 1/2/3/3] to the user if the user has Exertion 0/1/2/3"
+    },
+    {
+      "name": "Godsend Shot+",
+      "text": "Three single ranged attacks (1.10/1.15 each) capped at 9999/19999 after 0-2/3+ uses, grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)] and [Buff Lightning 10% (15s)] to all allies every third activation"
+    },
+    {
+      "name": "Spirit Attack: Sazh (Machinist)",
+      "text": "Grants [Deadly Strikes +10% 1]/[Deadly Strikes +30% 1] if 0-3/4+ allies are Machinists"
+    },
+    {
+      "name": "100% Critical (25s)",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Zenith Mode], [Zenith Mode: Sazh (Machinist)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Chocolina Blues+",
+      "text": "Grants [10% Damage Reduction Barrier 1], grants [Exertion ATK and MAG +5%/10%/20%/30%], grants [Exertion 1/2/3/3] to the user if the user has Exertion 0/1/2/3"
+    },
+    {
+      "name": "Godsend Shot+",
+      "text": "Three single ranged attacks (1.10/1.15 each) capped at 9999/19999 after 0-2/3+ uses, grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)] and [Buff Lightning 10% (15s)] to all allies every third activation"
+    },
+    {
+      "name": "Spirit Attack: Sazh (Machinist)",
+      "text": "Grants [Deadly Strikes +10% 1]/[Deadly Strikes +30% 1] if 0-3/4+ allies are Machinists"
+    }
+  ]
+}

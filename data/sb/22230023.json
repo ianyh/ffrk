@@ -1,0 +1,27 @@
+{
+  "id": "22230023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230023/22230023_256.png",
+  "character": "Desch",
+  "name": "Awoken Bolt of the Ancients (Dual Shift)",
+  "name_jp": "覚醒古代の雷閃",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Dual Awoken Lightning Mode II (Desch v2)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Awoken Lightning Mode II (Desch v2)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Awoken Lightning Mode II (Desch v2)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

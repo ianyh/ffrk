@@ -1,0 +1,27 @@
+{
+  "id": "20610008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610008/20610008_256.png",
+  "character": "Sazh",
+  "name": "Gifted Pilot",
+  "name_jp": "スペシャルパイロット",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[DEF, MAG and RES +30%] for 25 seconds, grants [Haste] and [Astra]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF, MAG and RES +30%] for 25 seconds, grants [Haste] and [Astra]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF, MAG and RES +30%] for 25 seconds, grants [Haste] and [Astra]"
+    }
+  ]
+}

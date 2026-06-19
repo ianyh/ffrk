@@ -1,0 +1,30 @@
+{
+  "id": "23060043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060043/23060043_256.png",
+  "character": "Dr. Mog",
+  "name": "Puff",
+  "name_jp": "ドラゴラム",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Ten group attacks (1.43 each), grants [Attach Fire], [Buff Fire 20% (15s)] and [Intense Fire Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten group attacks (1.43 each), grants [Attach Fire], [Buff Fire 20% (15s)] and [Intense Fire Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten group attacks (1.43 each), grants [Attach Fire], [Buff Fire 20% (15s)] and [Intense Fire Follow-Up] to the user"
+    }
+  ]
+}

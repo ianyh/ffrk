@@ -1,0 +1,27 @@
+{
+  "id": "23090035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090035/23090035_256.png",
+  "character": "Machina",
+  "name": "Super Flash (Machina)",
+  "name_jp": "超閃【マキナ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Super Flash: Machina Follow-Up], [Instant ATB 1], [Limit Break Gauge +250].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Super Flash: Machina Follow-Up], [Instant ATB 1], [Limit Break Gauge +250]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Super Flash: Machina Follow-Up], [Instant ATB 1], [Limit Break Gauge +250]."
+    }
+  ]
+}

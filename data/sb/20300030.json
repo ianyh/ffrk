@@ -1,0 +1,27 @@
+{
+  "id": "20300030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300030/20300030_256.png",
+  "character": "Rinoa",
+  "name": "Awoken Cherubim Shot (Dual Shift)",
+  "name_jp": "覚醒ケルヴィムショット",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II: Rinoa] to the user, removes [Dual Awoken Ice Mode I: Rinoa] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II: Rinoa] to the user, removes [Dual Awoken Ice Mode I: Rinoa] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II: Rinoa] to the user, removes [Dual Awoken Ice Mode I: Rinoa] from the user"
+    }
+  ]
+}

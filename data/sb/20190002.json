@@ -1,0 +1,27 @@
+{
+  "id": "20190002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190002/20190002_256.png",
+  "character": "Josef",
+  "name": "Noble Sacrifice",
+  "name_jp": "反乱軍の魂",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK +50%] for 25 seconds, causes [KO] (100%) to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds, causes [KO] (100%) to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds, causes [KO] (100%) to the user"
+    }
+  ]
+}

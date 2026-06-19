@@ -1,0 +1,27 @@
+{
+  "id": "22570001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570001/22570001_256.png",
+  "character": "Cid (IV)",
+  "name": "Monkey Wrench",
+  "name_jp": "改造",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.98 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.98 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.98 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ]
+}

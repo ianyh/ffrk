@@ -1,0 +1,27 @@
+{
+  "id": "22390003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390003/22390003_256.png",
+  "character": "Ovelia",
+  "name": "Arcane Defense",
+  "name_jp": "魔法防御力UP",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[RES +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[RES +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[RES +30%] for 25 seconds"
+    }
+  ]
+}

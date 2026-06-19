@@ -1,0 +1,27 @@
+{
+  "id": "20630015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630015/20630015_256.png",
+  "character": "Golbez",
+  "name": "Chaos Barrier",
+  "name_jp": "カオスバリア",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking] and [Stoneskin: 100%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Stoneskin: 100%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Stoneskin: 100%]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22050004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050004/22050004_256.png",
+  "character": "Beatrix",
+  "name": "Seiken Shock",
+  "name_jp": "聖剣技・ショック",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.95 each), grants [Magical Blink 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.95 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.95 each), grants [Magical Blink 1] to all allies"
+    }
+  ]
+}

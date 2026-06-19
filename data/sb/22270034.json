@@ -1,0 +1,27 @@
+{
+  "id": "22270034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270034/22270034_256.png",
+  "character": "Braska",
+  "name": "Soul Drive: Braska (Fire)",
+  "name_jp": "SD・ブラスカ炎",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Braska], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Braska], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Braska], [Instant ATB 1] to user."
+    }
+  ]
+}

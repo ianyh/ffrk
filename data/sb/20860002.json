@@ -1,0 +1,27 @@
+{
+  "id": "20860002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860002/20860002_256.png",
+  "character": "Zidane",
+  "name": "Scoop Art",
+  "name_jp": "スクープアウト",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single ranged attacks (1.75 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (1.75 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (1.75 each)"
+    }
+  ]
+}

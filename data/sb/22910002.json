@@ -1,0 +1,27 @@
+{
+  "id": "22910002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22910002/22910002_256.png",
+  "character": "Iris",
+  "name": "Eclipse",
+  "name_jp": "エクリプス",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group attacks (2.80 each), grants [Haste] and [Critical Chance 50%] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.80 each), grants [Haste] and [Critical Chance 50%] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.80 each), grants [Haste] and [Critical Chance 50%] to all allies"
+    }
+  ]
+}

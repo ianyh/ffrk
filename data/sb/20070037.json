@@ -1,0 +1,29 @@
+{
+  "id": "20070037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070037/20070037_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Divine Might: Cecil (Paladin) (Holy)",
+  "name_jp": "神威・セシル聖",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "IV",
+  "elements": [
+    "Holy"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks (2.60/2.80/2.90/3.00 or 9.00/9.80/10.20/10.80 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.00 or 32.70 each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Holy abilities equipped on allies/5+ Holy Abilities equipped on allies and 2+ allies with Attach Holy",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (2.60/2.80/2.90/3.00 or 9.00/9.80/10.20/10.80 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.00 or 32.70 each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Holy abilities equipped on allies/5+ Holy Abilities equipped on allies and 2+ allies with Attach Holy"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (2.60/2.80/2.90/3.00 or 9.00/9.80/10.20/10.80 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.00 or 32.70 each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Holy abilities equipped on allies/5+ Holy Abilities equipped on allies and 2+ allies with Attach Holy"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20210001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210001/20210001_256.png",
+  "character": "Celes",
+  "name": "Magic Shield",
+  "name_jp": "魔法バリア",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[RES +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[RES +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[RES +50%] for 25 seconds"
+    }
+  ]
+}

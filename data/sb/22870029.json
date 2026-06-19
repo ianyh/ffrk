@@ -1,0 +1,27 @@
+{
+  "id": "22870029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870029/22870029_256.png",
+  "character": "Rubicante",
+  "name": "Super Flash (Rubicante)",
+  "name_jp": "超閃【ルビカンテ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ]
+}

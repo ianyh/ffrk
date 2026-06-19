@@ -1,0 +1,30 @@
+{
+  "id": "20830030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830030/20830030_256.png",
+  "character": "Cid (VII)",
+  "name": "Burst Break: Cid (VII) (Break Arte)",
+  "name_jp": "烈破・シド(VII)",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single Overflow jump attack, grants [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow jump attack, grants [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow jump attack, grants [Instant ATB 1] to user"
+    }
+  ]
+}

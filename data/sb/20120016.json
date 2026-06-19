@@ -1,0 +1,27 @@
+{
+  "id": "20120016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20120016/20120016_256.png",
+  "character": "Aerith",
+  "name": "Planetary Pulse",
+  "name_jp": "星命の鼓動",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Haste], [Regenga] and [Physical Quick Cast], removes negative effects, grants [Awoken Cetra Strength] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste], [Regenga] and [Physical Quick Cast], removes negative effects, grants [Awoken Cetra Strength] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste], [Regenga] and [Physical Quick Cast], removes negative effects, grants [Awoken Cetra Strength] to the user"
+    }
+  ]
+}

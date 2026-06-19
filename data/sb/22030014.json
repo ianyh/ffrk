@@ -1,0 +1,30 @@
+{
+  "id": "22030014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030014/22030014_256.png",
+  "character": "Fang",
+  "name": "Destruction Dive",
+  "name_jp": "デストロイダイブ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind], [Awoken Dragoon], [Damage Cap +20000] and [Dragon Strike Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind], [Awoken Dragoon], [Damage Cap +20000] and [Dragon Strike Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind], [Awoken Dragoon], [Damage Cap +20000] and [Dragon Strike Mode] to the user"
+    }
+  ]
+}

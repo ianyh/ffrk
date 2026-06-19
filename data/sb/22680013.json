@@ -1,0 +1,31 @@
+{
+  "id": "22680013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680013/22680013_256.png",
+  "character": "Prishe",
+  "name": "Hundred Fists",
+  "name_jp": "百烈拳",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XI",
+  "elements": [
+    "Lightning",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Ice, Lightning) v2], [Synchro Mode], [Damage Cap +10000] and [Unexpected Assault Mode] to the user, grants [Instant Cast 1]/[100% Critical 3] to the user if 0-3/4+ FF11 allies are alive, grants [Critical Damage +50% 3] and [Instant Cast 1] to all allies if 4+ FF11 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Ice, Lightning) v2], [Synchro Mode], [Damage Cap +10000] and [Unexpected Assault Mode] to the user, grants [Instant Cast 1]/[100% Critical 3] to the user if 0-3/4+ FF11 allies are alive, grants [Critical Damage +50% 3] and [Instant Cast 1] to all allies if 4+ FF11 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode III (Ice, Lightning) v2], [Synchro Mode], [Damage Cap +10000] and [Unexpected Assault Mode] to the user, grants [Instant Cast 1]/[100% Critical 3] to the user if 0-3/4+ FF11 allies are alive, grants [Critical Damage +50% 3] and [Instant Cast 1] to all allies if 4+ FF11 allies are alive"
+    }
+  ]
+}

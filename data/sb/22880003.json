@@ -1,0 +1,27 @@
+{
+  "id": "22880003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880003/22880003_256.png",
+  "character": "Aphmau",
+  "name": "Remove & Resist",
+  "name_jp": "レジスト＆リペアー",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Astra] and [High Regen]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra] and [High Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra] and [High Regen]"
+    }
+  ]
+}

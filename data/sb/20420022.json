@@ -1,0 +1,30 @@
+{
+  "id": "20420022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420022/20420022_256.png",
+  "character": "Arc",
+  "name": "Woven Bond: Arc",
+  "name_jp": "紡絆・アルクゥ",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "III",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single hybrid attacks (2.70/2.60 each) capped at 19999, element of entry damage changes to Water/NE if the user has any Attach Water, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Arc] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (2.70/2.60 each) capped at 19999, element of entry damage changes to Water/NE if the user has any Attach Water, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Arc] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (2.70/2.60 each) capped at 19999, element of entry damage changes to Water/NE if the user has any Attach Water, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Arc] and [Instant ATB 1] to the user"
+    }
+  ]
+}

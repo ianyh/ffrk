@@ -1,0 +1,27 @@
+{
+  "id": "20080036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080036/20080036_256.png",
+  "character": "Kain",
+  "name": "Continuous Flash: Kain (Lightning)",
+  "name_jp": "連閃・カイン雷",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Lightning with Stacking], [Instant Cast 1], [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning with Stacking], [Instant Cast 1], [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning with Stacking], [Instant Cast 1], [Instant ATB 1] to the user"
+    }
+  ]
+}

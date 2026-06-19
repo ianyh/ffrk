@@ -1,0 +1,30 @@
+{
+  "id": "20330005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330005/20330005_256.png",
+  "character": "Warrior of Light",
+  "name": "Ultimate Shield",
+  "name_jp": "アルティメットシールド",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "I",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.81 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.81 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.81 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22070006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070006/22070006_256.png",
+  "character": "Kefka",
+  "name": "Harness the Fiend",
+  "name_jp": "魔導吸引・魔神像",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "Poison"
+  ],
+  "type": "BLK",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (1.88 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (1.88 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (1.88 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ]
+}

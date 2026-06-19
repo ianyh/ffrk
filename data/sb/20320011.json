@@ -1,0 +1,27 @@
+{
+  "id": "20320011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320011/20320011_256.png",
+  "character": "Vanille",
+  "name": "Overdo Awakening",
+  "name_jp": "星霜の果ての目覚め",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "XIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Causes [ATK, DEF, MAG and RES -40%] for 25 seconds, restores HP (85) to all allies, grants [Regenga] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG and RES -40%] for 25 seconds, restores HP (85) to all allies, grants [Regenga] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG and RES -40%] for 25 seconds, restores HP (85) to all allies, grants [Regenga] to all allies"
+    }
+  ]
+}

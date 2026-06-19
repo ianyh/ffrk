@@ -1,0 +1,30 @@
+{
+  "id": "20950009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950009/20950009_256.png",
+  "character": "Thancred",
+  "name": "Kassatsu Doton",
+  "name_jp": "活殺土遁の術",
+  "tier": "BSB",
+  "sb_version": "BSB3",
+  "realm": "XIV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.65 each), causes [Imperil Earth 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.65 each), causes [Imperil Earth 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.65 each), causes [Imperil Earth 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

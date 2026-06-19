@@ -1,0 +1,31 @@
+{
+  "id": "20930035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930035/20930035_256.png",
+  "character": "Faris",
+  "name": "Radiant Phantom",
+  "name_jp": "耀光フェーンファントム",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven ranged single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Fire with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Faris] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven ranged single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Fire with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Faris] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven ranged single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Fire with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Faris] to the user"
+    }
+  ]
+}

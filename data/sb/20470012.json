@@ -1,0 +1,30 @@
+{
+  "id": "20470012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470012/20470012_256.png",
+  "character": "Red XIII",
+  "name": "Lunatic Roar",
+  "name_jp": "ルナティックロア",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Earth], [Damage Cap +10000], [High Quick Cast] and [Howling Stone Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Earth], [Damage Cap +10000], [High Quick Cast] and [Howling Stone Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth], [Awoken Earth], [Damage Cap +10000], [High Quick Cast] and [Howling Stone Follow-Up] to the user"
+    }
+  ]
+}

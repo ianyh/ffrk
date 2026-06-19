@@ -1,0 +1,30 @@
+{
+  "id": "20820016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820016/20820016_256.png",
+  "character": "Seifer",
+  "name": "Apex Zantetsuken Reverse",
+  "name_jp": "斬鉄剣返し・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Zantetsuken Reverse level 0/1/2, removes Arcane Dyad Empowered: Seifer from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Zantetsuken Reverse level 0/1/2, removes Arcane Dyad Empowered: Seifer from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Zantetsuken Reverse level 0/1/2, removes Arcane Dyad Empowered: Seifer from the user"
+    }
+  ]
+}

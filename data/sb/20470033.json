@@ -1,0 +1,38 @@
+{
+  "id": "20470033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470033/20470033_256.png",
+  "character": "Red XIII",
+  "name": "Burst Break: Red XIII (Break Arte)",
+  "name_jp": "烈破・レッドXIII",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Red XIII], [Instant ATB 1] to user. Grants [Attach Earth with Secondary Stacking].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Red XIII], [Instant ATB 1] to user. Grants [Attach Earth with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Red XIII], [Instant ATB 1] to user. Grants [Attach Earth with Secondary Stacking]."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22270007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270007/22270007_256.png",
+  "character": "Braska",
+  "name": "Summon Fire II",
+  "name_jp": "2世代召喚・炎",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Summoning], [Damage Cap +10000] and [Crimson Wildfire Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Summoning], [Damage Cap +10000] and [Crimson Wildfire Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Summoning], [Damage Cap +10000] and [Crimson Wildfire Follow-Up] to the user"
+    }
+  ]
+}

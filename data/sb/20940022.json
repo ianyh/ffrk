@@ -1,0 +1,31 @@
+{
+  "id": "20940022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940022/20940022_256.png",
+  "character": "Krile",
+  "name": "Baldesion Attack",
+  "name_jp": "バルデシオンあたっく",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Earth)] and [Baldesion Attack] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Earth)] and [Baldesion Attack] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Earth)] and [Baldesion Attack] to the user"
+    }
+  ]
+}

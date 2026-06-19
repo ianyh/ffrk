@@ -1,0 +1,31 @@
+{
+  "id": "20980016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980016/20980016_256.png",
+  "character": "Edge",
+  "name": "Eblan Lotus",
+  "name_jp": "エブラーナ流・蓮華",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Fire",
+    "Lightning"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single hybrid attacks (1.00 or 6.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single hybrid attacks (1.00 or 6.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single hybrid attacks (1.00 or 6.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance"
+    }
+  ]
+}

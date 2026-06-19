@@ -1,0 +1,30 @@
+{
+  "id": "22040008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040008/22040008_256.png",
+  "character": "Yuffie",
+  "name": "Doom of the Living",
+  "name_jp": "生者必滅",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.83 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.83 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.83 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

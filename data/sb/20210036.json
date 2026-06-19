@@ -1,0 +1,27 @@
+{
+  "id": "20210036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210036/20210036_256.png",
+  "character": "Celes",
+  "name": "Fated Bond: Celes",
+  "name_jp": "絆・セリス天命",
+  "tier": "CSB",
+  "sb_version": "CSB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Spellblade Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Spellblade Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Spellblade Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20070028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070028/20070028_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Awoken Radiant Blast (Dual Shift)",
+  "name_jp": "覚醒シャインブラスト",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Cecil (Paladin))], removes [Dual Awoken Holy Mode I (Cecil (Paladin))]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Cecil (Paladin))], removes [Dual Awoken Holy Mode I (Cecil (Paladin))]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Cecil (Paladin))], removes [Dual Awoken Holy Mode I (Cecil (Paladin))]"
+    }
+  ]
+}

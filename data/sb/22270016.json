@@ -1,0 +1,30 @@
+{
+  "id": "22270016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270016/22270016_256.png",
+  "character": "Braska",
+  "name": "Apex Ifrit",
+  "name_jp": "召喚イフリート・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Ifrit level 0/1/2, removes Arcane Dyad Empowered: Braska from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Ifrit level 0/1/2, removes Arcane Dyad Empowered: Braska from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Ifrit level 0/1/2, removes Arcane Dyad Empowered: Braska from the user"
+    }
+  ]
+}

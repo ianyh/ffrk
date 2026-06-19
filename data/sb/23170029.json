@@ -1,0 +1,27 @@
+{
+  "id": "23170029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170029/23170029_256.png",
+  "character": "Kelger",
+  "name": "Soul Drive: Kelger",
+  "name_jp": "SD・ケルガー",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Kelger], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Kelger], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Kelger], [Instant ATB 1] to user."
+    }
+  ]
+}

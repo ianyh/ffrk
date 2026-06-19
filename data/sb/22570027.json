@@ -1,0 +1,27 @@
+{
+  "id": "22570027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570027/22570027_256.png",
+  "character": "Cid (IV)",
+  "name": "War-Awoken Electrified Spanner",
+  "name_jp": "戦醒帯電雷鳴スパナ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cid (IV)], [ATK +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cid (IV)], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cid (IV)], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

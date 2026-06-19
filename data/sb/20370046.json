@@ -1,0 +1,27 @@
+{
+  "id": "20370046",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370046/20370046_256.png",
+  "character": "Vivi",
+  "name": "Starry Bio Flare",
+  "name_jp": "極星バイオフレア",
+  "tier": "MASB",
+  "sb_version": "MASB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user, Poison Damage +5% to party\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Poison/NE magic attacks, Poison Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Poison/NE magic attack at True Cap Break Level 1, Poison Damage +30% for 1 turn to party, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user, Poison Damage +5% to party\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Poison/NE magic attacks, Poison Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Poison/NE magic attack at True Cap Break Level 1, Poison Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user, Poison Damage +5% to party\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Poison/NE magic attacks, Poison Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Poison/NE magic attack at True Cap Break Level 1, Poison Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ]
+}

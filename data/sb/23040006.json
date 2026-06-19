@@ -1,0 +1,27 @@
+{
+  "id": "23040006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23040006/23040006_256.png",
+  "character": "Marche",
+  "name": "First Aid (FFT)",
+  "name_jp": "応急処置【FFT】",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores 2000 HP, removes negative effects",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores 2000 HP, removes negative effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores 2000 HP, removes negative effects"
+    }
+  ]
+}

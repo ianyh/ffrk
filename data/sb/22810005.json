@@ -1,0 +1,30 @@
+{
+  "id": "22810005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810005/22810005_256.png",
+  "character": "Nine",
+  "name": "Laser Lance",
+  "name_jp": "ストライクランサー",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Rugged Bond Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Rugged Bond Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Rugged Bond Mode] to the user"
+    }
+  ]
+}

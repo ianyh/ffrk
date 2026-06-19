@@ -1,0 +1,27 @@
+{
+  "id": "22470009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470009/22470009_256.png",
+  "character": "Curilla",
+  "name": "One-Eyed Swordsmaster",
+  "name_jp": "隻眼の女剣士",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Holy Stacking], [Attach Holy] and [Stoneskin: 100%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy Stacking], [Attach Holy] and [Stoneskin: 100%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy Stacking], [Attach Holy] and [Stoneskin: 100%]"
+    }
+  ]
+}

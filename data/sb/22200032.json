@@ -1,0 +1,31 @@
+{
+  "id": "22200032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200032/22200032_256.png",
+  "character": "Edea",
+  "name": "Continuous Flash: Edea",
+  "name_jp": "連閃・イデア",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Six single attacks (2.60 each), Grants [Instant Cast 1] to all allies, Grants [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (2.60 each), Grants [Instant Cast 1] to all allies, Grants [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (2.60 each), Grants [Instant Cast 1] to all allies, Grants [Instant ATB 1] to the user"
+    }
+  ]
+}

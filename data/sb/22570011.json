@@ -1,0 +1,27 @@
+{
+  "id": "22570011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570011/22570011_256.png",
+  "character": "Cid (IV)",
+  "name": "Awoken X Chaser (Dual Shift)",
+  "name_jp": "覚醒エックスチェイサー",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1], [Last Stand] and [Dual Awoken Lightning Mode II (Cid (IV))], removes [Dual Awoken Lightning Mode I (Cid (IV))]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1], [Last Stand] and [Dual Awoken Lightning Mode II (Cid (IV))], removes [Dual Awoken Lightning Mode I (Cid (IV))]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1], [Last Stand] and [Dual Awoken Lightning Mode II (Cid (IV))], removes [Dual Awoken Lightning Mode I (Cid (IV))]"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20880015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880015/20880015_256.png",
+  "character": "Lulu",
+  "name": "Triple Trick",
+  "name_jp": "トリプルトリック",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Water",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.79 each), grants [MAG and RES +30% (25s)], [Instant Cast 2] and [Triple Sphere Mode II (Ice, Lightning, Water)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.79 each), grants [MAG and RES +30% (25s)], [Instant Cast 2] and [Triple Sphere Mode II (Ice, Lightning, Water)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.79 each), grants [MAG and RES +30% (25s)], [Instant Cast 2] and [Triple Sphere Mode II (Ice, Lightning, Water)] to the user"
+    }
+  ]
+}

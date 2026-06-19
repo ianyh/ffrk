@@ -1,0 +1,30 @@
+{
+  "id": "22460039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460039/22460039_256.png",
+  "character": "Onion Knight",
+  "name": "Channel Fire",
+  "name_jp": "炎の潜在力・魔",
+  "tier": "SASB",
+  "sb_version": "SASB5",
+  "realm": "III",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Fire's Revelation Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Fire's Revelation Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Fire's Revelation Mode] to the user"
+    }
+  ]
+}

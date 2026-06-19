@@ -1,0 +1,27 @@
+{
+  "id": "20530018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530018/20530018_256.png",
+  "character": "Edgar",
+  "name": "Trinity Down",
+  "name_jp": "トリニティダウン",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Causes [Imperil Poison 20% (25s)], [Imperil Fire 20% (25s)] and [Imperil Lightning 20% (25s)], grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Poison 20% (25s)], [Imperil Fire 20% (25s)] and [Imperil Lightning 20% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Poison 20% (25s)], [Imperil Fire 20% (25s)] and [Imperil Lightning 20% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ]
+}

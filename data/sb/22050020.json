@@ -1,0 +1,27 @@
+{
+  "id": "22050020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050020/22050020_256.png",
+  "character": "Beatrix",
+  "name": "Holy Bond (Beatrix)",
+  "name_jp": "聖絆【ベアトリクス】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Holy Chain (max 150, field +50%), grants [Buff Holy 10% (5s)]/[Buff Holy 20% (5s)]/[Buff Holy 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Holy], grants [ATK +50% (25s)], grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +50%), grants [Buff Holy 10% (5s)]/[Buff Holy 20% (5s)]/[Buff Holy 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Holy], grants [ATK +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +50%), grants [Buff Holy 10% (5s)]/[Buff Holy 20% (5s)]/[Buff Holy 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Holy], grants [ATK +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ]
+}

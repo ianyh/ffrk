@@ -1,0 +1,27 @@
+{
+  "id": "20940002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940002/20940002_256.png",
+  "character": "Krile",
+  "name": "Wind Drake's Roar",
+  "name_jp": "飛竜の咆哮",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "V",
+  "elements": [],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group attack (7.60), causes [Stun] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.60), causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.60), causes [Stun] (100%)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22990025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990025/22990025_256.png",
+  "character": "Kiros",
+  "name": "Woven Bond: Kiros",
+  "name_jp": "紡絆・キロス",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Dark/NE or Ice/NE physical attacks at Cap Break Level 1 under En-Dark or En-Ice, activates VIII Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Dark/Ice abilities, chases with 6 single-target Dark/Ice/NE physical attacks (max 2 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Dark/NE or Ice/NE physical attacks at Cap Break Level 1 under En-Dark or En-Ice, activates VIII Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Dark/Ice abilities, chases with 6 single-target Dark/Ice/NE physical attacks (max 2 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Dark/NE or Ice/NE physical attacks at Cap Break Level 1 under En-Dark or En-Ice, activates VIII Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Dark/Ice abilities, chases with 6 single-target Dark/Ice/NE physical attacks (max 2 chases)"
+    }
+  ]
+}

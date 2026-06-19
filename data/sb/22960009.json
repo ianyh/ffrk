@@ -1,0 +1,27 @@
+{
+  "id": "22960009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960009/22960009_256.png",
+  "character": "Aria",
+  "name": "Rainbow Prayer",
+  "name_jp": "虹空への祈り",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "III",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Water Quick Cast 4], grants [Attach Water], [Synchro Mode], [Damage Cap +10000] and [Maiden of Water Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Water Quick Cast 4], grants [Attach Water], [Synchro Mode], [Damage Cap +10000] and [Maiden of Water Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Water Quick Cast 4], grants [Attach Water], [Synchro Mode], [Damage Cap +10000] and [Maiden of Water Mode] to the user"
+    }
+  ]
+}

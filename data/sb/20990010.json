@@ -1,0 +1,27 @@
+{
+  "id": "20990010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990010/20990010_256.png",
+  "character": "Rosa",
+  "name": "Sacred Healing",
+  "name_jp": "セイクリッドヒール",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste] and [Magical Blink 2], grants [Awoken Love] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste] and [Magical Blink 2], grants [Awoken Love] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste] and [Magical Blink 2], grants [Awoken Love] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22340003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340003/22340003_256.png",
+  "character": "Yang",
+  "name": "Exploding Volcano Kick",
+  "name_jp": "爆裂霊山脚",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (1.03 each), causes [Imperil Earth 20%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (1.03 each), causes [Imperil Earth 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (1.03 each), causes [Imperil Earth 20%] for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23090026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090026/23090026_256.png",
+  "character": "Machina",
+  "name": "Radiant Siphon Sword",
+  "name_jp": "耀光ドレインソード",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Earth/Dark/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/Dark/NE physical attacks at Cap Break Level 1, Instant Cast, PHY Damage +15% for 1 turn to party, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/Dark/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/Dark/NE physical attacks at Cap Break Level 1, Instant Cast, PHY Damage +15% for 1 turn to party, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/Dark/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/Dark/NE physical attacks at Cap Break Level 1, Instant Cast, PHY Damage +15% for 1 turn to party, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

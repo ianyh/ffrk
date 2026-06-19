@@ -1,0 +1,38 @@
+{
+  "id": "23620003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23620003/23620003_256.png",
+  "character": "Torgal",
+  "name": "Zenith Millennial Decay",
+  "name_jp": "究極千年の風化",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XVI",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Prismatic/NE magic attacks at Cap Break Level 1 + DEF/RES/MND -70%, Instant Cast, ATK/MAG/DEF/RES +30% & Quick Cast to party, Ultimate Mode to user\nUltimate Spirit Mode: Support/Celerity/Black Magic Casting Speed x1.1 & chases allies' [Element] abilities with Quick ATB 1 & [Element] Ability Damage +30% for 1 turn to that ally (max 3 chases)\nUltimate Dexterity Mode: Higher Multiplier & Zero Hone Cost to Hero Ability; Quasar+: 1.2s CT; Ecliptic Howl+: 2500 heal\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Prismatic/NE magic attacks at Cap Break Level 1 + DEF/RES/MND -70%, Instant Cast, ATK/MAG/DEF/RES +30% & Quick Cast to party, Ultimate Mode to user\nUltimate Spirit Mode: Support/Celerity/Black Magic Casting Speed x1.1 & chases allies' [Element] abilities with Quick ATB 1 & [Element] Ability Damage +30% for 1 turn to that ally (max 3 chases)\nUltimate Dexterity Mode: Higher Multiplier & Zero Hone Cost to Hero Ability; Quasar+: 1.2s CT; Ecliptic Howl+: 2500 heal\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Prismatic/NE magic attacks at Cap Break Level 1 + DEF/RES/MND -70%, Instant Cast, ATK/MAG/DEF/RES +30% & Quick Cast to party, Ultimate Mode to user\nUltimate Spirit Mode: Support/Celerity/Black Magic Casting Speed x1.1 & chases allies' [Element] abilities with Quick ATB 1 & [Element] Ability Damage +30% for 1 turn to that ally (max 3 chases)\nUltimate Dexterity Mode: Higher Multiplier & Zero Hone Cost to Hero Ability; Quasar+: 1.2s CT; Ecliptic Howl+: 2500 heal\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

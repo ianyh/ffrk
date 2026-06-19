@@ -1,0 +1,55 @@
+{
+  "id": "22670038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670038/22670038_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Zenith Fusillade Particle Beam",
+  "name_jp": "究極乱打式 波動砲",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Dark Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Lightning Damage +20%, Magic Casting Speed x1.1 & chases Dark/Lightning abilities with Dark/Lightning Damage +30% for 1 turn to user (max 5 chases)\nUltimate Dexterity Mode: Dualcast Dark/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Insulating Appendages II+: 6 hits; Wave Cannon+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Dark Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Lightning Damage +20%, Magic Casting Speed x1.1 & chases Dark/Lightning abilities with Dark/Lightning Damage +30% for 1 turn to user (max 5 chases)\nUltimate Dexterity Mode: Dualcast Dark/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Insulating Appendages II+: 6 hits; Wave Cannon+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Insulating Appendages+",
+      "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Wave Cannon+",
+      "text": "One single attack (23.65) capped at 99999"
+    },
+    {
+      "name": "Lightning Thorns+",
+      "text": "Seven single attacks (? each), cast time ?/?/?/?/? scaling with [Lightning Thorns Uses]  capped at 9999/19999 after 0-2/3+ uses"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Dark Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Lightning Damage +20%, Magic Casting Speed x1.1 & chases Dark/Lightning abilities with Dark/Lightning Damage +30% for 1 turn to user (max 5 chases)\nUltimate Dexterity Mode: Dualcast Dark/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Insulating Appendages II+: 6 hits; Wave Cannon+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Insulating Appendages+",
+      "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Wave Cannon+",
+      "text": "One single attack (23.65) capped at 99999"
+    },
+    {
+      "name": "Lightning Thorns+",
+      "text": "Seven single attacks (? each), cast time ?/?/?/?/? scaling with [Lightning Thorns Uses]  capped at 9999/19999 after 0-2/3+ uses"
+    }
+  ]
+}

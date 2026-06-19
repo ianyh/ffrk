@@ -1,0 +1,27 @@
+{
+  "id": "22910007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22910007/22910007_256.png",
+  "character": "Iris",
+  "name": "Trinity Support",
+  "name_jp": "トリニティサポート",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Protect], [Shell] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ]
+}

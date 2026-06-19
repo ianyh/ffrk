@@ -1,0 +1,27 @@
+{
+  "id": "22520011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520011/22520011_256.png",
+  "character": "Minfilia",
+  "name": "Will of the Light",
+  "name_jp": "光の意思",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, MAG and RES +30% (25s)] and [High Quick Cast 3], grants [Synchro Mode], [Blessing of Light] and Will of Light +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and RES +30% (25s)] and [High Quick Cast 3], grants [Synchro Mode], [Blessing of Light] and Will of Light +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and RES +30% (25s)] and [High Quick Cast 3], grants [Synchro Mode], [Blessing of Light] and Will of Light +1 to the user"
+    }
+  ]
+}

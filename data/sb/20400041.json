@@ -1,0 +1,30 @@
+{
+  "id": "20400041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400041/20400041_256.png",
+  "character": "Bartz",
+  "name": "Master of Fire",
+  "name_jp": "ジョブマスター・炎",
+  "tier": "ADSB",
+  "sb_version": "ADSB3",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Master of Fire level 0/1/2, removes Arcane Dyad Empowered: Bartz (Fire) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Master of Fire level 0/1/2, removes Arcane Dyad Empowered: Bartz (Fire) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Master of Fire level 0/1/2, removes Arcane Dyad Empowered: Bartz (Fire) from the user"
+    }
+  ]
+}

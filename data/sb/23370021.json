@@ -1,0 +1,31 @@
+{
+  "id": "23370021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370021/23370021_256.png",
+  "character": "Cater",
+  "name": "Divine Might: Cater",
+  "name_jp": "神威・ケイト",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Fire or Ice or Lightning ranged physical attacks at Conditional Cap Break & 3 single-target Fire or Ice or Lightning Overflow piercing ranged physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Fire or Ice or Lightning Abilities in party, Level 5 with at least 5 Fire or Ice or Lightning Abilities & 2 En-Fire or En-Ice or En-Lightning members in party; Multiplier increases with each tier",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire or Ice or Lightning ranged physical attacks at Conditional Cap Break & 3 single-target Fire or Ice or Lightning Overflow piercing ranged physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Fire or Ice or Lightning Abilities in party, Level 5 with at least 5 Fire or Ice or Lightning Abilities & 2 En-Fire or En-Ice or En-Lightning members in party; Multiplier increases with each tier"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire or Ice or Lightning ranged physical attacks at Conditional Cap Break & 3 single-target Fire or Ice or Lightning Overflow piercing ranged physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Fire or Ice or Lightning Abilities in party, Level 5 with at least 5 Fire or Ice or Lightning Abilities & 2 En-Fire or En-Ice or En-Lightning members in party; Multiplier increases with each tier"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20270015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270015/20270015_256.png",
+  "character": "Firion",
+  "name": "Ruler of Arms",
+  "name_jp": "ルーラーオブアームズ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "Ice",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Buff Holy 30% (15s)], [Buff Ice 30% (15s)], [Buff Fire 30% (15s)], [Awoken Retainer], [Damage Cap +10000] and [Trinity Rush Finisher] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Buff Holy 30% (15s)], [Buff Ice 30% (15s)], [Buff Fire 30% (15s)], [Awoken Retainer], [Damage Cap +10000] and [Trinity Rush Finisher] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Buff Holy 30% (15s)], [Buff Ice 30% (15s)], [Buff Fire 30% (15s)], [Awoken Retainer], [Damage Cap +10000] and [Trinity Rush Finisher] to the user"
+    }
+  ]
+}

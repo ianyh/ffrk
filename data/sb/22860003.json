@@ -1,0 +1,27 @@
+{
+  "id": "22860003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22860003/22860003_256.png",
+  "character": "Elarra",
+  "name": "Fabula Heal",
+  "name_jp": "ファブラ・ヒール",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Core",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (37)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (37)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (37)"
+    }
+  ]
+}

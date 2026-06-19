@@ -1,0 +1,27 @@
+{
+  "id": "22690032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690032/22690032_256.png",
+  "character": "Lion",
+  "name": "Soul Drive: Lion",
+  "name_jp": "SD・ライオン",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Lion], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Lion], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Lion], [Instant ATB 1] to user."
+    }
+  ]
+}

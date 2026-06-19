@@ -1,0 +1,29 @@
+{
+  "id": "22460029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460029/22460029_256.png",
+  "character": "Onion Knight",
+  "name": "Onion Aero",
+  "name_jp": "エアロオブタマネギ",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "III",
+  "elements": [
+    "Wind"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Wind with Stacking] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Wind with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Wind with Stacking] to the user"
+    }
+  ]
+}

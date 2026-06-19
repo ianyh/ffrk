@@ -1,0 +1,27 @@
+{
+  "id": "23210021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23210021/23210021_256.png",
+  "character": "Elarra",
+  "name": "Magika Stella",
+  "name_jp": "マギカ・ステラ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "Core",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55), grants [Critical Damage +50%], grants [Synchro Mode] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Critical Damage +50%], grants [Synchro Mode] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Critical Damage +50%], grants [Synchro Mode] and [Instant Cast 1] to the user"
+    }
+  ]
+}

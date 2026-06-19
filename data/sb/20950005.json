@@ -1,0 +1,30 @@
+{
+  "id": "20950005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950005/20950005_256.png",
+  "character": "Thancred",
+  "name": "Kassatsu Katon",
+  "name_jp": "活殺火遁の術",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group ranged attacks (1.44 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.44 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.44 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

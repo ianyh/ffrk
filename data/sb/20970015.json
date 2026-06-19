@@ -1,0 +1,30 @@
+{
+  "id": "20970015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970015/20970015_256.png",
+  "character": "Rikku",
+  "name": "Dynamic Mix",
+  "name_jp": "調合ダイナミック",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [Dynamic Mix] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [Dynamic Mix] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [Dynamic Mix] to the user"
+    }
+  ]
+}

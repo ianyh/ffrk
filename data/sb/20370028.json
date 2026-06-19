@@ -1,0 +1,27 @@
+{
+  "id": "20370028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370028/20370028_256.png",
+  "character": "Vivi",
+  "name": "Athlete Queen",
+  "name_jp": "アスリート・クイーン",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, MAG and MND +30%] and [Haste], grants [Awoken Black Mage], [Damage Cap +10000] and [Athlete Queen] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30%] and [Haste], grants [Awoken Black Mage], [Damage Cap +10000] and [Athlete Queen] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30%] and [Haste], grants [Awoken Black Mage], [Damage Cap +10000] and [Athlete Queen] to the user"
+    }
+  ]
+}

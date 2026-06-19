@@ -1,0 +1,27 @@
+{
+  "id": "20930007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930007/20930007_256.png",
+  "character": "Faris",
+  "name": "Phantom",
+  "name_jp": "フェーンファントム",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "V",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (0.78~1.29 each scaling with targets), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, causes [Stun] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.78~1.29 each scaling with targets), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.78~1.29 each scaling with targets), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, causes [Stun] (100%)"
+    }
+  ]
+}

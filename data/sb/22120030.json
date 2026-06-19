@@ -1,0 +1,27 @@
+{
+  "id": "22120030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120030/22120030_256.png",
+  "character": "Minwu",
+  "name": "Continuous Flash: Minwu",
+  "name_jp": "連閃・ミンウ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Continuous Flash & Instant ATB 1 to user\nContinuous Flash: After using Holy abilities, chases with 6 single-target Holy/NE white magic attacks",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Continuous Flash & Instant ATB 1 to user\nContinuous Flash: After using Holy abilities, chases with 6 single-target Holy/NE white magic attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Continuous Flash & Instant ATB 1 to user\nContinuous Flash: After using Holy abilities, chases with 6 single-target Holy/NE white magic attacks"
+    }
+  ]
+}

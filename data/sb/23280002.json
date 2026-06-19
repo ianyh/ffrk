@@ -1,0 +1,30 @@
+{
+  "id": "23280002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280002/23280002_256.png",
+  "character": "Enna Kros",
+  "name": "Break Time",
+  "name_jp": "ブレイクタイム",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Beyond",
+  "elements": [
+    "Earth",
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Earth], [Black Magic Quick Cast] and [Sweet Coffee Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Earth], [Black Magic Quick Cast] and [Sweet Coffee Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Earth], [Black Magic Quick Cast] and [Sweet Coffee Follow-Up] to the user"
+    }
+  ]
+}

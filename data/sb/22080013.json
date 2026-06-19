@@ -1,0 +1,31 @@
+{
+  "id": "22080013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080013/22080013_256.png",
+  "character": "Exdeath",
+  "name": "Emptiness Break",
+  "name_jp": "エンプティネスブレイク",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 or 1.60 each), grants [Awoken Darkwood], [Damage Cap +10000], [Twin Element Mode (Holy, Dark)] and [Emptiness Break] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Awoken Darkwood], [Damage Cap +10000], [Twin Element Mode (Holy, Dark)] and [Emptiness Break] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Awoken Darkwood], [Damage Cap +10000], [Twin Element Mode (Holy, Dark)] and [Emptiness Break] to the user"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "20140043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140043/20140043_256.png",
+  "character": "Tyro",
+  "name": "Woven Bond: Tyro",
+  "name_jp": "紡絆・デシ",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Prismatic/NE ranged hybrid attacks at Cap Break Level 1, activates Core/Beyond Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Support abilities, chases with 4 single-target Prismatic/NE ranged hybrid attacks (max 3 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Prismatic/NE ranged hybrid attacks at Cap Break Level 1, activates Core/Beyond Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Support abilities, chases with 4 single-target Prismatic/NE ranged hybrid attacks (max 3 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Prismatic/NE ranged hybrid attacks at Cap Break Level 1, activates Core/Beyond Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Support abilities, chases with 4 single-target Prismatic/NE ranged hybrid attacks (max 3 chases)"
+    }
+  ]
+}

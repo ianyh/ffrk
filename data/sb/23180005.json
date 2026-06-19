@@ -1,0 +1,30 @@
+{
+  "id": "23180005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180005/23180005_256.png",
+  "character": "King",
+  "name": "King Snipe Mode",
+  "name_jp": "キングスナイプモード",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [PHY +30% Boost (15s)] and [Greased Trigger Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [PHY +30% Boost (15s)] and [Greased Trigger Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [PHY +30% Boost (15s)] and [Greased Trigger Mode] to the user"
+    }
+  ]
+}

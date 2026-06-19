@@ -1,0 +1,30 @@
+{
+  "id": "22460058",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460058/22460058_256.png",
+  "character": "Onion Knight",
+  "name": "Radiant Sagespell Wind",
+  "name_jp": "耀光賢者の大魔法・風",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Onion Knight (Wind)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Onion Knight (Wind)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Onion Knight (Wind)] to the user"
+    }
+  ]
+}

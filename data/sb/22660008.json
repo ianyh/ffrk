@@ -1,0 +1,30 @@
+{
+  "id": "22660008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22660008/22660008_256.png",
+  "character": "Reynn",
+  "name": "With Wishes in Mind",
+  "name_jp": "願いを込めて",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at With Wishes in Mind Level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Reynn from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at With Wishes in Mind Level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Reynn from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at With Wishes in Mind Level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Reynn from the user"
+    }
+  ]
+}

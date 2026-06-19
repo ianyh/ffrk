@@ -1,0 +1,30 @@
+{
+  "id": "22690010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690010/22690010_256.png",
+  "character": "Lion",
+  "name": "Mandalic Stab",
+  "name_jp": "マンダリクスタッブ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Daughter Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Daughter Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Daughter Mode] to the user"
+    }
+  ]
+}

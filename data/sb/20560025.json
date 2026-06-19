@@ -1,0 +1,27 @@
+{
+  "id": "20560025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560025/20560025_256.png",
+  "character": "Maria",
+  "name": "Seasoned Archer",
+  "name_jp": "熟練の射手",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250] to the user"
+    }
+  ]
+}

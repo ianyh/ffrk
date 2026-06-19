@@ -1,0 +1,27 @@
+{
+  "id": "20320003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320003/20320003_256.png",
+  "character": "Vanille",
+  "name": "Oerba's Boon",
+  "name_jp": "ヲルバの祝福",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (50), grants [Protect]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (50), grants [Protect]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (50), grants [Protect]"
+    }
+  ]
+}

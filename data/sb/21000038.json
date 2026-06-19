@@ -1,0 +1,27 @@
+{
+  "id": "21000038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000038/21000038_256.png",
+  "character": "-",
+  "name": "Petrifying Strike",
+  "name_jp": "ブレイクアタック",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single",
+  "lensable": false,
+  "effects": "One single attack (2.10), causes [Petrify] (20%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.10), causes [Petrify] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.10), causes [Petrify] (20%)"
+    }
+  ]
+}

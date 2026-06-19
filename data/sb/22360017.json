@@ -1,0 +1,27 @@
+{
+  "id": "22360017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360017/22360017_256.png",
+  "character": "Shantotto",
+  "name": "Awoken Play Rough (Dual Shift)",
+  "name_jp": "覚醒ブチ切れ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Witch Mode II: Shantotto] to the user, removes [Dual Awoken Witch Mode I: Shantotto] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Witch Mode II: Shantotto] to the user, removes [Dual Awoken Witch Mode I: Shantotto] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Witch Mode II: Shantotto] to the user, removes [Dual Awoken Witch Mode I: Shantotto] from the user"
+    }
+  ]
+}

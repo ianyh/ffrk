@@ -1,0 +1,27 @@
+{
+  "id": "20980032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980032/20980032_256.png",
+  "character": "Edge",
+  "name": "Continuous Flash: Edge",
+  "name_jp": "連閃・エッジ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Quad Element Mode II (Fire, Lightning, Water, Poison)], [Instant Cast 2], and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quad Element Mode II (Fire, Lightning, Water, Poison)], [Instant Cast 2], and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quad Element Mode II (Fire, Lightning, Water, Poison)], [Instant Cast 2], and [Instant ATB 1] to the user"
+    }
+  ]
+}

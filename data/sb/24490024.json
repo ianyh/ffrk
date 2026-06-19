@@ -1,0 +1,30 @@
+{
+  "id": "24490024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490024/24490024_256.png",
+  "character": "Kimahri",
+  "name": "Radiant Ronso Jump",
+  "name_jp": "耀光ロンゾジャンプ",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Water/NE jump attacks at Cap Break Level 1, En-Water, En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Water Ability Boost, Dualcast Water, Zero Hone Cost to Water Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Water/NE jump attack at True Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Dragoon/X members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Water/NE jump attacks at Cap Break Level 1, En-Water, En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Water Ability Boost, Dualcast Water, Zero Hone Cost to Water Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Water/NE jump attack at True Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Dragoon/X members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Water/NE jump attacks at Cap Break Level 1, En-Water, En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Water Ability Boost, Dualcast Water, Zero Hone Cost to Water Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Water/NE jump attack at True Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Dragoon/X members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

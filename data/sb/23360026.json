@@ -1,0 +1,30 @@
+{
+  "id": "23360026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360026/23360026_256.png",
+  "character": "Eight",
+  "name": "Burst Break: Eight (Break Arte)",
+  "name_jp": "烈破・エイト",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (8.00) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Instant ATB 1] to user."
+    }
+  ]
+}

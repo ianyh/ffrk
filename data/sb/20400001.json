@@ -1,0 +1,29 @@
+{
+  "id": "20400001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400001/20400001_256.png",
+  "character": "Bartz",
+  "name": "Blade Wing",
+  "name_jp": "風の刃",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "V",
+  "elements": [
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Two group attacks (1.55 each), causes [Sap] (29%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (1.55 each), causes [Sap] (29%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (1.55 each), causes [Sap] (29%)"
+    }
+  ]
+}

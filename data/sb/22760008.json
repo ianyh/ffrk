@@ -1,0 +1,30 @@
+{
+  "id": "22760008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760008/22760008_256.png",
+  "character": "Nabaat",
+  "name": "Sadistic Heart",
+  "name_jp": "サディスティック＝Ｈ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Resourceful Strike Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Resourceful Strike Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Resourceful Strike Follow-Up] to the user"
+    }
+  ]
+}

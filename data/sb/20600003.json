@@ -1,0 +1,29 @@
+{
+  "id": "20600003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600003/20600003_256.png",
+  "character": "Lightning",
+  "name": "Crushing Blow",
+  "name_jp": "絶影",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XIII",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group attacks (1.30 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (1.30 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (1.30 each)"
+    }
+  ]
+}

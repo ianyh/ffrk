@@ -1,0 +1,33 @@
+{
+  "id": "23060048",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060048/23060048_256.png",
+  "character": "Dr. Mog",
+  "name": "Tetra Catastrophe",
+  "name_jp": "テトラカタストロフィ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Core",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Buff Holy 30% (15s)], [Buff Fire 30% (15s)], [Buff Ice 30% (15s)], [Buff Lightning 30% (15s)], [Awoken Archivist], [Damage Cap +10000] and [Archivist's Teachings Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Buff Holy 30% (15s)], [Buff Fire 30% (15s)], [Buff Ice 30% (15s)], [Buff Lightning 30% (15s)], [Awoken Archivist], [Damage Cap +10000] and [Archivist's Teachings Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Buff Holy 30% (15s)], [Buff Fire 30% (15s)], [Buff Ice 30% (15s)], [Buff Lightning 30% (15s)], [Awoken Archivist], [Damage Cap +10000] and [Archivist's Teachings Follow-Up] to the user"
+    }
+  ]
+}

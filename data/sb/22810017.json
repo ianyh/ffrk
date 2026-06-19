@@ -1,0 +1,30 @@
+{
+  "id": "22810017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810017/22810017_256.png",
+  "character": "Nine",
+  "name": "Woven Bond: Nine (Fated)",
+  "name_jp": "紡絆・ナイン天命",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "Type-0",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single ranged jump attacks (0.80 each) capped at 19999, activates Dragoon Chain (max 150, field +0%) or adds 25 to the current Dragoon Chain maximum limit, grants [Chain Force Mode: Nine (Dragoon)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.80 each) capped at 19999, activates Dragoon Chain (max 150, field +0%) or adds 25 to the current Dragoon Chain maximum limit, grants [Chain Force Mode: Nine (Dragoon)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.80 each) capped at 19999, activates Dragoon Chain (max 150, field +0%) or adds 25 to the current Dragoon Chain maximum limit, grants [Chain Force Mode: Nine (Dragoon)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

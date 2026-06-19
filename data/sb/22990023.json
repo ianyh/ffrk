@@ -1,0 +1,31 @@
+{
+  "id": "22990023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990023/22990023_256.png",
+  "character": "Kiros",
+  "name": "Radiant Exotic Pain",
+  "name_jp": "耀光エキゾチックペイン",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Ice Stack, Cap Break Level 1, Physical Blink Stack & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Ice Stack, Cap Break Level 1, Physical Blink Stack & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Ice Stack, Cap Break Level 1, Physical Blink Stack & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23530012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530012/23530012_256.png",
+  "character": "Ravus",
+  "name": "Woven Bond: Ravus",
+  "name_jp": "紡絆・レイヴス",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Ravus] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Ravus] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Ravus] and [Instant ATB 1] to the user"
+    }
+  ]
+}

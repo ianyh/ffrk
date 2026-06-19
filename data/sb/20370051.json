@@ -1,0 +1,27 @@
+{
+  "id": "20370051",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370051/20370051_256.png",
+  "character": "Vivi",
+  "name": "Continuous Flash: Vivi II",
+  "name_jp": "連閃・ビビII",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Quad Element Mode II (Fire, Ice, Lightning, Poison)], [Instant ATB 1], and [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quad Element Mode II (Fire, Ice, Lightning, Poison)], [Instant ATB 1], and [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quad Element Mode II (Fire, Ice, Lightning, Poison)], [Instant ATB 1], and [Instant Cast 2] to the user"
+    }
+  ]
+}

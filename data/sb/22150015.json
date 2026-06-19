@@ -1,0 +1,27 @@
+{
+  "id": "22150015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22150015/22150015_256.png",
+  "character": "Agrias",
+  "name": "Awoken Divine Devastation (Dual Shift)",
+  "name_jp": "覚醒聖光忠烈斬",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with [Dual/Triplecast Knight, Knight Damage +15/30% & Quick Cast] for 1 turn to user if target has at least 0/40% Holy Weakness",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with [Dual/Triplecast Knight, Knight Damage +15/30% & Quick Cast] for 1 turn to user if target has at least 0/40% Holy Weakness"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with [Dual/Triplecast Knight, Knight Damage +15/30% & Quick Cast] for 1 turn to user if target has at least 0/40% Holy Weakness"
+    }
+  ]
+}

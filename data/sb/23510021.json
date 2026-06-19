@@ -1,0 +1,31 @@
+{
+  "id": "23510021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510021/23510021_256.png",
+  "character": "Alisaie",
+  "name": "Roaring Scatter",
+  "name_jp": "轟・スキャッター",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Lightning Ability High Boost & chases Wind/Lightning abilities with 4 single-target Wind/Lightning/NE magic attacks, Wind/Lightning Damage +10% for 5 seconds to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Lightning Ability High Boost & chases Wind/Lightning abilities with 4 single-target Wind/Lightning/NE magic attacks, Wind/Lightning Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Lightning Ability High Boost & chases Wind/Lightning abilities with 4 single-target Wind/Lightning/NE magic attacks, Wind/Lightning Damage +10% for 5 seconds to party"
+    }
+  ]
+}

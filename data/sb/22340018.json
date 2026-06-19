@@ -1,0 +1,62 @@
+{
+  "id": "22340018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340018/22340018_256.png",
+  "character": "Yang",
+  "name": "Zenith Seven-Star Earth Palm",
+  "name_jp": "究極七星地天掌",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Yang (Earth)] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Yang (Earth)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Zenith Mode: Yang (Earth)",
+      "text": "Increases [Earth Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Earth abilities trigger 1 additional time, casts Spirit Attack: Yang (Earth) after using two Earth abilities (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Fist Dance+",
+      "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Yang (Earth)",
+      "text": "Grants [Earth Ability +30% Boost 3] to user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ FF4 allies are alive"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Yang (Earth)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Fist Dance+",
+      "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Yang (Earth)",
+      "text": "Grants [Earth Ability +30% Boost 3] to user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ FF4 allies are alive"
+    }
+  ]
+}

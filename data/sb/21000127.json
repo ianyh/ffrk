@@ -1,0 +1,27 @@
+{
+  "id": "21000127",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000127/21000127_256.png",
+  "character": "-",
+  "name": "Molecular Decomposition",
+  "name_jp": "分子分解",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Three group attacks (1.36 each), removes positive effects",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (1.36 each), removes positive effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (1.36 each), removes positive effects"
+    }
+  ]
+}

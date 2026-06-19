@@ -1,0 +1,27 @@
+{
+  "id": "22640007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640007/22640007_256.png",
+  "character": "Emperor",
+  "name": "Clever Ruse",
+  "name_jp": "巧みな権謀術数",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Causes [Debuff Lightning 10% (15s)], grants [High Quick Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Debuff Lightning 10% (15s)], grants [High Quick Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Debuff Lightning 10% (15s)], grants [High Quick Cast 2] to the user"
+    }
+  ]
+}

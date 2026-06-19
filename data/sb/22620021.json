@@ -1,0 +1,30 @@
+{
+  "id": "22620021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620021/22620021_256.png",
+  "character": "Vayne",
+  "name": "Bone Crushing Fist",
+  "name_jp": "骨砕拳",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged hybrid attacks (0.60 or 1.50 each), causes [Imperil Dark 10% (15s)]/[Imperil Dark 20% (15s)] if 0-1/2+ allies have Attach Dark, grants [Attach Dark with Stacking], [Quick Cast], [Awoken Darkness], [Immortal Abyss Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged hybrid attacks (0.60 or 1.50 each), causes [Imperil Dark 10% (15s)]/[Imperil Dark 20% (15s)] if 0-1/2+ allies have Attach Dark, grants [Attach Dark with Stacking], [Quick Cast], [Awoken Darkness], [Immortal Abyss Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged hybrid attacks (0.60 or 1.50 each), causes [Imperil Dark 10% (15s)]/[Imperil Dark 20% (15s)] if 0-1/2+ allies have Attach Dark, grants [Attach Dark with Stacking], [Quick Cast], [Awoken Darkness], [Immortal Abyss Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

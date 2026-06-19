@@ -1,0 +1,54 @@
+{
+  "id": "20550033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550033/20550033_256.png",
+  "character": "Sabin",
+  "name": "Zenith Firewyrm Form",
+  "name_jp": "究極炎竜輪廻",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Sabin II], [Attach Fire 3 with Stacking] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Sabin II], [Attach Fire 3 with Stacking] to user."
+    },
+    {
+      "name": "Zenith Mode: Sabin II",
+      "text": "Increases Fire infusion damage bonus by 20%, cast speed x1.10 for PHY attacks, Fire abilities trigger 1 additional time, casts Spirit Attack: Sabin II after using a Fire ability (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Spirit Attack: Sabin II",
+      "text": "Grants [Fire Ability Quick Cast 3], [Instant ATB 3] to user."
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Sabin II], [Attach Fire 3 with Stacking] to user."
+    },
+    {
+      "name": "Spirit Attack: Sabin II",
+      "text": "Grants [Fire Ability Quick Cast 3], [Instant ATB 3] to user."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20510001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510001/20510001_256.png",
+  "character": "Selphie",
+  "name": "Wall",
+  "name_jp": "ウォール",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single ally",
+  "lensable": false,
+  "effects": "Grants [Protect] and [Shell]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect] and [Shell]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect] and [Shell]"
+    }
+  ]
+}

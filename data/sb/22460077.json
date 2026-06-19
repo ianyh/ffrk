@@ -1,0 +1,27 @@
+{
+  "id": "22460077",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460077/22460077_256.png",
+  "character": "Onion Knight",
+  "name": "War-Awoken Kaleido Water",
+  "name_jp": "戦醒カレイドウォーター",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Onion Knight (Water)], [ATK and MAG +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Onion Knight (Water)], [ATK and MAG +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Onion Knight (Water)], [ATK and MAG +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

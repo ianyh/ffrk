@@ -1,0 +1,27 @@
+{
+  "id": "20670021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670021/20670021_256.png",
+  "character": "Zell",
+  "name": "Cram Session",
+  "name_jp": "スタディ・スピード",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23120004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120004/23120004_256.png",
+  "character": "Estinien",
+  "name": "Jump (XIV)",
+  "name_jp": "ジャンプ【XIV】",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XIV",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single ranged jump attack (1.50)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (1.50)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (1.50)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20900002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900002/20900002_256.png",
+  "character": "Mog",
+  "name": "Earth Blues",
+  "name_jp": "大地のブルース",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VI",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (2.37 each), [ATK and DEF -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.37 each), [ATK and DEF -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.37 each), [ATK and DEF -50%] for 25 seconds"
+    }
+  ]
+}

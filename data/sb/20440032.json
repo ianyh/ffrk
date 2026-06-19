@@ -1,0 +1,30 @@
+{
+  "id": "20440032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440032/20440032_256.png",
+  "character": "Balthier",
+  "name": "Roaring Parting Gift",
+  "name_jp": "轟・餞別のラグリマ",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target ranged physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 6/10 single-target Fire/NE ranged physical attacks (0.60 each) if target has at least Imperil Fire 0/50%",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target ranged physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 6/10 single-target Fire/NE ranged physical attacks (0.60 each) if target has at least Imperil Fire 0/50%"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target ranged physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 6/10 single-target Fire/NE ranged physical attacks (0.60 each) if target has at least Imperil Fire 0/50%"
+    }
+  ]
+}

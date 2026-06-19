@@ -1,0 +1,27 @@
+{
+  "id": "22290015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290015/22290015_256.png",
+  "character": "Echo",
+  "name": "Echo's Whim",
+  "name_jp": "エコーの気まぐれ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55), Grants [Quick Cast] and [200% ATB 1] to all allies, Grants [Awoken Faerie Mode] and [Faerie Mode: Follow-up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), Grants [Quick Cast] and [200% ATB 1] to all allies, Grants [Awoken Faerie Mode] and [Faerie Mode: Follow-up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), Grants [Quick Cast] and [200% ATB 1] to all allies, Grants [Awoken Faerie Mode] and [Faerie Mode: Follow-up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23190023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190023/23190023_256.png",
+  "character": "Cinque",
+  "name": "Continuous Flash: Cinque",
+  "name_jp": "連閃・シンク",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Earth Ability Quick Cast (15s)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Earth Ability Quick Cast (15s)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Earth Ability Quick Cast (15s)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

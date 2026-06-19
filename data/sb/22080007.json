@@ -1,0 +1,30 @@
+{
+  "id": "22080007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080007/22080007_256.png",
+  "character": "Exdeath",
+  "name": "Neo Grand Cross",
+  "name_jp": "ネオグランドクロス",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (2.32 each), [MAG and MND +30%] to all allies for 25 seconds, grants [High Runic] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.32 each), [MAG and MND +30%] to all allies for 25 seconds, grants [High Runic] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.32 each), [MAG and MND +30%] to all allies for 25 seconds, grants [High Runic] to the user"
+    }
+  ]
+}

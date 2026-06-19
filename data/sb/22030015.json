@@ -1,0 +1,30 @@
+{
+  "id": "22030015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030015/22030015_256.png",
+  "character": "Fang",
+  "name": "Dragon Blast",
+  "name_jp": "ドラゴンブラスト",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single ranged jump attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged jump attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged jump attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
+    }
+  ]
+}

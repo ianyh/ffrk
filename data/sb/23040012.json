@@ -1,0 +1,34 @@
+{
+  "id": "23040012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23040012/23040012_256.png",
+  "character": "Marche",
+  "name": "Zenith Knight Combo",
+  "name_jp": "究極騎士コンボ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks at Cap Break Level 1, grants Holy Ability Damage +30% & 50% Stoneskin to party, grants [Attach Holy 3 with Stacking], Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Knight, Higher Multiplier & Zero Hone Cost to Hero Ability; Knight Combo+: Higher multiplier after 3 uses, chases after every use\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants Holy Ability Damage +30% & 50% Stoneskin to party, grants [Attach Holy 3 with Stacking], Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Knight, Higher Multiplier & Zero Hone Cost to Hero Ability; Knight Combo+: Higher multiplier after 3 uses, chases after every use\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Attach Holy 3 with Stacking",
+      "text": "Increase Attach Holy Level by 3 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants Holy Ability Damage +30% & 50% Stoneskin to party, grants [Attach Holy 3 with Stacking], Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Knight, Higher Multiplier & Zero Hone Cost to Hero Ability; Knight Combo+: Higher multiplier after 3 uses, chases after every use\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

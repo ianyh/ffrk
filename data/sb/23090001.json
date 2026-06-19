@@ -1,0 +1,30 @@
+{
+  "id": "23090001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090001/23090001_256.png",
+  "character": "Machina",
+  "name": "Awakening",
+  "name_jp": "アサルトモード",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Earth], [Assault Mode] and [Dual Blink 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Earth], [Assault Mode] and [Dual Blink 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Earth], [Assault Mode] and [Dual Blink 2] to the user"
+    }
+  ]
+}

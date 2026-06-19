@@ -1,0 +1,30 @@
+{
+  "id": "20870026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870026/20870026_256.png",
+  "character": "Amarant",
+  "name": "Flaming Blast",
+  "name_jp": "炎衝波",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "15 single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Synchro Mode] to the user, grants [Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to the user if there are 0-3/4+ IX allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Synchro Mode] to the user, grants [Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to the user if there are 0-3/4+ IX allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Synchro Mode] to the user, grants [Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to the user if there are 0-3/4+ IX allies"
+    }
+  ]
+}

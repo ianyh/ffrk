@@ -1,0 +1,30 @@
+{
+  "id": "22630019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630019/22630019_256.png",
+  "character": "Rufus",
+  "name": "Terrifying New President",
+  "name_jp": "恐怖の新社長",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Shadow Authoritarian Mode]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Shadow Authoritarian Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Shadow Authoritarian Mode]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22690005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690005/22690005_256.png",
+  "character": "Lion",
+  "name": "Evisceration",
+  "name_jp": "エヴィサレーション",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Water 20% (25s)], grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [Accomplice Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Water 20% (25s)], grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [Accomplice Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Water 20% (25s)], grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [Accomplice Follow-Up] to the user"
+    }
+  ]
+}

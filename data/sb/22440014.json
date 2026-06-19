@@ -1,0 +1,75 @@
+{
+  "id": "22440014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440014/22440014_256.png",
+  "character": "Larsa",
+  "name": "Zenith Potion Regalia",
+  "name_jp": "究極ポーション皇子",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (6000)], [Critical Damage +50%], [Last Stand], [High Quick Cast 2], and [Natural Cure: Larsa] to all allies, grants [Damage Cap +10000], [Instant Cast 1], [Zenith Mode], and [Zenith Mode: Larsa] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (6000)], [Critical Damage +50%], [Last Stand], [High Quick Cast 2], and [Natural Cure: Larsa] to all allies, grants [Damage Cap +10000], [Instant Cast 1], [Zenith Mode], and [Zenith Mode: Larsa] to the user"
+    },
+    {
+      "name": "Archadian Draught+",
+      "text": "Restores HP (20)"
+    },
+    {
+      "name": "Mote Glimmer+",
+      "text": "Causes [ATK, DEF and MAG -50% (15s)], restores 1500 HP to all allies"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Natural Cure: Larsa",
+      "text": "Grants [HP Stock (3000)] when HP fall below 20%, removed after triggering"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (6000)], [Critical Damage +50%], [Last Stand], [High Quick Cast 2], and [Natural Cure: Larsa] to all allies, grants [Damage Cap +10000], [Instant Cast 1], [Zenith Mode], and [Zenith Mode: Larsa] to the user"
+    },
+    {
+      "name": "Archadian Draught+",
+      "text": "Restores HP (20)"
+    },
+    {
+      "name": "Mote Glimmer+",
+      "text": "Causes [ATK, DEF and MAG -50% (15s)], restores 1500 HP to all allies"
+    }
+  ]
+}

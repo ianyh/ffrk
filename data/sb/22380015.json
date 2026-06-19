@@ -1,0 +1,27 @@
+{
+  "id": "22380015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22380015/22380015_256.png",
+  "character": "Delita",
+  "name": "Awoken Northswain's Strike (Dual Shift)",
+  "name_jp": "覚醒北斗骨砕打",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1, Quad Element Mode II & Dual Awoken War Hero Mode II to user\nDual Awoken War Hero Mode II: Knight/Spellblade Ability Boost, Instant Knight/Spellblade & chases a Knight/Spellblade ability with Cap Break Level 1 & Quick Cast 3 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1, Quad Element Mode II & Dual Awoken War Hero Mode II to user\nDual Awoken War Hero Mode II: Knight/Spellblade Ability Boost, Instant Knight/Spellblade & chases a Knight/Spellblade ability with Cap Break Level 1 & Quick Cast 3 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1, Quad Element Mode II & Dual Awoken War Hero Mode II to user\nDual Awoken War Hero Mode II: Knight/Spellblade Ability Boost, Instant Knight/Spellblade & chases a Knight/Spellblade ability with Cap Break Level 1 & Quick Cast 3 to user"
+    }
+  ]
+}

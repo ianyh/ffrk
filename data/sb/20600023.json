@@ -1,0 +1,30 @@
+{
+  "id": "20600023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600023/20600023_256.png",
+  "character": "Lightning",
+  "name": "Elegant Drive",
+  "name_jp": "エレガントドライブ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XIII",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Holy with Stacking], [Awoken Holy], [Damage Cap +10000], [Quick Cast] and [Graceful Influence Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Holy with Stacking], [Awoken Holy], [Damage Cap +10000], [Quick Cast] and [Graceful Influence Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Holy with Stacking], [Awoken Holy], [Damage Cap +10000], [Quick Cast] and [Graceful Influence Follow-Up] to the user"
+    }
+  ]
+}

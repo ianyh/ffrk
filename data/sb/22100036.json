@@ -1,0 +1,27 @@
+{
+  "id": "22100036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100036/22100036_256.png",
+  "character": "Laguna",
+  "name": "Super Flash (Laguna)",
+  "name_jp": "超閃【ラグナ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ]
+}

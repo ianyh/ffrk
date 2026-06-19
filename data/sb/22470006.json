@@ -1,0 +1,30 @@
+{
+  "id": "22470006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470006/22470006_256.png",
+  "character": "Curilla",
+  "name": "Vorpal Blade",
+  "name_jp": "ボーパルブレード",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Holy], [Awoken Knight], [Damage Cap +10000] and [Vorpal Blade] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Holy], [Awoken Knight], [Damage Cap +10000] and [Vorpal Blade] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Holy], [Awoken Knight], [Damage Cap +10000] and [Vorpal Blade] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20970009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970009/20970009_256.png",
+  "character": "Rikku",
+  "name": "Thief Dressphere",
+  "name_jp": "ドレスアップ・シーフ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten random ranged attacks (0.67 each), causes [Imperil Water 20%] for 25 seconds, grants [Aqua Toxin Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.67 each), causes [Imperil Water 20%] for 25 seconds, grants [Aqua Toxin Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.67 each), causes [Imperil Water 20%] for 25 seconds, grants [Aqua Toxin Follow-Up] to the user"
+    }
+  ]
+}

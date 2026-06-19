@@ -1,0 +1,30 @@
+{
+  "id": "22870013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870013/22870013_256.png",
+  "character": "Rubicante",
+  "name": "Crimson Magefire",
+  "name_jp": "紅き魔炎",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Fire Warrior Mode] and [Martial Flames Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Fire Warrior Mode] and [Martial Flames Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Fire Warrior Mode] and [Martial Flames Follow-Up] to the user"
+    }
+  ]
+}

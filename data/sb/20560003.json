@@ -1,0 +1,29 @@
+{
+  "id": "20560003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560003/20560003_256.png",
+  "character": "Maria",
+  "name": "Thunder XVI",
+  "name_jp": "サンダー16",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "II",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ]
+}

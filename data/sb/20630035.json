@@ -1,0 +1,30 @@
+{
+  "id": "20630035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630035/20630035_256.png",
+  "character": "Golbez",
+  "name": "War-Awoken Sector Ray (Weapon Skill)",
+  "name_jp": "戦醒セクターレイ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Dark Abilities] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Dark Abilities] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Dark Abilities] to user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20650012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650012/20650012_256.png",
+  "character": "Galuf",
+  "name": "Abiding Strike",
+  "name_jp": "金剛",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
+    }
+  ]
+}

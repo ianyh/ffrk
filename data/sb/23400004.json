@@ -1,0 +1,31 @@
+{
+  "id": "23400004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23400004/23400004_256.png",
+  "character": "Roxas",
+  "name": "Limit Boost",
+  "name_jp": "リミットアップ",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "KH",
+  "elements": [
+    "Holy",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Six single ranged attacks (0.52 each), grants [Attach Holy Stacking] and [Attach Holy] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), grants [Attach Holy Stacking] and [Attach Holy] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), grants [Attach Holy Stacking] and [Attach Holy] to the user"
+    }
+  ]
+}

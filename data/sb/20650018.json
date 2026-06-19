@@ -1,0 +1,30 @@
+{
+  "id": "20650018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650018/20650018_256.png",
+  "character": "Galuf",
+  "name": "Dawn Combo",
+  "name_jp": "暁の連撃",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [King of Bal Mode] and [Baldesion Assault Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [King of Bal Mode] and [Baldesion Assault Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [King of Bal Mode] and [Baldesion Assault Follow-Up] to the user"
+    }
+  ]
+}

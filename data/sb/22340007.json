@@ -1,0 +1,27 @@
+{
+  "id": "22340007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340007/22340007_256.png",
+  "character": "Yang",
+  "name": "Concentrate",
+  "name_jp": "精神統一【IV】",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
+    }
+  ]
+}

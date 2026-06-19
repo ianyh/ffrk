@@ -1,0 +1,27 @@
+{
+  "id": "22800004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22800004/22800004_256.png",
+  "character": "Deuce",
+  "name": "Crescendo",
+  "name_jp": "クレシェンド",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "[MAG +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds"
+    }
+  ]
+}

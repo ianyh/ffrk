@@ -1,0 +1,27 @@
+{
+  "id": "20310030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310030/20310030_256.png",
+  "character": "Snow",
+  "name": "Guardian Shiva",
+  "name_jp": "Gシヴァ",
+  "tier": "LBGS",
+  "sb_version": "LBGS1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Summons Shiva for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Ice 3 with Stacking] and [Damage Cap +20000] to Shiva",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Summons Shiva for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Ice 3 with Stacking] and [Damage Cap +20000] to Shiva"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Summons Shiva for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Ice 3 with Stacking] and [Damage Cap +20000] to Shiva"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22810001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810001/22810001_256.png",
+  "character": "Nine",
+  "name": "Class Zero Basher-in-Chief",
+  "name_jp": "ブッコミ隊長",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ]
+}

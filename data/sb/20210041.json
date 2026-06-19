@@ -1,0 +1,27 @@
+{
+  "id": "20210041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210041/20210041_256.png",
+  "character": "Celes",
+  "name": "Indomitable Might",
+  "name_jp": "常勝の極意",
+  "tier": "CSB",
+  "sb_version": "CSB3",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Holy Chain (max 150, field +30%), [ATK +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +30%), [ATK +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +30%), [ATK +50%] for 25 seconds"
+    }
+  ]
+}

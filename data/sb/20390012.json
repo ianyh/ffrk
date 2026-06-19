@@ -1,0 +1,31 @@
+{
+  "id": "20390012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390012/20390012_256.png",
+  "character": "Fran",
+  "name": "Wild Frolic",
+  "name_jp": "ワイルドダンス",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XII",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000], and [Viera Shot Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000], and [Viera Shot Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000], and [Viera Shot Follow-Up] to the user"
+    }
+  ]
+}

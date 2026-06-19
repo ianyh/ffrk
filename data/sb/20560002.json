@@ -1,0 +1,27 @@
+{
+  "id": "20560002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560002/20560002_256.png",
+  "character": "Maria",
+  "name": "Blast",
+  "name_jp": "爆破",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "II",
+  "elements": [],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group attack (7.40)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.40)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.40)"
+    }
+  ]
+}

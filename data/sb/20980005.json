@@ -1,0 +1,30 @@
+{
+  "id": "20980005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980005/20980005_256.png",
+  "character": "Edge",
+  "name": "Seething Waters",
+  "name_jp": "水遁・怒髪衝天",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Water] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20370040",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370040/20370040_256.png",
+  "character": "Vivi",
+  "name": "Continuous Flash: Vivi",
+  "name_jp": "連閃・ビビ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Quick Black Magic & Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Quick Black Magic & Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Quick Black Magic & Instant ATB 1 to user"
+    }
+  ]
+}

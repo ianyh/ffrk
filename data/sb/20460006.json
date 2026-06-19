@@ -1,0 +1,31 @@
+{
+  "id": "20460006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460006/20460006_256.png",
+  "character": "Ricard",
+  "name": "Last Dragoon",
+  "name_jp": "ラストドラグーン",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Awoken Deist Dragoon], [Damage Cap +10000], [Twin Element Mode (Lightning, Wind)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Awoken Deist Dragoon], [Damage Cap +10000], [Twin Element Mode (Lightning, Wind)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Awoken Deist Dragoon], [Damage Cap +10000], [Twin Element Mode (Lightning, Wind)] and [Brave Mode] to the user"
+    }
+  ]
+}

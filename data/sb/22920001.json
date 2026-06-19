@@ -1,0 +1,30 @@
+{
+  "id": "22920001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920001/22920001_256.png",
+  "character": "Umaro",
+  "name": "Master's Voice",
+  "name_jp": "おやぶんといっしょ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Seven group attacks (0.70 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven group attacks (0.70 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven group attacks (0.70 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ]
+}

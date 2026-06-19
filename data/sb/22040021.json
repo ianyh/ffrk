@@ -1,0 +1,31 @@
+{
+  "id": "22040021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040021/22040021_256.png",
+  "character": "Yuffie",
+  "name": "Improvised Camouflage",
+  "name_jp": "我流・迷彩",
+  "tier": "USB",
+  "sb_version": "USB4",
+  "realm": "VII",
+  "elements": [
+    "Water",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.70 each), grants [Chain Materia Mode II (Earth, Water)] and [Ninja +30% Boost (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.70 each), grants [Chain Materia Mode II (Earth, Water)] and [Ninja +30% Boost (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.70 each), grants [Chain Materia Mode II (Earth, Water)] and [Ninja +30% Boost (15s)] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22290011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290011/22290011_256.png",
+  "character": "Echo",
+  "name": "Faerie Tale",
+  "name_jp": "フェアリーテール",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [ATK, DEF, MAG and RES +30% (25s)], grants [Synchro Mode], [Damage Cap +10000] and Guiding Faerie +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [ATK, DEF, MAG and RES +30% (25s)], grants [Synchro Mode], [Damage Cap +10000] and Guiding Faerie +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [ATK, DEF, MAG and RES +30% (25s)], grants [Synchro Mode], [Damage Cap +10000] and Guiding Faerie +1 to the user"
+    }
+  ]
+}

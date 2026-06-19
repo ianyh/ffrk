@@ -1,0 +1,30 @@
+{
+  "id": "23380003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23380003/23380003_256.png",
+  "character": "Shadowsmith",
+  "name": "Soul of Nihility",
+  "name_jp": "ソウルオブニヒリティ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Core",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Dark], [Damage Cap +10000] and [Nihility Follow-Up] to the user, grants [PHY +30% Boost (15s)] to the user if user's ATK > MAG, grants or [Magical +30% Boost (15s)] to the user if user's MAG > ATK",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Damage Cap +10000] and [Nihility Follow-Up] to the user, grants [PHY +30% Boost (15s)] to the user if user's ATK > MAG, grants or [Magical +30% Boost (15s)] to the user if user's MAG > ATK"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Damage Cap +10000] and [Nihility Follow-Up] to the user, grants [PHY +30% Boost (15s)] to the user if user's ATK > MAG, grants or [Magical +30% Boost (15s)] to the user if user's MAG > ATK"
+    }
+  ]
+}

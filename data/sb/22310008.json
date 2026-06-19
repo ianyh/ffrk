@@ -1,0 +1,30 @@
+{
+  "id": "22310008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310008/22310008_256.png",
+  "character": "Garland",
+  "name": "Source of Hatred",
+  "name_jp": "憎悪の根源",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "I",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Dark], [Darkness Quick Cycle] and [Grip of Chaos Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Darkness Quick Cycle] and [Grip of Chaos Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Darkness Quick Cycle] and [Grip of Chaos Follow-Up] to the user"
+    }
+  ]
+}

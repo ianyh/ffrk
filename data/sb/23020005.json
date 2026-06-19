@@ -1,0 +1,30 @@
+{
+  "id": "23020005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020005/23020005_256.png",
+  "character": "Elena",
+  "name": "Sudden Bombardment",
+  "name_jp": "爆撃奇襲",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single ranged attacks (0.52 each), grants [Attach Fire Stacking] and [Attach Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
+    }
+  ]
+}

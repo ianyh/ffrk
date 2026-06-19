@@ -1,0 +1,31 @@
+{
+  "id": "23100015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100015/23100015_256.png",
+  "character": "Queen",
+  "name": "Spark Dash",
+  "name_jp": "スパークダッシュ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user"
+    }
+  ]
+}

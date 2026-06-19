@@ -1,0 +1,27 @@
+{
+  "id": "23460028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460028/23460028_256.png",
+  "character": "Lunafreya",
+  "name": "Soul Drive: Lunafreya",
+  "name_jp": "SD・ルナフレーナ",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XV",
+  "elements": [],
+  "type": "",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ]
+}

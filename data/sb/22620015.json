@@ -1,0 +1,27 @@
+{
+  "id": "22620015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620015/22620015_256.png",
+  "character": "Vayne",
+  "name": "Awoken Relentless Drive (Dual Shift)",
+  "name_jp": "覚醒不撓邁進",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Vayne)], removes [Dual Awoken Darkness Mode I (Vayne)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Vayne)], removes [Dual Awoken Darkness Mode I (Vayne)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Vayne)], removes [Dual Awoken Darkness Mode I (Vayne)]"
+    }
+  ]
+}

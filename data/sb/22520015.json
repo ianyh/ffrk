@@ -1,0 +1,27 @@
+{
+  "id": "22520015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520015/22520015_256.png",
+  "character": "Minfilia",
+  "name": "Cat's-Eye Wish",
+  "name_jp": "猫目石に込める願い",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "XIV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores 3000 HP, grants [Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores 3000 HP, grants [Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores 3000 HP, grants [Quick Cast 2]"
+    }
+  ]
+}

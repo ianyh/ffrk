@@ -1,0 +1,27 @@
+{
+  "id": "20600047",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600047/20600047_256.png",
+  "character": "Lightning",
+  "name": "Continuous Flash: Lightning",
+  "name_jp": "連閃・ライトニング",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant Cast 2], [Instant ATB 1], and [Double Crystarium Mode II (Lightning, Holy)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 2], [Instant ATB 1], and [Double Crystarium Mode II (Lightning, Holy)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 2], [Instant ATB 1], and [Double Crystarium Mode II (Lightning, Holy)] to the user"
+    }
+  ]
+}

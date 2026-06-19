@@ -1,0 +1,27 @@
+{
+  "id": "23190027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190027/23190027_256.png",
+  "character": "Cinque",
+  "name": "Awoken Full-Power Homerun (Dual Shift)",
+  "name_jp": "覚醒全力ホームラン",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Heavy Mode II to user\nDual Awoken Heavy Mode II: Heavy Ability Boost, Instant Heavy & chases a Heavy ability with single-target Prismatic Imperil, ATK/MAG/DEF/RES +15% or ATK/MND/DEF/RES +15% for 8 seconds to party with at least 0/4 Fate Synergy members",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Heavy Mode II to user\nDual Awoken Heavy Mode II: Heavy Ability Boost, Instant Heavy & chases a Heavy ability with single-target Prismatic Imperil, ATK/MAG/DEF/RES +15% or ATK/MND/DEF/RES +15% for 8 seconds to party with at least 0/4 Fate Synergy members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Heavy Mode II to user\nDual Awoken Heavy Mode II: Heavy Ability Boost, Instant Heavy & chases a Heavy ability with single-target Prismatic Imperil, ATK/MAG/DEF/RES +15% or ATK/MND/DEF/RES +15% for 8 seconds to party with at least 0/4 Fate Synergy members"
+    }
+  ]
+}

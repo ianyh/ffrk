@@ -1,0 +1,27 @@
+{
+  "id": "22220012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22220012/22220012_256.png",
+  "character": "Porom",
+  "name": "Twincast Curaga",
+  "name_jp": "ふたりがけ・ケアルダ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Lightning Quick Cast 4] to all allies, grants [Attach Lightning], [Damage Cap +10000], [Synchro Mode] and [Staunch Sister Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Lightning Quick Cast 4] to all allies, grants [Attach Lightning], [Damage Cap +10000], [Synchro Mode] and [Staunch Sister Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Lightning Quick Cast 4] to all allies, grants [Attach Lightning], [Damage Cap +10000], [Synchro Mode] and [Staunch Sister Mode] to the user"
+    }
+  ]
+}

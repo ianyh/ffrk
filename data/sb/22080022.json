@@ -1,0 +1,31 @@
+{
+  "id": "22080022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080022/22080022_256.png",
+  "character": "Exdeath",
+  "name": "Awoken 100 Gs (Dual Shift)",
+  "name_jp": "覚醒じゅうりょく100",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]"
+    }
+  ]
+}

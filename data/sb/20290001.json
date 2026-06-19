@@ -1,0 +1,27 @@
+{
+  "id": "20290001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290001/20290001_256.png",
+  "character": "Luneth",
+  "name": "Mark of the Warrior",
+  "name_jp": "戦士の印",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "[ATK +35%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +35%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +35%] for 25 seconds"
+    }
+  ]
+}

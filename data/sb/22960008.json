@@ -1,0 +1,27 @@
+{
+  "id": "22960008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960008/22960008_256.png",
+  "character": "Aria",
+  "name": "Ephemeral Maiden",
+  "name_jp": "うたかたの巫女",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "III",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Instant Cast 1] and [Stoneskin: 100%], grants [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Instant Cast 1] and [Stoneskin: 100%], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Instant Cast 1] and [Stoneskin: 100%], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

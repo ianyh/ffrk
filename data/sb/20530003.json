@@ -1,0 +1,27 @@
+{
+  "id": "20530003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530003/20530003_256.png",
+  "character": "Edgar",
+  "name": "Drill",
+  "name_jp": "ドリル",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (1.67 each), [DEF +50%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.67 each), [DEF +50%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.67 each), [DEF +50%] to all allies for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20940015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940015/20940015_256.png",
+  "character": "Krile",
+  "name": "Cloud of Dust",
+  "name_jp": "すなけむり",
+  "tier": "Glint",
+  "sb_version": "Glint2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
+    }
+  ]
+}

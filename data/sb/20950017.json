@@ -1,0 +1,27 @@
+{
+  "id": "20950017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950017/20950017_256.png",
+  "character": "Thancred",
+  "name": "Awoken Gnashing Fang (Dual Shift)",
+  "name_jp": "覚醒ビートファング",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Tenacious Gunbreaker Mode II to user\nDual Awoken Tenacious Gunbreaker Mode II: Holy/Earth/Wind/Poison Ability Boost, Instant Holy/Earth/Wind/Poison & chases a Holy/Earth/Wind/Poison ability with [Instant ATB, Holy/Earth/Wind/Poison Ability Damage +30% & Instant Holy/Earth/Wind/Poison] for 2 turns to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Tenacious Gunbreaker Mode II to user\nDual Awoken Tenacious Gunbreaker Mode II: Holy/Earth/Wind/Poison Ability Boost, Instant Holy/Earth/Wind/Poison & chases a Holy/Earth/Wind/Poison ability with [Instant ATB, Holy/Earth/Wind/Poison Ability Damage +30% & Instant Holy/Earth/Wind/Poison] for 2 turns to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Tenacious Gunbreaker Mode II to user\nDual Awoken Tenacious Gunbreaker Mode II: Holy/Earth/Wind/Poison Ability Boost, Instant Holy/Earth/Wind/Poison & chases a Holy/Earth/Wind/Poison ability with [Instant ATB, Holy/Earth/Wind/Poison Ability Damage +30% & Instant Holy/Earth/Wind/Poison] for 2 turns to user"
+    }
+  ]
+}

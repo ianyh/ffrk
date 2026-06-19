@@ -1,0 +1,29 @@
+{
+  "id": "22470003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470003/22470003_256.png",
+  "character": "Curilla",
+  "name": "Seraph Blade",
+  "name_jp": "セラフブレード",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XI",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Two single attacks (0.70 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.70 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.70 each)"
+    }
+  ]
+}

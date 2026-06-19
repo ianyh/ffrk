@@ -1,0 +1,30 @@
+{
+  "id": "22360030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360030/22360030_256.png",
+  "character": "Shantotto",
+  "name": "War-Awoken Divine Arrester (Weapon Skill)",
+  "name_jp": "戦醒ディバインアレスタ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XI",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Lightning/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Lightning\nWS Blue: Lv.2 En-Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Lightning Ability Damage +60% to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Lightning/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Lightning\nWS Blue: Lv.2 En-Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Lightning Ability Damage +60% to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Lightning/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Lightning\nWS Blue: Lv.2 En-Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Lightning Ability Damage +60% to user"
+    }
+  ]
+}

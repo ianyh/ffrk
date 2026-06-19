@@ -1,0 +1,30 @@
+{
+  "id": "20080043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080043/20080043_256.png",
+  "character": "Kain",
+  "name": "Apex Evil Tornado Dive",
+  "name_jp": "Eトルネードダイブ・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "20 single-target jump attacks (1.00/1.10/1.20) capped at 9999/19999/29999 & single-target jump attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "20 single-target jump attacks (1.00/1.10/1.20) capped at 9999/19999/29999 & single-target jump attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "20 single-target jump attacks (1.00/1.10/1.20) capped at 9999/19999/29999 & single-target jump attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode"
+    }
+  ]
+}

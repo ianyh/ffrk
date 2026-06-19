@@ -1,0 +1,30 @@
+{
+  "id": "22340016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340016/22340016_256.png",
+  "character": "Yang",
+  "name": "Affectionate Kickstart",
+  "name_jp": "愛の蹴撃",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Monk], [Damage Cap +10000] to the user, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +15% Boost (15s)]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to the user/all allies/all allies if 0-1/2-3/4+ FF4 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Monk], [Damage Cap +10000] to the user, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +15% Boost (15s)]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to the user/all allies/all allies if 0-1/2-3/4+ FF4 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Monk], [Damage Cap +10000] to the user, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +15% Boost (15s)]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to the user/all allies/all allies if 0-1/2-3/4+ FF4 allies are alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20390002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390002/20390002_256.png",
+  "character": "Fran",
+  "name": "Whip Kick",
+  "name_jp": "強甲破点蹴",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single ranged attack (3.80), [DEF and RES -50%] for 10 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (3.80), [DEF and RES -50%] for 10 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (3.80), [DEF and RES -50%] for 10 seconds"
+    }
+  ]
+}

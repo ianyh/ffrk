@@ -1,0 +1,27 @@
+{
+  "id": "24490012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490012/24490012_256.png",
+  "character": "Kimahri",
+  "name": "Awoken Fang of Gagazet (Dual Shift)",
+  "name_jp": "覚醒霊峰ガガゼトの牙",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Kimahri)], removes [Dual Awoken Water Mode I (Kimahri)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Kimahri)], removes [Dual Awoken Water Mode I (Kimahri)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Kimahri)], removes [Dual Awoken Water Mode I (Kimahri)]"
+    }
+  ]
+}

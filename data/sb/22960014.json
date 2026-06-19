@@ -1,0 +1,30 @@
+{
+  "id": "22960014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960014/22960014_256.png",
+  "character": "Aria",
+  "name": "Woven Bond: Aria",
+  "name_jp": "紡絆・エリア",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "III",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (2.70 each) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Aria] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.70 each) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Aria] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.70 each) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Aria] and [Instant ATB 1] to the user"
+    }
+  ]
+}

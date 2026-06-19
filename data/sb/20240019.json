@@ -1,0 +1,30 @@
+{
+  "id": "20240019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240019/20240019_256.png",
+  "character": "Locke",
+  "name": "Phoenix Heat",
+  "name_jp": "フェニックスヒート",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Hunter's Edge Counter] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Hunter's Edge Counter] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Hunter's Edge Counter] to the user"
+    }
+  ]
+}

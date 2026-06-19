@@ -1,0 +1,27 @@
+{
+  "id": "22200009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200009/22200009_256.png",
+  "character": "Edea",
+  "name": "Power Succession",
+  "name_jp": "継承された力",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Ice Stacking], [Attach Ice] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [High Quick Cast 2]"
+    }
+  ]
+}

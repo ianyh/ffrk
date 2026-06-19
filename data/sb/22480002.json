@@ -1,0 +1,30 @@
+{
+  "id": "22480002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22480002/22480002_256.png",
+  "character": "Ayame",
+  "name": "Meikyo Shisui",
+  "name_jp": "明鏡止水・雪月花",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.78 each), grants [Haste], [Meikyo Shisui], [Attach Ice] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.78 each), grants [Haste], [Meikyo Shisui], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.78 each), grants [Haste], [Meikyo Shisui], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ]
+}

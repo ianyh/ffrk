@@ -1,0 +1,27 @@
+{
+  "id": "22930009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930009/22930009_256.png",
+  "character": "Gogo (VI)",
+  "name": "Awoken Mass Mimicry (Dual Shift)",
+  "name_jp": "覚醒みんなのものまね",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]"
+    }
+  ]
+}

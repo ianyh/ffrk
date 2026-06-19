@@ -1,0 +1,29 @@
+{
+  "id": "20250012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250012/20250012_256.png",
+  "character": "Sephiroth",
+  "name": "Zanshin",
+  "name_jp": "残心",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VII",
+  "elements": [
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.48 each), grants [Attach Dark], [Critical Chance 50%] for 25 seconds, and [Legendary SOLDIER EX Mode] for 15 seconds to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.48 each), grants [Attach Dark], [Critical Chance 50%] for 25 seconds, and [Legendary SOLDIER EX Mode] for 15 seconds to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.48 each), grants [Attach Dark], [Critical Chance 50%] for 25 seconds, and [Legendary SOLDIER EX Mode] for 15 seconds to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23170021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170021/23170021_256.png",
+  "character": "Kelger",
+  "name": "Awoken Ferocious Alpha (Dual Shift)",
+  "name_jp": "覚醒剛猛なる狼の長",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1, Smart Ether 2 & Dual Awoken Ninja Mode II to user\nDual Awoken Ninja Mode II: Ninja Ability Boost, Instant Ninja & chases a Ninja ability with Instant Cast 2 and 250 SB Points to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1, Smart Ether 2 & Dual Awoken Ninja Mode II to user\nDual Awoken Ninja Mode II: Ninja Ability Boost, Instant Ninja & chases a Ninja ability with Instant Cast 2 and 250 SB Points to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1, Smart Ether 2 & Dual Awoken Ninja Mode II to user\nDual Awoken Ninja Mode II: Ninja Ability Boost, Instant Ninja & chases a Ninja ability with Instant Cast 2 and 250 SB Points to user"
+    }
+  ]
+}

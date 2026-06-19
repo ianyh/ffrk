@@ -1,0 +1,27 @@
+{
+  "id": "22770011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770011/22770011_256.png",
+  "character": "Reks",
+  "name": "Awoken Voltaic Slash (Dual Shift)",
+  "name_jp": "覚醒サンダーSラッシュ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]"
+    }
+  ]
+}

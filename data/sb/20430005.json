@@ -1,0 +1,30 @@
+{
+  "id": "20430005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430005/20430005_256.png",
+  "character": "Refia",
+  "name": "Dance of Carnage",
+  "name_jp": "修羅戦舞",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "III",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.78 each), grants [Haste], [50% Critical], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.78 each), grants [Haste], [50% Critical], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.78 each), grants [Haste], [50% Critical], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

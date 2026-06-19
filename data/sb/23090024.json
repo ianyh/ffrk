@@ -1,0 +1,30 @@
+{
+  "id": "23090024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090024/23090024_256.png",
+  "character": "Machina",
+  "name": "Woven Bond: Machina (Earth)",
+  "name_jp": "紡絆・マキナ地",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates Earth Chain (max 150, field +0%) or adds 25 to the current Earth Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode (Machina - Earth)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Earth Chain (max 150, field +0%) or adds 25 to the current Earth Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode (Machina - Earth)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Earth Chain (max 150, field +0%) or adds 25 to the current Earth Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode (Machina - Earth)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

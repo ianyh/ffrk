@@ -1,0 +1,30 @@
+{
+  "id": "22200006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200006/22200006_256.png",
+  "character": "Edea",
+  "name": "Astral Time",
+  "name_jp": "アストラル・タイム",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.71 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Witch Double] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.71 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Witch Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.71 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Witch Double] to the user"
+    }
+  ]
+}

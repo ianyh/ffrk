@@ -1,0 +1,30 @@
+{
+  "id": "20270042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270042/20270042_256.png",
+  "character": "Firion",
+  "name": "Woven Bond: Firion (Ice)",
+  "name_jp": "紡絆・フリオニール氷",
+  "tier": "LBC",
+  "sb_version": "LBC3",
+  "realm": "II",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target physical attacks (0.80 each) capped at 19999, activates Ice Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Ice abilities, chases with 4 single-target Ice/NE physical attacks (0.32 each) (max 3 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target physical attacks (0.80 each) capped at 19999, activates Ice Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Ice abilities, chases with 4 single-target Ice/NE physical attacks (0.32 each) (max 3 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target physical attacks (0.80 each) capped at 19999, activates Ice Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Ice abilities, chases with 4 single-target Ice/NE physical attacks (0.32 each) (max 3 chases)"
+    }
+  ]
+}

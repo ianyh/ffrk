@@ -1,0 +1,30 @@
+{
+  "id": "22040012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040012/22040012_256.png",
+  "character": "Yuffie",
+  "name": "Landscaper (KH)",
+  "name_jp": "抜山蓋世",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single ranged attacks (0.71 each), grants [Attach Earth], [Physical Blink 1] and [Stoneshatter Skyshock Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Earth], [Physical Blink 1] and [Stoneshatter Skyshock Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Earth], [Physical Blink 1] and [Stoneshatter Skyshock Follow-Up] to the user"
+    }
+  ]
+}

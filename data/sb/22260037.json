@@ -1,0 +1,30 @@
+{
+  "id": "22260037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260037/22260037_256.png",
+  "character": "Serah",
+  "name": "Radiant Absolute Zero",
+  "name_jp": "耀光アブソリュートゼロ",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Serah (Ice)] and to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Serah (Ice)] and to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Serah (Ice)] and to the user"
+    }
+  ]
+}

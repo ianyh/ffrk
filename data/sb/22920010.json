@@ -1,0 +1,30 @@
+{
+  "id": "22920010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920010/22920010_256.png",
+  "character": "Umaro",
+  "name": "Snowball Mog",
+  "name_jp": "おやぶんとゆきがっせん",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], [100% Critical] to the user, grants [Dualcast Ice 1]/[Dualcast Ice 3] to the user if 0-3/4+ FF6 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], [100% Critical] to the user, grants [Dualcast Ice 1]/[Dualcast Ice 3] to the user if 0-3/4+ FF6 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], [100% Critical] to the user, grants [Dualcast Ice 1]/[Dualcast Ice 3] to the user if 0-3/4+ FF6 allies are alive"
+    }
+  ]
+}

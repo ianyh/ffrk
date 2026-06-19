@@ -1,0 +1,27 @@
+{
+  "id": "23360006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360006/23360006_256.png",
+  "character": "Eight",
+  "name": "Ice Phalanx",
+  "name_jp": "氷陣の構え",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20880006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880006/20880006_256.png",
+  "character": "Lulu",
+  "name": "Triple Threat",
+  "name_jp": "トライテンプテーション",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Fire",
+    "Water"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

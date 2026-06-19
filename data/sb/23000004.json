@@ -1,0 +1,32 @@
+{
+  "id": "23000004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000004/23000004_256.png",
+  "character": "Ward",
+  "name": "Anchor Crush",
+  "name_jp": "アンカークラッシュ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [100% Critical], [Awoken Laguna Freak], [Damage Cap +10000], [Career Change Mode (Ice, Earth, Water)] and [Maximum Anchor Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [100% Critical], [Awoken Laguna Freak], [Damage Cap +10000], [Career Change Mode (Ice, Earth, Water)] and [Maximum Anchor Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [100% Critical], [Awoken Laguna Freak], [Damage Cap +10000], [Career Change Mode (Ice, Earth, Water)] and [Maximum Anchor Follow-Up] to the user"
+    }
+  ]
+}

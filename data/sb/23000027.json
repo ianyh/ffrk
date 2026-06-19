@@ -1,0 +1,32 @@
+{
+  "id": "23000027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000027/23000027_256.png",
+  "character": "Ward",
+  "name": "War-Awoken Eccentric Teamwork (Weapon Skill)",
+  "name_jp": "戦醒未完成な連携",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack (11.00) capped at 199,999, ranged. Grants [Water, Ice, Earth Damage Cap +20000 (Tactical)], [Water, Ice, Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants Deadly Strikes +20% (15s)] to all allies if 4+ Dragoon allies are alive or Kiros or Laguna is alive, grants [Water, Ice, Earth Ability +50% Boost (Tactical)], [Water, Ice, Earth 142% ATB Quick Cycle (Tactical)] to user if not.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack (11.00) capped at 199,999, ranged. Grants [Water, Ice, Earth Damage Cap +20000 (Tactical)], [Water, Ice, Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants Deadly Strikes +20% (15s)] to all allies if 4+ Dragoon allies are alive or Kiros or Laguna is alive, grants [Water, Ice, Earth Ability +50% Boost (Tactical)], [Water, Ice, Earth 142% ATB Quick Cycle (Tactical)] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack (11.00) capped at 199,999, ranged. Grants [Water, Ice, Earth Damage Cap +20000 (Tactical)], [Water, Ice, Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants Deadly Strikes +20% (15s)] to all allies if 4+ Dragoon allies are alive or Kiros or Laguna is alive, grants [Water, Ice, Earth Ability +50% Boost (Tactical)], [Water, Ice, Earth 142% ATB Quick Cycle (Tactical)] to user if not."
+    }
+  ]
+}

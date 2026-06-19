@@ -1,0 +1,27 @@
+{
+  "id": "20840014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840014/20840014_256.png",
+  "character": "Quina",
+  "name": "Culinary Climb",
+  "name_jp": "かくもけわしき食の道",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [100% Critical (25s) Custom Param], [Physical Quick Cast] and [Haste], grants [Synchro Mode] and Snacks +2 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s) Custom Param], [Physical Quick Cast] and [Haste], grants [Synchro Mode] and Snacks +2 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s) Custom Param], [Physical Quick Cast] and [Haste], grants [Synchro Mode] and Snacks +2 to the user"
+    }
+  ]
+}

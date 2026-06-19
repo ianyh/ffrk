@@ -1,0 +1,30 @@
+{
+  "id": "22550005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550005/22550005_256.png",
+  "character": "Orlandeau",
+  "name": "Sword Saint",
+  "name_jp": "剣聖",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twelve single attacks (0.58 each), 100% additional critical chance, grants [100% Critical] and [EX: Sword Saint] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twelve single attacks (0.58 each), 100% additional critical chance, grants [100% Critical] and [EX: Sword Saint] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twelve single attacks (0.58 each), 100% additional critical chance, grants [100% Critical] and [EX: Sword Saint] to the user"
+    }
+  ]
+}

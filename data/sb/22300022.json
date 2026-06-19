@@ -1,0 +1,27 @@
+{
+  "id": "22300022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300022/22300022_256.png",
+  "character": "Sarah",
+  "name": "Starry Guiding Melody",
+  "name_jp": "極星道を切り開く旋律",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Solidor's White Light to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Trailblazing Melody: [Damage] or [Holy Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeProtect for 5 seconds] & [Damage] or [Holy Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Holy members, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Solidor's White Light to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Trailblazing Melody: [Damage] or [Holy Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeProtect for 5 seconds] & [Damage] or [Holy Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Holy members, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Solidor's White Light to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Trailblazing Melody: [Damage] or [Holy Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeProtect for 5 seconds] & [Damage] or [Holy Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Holy members, removes Master Mode"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23280021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280021/23280021_256.png",
+  "character": "Enna Kros",
+  "name": "Continuous Flash: Enna Kros (Earth)",
+  "name_jp": "連閃・エナ・クロ地",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Earth with Stacking], [Instant ATB 1], and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking], [Instant ATB 1], and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking], [Instant ATB 1], and [Instant Cast 1]"
+    }
+  ]
+}

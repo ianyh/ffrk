@@ -1,0 +1,30 @@
+{
+  "id": "23590009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23590009/23590009_256.png",
+  "character": "Jill",
+  "name": "Blizzaga (XVI)",
+  "name_jp": "ブリザガ【XVI】",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XVI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks, grants [Magical +30% Boost (15s)] to party, grants [Attach Ice with Stacking], Awoken Ice Mode, Cap Break Level 1, [Quick Cast] to user\nAwoken Ice Mode: Unlimited Ice Hones, Ice Ability Boost & Dualcast Ice",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks, grants [Magical +30% Boost (15s)] to party, grants [Attach Ice with Stacking], Awoken Ice Mode, Cap Break Level 1, [Quick Cast] to user\nAwoken Ice Mode: Unlimited Ice Hones, Ice Ability Boost & Dualcast Ice"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks, grants [Magical +30% Boost (15s)] to party, grants [Attach Ice with Stacking], Awoken Ice Mode, Cap Break Level 1, [Quick Cast] to user\nAwoken Ice Mode: Unlimited Ice Hones, Ice Ability Boost & Dualcast Ice"
+    }
+  ]
+}

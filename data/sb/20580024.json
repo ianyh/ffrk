@@ -1,0 +1,30 @@
+{
+  "id": "20580024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580024/20580024_256.png",
+  "character": "Leon",
+  "name": "Radiant Dark Knight Raid",
+  "name_jp": "耀光ダークナイトレイド",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Critical Damage +50% 3]/[Critical Damage +50%] to all allies if 0-3/4+ FFII allies are alive, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Leon] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Critical Damage +50% 3]/[Critical Damage +50%] to all allies if 0-3/4+ FFII allies are alive, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Leon] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Critical Damage +50% 3]/[Critical Damage +50%] to all allies if 0-3/4+ FFII allies are alive, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Leon] to the user"
+    }
+  ]
+}

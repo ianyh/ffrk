@@ -1,0 +1,30 @@
+{
+  "id": "20300017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300017/20300017_256.png",
+  "character": "Rinoa",
+  "name": "Angel Wing Ice Dust",
+  "name_jp": "ヴァリー・細氷",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (1.25 each), grants [Attach Ice Stacking] and [Attach Ice] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.25 each), grants [Attach Ice Stacking] and [Attach Ice] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.25 each), grants [Attach Ice Stacking] and [Attach Ice] to the user"
+    }
+  ]
+}

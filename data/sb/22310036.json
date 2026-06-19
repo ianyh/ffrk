@@ -1,0 +1,30 @@
+{
+  "id": "22310036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310036/22310036_256.png",
+  "character": "Garland",
+  "name": "War-Awoken Incarnation of Ruin (Weapon Skill)",
+  "name_jp": "戦醒破滅の邪身",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "I",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if there are 0-3/4+ I or Warrior I allies\nWS Blue: [During Tactical Awoken Mode, Deadly Strikes +30% to user]\nWS Gold: [During Tactical Awoken Mode, Deadly Strikes +20% to party]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if there are 0-3/4+ I or Warrior I allies\nWS Blue: [During Tactical Awoken Mode, Deadly Strikes +30% to user]\nWS Gold: [During Tactical Awoken Mode, Deadly Strikes +20% to party]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if there are 0-3/4+ I or Warrior I allies\nWS Blue: [During Tactical Awoken Mode, Deadly Strikes +30% to user]\nWS Gold: [During Tactical Awoken Mode, Deadly Strikes +20% to party]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20360049",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360049/20360049_256.png",
+  "character": "Garnet",
+  "name": "War-Awoken Divine Judgment (IX) (Weapon Skill)",
+  "name_jp": "戦醒聖なる審判【IX】",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IX",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Holy/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 Attach Holy\nWS Blue: Attach Holy 3 with Stacking to user\nWS Gold: [During Tactical Awoken Mode, Holy Ability Damage +50% & Quick Holy] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 Attach Holy\nWS Blue: Attach Holy 3 with Stacking to user\nWS Gold: [During Tactical Awoken Mode, Holy Ability Damage +50% & Quick Holy] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 Attach Holy\nWS Blue: Attach Holy 3 with Stacking to user\nWS Gold: [During Tactical Awoken Mode, Holy Ability Damage +50% & Quick Holy] to user"
+    }
+  ]
+}

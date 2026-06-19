@@ -1,0 +1,27 @@
+{
+  "id": "20200018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200018/20200018_256.png",
+  "character": "Lenna",
+  "name": "White Magic Mastery",
+  "name_jp": "マスター白魔法",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [High Quick Cast 2] and [Empower Healing 30%], grants [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [High Quick Cast 2] and [Empower Healing 30%], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [High Quick Cast 2] and [Empower Healing 30%], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

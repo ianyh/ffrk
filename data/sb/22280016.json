@@ -1,0 +1,31 @@
+{
+  "id": "22280016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280016/22280016_256.png",
+  "character": "Wol",
+  "name": "Begraben",
+  "name_jp": "ベグラーベン",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "I",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Earth 20% (25s)] and [Imperil Holy 20% (25s)], grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Earth, Holy)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Earth 20% (25s)] and [Imperil Holy 20% (25s)], grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Earth, Holy)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Earth 20% (25s)] and [Imperil Holy 20% (25s)], grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Earth, Holy)] to the user"
+    }
+  ]
+}

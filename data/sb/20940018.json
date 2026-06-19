@@ -1,0 +1,31 @@
+{
+  "id": "20940018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940018/20940018_256.png",
+  "character": "Krile",
+  "name": "Bestial Exodus",
+  "name_jp": "まじゅう大移動",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), minimum damage 1, grants [Awoken Successor], [Damage Cap +10000], [Twin Element Mode (Fire, Earth)] and [Bestial Exodus] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), minimum damage 1, grants [Awoken Successor], [Damage Cap +10000], [Twin Element Mode (Fire, Earth)] and [Bestial Exodus] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), minimum damage 1, grants [Awoken Successor], [Damage Cap +10000], [Twin Element Mode (Fire, Earth)] and [Bestial Exodus] to the user"
+    }
+  ]
+}

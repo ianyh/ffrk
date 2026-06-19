@@ -1,0 +1,30 @@
+{
+  "id": "22230017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230017/22230017_256.png",
+  "character": "Desch",
+  "name": "Distant Lightning",
+  "name_jp": "閃雷の彼方",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "III",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Attach Lightning], [Awoken Thunderbolt], [Damage Cap +10000] and [Ancient Ancestry Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Attach Lightning], [Awoken Thunderbolt], [Damage Cap +10000] and [Ancient Ancestry Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Attach Lightning], [Awoken Thunderbolt], [Damage Cap +10000] and [Ancient Ancestry Mode] to the user"
+    }
+  ]
+}

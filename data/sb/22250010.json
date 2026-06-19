@@ -1,0 +1,27 @@
+{
+  "id": "22250010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250010/22250010_256.png",
+  "character": "Cait Sith",
+  "name": "Planetary Protector",
+  "name_jp": "この星を守るんや！",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Causes [DEF, RES and MND -70% (8s)] to the target, grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)] to the target, grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)] to the target, grants [Instant Cast 1] to the user"
+    }
+  ]
+}

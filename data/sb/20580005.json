@@ -1,0 +1,30 @@
+{
+  "id": "20580005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580005/20580005_256.png",
+  "character": "Leon",
+  "name": "Lord of Darkness",
+  "name_jp": "ロードオブダークネス",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single ranged attacks (0.86 each), grants [HP Stock (6000)], [Darkness +30% Boost (15s)] and [Attach Dark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.86 each), grants [HP Stock (6000)], [Darkness +30% Boost (15s)] and [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.86 each), grants [HP Stock (6000)], [Darkness +30% Boost (15s)] and [Attach Dark] to the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22670020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670020/22670020_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Scatter Particle Beam",
+  "name_jp": "散射式 波動砲",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Enfeebling Appendages] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Enfeebling Appendages] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Enfeebling Appendages] to the user"
+    }
+  ]
+}

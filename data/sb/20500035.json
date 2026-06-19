@@ -1,0 +1,31 @@
+{
+  "id": "20500035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500035/20500035_256.png",
+  "character": "Quistis",
+  "name": "Micro Missiles",
+  "name_jp": "マイクロミサイル",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": " Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (? each), [Quickcast Magic 2] to the party, [Awoken Card Master Mode], [Damage Cap +10000], [Switch Draw Mode II (Water, Poison)], Bubble Shock to the user. Bubble Shock: After using 2 Water/Poison abilities, chases with single target [Imperil Water 10%]/[Imperil Poison 10%] & [DEF/RES/MND -70%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (? each), [Quickcast Magic 2] to the party, [Awoken Card Master Mode], [Damage Cap +10000], [Switch Draw Mode II (Water, Poison)], Bubble Shock to the user. Bubble Shock: After using 2 Water/Poison abilities, chases with single target [Imperil Water 10%]/[Imperil Poison 10%] & [DEF/RES/MND -70%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (? each), [Quickcast Magic 2] to the party, [Awoken Card Master Mode], [Damage Cap +10000], [Switch Draw Mode II (Water, Poison)], Bubble Shock to the user. Bubble Shock: After using 2 Water/Poison abilities, chases with single target [Imperil Water 10%]/[Imperil Poison 10%] & [DEF/RES/MND -70%]"
+    }
+  ]
+}

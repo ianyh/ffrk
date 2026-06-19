@@ -1,0 +1,32 @@
+{
+  "id": "20840021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840021/20840021_256.png",
+  "character": "Quina",
+  "name": "Roaring Culinary Training",
+  "name_jp": "轟・食の修行",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "IX",
+  "elements": [
+    "Water",
+    "Earth",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single ranged attacks; grants [Accel Mode], [Quick Cast], & [Instant ATB 1] to user\nAccel Mode: Chases Support abilities with [Deadly Strikes +20% 1] to party (max 4 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single ranged attacks; grants [Accel Mode], [Quick Cast], & [Instant ATB 1] to user\nAccel Mode: Chases Support abilities with [Deadly Strikes +20% 1] to party (max 4 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single ranged attacks; grants [Accel Mode], [Quick Cast], & [Instant ATB 1] to user\nAccel Mode: Chases Support abilities with [Deadly Strikes +20% 1] to party (max 4 chases)"
+    }
+  ]
+}

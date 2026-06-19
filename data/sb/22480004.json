@@ -1,0 +1,30 @@
+{
+  "id": "22480004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22480004/22480004_256.png",
+  "character": "Ayame",
+  "name": "Ancestral Blade",
+  "name_jp": "祖之太刀・不動",
+  "tier": "OSB",
+  "sb_version": "OSB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (11.25) capped at 99999, 12.75 multiplier if exploiting elemental weakness",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.25) capped at 99999, 12.75 multiplier if exploiting elemental weakness"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.25) capped at 99999, 12.75 multiplier if exploiting elemental weakness"
+    }
+  ]
+}

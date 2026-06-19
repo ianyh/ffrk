@@ -1,0 +1,27 @@
+{
+  "id": "22810002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810002/22810002_256.png",
+  "character": "Nine",
+  "name": "White Knight",
+  "name_jp": "セーフティガード",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[DEF +100%] for 25 seconds, grants [Protect] and [Shell]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +100%] for 25 seconds, grants [Protect] and [Shell]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +100%] for 25 seconds, grants [Protect] and [Shell]"
+    }
+  ]
+}

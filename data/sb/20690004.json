@@ -1,0 +1,27 @@
+{
+  "id": "20690004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690004/20690004_256.png",
+  "character": "Auron",
+  "name": "Banishing Blade",
+  "name_jp": "征伐",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "X",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single ranged attacks (1.56 each), [ATK and DEF -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.56 each), [ATK and DEF -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.56 each), [ATK and DEF -50%] for 25 seconds"
+    }
+  ]
+}

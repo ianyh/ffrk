@@ -1,0 +1,30 @@
+{
+  "id": "20880007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880007/20880007_256.png",
+  "character": "Lulu",
+  "name": "Abaddon Blizzaja",
+  "name_jp": "アバドンブリザジャ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.18 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.18 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.18 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Instant Cast 2] to the user"
+    }
+  ]
+}

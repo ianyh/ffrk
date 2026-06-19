@@ -1,0 +1,32 @@
+{
+  "id": "20570027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570027/20570027_256.png",
+  "character": "Steiner",
+  "name": "Triple Break",
+  "name_jp": "トライブレイク",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Awoken Sword Art Rush], [Damage Cap +10000], [Spellblade +30% Boost (15s)] and [Tri-Element Mode II (Fire, Ice, Lightning)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Sword Art Rush], [Damage Cap +10000], [Spellblade +30% Boost (15s)] and [Tri-Element Mode II (Fire, Ice, Lightning)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Sword Art Rush], [Damage Cap +10000], [Spellblade +30% Boost (15s)] and [Tri-Element Mode II (Fire, Ice, Lightning)] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23270006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270006/23270006_256.png",
+  "character": "Sice",
+  "name": "Dark Fog",
+  "name_jp": "ダークフォグ",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Instant Cast 1]"
+    }
+  ]
+}

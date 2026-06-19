@@ -1,0 +1,27 @@
+{
+  "id": "20800028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800028/20800028_256.png",
+  "character": "Ingus",
+  "name": "Awoken Monolith Sword (Dual Shift)",
+  "name_jp": "覚醒モノリスソード",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Earth Mode II: Ingus v2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Earth Mode II: Ingus v2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Earth Mode II: Ingus v2] to the user"
+    }
+  ]
+}

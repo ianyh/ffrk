@@ -1,0 +1,27 @@
+{
+  "id": "22810027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810027/22810027_256.png",
+  "character": "Nine",
+  "name": "Fated Bond (Nine)",
+  "name_jp": "天絆【ナイン】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ]
+}

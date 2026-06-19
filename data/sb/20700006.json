@@ -1,0 +1,27 @@
+{
+  "id": "20700006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700006/20700006_256.png",
+  "character": "Vaan",
+  "name": "Quick Nabla",
+  "name_jp": "高速ナブラ",
+  "tier": "SB",
+  "sb_version": "SB3",
+  "realm": "XII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Four single attacks (1.29 each), causes [Stun] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.29 each), causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.29 each), causes [Stun] (100%)"
+    }
+  ]
+}

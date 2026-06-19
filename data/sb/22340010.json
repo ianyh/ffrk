@@ -1,0 +1,27 @@
+{
+  "id": "22340010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340010/22340010_256.png",
+  "character": "Yang",
+  "name": "Awoken Shuddering Fist (Dual Shift)",
+  "name_jp": "覚醒師父烈震拳",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Yang)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Yang)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Yang)] to the user"
+    }
+  ]
+}

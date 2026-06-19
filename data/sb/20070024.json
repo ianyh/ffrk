@@ -1,0 +1,30 @@
+{
+  "id": "20070024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070024/20070024_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Soul Shift",
+  "name_jp": "ダブルフェイズ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single hybrid attacks (1.00/1.10/1.20 or 3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 35.15/38.67/42.18) capped at 99999 at Soul Shift level 0/1/2, removes Arcane Dyad Empowered: Cecil (Paladin) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid attacks (1.00/1.10/1.20 or 3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 35.15/38.67/42.18) capped at 99999 at Soul Shift level 0/1/2, removes Arcane Dyad Empowered: Cecil (Paladin) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid attacks (1.00/1.10/1.20 or 3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 35.15/38.67/42.18) capped at 99999 at Soul Shift level 0/1/2, removes Arcane Dyad Empowered: Cecil (Paladin) from the user"
+    }
+  ]
+}

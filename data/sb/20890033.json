@@ -1,0 +1,30 @@
+{
+  "id": "20890033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890033/20890033_256.png",
+  "character": "Shadow",
+  "name": "Burst Break: Shadow (Break Arte)",
+  "name_jp": "烈破・シャドウ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single Overflow attack, grants [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ]
+}

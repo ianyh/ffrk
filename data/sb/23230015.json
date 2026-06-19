@@ -1,0 +1,27 @@
+{
+  "id": "23230015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230015/23230015_256.png",
+  "character": "Ultimecia",
+  "name": "Temporal Dominance",
+  "name_jp": "時に抗う魔女",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]"
+    }
+  ]
+}

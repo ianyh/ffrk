@@ -1,0 +1,31 @@
+{
+  "id": "22410025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410025/22410025_256.png",
+  "character": "Cid Raines",
+  "name": "Radiant Defying the Focus",
+  "name_jp": "耀光使命への挑戦",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Holy with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Cid Raines (Dark/Holy) to the user\nCrystal Force Mode: Cid Raines (Dark/Holy): Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Holy with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Cid Raines (Dark/Holy) to the user\nCrystal Force Mode: Cid Raines (Dark/Holy): Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Holy with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Cid Raines (Dark/Holy) to the user\nCrystal Force Mode: Cid Raines (Dark/Holy): Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce"
+    }
+  ]
+}

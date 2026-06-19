@@ -1,0 +1,27 @@
+{
+  "id": "20660002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20660002/20660002_256.png",
+  "character": "Zack",
+  "name": "Rush Assault",
+  "name_jp": "ハードラッシュ",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.65 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.65 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.65 each)"
+    }
+  ]
+}

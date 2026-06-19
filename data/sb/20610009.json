@@ -1,0 +1,27 @@
+{
+  "id": "20610009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610009/20610009_256.png",
+  "character": "Sazh",
+  "name": "Solitary Struggle",
+  "name_jp": "孤軍奮闘ブルース",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [PHY +30% Boost (15s)] and [High Quick Cast 3], grants [Awoken Father] and [Exertion Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [PHY +30% Boost (15s)] and [High Quick Cast 3], grants [Awoken Father] and [Exertion Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [PHY +30% Boost (15s)] and [High Quick Cast 3], grants [Awoken Father] and [Exertion Mode] to the user"
+    }
+  ]
+}

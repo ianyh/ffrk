@@ -1,0 +1,30 @@
+{
+  "id": "20920032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920032/20920032_256.png",
+  "character": "Reno",
+  "name": "War-Awoken Turks's Wonderbomb (Weapon Skill)",
+  "name_jp": "戦醒タークス豪華爆弾",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Lightning/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Lightning\nWS Blue: Imperil Lightning 30% to all targets\nWS Gold: DeProtect or DeShell 20% to all targets",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Lightning/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Lightning\nWS Blue: Imperil Lightning 30% to all targets\nWS Gold: DeProtect or DeShell 20% to all targets"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Lightning/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Lightning\nWS Blue: Imperil Lightning 30% to all targets\nWS Gold: DeProtect or DeShell 20% to all targets"
+    }
+  ]
+}

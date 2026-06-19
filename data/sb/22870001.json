@@ -1,0 +1,30 @@
+{
+  "id": "22870001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870001/22870001_256.png",
+  "character": "Rubicante",
+  "name": "Trueflame Inferno",
+  "name_jp": "真・かえんりゅう",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (1.99 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.99 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.99 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

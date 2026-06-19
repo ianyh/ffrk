@@ -1,0 +1,32 @@
+{
+  "id": "23000006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000006/23000006_256.png",
+  "character": "Ward",
+  "name": "Anchoring Trio",
+  "name_jp": "アンカーバイトリオ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Career Change Mode III (Ice, Earth, Water)], [Synchro Mode], [Damage Cap +10000] and [100% Critical 3] to the user, grants [100% Critical 3] to Laguna and Kiros if they are alive, grants [Critical Damage +50% 3] to the user, Laguna and Kiros if Laguna and Kiros are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Career Change Mode III (Ice, Earth, Water)], [Synchro Mode], [Damage Cap +10000] and [100% Critical 3] to the user, grants [100% Critical 3] to Laguna and Kiros if they are alive, grants [Critical Damage +50% 3] to the user, Laguna and Kiros if Laguna and Kiros are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Career Change Mode III (Ice, Earth, Water)], [Synchro Mode], [Damage Cap +10000] and [100% Critical 3] to the user, grants [100% Critical 3] to Laguna and Kiros if they are alive, grants [Critical Damage +50% 3] to the user, Laguna and Kiros if Laguna and Kiros are alive"
+    }
+  ]
+}

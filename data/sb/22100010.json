@@ -1,0 +1,30 @@
+{
+  "id": "22100010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100010/22100010_256.png",
+  "character": "Laguna",
+  "name": "Ragnarok Blade",
+  "name_jp": "ラグナロクブレード",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Ice] and [Machinist Double] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Ice] and [Machinist Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Ice] and [Machinist Double] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20100018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100018/20100018_256.png",
+  "character": "Terra",
+  "name": "Violent Sword",
+  "name_jp": "バイオレントソード",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Zephyr], [Damage Cap +10000] and [Violent Storm Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Zephyr], [Damage Cap +10000] and [Violent Storm Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Zephyr], [Damage Cap +10000] and [Violent Storm Follow-Up] to the user"
+    }
+  ]
+}

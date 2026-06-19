@@ -1,0 +1,30 @@
+{
+  "id": "20420031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420031/20420031_256.png",
+  "character": "Arc",
+  "name": "Woven Bond: Arc (Holy)",
+  "name_jp": "紡絆・アルクゥ聖",
+  "tier": "LBC",
+  "sb_version": "LBC3",
+  "realm": "III",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single hybrid attacks (2.60/2.70 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Arc (Holy)] and [Instant ATB 1] to the user\n",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (2.60/2.70 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Arc (Holy)] and [Instant ATB 1] to the user\n"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (2.60/2.70 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Arc (Holy)] and [Instant ATB 1] to the user\n"
+    }
+  ]
+}

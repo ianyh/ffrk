@@ -1,0 +1,31 @@
+{
+  "id": "20390026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390026/20390026_256.png",
+  "character": "Fran",
+  "name": "Whip Kick Flash",
+  "name_jp": "雷鳴氷砕蹴",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "XII",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [ATK and MAG -15%, DEF -70% (25s)], grants [Physical High Quick Cast 3] to all allies, grants [Damage Cap +10000], [Twin Element Mode II (Ice, Lightning)] and [Awoken Femme Sky Pirate Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [ATK and MAG -15%, DEF -70% (25s)], grants [Physical High Quick Cast 3] to all allies, grants [Damage Cap +10000], [Twin Element Mode II (Ice, Lightning)] and [Awoken Femme Sky Pirate Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [ATK and MAG -15%, DEF -70% (25s)], grants [Physical High Quick Cast 3] to all allies, grants [Damage Cap +10000], [Twin Element Mode II (Ice, Lightning)] and [Awoken Femme Sky Pirate Mode] to the user"
+    }
+  ]
+}

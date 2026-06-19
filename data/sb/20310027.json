@@ -1,0 +1,27 @@
+{
+  "id": "20310027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310027/20310027_256.png",
+  "character": "Snow",
+  "name": "Awoken Froststrike (Dual Shift)",
+  "name_jp": "覚醒フロストブロウ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1], [Dual Iron Determination Mode] and [Dual Awoken Ice Mode II (Snow)], removes [Dual Awoken Ice Mode I (Snow)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1], [Dual Iron Determination Mode] and [Dual Awoken Ice Mode II (Snow)], removes [Dual Awoken Ice Mode I (Snow)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1], [Dual Iron Determination Mode] and [Dual Awoken Ice Mode II (Snow)], removes [Dual Awoken Ice Mode I (Snow)]"
+    }
+  ]
+}

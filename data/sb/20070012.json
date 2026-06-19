@@ -1,0 +1,27 @@
+{
+  "id": "20070012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070012/20070012_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Saintly Force",
+  "name_jp": "セイントフォース",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [HP Stock (2000)], grants [Attach Holy] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
+    }
+  ]
+}

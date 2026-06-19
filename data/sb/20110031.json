@@ -1,0 +1,31 @@
+{
+  "id": "20110031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110031/20110031_256.png",
+  "character": "Cloud",
+  "name": "Mako Strike",
+  "name_jp": "魔晄撃",
+  "tier": "SASB",
+  "sb_version": "SASB3",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Linked Materia Mode III (Wind, Dark)], [Hardened SOLDIER Mode], Mako Infused +1 and Jenova Injection +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Linked Materia Mode III (Wind, Dark)], [Hardened SOLDIER Mode], Mako Infused +1 and Jenova Injection +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Linked Materia Mode III (Wind, Dark)], [Hardened SOLDIER Mode], Mako Infused +1 and Jenova Injection +1 to the user"
+    }
+  ]
+}

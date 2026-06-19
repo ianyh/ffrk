@@ -1,0 +1,29 @@
+{
+  "id": "23190007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190007/23190007_256.png",
+  "character": "Cinque",
+  "name": "Grand Slam Swing",
+  "name_jp": "刹那！フルスイング",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (2.50/3.25/5.70) capped at 99999 at Heavy Charge 0/1/2, grants [Attach Earth Stacking] and [Attach Earth]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.50/3.25/5.70) capped at 99999 at Heavy Charge 0/1/2, grants [Attach Earth Stacking] and [Attach Earth]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.50/3.25/5.70) capped at 99999 at Heavy Charge 0/1/2, grants [Attach Earth Stacking] and [Attach Earth]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22460022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460022/22460022_256.png",
+  "character": "Onion Knight",
+  "name": "Water Flash (Onion Knight)",
+  "name_jp": "水閃【オニオンナイト】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "III",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (7.50) capped at 99999, grants [Limit Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (7.50) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (7.50) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    }
+  ]
+}

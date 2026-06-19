@@ -1,0 +1,30 @@
+{
+  "id": "22170012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170012/22170012_256.png",
+  "character": "Vincent",
+  "name": "Beastial Claws",
+  "name_jp": "魔獣の爪痕",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Beast Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Beast Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Beast Mode] to the user"
+    }
+  ]
+}

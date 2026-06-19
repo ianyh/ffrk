@@ -1,0 +1,30 @@
+{
+  "id": "23560008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560008/23560008_256.png",
+  "character": "Ultros",
+  "name": "Grand Finale",
+  "name_jp": "大団円や！",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid attacks (? or ? each) capped at 19999, grants [Attach Poison], [Damage Cap +10000], [Awoken Poison] and [Mr. Typhon Follow-up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (? or ? each) capped at 19999, grants [Attach Poison], [Damage Cap +10000], [Awoken Poison] and [Mr. Typhon Follow-up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (? or ? each) capped at 19999, grants [Attach Poison], [Damage Cap +10000], [Awoken Poison] and [Mr. Typhon Follow-up] to the user"
+    }
+  ]
+}

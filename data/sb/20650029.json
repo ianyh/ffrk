@@ -1,0 +1,70 @@
+{
+  "id": "20650029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650029/20650029_256.png",
+  "character": "Galuf",
+  "name": "Zenith Single-Mindedness",
+  "name_jp": "究極一心不乱",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Galuf (Earth)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Galuf (Earth)] to the user"
+    },
+    {
+      "name": "Zenith Mode: Galuf (Earth)",
+      "text": "Increases [Earth Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Earth abilities trigger 1 additional time, casts Spirit Attack: Galuf (Earth) after using a Earth ability (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Fist of the Dawn+",
+      "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants [40% Damage Reduction Barrier 1] to the user"
+    },
+    {
+      "name": "Dawn Strike+",
+      "text": "Six single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Galuf (Earth)",
+      "text": "One single attack (3.36) capped at 99999, grants [100% Critical 3] to all allies"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Galuf (Earth)] to the user"
+    },
+    {
+      "name": "Fist of the Dawn+",
+      "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants [40% Damage Reduction Barrier 1] to the user"
+    },
+    {
+      "name": "Dawn Strike+",
+      "text": "Six single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Galuf (Earth)",
+      "text": "One single attack (3.36) capped at 99999, grants [100% Critical 3] to all allies"
+    }
+  ]
+}

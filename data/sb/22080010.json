@@ -1,0 +1,30 @@
+{
+  "id": "22080010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080010/22080010_256.png",
+  "character": "Exdeath",
+  "name": "Balance of Power",
+  "name_jp": "黒と白の法則転換",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), [MAG, RES and MND +30%] to the user for 25 seconds, grants [Buff Holy 30% (15s)], [Buff Dark 30% (15s)] and [Delta Magic Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG, RES and MND +30%] to the user for 25 seconds, grants [Buff Holy 30% (15s)], [Buff Dark 30% (15s)] and [Delta Magic Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG, RES and MND +30%] to the user for 25 seconds, grants [Buff Holy 30% (15s)], [Buff Dark 30% (15s)] and [Delta Magic Follow-Up] to the user"
+    }
+  ]
+}

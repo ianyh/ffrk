@@ -1,0 +1,27 @@
+{
+  "id": "20890001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890001/20890001_256.png",
+  "character": "Shadow",
+  "name": "Wild Fang",
+  "name_jp": "ワイルドファング",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.28 each), causes [Sap] (16%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.28 each), causes [Sap] (16%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.28 each), causes [Sap] (16%)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20070004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070004/20070004_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Radiant Wings",
+  "name_jp": "レイウィングス",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "IV",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (1.60 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.60 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.60 each)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20280010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280010/20280010_256.png",
+  "character": "Gordon",
+  "name": "Royal Honor",
+  "name_jp": "王族の義心",
+  "tier": "Glint",
+  "sb_version": "Glint2",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire with Stacking] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking] and [Soul Break Gauge +250]"
+    }
+  ]
+}

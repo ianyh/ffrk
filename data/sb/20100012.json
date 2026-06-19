@@ -1,0 +1,29 @@
+{
+  "id": "20100012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100012/20100012_256.png",
+  "character": "Terra",
+  "name": "Magitek Inferno",
+  "name_jp": "魔導の劫火",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VI",
+  "elements": [
+    "Fire"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.73 each), grants [Attach Fire], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Fire], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Fire], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ]
+}

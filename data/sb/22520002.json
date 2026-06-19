@@ -1,0 +1,27 @@
+{
+  "id": "22520002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520002/22520002_256.png",
+  "character": "Minfilia",
+  "name": "Blessing of Light",
+  "name_jp": "ハイデリンの加護",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK +50%] for 25 seconds, grants [Last Stand]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds, grants [Last Stand]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds, grants [Last Stand]"
+    }
+  ]
+}

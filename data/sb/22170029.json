@@ -1,0 +1,27 @@
+{
+  "id": "22170029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170029/22170029_256.png",
+  "character": "Vincent",
+  "name": "Continuous Flash: Vincent (Fire)",
+  "name_jp": "連閃・ヴィンセント炎",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Imperil Fire 10% (15s)], Grants [Buff Fire 10% (15s)], [200% ATB 1] and [Quick Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Fire 10% (15s)], Grants [Buff Fire 10% (15s)], [200% ATB 1] and [Quick Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Fire 10% (15s)], Grants [Buff Fire 10% (15s)], [200% ATB 1] and [Quick Cast 2] to the user"
+    }
+  ]
+}

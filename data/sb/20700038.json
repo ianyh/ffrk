@@ -1,0 +1,30 @@
+{
+  "id": "20700038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700038/20700038_256.png",
+  "character": "Vaan",
+  "name": "Woven Bond: Vaan",
+  "name_jp": "紡絆・ヴァン",
+  "tier": "LBC",
+  "sb_version": "LBC2",
+  "realm": "XII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single physical attacks (0.80 each) capped at 19999, activates XII Chain (max 150, field +0%) or adds 25 to the current XII Chain maximum limit, grants [Instant ATB 1] and Chain Force Mode to the user\nChain Force Mode: After using Thief abilities, chases with 6 single-target Wind/NE physical attacks (0.32 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single physical attacks (0.80 each) capped at 19999, activates XII Chain (max 150, field +0%) or adds 25 to the current XII Chain maximum limit, grants [Instant ATB 1] and Chain Force Mode to the user\nChain Force Mode: After using Thief abilities, chases with 6 single-target Wind/NE physical attacks (0.32 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single physical attacks (0.80 each) capped at 19999, activates XII Chain (max 150, field +0%) or adds 25 to the current XII Chain maximum limit, grants [Instant ATB 1] and Chain Force Mode to the user\nChain Force Mode: After using Thief abilities, chases with 6 single-target Wind/NE physical attacks (0.32 each)"
+    }
+  ]
+}

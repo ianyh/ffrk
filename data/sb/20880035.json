@@ -1,0 +1,27 @@
+{
+  "id": "20880035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880035/20880035_256.png",
+  "character": "Lulu",
+  "name": "Soul Drive: Lulu",
+  "name_jp": "SD・ルールー",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Lulu], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Lulu], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Lulu], [Instant ATB 1] to user."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20810011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810011/20810011_256.png",
+  "character": "Gilgamesh",
+  "name": "Gilgamesh Scorching Time",
+  "name_jp": "秘剣・炎天下",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

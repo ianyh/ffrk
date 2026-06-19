@@ -1,0 +1,27 @@
+{
+  "id": "22520018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520018/22520018_256.png",
+  "character": "Minfilia",
+  "name": "Radiant Role Fulfilled",
+  "name_jp": "耀光果たされし役目",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "ATK -15% and DEF & RES -70% to all targets, ATK/MAG/RES +30% & Quick Cast to party, Crystal Mode to user\nCrystal Mode: Quick Knight/Support & Zero Hone Cost to Knight/Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK -15% and DEF & RES -70% to all targets, ATK/MAG/RES +30% & Quick Cast to party, Crystal Mode to user\nCrystal Mode: Quick Knight/Support & Zero Hone Cost to Knight/Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK -15% and DEF & RES -70% to all targets, ATK/MAG/RES +30% & Quick Cast to party, Crystal Mode to user\nCrystal Mode: Quick Knight/Support & Zero Hone Cost to Knight/Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ]
+}

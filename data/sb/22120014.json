@@ -1,0 +1,30 @@
+{
+  "id": "22120014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120014/22120014_256.png",
+  "character": "Minwu",
+  "name": "Apex Ultima",
+  "name_jp": "アルテマ・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (35.15/38.67/42.18) capped at 99999 at Apex Ultima level 0/1/2, removes Arcane Dyad Empowered: Minwu from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (35.15/38.67/42.18) capped at 99999 at Apex Ultima level 0/1/2, removes Arcane Dyad Empowered: Minwu from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (35.15/38.67/42.18) capped at 99999 at Apex Ultima level 0/1/2, removes Arcane Dyad Empowered: Minwu from the user"
+    }
+  ]
+}

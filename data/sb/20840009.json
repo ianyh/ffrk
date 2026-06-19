@@ -1,0 +1,27 @@
+{
+  "id": "20840009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840009/20840009_256.png",
+  "character": "Quina",
+  "name": "Angelic White Wind",
+  "name_jp": "天使のホワイトウインド",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Regenga]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga]"
+    }
+  ]
+}

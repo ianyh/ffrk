@@ -1,0 +1,29 @@
+{
+  "id": "22540004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540004/22540004_256.png",
+  "character": "Seymour",
+  "name": "Oblivion",
+  "name_jp": "カオティック・D",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "X",
+  "elements": [
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Activates Dark Chain (max 99, field +20%), eleven single attacks (1.63 each), grants [Quick Cast 2] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 99, field +20%), eleven single attacks (1.63 each), grants [Quick Cast 2] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 99, field +20%), eleven single attacks (1.63 each), grants [Quick Cast 2] to all allies"
+    }
+  ]
+}

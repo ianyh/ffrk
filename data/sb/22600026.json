@@ -1,0 +1,27 @@
+{
+  "id": "22600026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22600026/22600026_256.png",
+  "character": "Fujin",
+  "name": "Awoken Storm (Dual Shift)",
+  "name_jp": "覚醒嵐",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Wind Mode II to user\nDual Awoken Wind Mode II: Wind Ability Boost, Instant Wind & chases a Wind ability with Quick ATB 2 and Instant Wind 2 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Wind Mode II to user\nDual Awoken Wind Mode II: Wind Ability Boost, Instant Wind & chases a Wind ability with Quick ATB 2 and Instant Wind 2 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Wind Mode II to user\nDual Awoken Wind Mode II: Wind Ability Boost, Instant Wind & chases a Wind ability with Quick ATB 2 and Instant Wind 2 to user"
+    }
+  ]
+}

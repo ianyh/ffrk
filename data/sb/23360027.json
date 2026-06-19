@@ -1,0 +1,27 @@
+{
+  "id": "23360027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360027/23360027_256.png",
+  "character": "Eight",
+  "name": "Soul Drive: Eight",
+  "name_jp": "SD・エイト",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Eight], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Eight], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Eight], [Instant ATB 1] to user."
+    }
+  ]
+}

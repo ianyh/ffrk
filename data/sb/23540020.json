@@ -1,0 +1,33 @@
+{
+  "id": "23540020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540020/23540020_256.png",
+  "character": "Arciela",
+  "name": "War-Awoken Embed Magic (Weapon Skill)",
+  "name_jp": "戦醒エンベッドマジック",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Ice//Lightning/Water/Wind/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Lightning/Water/Wind Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Lightning/Water/Wind\nWS Blue: Lv.2 En-Ice/Lightning/Water/Wind Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Ice/Lightning/Water/Wind Abilities to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice//Lightning/Water/Wind/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Lightning/Water/Wind Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Lightning/Water/Wind\nWS Blue: Lv.2 En-Ice/Lightning/Water/Wind Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Ice/Lightning/Water/Wind Abilities to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice//Lightning/Water/Wind/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Lightning/Water/Wind Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Lightning/Water/Wind\nWS Blue: Lv.2 En-Ice/Lightning/Water/Wind Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Ice/Lightning/Water/Wind Abilities to user"
+    }
+  ]
+}

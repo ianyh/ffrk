@@ -1,0 +1,27 @@
+{
+  "id": "20770026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770026/20770026_256.png",
+  "character": "Hope",
+  "name": "Continuous Flash: Hope (Holy)",
+  "name_jp": "連閃・ホープ聖",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Holy with Stacking], [Instant ATB 1] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], [Instant ATB 1] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], [Instant ATB 1] and [Instant Cast 1] to the user"
+    }
+  ]
+}

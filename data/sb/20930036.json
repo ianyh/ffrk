@@ -1,0 +1,75 @@
+{
+  "id": "20930036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930036/20930036_256.png",
+  "character": "Faris",
+  "name": "Zenith Flame Storm",
+  "name_jp": "究極フレイムストーム",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven ranged single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Fire 2 with Stacking] based on entry element damage, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Faris] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven ranged single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Fire 2 with Stacking] based on entry element damage, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Faris] to the user"
+    },
+    {
+      "name": "Zenith Mode: Faris",
+      "text": "Increases [Fire/Wind Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Fire or Wind abilities trigger 1 additional time, casts Spirit Attack: Faris after using a Fire or Wind ability (max 5), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Pirate Cannon+",
+      "text": "Four single ranged attacks (1.10 each), causes [ATK and MAG -50% (8s)], grants [ATK and MAG +50% (8s)] to self"
+    },
+    {
+      "name": "Serpent's Gale+",
+      "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ users"
+    },
+    {
+      "name": "Spirit Attack: Faris",
+      "text": "Causes [DEF and RES -50% (8s)], grants [Quick Cast 1] to all allies"
+    },
+    {
+      "name": "Attach Wind 2 with Stacking",
+      "text": "Increase Attach Wind Level by 2 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Attach Fire 2 with Stacking",
+      "text": "Increase Attach Fire Level by 2 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven ranged single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Fire 2 with Stacking] based on entry element damage, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Faris] to the user"
+    },
+    {
+      "name": "Pirate Cannon+",
+      "text": "Four single ranged attacks (1.10 each), causes [ATK and MAG -50% (8s)], grants [ATK and MAG +50% (8s)] to self"
+    },
+    {
+      "name": "Serpent's Gale+",
+      "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ users"
+    },
+    {
+      "name": "Spirit Attack: Faris",
+      "text": "Causes [DEF and RES -50% (8s)], grants [Quick Cast 1] to all allies"
+    }
+  ]
+}

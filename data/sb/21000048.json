@@ -1,0 +1,27 @@
+{
+  "id": "21000048",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000048/21000048_256.png",
+  "character": "Mog",
+  "name": "Leaf Swirl",
+  "name_jp": "木の葉乱舞",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group attack (1.10)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (1.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (1.10)"
+    }
+  ]
+}

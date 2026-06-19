@@ -1,0 +1,27 @@
+{
+  "id": "22730018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730018/22730018_256.png",
+  "character": "Gogo (V)",
+  "name": "Mimic Fantasy",
+  "name_jp": "幻想ミミック",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Soul Break Gauge +500]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ]
+}

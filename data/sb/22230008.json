@@ -1,0 +1,30 @@
+{
+  "id": "22230008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230008/22230008_256.png",
+  "character": "Desch",
+  "name": "Shattering Thunder",
+  "name_jp": "壊雷",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "III",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (1.05 each), causes [Imperil Lightning 10%] and [RES -50%] for 15 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.05 each), causes [Imperil Lightning 10%] and [RES -50%] for 15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.05 each), causes [Imperil Lightning 10%] and [RES -50%] for 15 seconds"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22250003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250003/22250003_256.png",
+  "character": "Cait Sith",
+  "name": "Moogle Dance",
+  "name_jp": "モーグリダンス",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [High Regen] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [High Regen] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [High Regen] to all allies"
+    }
+  ]
+}

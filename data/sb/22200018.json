@@ -1,0 +1,30 @@
+{
+  "id": "22200018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200018/22200018_256.png",
+  "character": "Edea",
+  "name": "Sweetest Blow",
+  "name_jp": "甘美なる一撃",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Sweetest Blow level 0/1/2, removes Arcane Dyad Empowered: Edea (Dark) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Sweetest Blow level 0/1/2, removes Arcane Dyad Empowered: Edea (Dark) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Sweetest Blow level 0/1/2, removes Arcane Dyad Empowered: Edea (Dark) from the user"
+    }
+  ]
+}

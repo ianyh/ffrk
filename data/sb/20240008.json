@@ -1,0 +1,30 @@
+{
+  "id": "20240008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240008/20240008_256.png",
+  "character": "Locke",
+  "name": "Southern Cross",
+  "name_jp": "サザンクロス",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single ranged attacks (0.97 each), grants [Attach Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.97 each), grants [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.97 each), grants [Attach Fire] to the user"
+    }
+  ]
+}

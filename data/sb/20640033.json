@@ -1,0 +1,30 @@
+{
+  "id": "20640033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640033/20640033_256.png",
+  "character": "Tellah",
+  "name": "Burst Break: Tellah (Break Arte)",
+  "name_jp": "烈破・テラ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single Overflow attack, grants [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23140023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140023/23140023_256.png",
+  "character": "Thief (I)",
+  "name": "Radiant Lively Thieves",
+  "name_jp": "耀光ライヴリーシーブス",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "I",
+  "elements": [
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Thief (I)] to user. Grants [Attach Wind with Stacking]/[Attach Poison with Stacking] based on if entry damage was Wind/Poison.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Thief (I)] to user. Grants [Attach Wind with Stacking]/[Attach Poison with Stacking] based on if entry damage was Wind/Poison."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Thief (I)] to user. Grants [Attach Wind with Stacking]/[Attach Poison with Stacking] based on if entry damage was Wind/Poison."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22460028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460028/22460028_256.png",
+  "character": "Onion Knight",
+  "name": "Channel Wind",
+  "name_jp": "風の潜在力・魔",
+  "tier": "SASB",
+  "sb_version": "SASB3",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Wind Chosen Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Wind Chosen Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Wind Chosen Mode] to the user"
+    }
+  ]
+}

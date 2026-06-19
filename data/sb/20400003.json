@@ -1,0 +1,29 @@
+{
+  "id": "20400003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400003/20400003_256.png",
+  "character": "Bartz",
+  "name": "Lupine Barrage",
+  "name_jp": "ルパイントレース",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "V",
+  "elements": [
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (1.05 each), [ATK +35%] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.05 each), [ATK +35%] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.05 each), [ATK +35%] to the user for 25 seconds"
+    }
+  ]
+}

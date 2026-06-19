@@ -1,0 +1,30 @@
+{
+  "id": "20710033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710033/20710033_256.png",
+  "character": "Ashe",
+  "name": "Zenith Inspiring Flash",
+  "name_jp": "究極革新の雷光",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Lightning/NE magic attacks at Cap Break Level 1, Lv.3 En-Lightning, En-Lightning Stack, Cap Break Level 1, Instant Cast 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning Damage +20%, Magic Casting Speed x1.1 & chases a Lightning ability with Instant Lightning 2 and Instant ATB 2 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Maelstrom's Bolt+: Higher multilier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/NE magic attacks at Cap Break Level 1, Lv.3 En-Lightning, En-Lightning Stack, Cap Break Level 1, Instant Cast 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning Damage +20%, Magic Casting Speed x1.1 & chases a Lightning ability with Instant Lightning 2 and Instant ATB 2 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Maelstrom's Bolt+: Higher multilier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/NE magic attacks at Cap Break Level 1, Lv.3 En-Lightning, En-Lightning Stack, Cap Break Level 1, Instant Cast 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning Damage +20%, Magic Casting Speed x1.1 & chases a Lightning ability with Instant Lightning 2 and Instant ATB 2 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Maelstrom's Bolt+: Higher multilier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

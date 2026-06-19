@@ -1,0 +1,29 @@
+{
+  "id": "20770024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770024/20770024_256.png",
+  "character": "Hope",
+  "name": "Divine Might: Hope",
+  "name_jp": "神威・ホープ",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "XIII",
+  "elements": [
+    "Holy"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (31.00 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Holy abilities on allies/5+ Holy abilities on allies and 2+ allies have Attach Holy",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (31.00 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Holy abilities on allies/5+ Holy abilities on allies and 2+ allies have Attach Holy"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (31.00 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Holy abilities on allies/5+ Holy abilities on allies and 2+ allies have Attach Holy"
+    }
+  ]
+}

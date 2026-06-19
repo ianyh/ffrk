@@ -1,0 +1,31 @@
+{
+  "id": "23140014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140014/23140014_256.png",
+  "character": "Thief (I)",
+  "name": "Apex Hollow Blast",
+  "name_jp": "ホロウブラスト・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "I",
+  "elements": [
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Hollow Blast level 0/1, removes Arcane Dyad Empowered: Thief (I) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Hollow Blast level 0/1, removes Arcane Dyad Empowered: Thief (I) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Hollow Blast level 0/1, removes Arcane Dyad Empowered: Thief (I) from the user"
+    }
+  ]
+}

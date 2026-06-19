@@ -1,0 +1,29 @@
+{
+  "id": "21000012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000012/21000012_256.png",
+  "character": "-",
+  "name": "Dark Shot",
+  "name_jp": "ダークショット",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single ranged attack (2.10)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.10)"
+    }
+  ]
+}

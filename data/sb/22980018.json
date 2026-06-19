@@ -1,0 +1,30 @@
+{
+  "id": "22980018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980018/22980018_256.png",
+  "character": "Aranea",
+  "name": "Woven Bond: Aranea",
+  "name_jp": "紡絆・アラネア",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single ranged jump attacks (0.80 each) capped at 19999, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Aranea] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.80 each) capped at 19999, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Aranea] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.80 each) capped at 19999, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Aranea] and [Instant ATB 1] to the user"
+    }
+  ]
+}

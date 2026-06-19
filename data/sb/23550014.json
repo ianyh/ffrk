@@ -1,0 +1,30 @@
+{
+  "id": "23550014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550014/23550014_256.png",
+  "character": "Kurasame",
+  "name": "Woven Bond: Kurasame (Ice)",
+  "name_jp": "紡絆・クラサメ氷",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 or 2.60 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit, grants [Chain Force Mode: Kurasame (Ice)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 or 2.60 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit, grants [Chain Force Mode: Kurasame (Ice)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 or 2.60 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit, grants [Chain Force Mode: Kurasame (Ice)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22300013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300013/22300013_256.png",
+  "character": "Sarah",
+  "name": "Far-Reaching Prayer",
+  "name_jp": "彼方に届く王女の祈り",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Last Stand] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and Desire +1",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and Desire +1"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and Desire +1"
+    }
+  ]
+}

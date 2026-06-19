@@ -1,0 +1,29 @@
+{
+  "id": "22030010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030010/22030010_256.png",
+  "character": "Fang",
+  "name": "Gran Pulse Stormspear",
+  "name_jp": "グラン＝パルス流 嵐竜槍",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "XIII",
+  "elements": [
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single ranged jump attacks (8.00 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged jump attacks (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged jump attacks (8.00 each) capped at 99999"
+    }
+  ]
+}

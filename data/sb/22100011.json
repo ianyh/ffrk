@@ -1,0 +1,30 @@
+{
+  "id": "22100011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100011/22100011_256.png",
+  "character": "Laguna",
+  "name": "Freeze Missiles",
+  "name_jp": "フリーズミサイル",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single ranged attacks (0.52 each), grants [Attach Ice Stacking] and [Attach Ice] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), grants [Attach Ice Stacking] and [Attach Ice] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), grants [Attach Ice Stacking] and [Attach Ice] to the user"
+    }
+  ]
+}

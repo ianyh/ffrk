@@ -1,0 +1,30 @@
+{
+  "id": "22070008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070008/22070008_256.png",
+  "character": "Kefka",
+  "name": "Magitek Rampage",
+  "name_jp": "W魔導吸引・大暴走",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "Poison"
+  ],
+  "type": "BLK",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random attacks (1.62 each), grants [Attach Dark] and [Forged Magitek EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (1.62 each), grants [Attach Dark] and [Forged Magitek EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (1.62 each), grants [Attach Dark] and [Forged Magitek EX Mode] to the user"
+    }
+  ]
+}

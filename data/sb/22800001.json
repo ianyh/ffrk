@@ -1,0 +1,27 @@
+{
+  "id": "22800001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22800001/22800001_256.png",
+  "character": "Deuce",
+  "name": "Hymn of Healing",
+  "name_jp": "白のセレナーデ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), removes KO [Raise: 40%], grants [Stoneskin: 30%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), removes KO [Raise: 40%], grants [Stoneskin: 30%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), removes KO [Raise: 40%], grants [Stoneskin: 30%]"
+    }
+  ]
+}

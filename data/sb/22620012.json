@@ -1,0 +1,30 @@
+{
+  "id": "22620012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620012/22620012_256.png",
+  "character": "Vayne",
+  "name": "Steel Fusillade",
+  "name_jp": "セフィラの葉叢",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and DEF +50% (25s)] or [DEF and MAG +50% (25s)] to the user, grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Scheming Statesman Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and DEF +50% (25s)] or [DEF and MAG +50% (25s)] to the user, grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Scheming Statesman Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and DEF +50% (25s)] or [DEF and MAG +50% (25s)] to the user, grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Scheming Statesman Mode] to the user"
+    }
+  ]
+}

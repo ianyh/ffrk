@@ -1,0 +1,31 @@
+{
+  "id": "22090018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090018/22090018_256.png",
+  "character": "Jecht",
+  "name": "Triumphant Grasp",
+  "name_jp": "ジェクトフィンガー",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF10 allies are alive, grants [Awoken Legend], [Damage Cap +10000] and [Fatherly Respect Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF10 allies are alive, grants [Awoken Legend], [Damage Cap +10000] and [Fatherly Respect Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF10 allies are alive, grants [Awoken Legend], [Damage Cap +10000] and [Fatherly Respect Follow-Up] to the user"
+    }
+  ]
+}

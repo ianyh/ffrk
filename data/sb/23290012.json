@@ -1,0 +1,27 @@
+{
+  "id": "23290012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290012/23290012_256.png",
+  "character": "Tama",
+  "name": "Continuous Flash: Tama",
+  "name_jp": "連閃・タマ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Protect], [Shell], and [Haste] to all allies, grants [Soul Break Gauge +250] and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell], and [Haste] to all allies, grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell], and [Haste] to all allies, grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ]
+}

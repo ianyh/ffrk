@@ -1,0 +1,27 @@
+{
+  "id": "22920018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920018/22920018_256.png",
+  "character": "Umaro",
+  "name": "Continuous Flash: Umaro (Ice)",
+  "name_jp": "連閃・ウーマロ氷",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Ice with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
+    }
+  ]
+}

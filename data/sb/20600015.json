@@ -1,0 +1,29 @@
+{
+  "id": "20600015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600015/20600015_256.png",
+  "character": "Lightning",
+  "name": "Lightning Blitz",
+  "name_jp": "雷速絶影",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XIII",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.72 each), grants [Attach Lightning], [Spellblade, Celerity +30% Boost (15s)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Attach Lightning], [Spellblade, Celerity +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Attach Lightning], [Spellblade, Celerity +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ]
+}

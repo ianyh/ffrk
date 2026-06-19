@@ -1,0 +1,31 @@
+{
+  "id": "22070011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070011/22070011_256.png",
+  "character": "Kefka",
+  "name": "Stroke of Destruction",
+  "name_jp": "ほうかいのはばたき",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Clown's Scorn Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Clown's Scorn Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Clown's Scorn Follow-Up] to the user"
+    }
+  ]
+}

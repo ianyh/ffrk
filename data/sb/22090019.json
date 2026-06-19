@@ -1,0 +1,31 @@
+{
+  "id": "22090019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090019/22090019_256.png",
+  "character": "Jecht",
+  "name": "Fake Out",
+  "name_jp": "ジェクトキャンセル",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Fake Out level 0/1, removes Arcane Dyad Empowered: Jecht from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Fake Out level 0/1, removes Arcane Dyad Empowered: Jecht from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Fake Out level 0/1, removes Arcane Dyad Empowered: Jecht from the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20470028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470028/20470028_256.png",
+  "character": "Red XIII",
+  "name": "Continuous Flash: Red XIII",
+  "name_jp": "連閃・レッドXIII",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant Cast 3], [200% ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 3], [200% ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 3], [200% ATB 1] to user."
+    }
+  ]
+}

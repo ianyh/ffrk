@@ -1,0 +1,30 @@
+{
+  "id": "20690028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690028/20690028_256.png",
+  "character": "Auron",
+  "name": "Woven Bond: Auron (Fire)",
+  "name_jp": "紡絆・アーロン炎",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates Fire Chain (max 150, field +0%) or adds 25 to the current Fire Chain maximum limit, grants [Chain Force Mode: Auron] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Fire Chain (max 150, field +0%) or adds 25 to the current Fire Chain maximum limit, grants [Chain Force Mode: Auron] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Fire Chain (max 150, field +0%) or adds 25 to the current Fire Chain maximum limit, grants [Chain Force Mode: Auron] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22290020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290020/22290020_256.png",
+  "character": "Echo",
+  "name": "Starry Make a Wish",
+  "name_jp": "極星お星さまにお願い",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants Damage +5% to party, grants Master Mode & Instant ATB 1 to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1; Chases SB/LB cast with single-target DeProtect 30% & DeShell 30% for 5 seconds (max 1 chase); If target has DEF/RES/MND buff, chases with AOE DEF/RES/MND -50% for 8 seconds (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Damage +5% to party, grants Master Mode & Instant ATB 1 to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1; Chases SB/LB cast with single-target DeProtect 30% & DeShell 30% for 5 seconds (max 1 chase); If target has DEF/RES/MND buff, chases with AOE DEF/RES/MND -50% for 8 seconds (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Damage +5% to party, grants Master Mode & Instant ATB 1 to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1; Chases SB/LB cast with single-target DeProtect 30% & DeShell 30% for 5 seconds (max 1 chase); If target has DEF/RES/MND buff, chases with AOE DEF/RES/MND -50% for 8 seconds (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ]
+}

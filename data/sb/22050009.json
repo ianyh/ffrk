@@ -1,0 +1,30 @@
+{
+  "id": "22050009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050009/22050009_256.png",
+  "character": "Beatrix",
+  "name": "Seiken Thunder Slash",
+  "name_jp": "聖剣技・雷鳴剣",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "IX",
+  "elements": [
+    "Holy",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ]
+}

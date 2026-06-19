@@ -1,0 +1,27 @@
+{
+  "id": "20610020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610020/20610020_256.png",
+  "character": "Sazh",
+  "name": "Jinx",
+  "name_jp": "バッドタイム",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    }
+  ]
+}

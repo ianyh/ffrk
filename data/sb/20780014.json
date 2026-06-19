@@ -1,0 +1,30 @@
+{
+  "id": "20780014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780014/20780014_256.png",
+  "character": "Setzer",
+  "name": "Dealer Shuffle",
+  "name_jp": "ディールシャッフル",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Dark Ability +30% Boost 2] to all allies, grants [Synchro Mode] and [Dark Trick Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Dark Ability +30% Boost 2] to all allies, grants [Synchro Mode] and [Dark Trick Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Dark Ability +30% Boost 2] to all allies, grants [Synchro Mode] and [Dark Trick Follow-Up] to the user"
+    }
+  ]
+}

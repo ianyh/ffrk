@@ -1,0 +1,30 @@
+{
+  "id": "22720034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720034/22720034_256.png",
+  "character": "Ceodore",
+  "name": "Burst Break: Ceodore (Break Arte)",
+  "name_jp": "烈破・セオドア",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single Overflow attack, grants [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ]
+}

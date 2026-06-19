@@ -1,0 +1,30 @@
+{
+  "id": "22450011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450011/22450011_256.png",
+  "character": "Noel",
+  "name": "Hunter's Pride",
+  "name_jp": "ハンターズ・プライド",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XIII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Water], [Awoken Torrent], [Damage Cap +10000] and [Sunleth Strike Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Water], [Awoken Torrent], [Damage Cap +10000] and [Sunleth Strike Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Water], [Awoken Torrent], [Damage Cap +10000] and [Sunleth Strike Follow-Up] to the user"
+    }
+  ]
+}

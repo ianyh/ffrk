@@ -1,0 +1,31 @@
+{
+  "id": "23020026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020026/23020026_256.png",
+  "character": "Elena",
+  "name": "Try This on for Size!",
+  "name_jp": "全力これをおみまいよ！",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "15 single-target Fire/Lightning/NE ranged physical attacks, ATK/MND +25% & DEF/RES +30% for 8 seconds and Instant Cast to party, Awoken Turks Recruit Mode, Cap Break Level 1 & Rookie's Will to user\nAwoken Turks Recruit Mode: Unlimited Fire/Lightning Hones, Fire/Lightning Ability Boost & Dualcast Fire/Lightning\nRookie's Will: After using 2 Fire/Lightning abilities, grants Ranged PHY Damage +30% for 2 turns to party (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Fire/Lightning/NE ranged physical attacks, ATK/MND +25% & DEF/RES +30% for 8 seconds and Instant Cast to party, Awoken Turks Recruit Mode, Cap Break Level 1 & Rookie's Will to user\nAwoken Turks Recruit Mode: Unlimited Fire/Lightning Hones, Fire/Lightning Ability Boost & Dualcast Fire/Lightning\nRookie's Will: After using 2 Fire/Lightning abilities, grants Ranged PHY Damage +30% for 2 turns to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Fire/Lightning/NE ranged physical attacks, ATK/MND +25% & DEF/RES +30% for 8 seconds and Instant Cast to party, Awoken Turks Recruit Mode, Cap Break Level 1 & Rookie's Will to user\nAwoken Turks Recruit Mode: Unlimited Fire/Lightning Hones, Fire/Lightning Ability Boost & Dualcast Fire/Lightning\nRookie's Will: After using 2 Fire/Lightning abilities, grants Ranged PHY Damage +30% for 2 turns to party (max 1 chase)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20890013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890013/20890013_256.png",
+  "character": "Shadow",
+  "name": "Abyssal Cloak",
+  "name_jp": "深淵の装束",
+  "tier": "Glint",
+  "sb_version": "Glint2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [High Quick Cast 2]"
+    }
+  ]
+}

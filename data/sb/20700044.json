@@ -1,0 +1,27 @@
+{
+  "id": "20700044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700044/20700044_256.png",
+  "character": "Vaan",
+  "name": "Continuous Flash: Vaan",
+  "name_jp": "連閃・ヴァン",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Flash Attack: Vaan Follow-Up], [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Flash Attack: Vaan Follow-Up], [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Flash Attack: Vaan Follow-Up], [Instant ATB 1] to user."
+    }
+  ]
+}

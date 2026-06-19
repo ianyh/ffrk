@@ -1,0 +1,30 @@
+{
+  "id": "22720020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720020/22720020_256.png",
+  "character": "Ceodore",
+  "name": "True Cross Slash",
+  "name_jp": "真・クロススラッシュ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Holy], [Damage Cap +10000] to the user, grants [Holy Ability +30% Boost 1] and [Dualcast Holy 1]/[Holy Ability +30% Boost 2] and [Dualcast Holy 2]/[Holy Ability +30% Boost 3] and [Dualcast Holy 3] to the user if 0-1/2-3/4+ FF4 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Holy], [Damage Cap +10000] to the user, grants [Holy Ability +30% Boost 1] and [Dualcast Holy 1]/[Holy Ability +30% Boost 2] and [Dualcast Holy 2]/[Holy Ability +30% Boost 3] and [Dualcast Holy 3] to the user if 0-1/2-3/4+ FF4 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Holy], [Damage Cap +10000] to the user, grants [Holy Ability +30% Boost 1] and [Dualcast Holy 1]/[Holy Ability +30% Boost 2] and [Dualcast Holy 2]/[Holy Ability +30% Boost 3] and [Dualcast Holy 3] to the user if 0-1/2-3/4+ FF4 allies are alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20900019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900019/20900019_256.png",
+  "character": "Mog",
+  "name": "Starry Brave Spear of Narshe",
+  "name_jp": "極星ナルシェの勇槍",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Master Mode], [Master Mode: Mog (Dragoon)], [Instant ATB 1] to user, grants [200% ATB 1] to all allies, grants [Learning Mode: Mog II] to all allies if there are at least 4 Dragoon party members, otherwise grants [Learning Mode: Mog] and [Soul Break Gauge +50] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Mog (Dragoon)], [Instant ATB 1] to user, grants [200% ATB 1] to all allies, grants [Learning Mode: Mog II] to all allies if there are at least 4 Dragoon party members, otherwise grants [Learning Mode: Mog] and [Soul Break Gauge +50] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Mog (Dragoon)], [Instant ATB 1] to user, grants [200% ATB 1] to all allies, grants [Learning Mode: Mog II] to all allies if there are at least 4 Dragoon party members, otherwise grants [Learning Mode: Mog] and [Soul Break Gauge +50] to all allies"
+    }
+  ]
+}

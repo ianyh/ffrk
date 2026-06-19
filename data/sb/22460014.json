@@ -1,0 +1,27 @@
+{
+  "id": "22460014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460014/22460014_256.png",
+  "character": "Onion Knight",
+  "name": "Onion Water",
+  "name_jp": "ウォータオブタマネギ",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Water Stacking], [Attach Water] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water Stacking], [Attach Water] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water Stacking], [Attach Water] and [Instant Cast 1]"
+    }
+  ]
+}

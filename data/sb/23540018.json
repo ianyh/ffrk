@@ -1,0 +1,33 @@
+{
+  "id": "23540018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540018/23540018_256.png",
+  "character": "Arciela",
+  "name": "Zenith Dynastic Gravitas",
+  "name_jp": "究極Dグラビタス",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Ice/Lightning/Water/Wind/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack, Lv.2 En-Water Stack or Lv.2 En-Wind Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning/Water/Wind Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning/Water/Wind ability with Instant Ice/Lightning/Water/Wind 2 and Instant ATB 2 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning/Water/Wind, Higher Multiplier & Zero Hone Cost to Hero Ability; Harmonic Displacement+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/Lightning/Water/Wind/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack, Lv.2 En-Water Stack or Lv.2 En-Wind Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning/Water/Wind Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning/Water/Wind ability with Instant Ice/Lightning/Water/Wind 2 and Instant ATB 2 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning/Water/Wind, Higher Multiplier & Zero Hone Cost to Hero Ability; Harmonic Displacement+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/Lightning/Water/Wind/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack, Lv.2 En-Water Stack or Lv.2 En-Wind Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning/Water/Wind Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning/Water/Wind ability with Instant Ice/Lightning/Water/Wind 2 and Instant ATB 2 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning/Water/Wind, Higher Multiplier & Zero Hone Cost to Hero Ability; Harmonic Displacement+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

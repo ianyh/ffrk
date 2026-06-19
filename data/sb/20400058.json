@@ -1,0 +1,27 @@
+{
+  "id": "20400058",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400058/20400058_256.png",
+  "character": "Bartz",
+  "name": "Awoken Rousing Water (Dual Shift)",
+  "name_jp": "覚醒水のめざめ",
+  "tier": "DASB",
+  "sb_version": "DASB4",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Cast time x999999 for Spellblade abilities, grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II (Bartz - Water)], removes [Dual Awoken Spellblade Mode I (Bartz - Water)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Cast time x999999 for Spellblade abilities, grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II (Bartz - Water)], removes [Dual Awoken Spellblade Mode I (Bartz - Water)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Cast time x999999 for Spellblade abilities, grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II (Bartz - Water)], removes [Dual Awoken Spellblade Mode I (Bartz - Water)]"
+    }
+  ]
+}

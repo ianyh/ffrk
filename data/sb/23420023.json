@@ -1,0 +1,27 @@
+{
+  "id": "23420023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420023/23420023_256.png",
+  "character": "Cor",
+  "name": "War-Awoken Master and Apprentice (Weapon Skill)",
+  "name_jp": "戦醒師弟の絆",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22410024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410024/22410024_256.png",
+  "character": "Cid Raines",
+  "name": "Defying the Focus",
+  "name_jp": "使命への挑戦",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Buff Dark 20% (15s)] and [Buff Holy 20% (15s)] to allies, grants [Awoken Ambitious Commander Mode], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], and [Dualcast Dark/Holy 3] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Buff Dark 20% (15s)] and [Buff Holy 20% (15s)] to allies, grants [Awoken Ambitious Commander Mode], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], and [Dualcast Dark/Holy 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Buff Dark 20% (15s)] and [Buff Holy 20% (15s)] to allies, grants [Awoken Ambitious Commander Mode], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], and [Dualcast Dark/Holy 3] to the user"
+    }
+  ]
+}

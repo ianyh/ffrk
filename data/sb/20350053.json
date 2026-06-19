@@ -1,0 +1,30 @@
+{
+  "id": "20350053",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350053/20350053_256.png",
+  "character": "Squall",
+  "name": "Radiant Lion's Roar",
+  "name_jp": "耀光獅子奮迅",
+  "tier": "CASB",
+  "sb_version": "CASB2",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], [Crystal Force Mode: Squall (Fire)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], [Crystal Force Mode: Squall (Fire)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], [Crystal Force Mode: Squall (Fire)] to the user"
+    }
+  ]
+}

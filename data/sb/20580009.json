@@ -1,0 +1,30 @@
+{
+  "id": "20580009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580009/20580009_256.png",
+  "character": "Leon",
+  "name": "Knight in the Dark",
+  "name_jp": "ナイトインザダーク",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attack (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Knight in the Dark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Knight in the Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Knight in the Dark] to the user"
+    }
+  ]
+}

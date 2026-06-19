@@ -1,0 +1,30 @@
+{
+  "id": "22790015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790015/22790015_256.png",
+  "character": "Ace",
+  "name": "Apex Jackpot Shot",
+  "name_jp": "キャノンレーザー・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Jackpot Shot level 0/1/2, removes Arcane Dyad Empowered: Ace from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Jackpot Shot level 0/1/2, removes Arcane Dyad Empowered: Ace from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Jackpot Shot level 0/1/2, removes Arcane Dyad Empowered: Ace from the user"
+    }
+  ]
+}

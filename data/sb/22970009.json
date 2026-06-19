@@ -1,0 +1,30 @@
+{
+  "id": "22970009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970009/22970009_256.png",
+  "character": "Prompto",
+  "name": "Miracle Trigger",
+  "name_jp": "トリガーミラクル",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22510027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22510027/22510027_256.png",
+  "character": "Dorgann",
+  "name": "Continuous Flash: Dorgann (Earth) II",
+  "name_jp": "連閃・ドルガン地II",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Imperil Earth 20% (15s)], grants [200% ATB 1] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Earth 20% (15s)], grants [200% ATB 1] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Earth 20% (15s)], grants [200% ATB 1] and [Instant Cast 1] to the user"
+    }
+  ]
+}

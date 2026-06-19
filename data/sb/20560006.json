@@ -1,0 +1,30 @@
+{
+  "id": "20560006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560006/20560006_256.png",
+  "character": "Maria",
+  "name": "Magma XXXII",
+  "name_jp": "マグマ32",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Earth] and [Black Magic Double] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Earth] and [Black Magic Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Earth] and [Black Magic Double] to the user"
+    }
+  ]
+}

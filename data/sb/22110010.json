@@ -1,0 +1,30 @@
+{
+  "id": "22110010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110010/22110010_256.png",
+  "character": "Freya",
+  "name": "Dragon Cross",
+  "name_jp": "ドラゴンクロス",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Wind Radiant Shield: 75%] to all allies, [Attach Wind], [Awoken Leap] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Wind Radiant Shield: 75%] to all allies, [Attach Wind], [Awoken Leap] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Wind Radiant Shield: 75%] to all allies, [Attach Wind], [Awoken Leap] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

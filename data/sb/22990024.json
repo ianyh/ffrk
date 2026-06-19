@@ -1,0 +1,31 @@
+{
+  "id": "22990024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990024/22990024_256.png",
+  "character": "Kiros",
+  "name": "Zenith Thirst for Life",
+  "name_jp": "究極飽くなき人生",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, Lv.2 En-Dark Stack or Lv.2 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Ice Damage +20%, Physical Casting Speed x1.1 & chases Dark/Ice abilities with Quick Cast 1 to same-row members\nUltimate Dexterity Mode: Dualcast Dark/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Katar Dance+: 5/6/7 hits; Exsanguination+: 0CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, Lv.2 En-Dark Stack or Lv.2 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Ice Damage +20%, Physical Casting Speed x1.1 & chases Dark/Ice abilities with Quick Cast 1 to same-row members\nUltimate Dexterity Mode: Dualcast Dark/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Katar Dance+: 5/6/7 hits; Exsanguination+: 0CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Ice/NE physical attacks at Cap Break Level 1, Lv.2 En-Dark Stack or Lv.2 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Ice Damage +20%, Physical Casting Speed x1.1 & chases Dark/Ice abilities with Quick Cast 1 to same-row members\nUltimate Dexterity Mode: Dualcast Dark/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Katar Dance+: 5/6/7 hits; Exsanguination+: 0CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

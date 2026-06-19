@@ -1,0 +1,62 @@
+{
+  "id": "23270015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270015/23270015_256.png",
+  "character": "Sice",
+  "name": "Zenith Black Hole (Type-0)",
+  "name_jp": "究極Bホール【零式】",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Sice (Dark)] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Sice (Dark)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Zenith Mode: Sice (Dark)",
+      "text": "Increases [Dark Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Dark abilities trigger 1 additional time, casts Spirit Attack: Sice (Dark) after using two Dark abilities (max 1), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Dark Nebula+",
+      "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants the user [HP Stock (3000)]"
+    },
+    {
+      "name": "Spirit Attack: Sice (Dark)",
+      "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3] to the user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ Type-0 allies are alive"
+    },
+    {
+      "name": "Attach Dark 3 with Stacking",
+      "text": "Increase Attach Dark Level by 3 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Sice (Dark)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Dark Nebula+",
+      "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses, grants the user [HP Stock (3000)]"
+    },
+    {
+      "name": "Spirit Attack: Sice (Dark)",
+      "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3] to the user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ Type-0 allies are alive"
+    }
+  ]
+}

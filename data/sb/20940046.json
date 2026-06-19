@@ -1,0 +1,31 @@
+{
+  "id": "20940046",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940046/20940046_256.png",
+  "character": "Krile",
+  "name": "Roaring Blazing Magma",
+  "name_jp": "轟・ぐれんのまぐま",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth Ability High Boost & chases Fire/Earth abilities with 4 single-target Fire/Earth summon magic attacks, Fire/Earth Damage +10% for 5 seconds to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth Ability High Boost & chases Fire/Earth abilities with 4 single-target Fire/Earth summon magic attacks, Fire/Earth Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth Ability High Boost & chases Fire/Earth abilities with 4 single-target Fire/Earth summon magic attacks, Fire/Earth Damage +10% for 5 seconds to party"
+    }
+  ]
+}

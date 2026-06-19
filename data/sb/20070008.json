@@ -1,0 +1,30 @@
+{
+  "id": "20070008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070008/20070008_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Sacred Cross",
+  "name_jp": "セイクリッドクロス",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [HP Stock (6000)], [Attach Holy] and [Paladin EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [HP Stock (6000)], [Attach Holy] and [Paladin EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [HP Stock (6000)], [Attach Holy] and [Paladin EX Mode] to the user"
+    }
+  ]
+}

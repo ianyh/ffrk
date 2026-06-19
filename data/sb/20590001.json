@@ -1,0 +1,27 @@
+{
+  "id": "20590001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20590001/20590001_256.png",
+  "character": "Dragoon",
+  "name": "High Jump",
+  "name_jp": "ハイジャンプ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Core",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single ranged jump attack (2.10)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (2.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (2.10)"
+    }
+  ]
+}

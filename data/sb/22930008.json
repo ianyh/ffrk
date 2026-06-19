@@ -1,0 +1,27 @@
+{
+  "id": "22930008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930008/22930008_256.png",
+  "character": "Gogo (VI)",
+  "name": "Repeated Mimic",
+  "name_jp": "ものまねリピート",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [40% Damage Reduction Barrier 2] and [ATK, MAG and MND +30% (25s)], grants [Protean Mode (Fire, Ice, Earth, Wind)], [Awoken Mimicry Magic], [Damage Cap +10000] and [Mimicked Salvation Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [40% Damage Reduction Barrier 2] and [ATK, MAG and MND +30% (25s)], grants [Protean Mode (Fire, Ice, Earth, Wind)], [Awoken Mimicry Magic], [Damage Cap +10000] and [Mimicked Salvation Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [40% Damage Reduction Barrier 2] and [ATK, MAG and MND +30% (25s)], grants [Protean Mode (Fire, Ice, Earth, Wind)], [Awoken Mimicry Magic], [Damage Cap +10000] and [Mimicked Salvation Mode] to the user"
+    }
+  ]
+}

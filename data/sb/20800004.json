@@ -1,0 +1,30 @@
+{
+  "id": "20800004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800004/20800004_256.png",
+  "character": "Ingus",
+  "name": "Oathsworn Espada",
+  "name_jp": "忠誠のエスパーダ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "III",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (1.20 each), grants [Haste], [Oathsworn Espada], [Attach Earth] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.20 each), grants [Haste], [Oathsworn Espada], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.20 each), grants [Haste], [Oathsworn Espada], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ]
+}

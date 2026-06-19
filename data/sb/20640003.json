@@ -1,0 +1,27 @@
+{
+  "id": "20640003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640003/20640003_256.png",
+  "character": "Tellah",
+  "name": "Dire Meteor",
+  "name_jp": "決死のメテオ",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (3.30 each), damages the user for 50% max HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.30 each), damages the user for 50% max HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.30 each), damages the user for 50% max HP"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20660011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20660011/20660011_256.png",
+  "character": "Zack",
+  "name": "Lazy Mirage",
+  "name_jp": "レイジーミラージュ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Wind], [Lazy Mirage] and [Swirling Storm Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Wind], [Lazy Mirage] and [Swirling Storm Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Wind], [Lazy Mirage] and [Swirling Storm Follow-Up] to the user"
+    }
+  ]
+}

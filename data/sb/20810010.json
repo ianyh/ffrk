@@ -1,0 +1,30 @@
+{
+  "id": "20810010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810010/20810010_256.png",
+  "character": "Gilgamesh",
+  "name": "No Justice",
+  "name_jp": "奥義・仁義御免",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Fire] and [No Discussion EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Fire] and [No Discussion EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Fire] and [No Discussion EX Mode] to the user"
+    }
+  ]
+}

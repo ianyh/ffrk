@@ -1,0 +1,27 @@
+{
+  "id": "22250018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250018/22250018_256.png",
+  "character": "Cait Sith",
+  "name": "Starry Random Summon Dragonking",
+  "name_jp": "極星ランダム召喚・竜王",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Quick ATB 1 to Summoners, Instant Cast, Master Mode, Instant ATB 1 & Starry Random Summon Bahamut to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast\nStarry Random Summon Bahamut: [Summoning Ability Damage +25%] or [Damage +5% & 50 SB Points] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeShell for 5 seconds, Summoning Ability Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE summon magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Fate Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE summon magic attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Quick ATB 1 to Summoners, Instant Cast, Master Mode, Instant ATB 1 & Starry Random Summon Bahamut to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast\nStarry Random Summon Bahamut: [Summoning Ability Damage +25%] or [Damage +5% & 50 SB Points] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeShell for 5 seconds, Summoning Ability Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE summon magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Fate Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE summon magic attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Quick ATB 1 to Summoners, Instant Cast, Master Mode, Instant ATB 1 & Starry Random Summon Bahamut to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast\nStarry Random Summon Bahamut: [Summoning Ability Damage +25%] or [Damage +5% & 50 SB Points] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeShell for 5 seconds, Summoning Ability Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE summon magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Fate Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE summon magic attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20770009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770009/20770009_256.png",
+  "character": "Hope",
+  "name": "Celestial Prison",
+  "name_jp": "天獄",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "XIII",
+  "elements": [
+    "Holy"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (26.50 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ]
+}

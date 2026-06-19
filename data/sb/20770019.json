@@ -1,0 +1,30 @@
+{
+  "id": "20770019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770019/20770019_256.png",
+  "character": "Hope",
+  "name": "Apex Last Resort",
+  "name_jp": "ラストリゾート・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIII",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Last Resort level 0/1/2, removes Arcane Dyad Empowered: Hope from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Last Resort level 0/1/2, removes Arcane Dyad Empowered: Hope from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Last Resort level 0/1/2, removes Arcane Dyad Empowered: Hope from the user"
+    }
+  ]
+}

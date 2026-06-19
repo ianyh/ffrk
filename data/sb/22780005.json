@@ -1,0 +1,27 @@
+{
+  "id": "22780005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780005/22780005_256.png",
+  "character": "Cid (VII)",
+  "name": "Cid in Charge",
+  "name_jp": "代行リーダー・シド",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates VII Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates VII Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates VII Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
+    }
+  ]
+}

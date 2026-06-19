@@ -1,0 +1,27 @@
+{
+  "id": "20930002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930002/20930002_256.png",
+  "character": "Faris",
+  "name": "Kindred Spirit",
+  "name_jp": "相棒の魂",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "V",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group ranged attack (3.50), [DEF and RES -40%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.50), [DEF and RES -40%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.50), [DEF and RES -40%] for 25 seconds"
+    }
+  ]
+}

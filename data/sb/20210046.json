@@ -1,0 +1,27 @@
+{
+  "id": "20210046",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210046/20210046_256.png",
+  "character": "Celes",
+  "name": "Continuous Flash: Celes (Holy)",
+  "name_jp": "連閃・セリス聖",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Holy with Stacking], [Soul Break Gauge +250], and [200% ATB 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20820034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820034/20820034_256.png",
+  "character": "Seifer",
+  "name": "Roaring Egoistic Blade",
+  "name_jp": "轟・我執の剣",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Dark/Fire/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark/Fire Ability High Boost & chases Dark/Fire abilities with minor Imperil Dark/Fire for 5 seconds to all targets & grants Fire/Dark Damage +10% for 5 seconds to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Dark/Fire/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark/Fire Ability High Boost & chases Dark/Fire abilities with minor Imperil Dark/Fire for 5 seconds to all targets & grants Fire/Dark Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Dark/Fire/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark/Fire Ability High Boost & chases Dark/Fire abilities with minor Imperil Dark/Fire for 5 seconds to all targets & grants Fire/Dark Damage +10% for 5 seconds to party"
+    }
+  ]
+}

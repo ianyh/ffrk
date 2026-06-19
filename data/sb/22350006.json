@@ -1,0 +1,27 @@
+{
+  "id": "22350006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350006/22350006_256.png",
+  "character": "Edward",
+  "name": "Take Heart!",
+  "name_jp": "みんな！ゆうきを！",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[ATK, MAG and MND +30% (25s)], grants [Haste], [Quick Cast] and [200% ATB 1], grants [Awoken Bard] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and MND +30% (25s)], grants [Haste], [Quick Cast] and [200% ATB 1], grants [Awoken Bard] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and MND +30% (25s)], grants [Haste], [Quick Cast] and [200% ATB 1], grants [Awoken Bard] to the user"
+    }
+  ]
+}

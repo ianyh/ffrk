@@ -1,0 +1,30 @@
+{
+  "id": "22790034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790034/22790034_256.png",
+  "character": "Ace",
+  "name": "War-Awoken Mega Burst (Weapon Skill)",
+  "name_jp": "\n戦醒メガバースト",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Fire Damage Cap +20000 (Tactical)], [Fire Ability DEF and RES 30% Piercing (Tactical] to user, and Weapon Skill Blue/Gold if user has Attach Fire 0-1/2\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: Grants [Fire Ability +50% Boost (Tactical)], [Fire Quick Cast (Tactical)] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Fire Damage Cap +20000 (Tactical)], [Fire Ability DEF and RES 30% Piercing (Tactical] to user, and Weapon Skill Blue/Gold if user has Attach Fire 0-1/2\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: Grants [Fire Ability +50% Boost (Tactical)], [Fire Quick Cast (Tactical)] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Fire Damage Cap +20000 (Tactical)], [Fire Ability DEF and RES 30% Piercing (Tactical] to user, and Weapon Skill Blue/Gold if user has Attach Fire 0-1/2\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: Grants [Fire Ability +50% Boost (Tactical)], [Fire Quick Cast (Tactical)] to user"
+    }
+  ]
+}

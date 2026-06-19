@@ -1,0 +1,27 @@
+{
+  "id": "20360047",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360047/20360047_256.png",
+  "character": "Garnet",
+  "name": "Starry Thunderlord's Finale",
+  "name_jp": "極星雷帝の終刻",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If enemy gains DEF/RES/MND buff, chases with DEF/RES/MND -50% for 8 seconds to all targets (max 1 chase)\nInterval Chase: 10 single-target Lightning/NE summon magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE piercing summon magic attack at True Cap Break Level 1, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If enemy gains DEF/RES/MND buff, chases with DEF/RES/MND -50% for 8 seconds to all targets (max 1 chase)\nInterval Chase: 10 single-target Lightning/NE summon magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE piercing summon magic attack at True Cap Break Level 1, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If enemy gains DEF/RES/MND buff, chases with DEF/RES/MND -50% for 8 seconds to all targets (max 1 chase)\nInterval Chase: 10 single-target Lightning/NE summon magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE piercing summon magic attack at True Cap Break Level 1, removes Master Mode"
+    }
+  ]
+}

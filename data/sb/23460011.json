@@ -1,0 +1,31 @@
+{
+  "id": "23460011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460011/23460011_256.png",
+  "character": "Lunafreya",
+  "name": "Power of the Kaminagi",
+  "name_jp": "神凪の力",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XV",
+  "elements": [
+    "Water",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Regenga] to all allies, grants [Attach Water], [Awoken Kindred] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Regenga] to all allies, grants [Attach Water], [Awoken Kindred] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Regenga] to all allies, grants [Attach Water], [Awoken Kindred] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

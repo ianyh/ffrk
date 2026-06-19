@@ -1,0 +1,27 @@
+{
+  "id": "23270024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270024/23270024_256.png",
+  "character": "Sice",
+  "name": "Zenith Death Maelstrom",
+  "name_jp": "究極サイコボルテックス",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Lv.3 En-Dark Stack or Lv.3 En-Bio Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Bio +20%, Physical Casting Speed x1.1 & chases a Dark/Bio ability with Quick Dark/Bio 3 and Instant ATB 3 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Dark/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Toxic Mist+: Higher multiplier & Cap Break Level 1 after 3 uses; Dark Nebula+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Lv.3 En-Dark Stack or Lv.3 En-Bio Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Bio +20%, Physical Casting Speed x1.1 & chases a Dark/Bio ability with Quick Dark/Bio 3 and Instant ATB 3 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Dark/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Toxic Mist+: Higher multiplier & Cap Break Level 1 after 3 uses; Dark Nebula+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Lv.3 En-Dark Stack or Lv.3 En-Bio Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark/Bio +20%, Physical Casting Speed x1.1 & chases a Dark/Bio ability with Quick Dark/Bio 3 and Instant ATB 3 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Dark/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Toxic Mist+: Higher multiplier & Cap Break Level 1 after 3 uses; Dark Nebula+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22540011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540011/22540011_256.png",
+  "character": "Seymour",
+  "name": "Feel My Pain!",
+  "name_jp": "私の闇を知るがいい",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Dark 3] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Dark 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Dark 3] to the user"
+    }
+  ]
+}

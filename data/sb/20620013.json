@@ -1,0 +1,27 @@
+{
+  "id": "20620013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620013/20620013_256.png",
+  "character": "Eiko",
+  "name": "Eiko's Secret Weapon",
+  "name_jp": "エーコのひみつへーき",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Wind Stacking], [Attach Wind] and [Summoning High Quick Cast] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [Summoning High Quick Cast] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [Summoning High Quick Cast] to the user"
+    }
+  ]
+}

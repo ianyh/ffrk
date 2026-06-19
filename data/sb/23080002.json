@@ -1,0 +1,30 @@
+{
+  "id": "23080002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080002/23080002_256.png",
+  "character": "Rem",
+  "name": "Siphon Delta",
+  "name_jp": "アスピルフィールド",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Holy",
+    "Dark"
+  ],
+  "type": "WHT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Eight group attacks (1.68 each), smart ether 1 to the user, grants [Haste], [Attach Holy] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (1.68 each), smart ether 1 to the user, grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (1.68 each), smart ether 1 to the user, grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ]
+}

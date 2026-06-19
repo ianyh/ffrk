@@ -1,0 +1,31 @@
+{
+  "id": "22640014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640014/22640014_256.png",
+  "character": "Emperor",
+  "name": "Kaiser Wave",
+  "name_jp": "カイザーウェーブ",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "Earth",
+    "Wind"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.68 each), causes [Imperil Dark 20% (25s)], [Imperil Earth 20% (25s)] and [Imperil Wind 20% (25s)], grants [Instant Cast 1] to all allies, grants [Tri-Element Mode (Earth, Wind, Dark)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), causes [Imperil Dark 20% (25s)], [Imperil Earth 20% (25s)] and [Imperil Wind 20% (25s)], grants [Instant Cast 1] to all allies, grants [Tri-Element Mode (Earth, Wind, Dark)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), causes [Imperil Dark 20% (25s)], [Imperil Earth 20% (25s)] and [Imperil Wind 20% (25s)], grants [Instant Cast 1] to all allies, grants [Tri-Element Mode (Earth, Wind, Dark)] to the user"
+    }
+  ]
+}

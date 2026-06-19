@@ -1,0 +1,27 @@
+{
+  "id": "21000116",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000116/21000116_256.png",
+  "character": "-",
+  "name": "Blessing",
+  "name_jp": "祝福",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[ATK and MAG +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds"
+    }
+  ]
+}

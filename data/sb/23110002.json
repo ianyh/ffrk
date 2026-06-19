@@ -1,0 +1,30 @@
+{
+  "id": "23110002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23110002/23110002_256.png",
+  "character": "Haurchefant",
+  "name": "Time of Need",
+  "name_jp": "サークルオブドゥーム",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIV",
+  "elements": [
+    "Holy",
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (0.77 each), [ATK and MAG -50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.77 each), [ATK and MAG -50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.77 each), [ATK and MAG -50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

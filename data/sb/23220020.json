@@ -1,0 +1,30 @@
+{
+  "id": "23220020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220020/23220020_256.png",
+  "character": "Barbariccia",
+  "name": "Woven Bond: Barbariccia (Wind)",
+  "name_jp": "紡絆・バルバリシア風",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "IV",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (2.60 each) capped at 19999, activates Wind Chain (max 150, field +0%) or adds 25 to the current Wind Chain maximum limit, grants [Chain Force Mode: Barbariccia (Wind)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Wind Chain (max 150, field +0%) or adds 25 to the current Wind Chain maximum limit, grants [Chain Force Mode: Barbariccia (Wind)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Wind Chain (max 150, field +0%) or adds 25 to the current Wind Chain maximum limit, grants [Chain Force Mode: Barbariccia (Wind)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

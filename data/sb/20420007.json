@@ -1,0 +1,30 @@
+{
+  "id": "20420007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420007/20420007_256.png",
+  "character": "Arc",
+  "name": "Break of Valor",
+  "name_jp": "勇心の来光",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "III",
+  "elements": [
+    "Holy",
+    "Water"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.00 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.00 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.00 each), grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ]
+}

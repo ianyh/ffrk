@@ -1,0 +1,31 @@
+{
+  "id": "20620024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620024/20620024_256.png",
+  "character": "Eiko",
+  "name": "Blessed Winds",
+  "name_jp": "ブレスホーミング",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Emerald Gleam Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Emerald Gleam Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Emerald Gleam Follow-Up] to the user"
+    }
+  ]
+}

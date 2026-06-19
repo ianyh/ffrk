@@ -1,0 +1,30 @@
+{
+  "id": "22490001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490001/22490001_256.png",
+  "character": "Leo",
+  "name": "Shock",
+  "name_jp": "ショック",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.78~1.29 each scaling with targets), causes [Imperil Holy 20%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.78~1.29 each scaling with targets), causes [Imperil Holy 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.78~1.29 each scaling with targets), causes [Imperil Holy 20%] for 25 seconds"
+    }
+  ]
+}

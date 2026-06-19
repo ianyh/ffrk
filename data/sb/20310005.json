@@ -1,0 +1,29 @@
+{
+  "id": "20310005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310005/20310005_256.png",
+  "character": "Snow",
+  "name": "Challenge",
+  "name_jp": "挑戦状",
+  "tier": "SB",
+  "sb_version": "SB3",
+  "realm": "XIII",
+  "elements": [
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (1.68 each), grants [Sentinel] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.68 each), grants [Sentinel] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.68 each), grants [Sentinel] to the user for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20190030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190030/20190030_256.png",
+  "character": "Josef",
+  "name": "Fated Bond: Josef",
+  "name_jp": "絆・ヨーゼフ天命",
+  "tier": "CSB",
+  "sb_version": "CSB2",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Monk Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Monk Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Monk Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
+    }
+  ]
+}

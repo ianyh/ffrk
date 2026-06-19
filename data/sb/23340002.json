@@ -1,0 +1,30 @@
+{
+  "id": "23340002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23340002/23340002_256.png",
+  "character": "Jack",
+  "name": "Lightning Flash",
+  "name_jp": "電光石火",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

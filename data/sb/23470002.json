@@ -1,0 +1,30 @@
+{
+  "id": "23470002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23470002/23470002_256.png",
+  "character": "Genesis",
+  "name": "Genesis Rhapsody",
+  "name_jp": "ジェネシス・ラプソディ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Brave Mode] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Brave Mode] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Brave Mode] and [Instant Cast 1] to the user"
+    }
+  ]
+}

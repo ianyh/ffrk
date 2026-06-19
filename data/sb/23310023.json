@@ -1,0 +1,30 @@
+{
+  "id": "23310023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310023/23310023_256.png",
+  "character": "Biggs",
+  "name": "Roaring Spirited Strike",
+  "name_jp": "轟・気合の剣撃",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "Core",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Earth/NE physical attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases 1/2/3+ Earth abilities with single-target Earth/Holy/NE physical attack at Cap Break Level 4/6/8",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE physical attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases 1/2/3+ Earth abilities with single-target Earth/Holy/NE physical attack at Cap Break Level 4/6/8"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE physical attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases 1/2/3+ Earth abilities with single-target Earth/Holy/NE physical attack at Cap Break Level 4/6/8"
+    }
+  ]
+}

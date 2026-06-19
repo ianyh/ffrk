@@ -1,0 +1,30 @@
+{
+  "id": "22770006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770006/22770006_256.png",
+  "character": "Reks",
+  "name": "Dalmascan Spiral",
+  "name_jp": "ダルマスカスパイラル",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user, grants [Lightning Radiant Shield: 75%] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user, grants [Lightning Radiant Shield: 75%] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user, grants [Lightning Radiant Shield: 75%] to all allies"
+    }
+  ]
+}

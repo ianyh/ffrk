@@ -1,0 +1,29 @@
+{
+  "id": "23310019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310019/23310019_256.png",
+  "character": "Biggs",
+  "name": "Divine Might: Biggs",
+  "name_jp": "神威・ビッグス",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "Core",
+  "elements": [
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (2.60/2.80/2.90/3.00 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.00 each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Earth abilities equipped on allies/5+ Earth abilities equipped on allies and 2+ allies with Attach Earth",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (2.60/2.80/2.90/3.00 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.00 each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Earth abilities equipped on allies/5+ Earth abilities equipped on allies and 2+ allies with Attach Earth"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (2.60/2.80/2.90/3.00 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.00 each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Earth abilities equipped on allies/5+ Earth abilities equipped on allies and 2+ allies with Attach Earth"
+    }
+  ]
+}

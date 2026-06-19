@@ -1,0 +1,30 @@
+{
+  "id": "22310009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310009/22310009_256.png",
+  "character": "Garland",
+  "name": "Twin Swords",
+  "name_jp": "ダーククラスチェンジ",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "I",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ]
+}

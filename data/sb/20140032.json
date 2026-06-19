@@ -1,0 +1,27 @@
+{
+  "id": "20140032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140032/20140032_256.png",
+  "character": "Tyro",
+  "name": "Fantasy Grimoire Vol. III",
+  "name_jp": "幻想のグリモア 巻ノ参",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, DEF, MAG and RES +30% (25s)] and [High Quick Cast 1] to all allies, Grants [Buff Prismatic 30% (15s)] to all allies if there are 4+ allies with realm synergy, Grants [Awoken Scholar's Calling] to the user, Grants [Apprentice Historian Mode] to the user if there are 4+ allies with realm synergy",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (25s)] and [High Quick Cast 1] to all allies, Grants [Buff Prismatic 30% (15s)] to all allies if there are 4+ allies with realm synergy, Grants [Awoken Scholar's Calling] to the user, Grants [Apprentice Historian Mode] to the user if there are 4+ allies with realm synergy"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (25s)] and [High Quick Cast 1] to all allies, Grants [Buff Prismatic 30% (15s)] to all allies if there are 4+ allies with realm synergy, Grants [Awoken Scholar's Calling] to the user, Grants [Apprentice Historian Mode] to the user if there are 4+ allies with realm synergy"
+    }
+  ]
+}

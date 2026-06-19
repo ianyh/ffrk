@@ -1,0 +1,32 @@
+{
+  "id": "22590008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590008/22590008_256.png",
+  "character": "Matoya",
+  "name": "Matoya's Might",
+  "name_jp": "魔女マトーヤの力",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "I",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Matoya's Might level 0/1, removes Arcane Dyad Empowered: Matoya from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Matoya's Might level 0/1, removes Arcane Dyad Empowered: Matoya from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Matoya's Might level 0/1, removes Arcane Dyad Empowered: Matoya from the user"
+    }
+  ]
+}

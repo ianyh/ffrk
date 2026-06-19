@@ -1,0 +1,29 @@
+{
+  "id": "20130004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20130004/20130004_256.png",
+  "character": "Tidus",
+  "name": "Jecht Shot",
+  "name_jp": "ジェクトシュート",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "X",
+  "elements": [
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single ranged attacks (2.63 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (2.63 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (2.63 each)"
+    }
+  ]
+}

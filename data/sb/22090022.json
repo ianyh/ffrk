@@ -1,0 +1,27 @@
+{
+  "id": "22090022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090022/22090022_256.png",
+  "character": "Jecht",
+  "name": "Awoken Jecht Rush (Dual Shift)",
+  "name_jp": "覚醒ジェクトラッシュ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Legend Mode II (Jecht)], removes [Dual Awoken Legend Mode I (Jecht)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Legend Mode II (Jecht)], removes [Dual Awoken Legend Mode I (Jecht)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Legend Mode II (Jecht)], removes [Dual Awoken Legend Mode I (Jecht)]"
+    }
+  ]
+}

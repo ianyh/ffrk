@@ -1,0 +1,27 @@
+{
+  "id": "22240030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240030/22240030_256.png",
+  "character": "Kuja",
+  "name": "Starry Final Requiem",
+  "name_jp": "極星ラストレクイエム",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Master Mode], [Master Mode: Kuja], [Instant ATB 1], [Diffusion Barrier 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Kuja], [Instant ATB 1], [Diffusion Barrier 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Kuja], [Instant ATB 1], [Diffusion Barrier 1] to the user"
+    }
+  ]
+}

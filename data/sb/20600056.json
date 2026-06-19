@@ -1,0 +1,27 @@
+{
+  "id": "20600056",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600056/20600056_256.png",
+  "character": "Lightning",
+  "name": "Soul Drive: Lightning",
+  "name_jp": "SD・ライトニング",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode: Lightning] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Lightning] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Lightning] and [Instant ATB 1] to the user"
+    }
+  ]
+}

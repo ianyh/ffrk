@@ -1,0 +1,27 @@
+{
+  "id": "22310019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310019/22310019_256.png",
+  "character": "Garland",
+  "name": "Dark Raiment (Garland)",
+  "name_jp": "闇装【ガーランド】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Attach Dark]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22870012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870012/22870012_256.png",
+  "character": "Rubicante",
+  "name": "Flamespire Warrior",
+  "name_jp": "炎渦の武人",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Magical Blink 1] and [Fire Cloak Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Magical Blink 1] and [Fire Cloak Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Magical Blink 1] and [Fire Cloak Mode] to the user"
+    }
+  ]
+}

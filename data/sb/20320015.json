@@ -1,0 +1,27 @@
+{
+  "id": "20320015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320015/20320015_256.png",
+  "character": "Vanille",
+  "name": "Restitution",
+  "name_jp": "私の償い",
+  "tier": "USB",
+  "sb_version": "USB4",
+  "realm": "XIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (55), grants [Regenga] and [High Quick Cast 3]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga] and [High Quick Cast 3]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga] and [High Quick Cast 3]"
+    }
+  ]
+}

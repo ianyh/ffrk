@@ -1,0 +1,75 @@
+{
+  "id": "20320021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320021/20320021_256.png",
+  "character": "Vanille",
+  "name": "Zenith Oerba's Boon",
+  "name_jp": "究極ヲルバの祝福",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Last Stand], [High Quick Cast 2], and [Natural Cure: Vanille] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Vanille] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Last Stand], [High Quick Cast 2], and [Natural Cure: Vanille] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Vanille] to the user"
+    },
+    {
+      "name": "Zenith Mode: Vanille",
+      "text": "Cast speed x1.10 for White Magic or Support abilities, White Magic or Support abilities trigger 1 additional time, casts Spirit Attack: Vanille after using a White Magic or Support ability, maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Oerba's Boon+",
+      "text": "Restores HP (25)"
+    },
+    {
+      "name": "Spirit Attack: Vanille",
+      "text": "Grants [HP Stock (2000)] to all allies, and grants [Quick Cast 1] to all allies every other cast"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Natural Cure: Vanille",
+      "text": "Grants [HP Stock (6000)] when HP fall below 20%, removed after triggering"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Last Stand], [High Quick Cast 2], and [Natural Cure: Vanille] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Vanille] to the user"
+    },
+    {
+      "name": "Oerba's Boon+",
+      "text": "Restores HP (25)"
+    },
+    {
+      "name": "Spirit Attack: Vanille",
+      "text": "Grants [HP Stock (2000)] to all allies, and grants [Quick Cast 1] to all allies every other cast"
+    }
+  ]
+}

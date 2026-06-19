@@ -1,0 +1,30 @@
+{
+  "id": "23520012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23520012/23520012_256.png",
+  "character": "Ardyn",
+  "name": "Woven Bond: Ardyn",
+  "name_jp": "紡絆・アーデン",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "XV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Dark/NE to Fire/NE if the user has any Attach Fire, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Ardyn] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Dark/NE to Fire/NE if the user has any Attach Fire, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Ardyn] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Dark/NE to Fire/NE if the user has any Attach Fire, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Ardyn] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20190013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190013/20190013_256.png",
+  "character": "Josef",
+  "name": "Hero's Heart",
+  "name_jp": "漢の意気",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Dual Blink 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Blink 1]"
+    }
+  ]
+}

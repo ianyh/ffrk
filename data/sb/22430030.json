@@ -1,0 +1,27 @@
+{
+  "id": "22430030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430030/22430030_256.png",
+  "character": "Guy",
+  "name": "Super Flash (Guy)",
+  "name_jp": "超閃【ガイ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Super Flash: Guy Follow-Up], [Instant ATB 1], and [Limit Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Super Flash: Guy Follow-Up], [Instant ATB 1], and [Limit Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Super Flash: Guy Follow-Up], [Instant ATB 1], and [Limit Break Gauge +250] to the user"
+    }
+  ]
+}

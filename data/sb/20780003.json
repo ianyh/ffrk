@@ -1,0 +1,27 @@
+{
+  "id": "20780003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780003/20780003_256.png",
+  "character": "Setzer",
+  "name": "Prismatic Flash",
+  "name_jp": "セブンフラッシュ",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged attacks (1.40 each), [ATK and MAG -40%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.40 each), [ATK and MAG -40%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.40 each), [ATK and MAG -40%] for 25 seconds"
+    }
+  ]
+}

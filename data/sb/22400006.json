@@ -1,0 +1,30 @@
+{
+  "id": "22400006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400006/22400006_256.png",
+  "character": "Mustadio",
+  "name": "Enchanted Machinegun",
+  "name_jp": "発掘兵器・魔シンガン",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "FFT",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random ranged attacks (0.68 each), causes [Imperil Fire 20%] for 25 seconds, grants [Quick Cast 1] and [Machinist Quick Cycle: Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.68 each), causes [Imperil Fire 20%] for 25 seconds, grants [Quick Cast 1] and [Machinist Quick Cycle: Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.68 each), causes [Imperil Fire 20%] for 25 seconds, grants [Quick Cast 1] and [Machinist Quick Cycle: Fire] to the user"
+    }
+  ]
+}

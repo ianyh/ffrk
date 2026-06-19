@@ -1,0 +1,30 @@
+{
+  "id": "22160005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160005/22160005_256.png",
+  "character": "Relm",
+  "name": "Star Prism",
+  "name_jp": "スタープリズム",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group attacks (3.13 each), restores HP (55) to all allies, grants [Last Stand] to all allies, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (3.13 each), restores HP (55) to all allies, grants [Last Stand] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (3.13 each), restores HP (55) to all allies, grants [Last Stand] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

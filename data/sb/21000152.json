@@ -1,0 +1,29 @@
+{
+  "id": "21000152",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000152/21000152_256.png",
+  "character": "-",
+  "name": "Celestial Star",
+  "name_jp": "セレスティアルスター",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Six group attacks (2.46 each), removes positive effects",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.46 each), removes positive effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.46 each), removes positive effects"
+    }
+  ]
+}

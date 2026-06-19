@@ -1,0 +1,27 @@
+{
+  "id": "22450015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450015/22450015_256.png",
+  "character": "Noel",
+  "name": "Awoken Break Frost (Dual Shift)",
+  "name_jp": "覚醒ブレイクフロスト",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Final Farseer Mode II (Noel)], removes [Dual Awoken Final Farseer Mode I (Noel)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Final Farseer Mode II (Noel)], removes [Dual Awoken Final Farseer Mode I (Noel)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Final Farseer Mode II (Noel)], removes [Dual Awoken Final Farseer Mode I (Noel)]"
+    }
+  ]
+}

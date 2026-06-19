@@ -1,0 +1,27 @@
+{
+  "id": "20390006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390006/20390006_256.png",
+  "character": "Fran",
+  "name": "Gaze of the Void",
+  "name_jp": "不動無明鏡弦",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group ranged attacks (1.18 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.18 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.18 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

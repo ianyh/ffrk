@@ -1,0 +1,27 @@
+{
+  "id": "20030001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20030001/20030001_256.png",
+  "character": "White Mage",
+  "name": "Prayer",
+  "name_jp": "いのり",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Core",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (27)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (27)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (27)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20210039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210039/20210039_256.png",
+  "character": "Celes",
+  "name": "Awoken Unflinching Blade (Dual Shift)",
+  "name_jp": "覚醒清廉なる常勝の剣",
+  "tier": "DASB",
+  "sb_version": "DASB3",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Invincible General Mode II (Celes)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Invincible General Mode II (Celes)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Invincible General Mode II (Celes)]"
+    }
+  ]
+}

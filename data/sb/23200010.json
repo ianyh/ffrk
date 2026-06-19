@@ -1,0 +1,30 @@
+{
+  "id": "23200010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200010/23200010_256.png",
+  "character": "Ignis",
+  "name": "Overclock",
+  "name_jp": "オーバーブースト",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Overclock level 0/1, removes Arcane Dyad Empowered: Ignis from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Overclock level 0/1, removes Arcane Dyad Empowered: Ignis from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Overclock level 0/1, removes Arcane Dyad Empowered: Ignis from the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23020001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020001/23020001_256.png",
+  "character": "Elena",
+  "name": "Elite Operator",
+  "name_jp": "エリートの意地と心意気",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Eight group ranged attacks (0.65 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group ranged attacks (0.65 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group ranged attacks (0.65 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20940014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940014/20940014_256.png",
+  "character": "Krile",
+  "name": "Gift of Hope",
+  "name_jp": "託されし心「希望」",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Earth], [Quick Cast 1], [Earth Quick Cycle] and [Inherited Essence Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Earth], [Quick Cast 1], [Earth Quick Cycle] and [Inherited Essence Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Earth], [Quick Cast 1], [Earth Quick Cycle] and [Inherited Essence Follow-Up] to the user"
+    }
+  ]
+}

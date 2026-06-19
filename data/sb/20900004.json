@@ -1,0 +1,27 @@
+{
+  "id": "20900004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900004/20900004_256.png",
+  "character": "Mog",
+  "name": "Forest Nocturne",
+  "name_jp": "森のノクターン",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK, MAG and MND +30%] for 25 seconds, grants [Quick Cast 3]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Quick Cast 3]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Quick Cast 3]"
+    }
+  ]
+}

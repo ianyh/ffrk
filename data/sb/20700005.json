@@ -1,0 +1,27 @@
+{
+  "id": "20700005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700005/20700005_256.png",
+  "character": "Vaan",
+  "name": "Ark Blast",
+  "name_jp": "アークブラスト",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single ranged attacks (1.52 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.52 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.52 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

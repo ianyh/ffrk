@@ -1,0 +1,31 @@
+{
+  "id": "23120018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120018/23120018_256.png",
+  "character": "Estinien",
+  "name": "Roaring High Jump (XIV)",
+  "name_jp": "轟・ハイジャンプ【XIV】",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single jump attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Dark Ability High Boost & chases 1/2/3+ Wind/Dark abilities with Wind/Dark Ability Damage +10/20/30% to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single jump attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Dark Ability High Boost & chases 1/2/3+ Wind/Dark abilities with Wind/Dark Ability Damage +10/20/30% to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single jump attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Dark Ability High Boost & chases 1/2/3+ Wind/Dark abilities with Wind/Dark Ability Damage +10/20/30% to user"
+    }
+  ]
+}

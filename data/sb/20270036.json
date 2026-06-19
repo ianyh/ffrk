@@ -1,0 +1,29 @@
+{
+  "id": "20270036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270036/20270036_256.png",
+  "character": "Firion",
+  "name": "Divine Might: Firion (Ice)",
+  "name_jp": "神威・フリオニール氷",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "II",
+  "elements": [
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice abilities on allies/5+ Ice abilities on allies and 2+ allies with Attach Ice",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice abilities on allies/5+ Ice abilities on allies and 2+ allies with Attach Ice"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice abilities on allies/5+ Ice abilities on allies and 2+ allies with Attach Ice"
+    }
+  ]
+}

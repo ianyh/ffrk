@@ -1,0 +1,27 @@
+{
+  "id": "20270048",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270048/20270048_256.png",
+  "character": "Firion",
+  "name": "Soul Drive: Firion",
+  "name_jp": "SD・フリオニール",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode: Firion] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Firion] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Firion] and [Instant ATB 1] to the user"
+    }
+  ]
+}

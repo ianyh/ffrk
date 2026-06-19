@@ -1,0 +1,30 @@
+{
+  "id": "22940004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940004/22940004_256.png",
+  "character": "Umaro",
+  "name": "Snowball Throwdown",
+  "name_jp": "ゆきがっせんおおあばれ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random ranged attacks (0.68 each), [ATK and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Snowball Toss Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.68 each), [ATK and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Snowball Toss Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.68 each), [ATK and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Snowball Toss Follow-Up] to the user"
+    }
+  ]
+}

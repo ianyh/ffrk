@@ -1,0 +1,30 @@
+{
+  "id": "22240007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240007/22240007_256.png",
+  "character": "Kuja",
+  "name": "Soulsplitter",
+  "name_jp": "ソウルディバイダー",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IX",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Dark] and [Angel of Death EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Dark] and [Angel of Death EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Dark] and [Angel of Death EX Mode] to the user"
+    }
+  ]
+}

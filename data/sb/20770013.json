@@ -1,0 +1,30 @@
+{
+  "id": "20770013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770013/20770013_256.png",
+  "character": "Hope",
+  "name": "Heavenly Judgment",
+  "name_jp": "天涯の審判",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIII",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [Overflow Holy Radiant Shield: 75%], [Judgment Mode] and [Unwavering Justice Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [Overflow Holy Radiant Shield: 75%], [Judgment Mode] and [Unwavering Justice Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [Overflow Holy Radiant Shield: 75%], [Judgment Mode] and [Unwavering Justice Follow-Up] to the user"
+    }
+  ]
+}

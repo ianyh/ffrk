@@ -1,0 +1,29 @@
+{
+  "id": "20580003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580003/20580003_256.png",
+  "character": "Leon",
+  "name": "Darkborn Blade",
+  "name_jp": "闇を背負う剣",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "II",
+  "elements": [
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged attacks (2.00 each), grants [Sentinel] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.00 each), grants [Sentinel] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.00 each), grants [Sentinel] to the user for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22520010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520010/22520010_256.png",
+  "character": "Minfilia",
+  "name": "Familial Pledge",
+  "name_jp": "貰いし名の誓い",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Regenga]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga]"
+    }
+  ]
+}

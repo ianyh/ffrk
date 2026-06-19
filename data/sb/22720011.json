@@ -1,0 +1,29 @@
+{
+  "id": "22720011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720011/22720011_256.png",
+  "character": "Ceodore",
+  "name": "Vibra Plus",
+  "name_jp": "バイブレイ・セカンド",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "IV",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [High Quick Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [High Quick Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [High Quick Cast 2] to the user"
+    }
+  ]
+}

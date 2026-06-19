@@ -1,0 +1,32 @@
+{
+  "id": "23000017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000017/23000017_256.png",
+  "character": "Ward",
+  "name": "Woven Bond: Ward",
+  "name_jp": "紡絆・ウォード",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks  (0.80 each) capped at 19999, activates VIII Chain (max 150, field +0%) or adds 25 to the current VIII Chain maximum limit, grants [Chain Force Mode: Ward] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks  (0.80 each) capped at 19999, activates VIII Chain (max 150, field +0%) or adds 25 to the current VIII Chain maximum limit, grants [Chain Force Mode: Ward] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks  (0.80 each) capped at 19999, activates VIII Chain (max 150, field +0%) or adds 25 to the current VIII Chain maximum limit, grants [Chain Force Mode: Ward] and [Instant ATB 1] to the user"
+    }
+  ]
+}

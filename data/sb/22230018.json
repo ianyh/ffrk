@@ -1,0 +1,27 @@
+{
+  "id": "22230018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230018/22230018_256.png",
+  "character": "Desch",
+  "name": "Growling Thunder",
+  "name_jp": "咆雷",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Causes [Imperil Lightning 20% (15s)], grants [Buff Lightning 20% (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Lightning 20% (15s)], grants [Buff Lightning 20% (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Lightning 20% (15s)], grants [Buff Lightning 20% (15s)] to the user"
+    }
+  ]
+}

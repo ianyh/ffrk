@@ -1,0 +1,27 @@
+{
+  "id": "20250004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250004/20250004_256.png",
+  "character": "Sephiroth",
+  "name": "Black Materia",
+  "name_jp": "ブラックマテリア",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single ranged attacks (1.95 each), causes [Sap] (10%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single ranged attacks (1.95 each), causes [Sap] (10%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single ranged attacks (1.95 each), causes [Sap] (10%)"
+    }
+  ]
+}

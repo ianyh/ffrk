@@ -1,0 +1,27 @@
+{
+  "id": "20520040",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520040/20520040_256.png",
+  "character": "Yuna",
+  "name": "Continuous Flash: Yuna",
+  "name_jp": "連閃・ユウナ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "X",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55) to all allies, grants [Flash Attack: Yuna Follow-Up], Summoning Smart Ether 2 and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55) to all allies, grants [Flash Attack: Yuna Follow-Up], Summoning Smart Ether 2 and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55) to all allies, grants [Flash Attack: Yuna Follow-Up], Summoning Smart Ether 2 and [200% ATB 1] to the user"
+    }
+  ]
+}

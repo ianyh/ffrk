@@ -1,0 +1,27 @@
+{
+  "id": "22350017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350017/22350017_256.png",
+  "character": "Edward",
+  "name": "Radiant Soulsong",
+  "name_jp": "耀光魂の調べ",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "ATK -15% and DEF & RES -70% to all targets, ATK/MAG/MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Bard & Zero Hone Cost to Bard Abilities\nCrystal Force I/II: [Cap Break Level 1 & 50% DEF/RES Pierce] for 1 turn to party, Instant Cast, Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK -15% and DEF & RES -70% to all targets, ATK/MAG/MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Bard & Zero Hone Cost to Bard Abilities\nCrystal Force I/II: [Cap Break Level 1 & 50% DEF/RES Pierce] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK -15% and DEF & RES -70% to all targets, ATK/MAG/MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Bard & Zero Hone Cost to Bard Abilities\nCrystal Force I/II: [Cap Break Level 1 & 50% DEF/RES Pierce] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ]
+}

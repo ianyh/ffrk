@@ -1,0 +1,30 @@
+{
+  "id": "23190001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190001/23190001_256.png",
+  "character": "Cinque",
+  "name": "Whirling Mace",
+  "name_jp": "メイスハリケーン",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Earth], [Heavy Rank Boost] and [Heavy Charge Booster] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Earth], [Heavy Rank Boost] and [Heavy Charge Booster] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Earth], [Heavy Rank Boost] and [Heavy Charge Booster] to the user"
+    }
+  ]
+}

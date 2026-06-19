@@ -1,0 +1,29 @@
+{
+  "id": "20720008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720008/20720008_256.png",
+  "character": "Strago",
+  "name": "El Niño Breath",
+  "name_jp": "エルニーニョブレス",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VI",
+  "elements": [
+    "Water"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.73 each), grants [Water Radiant Shield: 75%] and [Instant Cast 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Water Radiant Shield: 75%] and [Instant Cast 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Water Radiant Shield: 75%] and [Instant Cast 1] to all allies"
+    }
+  ]
+}

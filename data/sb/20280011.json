@@ -1,0 +1,27 @@
+{
+  "id": "20280011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280011/20280011_256.png",
+  "character": "Gordon",
+  "name": "Honored Memory",
+  "name_jp": "想いの継承",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22200036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200036/22200036_256.png",
+  "character": "Edea",
+  "name": "War-Awoken Glacial Frost (Weapon Skill)",
+  "name_jp": "戦醒フロス・グラキエス",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Ice/Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Ice/Dark members\nWS Blue: Dualcast Ice/Dark, Instant Ice/Dark & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Ice/Dark, Instant Ice/Dark & Weakness Damage +30% for 2 turns to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Ice/Dark members\nWS Blue: Dualcast Ice/Dark, Instant Ice/Dark & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Ice/Dark, Instant Ice/Dark & Weakness Damage +30% for 2 turns to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Ice/Dark members\nWS Blue: Dualcast Ice/Dark, Instant Ice/Dark & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Ice/Dark, Instant Ice/Dark & Weakness Damage +30% for 2 turns to party"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20130028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20130028/20130028_256.png",
+  "character": "Tidus",
+  "name": "Splash Buster",
+  "name_jp": "スプラッシュバスター",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Sharpshooter], [Damage Cap +10000], [Quick Cast] and [Neophyte Warrior Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Sharpshooter], [Damage Cap +10000], [Quick Cast] and [Neophyte Warrior Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Sharpshooter], [Damage Cap +10000], [Quick Cast] and [Neophyte Warrior Mode] to the user"
+    }
+  ]
+}

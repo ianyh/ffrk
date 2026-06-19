@@ -1,0 +1,27 @@
+{
+  "id": "22080011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080011/22080011_256.png",
+  "character": "Exdeath",
+  "name": "Orbital Power",
+  "name_jp": "オービットパワー",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark Stacking], [Attach Dark], [Last Stand] and [Magical Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark Stacking], [Attach Dark], [Last Stand] and [Magical Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark Stacking], [Attach Dark], [Last Stand] and [Magical Quick Cast 1]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23260009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260009/23260009_256.png",
+  "character": "Seven",
+  "name": "Ice Energy Whip",
+  "name_jp": "アイスエナジーウィップ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.50 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Ice] to the user, grants [Instant Cast 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.50 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Ice] to the user, grants [Instant Cast 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.50 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Ice] to the user, grants [Instant Cast 1] to all allies"
+    }
+  ]
+}

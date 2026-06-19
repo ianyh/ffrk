@@ -1,0 +1,30 @@
+{
+  "id": "23120002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120002/23120002_256.png",
+  "character": "Estinien",
+  "name": "The Azure Dragoon",
+  "name_jp": "蒼の竜騎士",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ]
+}

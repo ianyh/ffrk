@@ -1,0 +1,30 @@
+{
+  "id": "22170013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170013/22170013_256.png",
+  "character": "Vincent",
+  "name": "Marksman's Spite",
+  "name_jp": "魔弾の射手",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid ranged attacks (0.45 or 1.05 each), grants [Fire Radiant Shield: 75%] to all allies, grants [Attach Fire] and [Magic Sniper Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.45 or 1.05 each), grants [Fire Radiant Shield: 75%] to all allies, grants [Attach Fire] and [Magic Sniper Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.45 or 1.05 each), grants [Fire Radiant Shield: 75%] to all allies, grants [Attach Fire] and [Magic Sniper Mode] to the user"
+    }
+  ]
+}

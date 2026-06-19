@@ -1,0 +1,30 @@
+{
+  "id": "22230034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230034/22230034_256.png",
+  "character": "Desch",
+  "name": "Burst Break: Desch (Break Arte)",
+  "name_jp": "烈破・デッシュ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "III",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single Overflow attack, grants [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants [Instant ATB 1] to user"
+    }
+  ]
+}

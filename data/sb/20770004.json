@@ -1,0 +1,29 @@
+{
+  "id": "20770004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770004/20770004_256.png",
+  "character": "Hope",
+  "name": "Last Resort",
+  "name_jp": "ラストリゾート",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XIII",
+  "elements": [
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.24 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.24 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.24 each)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "24490018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490018/24490018_256.png",
+  "character": "Kimahri",
+  "name": "Ronso Spirit",
+  "name_jp": "ロンゾの心意気",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Damage Cap +10000] and [Weakness +30% Boost 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Damage Cap +10000] and [Weakness +30% Boost 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Damage Cap +10000] and [Weakness +30% Boost 2]"
+    }
+  ]
+}

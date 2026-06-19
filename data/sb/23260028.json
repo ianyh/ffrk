@@ -1,0 +1,30 @@
+{
+  "id": "23260028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260028/23260028_256.png",
+  "character": "Seven",
+  "name": "War-Awoken Deadly Whip (Weapon Skill)",
+  "name_jp": "戦醒ペリッシュウィップ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Ice/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Ice members\nWS Blue: Dualcast Ice 3, Instant Ice 3 & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Ice 2, Instant Ice 2 & Weakness Damage +30% for 2 turns to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Ice members\nWS Blue: Dualcast Ice 3, Instant Ice 3 & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Ice 2, Instant Ice 2 & Weakness Damage +30% for 2 turns to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold with at least 0/2 En-Ice members\nWS Blue: Dualcast Ice 3, Instant Ice 3 & Weakness Damage +30% for 3 turns to user\nWS Gold: Dualcast Ice 2, Instant Ice 2 & Weakness Damage +30% for 2 turns to all allies"
+    }
+  ]
+}

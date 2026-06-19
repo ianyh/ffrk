@@ -1,0 +1,29 @@
+{
+  "id": "22890006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890006/22890006_256.png",
+  "character": "Zeid",
+  "name": "Shockwave (XI)",
+  "name_jp": "ショックウェーブ【XI】",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "XI",
+  "elements": [
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attack (8.00 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attack (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attack (8.00 each) capped at 99999"
+    }
+  ]
+}

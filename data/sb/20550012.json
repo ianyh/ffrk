@@ -1,0 +1,30 @@
+{
+  "id": "20550012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550012/20550012_256.png",
+  "character": "Sabin",
+  "name": "Firewyrm Barrage",
+  "name_jp": "猛火竜吼撃",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Physical Blink 3] and [Footwork Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Physical Blink 3] and [Footwork Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Physical Blink 3] and [Footwork Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20140045",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140045/20140045_256.png",
+  "character": "Tyro",
+  "name": "Final Vote",
+  "name_jp": "秘録「決戦投票」",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user"
+    }
+  ]
+}

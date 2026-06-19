@@ -1,0 +1,32 @@
+{
+  "id": "23320004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320004/23320004_256.png",
+  "character": "Wedge",
+  "name": "Great Chain-Cast",
+  "name_jp": "大連続じゅもん",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Wind",
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (1.65 each), grants [Black Magic +50% Boost 2], [Magical Instant Cast 2] and [Magic Purge Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.65 each), grants [Black Magic +50% Boost 2], [Magical Instant Cast 2] and [Magic Purge Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.65 each), grants [Black Magic +50% Boost 2], [Magical Instant Cast 2] and [Magic Purge Follow-Up] to the user"
+    }
+  ]
+}

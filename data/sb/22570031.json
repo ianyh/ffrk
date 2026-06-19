@@ -1,0 +1,30 @@
+{
+  "id": "22570031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570031/22570031_256.png",
+  "character": "Cid (IV)",
+  "name": "War-Awoken Electrified Spanner (Weapon Skill)",
+  "name_jp": "戦醒帯電雷鳴スパナ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Surging Power +30% 6] to all allies/[Machinist +30% Boost (15s)] to all allies if there are 0-3/4+ Machinist allies in the party.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Surging Power +30% 6] to all allies/[Machinist +30% Boost (15s)] to all allies if there are 0-3/4+ Machinist allies in the party."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Surging Power +30% 6] to all allies/[Machinist +30% Boost (15s)] to all allies if there are 0-3/4+ Machinist allies in the party."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20230025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230025/20230025_256.png",
+  "character": "Tifa",
+  "name": "Awoken Meteor Arts (Dual Shift)",
+  "name_jp": "覚醒メテオアーツ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Tifa)], removes [Dual Awoken Monk Mode I (Tifa)] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Tifa)], removes [Dual Awoken Monk Mode I (Tifa)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Tifa)], removes [Dual Awoken Monk Mode I (Tifa)] from the user"
+    }
+  ]
+}

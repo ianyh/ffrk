@@ -1,0 +1,27 @@
+{
+  "id": "22110012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110012/22110012_256.png",
+  "character": "Freya",
+  "name": "Eternal Harvest",
+  "name_jp": "エターナルハーベスト",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Wind Stacking], [Attach Wind] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [High Quick Cast 2]"
+    }
+  ]
+}

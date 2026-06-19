@@ -1,0 +1,31 @@
+{
+  "id": "20420013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420013/20420013_256.png",
+  "character": "Arc",
+  "name": "Awaken Leviath",
+  "name_jp": "覚醒召喚・リバイア",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "III",
+  "elements": [
+    "Holy",
+    "Water",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 or 1.60 each), causes [Imperil Holy 20%] and [Imperil Water 20%], grants [Awoken Altruist], [Damage Cap +10000], [Twin Element Mode (Water, Holy)] and [Sacred Breath Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), causes [Imperil Holy 20%] and [Imperil Water 20%], grants [Awoken Altruist], [Damage Cap +10000], [Twin Element Mode (Water, Holy)] and [Sacred Breath Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), causes [Imperil Holy 20%] and [Imperil Water 20%], grants [Awoken Altruist], [Damage Cap +10000], [Twin Element Mode (Water, Holy)] and [Sacred Breath Follow-Up] to the user"
+    }
+  ]
+}

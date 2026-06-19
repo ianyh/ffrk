@@ -1,0 +1,27 @@
+{
+  "id": "22290008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290008/22290008_256.png",
+  "character": "Echo",
+  "name": "Voice of Light",
+  "name_jp": "光の声",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), grants [Last Stand] and [Haste], grants [Awoken Fickle Faerie] and [Fickle Aid Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [Haste], grants [Awoken Fickle Faerie] and [Fickle Aid Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [Haste], grants [Awoken Fickle Faerie] and [Fickle Aid Follow-Up] to the user"
+    }
+  ]
+}

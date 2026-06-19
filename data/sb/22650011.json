@@ -1,0 +1,30 @@
+{
+  "id": "22650011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650011/22650011_256.png",
+  "character": "Lann",
+  "name": "Omega God",
+  "name_jp": "ゴッドオメガ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Omega God: 10 single-target Fire/NE ranged hybrid attacks & single-target Fire/NE Overflow ranged hybrid attack, Instant Cast 1 to party, removes True Arcane Augment Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Omega God: 10 single-target Fire/NE ranged hybrid attacks & single-target Fire/NE Overflow ranged hybrid attack, Instant Cast 1 to party, removes True Arcane Augment Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Omega God: 10 single-target Fire/NE ranged hybrid attacks & single-target Fire/NE Overflow ranged hybrid attack, Instant Cast 1 to party, removes True Arcane Augment Mode"
+    }
+  ]
+}

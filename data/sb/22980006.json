@@ -1,0 +1,31 @@
+{
+  "id": "22980006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980006/22980006_256.png",
+  "character": "Aranea",
+  "name": "True Highwind",
+  "name_jp": "真エア・スペリオリティ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lance Mastery Mode] and [Lance Mastery 0] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lance Mastery Mode] and [Lance Mastery 0] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lance Mastery Mode] and [Lance Mastery 0] to the user"
+    }
+  ]
+}

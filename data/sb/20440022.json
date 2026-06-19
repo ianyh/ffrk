@@ -1,0 +1,30 @@
+{
+  "id": "20440022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440022/20440022_256.png",
+  "character": "Balthier",
+  "name": "Catastrophic Grand Cross",
+  "name_jp": "破局のグランドクロス",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Fire] and [Damage Cap +10000] to the user, grants [Dualcast Fire 1], [Fire +30% Boost 1] and [Quick Cast 1]/[Dualcast Fire 2], [Fire +30% Boost 2] and [Quick Cast 2]/[Dualcast Fire 3], [Fire +50% Boost 3] and [Quick Cast 3] to the user if 0-1/2-3/4+ FF12 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Fire] and [Damage Cap +10000] to the user, grants [Dualcast Fire 1], [Fire +30% Boost 1] and [Quick Cast 1]/[Dualcast Fire 2], [Fire +30% Boost 2] and [Quick Cast 2]/[Dualcast Fire 3], [Fire +50% Boost 3] and [Quick Cast 3] to the user if 0-1/2-3/4+ FF12 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Fire] and [Damage Cap +10000] to the user, grants [Dualcast Fire 1], [Fire +30% Boost 1] and [Quick Cast 1]/[Dualcast Fire 2], [Fire +30% Boost 2] and [Quick Cast 2]/[Dualcast Fire 3], [Fire +50% Boost 3] and [Quick Cast 3] to the user if 0-1/2-3/4+ FF12 allies are alive"
+    }
+  ]
+}

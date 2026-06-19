@@ -1,0 +1,27 @@
+{
+  "id": "22390014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390014/22390014_256.png",
+  "character": "Ovelia",
+  "name": "Awoken Fleeting Thoughts (Dual Shift)",
+  "name_jp": "覚醒儚き想い",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Love Mode II to user\nDual Awoken Love Mode II: Instant Cast & chases a White Magic ability with h60 heal to party and Damage +50% for 1 turn to T members",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Love Mode II to user\nDual Awoken Love Mode II: Instant Cast & chases a White Magic ability with h60 heal to party and Damage +50% for 1 turn to T members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Love Mode II to user\nDual Awoken Love Mode II: Instant Cast & chases a White Magic ability with h60 heal to party and Damage +50% for 1 turn to T members"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "23060110",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060110/23060110_256.png",
+  "character": "Dr. Mog",
+  "name": "Soaring Fireworks",
+  "name_jp": " 打ち上げ花火",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ]
+}

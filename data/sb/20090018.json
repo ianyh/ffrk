@@ -1,0 +1,30 @@
+{
+  "id": "20090018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090018/20090018_256.png",
+  "character": "Rydia",
+  "name": "Broken Heart",
+  "name_jp": "ブロークンハート",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [HP Stock (10000)] and Feymarch Form +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [HP Stock (10000)] and Feymarch Form +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [HP Stock (10000)] and Feymarch Form +1 to the user"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "22620008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620008/22620008_256.png",
+  "character": "Vayne",
+  "name": "Soaring Spirits",
+  "name_jp": "不壊衝天",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "XII",
+  "elements": [
+    "Dark"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single hybrid attacks (0.55 or 1.82 each), followed by one single hybrid attack (8.00 or 26.50) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid attacks (0.55 or 1.82 each), followed by one single hybrid attack (8.00 or 26.50) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid attacks (0.55 or 1.82 each), followed by one single hybrid attack (8.00 or 26.50) capped at 99999"
+    }
+  ]
+}

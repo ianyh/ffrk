@@ -1,0 +1,27 @@
+{
+  "id": "23550009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550009/23550009_256.png",
+  "character": "Kurasame",
+  "name": "Reaper Within",
+  "name_jp": "氷魔解放",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode II (Ice, Dark)] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Ice, Dark)] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Ice, Dark)] and [Soul Break Gauge +250]"
+    }
+  ]
+}

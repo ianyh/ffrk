@@ -1,0 +1,27 @@
+{
+  "id": "22290016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290016/22290016_256.png",
+  "character": "Echo",
+  "name": "Continuous Flash: Echo",
+  "name_jp": "連閃・エコー",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to the target, Grants [Quick Cast 3] to all allies, Grants [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to the target, Grants [Quick Cast 3] to all allies, Grants [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to the target, Grants [Quick Cast 3] to all allies, Grants [200% ATB 1] to the user"
+    }
+  ]
+}

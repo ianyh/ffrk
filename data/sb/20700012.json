@@ -1,0 +1,30 @@
+{
+  "id": "20700012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700012/20700012_256.png",
+  "character": "Vaan",
+  "name": "License Acquired",
+  "name_jp": "ライセンスコンプリート",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.63 each), grants [50% Critical] and [Wings of Freedom EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [50% Critical] and [Wings of Freedom EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [50% Critical] and [Wings of Freedom EX Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23010009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010009/23010009_256.png",
+  "character": "Rude",
+  "name": "Spare Sunglasses",
+  "name_jp": "予備のサングラス",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Linked Materia Mode II (Lightning, Earth)] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Linked Materia Mode II (Lightning, Earth)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Linked Materia Mode II (Lightning, Earth)] and [High Quick Cast 1]"
+    }
+  ]
+}

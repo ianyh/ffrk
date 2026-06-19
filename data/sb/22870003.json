@@ -1,0 +1,27 @@
+{
+  "id": "22870003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870003/22870003_256.png",
+  "character": "Rubicante",
+  "name": "Gift of Healing",
+  "name_jp": "回復してやろう",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "Single ally",
+  "lensable": false,
+  "effects": "Removes KO [Raise: 40%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes KO [Raise: 40%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes KO [Raise: 40%]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20870005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870005/20870005_256.png",
+  "character": "Amarant",
+  "name": "Fists of Flame",
+  "name_jp": "焔色の秘拳",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

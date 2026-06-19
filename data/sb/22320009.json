@@ -1,0 +1,27 @@
+{
+  "id": "22320009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22320009/22320009_256.png",
+  "character": "Yda",
+  "name": "Fists of Fire",
+  "name_jp": "紅蓮の構え",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]"
+    }
+  ]
+}

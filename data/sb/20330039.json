@@ -1,0 +1,30 @@
+{
+  "id": "20330039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330039/20330039_256.png",
+  "character": "Warrior of Light",
+  "name": "War-Awoken Brave Wave (Weapon Skill)",
+  "name_jp": "戦醒ブレイブウェーブ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "I",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Holy Boost +0/40%\nWS Blue: Grant [Buff Holy 30% (15s)] to all allies\nWS Gold: Grant [PHY +30% Boost (15s)] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Holy Boost +0/40%\nWS Blue: Grant [Buff Holy 30% (15s)] to all allies\nWS Gold: Grant [PHY +30% Boost (15s)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Holy Boost +0/40%\nWS Blue: Grant [Buff Holy 30% (15s)] to all allies\nWS Gold: Grant [PHY +30% Boost (15s)] to all allies"
+    }
+  ]
+}

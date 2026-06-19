@@ -1,0 +1,30 @@
+{
+  "id": "22900002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900002/22900002_256.png",
+  "character": "Gladiolus",
+  "name": "Tempest",
+  "name_jp": "テンペスト",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ]
+}

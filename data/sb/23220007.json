@@ -1,0 +1,30 @@
+{
+  "id": "23220007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220007/23220007_256.png",
+  "character": "Barbariccia",
+  "name": "Raging Wind",
+  "name_jp": "レイジングウィンド",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [40% Damage Reduction Barrier 3] to all allies, grants [Attach Wind 3 with Stacking], [Damage Cap +10000] and [Raging Wind Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [40% Damage Reduction Barrier 3] to all allies, grants [Attach Wind 3 with Stacking], [Damage Cap +10000] and [Raging Wind Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [40% Damage Reduction Barrier 3] to all allies, grants [Attach Wind 3 with Stacking], [Damage Cap +10000] and [Raging Wind Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23050004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23050004/23050004_256.png",
+  "character": "Montblanc",
+  "name": "Trinity Combo",
+  "name_jp": "トリニティコンボ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "FFT",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.68 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Protect] and [Shell] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Protect] and [Shell] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Protect] and [Shell] to all allies"
+    }
+  ]
+}

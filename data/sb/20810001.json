@@ -1,0 +1,27 @@
+{
+  "id": "20810001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810001/20810001_256.png",
+  "character": "Gilgamesh",
+  "name": "Morphing Time!",
+  "name_jp": "ギルガメッシュチェンジ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "[ATK +35%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +35%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +35%] for 25 seconds"
+    }
+  ]
+}

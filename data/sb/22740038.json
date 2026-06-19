@@ -1,0 +1,32 @@
+{
+  "id": "22740038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740038/22740038_256.png",
+  "character": "Noctis",
+  "name": "Continuous Flash: Noctis",
+  "name_jp": "連閃・ノクティス",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "Earth",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Six single attacks (0.80 each), Grants [Instant Cast 1] to all allies, Grants [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.80 each), Grants [Instant Cast 1] to all allies, Grants [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.80 each), Grants [Instant Cast 1] to all allies, Grants [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23280020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280020/23280020_256.png",
+  "character": "Enna Kros",
+  "name": "Earth Bond (Enna Kros)",
+  "name_jp": "地絆【エナ・クロ】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Activates Earth Limit Chain (150) & 50% Earth Field, AOE Imperil Earth 10/20/30% for 5 seconds with 0/2/4 En-Earth members, MAG +50% to party, Instant Cast 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Limit Chain (150) & 50% Earth Field, AOE Imperil Earth 10/20/30% for 5 seconds with 0/2/4 En-Earth members, MAG +50% to party, Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Limit Chain (150) & 50% Earth Field, AOE Imperil Earth 10/20/30% for 5 seconds with 0/2/4 En-Earth members, MAG +50% to party, Instant Cast 1 to user"
+    }
+  ]
+}

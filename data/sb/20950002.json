@@ -1,0 +1,29 @@
+{
+  "id": "20950002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950002/20950002_256.png",
+  "character": "Thancred",
+  "name": "Dancing Edge",
+  "name_jp": "舞踏刃",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "XIV",
+  "elements": [
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.23 each), [DEF -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.23 each), [DEF -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.23 each), [DEF -50%] for 25 seconds"
+    }
+  ]
+}

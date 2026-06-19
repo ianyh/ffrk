@@ -1,0 +1,29 @@
+{
+  "id": "20250007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250007/20250007_256.png",
+  "character": "Sephiroth",
+  "name": "Transience",
+  "name_jp": "刹那",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VII",
+  "elements": [
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.77 each), grants [Attach Dark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.77 each), grants [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.77 each), grants [Attach Dark] to the user"
+    }
+  ]
+}

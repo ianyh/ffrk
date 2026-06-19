@@ -1,0 +1,27 @@
+{
+  "id": "23450014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450014/23450014_256.png",
+  "character": "Serafie",
+  "name": "Spiraling Flash (Serafie)",
+  "name_jp": "降閃【セラフィ】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Imperil Wind 40% (5s)], grants [Quick Cast 2] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Wind 40% (5s)], grants [Quick Cast 2] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Wind 40% (5s)], grants [Quick Cast 2] to all allies"
+    }
+  ]
+}

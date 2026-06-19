@@ -1,0 +1,30 @@
+{
+  "id": "20600019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600019/20600019_256.png",
+  "character": "Lightning",
+  "name": "Dangerous Beauty",
+  "name_jp": "麗しき軍神",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "XIII",
+  "elements": [
+    "Holy",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Holy] and [Knight of Etro EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Holy] and [Knight of Etro EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Holy] and [Knight of Etro EX Mode] to the user"
+    }
+  ]
+}

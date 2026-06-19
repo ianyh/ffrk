@@ -1,0 +1,27 @@
+{
+  "id": "20810005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810005/20810005_256.png",
+  "character": "Gilgamesh",
+  "name": "Repentance",
+  "name_jp": "反省",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "V",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single ranged jump attacks (1.71 each), grants [Protect], [Shell] and [Haste] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged jump attacks (1.71 each), grants [Protect], [Shell] and [Haste] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged jump attacks (1.71 each), grants [Protect], [Shell] and [Haste] to the user"
+    }
+  ]
+}

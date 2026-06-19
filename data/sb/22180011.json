@@ -1,0 +1,31 @@
+{
+  "id": "22180011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180011/22180011_256.png",
+  "character": "Basch",
+  "name": "Starfire Purge",
+  "name_jp": "百鬼・剣星の降伏",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Dark"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (8.00 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ]
+}

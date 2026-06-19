@@ -1,0 +1,30 @@
+{
+  "id": "22750004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22750004/22750004_256.png",
+  "character": "Meia",
+  "name": "Pallida Mors",
+  "name_jp": "パッリダ・モルス",
+  "tier": "OSB",
+  "sb_version": "OSB1",
+  "realm": "I",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness"
+    }
+  ]
+}

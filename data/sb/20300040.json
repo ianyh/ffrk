@@ -1,0 +1,27 @@
+{
+  "id": "20300040",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300040/20300040_256.png",
+  "character": "Rinoa",
+  "name": "Awoken Star of Hope (Dual Shift)",
+  "name_jp": "覚醒希望の星",
+  "tier": "DASB",
+  "sb_version": "DASB3",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Comet Mode II (Rinoa)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Comet Mode II (Rinoa)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Comet Mode II (Rinoa)]"
+    }
+  ]
+}

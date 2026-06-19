@@ -1,0 +1,30 @@
+{
+  "id": "20550020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550020/20550020_256.png",
+  "character": "Sabin",
+  "name": "Ironfire Dance",
+  "name_jp": "剛炎竜舞",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Blazing Monk] and [Damage Cap +10000] to the user, grants [Ascetic Monk Mode]/[Act As One Mode] if Edgar isn't/is alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Blazing Monk] and [Damage Cap +10000] to the user, grants [Ascetic Monk Mode]/[Act As One Mode] if Edgar isn't/is alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Blazing Monk] and [Damage Cap +10000] to the user, grants [Ascetic Monk Mode]/[Act As One Mode] if Edgar isn't/is alive"
+    }
+  ]
+}

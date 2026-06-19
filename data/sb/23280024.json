@@ -1,0 +1,27 @@
+{
+  "id": "23280024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280024/23280024_256.png",
+  "character": "Enna Kros",
+  "name": "Awoken The Planet's Rules (Dual Shift)",
+  "name_jp": "覚醒世界のルール・星砕",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with single-target DEF/RES/MND -50% and grants Earth Ability Damage +30% for 2 turns to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with single-target DEF/RES/MND -50% and grants Earth Ability Damage +30% for 2 turns to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with single-target DEF/RES/MND -50% and grants Earth Ability Damage +30% for 2 turns to party"
+    }
+  ]
+}

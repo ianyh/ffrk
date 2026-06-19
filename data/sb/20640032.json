@@ -1,0 +1,30 @@
+{
+  "id": "20640032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640032/20640032_256.png",
+  "character": "Tellah",
+  "name": "War-Awoken Cliff Prison (Weapon Skill)",
+  "name_jp": "戦醒クリフジェイル",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Earth Damage;\nWS Blue: Grants [Dualcast Earth 3, Instant Earth 3 & Weakness Damage +30% 3] to user\nWS Gold: Grants [Earth Damage +50%] to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Earth Damage;\nWS Blue: Grants [Dualcast Earth 3, Instant Earth 3 & Weakness Damage +30% 3] to user\nWS Gold: Grants [Earth Damage +50%] to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Earth Damage;\nWS Blue: Grants [Dualcast Earth 3, Instant Earth 3 & Weakness Damage +30% 3] to user\nWS Gold: Grants [Earth Damage +50%] to party"
+    }
+  ]
+}

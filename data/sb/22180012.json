@@ -1,0 +1,32 @@
+{
+  "id": "22180012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180012/22180012_256.png",
+  "character": "Basch",
+  "name": "Blazing Duality",
+  "name_jp": "炎と陰陽の衝撃",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.69 each), causes [ATK, DEF, MAG, RES and MND -50% (8s)], grants [Twin Element Mode (Fire, Holy)] and [Quick Cast] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), causes [ATK, DEF, MAG, RES and MND -50% (8s)], grants [Twin Element Mode (Fire, Holy)] and [Quick Cast] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), causes [ATK, DEF, MAG, RES and MND -50% (8s)], grants [Twin Element Mode (Fire, Holy)] and [Quick Cast] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22770007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770007/22770007_256.png",
+  "character": "Reks",
+  "name": "Thunderblade Rush",
+  "name_jp": "サンダーソードラッシュ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Lightning] and [Thunderblade Rush] to the user, grants [Last Stand] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Lightning] and [Thunderblade Rush] to the user, grants [Last Stand] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Lightning] and [Thunderblade Rush] to the user, grants [Last Stand] to all allies"
+    }
+  ]
+}

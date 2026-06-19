@@ -1,0 +1,27 @@
+{
+  "id": "20810014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810014/20810014_256.png",
+  "character": "Gilgamesh",
+  "name": "Safe Bastion",
+  "name_jp": "じょうとうだぜ！",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Stoneskin: 30%], [RES +100%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 30%], [RES +100%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 30%], [RES +100%] for 25 seconds"
+    }
+  ]
+}

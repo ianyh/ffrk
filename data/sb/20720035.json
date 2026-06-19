@@ -1,0 +1,27 @@
+{
+  "id": "20720035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720035/20720035_256.png",
+  "character": "Strago",
+  "name": "Roaring 1000 Needles",
+  "name_jp": "轟・はりせんぼん",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Wind/NE magic attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind Ability High Boost & chases 1/2/3+ Wind abilities with Wind Ability Damage +10/20/30% to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Wind/NE magic attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind Ability High Boost & chases 1/2/3+ Wind abilities with Wind Ability Damage +10/20/30% to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Wind/NE magic attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind Ability High Boost & chases 1/2/3+ Wind abilities with Wind Ability Damage +10/20/30% to user"
+    }
+  ]
+}

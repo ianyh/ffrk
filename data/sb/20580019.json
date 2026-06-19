@@ -1,0 +1,30 @@
+{
+  "id": "20580019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580019/20580019_256.png",
+  "character": "Leon",
+  "name": "Annihilator Slash",
+  "name_jp": "ジェノサイドスラッシュ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attack (0.60 each), grants [Physical Quick Cast] and [50% Damage Reduction Barrier 1] to all allies, grants [Oathsworn Espada], [Attach Dark], [Awoken Darkness] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (0.60 each), grants [Physical Quick Cast] and [50% Damage Reduction Barrier 1] to all allies, grants [Oathsworn Espada], [Attach Dark], [Awoken Darkness] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (0.60 each), grants [Physical Quick Cast] and [50% Damage Reduction Barrier 1] to all allies, grants [Oathsworn Espada], [Attach Dark], [Awoken Darkness] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

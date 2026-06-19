@@ -1,0 +1,30 @@
+{
+  "id": "22240036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240036/22240036_256.png",
+  "character": "Kuja",
+  "name": "War-Awoken Ruinous Siege (Weapon Skill)",
+  "name_jp": "戦醒破滅への包囲網",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IX",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (31.00 each) capped at 199,999. Grants [Dark Damage Cap +20000 (Tactical)], [Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Dark Damage Cap +30000 (Tactical)], [Dark Ability +50% Boost (Tactical)], [Dark 142% ATB Quick Cycle (Tactical)] or [Dark Ability +50% Boost (Tactical)], [Dark Ability Quick Cast (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Dark Damage Cap +20000 (Tactical)], [Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Dark Damage Cap +30000 (Tactical)], [Dark Ability +50% Boost (Tactical)], [Dark 142% ATB Quick Cycle (Tactical)] or [Dark Ability +50% Boost (Tactical)], [Dark Ability Quick Cast (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Dark Damage Cap +20000 (Tactical)], [Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Dark Damage Cap +30000 (Tactical)], [Dark Ability +50% Boost (Tactical)], [Dark 142% ATB Quick Cycle (Tactical)] or [Dark Ability +50% Boost (Tactical)], [Dark Ability Quick Cast (Tactical)] to user."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20610012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610012/20610012_256.png",
+  "character": "Sazh",
+  "name": "Apex Cold Blood",
+  "name_jp": "デスペラード・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIII",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Cold Blood level 0/1, removes Arcane Dyad Empowered: Sazh from the user, grants [Instant Cast 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Cold Blood level 0/1, removes Arcane Dyad Empowered: Sazh from the user, grants [Instant Cast 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Cold Blood level 0/1, removes Arcane Dyad Empowered: Sazh from the user, grants [Instant Cast 1] to all allies"
+    }
+  ]
+}

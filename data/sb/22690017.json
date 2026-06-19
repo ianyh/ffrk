@@ -1,0 +1,27 @@
+{
+  "id": "22690017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690017/22690017_256.png",
+  "character": "Lion",
+  "name": "Intel",
+  "name_jp": "諜報活動",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user"
+    }
+  ]
+}

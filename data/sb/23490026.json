@@ -1,0 +1,31 @@
+{
+  "id": "23490026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490026/23490026_256.png",
+  "character": "Rain",
+  "name": "War-Awoken Blazing Nova (Weapon Skill)",
+  "name_jp": "戦醒ブレイジングノヴァ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Fire/Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Fire/Earth\nWS Blue: Lv.3 En-Fire/Earth Stack to user\nWS Gold: Instant Physical to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Fire/Earth\nWS Blue: Lv.3 En-Fire/Earth Stack to user\nWS Gold: Instant Physical to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Fire/Earth\nWS Blue: Lv.3 En-Fire/Earth Stack to user\nWS Gold: Instant Physical to all allies"
+    }
+  ]
+}

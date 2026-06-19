@@ -1,0 +1,31 @@
+{
+  "id": "20370042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370042/20370042_256.png",
+  "character": "Vivi",
+  "name": "Radiant Tipping Point",
+  "name_jp": "耀光未来への転機",
+  "tier": "CASB",
+  "sb_version": "CASB2",
+  "realm": "IX",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice/Lightning Ability Boost, Dualcast Ice/Lightning, Zero Hone Cost to Ice/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, Magic Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice/Lightning Ability Boost, Dualcast Ice/Lightning, Zero Hone Cost to Ice/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, Magic Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice/Lightning Ability Boost, Dualcast Ice/Lightning, Zero Hone Cost to Ice/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, Magic Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

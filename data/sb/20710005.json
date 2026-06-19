@@ -1,0 +1,30 @@
+{
+  "id": "20710005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710005/20710005_256.png",
+  "character": "Ashe",
+  "name": "Dusk's Decree",
+  "name_jp": "黄昏の裁き",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.20 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.20 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.20 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ]
+}

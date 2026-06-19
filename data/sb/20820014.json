@@ -1,0 +1,31 @@
+{
+  "id": "20820014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820014/20820014_256.png",
+  "character": "Seifer",
+  "name": "Absolutely No Mercy",
+  "name_jp": "禁忌・雑魚散らし",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Switch Draw Mode III (Fire, Dark)], [Synchro Mode], [Damage Cap +10000] and [Shadowflame Reversal Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Switch Draw Mode III (Fire, Dark)], [Synchro Mode], [Damage Cap +10000] and [Shadowflame Reversal Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Switch Draw Mode III (Fire, Dark)], [Synchro Mode], [Damage Cap +10000] and [Shadowflame Reversal Mode] to the user"
+    }
+  ]
+}

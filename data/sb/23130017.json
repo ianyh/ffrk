@@ -1,0 +1,30 @@
+{
+  "id": "23130017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130017/23130017_256.png",
+  "character": "Ysayle",
+  "name": "Woven Bond: Ysayle (Ice)",
+  "name_jp": "紡絆・イゼル氷",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "XIV",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single summon attacks (0.80 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode (Ysayle - Ice)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single summon attacks (0.80 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode (Ysayle - Ice)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single summon attacks (0.80 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode (Ysayle - Ice)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

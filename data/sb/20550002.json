@@ -1,0 +1,29 @@
+{
+  "id": "20550002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550002/20550002_256.png",
+  "character": "Sabin",
+  "name": "Rising Phoenix",
+  "name_jp": "鳳凰の舞",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VI",
+  "elements": [
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group ranged attack (3.10)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.10)"
+    }
+  ]
+}

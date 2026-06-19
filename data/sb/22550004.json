@@ -1,0 +1,30 @@
+{
+  "id": "22550004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550004/22550004_256.png",
+  "character": "Orlandeau",
+  "name": "Sword of Saints",
+  "name_jp": "畏国最強の剣",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (0.84 each), grants [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.84 each), grants [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.84 each), grants [Instant Cast 2] to the user"
+    }
+  ]
+}

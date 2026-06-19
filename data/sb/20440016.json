@@ -1,0 +1,30 @@
+{
+  "id": "20440016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440016/20440016_256.png",
+  "character": "Balthier",
+  "name": "Snatch Heart",
+  "name_jp": "ハートを頂く",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single ranged attacks (0.52 each), grants [Attach Fire Stacking] and [Attach Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20970036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970036/20970036_256.png",
+  "character": "Rikku",
+  "name": "Continuous Flash: Rikku",
+  "name_jp": "連閃・リュック",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Astra] and [Instant Cast 1], grants [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra] and [Instant Cast 1], grants [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra] and [Instant Cast 1], grants [Instant ATB 1] to the user"
+    }
+  ]
+}

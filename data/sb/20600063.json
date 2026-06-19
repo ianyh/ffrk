@@ -1,0 +1,30 @@
+{
+  "id": "20600063",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600063/20600063_256.png",
+  "character": "Lightning",
+  "name": "War-Awoken Sacred Release (Weapon Skill)",
+  "name_jp": "戦醒聖刻の解放",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "XIII",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, chases a Holy ability with Quick ATB 3 (max 1 chase) to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, chases a Holy ability with Quick ATB 3 (max 1 chase) to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, chases a Holy ability with Quick ATB 3 (max 1 chase) to user"
+    }
+  ]
+}

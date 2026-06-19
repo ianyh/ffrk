@@ -1,0 +1,30 @@
+{
+  "id": "20630021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630021/20630021_256.png",
+  "character": "Golbez",
+  "name": "Dark Glow",
+  "name_jp": "ダークグロウ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Shadow Summon Mode] and [Shadow Summon Finisher] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Shadow Summon Mode] and [Shadow Summon Finisher] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Shadow Summon Mode] and [Shadow Summon Finisher] to the user"
+    }
+  ]
+}

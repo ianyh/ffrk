@@ -1,0 +1,30 @@
+{
+  "id": "20690012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690012/20690012_256.png",
+  "character": "Auron",
+  "name": "Fiery Heart",
+  "name_jp": "焔心",
+  "tier": "BSB",
+  "sb_version": "BSB3",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (0.79 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.79 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.79 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

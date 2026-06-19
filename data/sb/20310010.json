@@ -1,0 +1,29 @@
+{
+  "id": "20310010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310010/20310010_256.png",
+  "character": "Snow",
+  "name": "Dogged Hero",
+  "name_jp": "不屈のヒーロー",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.72 each), grants [Ice Radiant Shield: 75%] to all allies, grants [Revenge Counter] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Ice Radiant Shield: 75%] to all allies, grants [Revenge Counter] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Ice Radiant Shield: 75%] to all allies, grants [Revenge Counter] to the user"
+    }
+  ]
+}

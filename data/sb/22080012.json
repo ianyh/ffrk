@@ -1,0 +1,31 @@
+{
+  "id": "22080012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080012/22080012_256.png",
+  "character": "Exdeath",
+  "name": "Space Disorder",
+  "name_jp": "スペースディスオーダー",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user"
+    }
+  ]
+}

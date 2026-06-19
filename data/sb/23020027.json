@@ -1,0 +1,27 @@
+{
+  "id": "23020027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020027/23020027_256.png",
+  "character": "Elena",
+  "name": "Fated Bond: Elena",
+  "name_jp": "絆・イリーナ天命",
+  "tier": "CSB",
+  "sb_version": "CSB2",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Sharpshooter Limit Chain (150) & 50% Sharpshooter Field, ATK +50% & Haste to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Sharpshooter Limit Chain (150) & 50% Sharpshooter Field, ATK +50% & Haste to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Sharpshooter Limit Chain (150) & 50% Sharpshooter Field, ATK +50% & Haste to party"
+    }
+  ]
+}

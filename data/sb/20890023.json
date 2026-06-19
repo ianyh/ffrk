@@ -1,0 +1,27 @@
+{
+  "id": "20890023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890023/20890023_256.png",
+  "character": "Shadow",
+  "name": "Continuous Flash: Shadow (Dark)",
+  "name_jp": "連閃・シャドウ闇",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Dark with Stacking], [Instant Cast 1], and [Instant ATB 1] to the user ",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking], [Instant Cast 1], and [Instant ATB 1] to the user "
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking], [Instant Cast 1], and [Instant ATB 1] to the user "
+    }
+  ]
+}

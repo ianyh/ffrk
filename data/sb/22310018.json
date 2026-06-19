@@ -1,0 +1,27 @@
+{
+  "id": "22310018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310018/22310018_256.png",
+  "character": "Garland",
+  "name": "Chain of Chaos",
+  "name_jp": "チェインオブカオス",
+  "tier": "CSB",
+  "sb_version": "CSB2",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates I Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates I Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates I Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ]
+}

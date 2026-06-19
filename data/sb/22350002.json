@@ -1,0 +1,27 @@
+{
+  "id": "22350002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350002/22350002_256.png",
+  "character": "Edward",
+  "name": "Soulsong",
+  "name_jp": "魂の調べ",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[MAG and MND +30%] for 25 seconds, grants [Magical Quick Cast 3]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG and MND +30%] for 25 seconds, grants [Magical Quick Cast 3]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG and MND +30%] for 25 seconds, grants [Magical Quick Cast 3]"
+    }
+  ]
+}

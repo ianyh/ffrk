@@ -1,0 +1,30 @@
+{
+  "id": "22790001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790001/22790001_256.png",
+  "character": "Ace",
+  "name": "Jackpot Triad",
+  "name_jp": "トライレーザー",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Fire] to the user, grants [Ace Follow-Up] and [Attack Hand EX Mode] to the user for 15 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Fire] to the user, grants [Ace Follow-Up] and [Attack Hand EX Mode] to the user for 15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Fire] to the user, grants [Ace Follow-Up] and [Attack Hand EX Mode] to the user for 15 seconds"
+    }
+  ]
+}

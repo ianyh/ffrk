@@ -1,0 +1,27 @@
+{
+  "id": "23290010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290010/23290010_256.png",
+  "character": "Tama",
+  "name": "Woven Time",
+  "name_jp": "新たな時紡ぎ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), grants [Last Stand], [Haste], [ATK and MAG +30%, DEF and RES +25% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand], [Haste], [ATK and MAG +30%, DEF and RES +25% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand], [Haste], [ATK and MAG +30%, DEF and RES +25% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

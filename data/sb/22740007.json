@@ -1,0 +1,27 @@
+{
+  "id": "22740007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740007/22740007_256.png",
+  "character": "Noctis",
+  "name": "Royal Guardian",
+  "name_jp": "歴代王の守護",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Stoneskin: 100%] and [Combat Rank Boost]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 100%] and [Combat Rank Boost]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 100%] and [Combat Rank Boost]"
+    }
+  ]
+}

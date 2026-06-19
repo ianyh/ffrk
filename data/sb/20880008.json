@@ -1,0 +1,30 @@
+{
+  "id": "20880008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880008/20880008_256.png",
+  "character": "Lulu",
+  "name": "Twin Temptations",
+  "name_jp": "テンプテーションコラボ",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Water"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (26.50 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22280023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280023/22280023_256.png",
+  "character": "Wol",
+  "name": "Woven Bond: Wol (Holy)",
+  "name_jp": "紡絆・ウォル聖",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "I",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit, grants [Chain Force Mode: Wol (Holy)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit, grants [Chain Force Mode: Wol (Holy)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Holy Chain (max 150, field +0%) or adds 25 to the current Holy Chain maximum limit, grants [Chain Force Mode: Wol (Holy)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20520047",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520047/20520047_256.png",
+  "character": "Yuna",
+  "name": "War-Awoken Eternal Shot (Weapon Skill)",
+  "name_jp": "戦醒久遠の弾丸",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "X",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Holy/NE piercing white magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities;\n[Dualcast Holy 3, Instant Holy 3 & Weakness Damage +30% for 3 turns to user] or [50% Stoneskin, Dualcast Holy 3 & Instant Holy 3 to party] if user has at less than 100/50% HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing white magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities;\n[Dualcast Holy 3, Instant Holy 3 & Weakness Damage +30% for 3 turns to user] or [50% Stoneskin, Dualcast Holy 3 & Instant Holy 3 to party] if user has at less than 100/50% HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing white magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities;\n[Dualcast Holy 3, Instant Holy 3 & Weakness Damage +30% for 3 turns to user] or [50% Stoneskin, Dualcast Holy 3 & Instant Holy 3 to party] if user has at less than 100/50% HP"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20310016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310016/20310016_256.png",
+  "character": "Snow",
+  "name": "Indomitable Love",
+  "name_jp": "不屈のフィアンセ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [HP Stock (2000)]/[HP Stock (3000)] and [Weakness +15% Boost (15s)]/[HP Stock (6000)] and [Weakness +30% Boost (15s)] to all allies if 1/2-3/4+ FF13 allies are alive, grants [Awoken Ice], [Damage Cap +10000] and [Eternal Vow Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [HP Stock (2000)]/[HP Stock (3000)] and [Weakness +15% Boost (15s)]/[HP Stock (6000)] and [Weakness +30% Boost (15s)] to all allies if 1/2-3/4+ FF13 allies are alive, grants [Awoken Ice], [Damage Cap +10000] and [Eternal Vow Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [HP Stock (2000)]/[HP Stock (3000)] and [Weakness +15% Boost (15s)]/[HP Stock (6000)] and [Weakness +30% Boost (15s)] to all allies if 1/2-3/4+ FF13 allies are alive, grants [Awoken Ice], [Damage Cap +10000] and [Eternal Vow Mode] to the user"
+    }
+  ]
+}

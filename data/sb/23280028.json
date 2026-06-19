@@ -1,0 +1,30 @@
+{
+  "id": "23280028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280028/23280028_256.png",
+  "character": "Enna Kros",
+  "name": "Burst Break: Enna Kros (Break Arte)",
+  "name_jp": "烈破・エナ・クロ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "Beyond",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "MAG",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group Overflow attack, grants Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group Overflow attack, grants Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group Overflow attack, grants Instant ATB 1 to user"
+    }
+  ]
+}

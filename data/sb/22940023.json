@@ -1,0 +1,30 @@
+{
+  "id": "22940023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940023/22940023_256.png",
+  "character": "Scott",
+  "name": "Radiant Resolute Flames",
+  "name_jp": "耀光気高き火焔",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "II",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Resolute Flames & Crystal Mode to user\nCrystal Mode: Spellblade Ability Boost, Dualcast Spellblade, Zero Hone Cost to Spellblade Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Spellblade Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Resolute Flames: Deadly Strikes +20% for 3 turns/15 seconds to user/party with at least 0/4 Spellblade/II members",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Resolute Flames & Crystal Mode to user\nCrystal Mode: Spellblade Ability Boost, Dualcast Spellblade, Zero Hone Cost to Spellblade Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Spellblade Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Resolute Flames: Deadly Strikes +20% for 3 turns/15 seconds to user/party with at least 0/4 Spellblade/II members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Resolute Flames & Crystal Mode to user\nCrystal Mode: Spellblade Ability Boost, Dualcast Spellblade, Zero Hone Cost to Spellblade Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Spellblade Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Resolute Flames: Deadly Strikes +20% for 3 turns/15 seconds to user/party with at least 0/4 Spellblade/II members"
+    }
+  ]
+}

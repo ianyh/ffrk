@@ -1,0 +1,30 @@
+{
+  "id": "20410006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410006/20410006_256.png",
+  "character": "Irvine",
+  "name": "Flame Shot",
+  "name_jp": "フレイムショット",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group ranged attacks (1.20 each), [ATK and DEF -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.20 each), [ATK and DEF -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.20 each), [ATK and DEF -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

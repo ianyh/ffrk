@@ -1,0 +1,30 @@
+{
+  "id": "22700008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22700008/22700008_256.png",
+  "character": "Rapha",
+  "name": "Radiant Concordant Mantra",
+  "name_jp": "耀光表裏一体",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "FFT",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Lightning/NE magic attacks at Cap Break Level 1, Instant Cast, [Lightning Ability Damage +50%, Dualcast Lightning, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Lightning/NE magic attacks at Cap Break Level 1, Instant Cast, [Lightning Ability Damage +50%, Dualcast Lightning, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Lightning/NE magic attacks at Cap Break Level 1, Instant Cast, [Lightning Ability Damage +50%, Dualcast Lightning, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

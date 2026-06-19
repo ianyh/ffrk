@@ -1,0 +1,30 @@
+{
+  "id": "22850004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22850004/22850004_256.png",
+  "character": "Wrieg",
+  "name": "War-Awoken Space-Time Soaring (Weapon Skill)",
+  "name_jp": "戦醒時空翔",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single-target Earth/NE piercing jump attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user. \n[Earth Damage Cap +20000 (Tactical)] & [Earth 125% ATB Quick Cycle (Tactical)] to user, and Weapon Skill Blue/Gold if user has 0-749/750+ SB points\nWS Blue: Grant [No Soul Break Cost (Tactical, max 1)] to user\nWS Gold: Grant [Earth Ability +50% Boost (Tactical)] & [Quadracast Earth 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single-target Earth/NE piercing jump attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user. \n[Earth Damage Cap +20000 (Tactical)] & [Earth 125% ATB Quick Cycle (Tactical)] to user, and Weapon Skill Blue/Gold if user has 0-749/750+ SB points\nWS Blue: Grant [No Soul Break Cost (Tactical, max 1)] to user\nWS Gold: Grant [Earth Ability +50% Boost (Tactical)] & [Quadracast Earth 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single-target Earth/NE piercing jump attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user. \n[Earth Damage Cap +20000 (Tactical)] & [Earth 125% ATB Quick Cycle (Tactical)] to user, and Weapon Skill Blue/Gold if user has 0-749/750+ SB points\nWS Blue: Grant [No Soul Break Cost (Tactical, max 1)] to user\nWS Gold: Grant [Earth Ability +50% Boost (Tactical)] & [Quadracast Earth 1] to user"
+    }
+  ]
+}

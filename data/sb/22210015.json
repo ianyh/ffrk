@@ -1,0 +1,27 @@
+{
+  "id": "22210015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210015/22210015_256.png",
+  "character": "Palom",
+  "name": "Brilliant Swagger",
+  "name_jp": "天才のつよがり",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Tri-Element Mode II (Fire, Ice, Lightning) v2] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Ice, Lightning) v2] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Ice, Lightning) v2] and [High Quick Cast 1]"
+    }
+  ]
+}

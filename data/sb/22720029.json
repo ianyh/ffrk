@@ -1,0 +1,27 @@
+{
+  "id": "22720029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720029/22720029_256.png",
+  "character": "Ceodore",
+  "name": "Soul Drive: Ceodore",
+  "name_jp": "SD・セオドア",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Instant ATB 1 & Instant Cast 1 to user after casting SB, removes Soul Drive Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Instant ATB 1 & Instant Cast 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Instant ATB 1 & Instant Cast 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ]
+}

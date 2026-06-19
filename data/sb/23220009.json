@@ -1,0 +1,27 @@
+{
+  "id": "23220009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220009/23220009_256.png",
+  "character": "Barbariccia",
+  "name": "Secret Breeze",
+  "name_jp": "シークレットブリーズ",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Wind Chain (max 99, field +50%), grants [MAG +50%] for 25 seconds, grants [Buff Wind 20% (15s)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Chain (max 99, field +50%), grants [MAG +50%] for 25 seconds, grants [Buff Wind 20% (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Chain (max 99, field +50%), grants [MAG +50%] for 25 seconds, grants [Buff Wind 20% (15s)]"
+    }
+  ]
+}

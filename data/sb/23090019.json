@@ -1,0 +1,27 @@
+{
+  "id": "23090019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090019/23090019_256.png",
+  "character": "Machina",
+  "name": "Awoken Awakening (Dual Shift)",
+  "name_jp": "覚醒アサルトモード",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Machina - 2)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Machina - 2)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Machina - 2)] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "24490030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490030/24490030_256.png",
+  "character": "Kimahri",
+  "name": "War-Awoken Ronso Deluge",
+  "name_jp": "戦醒ロンゾデルージュ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kimahri], [ATK +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kimahri], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kimahri], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

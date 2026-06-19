@@ -1,0 +1,30 @@
+{
+  "id": "22540030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540030/22540030_256.png",
+  "character": "Seymour",
+  "name": "Roaring Mortisunder",
+  "name_jp": "轟・幻光天破",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Dark/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases Dark abilities 2 single-target Dark/NE summon magic attacks + minor Prismatic Imperil for 5 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Dark/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases Dark abilities 2 single-target Dark/NE summon magic attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Dark/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Dark Ability High Boost & chases Dark abilities 2 single-target Dark/NE summon magic attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ]
+}

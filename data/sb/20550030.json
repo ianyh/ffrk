@@ -1,0 +1,27 @@
+{
+  "id": "20550030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550030/20550030_256.png",
+  "character": "Sabin",
+  "name": "Continuous Flash: Sabin",
+  "name_jp": "連閃・マッシュ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
+    }
+  ]
+}

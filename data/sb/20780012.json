@@ -1,0 +1,30 @@
+{
+  "id": "20780012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780012/20780012_256.png",
+  "character": "Setzer",
+  "name": "Chocobo Cheat",
+  "name_jp": "イカサマチョコボ",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), grants [Attach Dark], [Quick Cast] and [Random Bet Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Dark], [Quick Cast] and [Random Bet Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Dark], [Quick Cast] and [Random Bet Follow-Up] to the user"
+    }
+  ]
+}

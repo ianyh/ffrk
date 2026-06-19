@@ -1,0 +1,27 @@
+{
+  "id": "22970018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970018/22970018_256.png",
+  "character": "Prompto",
+  "name": "Chronicler of Fates",
+  "name_jp": "旅路の記録者",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Soul Break Gauge +500]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ]
+}

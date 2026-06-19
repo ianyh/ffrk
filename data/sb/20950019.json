@@ -1,0 +1,33 @@
+{
+  "id": "20950019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950019/20950019_256.png",
+  "character": "Thancred",
+  "name": "Leap of Faith",
+  "name_jp": "ブライトソイルブレイク",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIV",
+  "elements": [
+    "Holy",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Leap of Faith level 0/1/2, removes Arcane Dyad Empowered: Thancred from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Leap of Faith level 0/1/2, removes Arcane Dyad Empowered: Thancred from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Leap of Faith level 0/1/2, removes Arcane Dyad Empowered: Thancred from the user"
+    }
+  ]
+}

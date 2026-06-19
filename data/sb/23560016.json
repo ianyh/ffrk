@@ -1,0 +1,30 @@
+{
+  "id": "23560016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560016/23560016_256.png",
+  "character": "Ultros",
+  "name": "Roaring Poison Spray",
+  "name_jp": "轟・どくはき",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Poison/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Poison Ability High Boost & chases Poison abilities with 8 single-target Poison/NE ranged hybrid attacks",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Poison/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Poison Ability High Boost & chases Poison abilities with 8 single-target Poison/NE ranged hybrid attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Poison/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Poison Ability High Boost & chases Poison abilities with 8 single-target Poison/NE ranged hybrid attacks"
+    }
+  ]
+}

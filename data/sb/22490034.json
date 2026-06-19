@@ -1,0 +1,30 @@
+{
+  "id": "22490034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490034/22490034_256.png",
+  "character": "Leo",
+  "name": "War-Awoken General's Radiance (Weapon Skill)",
+  "name_jp": "戦醒燦然たる士魂の輝き",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VI",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Knight/VI allies;\nWS Blue: Grants [Earth Damage +30%] to party\nWS Gold: Grants [Deadly Strikes +20%] to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Knight/VI allies;\nWS Blue: Grants [Earth Damage +30%] to party\nWS Gold: Grants [Deadly Strikes +20%] to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Knight/VI allies;\nWS Blue: Grants [Earth Damage +30%] to party\nWS Gold: Grants [Deadly Strikes +20%] to party"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22510008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22510008/22510008_256.png",
+  "character": "Dorgann",
+  "name": "Resolute Flashing Blade",
+  "name_jp": "覚悟の剣閃",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Earth 10% (15s)]/[Imperil Earth 20% (15s)]/[Imperil Earth 30% (15s)] if 1/2/3+ of Galuf, Kelger and Xexat are alive and three or more FF5 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user, grants [50% Damage Reduction Barrier 1] to all allies, grants [Crystal Warden Mode] to the user if 3+ FF5 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Earth 10% (15s)]/[Imperil Earth 20% (15s)]/[Imperil Earth 30% (15s)] if 1/2/3+ of Galuf, Kelger and Xexat are alive and three or more FF5 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user, grants [50% Damage Reduction Barrier 1] to all allies, grants [Crystal Warden Mode] to the user if 3+ FF5 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Earth 10% (15s)]/[Imperil Earth 20% (15s)]/[Imperil Earth 30% (15s)] if 1/2/3+ of Galuf, Kelger and Xexat are alive and three or more FF5 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user, grants [50% Damage Reduction Barrier 1] to all allies, grants [Crystal Warden Mode] to the user if 3+ FF5 allies are alive"
+    }
+  ]
+}

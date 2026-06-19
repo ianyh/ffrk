@@ -1,0 +1,79 @@
+{
+  "id": "20990017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990017/20990017_256.png",
+  "character": "Rosa",
+  "name": "Zenith Benediction",
+  "name_jp": "究極女神の祝福",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Rosa] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rosa] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Rosa] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rosa] to the user"
+    },
+    {
+      "name": "Zenith Mode: Rosa",
+      "text": "Cast speed x1.10 for White Magic or Support abilities, White Magic abilities trigger 1 additional time, casts Spirit Attack: Rosa after using a White Magic or Support ability, maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Pray+",
+      "text": "Restores HP (20), restores 1 consumed ability use every fourth activation"
+    },
+    {
+      "name": "Spirit Attack: Rosa",
+      "text": "Restores HP (25)"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Natural Cure: Rosa",
+      "text": "Grants [HP Stock (6000)] when HP fall below 20%, removed after triggering"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Rosa] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rosa] to the user"
+    },
+    {
+      "name": "Pray+",
+      "text": "Restores HP (20), restores 1 consumed ability use every fourth activation"
+    },
+    {
+      "name": "Spirit Attack: Rosa",
+      "text": "Restores HP (25)"
+    }
+  ]
+}

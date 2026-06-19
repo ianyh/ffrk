@@ -1,0 +1,30 @@
+{
+  "id": "20300010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300010/20300010_256.png",
+  "character": "Rinoa",
+  "name": "Angel Wing Ice Shards",
+  "name_jp": "ヴァリー・氷葬",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Eight group attacks (1.80 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (1.80 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (1.80 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ]
+}

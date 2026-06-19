@@ -1,0 +1,27 @@
+{
+  "id": "22060011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060011/22060011_256.png",
+  "character": "Penelo",
+  "name": "Childhood Bond",
+  "name_jp": "幼馴染の気遣い",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Protect], [Shell] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ]
+}

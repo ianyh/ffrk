@@ -1,0 +1,27 @@
+{
+  "id": "23600006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23600006/23600006_256.png",
+  "character": "Joshua",
+  "name": "Soul Drive: Joshua",
+  "name_jp": "SD・ジョシュア",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XVI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants Soul Drive Mode, [Instant ATB 1] to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Soul Drive Mode, [Instant ATB 1] to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Soul Drive Mode, [Instant ATB 1] to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20400023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400023/20400023_256.png",
+  "character": "Bartz",
+  "name": "Rousing Earth",
+  "name_jp": "土のめざめ",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Awoken Spellblade], [Damage Cap +10000] to the user, grants [50% Dualcast Spellblade]/[50% Dualcast Spellblade] and [Spellblade Quick Cast v2]/[Dualcast Spellblade] and [Spellblade High Quick Cast] to the user if 1/2/4+ FF5 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Awoken Spellblade], [Damage Cap +10000] to the user, grants [50% Dualcast Spellblade]/[50% Dualcast Spellblade] and [Spellblade Quick Cast v2]/[Dualcast Spellblade] and [Spellblade High Quick Cast] to the user if 1/2/4+ FF5 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Awoken Spellblade], [Damage Cap +10000] to the user, grants [50% Dualcast Spellblade]/[50% Dualcast Spellblade] and [Spellblade Quick Cast v2]/[Dualcast Spellblade] and [Spellblade High Quick Cast] to the user if 1/2/4+ FF5 allies are alive"
+    }
+  ]
+}

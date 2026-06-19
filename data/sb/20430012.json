@@ -1,0 +1,30 @@
+{
+  "id": "20430012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430012/20430012_256.png",
+  "character": "Refia",
+  "name": "Searing Circle",
+  "name_jp": "愛炎気円",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "III",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Relentless Blaze Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Relentless Blaze Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Relentless Blaze Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20310033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310033/20310033_256.png",
+  "character": "Snow",
+  "name": "Radiant Diamond Gazer",
+  "name_jp": "耀光Dゲイザー",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Ice/NE physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE physical attacks at Cap Break Level 1, Instant Cast, 500% Ice Overflow Radiant Shield for 5 seconds, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/NE physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE physical attacks at Cap Break Level 1, Instant Cast, 500% Ice Overflow Radiant Shield for 5 seconds, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/NE physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE physical attacks at Cap Break Level 1, Instant Cast, 500% Ice Overflow Radiant Shield for 5 seconds, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

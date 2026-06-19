@@ -1,0 +1,30 @@
+{
+  "id": "23130003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130003/23130003_256.png",
+  "character": "Ysayle",
+  "name": "Glacier Bash",
+  "name_jp": "グレイシャーバッシュ",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XIV",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.21 each), restores HP to all allies for 40% of their maximum HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.21 each), restores HP to all allies for 40% of their maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.21 each), restores HP to all allies for 40% of their maximum HP"
+    }
+  ]
+}

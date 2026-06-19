@@ -1,0 +1,27 @@
+{
+  "id": "20650007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650007/20650007_256.png",
+  "character": "Galuf",
+  "name": "Inner Peace",
+  "name_jp": "心頭滅却",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user"
+    }
+  ]
+}

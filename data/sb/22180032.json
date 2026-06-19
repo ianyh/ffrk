@@ -1,0 +1,27 @@
+{
+  "id": "22180032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180032/22180032_256.png",
+  "character": "Basch",
+  "name": "Continuous Flash: Basch",
+  "name_jp": "連閃・バッシュ",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Twin Element Mode II (Fire, Holy)], [Instant ATB 1], [Instant Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Fire, Holy)], [Instant ATB 1], [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Fire, Holy)], [Instant ATB 1], [Instant Cast 2]"
+    }
+  ]
+}

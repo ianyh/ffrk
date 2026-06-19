@@ -1,0 +1,31 @@
+{
+  "id": "22360005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360005/22360005_256.png",
+  "character": "Shantotto",
+  "name": "A Thousand Suns",
+  "name_jp": "一騎当億",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XI",
+  "elements": [
+    "Lightning",
+    "Ice",
+    "Fire"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Lightning] and [Twinstrike EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Lightning] and [Twinstrike EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Lightning] and [Twinstrike EX Mode] to the user"
+    }
+  ]
+}

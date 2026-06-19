@@ -1,0 +1,27 @@
+{
+  "id": "20110032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110032/20110032_256.png",
+  "character": "Cloud",
+  "name": "Bond (Cloud)",
+  "name_jp": "絆【クラウド】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates VII Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: VII] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates VII Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: VII] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates VII Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: VII] and [Instant Cast 1] to the user"
+    }
+  ]
+}

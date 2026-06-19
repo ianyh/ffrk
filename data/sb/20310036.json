@@ -1,0 +1,30 @@
+{
+  "id": "20310036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310036/20310036_256.png",
+  "character": "Snow",
+  "name": "Woven Bond: Snow",
+  "name_jp": "紡絆・スノウ",
+  "tier": "LBC",
+  "sb_version": "LBC2",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Ice/NE physical attacks at Cap Break Level 1, activates Ice Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Ice/NE Overflow physical attack, multiplier increases with each chase, Quick Ice 2 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Ice/NE physical attacks at Cap Break Level 1, activates Ice Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Ice/NE Overflow physical attack, multiplier increases with each chase, Quick Ice 2 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Ice/NE physical attacks at Cap Break Level 1, activates Ice Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Ice/NE Overflow physical attack, multiplier increases with each chase, Quick Ice 2 to user"
+    }
+  ]
+}

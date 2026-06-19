@@ -1,0 +1,30 @@
+{
+  "id": "23340001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23340001/23340001_256.png",
+  "character": "Jack",
+  "name": "Deliverance",
+  "name_jp": "引導渡し",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Fire] and [Crimson Flash EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Fire] and [Crimson Flash EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Fire] and [Crimson Flash EX Mode] to the user"
+    }
+  ]
+}

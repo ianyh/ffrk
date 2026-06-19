@@ -1,0 +1,30 @@
+{
+  "id": "23270001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270001/23270001_256.png",
+  "character": "Sice",
+  "name": "Dark Nebula",
+  "name_jp": "ダークネビュラ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Type-0",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Dark], [Culling Scythe Finisher] and [Malice Mode 0] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Culling Scythe Finisher] and [Malice Mode 0] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Culling Scythe Finisher] and [Malice Mode 0] to the user"
+    }
+  ]
+}

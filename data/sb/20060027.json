@@ -1,0 +1,30 @@
+{
+  "id": "20060027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060027/20060027_256.png",
+  "character": "Cecil (Dark Knight)",
+  "name": "Baron's Elite",
+  "name_jp": "バロン精鋭の共闘",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark with Stacking], [Awoken Darkness], [Damage Cap +10000] and [Red Wings of Baron Mode]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark with Stacking], [Awoken Darkness], [Damage Cap +10000] and [Red Wings of Baron Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark with Stacking], [Awoken Darkness], [Damage Cap +10000] and [Red Wings of Baron Mode]"
+    }
+  ]
+}

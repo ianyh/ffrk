@@ -1,0 +1,30 @@
+{
+  "id": "20720019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720019/20720019_256.png",
+  "character": "Strago",
+  "name": "Apex Lore",
+  "name_jp": "覚えた技・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Strago (Water)], [Apex Lore Damage Tracker] and [Apex Lore Level]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Strago (Water)], [Apex Lore Damage Tracker] and [Apex Lore Level]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Strago (Water)], [Apex Lore Damage Tracker] and [Apex Lore Level]"
+    }
+  ]
+}

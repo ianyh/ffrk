@@ -1,0 +1,29 @@
+{
+  "id": "22110003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110003/22110003_256.png",
+  "character": "Freya",
+  "name": "Cherry Blossom",
+  "name_jp": "桜華狂咲",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IX",
+  "elements": [
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged attacks (1.95 each), grants [No Air Time 3] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.95 each), grants [No Air Time 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.95 each), grants [No Air Time 3] to the user"
+    }
+  ]
+}

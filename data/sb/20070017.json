@@ -1,0 +1,30 @@
+{
+  "id": "20070017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070017/20070017_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Holy Blade (IV)",
+  "name_jp": "ホーリーブレード【IV】",
+  "tier": "USB",
+  "sb_version": "USB4",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single hybrid attacks (0.71 or 1.80 each), grants [50% Damage Reduction Barrier 2] to all allies, grants [Attach Holy Stacking], [Attach Holy] and [Saintly Duel Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.71 or 1.80 each), grants [50% Damage Reduction Barrier 2] to all allies, grants [Attach Holy Stacking], [Attach Holy] and [Saintly Duel Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.71 or 1.80 each), grants [50% Damage Reduction Barrier 2] to all allies, grants [Attach Holy Stacking], [Attach Holy] and [Saintly Duel Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "21000132",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000132/21000132_256.png",
+  "character": "-",
+  "name": "Falling Phoenix's Song",
+  "name_jp": "落鳳破",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Three group ranged attacks (1.26 each), restores HP to all allies for 30% of their maximum HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.26 each), restores HP to all allies for 30% of their maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.26 each), restores HP to all allies for 30% of their maximum HP"
+    }
+  ]
+}

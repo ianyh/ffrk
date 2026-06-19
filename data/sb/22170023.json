@@ -1,0 +1,30 @@
+{
+  "id": "22170023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170023/22170023_256.png",
+  "character": "Vincent",
+  "name": "Woven Bond: Vincent (Fire)",
+  "name_jp": "紡絆・ヴィンセント炎",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single ranged hybrid attacks (0.80 or 2.60 each) capped at 19999, activates Fire Chain (max 150, field +0%) or adds 25 to the current Fire Chain maximum limit, grants [Chain Force Mode: Vincent] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged hybrid attacks (0.80 or 2.60 each) capped at 19999, activates Fire Chain (max 150, field +0%) or adds 25 to the current Fire Chain maximum limit, grants [Chain Force Mode: Vincent] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged hybrid attacks (0.80 or 2.60 each) capped at 19999, activates Fire Chain (max 150, field +0%) or adds 25 to the current Fire Chain maximum limit, grants [Chain Force Mode: Vincent] and [Instant ATB 1] to the user"
+    }
+  ]
+}

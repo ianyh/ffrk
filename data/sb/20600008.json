@@ -1,0 +1,30 @@
+{
+  "id": "20600008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600008/20600008_256.png",
+  "character": "Lightning",
+  "name": "Lightning Strike",
+  "name_jp": "雷光斬",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Eight group ranged attacks (0.62 each), grants [Attach Lightning] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group ranged attacks (0.62 each), grants [Attach Lightning] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group ranged attacks (0.62 each), grants [Attach Lightning] to the user"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "22750023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22750023/22750023_256.png",
+  "character": "Meia",
+  "name": "Roaring Aberrant Witch",
+  "name_jp": "轟・アベラントウィッチ",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "I",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five Single Attacks (2.60 each), grants [Accel Mode], [Accel Mode: Meia (Water)], [Instant ATB 1] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five Single Attacks (2.60 each), grants [Accel Mode], [Accel Mode: Meia (Water)], [Instant ATB 1] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Accel Mode: Meia (Water)",
+      "text": "Water abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Meia after using Water abilities, removed if the character hasn't [Accel Mode]"
+    },
+    {
+      "name": "Roaring Meia",
+      "text": "Six single attacks (1.50 each), grants [Buff Water 10% (5s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five Single Attacks (2.60 each), grants [Accel Mode], [Accel Mode: Meia (Water)], [Instant ATB 1] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Accel Mode: Meia (Water)",
+      "text": "Water abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Meia after using Water abilities, removed if the character hasn't [Accel Mode]"
+    },
+    {
+      "name": "Roaring Meia",
+      "text": "Six single attacks (1.50 each), grants [Buff Water 10% (5s)] to the user"
+    }
+  ]
+}

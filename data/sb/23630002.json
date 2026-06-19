@@ -1,0 +1,27 @@
+{
+  "id": "23630002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23630002/23630002_256.png",
+  "character": "Dion",
+  "name": "Starry Gigaflare (XVI)",
+  "name_jp": "極星ギガフレア【XVI】",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "XVI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Master Mode], [Master Mode: Dion], [Instant ATB 1], [Diffusion Barrier 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Dion], [Instant ATB 1], [Diffusion Barrier 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Dion], [Instant ATB 1], [Diffusion Barrier 1] to user."
+    }
+  ]
+}

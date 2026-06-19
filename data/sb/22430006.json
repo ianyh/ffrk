@@ -1,0 +1,30 @@
+{
+  "id": "22430006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430006/22430006_256.png",
+  "character": "Guy",
+  "name": "Heroic Might",
+  "name_jp": "怪力無双！",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Buff Earth 20% (15s)] to all allies, grants [Attach Earth], [Awoken Earth], [Damage Cap +10000] and [Vengeful Earth Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Buff Earth 20% (15s)] to all allies, grants [Attach Earth], [Awoken Earth], [Damage Cap +10000] and [Vengeful Earth Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Buff Earth 20% (15s)] to all allies, grants [Attach Earth], [Awoken Earth], [Damage Cap +10000] and [Vengeful Earth Follow-Up] to the user"
+    }
+  ]
+}

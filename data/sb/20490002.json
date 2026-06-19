@@ -1,0 +1,27 @@
+{
+  "id": "20490002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20490002/20490002_256.png",
+  "character": "Kimahri",
+  "name": "Mighty Guard (X)",
+  "name_jp": "マイティガード【Ⅹ】",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Magical Blink 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Blink 1]"
+    }
+  ]
+}

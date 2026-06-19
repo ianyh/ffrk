@@ -1,0 +1,31 @@
+{
+  "id": "20080020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080020/20080020_256.png",
+  "character": "Kain",
+  "name": "Surging Darkness",
+  "name_jp": "ダークネススラスト",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged jump attacks (0.71 each), grants [Twin Element Mode II (Lightning, Dark)], [Jump Instant Cast] and [No Air Time] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Twin Element Mode II (Lightning, Dark)], [Jump Instant Cast] and [No Air Time] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Twin Element Mode II (Lightning, Dark)], [Jump Instant Cast] and [No Air Time] to the user"
+    }
+  ]
+}

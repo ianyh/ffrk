@@ -1,0 +1,30 @@
+{
+  "id": "23130001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130001/23130001_256.png",
+  "character": "Ysayle",
+  "name": "Icicle Impact",
+  "name_jp": "アイシクルインパクト",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIV",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Icebrand Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Icebrand Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Ice] and [Icebrand Follow-Up] to the user"
+    }
+  ]
+}

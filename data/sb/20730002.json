@@ -1,0 +1,27 @@
+{
+  "id": "20730002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730002/20730002_256.png",
+  "character": "Fusoya",
+  "name": "Lunar Auspice",
+  "name_jp": "月の魔導",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (2.35 each), [MAG +20%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.35 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.35 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ]
+}

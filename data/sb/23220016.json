@@ -1,0 +1,27 @@
+{
+  "id": "23220016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220016/23220016_256.png",
+  "character": "Barbariccia",
+  "name": "Blustery Ruler",
+  "name_jp": "ブロウルーラー",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Wind with Stacking] and [Hexa Mirage Follow-Up]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind with Stacking] and [Hexa Mirage Follow-Up]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind with Stacking] and [Hexa Mirage Follow-Up]"
+    }
+  ]
+}

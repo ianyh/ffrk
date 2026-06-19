@@ -1,0 +1,74 @@
+{
+  "id": "22920012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920012/22920012_256.png",
+  "character": "Umaro",
+  "name": "Zenith Yellow Cherry",
+  "name_jp": "究極イエローチェリー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Umaro] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Umaro] to the user"
+    },
+    {
+      "name": "Zenith Mode: Umaro",
+      "text": "Increases [Ice Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Ice abilities trigger 1 additional time, casts Spirit Attack: Umaro when any Damage Reduction Barrier is removed (max 5), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Icestorm+",
+      "text": "One single attack (7.50) capped at 99999"
+    },
+    {
+      "name": "Furious Tackle+",
+      "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Umaro",
+      "text": "Grants [Ice Ability Quick Cast 1], [10% Damage Reduction Barrier 1] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Attach Ice 3 with Stacking",
+      "text": "Increase Attach Ice Level by 3 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "10% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 10% for the next attack"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Umaro] to the user"
+    },
+    {
+      "name": "Icestorm+",
+      "text": "One single attack (7.50) capped at 99999"
+    },
+    {
+      "name": "Furious Tackle+",
+      "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Umaro",
+      "text": "Grants [Ice Ability Quick Cast 1], [10% Damage Reduction Barrier 1] and [Instant ATB 1] to the user"
+    }
+  ]
+}

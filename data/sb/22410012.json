@@ -1,0 +1,31 @@
+{
+  "id": "22410012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410012/22410012_256.png",
+  "character": "Cid Raines",
+  "name": "Last Destiny",
+  "name_jp": "ラストディスティニー",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [DEF and MAG +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Double Crystarium Mode III (Holy, Dark)] and [Dawning Light Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [DEF and MAG +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Double Crystarium Mode III (Holy, Dark)] and [Dawning Light Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [DEF and MAG +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Double Crystarium Mode III (Holy, Dark)] and [Dawning Light Follow-Up] to the user"
+    }
+  ]
+}

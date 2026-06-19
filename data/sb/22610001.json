@@ -1,0 +1,30 @@
+{
+  "id": "22610001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610001/22610001_256.png",
+  "character": "Raijin",
+  "name": "Raijin Special",
+  "name_jp": "秘技「雷神飛竜昇」",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ]
+}

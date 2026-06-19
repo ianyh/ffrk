@@ -1,0 +1,27 @@
+{
+  "id": "20190015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190015/20190015_256.png",
+  "character": "Josef",
+  "name": "Dauntless Courage",
+  "name_jp": "剛勇の漢",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates II Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates II Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates II Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ]
+}

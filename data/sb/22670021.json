@@ -1,0 +1,31 @@
+{
+  "id": "22670021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670021/22670021_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Obstruction Particle Beam",
+  "name_jp": "閉塞式 波動砲",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Twin Element Mode (Lightning, Dark) v2], [Awoken Apparition Mode], [Damage Cap +10000], [Quick Cast] and [Particle Beam Charge Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode (Lightning, Dark) v2], [Awoken Apparition Mode], [Damage Cap +10000], [Quick Cast] and [Particle Beam Charge Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode (Lightning, Dark) v2], [Awoken Apparition Mode], [Damage Cap +10000], [Quick Cast] and [Particle Beam Charge Follow-Up] to the user"
+    }
+  ]
+}

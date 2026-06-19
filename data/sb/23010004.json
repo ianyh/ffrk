@@ -1,0 +1,30 @@
+{
+  "id": "23010004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010004/23010004_256.png",
+  "character": "Rude",
+  "name": "Chain Grand Spark",
+  "name_jp": "連・地走り",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single hybrid attacks (0.71 or 1.70 each), grants [Attach Earth], [High Quick Cast] and [Chain Grand Spark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.71 or 1.70 each), grants [Attach Earth], [High Quick Cast] and [Chain Grand Spark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.71 or 1.70 each), grants [Attach Earth], [High Quick Cast] and [Chain Grand Spark] to the user"
+    }
+  ]
+}

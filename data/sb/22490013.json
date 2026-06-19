@@ -1,0 +1,29 @@
+{
+  "id": "22490013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490013/22490013_256.png",
+  "character": "Leo",
+  "name": "Height of Chivalry",
+  "name_jp": "騎士道の極み",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "VI",
+  "elements": [
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting elemental weakness, grants [Attach Earth with Stacking] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting elemental weakness, grants [Attach Earth with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting elemental weakness, grants [Attach Earth with Stacking] to the user"
+    }
+  ]
+}

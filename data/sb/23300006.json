@@ -1,0 +1,27 @@
+{
+  "id": "23300006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300006/23300006_256.png",
+  "character": "Hilda",
+  "name": "Blossoming Peace",
+  "name_jp": "咲き誇る平和の華",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Physical Blink 2] and [Haste], grants [Awoken Brilliance] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Physical Blink 2] and [Haste], grants [Awoken Brilliance] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Physical Blink 2] and [Haste], grants [Awoken Brilliance] to the user"
+    }
+  ]
+}

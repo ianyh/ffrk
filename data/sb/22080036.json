@@ -1,0 +1,30 @@
+{
+  "id": "22080036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080036/22080036_256.png",
+  "character": "Exdeath",
+  "name": "Divine Might: Exdeath",
+  "name_jp": "神威・エクスデス",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark or Holy hybrid attacks at Conditional Cap Break & 3 single-target Dark or Holy Overflow piercing hybrid attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Dark or Holy Abilities in party, Level 5 with at least 5 Dark or Holy Abilities & 2 En-Dark or En-Holy members in party; Multiplier increases with each tier",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark or Holy hybrid attacks at Conditional Cap Break & 3 single-target Dark or Holy Overflow piercing hybrid attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Dark or Holy Abilities in party, Level 5 with at least 5 Dark or Holy Abilities & 2 En-Dark or En-Holy members in party; Multiplier increases with each tier"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark or Holy hybrid attacks at Conditional Cap Break & 3 single-target Dark or Holy Overflow piercing hybrid attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Dark or Holy Abilities in party, Level 5 with at least 5 Dark or Holy Abilities & 2 En-Dark or En-Holy members in party; Multiplier increases with each tier"
+    }
+  ]
+}

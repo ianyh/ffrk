@@ -1,0 +1,30 @@
+{
+  "id": "20460004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460004/20460004_256.png",
+  "character": "Ricard",
+  "name": "Pride of Deist",
+  "name_jp": "プライドオブディスト",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "II",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged jump attacks (0.83 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ]
+}

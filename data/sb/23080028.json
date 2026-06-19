@@ -1,0 +1,30 @@
+{
+  "id": "23080028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080028/23080028_256.png",
+  "character": "Rem",
+  "name": "War-Awoken Saintly Grace (Weapon Skill)",
+  "name_jp": "戦醒セイントグレイス",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities. and Weapon Skill Blue/Gold if user has at least Lv. 0/3 En-Holy;\nWS Blue: Grants [Attach Holy 2 with Stacking] to user\nWS Gold: Grants [Soul Break Gauge + 500] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities. and Weapon Skill Blue/Gold if user has at least Lv. 0/3 En-Holy;\nWS Blue: Grants [Attach Holy 2 with Stacking] to user\nWS Gold: Grants [Soul Break Gauge + 500] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities. and Weapon Skill Blue/Gold if user has at least Lv. 0/3 En-Holy;\nWS Blue: Grants [Attach Holy 2 with Stacking] to user\nWS Gold: Grants [Soul Break Gauge + 500] to user"
+    }
+  ]
+}

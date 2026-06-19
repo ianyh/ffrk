@@ -1,0 +1,30 @@
+{
+  "id": "22600006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22600006/22600006_256.png",
+  "character": "Fujin",
+  "name": "Storm",
+  "name_jp": "嵐",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Quick Cast], [Attach Wind] and [Slice Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Quick Cast], [Attach Wind] and [Slice Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Quick Cast], [Attach Wind] and [Slice Follow-Up] to the user"
+    }
+  ]
+}

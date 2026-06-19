@@ -1,0 +1,30 @@
+{
+  "id": "22690033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690033/22690033_256.png",
+  "character": "Lion",
+  "name": "War-Awoken Spiral Fall (Weapon Skill)",
+  "name_jp": "戦醒スパイラルフォール",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (11.00 each) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, causes [Deprotect 20% (15s)] to all enemies if one target has at least 40% imperil water, causes [Imperil Water 30% (15s)] to enemies if not",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, causes [Deprotect 20% (15s)] to all enemies if one target has at least 40% imperil water, causes [Imperil Water 30% (15s)] to enemies if not"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, causes [Deprotect 20% (15s)] to all enemies if one target has at least 40% imperil water, causes [Imperil Water 30% (15s)] to enemies if not"
+    }
+  ]
+}

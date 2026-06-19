@@ -1,0 +1,30 @@
+{
+  "id": "22720008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720008/22720008_256.png",
+  "character": "Ceodore",
+  "name": "Twin Rush",
+  "name_jp": "ツインラッシュ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Instant Cast 1], [Attach Holy] and [Twin Rush] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Instant Cast 1], [Attach Holy] and [Twin Rush] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Instant Cast 1], [Attach Holy] and [Twin Rush] to the user"
+    }
+  ]
+}

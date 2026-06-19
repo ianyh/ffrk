@@ -1,0 +1,27 @@
+{
+  "id": "20320018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320018/20320018_256.png",
+  "character": "Vanille",
+  "name": "Steel of Oath",
+  "name_jp": "誓いを力に",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Earth Quick Cast 4] to all allies, grants [Attach Earth], [Synchro Mode], [Damage Cap +10000] and [Gentle Maiden Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Earth Quick Cast 4] to all allies, grants [Attach Earth], [Synchro Mode], [Damage Cap +10000] and [Gentle Maiden Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Earth Quick Cast 4] to all allies, grants [Attach Earth], [Synchro Mode], [Damage Cap +10000] and [Gentle Maiden Mode] to the user"
+    }
+  ]
+}

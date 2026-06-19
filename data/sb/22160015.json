@@ -1,0 +1,27 @@
+{
+  "id": "22160015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160015/22160015_256.png",
+  "character": "Relm",
+  "name": "Rough Sketch",
+  "name_jp": "ふかふかスケッチ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (3000)], [Last Stand], [Haste], [Stoneskin: 30%], [High Quick Cast 2], grants [Awoken Sketch] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)], [Last Stand], [Haste], [Stoneskin: 30%], [High Quick Cast 2], grants [Awoken Sketch] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)], [Last Stand], [Haste], [Stoneskin: 30%], [High Quick Cast 2], grants [Awoken Sketch] to the user"
+    }
+  ]
+}

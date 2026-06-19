@@ -1,0 +1,29 @@
+{
+  "id": "20730007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730007/20730007_256.png",
+  "character": "Fusoya",
+  "name": "Lunarian Fury",
+  "name_jp": "月の民の怒り",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "IV",
+  "elements": [
+    "Holy"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (28.00 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (28.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (28.00 each) capped at 99999"
+    }
+  ]
+}

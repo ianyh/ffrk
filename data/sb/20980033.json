@@ -1,0 +1,30 @@
+{
+  "id": "20980033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980033/20980033_256.png",
+  "character": "Edge",
+  "name": "Poison Mist Jutsu",
+  "name_jp": "毒霧の術",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "IV",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Awoken Unequaled Prince Mode], [Damage Cap +10000], [Ninja +30% Boost (15s)] and [Quad Element Mode II (Fire, Lightning, Water, Poison)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Awoken Unequaled Prince Mode], [Damage Cap +10000], [Ninja +30% Boost (15s)] and [Quad Element Mode II (Fire, Lightning, Water, Poison)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Awoken Unequaled Prince Mode], [Damage Cap +10000], [Ninja +30% Boost (15s)] and [Quad Element Mode II (Fire, Lightning, Water, Poison)] to the user"
+    }
+  ]
+}

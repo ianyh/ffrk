@@ -1,0 +1,27 @@
+{
+  "id": "20120004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20120004/20120004_256.png",
+  "character": "Aerith",
+  "name": "Planet Protector",
+  "name_jp": "星の守護",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22680003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680003/22680003_256.png",
+  "character": "Prishe",
+  "name": "Backhand Blow",
+  "name_jp": "バックハンドブロー",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (1.30), causes [Stun] (20%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.30), causes [Stun] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.30), causes [Stun] (20%)"
+    }
+  ]
+}

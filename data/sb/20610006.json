@@ -1,0 +1,27 @@
+{
+  "id": "20610006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610006/20610006_256.png",
+  "character": "Sazh",
+  "name": "Choco-Chick Blues",
+  "name_jp": "ザ・アフロブルース",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK and MAG +30%] for 25 seconds, grants [Haste], [Instant Cast 2] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds, grants [Haste], [Instant Cast 2] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds, grants [Haste], [Instant Cast 2] and [Burst Mode] to the user"
+    }
+  ]
+}

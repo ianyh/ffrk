@@ -1,0 +1,27 @@
+{
+  "id": "20880033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880033/20880033_256.png",
+  "character": "Lulu",
+  "name": "War-Awoken Doll Embrace",
+  "name_jp": "戦醒ドールエンブレイス",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

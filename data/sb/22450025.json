@@ -1,0 +1,31 @@
+{
+  "id": "22450025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450025/22450025_256.png",
+  "character": "Noel",
+  "name": "Hunt Through Time",
+  "name_jp": "時空を超えし狩人",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Damage Cap +10000], [Awoken Future Hunter Mode], [Double Crystarium Mode II (Ice, Water)], [(Ice/Water) Ability +30% Boost (15s)], and [Break Javelin Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Damage Cap +10000], [Awoken Future Hunter Mode], [Double Crystarium Mode II (Ice, Water)], [(Ice/Water) Ability +30% Boost (15s)], and [Break Javelin Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Damage Cap +10000], [Awoken Future Hunter Mode], [Double Crystarium Mode II (Ice, Water)], [(Ice/Water) Ability +30% Boost (15s)], and [Break Javelin Follow-Up] to the user"
+    }
+  ]
+}

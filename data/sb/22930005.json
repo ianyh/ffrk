@@ -1,0 +1,27 @@
+{
+  "id": "22930005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930005/22930005_256.png",
+  "character": "Gogo (VI)",
+  "name": "Mass Mimicry",
+  "name_jp": "みんなのものまね",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [ATK, MAG and MND +30% (25s)] and [Haste], grants [High Quick Cast 2], [Awoken Black Magic], [Damage Cap +10000], [Protean Mode (Fire, Ice, Earth, Wind)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)] and [Haste], grants [High Quick Cast 2], [Awoken Black Magic], [Damage Cap +10000], [Protean Mode (Fire, Ice, Earth, Wind)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)] and [Haste], grants [High Quick Cast 2], [Awoken Black Magic], [Damage Cap +10000], [Protean Mode (Fire, Ice, Earth, Wind)] and [Brave Mode] to the user"
+    }
+  ]
+}

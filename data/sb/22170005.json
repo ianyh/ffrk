@@ -1,0 +1,30 @@
+{
+  "id": "22170005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170005/22170005_256.png",
+  "character": "Vincent",
+  "name": "Galian Beast",
+  "name_jp": "ガリアンビースト",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group hybrid attacks (0.94 or 2.26 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group hybrid attacks (0.94 or 2.26 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group hybrid attacks (0.94 or 2.26 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

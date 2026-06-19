@@ -1,0 +1,31 @@
+{
+  "id": "20850023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850023/20850023_256.png",
+  "character": "Gau",
+  "name": "Radiant Plunging Claws",
+  "name_jp": "耀光落撃の獣爪",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Wind Stack or En-Lightning Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Wind/Lightning Ability Boost, Dualcast Wind/Lightning, Zero Hone Cost to Wind/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Wind/Lightning, Wind/Lightning Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Wind Stack or En-Lightning Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Wind/Lightning Ability Boost, Dualcast Wind/Lightning, Zero Hone Cost to Wind/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Wind/Lightning, Wind/Lightning Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Wind Stack or En-Lightning Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Wind/Lightning Ability Boost, Dualcast Wind/Lightning, Zero Hone Cost to Wind/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Wind/Lightning, Wind/Lightning Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

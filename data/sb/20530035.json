@@ -1,0 +1,32 @@
+{
+  "id": "20530035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530035/20530035_256.png",
+  "character": "Edgar",
+  "name": "Divine Might: Edgar",
+  "name_jp": "神威・エドガー",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Poison/Fire/Lightning ranged physical attacks at Conditional Cap Break & 3 single-target Poison/Fire/Lightning Overflow piercing long ranged physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Poison/Fire/Lightning Abilities in party, Level 5 with at least 5 Poison/Fire/Lightning Abilities & 2 EnPoison/Fire/Lightning in party; Multiplier increases with each tier",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Poison/Fire/Lightning ranged physical attacks at Conditional Cap Break & 3 single-target Poison/Fire/Lightning Overflow piercing long ranged physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Poison/Fire/Lightning Abilities in party, Level 5 with at least 5 Poison/Fire/Lightning Abilities & 2 EnPoison/Fire/Lightning in party; Multiplier increases with each tier"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Poison/Fire/Lightning ranged physical attacks at Conditional Cap Break & 3 single-target Poison/Fire/Lightning Overflow piercing long ranged physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Poison/Fire/Lightning Abilities in party, Level 5 with at least 5 Poison/Fire/Lightning Abilities & 2 EnPoison/Fire/Lightning in party; Multiplier increases with each tier"
+    }
+  ]
+}

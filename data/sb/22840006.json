@@ -1,0 +1,27 @@
+{
+  "id": "22840006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22840006/22840006_256.png",
+  "character": "Aemo",
+  "name": "Zenith Reprogram",
+  "name_jp": "究極リプログラミング",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants 6000 HP Stock, 30% Stoneskin, Critical Chance +100% & Quick Physical, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases White Magic/Bard abilities with h25 heal to party\nUltimate Dexterity Mode: Dualcast White Magic/Bard & Zero Hone Cost to Hero Ability; Photon Barrage+: 0CT; Timeless Song+: 1.65s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants 6000 HP Stock, 30% Stoneskin, Critical Chance +100% & Quick Physical, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases White Magic/Bard abilities with h25 heal to party\nUltimate Dexterity Mode: Dualcast White Magic/Bard & Zero Hone Cost to Hero Ability; Photon Barrage+: 0CT; Timeless Song+: 1.65s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants 6000 HP Stock, 30% Stoneskin, Critical Chance +100% & Quick Physical, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases White Magic/Bard abilities with h25 heal to party\nUltimate Dexterity Mode: Dualcast White Magic/Bard & Zero Hone Cost to Hero Ability; Photon Barrage+: 0CT; Timeless Song+: 1.65s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

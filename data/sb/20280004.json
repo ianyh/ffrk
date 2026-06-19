@@ -1,0 +1,27 @@
+{
+  "id": "20280004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280004/20280004_256.png",
+  "character": "Gordon",
+  "name": "Kashuan's Resolve",
+  "name_jp": "引き継いだ意志",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Physical Blink 1], [ATK and MAG +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1], [ATK and MAG +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1], [ATK and MAG +30%] for 25 seconds"
+    }
+  ]
+}

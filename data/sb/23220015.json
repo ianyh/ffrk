@@ -1,0 +1,30 @@
+{
+  "id": "23220015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220015/23220015_256.png",
+  "character": "Barbariccia",
+  "name": "Gale Warning",
+  "name_jp": "ゲールワーニング",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind with Stacking], [Awoken Wind], [Damage Cap +10000],  [40% Damage Reduction Barrier 1] and [Beguiling Ruler Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind with Stacking], [Awoken Wind], [Damage Cap +10000],  [40% Damage Reduction Barrier 1] and [Beguiling Ruler Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind with Stacking], [Awoken Wind], [Damage Cap +10000],  [40% Damage Reduction Barrier 1] and [Beguiling Ruler Mode] to the user"
+    }
+  ]
+}

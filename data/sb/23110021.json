@@ -1,0 +1,31 @@
+{
+  "id": "23110021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23110021/23110021_256.png",
+  "character": "Haurchefant",
+  "name": "War-Awoken Blade of Honor (Weapon Skill)",
+  "name_jp": "戦醒ブレードオブオナー",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XIV",
+  "elements": [
+    "Holy",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Knight/XIV members;\nWS Blue: Grants [Dualcast Holy 3, Instant Holy 3 & Weakness Damage +30% for 3 turns] to user\nWS Gold: Grants [Surging Power +30%] to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Knight/XIV members;\nWS Blue: Grants [Dualcast Holy 3, Instant Holy 3 & Weakness Damage +30% for 3 turns] to user\nWS Gold: Grants [Surging Power +30%] to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if there are at least 0/4 Knight/XIV members;\nWS Blue: Grants [Dualcast Holy 3, Instant Holy 3 & Weakness Damage +30% for 3 turns] to user\nWS Gold: Grants [Surging Power +30%] to party"
+    }
+  ]
+}

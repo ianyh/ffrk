@@ -1,0 +1,29 @@
+{
+  "id": "22950006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22950006/22950006_256.png",
+  "character": "Umaro",
+  "name": "Boss Bomber",
+  "name_jp": "おやぶんぼんばー",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "VI",
+  "elements": [
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single ranged attacks (8.00 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (8.00 each) capped at 99999"
+    }
+  ]
+}

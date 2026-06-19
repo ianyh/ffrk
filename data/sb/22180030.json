@@ -1,0 +1,27 @@
+{
+  "id": "22180030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180030/22180030_256.png",
+  "character": "Basch",
+  "name": "Awoken Righteous Steel (Dual Shift)",
+  "name_jp": "覚醒義剣の一閃",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Dalmascan Captain Mode II to user\nDual Awoken Dalmascan Captain Mode II: Holy/Fire Ability Boost, Instant Holy/Fire & chases a Holy/Fire ability with [100% Critical (15s)] to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Dalmascan Captain Mode II to user\nDual Awoken Dalmascan Captain Mode II: Holy/Fire Ability Boost, Instant Holy/Fire & chases a Holy/Fire ability with [100% Critical (15s)] to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Dalmascan Captain Mode II to user\nDual Awoken Dalmascan Captain Mode II: Holy/Fire Ability Boost, Instant Holy/Fire & chases a Holy/Fire ability with [100% Critical (15s)] to party"
+    }
+  ]
+}

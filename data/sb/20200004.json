@@ -1,0 +1,27 @@
+{
+  "id": "20200004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200004/20200004_256.png",
+  "character": "Lenna",
+  "name": "Flames of War",
+  "name_jp": "闘志の炎",
+  "tier": "SB",
+  "sb_version": "SB3",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK +30%] for 25 seconds, grants [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +30%] for 25 seconds, grants [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +30%] for 25 seconds, grants [Haste]"
+    }
+  ]
+}

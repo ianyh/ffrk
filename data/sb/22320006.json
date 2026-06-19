@@ -1,0 +1,30 @@
+{
+  "id": "22320006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22320006/22320006_256.png",
+  "character": "Yda",
+  "name": "Furious Flurry",
+  "name_jp": "闘魂旋風脚",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIV",
+  "elements": [
+    "Earth",
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.88 each), grants [Attach Fire], [Monk Instant Cast 3] and [Physical Blink 3] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.88 each), grants [Attach Fire], [Monk Instant Cast 3] and [Physical Blink 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.88 each), grants [Attach Fire], [Monk Instant Cast 3] and [Physical Blink 3] to the user"
+    }
+  ]
+}

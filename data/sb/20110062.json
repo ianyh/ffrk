@@ -1,0 +1,31 @@
+{
+  "id": "20110062",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110062/20110062_256.png",
+  "character": "Cloud",
+  "name": "Continuous Flash: Cloud",
+  "name_jp": "連閃・クラウド",
+  "tier": "Glint++",
+  "sb_version": "Glint++3",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Six single attacks (? each), grants [Soul Break Gauge +250] and [200% ATB 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (? each), grants [Soul Break Gauge +250] and [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (? each), grants [Soul Break Gauge +250] and [200% ATB 1]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20560023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560023/20560023_256.png",
+  "character": "Maria",
+  "name": "Woven Bond: Maria (Earth)",
+  "name_jp": "紡絆・マリア地",
+  "tier": "LBC",
+  "sb_version": "LBC2",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (2.60 each) capped at 19999, activates Earth Chain (max 150, field +0%) or adds 25 to the current Earth Chain maximum limit, grants [Chain Force Mode: Maria (Earth)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Earth Chain (max 150, field +0%) or adds 25 to the current Earth Chain maximum limit, grants [Chain Force Mode: Maria (Earth)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Earth Chain (max 150, field +0%) or adds 25 to the current Earth Chain maximum limit, grants [Chain Force Mode: Maria (Earth)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23630010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23630010/23630010_256.png",
+  "character": "Dion",
+  "name": "War-Awoken Teraflare (XVI) (Weapon Skill)",
+  "name_jp": "戦醒テラフレア【XVI】",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XVI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Holy Damage Cap +20000 (Tactical)], [Holy 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Rampage Mode: Dion] and Tactical Ether 2 if there are six or less remaining ability uses in [Tactical Awoken Mode], grants [Dualcast Holy (Tactical) 5] to the user if not",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Holy Damage Cap +20000 (Tactical)], [Holy 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Rampage Mode: Dion] and Tactical Ether 2 if there are six or less remaining ability uses in [Tactical Awoken Mode], grants [Dualcast Holy (Tactical) 5] to the user if not"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Holy Damage Cap +20000 (Tactical)], [Holy 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Rampage Mode: Dion] and Tactical Ether 2 if there are six or less remaining ability uses in [Tactical Awoken Mode], grants [Dualcast Holy (Tactical) 5] to the user if not"
+    }
+  ]
+}

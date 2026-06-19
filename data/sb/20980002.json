@@ -1,0 +1,29 @@
+{
+  "id": "20980002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980002/20980002_256.png",
+  "character": "Edge",
+  "name": "Eblan Water Veil",
+  "name_jp": "エブラーナ流・水遁",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "IV",
+  "elements": [
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged attacks (1.15 each), causes [Stun] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.15 each), causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.15 each), causes [Stun] (100%)"
+    }
+  ]
+}

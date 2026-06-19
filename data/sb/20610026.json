@@ -1,0 +1,32 @@
+{
+  "id": "20610026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610026/20610026_256.png",
+  "character": "Sazh",
+  "name": "Radiant I've Been Waiting for This!",
+  "name_jp": "耀光待ってました！",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XIII",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single ranged attacks at Cap Break Level 1 + ATK/MAG/DEF/RES/MND -50%, Casting Speed x1.3 to party & Crystal Mode to user\nCrystal Mode: Quick Machinist/Support & Zero Hone Cost to Machinist/Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & 50% DEF/RES Pierce] for 1 turn to party, Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single ranged attacks at Cap Break Level 1 + ATK/MAG/DEF/RES/MND -50%, Casting Speed x1.3 to party & Crystal Mode to user\nCrystal Mode: Quick Machinist/Support & Zero Hone Cost to Machinist/Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & 50% DEF/RES Pierce] for 1 turn to party, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single ranged attacks at Cap Break Level 1 + ATK/MAG/DEF/RES/MND -50%, Casting Speed x1.3 to party & Crystal Mode to user\nCrystal Mode: Quick Machinist/Support & Zero Hone Cost to Machinist/Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & 50% DEF/RES Pierce] for 1 turn to party, Quick ATB 1 to user"
+    }
+  ]
+}

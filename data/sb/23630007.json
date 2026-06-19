@@ -1,0 +1,27 @@
+{
+  "id": "23630007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23630007/23630007_256.png",
+  "character": "Dion",
+  "name": "Continuous Flash: Dion",
+  "name_jp": "連閃・ディオン",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XVI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Break Gauge +500], [200% ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500], [200% ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500], [200% ATB 1] to user."
+    }
+  ]
+}

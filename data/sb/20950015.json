@@ -1,0 +1,33 @@
+{
+  "id": "20950015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950015/20950015_256.png",
+  "character": "Thancred",
+  "name": "Radiant Burst Strike",
+  "name_jp": "耀光バーストストライク",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XIV",
+  "elements": [
+    "Holy",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90/3.05 each) capped at 19999, grants [Attach Holy with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Poison with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Thancred] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90/3.05 each) capped at 19999, grants [Attach Holy with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Poison with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Thancred] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90/3.05 each) capped at 19999, grants [Attach Holy with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Poison with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Thancred] to the user"
+    }
+  ]
+}

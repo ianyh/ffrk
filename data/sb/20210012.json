@@ -1,0 +1,30 @@
+{
+  "id": "20210012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210012/20210012_256.png",
+  "character": "Celes",
+  "name": "Mystic Blade",
+  "name_jp": "神秘なる常勝の剣",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Ice], [High Runic] and [Arcane Blade] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Ice], [High Runic] and [Arcane Blade] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Ice], [High Runic] and [Arcane Blade] to the user"
+    }
+  ]
+}

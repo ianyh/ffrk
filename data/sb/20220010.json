@@ -1,0 +1,30 @@
+{
+  "id": "20220010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220010/20220010_256.png",
+  "character": "Cyan",
+  "name": "Bushido Flash",
+  "name_jp": "必殺剣・煌",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], and [Iron Allegiance Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], and [Iron Allegiance Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], and [Iron Allegiance Mode] to the user"
+    }
+  ]
+}

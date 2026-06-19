@@ -1,0 +1,27 @@
+{
+  "id": "20640006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640006/20640006_256.png",
+  "character": "Tellah",
+  "name": "Sage's Resolve",
+  "name_jp": "老賢者の覚悟",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Magical Quick Cast 2], grants [Attach Earth] and [Desperate Meteor Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Quick Cast 2], grants [Attach Earth] and [Desperate Meteor Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Quick Cast 2], grants [Attach Earth] and [Desperate Meteor Mode] to the user"
+    }
+  ]
+}

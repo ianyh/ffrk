@@ -1,0 +1,27 @@
+{
+  "id": "20920004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920004/20920004_256.png",
+  "character": "Reno",
+  "name": "Turk Bombshell",
+  "name_jp": "タークス特製爆弾",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group attacks (4.80 each), causes [Silence] (100%) and [Sleep] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (4.80 each), causes [Silence] (100%) and [Sleep] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (4.80 each), causes [Silence] (100%) and [Sleep] (100%)"
+    }
+  ]
+}

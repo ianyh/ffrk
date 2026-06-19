@@ -1,0 +1,30 @@
+{
+  "id": "20110064",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110064/20110064_256.png",
+  "character": "Cloud",
+  "name": "Thunderstrike",
+  "name_jp": "迅雷斬",
+  "tier": "AASB",
+  "sb_version": "AASB4",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks, grants Critical Damage Up, Cap Break Level 1, Quick Cast, and Awoken Samurai Mode to user\nAwoken Samurai Mode: Infinite Samurai Hones, Samurai Ability Boost (Medium), and Dualcast Samurai",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks, grants Critical Damage Up, Cap Break Level 1, Quick Cast, and Awoken Samurai Mode to user\nAwoken Samurai Mode: Infinite Samurai Hones, Samurai Ability Boost (Medium), and Dualcast Samurai"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks, grants Critical Damage Up, Cap Break Level 1, Quick Cast, and Awoken Samurai Mode to user\nAwoken Samurai Mode: Infinite Samurai Hones, Samurai Ability Boost (Medium), and Dualcast Samurai"
+    }
+  ]
+}

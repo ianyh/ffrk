@@ -1,0 +1,27 @@
+{
+  "id": "20110004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110004/20110004_256.png",
+  "character": "Cloud",
+  "name": "Blade Beam",
+  "name_jp": "破晄撃",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group ranged attacks (2.05 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.05 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.05 each)"
+    }
+  ]
+}

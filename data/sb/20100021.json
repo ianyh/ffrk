@@ -1,0 +1,27 @@
+{
+  "id": "20100021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100021/20100021_256.png",
+  "character": "Terra",
+  "name": "Illusory Flame",
+  "name_jp": "幻焔",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "22590030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590030/22590030_256.png",
+  "character": "Matoya",
+  "name": "Burst Break: Matoya (Break Arte)",
+  "name_jp": "烈破・マトーヤ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "I",
+  "elements": [
+    "Ice",
+    "NE",
+    "Lightning",
+    "NE",
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group attack (26.50) capped at 99,999 based on EnIce or EnLightning or EnFire. Grants [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (26.50) capped at 99,999 based on EnIce or EnLightning or EnFire. Grants [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (26.50) capped at 99,999 based on EnIce or EnLightning or EnFire. Grants [Instant ATB 1] to user."
+    }
+  ]
+}

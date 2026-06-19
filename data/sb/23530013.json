@@ -1,0 +1,27 @@
+{
+  "id": "23530013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530013/23530013_256.png",
+  "character": "Ravus",
+  "name": "Continuous Flash: Ravus",
+  "name_jp": "連閃・レイヴス",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Twin Element Mode II (Lightning, Dark)], [Soul Break Gauge +250], and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Lightning, Dark)], [Soul Break Gauge +250], and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Lightning, Dark)], [Soul Break Gauge +250], and [200% ATB 1] to the user"
+    }
+  ]
+}

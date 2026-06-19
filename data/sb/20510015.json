@@ -1,0 +1,27 @@
+{
+  "id": "20510015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510015/20510015_256.png",
+  "character": "Selphie",
+  "name": "Vivifying Dance",
+  "name_jp": "キュアーダンス",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Ice Quick Cast 4] to all allies, grants [Attach Ice], [Damage Cap +10000], [Synchro Mode] and [Cheerful Cohort Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Ice Quick Cast 4] to all allies, grants [Attach Ice], [Damage Cap +10000], [Synchro Mode] and [Cheerful Cohort Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Ice Quick Cast 4] to all allies, grants [Attach Ice], [Damage Cap +10000], [Synchro Mode] and [Cheerful Cohort Mode] to the user"
+    }
+  ]
+}

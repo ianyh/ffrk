@@ -1,0 +1,30 @@
+{
+  "id": "20410015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410015/20410015_256.png",
+  "character": "Irvine",
+  "name": "Armor Shot",
+  "name_jp": "アーマーショット",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Instant Cast 1] and [Critical Damage +50%] to all allies, grants [Awoken Fire], [Damage Cap +10000] and [Dark Ammo Shot Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Instant Cast 1] and [Critical Damage +50%] to all allies, grants [Awoken Fire], [Damage Cap +10000] and [Dark Ammo Shot Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Instant Cast 1] and [Critical Damage +50%] to all allies, grants [Awoken Fire], [Damage Cap +10000] and [Dark Ammo Shot Follow-Up] to the user"
+    }
+  ]
+}

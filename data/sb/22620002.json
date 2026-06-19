@@ -1,0 +1,30 @@
+{
+  "id": "22620002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620002/22620002_256.png",
+  "character": "Vayne",
+  "name": "Mach Wave",
+  "name_jp": "マッハウェイヴ",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group hybrid ranged attacks (1.15 or 2.78 each), grants [Instant Cast 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group hybrid ranged attacks (1.15 or 2.78 each), grants [Instant Cast 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group hybrid ranged attacks (1.15 or 2.78 each), grants [Instant Cast 1] to all allies"
+    }
+  ]
+}

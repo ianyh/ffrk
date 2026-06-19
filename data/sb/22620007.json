@@ -1,0 +1,30 @@
+{
+  "id": "22620007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620007/22620007_256.png",
+  "character": "Vayne",
+  "name": "Military Manifesto",
+  "name_jp": "親征の檄",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1], [ATK and DEF +50%] or [DEF and MAG +50%] for 25 seconds, [Attach Dark], [Awoken Darkness] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1], [ATK and DEF +50%] or [DEF and MAG +50%] for 25 seconds, [Attach Dark], [Awoken Darkness] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1], [ATK and DEF +50%] or [DEF and MAG +50%] for 25 seconds, [Attach Dark], [Awoken Darkness] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

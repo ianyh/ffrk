@@ -1,0 +1,29 @@
+{
+  "id": "20300003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300003/20300003_256.png",
+  "character": "Rinoa",
+  "name": "Angel Wing Quake",
+  "name_jp": "ヴァリー・烈震",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "VIII",
+  "elements": [
+    "Earth"
+  ],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Two group attacks (3.70 each), causes [Slow] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (3.70 each), causes [Slow] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (3.70 each), causes [Slow] (100%)"
+    }
+  ]
+}

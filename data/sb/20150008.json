@@ -1,0 +1,30 @@
+{
+  "id": "20150008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150008/20150008_256.png",
+  "character": "Wakka",
+  "name": "Dual Buster",
+  "name_jp": "デュアルバスター",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single ranged attacks (0.83 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.83 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.83 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

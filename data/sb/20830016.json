@@ -1,0 +1,30 @@
+{
+  "id": "20830016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830016/20830016_256.png",
+  "character": "Cid (VII)",
+  "name": "Radiant Dragon",
+  "name_jp": "耀光ドラゴンモッド",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Wind/NE jump attacks (0.90 each) at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Wind/NE jump attack (10.0) at True Cap Break Level 1, Instant Cast, Wind Damage +20% for 5 seconds to party, [Cap Break Level 1, Quick Wind, Dualcast Wind, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Wind/NE jump attacks (0.90 each) at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Wind/NE jump attack (10.0) at True Cap Break Level 1, Instant Cast, Wind Damage +20% for 5 seconds to party, [Cap Break Level 1, Quick Wind, Dualcast Wind, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Wind/NE jump attacks (0.90 each) at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Wind/NE jump attack (10.0) at True Cap Break Level 1, Instant Cast, Wind Damage +20% for 5 seconds to party, [Cap Break Level 1, Quick Wind, Dualcast Wind, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

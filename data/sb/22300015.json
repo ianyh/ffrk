@@ -1,0 +1,27 @@
+{
+  "id": "22300015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300015/22300015_256.png",
+  "character": "Sarah",
+  "name": "Dawn Song",
+  "name_jp": "はじまりの歌",
+  "tier": "USB",
+  "sb_version": "USB4",
+  "realm": "I",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (55), grants [Regenga] and [Quick Cast 3]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga] and [Quick Cast 3]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga] and [Quick Cast 3]"
+    }
+  ]
+}

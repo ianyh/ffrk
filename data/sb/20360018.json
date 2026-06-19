@@ -1,0 +1,31 @@
+{
+  "id": "20360018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360018/20360018_256.png",
+  "character": "Garnet",
+  "name": "Rendezvous Hour",
+  "name_jp": "再逢の刻",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IX",
+  "elements": [
+    "Holy",
+    "Lightning",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Conviction Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Conviction Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Conviction Mode] to the user"
+    }
+  ]
+}

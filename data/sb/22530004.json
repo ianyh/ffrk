@@ -1,0 +1,30 @@
+{
+  "id": "22530004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22530004/22530004_256.png",
+  "character": "Alphinaud",
+  "name": "Teraflare",
+  "name_jp": "テラフレア",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Dark"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Seven group attacks (2.30 each), grants [Attach Wind] and [Dreadwyrm Trance EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven group attacks (2.30 each), grants [Attach Wind] and [Dreadwyrm Trance EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven group attacks (2.30 each), grants [Attach Wind] and [Dreadwyrm Trance EX Mode] to the user"
+    }
+  ]
+}

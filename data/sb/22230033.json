@@ -1,0 +1,30 @@
+{
+  "id": "22230033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230033/22230033_256.png",
+  "character": "Desch",
+  "name": "War-Awoken Thundercall Blade (Weapon Skill)",
+  "name_jp": "戦醒召雷滅刃",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "III",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Lightning;\nWS Blue: Grants [Lv.2 En-Lightning Stack] to user\nWS Gold: Grants [Surging Power +30%] to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Lightning;\nWS Blue: Grants [Lv.2 En-Lightning Stack] to user\nWS Gold: Grants [Surging Power +30%] to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Lightning;\nWS Blue: Grants [Lv.2 En-Lightning Stack] to user\nWS Gold: Grants [Surging Power +30%] to party"
+    }
+  ]
+}

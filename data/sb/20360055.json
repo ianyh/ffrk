@@ -1,0 +1,30 @@
+{
+  "id": "20360055",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360055/20360055_256.png",
+  "character": "Garnet",
+  "name": "War-Awoken Bolt of Christmas Eve (Weapon Skill)",
+  "name_jp": "戦醒聖夜の祝雷",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Lightning/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Lightning\nWS Blue: Lv.2 En-Lightning Stack to user\nWS Gold: Tactical Awoken Mode, Instant Lightning & Cap Break Lebel 3 to Lightning Abilities to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Lightning/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Lightning\nWS Blue: Lv.2 En-Lightning Stack to user\nWS Gold: Tactical Awoken Mode, Instant Lightning & Cap Break Lebel 3 to Lightning Abilities to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Lightning/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Lightning\nWS Blue: Lv.2 En-Lightning Stack to user\nWS Gold: Tactical Awoken Mode, Instant Lightning & Cap Break Lebel 3 to Lightning Abilities to user"
+    }
+  ]
+}

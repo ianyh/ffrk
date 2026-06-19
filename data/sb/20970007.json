@@ -1,0 +1,27 @@
+{
+  "id": "20970007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970007/20970007_256.png",
+  "character": "Rikku",
+  "name": "Al Bhed Brew",
+  "name_jp": "アルベド強壮薬",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK and MAG +30%] for 25 seconds, grants [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds, grants [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds, grants [Instant Cast 2] to the user"
+    }
+  ]
+}

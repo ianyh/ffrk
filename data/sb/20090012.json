@@ -1,0 +1,29 @@
+{
+  "id": "20090012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090012/20090012_256.png",
+  "character": "Rydia",
+  "name": "Raging Giant",
+  "name_jp": "幻獣召喚・猛る巨人",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "IV",
+  "elements": [
+    "Earth"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.73 each), grants [Attach Earth], [Quick Cast] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Earth], [Quick Cast] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Earth], [Quick Cast] and [Brave Mode] to the user"
+    }
+  ]
+}

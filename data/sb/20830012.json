@@ -1,0 +1,30 @@
+{
+  "id": "20830012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830012/20830012_256.png",
+  "character": "Cid (VII)",
+  "name": "Dynamite Gale",
+  "name_jp": "ダイナマイトゲイル",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind with Stacking], [Awoken Dragoon], [Damage Cap +10000] and [Steadfast Pilot Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind with Stacking], [Awoken Dragoon], [Damage Cap +10000] and [Steadfast Pilot Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind with Stacking], [Awoken Dragoon], [Damage Cap +10000] and [Steadfast Pilot Mode] to the user"
+    }
+  ]
+}

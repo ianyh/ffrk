@@ -1,0 +1,30 @@
+{
+  "id": "20440038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440038/20440038_256.png",
+  "character": "Balthier",
+  "name": "War-Awoken Searing Prominence (Weapon Skill)",
+  "name_jp": "戦醒焦熱のプロミネンス",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing ranged attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities to user, and Weapon Skill Blue/Gold if the user has at least Lv. 0/2 Attach Fire\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: During Tactical Awoken Mode, Fire Ability Damage +40% & Instant Fire to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing ranged attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities to user, and Weapon Skill Blue/Gold if the user has at least Lv. 0/2 Attach Fire\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: During Tactical Awoken Mode, Fire Ability Damage +40% & Instant Fire to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing ranged attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire Abilities to user, and Weapon Skill Blue/Gold if the user has at least Lv. 0/2 Attach Fire\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: During Tactical Awoken Mode, Fire Ability Damage +40% & Instant Fire to user"
+    }
+  ]
+}

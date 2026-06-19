@@ -1,0 +1,30 @@
+{
+  "id": "22600005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22600005/22600005_256.png",
+  "character": "Fujin",
+  "name": "Into the Storm",
+  "name_jp": "我流・暴風圏突入",
+  "tier": "OSB",
+  "sb_version": "OSB1",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (37.50) capped at 99999, 42.50 multiplier if exploiting elemental weakness",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (37.50) capped at 99999, 42.50 multiplier if exploiting elemental weakness"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (37.50) capped at 99999, 42.50 multiplier if exploiting elemental weakness"
+    }
+  ]
+}

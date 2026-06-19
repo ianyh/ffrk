@@ -1,0 +1,30 @@
+{
+  "id": "22480005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22480005/22480005_256.png",
+  "character": "Ayame",
+  "name": "Hagakure Yukikaze",
+  "name_jp": "葉隠皆伝・雪風",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Ice], [High Retaliate] and [Critical Damage +50%] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Ice], [High Retaliate] and [Critical Damage +50%] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Ice], [High Retaliate] and [Critical Damage +50%] to the user"
+    }
+  ]
+}

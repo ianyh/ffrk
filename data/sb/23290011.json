@@ -1,0 +1,27 @@
+{
+  "id": "23290011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290011/23290011_256.png",
+  "character": "Tama",
+  "name": "Radiant Night Dream",
+  "name_jp": "耀光ナイトドリーム",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [MAG and MND +50% (25s)], [Haste], [Magical +30% Boost (15s)], and [Magical Quick Cast] to all allies, grants [Crystal Force Mode] and Crystal Force Mode: Tama to the user\nCrystal Force Mode: Tama: Quick Black Magic/White Magic & Zero Hone Cost to Black Magic/White Magic Abilities",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], [Haste], [Magical +30% Boost (15s)], and [Magical Quick Cast] to all allies, grants [Crystal Force Mode] and Crystal Force Mode: Tama to the user\nCrystal Force Mode: Tama: Quick Black Magic/White Magic & Zero Hone Cost to Black Magic/White Magic Abilities"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], [Haste], [Magical +30% Boost (15s)], and [Magical Quick Cast] to all allies, grants [Crystal Force Mode] and Crystal Force Mode: Tama to the user\nCrystal Force Mode: Tama: Quick Black Magic/White Magic & Zero Hone Cost to Black Magic/White Magic Abilities"
+    }
+  ]
+}

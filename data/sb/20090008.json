@@ -1,0 +1,30 @@
+{
+  "id": "20090008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090008/20090008_256.png",
+  "character": "Rydia",
+  "name": "Law of the Eidolons",
+  "name_jp": "幻獣界の掟",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Holy"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (1.99 each), minimum damage 1100, causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.99 each), minimum damage 1100, causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.99 each), minimum damage 1100, causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

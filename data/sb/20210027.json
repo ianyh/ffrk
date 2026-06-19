@@ -1,0 +1,27 @@
+{
+  "id": "20210027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210027/20210027_256.png",
+  "character": "Celes",
+  "name": "Awoken Indomitable Blade (Dual Shift)",
+  "name_jp": "覚醒華麗なる常勝の剣",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Invincible General Mode II (Celes - Holy)] to the user, removes Mode I from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Invincible General Mode II (Celes - Holy)] to the user, removes Mode I from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Invincible General Mode II (Celes - Holy)] to the user, removes Mode I from the user"
+    }
+  ]
+}

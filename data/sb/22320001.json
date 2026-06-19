@@ -1,0 +1,27 @@
+{
+  "id": "22320001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22320001/22320001_256.png",
+  "character": "Yda",
+  "name": "Twin Snake Dragon Kick",
+  "name_jp": "双竜脚双掌打",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (1.30 each), [DEF -50%] for 25 seconds, [ATK +30%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.30 each), [DEF -50%] for 25 seconds, [ATK +30%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.30 each), [DEF -50%] for 25 seconds, [ATK +30%] to all allies for 25 seconds"
+    }
+  ]
+}

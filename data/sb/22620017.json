@@ -1,0 +1,30 @@
+{
+  "id": "22620017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620017/22620017_256.png",
+  "character": "Vayne",
+  "name": "Inviolable Will",
+  "name_jp": "戒律",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single hybrid ranged attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Inviolable Will level 0/1/2, removes Arcane Dyad Empowered: Vayne from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid ranged attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Inviolable Will level 0/1/2, removes Arcane Dyad Empowered: Vayne from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid ranged attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Inviolable Will level 0/1/2, removes Arcane Dyad Empowered: Vayne from the user"
+    }
+  ]
+}

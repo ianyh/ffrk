@@ -1,0 +1,30 @@
+{
+  "id": "22570004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570004/22570004_256.png",
+  "character": "Cid (IV)",
+  "name": "Falcon Drill",
+  "name_jp": "ファルコン号ドリル",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

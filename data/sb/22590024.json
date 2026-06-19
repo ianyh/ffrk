@@ -1,0 +1,27 @@
+{
+  "id": "22590024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590024/22590024_256.png",
+  "character": "Matoya",
+  "name": "Fated Bond: Matoya",
+  "name_jp": "絆・マトーヤ天命",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Witch Limit Chain (150) & 50% Witch Field, grants [MAG +50%] & [Haste] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Witch Limit Chain (150) & 50% Witch Field, grants [MAG +50%] & [Haste] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Witch Limit Chain (150) & 50% Witch Field, grants [MAG +50%] & [Haste] to all allies"
+    }
+  ]
+}

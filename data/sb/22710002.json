@@ -1,0 +1,30 @@
+{
+  "id": "22710002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22710002/22710002_256.png",
+  "character": "Marach",
+  "name": "Hell's Wrath",
+  "name_jp": "裏天鼓雷音",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "FFT",
+  "elements": [
+    "Lightning",
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (2.13 each), [MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.13 each), [MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.13 each), [MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22150008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22150008/22150008_256.png",
+  "character": "Agrias",
+  "name": "Divine Devastation",
+  "name_jp": "聖光忠烈斬",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random attacks (0.67 each), causes [Imperil Holy 20%] for 25 seconds, grants [Divine Purge Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.67 each), causes [Imperil Holy 20%] for 25 seconds, grants [Divine Purge Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.67 each), causes [Imperil Holy 20%] for 25 seconds, grants [Divine Purge Follow-Up] to the user"
+    }
+  ]
+}

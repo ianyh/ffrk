@@ -1,0 +1,31 @@
+{
+  "id": "23510019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510019/23510019_256.png",
+  "character": "Alisaie",
+  "name": "Continuous Flash: Alisaie II",
+  "name_jp": "連閃・アリゼーII",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Six single attacks (2.60 each), grants [Soul Break Gauge +250] and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (2.60 each), grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (2.60 each), grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22050003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050003/22050003_256.png",
+  "character": "Beatrix",
+  "name": "Rose of May",
+  "name_jp": "ローズ・オブ・メイ",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (1.29 each), [DEF +50%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.29 each), [DEF +50%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.29 each), [DEF +50%] to all allies for 25 seconds"
+    }
+  ]
+}

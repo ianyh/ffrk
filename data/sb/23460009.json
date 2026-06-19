@@ -1,0 +1,27 @@
+{
+  "id": "23460009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460009/23460009_256.png",
+  "character": "Lunafreya",
+  "name": "Awoken Hydraean Protection (Dual Shift)",
+  "name_jp": "覚醒水神の加護",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Water God Mode II (Lunafreya)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Water God Mode II (Lunafreya)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Water God Mode II (Lunafreya)]"
+    }
+  ]
+}

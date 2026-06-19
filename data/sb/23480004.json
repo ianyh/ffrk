@@ -1,0 +1,27 @@
+{
+  "id": "23480004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23480004/23480004_256.png",
+  "character": "Fina",
+  "name": "Shining Cheer",
+  "name_jp": "シャイニングチアー",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Protect], [Shell] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22050007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050007/22050007_256.png",
+  "character": "Beatrix",
+  "name": "Sword of the Clear Mind",
+  "name_jp": "迷い断ちし剣",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "IX",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (0.84 each), grants [Attach Holy] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.84 each), grants [Attach Holy] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.84 each), grants [Attach Holy] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22570003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570003/22570003_256.png",
+  "character": "Cid (IV)",
+  "name": "Head of Steam",
+  "name_jp": "バイタリティ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "[ATK and DEF +15%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and DEF +15%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and DEF +15%] for 25 seconds"
+    }
+  ]
+}

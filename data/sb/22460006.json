@@ -1,0 +1,27 @@
+{
+  "id": "22460006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460006/22460006_256.png",
+  "character": "Onion Knight",
+  "name": "Forbidden Wisdom",
+  "name_jp": "封印されし禁断の叡智",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste] and [Magical Quick Cast 3], [MAG, RES and MND +30%] for 25 seconds, grants [Sage EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Magical Quick Cast 3], [MAG, RES and MND +30%] for 25 seconds, grants [Sage EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Magical Quick Cast 3], [MAG, RES and MND +30%] for 25 seconds, grants [Sage EX Mode] to the user"
+    }
+  ]
+}

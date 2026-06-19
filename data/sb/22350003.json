@@ -1,0 +1,27 @@
+{
+  "id": "22350003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350003/22350003_256.png",
+  "character": "Edward",
+  "name": "Whisperweed Ballad",
+  "name_jp": "ひそひ草ライブ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Causes [Imperil Holy 20%] for 25 seconds, [ATK +50%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Holy 20%] for 25 seconds, [ATK +50%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Holy 20%] for 25 seconds, [ATK +50%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

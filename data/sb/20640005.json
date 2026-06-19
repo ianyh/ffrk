@@ -1,0 +1,27 @@
+{
+  "id": "20640005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640005/20640005_256.png",
+  "character": "Tellah",
+  "name": "Sage's Sagacity",
+  "name_jp": "老賢者の叡智",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[MAG +30%] for 25 seconds, grants [Haste] and [Magical Quick Cast 3], grants [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds, grants [Haste] and [Magical Quick Cast 3], grants [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds, grants [Haste] and [Magical Quick Cast 3], grants [Burst Mode] to the user"
+    }
+  ]
+}

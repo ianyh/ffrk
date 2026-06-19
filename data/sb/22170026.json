@@ -1,0 +1,27 @@
+{
+  "id": "22170026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170026/22170026_256.png",
+  "character": "Vincent",
+  "name": "Elegy of Cerberus",
+  "name_jp": "ケルベロスエレジー",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Causes [Imperil Fire 20% (15s)], grants [Attach Fire] to the user, damages the user for 99% current HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Fire 20% (15s)], grants [Attach Fire] to the user, damages the user for 99% current HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Fire 20% (15s)], grants [Attach Fire] to the user, damages the user for 99% current HP"
+    }
+  ]
+}

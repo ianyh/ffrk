@@ -1,0 +1,30 @@
+{
+  "id": "22410009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410009/22410009_256.png",
+  "character": "Cid Raines",
+  "name": "Wings of Despair",
+  "name_jp": "絶望に染まる翼",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Dark] and [Darkness Double] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Dark] and [Darkness Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Dark] and [Darkness Double] to the user"
+    }
+  ]
+}

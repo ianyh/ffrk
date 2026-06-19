@@ -1,0 +1,31 @@
+{
+  "id": "20930033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930033/20930033_256.png",
+  "character": "Faris",
+  "name": "Pirate Slash",
+  "name_jp": "パイレーツスラッシュ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode III (Fire, Wind)], [Synchro Mode], [Damage Cap +10000] and [Sweltering Wind Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode III (Fire, Wind)], [Synchro Mode], [Damage Cap +10000] and [Sweltering Wind Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode III (Fire, Wind)], [Synchro Mode], [Damage Cap +10000] and [Sweltering Wind Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20280009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280009/20280009_256.png",
+  "character": "Gordon",
+  "name": "Kashuan Royal Shield",
+  "name_jp": "カシュオーンの王盾",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [High Quick Cast 3], grants [Awoken Sovereign] and [Beloved Homeland Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3], grants [Awoken Sovereign] and [Beloved Homeland Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3], grants [Awoken Sovereign] and [Beloved Homeland Follow-Up] to the user"
+    }
+  ]
+}

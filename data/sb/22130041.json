@@ -1,0 +1,30 @@
+{
+  "id": "22130041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130041/22130041_256.png",
+  "character": "Leila",
+  "name": "Roaring Poison Sting",
+  "name_jp": "轟・Pスティング",
+  "tier": "ASB",
+  "sb_version": "ASB2",
+  "realm": "II",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Poison Ability High Boost & chases 1/2/3+ Poison abilities with Poison Ability Damage +10/20/30% to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Poison Ability High Boost & chases 1/2/3+ Poison abilities with Poison Ability Damage +10/20/30% to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Poison Ability High Boost & chases 1/2/3+ Poison abilities with Poison Ability Damage +10/20/30% to user"
+    }
+  ]
+}

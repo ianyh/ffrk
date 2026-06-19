@@ -1,0 +1,30 @@
+{
+  "id": "22450005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450005/22450005_256.png",
+  "character": "Noel",
+  "name": "Hunter's Rimefang",
+  "name_jp": "狩人の凍牙",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ]
+}

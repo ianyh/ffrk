@@ -1,0 +1,27 @@
+{
+  "id": "23310001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310001/23310001_256.png",
+  "character": "Biggs",
+  "name": "Dispel Slash",
+  "name_jp": "オレ様流・デスペル斬",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Core",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (2.00), removes positive effects",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.00), removes positive effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.00), removes positive effects"
+    }
+  ]
+}

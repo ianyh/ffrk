@@ -1,0 +1,27 @@
+{
+  "id": "22390010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390010/22390010_256.png",
+  "character": "Ovelia",
+  "name": "Fleeting Thoughts",
+  "name_jp": "儚き想い",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Last Stand] and [DEF, RES and MND +50% (25s)], grants [Awoken Love] and [Soul Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [DEF, RES and MND +50% (25s)], grants [Awoken Love] and [Soul Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [DEF, RES and MND +50% (25s)], grants [Awoken Love] and [Soul Break Gauge +250] to the user"
+    }
+  ]
+}

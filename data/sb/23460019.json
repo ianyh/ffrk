@@ -1,0 +1,31 @@
+{
+  "id": "23460019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460019/23460019_256.png",
+  "character": "Lunafreya",
+  "name": "Radiant Power of the Kaminagi",
+  "name_jp": "耀光神凪の力",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XV",
+  "elements": [
+    "Water",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Water/Holy/NE summon magic attacks at Cap Break Level 1, En-Water, En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Summoning/White Magic Ability Boost, Dualcast Summoning/White Magic, Zero Hone Cost to Summoning/White Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Water/Holy/NE summon magic attacks at Cap Break Level 1, Instant Cast, Water Ability Damage +30% for 1 turn to party, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Water/Holy/NE summon magic attacks at Cap Break Level 1, En-Water, En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Summoning/White Magic Ability Boost, Dualcast Summoning/White Magic, Zero Hone Cost to Summoning/White Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Water/Holy/NE summon magic attacks at Cap Break Level 1, Instant Cast, Water Ability Damage +30% for 1 turn to party, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Water/Holy/NE summon magic attacks at Cap Break Level 1, En-Water, En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Summoning/White Magic Ability Boost, Dualcast Summoning/White Magic, Zero Hone Cost to Summoning/White Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Water/Holy/NE summon magic attacks at Cap Break Level 1, Instant Cast, Water Ability Damage +30% for 1 turn to party, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

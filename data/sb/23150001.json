@@ -1,0 +1,27 @@
+{
+  "id": "23150001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23150001/23150001_256.png",
+  "character": "Alma",
+  "name": "Sacred Barrier",
+  "name_jp": "聖魔法マバリア",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste], [Protect], [Shell], [High Regen], [Astra] and [Reraise: 40%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [Protect], [Shell], [High Regen], [Astra] and [Reraise: 40%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [Protect], [Shell], [High Regen], [Astra] and [Reraise: 40%]"
+    }
+  ]
+}

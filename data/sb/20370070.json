@@ -1,0 +1,30 @@
+{
+  "id": "20370070",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370070/20370070_256.png",
+  "character": "Vivi",
+  "name": "War-Awoken Black Mage's Fire Memory (Weapon Skill)",
+  "name_jp": "戦醒黒魔道士の記憶・炎",
+  "tier": "TASB",
+  "sb_version": "TASB3",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (31.00) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire Ability +50% Boost (Tactical)], [Fire 142% ATB Quick Cycle (Tactical)] to user if Level 2+ EnFire, grants [Attach Fire 2 with Stacking] to user if not.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire Ability +50% Boost (Tactical)], [Fire 142% ATB Quick Cycle (Tactical)] to user if Level 2+ EnFire, grants [Attach Fire 2 with Stacking] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire Ability +50% Boost (Tactical)], [Fire 142% ATB Quick Cycle (Tactical)] to user if Level 2+ EnFire, grants [Attach Fire 2 with Stacking] to user if not."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22490028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490028/22490028_256.png",
+  "character": "Leo",
+  "name": "Woven Bond: Leo (Earth)",
+  "name_jp": "紡絆・レオ将軍地",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VI",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Earth/NE physical attacks at Cap Break Level 1, activates Earth Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Earth abilities, chases with 6 single-target Earth/NE physical attacks (max 2 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Earth/NE physical attacks at Cap Break Level 1, activates Earth Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Earth abilities, chases with 6 single-target Earth/NE physical attacks (max 2 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Earth/NE physical attacks at Cap Break Level 1, activates Earth Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Earth abilities, chases with 6 single-target Earth/NE physical attacks (max 2 chases)"
+    }
+  ]
+}

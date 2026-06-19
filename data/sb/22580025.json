@@ -1,0 +1,32 @@
+{
+  "id": "22580025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580025/22580025_256.png",
+  "character": "Master",
+  "name": "Roaring Warring Struggle",
+  "name_jp": "轟・力戦奮闘",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "I",
+  "elements": [
+    "Earth",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Earth/Fire/Lightning/NE physical attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth/Fire/Lightning Ability High Boost & Instant Earth/Fire/Lightning",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/Fire/Lightning/NE physical attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth/Fire/Lightning Ability High Boost & Instant Earth/Fire/Lightning"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/Fire/Lightning/NE physical attacks, Instant Cast, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth/Fire/Lightning Ability High Boost & Instant Earth/Fire/Lightning"
+    }
+  ]
+}

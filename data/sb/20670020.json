@@ -1,0 +1,29 @@
+{
+  "id": "20670020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670020/20670020_256.png",
+  "character": "Zell",
+  "name": "Dolphin Kick",
+  "name_jp": "ドルフィンキック",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "VIII",
+  "elements": [
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

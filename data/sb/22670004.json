@@ -1,0 +1,30 @@
+{
+  "id": "22670004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670004/22670004_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Wide-Angle Particle Beam",
+  "name_jp": "広角式 波動砲",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Seven group attacks (2.10 each), [MAG and RES +30%] to all allies for 25 seconds, grants [Attach Dark] and [Lightning Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven group attacks (2.10 each), [MAG and RES +30%] to all allies for 25 seconds, grants [Attach Dark] and [Lightning Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven group attacks (2.10 each), [MAG and RES +30%] to all allies for 25 seconds, grants [Attach Dark] and [Lightning Follow-Up] to the user"
+    }
+  ]
+}

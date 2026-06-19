@@ -1,0 +1,30 @@
+{
+  "id": "20110019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110019/20110019_256.png",
+  "character": "Cloud",
+  "name": "Mako Abyss",
+  "name_jp": "魔晄の深淵",
+  "tier": "Glint",
+  "sb_version": "Glint2",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (0.52 each), grants [Attach Dark Stacking] and [Attach Dark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Dark Stacking] and [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Dark Stacking] and [Attach Dark] to the user"
+    }
+  ]
+}

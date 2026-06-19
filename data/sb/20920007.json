@@ -1,0 +1,29 @@
+{
+  "id": "20920007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920007/20920007_256.png",
+  "character": "Reno",
+  "name": "Pyramid Pinnacle",
+  "name_jp": "ピラミッド・マキシマム",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VII",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ]
+}

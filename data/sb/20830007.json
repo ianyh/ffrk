@@ -1,0 +1,30 @@
+{
+  "id": "20830007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830007/20830007_256.png",
+  "character": "Cid (VII)",
+  "name": "Dragon Dive",
+  "name_jp": "ドラゴンダイヴ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged jump attacks (0.80 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.80 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.80 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ]
+}

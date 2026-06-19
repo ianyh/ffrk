@@ -1,0 +1,30 @@
+{
+  "id": "22890023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890023/22890023_256.png",
+  "character": "Zeid",
+  "name": "War-Awoken Crescent Moon (Weapon Skill)",
+  "name_jp": "戦醒クレセントムーン",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, with Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark\nWS Blue: Lv.3 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Dark Ability Damage +50%, Quick Dark & 250 SB Points to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, with Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark\nWS Blue: Lv.3 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Dark Ability Damage +50%, Quick Dark & 250 SB Points to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, with Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark\nWS Blue: Lv.3 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Dark Ability Damage +50%, Quick Dark & 250 SB Points to user"
+    }
+  ]
+}

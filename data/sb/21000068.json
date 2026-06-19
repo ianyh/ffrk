@@ -1,0 +1,27 @@
+{
+  "id": "21000068",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000068/21000068_256.png",
+  "character": "-",
+  "name": "First Aid",
+  "name_jp": "応急処置",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (35)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (35)"
+    }
+  ]
+}

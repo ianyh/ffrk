@@ -1,0 +1,30 @@
+{
+  "id": "22290006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290006/22290006_256.png",
+  "character": "Echo",
+  "name": "Echoing Mischief",
+  "name_jp": "エコーのいたずら",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "I",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (2.32 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.32 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.32 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

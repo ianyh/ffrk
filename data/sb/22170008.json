@@ -1,0 +1,30 @@
+{
+  "id": "22170008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170008/22170008_256.png",
+  "character": "Vincent",
+  "name": "Flame Penalty",
+  "name_jp": "フレイムペナルティ",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single hybrid ranged attacks (0.83 or 1.88 each), grants [Fire Radiant Shield: 75%] to all allies, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single hybrid ranged attacks (0.83 or 1.88 each), grants [Fire Radiant Shield: 75%] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single hybrid ranged attacks (0.83 or 1.88 each), grants [Fire Radiant Shield: 75%] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

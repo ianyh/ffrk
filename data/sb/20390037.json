@@ -1,0 +1,31 @@
+{
+  "id": "20390037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390037/20390037_256.png",
+  "character": "Fran",
+  "name": "War-Awoken Mist Flash (Weapon Skill)",
+  "name_jp": "戦醒ミストエクレール",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XII",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Ice/Lightning/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Ice/Lightning\nWS Blue: Imperil Ice/Lightning 30% to all enemies\nWS Gold: DeProtect 20% to all enemies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/Lightning/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Ice/Lightning\nWS Blue: Imperil Ice/Lightning 30% to all enemies\nWS Gold: DeProtect 20% to all enemies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/Lightning/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice/Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Ice/Lightning\nWS Blue: Imperil Ice/Lightning 30% to all enemies\nWS Gold: DeProtect 20% to all enemies"
+    }
+  ]
+}

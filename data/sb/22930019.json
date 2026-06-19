@@ -1,0 +1,33 @@
+{
+  "id": "22930019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930019/22930019_256.png",
+  "character": "Gogo (VI)",
+  "name": "War-Awoken Sketch Mimicry Dragonking (Weapon Skill)",
+  "name_jp": "戦醒ものまね絵画・竜王",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Wind",
+    "Earth",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Fire/Ice/Wind/Earth/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Wind/Earth Abilities, and Weapon Skill Blue/Gold if there are 0-1/2+ members with Attach Fire/Ice/Wind/Earth allies\nWS Blue: Dualcast Fire/Ice/Wind/Earth 3, Instant Fire/Ice/Wind/Earth 3 & Weakness Damage +30% for 3 turns\nWS Gold: During Tactical Awoken Mode, chases ally's Fire/Ice/Wind/Earth ability with Mimic 2 to user (max 4 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/Ice/Wind/Earth/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Wind/Earth Abilities, and Weapon Skill Blue/Gold if there are 0-1/2+ members with Attach Fire/Ice/Wind/Earth allies\nWS Blue: Dualcast Fire/Ice/Wind/Earth 3, Instant Fire/Ice/Wind/Earth 3 & Weakness Damage +30% for 3 turns\nWS Gold: During Tactical Awoken Mode, chases ally's Fire/Ice/Wind/Earth ability with Mimic 2 to user (max 4 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Fire/Ice/Wind/Earth/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Wind/Earth Abilities, and Weapon Skill Blue/Gold if there are 0-1/2+ members with Attach Fire/Ice/Wind/Earth allies\nWS Blue: Dualcast Fire/Ice/Wind/Earth 3, Instant Fire/Ice/Wind/Earth 3 & Weakness Damage +30% for 3 turns\nWS Gold: During Tactical Awoken Mode, chases ally's Fire/Ice/Wind/Earth ability with Mimic 2 to user (max 4 chases)"
+    }
+  ]
+}

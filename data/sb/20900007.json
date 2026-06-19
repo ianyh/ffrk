@@ -1,0 +1,27 @@
+{
+  "id": "20900007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900007/20900007_256.png",
+  "character": "Mog",
+  "name": "Wind Rhapsody (VI)",
+  "name_jp": "風のラプソディ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "[MAG and MND +50%] for 25 seconds, grants [Haste] and [Magical Quick Cast] to all allies, grants [Awoken Rhapsody] and [Fevered Rhapsody Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG and MND +50%] for 25 seconds, grants [Haste] and [Magical Quick Cast] to all allies, grants [Awoken Rhapsody] and [Fevered Rhapsody Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG and MND +50%] for 25 seconds, grants [Haste] and [Magical Quick Cast] to all allies, grants [Awoken Rhapsody] and [Fevered Rhapsody Follow-Up] to the user"
+    }
+  ]
+}

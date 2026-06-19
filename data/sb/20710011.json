@@ -1,0 +1,30 @@
+{
+  "id": "20710011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710011/20710011_256.png",
+  "character": "Ashe",
+  "name": "Northswain's Bolt",
+  "name_jp": "北斗雷迅斬",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000] and [Lightning Slash Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000] and [Lightning Slash Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000] and [Lightning Slash Follow-Up] to the user"
+    }
+  ]
+}

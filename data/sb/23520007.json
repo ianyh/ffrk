@@ -1,0 +1,27 @@
+{
+  "id": "23520007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23520007/23520007_256.png",
+  "character": "Ardyn",
+  "name": "Guardian Ifrit",
+  "name_jp": "Gイフリート",
+  "tier": "LBGS",
+  "sb_version": "LBGS1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Summons Ifrit for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Fire 3 with Stacking] and [Damage Cap +20000] to Ifrit",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Summons Ifrit for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Fire 3 with Stacking] and [Damage Cap +20000] to Ifrit"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Summons Ifrit for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Fire 3 with Stacking] and [Damage Cap +20000] to Ifrit"
+    }
+  ]
+}

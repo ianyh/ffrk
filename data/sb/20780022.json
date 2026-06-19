@@ -1,0 +1,30 @@
+{
+  "id": "20780022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780022/20780022_256.png",
+  "character": "Setzer",
+  "name": "The Blackjack Soars",
+  "name_jp": "闇を駆けるカジノ船",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [Imperil Dark 20% (25s)], grants [Awoken High Roller Mode], [Damage Cap +10000], [Ton 80 Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Dark 20% (25s)], grants [Awoken High Roller Mode], [Damage Cap +10000], [Ton 80 Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Dark 20% (25s)], grants [Awoken High Roller Mode], [Damage Cap +10000], [Ton 80 Follow-Up] to the user"
+    }
+  ]
+}

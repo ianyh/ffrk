@@ -1,0 +1,27 @@
+{
+  "id": "23050005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23050005/23050005_256.png",
+  "character": "Montblanc",
+  "name": "100% Wool",
+  "name_jp": "ウール100％",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ Tactics allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and Antilaws +1 to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ Tactics allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and Antilaws +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ Tactics allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and Antilaws +1 to the user"
+    }
+  ]
+}

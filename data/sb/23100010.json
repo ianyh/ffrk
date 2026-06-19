@@ -1,0 +1,27 @@
+{
+  "id": "23100010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100010/23100010_256.png",
+  "character": "Queen",
+  "name": "Sudden Shift",
+  "name_jp": "賢女豹変",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Lightning Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Lightning 20% (15s)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Lightning 20% (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Lightning 20% (15s)]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23200006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200006/23200006_256.png",
+  "character": "Ignis",
+  "name": "Sage's Hellfire",
+  "name_jp": "賢者の業火",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and +3 Components to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and +3 Components to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and +3 Components to the user"
+    }
+  ]
+}

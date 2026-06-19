@@ -1,0 +1,27 @@
+{
+  "id": "22210031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210031/22210031_256.png",
+  "character": "Palom",
+  "name": "Fated Bond: Palom",
+  "name_jp": "絆・パロム天命",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Mage I Limit Chain (150) & 50% Mage I Field, MAG +50% & Haste to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Mage I Limit Chain (150) & 50% Mage I Field, MAG +50% & Haste to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Mage I Limit Chain (150) & 50% Mage I Field, MAG +50% & Haste to party"
+    }
+  ]
+}

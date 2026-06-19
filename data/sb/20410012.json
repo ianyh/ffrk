@@ -1,0 +1,30 @@
+{
+  "id": "20410012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410012/20410012_256.png",
+  "character": "Irvine",
+  "name": "Hyper Ignition",
+  "name_jp": "ハイパーイグニッション",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Fire with Stacking] and [Hyper Ignition] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Fire with Stacking] and [Hyper Ignition] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Fire with Stacking] and [Hyper Ignition] to the user"
+    }
+  ]
+}

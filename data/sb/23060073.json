@@ -1,0 +1,38 @@
+{
+  "id": "23060073",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060073/23060073_256.png",
+  "character": "Dr. Mog",
+  "name": "Rainbow Magic",
+  "name_jp": "レインボーマジック",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Conditional Attach Element with Stacking From Party], [Synchro Mode], [Damage Cap +10000] and [Rainbow Magic] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Conditional Attach Element with Stacking From Party], [Synchro Mode], [Damage Cap +10000] and [Rainbow Magic] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Conditional Attach Element with Stacking From Party], [Synchro Mode], [Damage Cap +10000] and [Rainbow Magic] to the user"
+    }
+  ]
+}

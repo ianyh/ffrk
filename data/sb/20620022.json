@@ -1,0 +1,27 @@
+{
+  "id": "20620022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620022/20620022_256.png",
+  "character": "Eiko",
+  "name": "Guardian Madeen",
+  "name_jp": "Gマディーン",
+  "tier": "LBGS",
+  "sb_version": "LBGS1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Summons Madeen for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Madeen",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Summons Madeen for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Madeen"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Summons Madeen for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Madeen"
+    }
+  ]
+}

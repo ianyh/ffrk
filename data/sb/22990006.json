@@ -1,0 +1,31 @@
+{
+  "id": "22990006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990006/22990006_256.png",
+  "character": "Kiros",
+  "name": "Exotic Impact",
+  "name_jp": "エキゾチックインパクト",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000] and [Blood Energy] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000] and [Blood Energy] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000] and [Blood Energy] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20860013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860013/20860013_256.png",
+  "character": "Zidane",
+  "name": "Aerial Ace",
+  "name_jp": "エアマスター",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
+    }
+  ]
+}

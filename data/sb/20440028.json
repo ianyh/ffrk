@@ -1,0 +1,30 @@
+{
+  "id": "20440028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440028/20440028_256.png",
+  "character": "Balthier",
+  "name": "Flames of Disaster",
+  "name_jp": "劫火のカタストロフィ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Intrinsic Pirate Mode] and [Need for Speed Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Intrinsic Pirate Mode] and [Need for Speed Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Intrinsic Pirate Mode] and [Need for Speed Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "22580027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580027/22580027_256.png",
+  "character": "Master",
+  "name": "War-Awoken Skyshatter Kick (Weapon Skill)",
+  "name_jp": "戦醒蒼天一蹴",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "I",
+  "elements": [
+    "Earth",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth/Fire/Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Earth/Fire/Lightning;\nWS Blue: Grants [Lv.2 En-Earth/Fire/Lightning Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Earth/Fire/Lightning Abilities] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth/Fire/Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Earth/Fire/Lightning;\nWS Blue: Grants [Lv.2 En-Earth/Fire/Lightning Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Earth/Fire/Lightning Abilities] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth/Fire/Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Earth/Fire/Lightning;\nWS Blue: Grants [Lv.2 En-Earth/Fire/Lightning Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Earth/Fire/Lightning Abilities] to user"
+    }
+  ]
+}

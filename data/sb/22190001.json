@@ -1,0 +1,29 @@
+{
+  "id": "22190001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22190001/22190001_256.png",
+  "character": "Shantotto",
+  "name": "Freeze",
+  "name_jp": "フリーズ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XI",
+  "elements": [
+    "Ice"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group attack (2.00)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (2.00)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (2.00)"
+    }
+  ]
+}

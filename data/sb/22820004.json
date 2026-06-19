@@ -1,0 +1,27 @@
+{
+  "id": "22820004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820004/22820004_256.png",
+  "character": "Shelke",
+  "name": "Countertek",
+  "name_jp": "テクニカルキャンセル",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Removes positive effects, removes negative effects to all allies, grants [High Regen] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes positive effects, removes negative effects to all allies, grants [High Regen] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes positive effects, removes negative effects to all allies, grants [High Regen] to all allies"
+    }
+  ]
+}

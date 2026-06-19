@@ -1,0 +1,30 @@
+{
+  "id": "20310017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310017/20310017_256.png",
+  "character": "Snow",
+  "name": "A Dream Revealed",
+  "name_jp": "俺がみせた夢",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

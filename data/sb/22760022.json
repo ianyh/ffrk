@@ -1,0 +1,30 @@
+{
+  "id": "22760022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760022/22760022_256.png",
+  "character": "Nabaat",
+  "name": "My Next Awakening",
+  "name_jp": "次に目覚める時は",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "15 single-target Dark/NE magic attacks, Magic Damage +30% to party, Lv.3 En-Dark, En-Dark Stack, Sync Mode & Cap Break Level 1 to user\nAttack (Dark): 6 single-target Dark/NE magic attacks, higher multiplier if exploiting weakness, Quick Cast 1 to user\nDefend (Dark): 3 single-target Dark/NE magic attacks, 0.825s CT, Quick Cast 1 to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Dark/NE magic attacks, Magic Damage +30% to party, Lv.3 En-Dark, En-Dark Stack, Sync Mode & Cap Break Level 1 to user\nAttack (Dark): 6 single-target Dark/NE magic attacks, higher multiplier if exploiting weakness, Quick Cast 1 to user\nDefend (Dark): 3 single-target Dark/NE magic attacks, 0.825s CT, Quick Cast 1 to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Dark/NE magic attacks, Magic Damage +30% to party, Lv.3 En-Dark, En-Dark Stack, Sync Mode & Cap Break Level 1 to user\nAttack (Dark): 6 single-target Dark/NE magic attacks, higher multiplier if exploiting weakness, Quick Cast 1 to user\nDefend (Dark): 3 single-target Dark/NE magic attacks, 0.825s CT, Quick Cast 1 to party"
+    }
+  ]
+}

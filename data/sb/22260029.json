@@ -1,0 +1,30 @@
+{
+  "id": "22260029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260029/22260029_256.png",
+  "character": "Serah",
+  "name": "Apex Transcendent Arrow",
+  "name_jp": "時を超える旅",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "XIII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Transcendent Arrow level 0/1/2, removes Arcane Dyad Empowered: Serah (Water) from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Transcendent Arrow level 0/1/2, removes Arcane Dyad Empowered: Serah (Water) from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Transcendent Arrow level 0/1/2, removes Arcane Dyad Empowered: Serah (Water) from the user"
+    }
+  ]
+}

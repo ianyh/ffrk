@@ -1,0 +1,30 @@
+{
+  "id": "22140010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22140010/22140010_256.png",
+  "character": "Ramza",
+  "name": "Seeker of Truth",
+  "name_jp": "真探る傭兵",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [High Quick Cast 1], [Attach Holy] and [Seeker of Truth] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [High Quick Cast 1], [Attach Holy] and [Seeker of Truth] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [High Quick Cast 1], [Attach Holy] and [Seeker of Truth] to the user"
+    }
+  ]
+}

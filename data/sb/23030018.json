@@ -1,0 +1,30 @@
+{
+  "id": "23030018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030018/23030018_256.png",
+  "character": "Ursula",
+  "name": "Woven Bond: Ursula",
+  "name_jp": "紡絆・アーシュラ",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Ursula] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Ursula] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Ursula] and [Instant ATB 1] to the user"
+    }
+  ]
+}

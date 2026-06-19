@@ -1,0 +1,27 @@
+{
+  "id": "22720026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720026/22720026_256.png",
+  "character": "Ceodore",
+  "name": "Awoken Twin Rush (Dual Shift)",
+  "name_jp": "覚醒ツインラッシュ",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with Holy Ability Damage +30% to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with Holy Ability Damage +30% to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with Holy Ability Damage +30% to user"
+    }
+  ]
+}

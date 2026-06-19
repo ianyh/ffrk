@@ -1,0 +1,30 @@
+{
+  "id": "22870004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870004/22870004_256.png",
+  "character": "Rubicante",
+  "name": "Point-Blank Inferno",
+  "name_jp": "零距離かえんりゅう",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IV",
+  "elements": [
+    "Fire",
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), causes [Imperil Fire 20%], grants [Attach Fire] and [Quick Cast 3] to the user, grants [Fire Radiant Shield: 75%] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), causes [Imperil Fire 20%], grants [Attach Fire] and [Quick Cast 3] to the user, grants [Fire Radiant Shield: 75%] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), causes [Imperil Fire 20%], grants [Attach Fire] and [Quick Cast 3] to the user, grants [Fire Radiant Shield: 75%] to all allies"
+    }
+  ]
+}

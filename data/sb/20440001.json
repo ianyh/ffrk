@@ -1,0 +1,27 @@
+{
+  "id": "20440001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440001/20440001_256.png",
+  "character": "Balthier",
+  "name": "Fires of War",
+  "name_jp": "略奪のコンパス",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "XII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group ranged attack (1.10)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (1.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (1.10)"
+    }
+  ]
+}

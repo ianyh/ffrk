@@ -1,0 +1,30 @@
+{
+  "id": "22260013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260013/22260013_256.png",
+  "character": "Serah",
+  "name": "Aquatic Strike",
+  "name_jp": "ストライクウォータ",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "XIII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Water], [Aquatic Strike] and [Rain Arrow Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Water], [Aquatic Strike] and [Rain Arrow Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Water], [Aquatic Strike] and [Rain Arrow Follow-Up] to the user"
+    }
+  ]
+}

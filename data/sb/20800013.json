@@ -1,0 +1,30 @@
+{
+  "id": "20800013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800013/20800013_256.png",
+  "character": "Ingus",
+  "name": "Knight's Assault",
+  "name_jp": "ナイツアサルト",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "III",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Escort Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Escort Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Escort Mode] to the user"
+    }
+  ]
+}

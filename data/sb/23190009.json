@@ -1,0 +1,27 @@
+{
+  "id": "23190009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190009/23190009_256.png",
+  "character": "Cinque",
+  "name": "Earth Raiment (Cinque)",
+  "name_jp": "地装【シンク】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Attach Earth]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth]"
+    }
+  ]
+}

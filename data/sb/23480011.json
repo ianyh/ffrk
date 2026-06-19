@@ -1,0 +1,27 @@
+{
+  "id": "23480011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23480011/23480011_256.png",
+  "character": "Fina",
+  "name": "Awoken Radiant Blessing (Dual Shift)",
+  "name_jp": "デュアルシフト",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Lotus Mode II (Fina)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lotus Mode II (Fina)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lotus Mode II (Fina)] to the user"
+    }
+  ]
+}

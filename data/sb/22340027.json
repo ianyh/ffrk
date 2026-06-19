@@ -1,0 +1,30 @@
+{
+  "id": "22340027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340027/22340027_256.png",
+  "character": "Yang",
+  "name": "Burst Break: Yang (Break Arte)",
+  "name_jp": "烈破・ヤン",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group Overflow attack, grants Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group Overflow attack, grants Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group Overflow attack, grants Instant ATB 1 to user"
+    }
+  ]
+}

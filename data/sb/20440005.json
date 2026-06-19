@@ -1,0 +1,29 @@
+{
+  "id": "20440005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440005/20440005_256.png",
+  "character": "Balthier",
+  "name": "Gatling Gun",
+  "name_jp": "魔審銃",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XII",
+  "elements": [
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random ranged attacks (0.75 each), causes [Blind] (30%), grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.75 each), causes [Blind] (30%), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.75 each), causes [Blind] (30%), grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

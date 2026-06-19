@@ -1,0 +1,30 @@
+{
+  "id": "23360020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360020/23360020_256.png",
+  "character": "Eight",
+  "name": "Divine Might: Eight",
+  "name_jp": "神威・エイト",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice abilities on allies/5+ Ice abilities on allies and 2+ allies with Attach Ice",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice abilities on allies/5+ Ice abilities on allies and 2+ allies with Attach Ice"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (2.6/2.8/2.9/3.0 each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (11.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice abilities on allies/5+ Ice abilities on allies and 2+ allies with Attach Ice"
+    }
+  ]
+}

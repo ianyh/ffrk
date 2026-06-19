@@ -1,0 +1,27 @@
+{
+  "id": "23060074",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060074/23060074_256.png",
+  "character": "Dr. Mog",
+  "name": "Royal Resourcefulness",
+  "name_jp": "歴史省秘技「臨機応変」",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Conditional Attach Element From Party] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Conditional Attach Element From Party] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Conditional Attach Element From Party] and [High Quick Cast 1]"
+    }
+  ]
+}

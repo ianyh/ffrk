@@ -1,0 +1,27 @@
+{
+  "id": "20730027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730027/20730027_256.png",
+  "character": "Fusoya",
+  "name": "Starry Lunarian Fury",
+  "name_jp": "極星月の民の怒り",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "",
+  "lensable": false,
+  "effects": "Holy Damage +5% to party, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE white magic attacks, Holy Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/NE white magic attack at True Cap Break Level 1, Holy Damage +30% for 1 turn to party, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Holy Damage +5% to party, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE white magic attacks, Holy Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/NE white magic attack at True Cap Break Level 1, Holy Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Holy Damage +5% to party, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE white magic attacks, Holy Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/NE white magic attack at True Cap Break Level 1, Holy Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23110018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23110018/23110018_256.png",
+  "character": "Haurchefant",
+  "name": "Zenith Royal Authority",
+  "name_jp": "究極ロイヤルアソリティ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIV",
+  "elements": [
+    "Holy",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20%, Physical Casting Speed x1.1 & chases 2 Knight abilities with Weakness Damage +30% for 3 turns to user/party with at least 0/4 Knight/XIV members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Knight, Higher Multiplier & Zero Hone Cost to Hero Ability; Fortemps Blade+: Higher multiplier & Cap Break Level 1 after 3 uses; Circle of Scorn+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20%, Physical Casting Speed x1.1 & chases 2 Knight abilities with Weakness Damage +30% for 3 turns to user/party with at least 0/4 Knight/XIV members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Knight, Higher Multiplier & Zero Hone Cost to Hero Ability; Fortemps Blade+: Higher multiplier & Cap Break Level 1 after 3 uses; Circle of Scorn+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20%, Physical Casting Speed x1.1 & chases 2 Knight abilities with Weakness Damage +30% for 3 turns to user/party with at least 0/4 Knight/XIV members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Knight, Higher Multiplier & Zero Hone Cost to Hero Ability; Fortemps Blade+: Higher multiplier & Cap Break Level 1 after 3 uses; Circle of Scorn+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

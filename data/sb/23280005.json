@@ -1,0 +1,27 @@
+{
+  "id": "23280005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280005/23280005_256.png",
+  "character": "Enna Kros",
+  "name": "Grymoire's Grace",
+  "name_jp": "グリモワルの加護",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Smart ether 1",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Smart ether 1"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Smart ether 1"
+    }
+  ]
+}

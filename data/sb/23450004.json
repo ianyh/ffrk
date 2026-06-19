@@ -1,0 +1,29 @@
+{
+  "id": "23450004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450004/23450004_256.png",
+  "character": "Serafie",
+  "name": "Wind Rhapsody",
+  "name_jp": "かぜのラプソディ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "Beyond",
+  "elements": [
+    "Wind"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.73 each), grants [Buff Wind 10% (15s)] to all allies, grants [Attach Wind] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Buff Wind 10% (15s)] to all allies, grants [Attach Wind] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Buff Wind 10% (15s)] to all allies, grants [Attach Wind] and [Brave Mode] to the user"
+    }
+  ]
+}

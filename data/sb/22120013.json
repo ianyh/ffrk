@@ -1,0 +1,27 @@
+{
+  "id": "22120013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120013/22120013_256.png",
+  "character": "Minwu",
+  "name": "Holy Raiment (Minwu)",
+  "name_jp": "聖装【ミンウ】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Attach Holy]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy]"
+    }
+  ]
+}

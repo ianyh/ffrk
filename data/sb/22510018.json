@@ -1,0 +1,75 @@
+{
+  "id": "22510018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22510018/22510018_256.png",
+  "character": "Dorgann",
+  "name": "Zenith Blade Lore",
+  "name_jp": "究極剣技伝承",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, causes [DEF, RES and MND -50% (8s)], grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Dorgann]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (? each) capped at 19999, causes [DEF, RES and MND -50% (8s)], grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Dorgann]"
+    },
+    {
+      "name": "Zenith Mode: Dorgann",
+      "text": "Increases [Earth Infusion] damage bonus by 20%, cast speed x1.10 for PHY attacks, Earth abilities trigger 1 additional time, casts Spirit Attack: Dorgann after using two Earth abilities (max 3), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode], "
+    },
+    {
+      "name": "Brotherhood of the Dawn+",
+      "text": "Six single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Seal Guardian+",
+      "text": "Four single attacks (? each), grants [Knight Quick Cast 2] to the user"
+    },
+    {
+      "name": "Spirit Attack: Dorgann",
+      "text": "Grants [Buff Earth 10% (5s)] to all allies, and causes [DEF, RES and MND -50% (8s)]/[DEF, RES and MND -70% (8s)] to the target if there are 0-1/2-3 of Kelger, Galuf, and Xezat in the party and [Imperil Earth 10% (5s)] to the target if all three of Kelger, Galuf, and Xezat are in the party "
+    },
+    {
+      "name": "DEF, RES and MND -50% (8s)",
+      "text": "DEF, RES and MND -50%"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (? each) capped at 19999, causes [DEF, RES and MND -50% (8s)], grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Dorgann]"
+    },
+    {
+      "name": "Brotherhood of the Dawn+",
+      "text": "Six single attacks (? each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Seal Guardian+",
+      "text": "Four single attacks (? each), grants [Knight Quick Cast 2] to the user"
+    },
+    {
+      "name": "Spirit Attack: Dorgann",
+      "text": "Grants [Buff Earth 10% (5s)] to all allies, and causes [DEF, RES and MND -50% (8s)]/[DEF, RES and MND -70% (8s)] to the target if there are 0-1/2-3 of Kelger, Galuf, and Xezat in the party and [Imperil Earth 10% (5s)] to the target if all three of Kelger, Galuf, and Xezat are in the party "
+    }
+  ]
+}

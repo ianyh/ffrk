@@ -1,0 +1,27 @@
+{
+  "id": "20720028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720028/20720028_256.png",
+  "character": "Strago",
+  "name": "Awoken Lore (Dual Shift)",
+  "name_jp": "覚醒覚えた技",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Strago)] to the user, removes [Dual Awoken Water Mode I (Strago)] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Strago)] to the user, removes [Dual Awoken Water Mode I (Strago)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Strago)] to the user, removes [Dual Awoken Water Mode I (Strago)] from the user"
+    }
+  ]
+}

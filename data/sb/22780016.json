@@ -1,0 +1,27 @@
+{
+  "id": "22780016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780016/22780016_256.png",
+  "character": "Cid (XIV)",
+  "name": "Awoken Rapid Shot (Dual Shift)",
+  "name_jp": "覚醒ラピッドショット",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Fire/Earth/Wind/Poison Ability Boost, Instant Fire/Earth/Wind/Poison & chases a Fire/Earth/Wind/Poison ability with D Legendary Engineer Mode to user\nD Legendary Engineer Mode: Every ? seconds, chases with 4 single-target Fire/Earth/Wind/Poison/NE ranged physical attacks (0.60 each) + minor Imperil Fire/Earth/Wind/Poison for 5 seconds; After 3 chases, chases with single-target Fire/Earth/Wind/Poison/NE ranged physical attack (3.36 each) capped at 99999, removes D Legendary Engineer Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Fire/Earth/Wind/Poison Ability Boost, Instant Fire/Earth/Wind/Poison & chases a Fire/Earth/Wind/Poison ability with D Legendary Engineer Mode to user\nD Legendary Engineer Mode: Every ? seconds, chases with 4 single-target Fire/Earth/Wind/Poison/NE ranged physical attacks (0.60 each) + minor Imperil Fire/Earth/Wind/Poison for 5 seconds; After 3 chases, chases with single-target Fire/Earth/Wind/Poison/NE ranged physical attack (3.36 each) capped at 99999, removes D Legendary Engineer Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Fire/Earth/Wind/Poison Ability Boost, Instant Fire/Earth/Wind/Poison & chases a Fire/Earth/Wind/Poison ability with D Legendary Engineer Mode to user\nD Legendary Engineer Mode: Every ? seconds, chases with 4 single-target Fire/Earth/Wind/Poison/NE ranged physical attacks (0.60 each) + minor Imperil Fire/Earth/Wind/Poison for 5 seconds; After 3 chases, chases with single-target Fire/Earth/Wind/Poison/NE ranged physical attack (3.36 each) capped at 99999, removes D Legendary Engineer Mode"
+    }
+  ]
+}

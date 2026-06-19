@@ -1,0 +1,27 @@
+{
+  "id": "22730006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730006/22730006_256.png",
+  "character": "Gogo (V)",
+  "name": "Secret Revelation?",
+  "name_jp": "極意伝道？",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Water Chain (max 150, field +50%), [MAG +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Water Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Water Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
+    }
+  ]
+}

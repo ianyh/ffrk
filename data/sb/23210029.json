@@ -1,0 +1,30 @@
+{
+  "id": "23210029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23210029/23210029_256.png",
+  "character": "Elarra",
+  "name": "Woven Bond: Elarra",
+  "name_jp": "紡絆・ウララ",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "Core",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Holy/NE white magic attacks at Cap Break Level 1, activates Core/Beyond Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Bard/Dancer abilities, grants Quick Cast 1 to party (max 2 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Holy/NE white magic attacks at Cap Break Level 1, activates Core/Beyond Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Bard/Dancer abilities, grants Quick Cast 1 to party (max 2 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Holy/NE white magic attacks at Cap Break Level 1, activates Core/Beyond Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Bard/Dancer abilities, grants Quick Cast 1 to party (max 2 chases)"
+    }
+  ]
+}

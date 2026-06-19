@@ -1,0 +1,30 @@
+{
+  "id": "23220001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220001/23220001_256.png",
+  "character": "Barbariccia",
+  "name": "Whirlwind",
+  "name_jp": "たつまき",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IV",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Wind] and [Fair Wind Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Wind] and [Fair Wind Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Wind] and [Fair Wind Follow-Up] to the user"
+    }
+  ]
+}

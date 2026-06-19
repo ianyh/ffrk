@@ -1,0 +1,27 @@
+{
+  "id": "22930002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930002/22930002_256.png",
+  "character": "Gogo (VI)",
+  "name": "Maw of the Beast",
+  "name_jp": "ゾーンイーターすいこみ",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Seven group hybrid attacks (0.83 or 2.00 each), restores HP to all allies for 40% of their maximum HP, removes negative effects to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven group hybrid attacks (0.83 or 2.00 each), restores HP to all allies for 40% of their maximum HP, removes negative effects to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven group hybrid attacks (0.83 or 2.00 each), restores HP to all allies for 40% of their maximum HP, removes negative effects to all allies"
+    }
+  ]
+}

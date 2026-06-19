@@ -1,0 +1,30 @@
+{
+  "id": "20820007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820007/20820007_256.png",
+  "character": "Seifer",
+  "name": "Forbidden Fellslash",
+  "name_jp": "禁忌・鬼斬り",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Seven single attacks (0.94~1.50 each scaling with HP%), grants [Attach Dark] to the user, restores HP to the user for 70% of their maximum HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.94~1.50 each scaling with HP%), grants [Attach Dark] to the user, restores HP to the user for 70% of their maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.94~1.50 each scaling with HP%), grants [Attach Dark] to the user, restores HP to the user for 70% of their maximum HP"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22210016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210016/22210016_256.png",
+  "character": "Palom",
+  "name": "Awoken Tri-Disaster (Dual Shift)",
+  "name_jp": "覚醒トライディザスター",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Palom)], removes [Dual Awoken Black Magic Mode I (Palom)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Palom)], removes [Dual Awoken Black Magic Mode I (Palom)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Palom)], removes [Dual Awoken Black Magic Mode I (Palom)]"
+    }
+  ]
+}

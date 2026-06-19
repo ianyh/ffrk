@@ -1,0 +1,27 @@
+{
+  "id": "22270032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270032/22270032_256.png",
+  "character": "Braska",
+  "name": "War-Awoken Devoted Summon Flamebeast",
+  "name_jp": "戦醒祈理召喚・炎獣",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Braska], [MAG +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Braska], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Braska], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23330006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23330006/23330006_256.png",
+  "character": "Orran",
+  "name": "Celestial Fate",
+  "name_jp": "天球の運命",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    }
+  ]
+}

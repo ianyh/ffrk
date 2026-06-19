@@ -1,0 +1,27 @@
+{
+  "id": "22460002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460002/22460002_256.png",
+  "character": "Onion Knight",
+  "name": "Onion Slice",
+  "name_jp": "オニオンスライス",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "8/9/10/11 single attacks (0.82 each) at 140/175/190 SPD, [DEF and RES -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "8/9/10/11 single attacks (0.82 each) at 140/175/190 SPD, [DEF and RES -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "8/9/10/11 single attacks (0.82 each) at 140/175/190 SPD, [DEF and RES -50%] for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23150009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23150009/23150009_256.png",
+  "character": "Alma",
+  "name": "Sister's Prayer",
+  "name_jp": "修道女の祈り",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Protect], [Shell] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23450002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450002/23450002_256.png",
+  "character": "Serafie",
+  "name": "Silent Voice",
+  "name_jp": "サイレントヴォイス",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Wind Radiant Shield: 75%] to all allies, grants [Attach Wind], [Awoken Wind] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Wind Radiant Shield: 75%] to all allies, grants [Attach Wind], [Awoken Wind] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Wind Radiant Shield: 75%] to all allies, grants [Attach Wind], [Awoken Wind] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

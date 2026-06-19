@@ -1,0 +1,27 @@
+{
+  "id": "22900015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900015/22900015_256.png",
+  "character": "Gladiolus",
+  "name": "Awoken Tempest (Dual Shift)",
+  "name_jp": "覚醒テンペスト",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Gladiolus)], removes [Dual Awoken Earth Mode I (Gladiolus)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Gladiolus)], removes [Dual Awoken Earth Mode I (Gladiolus)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Gladiolus)], removes [Dual Awoken Earth Mode I (Gladiolus)]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "21000063",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000063/21000063_256.png",
+  "character": "-",
+  "name": "Purging Light",
+  "name_jp": "解放の光",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Removes positive effects",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes positive effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes positive effects"
+    }
+  ]
+}

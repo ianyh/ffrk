@@ -1,0 +1,27 @@
+{
+  "id": "20320012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320012/20320012_256.png",
+  "character": "Vanille",
+  "name": "Need for Speed",
+  "name_jp": "エンスピード",
+  "tier": "Glint",
+  "sb_version": "Glint2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste], grants [Quick Cast 3] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], grants [Quick Cast 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], grants [Quick Cast 3] to the user"
+    }
+  ]
+}

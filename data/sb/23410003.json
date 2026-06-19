@@ -1,0 +1,31 @@
+{
+  "id": "23410003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23410003/23410003_256.png",
+  "character": "Axel",
+  "name": "Wild Dance",
+  "name_jp": "乱舞",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "KH",
+  "elements": [
+    "Fire",
+    "Wind",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single ranged hybrid attacks (0.70 or 1.68 each), grants [Attach Fire], [Quick Cast 1], [Fire Quick Cycle] and [Firetooth Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged hybrid attacks (0.70 or 1.68 each), grants [Attach Fire], [Quick Cast 1], [Fire Quick Cycle] and [Firetooth Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged hybrid attacks (0.70 or 1.68 each), grants [Attach Fire], [Quick Cast 1], [Fire Quick Cycle] and [Firetooth Follow-Up] to the user"
+    }
+  ]
+}

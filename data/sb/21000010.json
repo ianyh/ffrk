@@ -1,0 +1,27 @@
+{
+  "id": "21000010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000010/21000010_256.png",
+  "character": "-",
+  "name": "Meteorite",
+  "name_jp": "隕石",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group attack (3.30)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.30)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.30)"
+    }
+  ]
+}

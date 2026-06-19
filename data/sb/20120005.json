@@ -1,0 +1,27 @@
+{
+  "id": "20120005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20120005/20120005_256.png",
+  "character": "Aerith",
+  "name": "Dragon Force",
+  "name_jp": "ドラゴンフォース",
+  "tier": "SB",
+  "sb_version": "SB3",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Physical Blink 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1]"
+    }
+  ]
+}

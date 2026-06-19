@@ -1,0 +1,27 @@
+{
+  "id": "20540001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20540001/20540001_256.png",
+  "character": "Sabin",
+  "name": "Raging Fist",
+  "name_jp": "爆裂拳",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (1.50)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50)"
+    }
+  ]
+}

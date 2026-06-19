@@ -1,0 +1,29 @@
+{
+  "id": "20130016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20130016/20130016_256.png",
+  "character": "Tidus",
+  "name": "Quick Rush",
+  "name_jp": "クイック＆ラッシュ",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "X",
+  "elements": [
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.72 each), grants [Attach Water], [Quick Cast] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.72 each), grants [Attach Water], [Quick Cast] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.72 each), grants [Attach Water], [Quick Cast] and [Brave Mode] to the user"
+    }
+  ]
+}

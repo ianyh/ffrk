@@ -1,0 +1,27 @@
+{
+  "id": "20650028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650028/20650028_256.png",
+  "character": "Galuf",
+  "name": "Indestructible Hero",
+  "name_jp": "不滅の烈士",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Soul Break Gauge +500]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ]
+}

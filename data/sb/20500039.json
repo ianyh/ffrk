@@ -1,0 +1,27 @@
+{
+  "id": "20500039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500039/20500039_256.png",
+  "character": "Quistis",
+  "name": "Awoken Mixed Breath (Dual Shift)",
+  "name_jp": "覚醒ミックスブレス",
+  "tier": "DASB",
+  "sb_version": "DASB3",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Instructor Mode II to user\nDual Awoken Instructor Mode II: Water/Poison Ability Boost, Instant Water/Poison & chases a Water/Poison ability with Water/Poison Ability Damage +30% for 3 turns to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Instructor Mode II to user\nDual Awoken Instructor Mode II: Water/Poison Ability Boost, Instant Water/Poison & chases a Water/Poison ability with Water/Poison Ability Damage +30% for 3 turns to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Instructor Mode II to user\nDual Awoken Instructor Mode II: Water/Poison Ability Boost, Instant Water/Poison & chases a Water/Poison ability with Water/Poison Ability Damage +30% for 3 turns to party"
+    }
+  ]
+}

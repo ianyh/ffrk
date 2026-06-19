@@ -1,0 +1,27 @@
+{
+  "id": "20300027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300027/20300027_256.png",
+  "character": "Rinoa",
+  "name": "Sublime Sorcery",
+  "name_jp": "昇華されし魔女の力",
+  "tier": "Glint+",
+  "sb_version": "Glint+3",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Damage Cap +10000] and [Weakness +30% Boost 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Damage Cap +10000] and [Weakness +30% Boost 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Damage Cap +10000] and [Weakness +30% Boost 2]"
+    }
+  ]
+}

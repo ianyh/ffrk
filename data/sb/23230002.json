@@ -1,0 +1,30 @@
+{
+  "id": "23230002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230002/23230002_256.png",
+  "character": "Ultimecia",
+  "name": "True Maelstrom",
+  "name_jp": "真・メイルシュトローム",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (1.88 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ]
+}

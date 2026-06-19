@@ -1,0 +1,38 @@
+{
+  "id": "22070042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070042/22070042_256.png",
+  "character": "Kefka",
+  "name": "Burst Break: Kefka (Poison) (Break Arte)",
+  "name_jp": "烈破・ケフカ毒",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kefka (Poison)], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kefka (Poison)], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kefka (Poison)], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking]."
+    }
+  ]
+}

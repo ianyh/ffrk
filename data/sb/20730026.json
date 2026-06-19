@@ -1,0 +1,27 @@
+{
+  "id": "20730026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730026/20730026_256.png",
+  "character": "Fusoya",
+  "name": "Continuous Flash: Fusoya (Holy)",
+  "name_jp": "連閃・フースーヤ聖",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Holy with Stacking], [Instant ATB 1], and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], [Instant ATB 1], and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], [Instant ATB 1], and [Instant Cast 1]"
+    }
+  ]
+}

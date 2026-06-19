@@ -1,0 +1,30 @@
+{
+  "id": "22940002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940002/22940002_256.png",
+  "character": "Scott",
+  "name": "Ring of Love",
+  "name_jp": "愛のリング",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "II",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (1.27 each), restores HP to all allies for 40% of their maximum HP",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.27 each), restores HP to all allies for 40% of their maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.27 each), restores HP to all allies for 40% of their maximum HP"
+    }
+  ]
+}

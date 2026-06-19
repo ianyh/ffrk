@@ -1,0 +1,31 @@
+{
+  "id": "22490024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490024/22490024_256.png",
+  "character": "Leo",
+  "name": "General's Blade",
+  "name_jp": "ジェネラルブレード",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VI",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Instant Cast 1], [Soul Break Gauge +250], [Damage Cap +10000], [Awoken Imperial General] and [Imperial General Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Instant Cast 1], [Soul Break Gauge +250], [Damage Cap +10000], [Awoken Imperial General] and [Imperial General Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Instant Cast 1], [Soul Break Gauge +250], [Damage Cap +10000], [Awoken Imperial General] and [Imperial General Follow-Up] to the user"
+    }
+  ]
+}

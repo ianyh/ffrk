@@ -1,0 +1,35 @@
+{
+  "id": "23600004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23600004/23600004_256.png",
+  "character": "Joshua",
+  "name": "Zenith Firaga (XVI)",
+  "name_jp": "究極ファイガ【XVI】",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XVI",
+  "elements": [
+    "Fire",
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks, grants [Blessing of the Phoenix] to party, grants [Attach Fire 3 with Stacking], Cap Break Level 1, Ultimate Mode to user\nBlessing of the Phoenix: When HP falls below 50%, HP Recovery, [Fire Ability Damage +50%, Dualcast Fire, Instant ATB & Instant Cast] for 1 turn to user, removes Blessing of the Phoenix\nUltimate Spirit Mode: En-Fire Damage +20% & Black/White Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Black Magic/White Magic, Higher Multiplier & Zero Hone Cost to Hero Ability; Firaga (XVI)+: Higher multiplier & Cap Break Level 1 after 3 uses; Curaga (XVI)+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks, grants [Blessing of the Phoenix] to party, grants [Attach Fire 3 with Stacking], Cap Break Level 1, Ultimate Mode to user\nBlessing of the Phoenix: When HP falls below 50%, HP Recovery, [Fire Ability Damage +50%, Dualcast Fire, Instant ATB & Instant Cast] for 1 turn to user, removes Blessing of the Phoenix\nUltimate Spirit Mode: En-Fire Damage +20% & Black/White Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Black Magic/White Magic, Higher Multiplier & Zero Hone Cost to Hero Ability; Firaga (XVI)+: Higher multiplier & Cap Break Level 1 after 3 uses; Curaga (XVI)+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks, grants [Blessing of the Phoenix] to party, grants [Attach Fire 3 with Stacking], Cap Break Level 1, Ultimate Mode to user\nBlessing of the Phoenix: When HP falls below 50%, HP Recovery, [Fire Ability Damage +50%, Dualcast Fire, Instant ATB & Instant Cast] for 1 turn to user, removes Blessing of the Phoenix\nUltimate Spirit Mode: En-Fire Damage +20% & Black/White Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Black Magic/White Magic, Higher Multiplier & Zero Hone Cost to Hero Ability; Firaga (XVI)+: Higher multiplier & Cap Break Level 1 after 3 uses; Curaga (XVI)+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

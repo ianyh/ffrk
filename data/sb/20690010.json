@@ -1,0 +1,30 @@
+{
+  "id": "20690010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690010/20690010_256.png",
+  "character": "Auron",
+  "name": "Lost Arts",
+  "name_jp": "奥伝",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), grants [Attach Fire], [Lingering Flame Finisher] and [Friend's Promise 0] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Fire], [Lingering Flame Finisher] and [Friend's Promise 0] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Fire], [Lingering Flame Finisher] and [Friend's Promise 0] to the user"
+    }
+  ]
+}

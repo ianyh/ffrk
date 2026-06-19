@@ -1,0 +1,31 @@
+{
+  "id": "20370021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370021/20370021_256.png",
+  "character": "Vivi",
+  "name": "Icebolt Advent",
+  "name_jp": "氷雷の訪れ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IX",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Twin Element Mode III (Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Icebolt Advent] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode III (Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Icebolt Advent] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode III (Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Icebolt Advent] to the user"
+    }
+  ]
+}

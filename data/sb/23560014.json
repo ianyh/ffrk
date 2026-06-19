@@ -1,0 +1,30 @@
+{
+  "id": "23560014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560014/23560014_256.png",
+  "character": "Ultros",
+  "name": "Woven Bond: Ultros (Poison)",
+  "name_jp": "紡絆・オルトロス毒",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Poison/NE ranged hybrid attacks at Cap Break Level 1, activates Poison Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Poison ability, grants Poison Damage +20% for 5 seconds to party (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Poison/NE ranged hybrid attacks at Cap Break Level 1, activates Poison Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Poison ability, grants Poison Damage +20% for 5 seconds to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Poison/NE ranged hybrid attacks at Cap Break Level 1, activates Poison Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Poison ability, grants Poison Damage +20% for 5 seconds to party (max 1 chase)"
+    }
+  ]
+}

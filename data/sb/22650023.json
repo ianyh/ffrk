@@ -1,0 +1,30 @@
+{
+  "id": "22650023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650023/22650023_256.png",
+  "character": "Lann",
+  "name": "Burst Break: Lann (Break Arte)",
+  "name_jp": "烈破・ラァン",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "?",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One group Overflow ranged hybrid attack, grants Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group Overflow ranged hybrid attack, grants Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group Overflow ranged hybrid attack, grants Instant ATB 1 to user"
+    }
+  ]
+}

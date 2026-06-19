@@ -1,0 +1,27 @@
+{
+  "id": "20570037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570037/20570037_256.png",
+  "character": "Steiner",
+  "name": "Continuous Flash: Steiner",
+  "name_jp": "連閃・スタイナー",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Instant ATB 1], [Instant Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Instant ATB 1], [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Instant ATB 1], [Instant Cast 2]"
+    }
+  ]
+}

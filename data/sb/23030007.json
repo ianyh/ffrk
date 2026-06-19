@@ -1,0 +1,31 @@
+{
+  "id": "23030007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030007/23030007_256.png",
+  "character": "Ursula",
+  "name": "Fist Flourish",
+  "name_jp": "拳華",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [100% Critical (25s)], [Awoken Monk], [Damage Cap +10000] and [Answer the Call Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [100% Critical (25s)], [Awoken Monk], [Damage Cap +10000] and [Answer the Call Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [100% Critical (25s)], [Awoken Monk], [Damage Cap +10000] and [Answer the Call Follow-Up] to the user"
+    }
+  ]
+}

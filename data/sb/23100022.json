@@ -1,0 +1,31 @@
+{
+  "id": "23100022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100022/23100022_256.png",
+  "character": "Queen",
+  "name": "Mana Demesne",
+  "name_jp": "エナジークイーン",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.53 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s) Custom Param] and [Queen Trance] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.53 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s) Custom Param] and [Queen Trance] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.53 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s) Custom Param] and [Queen Trance] to the user"
+    }
+  ]
+}

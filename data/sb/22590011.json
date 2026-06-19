@@ -1,0 +1,32 @@
+{
+  "id": "22590011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590011/22590011_256.png",
+  "character": "Matoya",
+  "name": "Cauldron Chant",
+  "name_jp": "秘薬の呪文",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "I",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quartz Eye Mode III (Fire, Ice, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire, Ice, Lightning Ability +15% Boost 1] and [Dualcast Witch 1]/[Fire, Ice, Lightning Ability +30% Boost 1] and [Dualcast Witch 1]/[Fire, Ice, Lightning Ability +30% Boost 3] and [Dualcast Witch 3] to the user if 0-1/2-3/4+ FF1 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quartz Eye Mode III (Fire, Ice, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire, Ice, Lightning Ability +15% Boost 1] and [Dualcast Witch 1]/[Fire, Ice, Lightning Ability +30% Boost 1] and [Dualcast Witch 1]/[Fire, Ice, Lightning Ability +30% Boost 3] and [Dualcast Witch 3] to the user if 0-1/2-3/4+ FF1 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quartz Eye Mode III (Fire, Ice, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire, Ice, Lightning Ability +15% Boost 1] and [Dualcast Witch 1]/[Fire, Ice, Lightning Ability +30% Boost 1] and [Dualcast Witch 1]/[Fire, Ice, Lightning Ability +30% Boost 3] and [Dualcast Witch 3] to the user if 0-1/2-3/4+ FF1 allies are alive"
+    }
+  ]
+}

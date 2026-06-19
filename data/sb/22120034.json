@@ -1,0 +1,30 @@
+{
+  "id": "22120034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120034/22120034_256.png",
+  "character": "Minwu",
+  "name": "War-Awoken Otherworld of Heaven (Weapon Skill)",
+  "name_jp": "戦醒天命の異空間",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Holy;\nWS Blue: Grants [Lv.2 En-Holy Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Holy Ability Damage +60%] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Holy;\nWS Blue: Grants [Lv.2 En-Holy Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Holy Ability Damage +60%] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Holy Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Holy;\nWS Blue: Grants [Lv.2 En-Holy Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Holy Ability Damage +60%] to user"
+    }
+  ]
+}

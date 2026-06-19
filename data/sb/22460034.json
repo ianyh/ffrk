@@ -1,0 +1,27 @@
+{
+  "id": "22460034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460034/22460034_256.png",
+  "character": "Onion Knight",
+  "name": "Awoken Firaga (Dual Shift)",
+  "name_jp": "覚醒ファイガ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Onion Knight (Fire))], removes [Dual Awoken Black Magic Mode I (Onion Knight (Fire))]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Onion Knight (Fire))], removes [Dual Awoken Black Magic Mode I (Onion Knight (Fire))]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Onion Knight (Fire))], removes [Dual Awoken Black Magic Mode I (Onion Knight (Fire))]"
+    }
+  ]
+}

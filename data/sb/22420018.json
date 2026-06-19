@@ -1,0 +1,27 @@
+{
+  "id": "22420018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22420018/22420018_256.png",
+  "character": "Paine",
+  "name": "Maulwings Flurry",
+  "name_jp": "カモン！フロリー",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Water with Stacking] and [Spellblade Quick Cast]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water with Stacking] and [Spellblade Quick Cast]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water with Stacking] and [Spellblade Quick Cast]"
+    }
+  ]
+}

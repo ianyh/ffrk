@@ -1,0 +1,30 @@
+{
+  "id": "23140013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140013/23140013_256.png",
+  "character": "Thief (I)",
+  "name": "Woven Bond: Thief (I)",
+  "name_jp": "紡絆・シーフ(I)",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "I",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Poison/NE if the user has any Attach Poison, activates I Chain (max 150, field +0%) or adds 25 to the current I Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Thief (I)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Poison/NE if the user has any Attach Poison, activates I Chain (max 150, field +0%) or adds 25 to the current I Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Thief (I)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Poison/NE if the user has any Attach Poison, activates I Chain (max 150, field +0%) or adds 25 to the current I Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Thief (I)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

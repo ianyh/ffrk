@@ -1,0 +1,30 @@
+{
+  "id": "20730031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730031/20730031_256.png",
+  "character": "Fusoya",
+  "name": "War-Awoken Lunarian Hope (Weapon Skill)",
+  "name_jp": "戦醒月の民の希望",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Holy/NE piercing white magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least 0/40% Imperil Holy\nWS Blue: Imperil Holy 30% to all enemies\nWS Gold: DeShell 20% to all enemies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing white magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least 0/40% Imperil Holy\nWS Blue: Imperil Holy 30% to all enemies\nWS Gold: DeShell 20% to all enemies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing white magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least 0/40% Imperil Holy\nWS Blue: Imperil Holy 30% to all enemies\nWS Gold: DeShell 20% to all enemies"
+    }
+  ]
+}

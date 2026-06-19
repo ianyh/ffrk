@@ -1,0 +1,31 @@
+{
+  "id": "22950010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22950010/22950010_256.png",
+  "character": "Meliadoul",
+  "name": "Shatter Accessory",
+  "name_jp": "剛剣・咬撃氷狼破",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode II (Earth, Holy) v2], [Awoken Knight], [Damage Cap +10000], [Reequip Mode], [Reequip Mode Critical Chance] and [Shatter Accessory] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode II (Earth, Holy) v2], [Awoken Knight], [Damage Cap +10000], [Reequip Mode], [Reequip Mode Critical Chance] and [Shatter Accessory] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode II (Earth, Holy) v2], [Awoken Knight], [Damage Cap +10000], [Reequip Mode], [Reequip Mode Critical Chance] and [Shatter Accessory] to the user"
+    }
+  ]
+}

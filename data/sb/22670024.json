@@ -1,0 +1,27 @@
+{
+  "id": "22670024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670024/22670024_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Awoken Anti-air Particle Beam (Dual Shift)",
+  "name_jp": "覚醒高射式 波動砲",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Cloud of Darkness)], removes [Dual Awoken Dark Mode I (Cloud of Darkness)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Cloud of Darkness)], removes [Dual Awoken Dark Mode I (Cloud of Darkness)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Cloud of Darkness)], removes [Dual Awoken Dark Mode I (Cloud of Darkness)]"
+    }
+  ]
+}

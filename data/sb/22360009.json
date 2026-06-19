@@ -1,0 +1,30 @@
+{
+  "id": "22360009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360009/22360009_256.png",
+  "character": "Shantotto",
+  "name": "Chain Thunder Play",
+  "name_jp": "ブチ切れ連続サンダー",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XI",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Federation Blackblood Mode], [Play Rough Mode] and [40% Damage Reduction Barrier 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Federation Blackblood Mode], [Play Rough Mode] and [40% Damage Reduction Barrier 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Federation Blackblood Mode], [Play Rough Mode] and [40% Damage Reduction Barrier 1] to the user"
+    }
+  ]
+}

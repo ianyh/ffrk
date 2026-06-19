@@ -1,0 +1,27 @@
+{
+  "id": "20930045",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930045/20930045_256.png",
+  "character": "Faris",
+  "name": "Super Flash (Faris)",
+  "name_jp": "超閃【ファリス】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Wind or Fire ability, grants Wind or Fire Ability Damage +30% for 1 turn & Quick Cast 1 to party (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Wind or Fire ability, grants Wind or Fire Ability Damage +30% for 1 turn & Quick Cast 1 to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Wind or Fire ability, grants Wind or Fire Ability Damage +30% for 1 turn & Quick Cast 1 to party (max 1 chase)"
+    }
+  ]
+}

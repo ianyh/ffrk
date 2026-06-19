@@ -1,0 +1,31 @@
+{
+  "id": "22670015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670015/22670015_256.png",
+  "character": "Cloud of Darkness",
+  "name": "High-Speed Particle Beam",
+  "name_jp": "急襲式 波動砲",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF3 allies are alive, grants [High Quick Cast 1] to all allies if 4+ FF3 allies are alive, grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF3 allies are alive, grants [High Quick Cast 1] to all allies if 4+ FF3 allies are alive, grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF3 allies are alive, grants [High Quick Cast 1] to all allies if 4+ FF3 allies are alive, grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

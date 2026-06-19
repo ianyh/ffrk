@@ -1,0 +1,27 @@
+{
+  "id": "23150002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23150002/23150002_256.png",
+  "character": "Alma",
+  "name": "Wisdom of Orbonne",
+  "name_jp": "オーボンヌの聖智",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Magical Blink 1], grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Magical Blink 1], grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Magical Blink 1], grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

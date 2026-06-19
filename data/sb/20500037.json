@@ -1,0 +1,30 @@
+{
+  "id": "20500037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500037/20500037_256.png",
+  "character": "Quistis",
+  "name": "Radiant Abyss Time",
+  "name_jp": "耀光奈落の時間",
+  "tier": "CASB",
+  "sb_version": "CASB2",
+  "realm": "VIII",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Quistis (Poison)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Quistis (Poison)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Quistis (Poison)]"
+    }
+  ]
+}

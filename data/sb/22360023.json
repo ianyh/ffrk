@@ -1,0 +1,30 @@
+{
+  "id": "22360023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360023/22360023_256.png",
+  "character": "Shantotto",
+  "name": "Woven Bond: Shantotto (Lightning)",
+  "name_jp": "紡絆・シャントット雷",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "XI",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit, grants [Chain Force Mode: Shantotto (Lightning)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit, grants [Chain Force Mode: Shantotto (Lightning)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit, grants [Chain Force Mode: Shantotto (Lightning)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

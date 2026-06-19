@@ -1,0 +1,27 @@
+{
+  "id": "22580012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580012/22580012_256.png",
+  "character": "Master",
+  "name": "Awoken Moment of Clarity (Dual Shift)",
+  "name_jp": "覚醒精神一到",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Master)], removes [Dual Awoken Monk Mode I (Master)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Master)], removes [Dual Awoken Monk Mode I (Master)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Master)], removes [Dual Awoken Monk Mode I (Master)]"
+    }
+  ]
+}

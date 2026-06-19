@@ -1,0 +1,30 @@
+{
+  "id": "22090007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090007/22090007_256.png",
+  "character": "Jecht",
+  "name": "Jecht's Blade",
+  "name_jp": "ジェクトブレイド",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single attacks (1.51 each), [ATK +50%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.51 each), [ATK +50%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.51 each), [ATK +50%] to all allies for 25 seconds"
+    }
+  ]
+}

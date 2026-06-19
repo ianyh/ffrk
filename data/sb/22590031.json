@@ -1,0 +1,27 @@
+{
+  "id": "22590031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590031/22590031_256.png",
+  "character": "Matoya",
+  "name": "Ultra Flash (Matoya)",
+  "name_jp": "超装【マトーヤ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "        Grants [Instant Cast 1] to all allies, grants [Sorcery +15% Boost (15s)] to Witch allies, grants [Instant ATB 1] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "        Grants [Instant Cast 1] to all allies, grants [Sorcery +15% Boost (15s)] to Witch allies, grants [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "        Grants [Instant Cast 1] to all allies, grants [Sorcery +15% Boost (15s)] to Witch allies, grants [Instant ATB 1] to user."
+    }
+  ]
+}

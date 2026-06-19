@@ -1,0 +1,30 @@
+{
+  "id": "20300057",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300057/20300057_256.png",
+  "character": "Rinoa",
+  "name": "War-Awoken Nocturnal Snow (Weapon Skill)",
+  "name_jp": "戦醒ノクターナルスノー",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Ice/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice\nWS Blue: Lv.2 En-Ice Stack to user\nWS Gold: During Tactical Awoken Mode, 50% DEF/RES Pierce & Quick Cast to Ice Abilities to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice\nWS Blue: Lv.2 En-Ice Stack to user\nWS Gold: During Tactical Awoken Mode, 50% DEF/RES Pierce & Quick Cast to Ice Abilities to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Ice/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice\nWS Blue: Lv.2 En-Ice Stack to user\nWS Gold: During Tactical Awoken Mode, 50% DEF/RES Pierce & Quick Cast to Ice Abilities to user"
+    }
+  ]
+}

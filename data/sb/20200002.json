@@ -1,0 +1,27 @@
+{
+  "id": "20200002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200002/20200002_256.png",
+  "character": "Lenna",
+  "name": "Royal Devotion",
+  "name_jp": "王女の慈愛",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "V",
+  "elements": [],
+  "type": "WHT",
+  "target": "Single ally",
+  "lensable": true,
+  "effects": "removes KO [Raise: 100%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "removes KO [Raise: 100%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "removes KO [Raise: 100%]"
+    }
+  ]
+}

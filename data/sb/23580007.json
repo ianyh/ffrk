@@ -1,0 +1,27 @@
+{
+  "id": "23580007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580007/23580007_256.png",
+  "character": "Shadowsmith",
+  "name": "Radiant Karmic Creation",
+  "name_jp": "耀光創造の因果",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Quick ATB 1 & Instant Cast 1 to party, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Zero Hone Cost to Prismatic Abilities & 25% DEF/RES Pierce\nCrystal Force I: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, [Dualcast Prismatic & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nCrystal Force II: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, [Quick Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Quick ATB 1 & Instant Cast 1 to party, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Zero Hone Cost to Prismatic Abilities & 25% DEF/RES Pierce\nCrystal Force I: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, [Dualcast Prismatic & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nCrystal Force II: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, [Quick Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Quick ATB 1 & Instant Cast 1 to party, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Zero Hone Cost to Prismatic Abilities & 25% DEF/RES Pierce\nCrystal Force I: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, [Dualcast Prismatic & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nCrystal Force II: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, [Quick Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to party"
+    }
+  ]
+}

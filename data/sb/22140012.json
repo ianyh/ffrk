@@ -1,0 +1,27 @@
+{
+  "id": "22140012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22140012/22140012_256.png",
+  "character": "Ramza",
+  "name": "Mettle",
+  "name_jp": "ガッツ",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Stoneskin: 30%], grants [Attach Holy] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 30%], grants [Attach Holy] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Stoneskin: 30%], grants [Attach Holy] to the user"
+    }
+  ]
+}

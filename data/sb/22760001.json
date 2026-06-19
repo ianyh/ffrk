@@ -1,0 +1,30 @@
+{
+  "id": "22760001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760001/22760001_256.png",
+  "character": "Nabaat",
+  "name": "Sacrifice Pawn",
+  "name_jp": "サクリファイス＝ギア",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Nine random attacks (1.96 each), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Nine random attacks (1.96 each), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Nine random attacks (1.96 each), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

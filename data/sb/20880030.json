@@ -1,0 +1,27 @@
+{
+  "id": "20880030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880030/20880030_256.png",
+  "character": "Lulu",
+  "name": "Ice Bond (Lulu)",
+  "name_jp": "氷絆【ルールー】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Activates Ice Limit Chain (150) & 50% Ice Field, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, MAG +50% to party, Instant Cast 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Limit Chain (150) & 50% Ice Field, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, MAG +50% to party, Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Limit Chain (150) & 50% Ice Field, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, MAG +50% to party, Instant Cast 1 to user"
+    }
+  ]
+}

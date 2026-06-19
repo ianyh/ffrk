@@ -1,0 +1,27 @@
+{
+  "id": "22980025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980025/22980025_256.png",
+  "character": "Aranea",
+  "name": "Soul Drive: Aranea",
+  "name_jp": "SD・アラネア",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XV",
+  "elements": [],
+  "type": "",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ]
+}

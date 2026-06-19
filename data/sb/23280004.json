@@ -1,0 +1,30 @@
+{
+  "id": "23280004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280004/23280004_256.png",
+  "character": "Enna Kros",
+  "name": "Creator's Judgment",
+  "name_jp": "創造神の審判",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Earth",
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (1.88 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (1.88 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ]
+}

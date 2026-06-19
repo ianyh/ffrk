@@ -1,0 +1,30 @@
+{
+  "id": "23300014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300014/23300014_256.png",
+  "character": "Hilda",
+  "name": "Woven Bond: Hilda",
+  "name_jp": "紡絆・ヒルダ",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (2.70 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Hilda] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.70 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Hilda] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.70 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Hilda] and [Instant ATB 1] to the user"
+    }
+  ]
+}

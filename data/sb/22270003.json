@@ -1,0 +1,27 @@
+{
+  "id": "22270003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270003/22270003_256.png",
+  "character": "Braska",
+  "name": "Summoner's Dream",
+  "name_jp": "召喚士の夢",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[MAG +30%] for 25 seconds, grants [Magical Quick Cast 3] and [High Regen]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds, grants [Magical Quick Cast 3] and [High Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds, grants [Magical Quick Cast 3] and [High Regen]"
+    }
+  ]
+}

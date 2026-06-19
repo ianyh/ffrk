@@ -1,0 +1,32 @@
+{
+  "id": "23000013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000013/23000013_256.png",
+  "character": "Ward",
+  "name": "Anchor Bullet",
+  "name_jp": "アンカーバレット",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Awoken Laguna Freak], [Damage Cap +10000] and [Career Change Mode II (Ice, Earth, Water) v2] to the user, grants [Water/Ice/Earth Ability Quick Cast 1] and [Dualcast Water/Ice/Earth 1]/[Water/Ice/Earth Ability Quick Cast 2] and [Dualcast Water/Ice/Earth 2]/[Water/Ice/Earth Ability Instant Cast 3] and [Dualcast Water/Ice/Earth 3] to the user if 0-1/2-3/4+ FF8 allies are alive",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Awoken Laguna Freak], [Damage Cap +10000] and [Career Change Mode II (Ice, Earth, Water) v2] to the user, grants [Water/Ice/Earth Ability Quick Cast 1] and [Dualcast Water/Ice/Earth 1]/[Water/Ice/Earth Ability Quick Cast 2] and [Dualcast Water/Ice/Earth 2]/[Water/Ice/Earth Ability Instant Cast 3] and [Dualcast Water/Ice/Earth 3] to the user if 0-1/2-3/4+ FF8 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Awoken Laguna Freak], [Damage Cap +10000] and [Career Change Mode II (Ice, Earth, Water) v2] to the user, grants [Water/Ice/Earth Ability Quick Cast 1] and [Dualcast Water/Ice/Earth 1]/[Water/Ice/Earth Ability Quick Cast 2] and [Dualcast Water/Ice/Earth 2]/[Water/Ice/Earth Ability Instant Cast 3] and [Dualcast Water/Ice/Earth 3] to the user if 0-1/2-3/4+ FF8 allies are alive"
+    }
+  ]
+}

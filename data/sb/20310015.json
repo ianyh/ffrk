@@ -1,0 +1,27 @@
+{
+  "id": "20310015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310015/20310015_256.png",
+  "character": "Snow",
+  "name": "Icicle Veil",
+  "name_jp": "アイシクルガード",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Ice Stacking] and [Attach Ice] to the user, grants [Protect] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking] and [Attach Ice] to the user, grants [Protect] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking] and [Attach Ice] to the user, grants [Protect] to all allies"
+    }
+  ]
+}

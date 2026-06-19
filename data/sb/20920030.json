@@ -1,0 +1,30 @@
+{
+  "id": "20920030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920030/20920030_256.png",
+  "character": "Reno",
+  "name": "Woven Bond: Reno (Lightning)",
+  "name_jp": "紡絆・レノ雷",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Lightning/NE ranged hybrid attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Lightning ability, grants Lightning Damage +20% for 5 seconds to party (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Lightning/NE ranged hybrid attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Lightning ability, grants Lightning Damage +20% for 5 seconds to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Lightning/NE ranged hybrid attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Lightning ability, grants Lightning Damage +20% for 5 seconds to party (max 1 chase)"
+    }
+  ]
+}

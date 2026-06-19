@@ -1,0 +1,27 @@
+{
+  "id": "20620017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620017/20620017_256.png",
+  "character": "Eiko",
+  "name": "Seraphic Rebirth",
+  "name_jp": "転生の光翼",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Dualcast White Magic] and [Eiko Trance] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Dualcast White Magic] and [Eiko Trance] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Dualcast White Magic] and [Eiko Trance] to the user"
+    }
+  ]
+}

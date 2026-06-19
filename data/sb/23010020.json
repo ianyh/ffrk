@@ -1,0 +1,31 @@
+{
+  "id": "23010020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010020/23010020_256.png",
+  "character": "Rude",
+  "name": "Grand Sparkfall",
+  "name_jp": "降雷・地走り",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Quick Cast 1] and [Weakness +9% Boost (15s)]/ [Quick Cast] and [Weakness +30% Boost (15s)]/ [Quick Cast], [Weakness +30% Boost (15s)] and [ATK and MAG +15%, DEF and RES +25% (8s)] to all allies if there are 0-3/4/5 VII allies in the party, grants [Damage Cap +10000], [Awoken Stoic Sunglasses] and [Linked Materia Mode II (Lightning, Earth)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Quick Cast 1] and [Weakness +9% Boost (15s)]/ [Quick Cast] and [Weakness +30% Boost (15s)]/ [Quick Cast], [Weakness +30% Boost (15s)] and [ATK and MAG +15%, DEF and RES +25% (8s)] to all allies if there are 0-3/4/5 VII allies in the party, grants [Damage Cap +10000], [Awoken Stoic Sunglasses] and [Linked Materia Mode II (Lightning, Earth)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Quick Cast 1] and [Weakness +9% Boost (15s)]/ [Quick Cast] and [Weakness +30% Boost (15s)]/ [Quick Cast], [Weakness +30% Boost (15s)] and [ATK and MAG +15%, DEF and RES +25% (8s)] to all allies if there are 0-3/4/5 VII allies in the party, grants [Damage Cap +10000], [Awoken Stoic Sunglasses] and [Linked Materia Mode II (Lightning, Earth)] to the user"
+    }
+  ]
+}

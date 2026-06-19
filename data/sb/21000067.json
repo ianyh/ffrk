@@ -1,0 +1,27 @@
+{
+  "id": "21000067",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000067/21000067_256.png",
+  "character": "-",
+  "name": "Scarlet Blade",
+  "name_jp": "緋緋色の刃",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (1.70), [ATK +25%] to the user for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.70), [ATK +25%] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.70), [ATK +25%] to the user for 25 seconds"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20850002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850002/20850002_256.png",
+  "character": "Gau",
+  "name": "Gigavolt Rage",
+  "name_jp": "あばれる：100万ボルト",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VI",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group ranged attacks (1.05 each), grants [Rage] to the user for 3 turns",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.05 each), grants [Rage] to the user for 3 turns"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.05 each), grants [Rage] to the user for 3 turns"
+    }
+  ]
+}

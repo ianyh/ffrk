@@ -1,0 +1,31 @@
+{
+  "id": "20300055",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300055/20300055_256.png",
+  "character": "Rinoa",
+  "name": "Radiant Star Cradle",
+  "name_jp": "耀光スタークレイドル",
+  "tier": "CASB",
+  "sb_version": "CASB3",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Ice/Earth/NE magic attacks at Cap Break Level 1, En-Ice Stack or En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ice/Earth Ability Boost, Dualcast Ice/Earth, Zero Hone Cost to Ice/Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/Earth/NE magic attacks at Cap Break Level 1, Instant Cast, [Dualcast Ice/Earth, Ice/Earth Ability Damage +50%, Instant ATB 1 & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/Earth/NE magic attacks at Cap Break Level 1, En-Ice Stack or En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ice/Earth Ability Boost, Dualcast Ice/Earth, Zero Hone Cost to Ice/Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/Earth/NE magic attacks at Cap Break Level 1, Instant Cast, [Dualcast Ice/Earth, Ice/Earth Ability Damage +50%, Instant ATB 1 & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/Earth/NE magic attacks at Cap Break Level 1, En-Ice Stack or En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ice/Earth Ability Boost, Dualcast Ice/Earth, Zero Hone Cost to Ice/Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/Earth/NE magic attacks at Cap Break Level 1, Instant Cast, [Dualcast Ice/Earth, Ice/Earth Ability Damage +50%, Instant ATB 1 & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

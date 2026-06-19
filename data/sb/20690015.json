@@ -1,0 +1,30 @@
+{
+  "id": "20690015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690015/20690015_256.png",
+  "character": "Auron",
+  "name": "Blazing Fate",
+  "name_jp": "命火",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000] and [Broken Commandment Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000] and [Broken Commandment Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000] and [Broken Commandment Follow-Up] to the user"
+    }
+  ]
+}

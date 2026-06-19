@@ -1,0 +1,27 @@
+{
+  "id": "22200037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200037/22200037_256.png",
+  "character": "Edea",
+  "name": "Soul Drive: Edea",
+  "name_jp": "SD・イデア",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Instant ATB 1 & Instant Cast 1 to user after casting SB, removes Soul Drive Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Instant ATB 1 & Instant Cast 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Instant ATB 1 & Instant Cast 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ]
+}

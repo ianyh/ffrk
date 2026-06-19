@@ -1,0 +1,30 @@
+{
+  "id": "22900001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900001/22900001_256.png",
+  "character": "Gladiolus",
+  "name": "Dawnhammer",
+  "name_jp": "ドーンブレイカー",
+  "tier": "OSB",
+  "sb_version": "OSB1",
+  "realm": "XV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23070004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070004/23070004_256.png",
+  "character": "Marcus",
+  "name": "Phantom Hazard",
+  "name_jp": "ファントムハザード",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "Poison"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.63 each), causes [Imperil Wind 20%] for 25 seconds, grants [Swift Poison Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), causes [Imperil Wind 20%] for 25 seconds, grants [Swift Poison Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), causes [Imperil Wind 20%] for 25 seconds, grants [Swift Poison Follow-Up] to the user"
+    }
+  ]
+}

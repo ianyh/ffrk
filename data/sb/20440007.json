@@ -1,0 +1,30 @@
+{
+  "id": "20440007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440007/20440007_256.png",
+  "character": "Balthier",
+  "name": "Inferno",
+  "name_jp": "炎のインフェルノ",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group ranged attacks (1.00 each), grants [Attach Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.00 each), grants [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.00 each), grants [Attach Fire] to the user"
+    }
+  ]
+}

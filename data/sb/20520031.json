@@ -1,0 +1,31 @@
+{
+  "id": "20520031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520031/20520031_256.png",
+  "character": "Yuna",
+  "name": "Gunner Dressphere",
+  "name_jp": "ドレスアップ・ガンナー",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "X",
+  "elements": [
+    "Holy",
+    "Wind",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [High Quick Cast 2] to all allies, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Awoken Sphere Hunter] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [High Quick Cast 2] to all allies, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Awoken Sphere Hunter] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [High Quick Cast 2] to all allies, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Awoken Sphere Hunter] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

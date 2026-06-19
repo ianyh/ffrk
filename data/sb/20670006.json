@@ -1,0 +1,27 @@
+{
+  "id": "20670006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670006/20670006_256.png",
+  "character": "Zell",
+  "name": "Duelist",
+  "name_jp": "ザ・デュエル",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random attacks (0.74 each), causes [Stun] (7%), grants [Critical Chance 50%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.74 each), causes [Stun] (7%), grants [Critical Chance 50%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.74 each), causes [Stun] (7%), grants [Critical Chance 50%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

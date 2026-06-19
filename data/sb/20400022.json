@@ -1,0 +1,27 @@
+{
+  "id": "20400022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400022/20400022_256.png",
+  "character": "Bartz",
+  "name": "Quest of the Four",
+  "name_jp": "4つの心「探求」",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Wind with Stacking] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind with Stacking] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind with Stacking] and [Soul Break Gauge +250]"
+    }
+  ]
+}

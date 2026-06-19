@@ -1,0 +1,30 @@
+{
+  "id": "20360038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360038/20360038_256.png",
+  "character": "Garnet",
+  "name": "Woven Bond: Garnet (Lightning)",
+  "name_jp": "紡絆・ガーネット雷",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Garnet (Lightning)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Garnet (Lightning)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Garnet (Lightning)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

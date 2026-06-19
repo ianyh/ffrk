@@ -1,0 +1,32 @@
+{
+  "id": "22410036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410036/22410036_256.png",
+  "character": "Cid Raines",
+  "name": "Burst Break: Cid Raines (Break Arte)",
+  "name_jp": "烈破・レインズ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "NE",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single Dark/NE or Holy/NE Overflow attack under En-Dark or En-Holy, grants [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Dark/NE or Holy/NE Overflow attack under En-Dark or En-Holy, grants [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Dark/NE or Holy/NE Overflow attack under En-Dark or En-Holy, grants [Instant ATB 1] to user"
+    }
+  ]
+}

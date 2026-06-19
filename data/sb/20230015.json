@@ -1,0 +1,30 @@
+{
+  "id": "20230015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230015/20230015_256.png",
+  "character": "Tifa",
+  "name": "Zangan's Infinitude",
+  "name_jp": "ザンガン流無限",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22260006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260006/22260006_256.png",
+  "character": "Serah",
+  "name": "Etro Arrow",
+  "name_jp": "エトロアロー",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Ice], [Farseer EX Mode] and [High Quick Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Ice], [Farseer EX Mode] and [High Quick Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Ice], [Farseer EX Mode] and [High Quick Cast 1] to the user"
+    }
+  ]
+}

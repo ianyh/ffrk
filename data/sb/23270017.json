@@ -1,0 +1,30 @@
+{
+  "id": "23270017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270017/23270017_256.png",
+  "character": "Sice",
+  "name": "Radiant Dark Nebula",
+  "name_jp": "耀光ダークネビュラ",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Darkness Ability Boost, Dualcast Darkness, Zero Hone Cost to Darkness Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to T0 members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Darkness Ability Boost, Dualcast Darkness, Zero Hone Cost to Darkness Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to T0 members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Darkness Ability Boost, Dualcast Darkness, Zero Hone Cost to Darkness Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to T0 members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

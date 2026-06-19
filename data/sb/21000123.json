@@ -1,0 +1,27 @@
+{
+  "id": "21000123",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000123/21000123_256.png",
+  "character": "-",
+  "name": "Chocobreak",
+  "name_jp": "チョコボブレイク",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (1.70), [ATK -30%] for 20 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.70), [ATK -30%] for 20 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.70), [ATK -30%] for 20 seconds"
+    }
+  ]
+}

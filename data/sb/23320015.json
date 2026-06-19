@@ -1,0 +1,29 @@
+{
+  "id": "23320015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320015/23320015_256.png",
+  "character": "Wedge",
+  "name": "Divine Might: Wedge",
+  "name_jp": "神威・ウェッジ",
+  "tier": "OZSB",
+  "sb_version": "OZSB1",
+  "realm": "Core",
+  "elements": [
+    "Wind"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single ranged piercing attacks (? each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities on allies/5+ Wind abilities on allies and 2+ allies have Attach Wind",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single ranged piercing attacks (? each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities on allies/5+ Wind abilities on allies and 2+ allies have Attach Wind"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single ranged piercing attacks (? each) capped at 99999.  Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities on allies/5+ Wind abilities on allies and 2+ allies have Attach Wind"
+    }
+  ]
+}

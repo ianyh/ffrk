@@ -1,0 +1,27 @@
+{
+  "id": "22440017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440017/22440017_256.png",
+  "character": "Larsa",
+  "name": "Continuous Flash: Larsa",
+  "name_jp": "連閃・ラーサー",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Quick Cast 2] and [Deadly Strikes +5% (15s)], grants [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 2] and [Deadly Strikes +5% (15s)], grants [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 2] and [Deadly Strikes +5% (15s)], grants [200% ATB 1] to the user"
+    }
+  ]
+}

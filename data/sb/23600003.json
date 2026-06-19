@@ -1,0 +1,31 @@
+{
+  "id": "23600003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23600003/23600003_256.png",
+  "character": "Joshua",
+  "name": "Radiant Flight of a Fledgling",
+  "name_jp": "耀光不死鳥の雛",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XVI",
+  "elements": [
+    "Fire",
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks at Cap Break Level 1, grants [Attach Fire with Stacking], Cap Break Level 1, Semi-Prime Mode, Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE hybrid attacks at Cap Break Level 1, Instant Cast, h25 heal & Fire Ability Damage +30% for 2 turns to party, 50% DEF/RES Pierce 2 & Quick ATB 1 to user\nSemi-Prime Mode: [MAG/MND/DEF +50%, Instant Cast & chases Black Magic/White Magic abilities with 10% Stoneskin to party] for 5 seconds to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks at Cap Break Level 1, grants [Attach Fire with Stacking], Cap Break Level 1, Semi-Prime Mode, Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE hybrid attacks at Cap Break Level 1, Instant Cast, h25 heal & Fire Ability Damage +30% for 2 turns to party, 50% DEF/RES Pierce 2 & Quick ATB 1 to user\nSemi-Prime Mode: [MAG/MND/DEF +50%, Instant Cast & chases Black Magic/White Magic abilities with 10% Stoneskin to party] for 5 seconds to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks at Cap Break Level 1, grants [Attach Fire with Stacking], Cap Break Level 1, Semi-Prime Mode, Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE hybrid attacks at Cap Break Level 1, Instant Cast, h25 heal & Fire Ability Damage +30% for 2 turns to party, 50% DEF/RES Pierce 2 & Quick ATB 1 to user\nSemi-Prime Mode: [MAG/MND/DEF +50%, Instant Cast & chases Black Magic/White Magic abilities with 10% Stoneskin to party] for 5 seconds to user"
+    }
+  ]
+}

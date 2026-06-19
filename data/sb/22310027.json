@@ -1,0 +1,30 @@
+{
+  "id": "22310027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310027/22310027_256.png",
+  "character": "Garland",
+  "name": "Woven Bond: Garland (Dark)",
+  "name_jp": "紡絆・ガーランド闇",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "I",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates Dark Chain (max 150, field +0%) or adds 25 to the current Dark Chain maximum limit, grants [Chain Force Mode: Garland (Dark)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Dark Chain (max 150, field +0%) or adds 25 to the current Dark Chain maximum limit, grants [Chain Force Mode: Garland (Dark)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates Dark Chain (max 150, field +0%) or adds 25 to the current Dark Chain maximum limit, grants [Chain Force Mode: Garland (Dark)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22950014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22950014/22950014_256.png",
+  "character": "Meliadoul",
+  "name": "Apex Unyielding Blade",
+  "name_jp": "剛剣・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "FFT",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "20 single-target physical attacks (1.00/1.10/1.20 each) & single-target physical attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "20 single-target physical attacks (1.00/1.10/1.20 each) & single-target physical attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "20 single-target physical attacks (1.00/1.10/1.20 each) & single-target physical attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22920002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920002/22920002_256.png",
+  "character": "Umaro",
+  "name": "Green Cherry",
+  "name_jp": "イエローチェリー",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "PHY",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Green Cherry] for 3 turns",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Green Cherry] for 3 turns"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Green Cherry] for 3 turns"
+    }
+  ]
+}

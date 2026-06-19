@@ -1,0 +1,31 @@
+{
+  "id": "23310020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310020/23310020_256.png",
+  "character": "Biggs",
+  "name": "Continuous Flash: Biggs",
+  "name_jp": "連閃・ビッグス",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "Core",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (?) with 100% critical rate capped at 199,999, Grants [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (?) with 100% critical rate capped at 199,999, Grants [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (?) with 100% critical rate capped at 199,999, Grants [Instant ATB 1] to the user"
+    }
+  ]
+}

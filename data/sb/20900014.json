@@ -1,0 +1,27 @@
+{
+  "id": "20900014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900014/20900014_256.png",
+  "character": "Mog",
+  "name": "Awoken Forest Nocturne (Dual Shift)",
+  "name_jp": "覚醒森のノクターン",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Rhapsody Mode II to user\nDual Awoken Rhapsody Mode II: Instant Dancer & chases a Dancer ability with 3000 HP Stock and Instant Cast 1 to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Rhapsody Mode II to user\nDual Awoken Rhapsody Mode II: Instant Dancer & chases a Dancer ability with 3000 HP Stock and Instant Cast 1 to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Rhapsody Mode II to user\nDual Awoken Rhapsody Mode II: Instant Dancer & chases a Dancer ability with 3000 HP Stock and Instant Cast 1 to party"
+    }
+  ]
+}

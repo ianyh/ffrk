@@ -1,0 +1,38 @@
+{
+  "id": "22690022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690022/22690022_256.png",
+  "character": "Lion",
+  "name": "Roaring Assassin's Charge",
+  "name_jp": "轟・アサシンチャージ",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "single enemy",
+  "lensable": false,
+  "effects": "Five single-target Water/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lion (Water)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single-target Water/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lion (Water)] to the user"
+    },
+    {
+      "name": "Accel Mode: Lion (Water)",
+      "text": "Water abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Lion (Water)] after using Water abilities, removed if the character hasn't [Accel Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single-target Water/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lion (Water)] to the user"
+    },
+    {
+      "name": "Accel Mode: Lion (Water)",
+      "text": "Water abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Lion (Water)] after using Water abilities, removed if the character hasn't [Accel Mode]"
+    }
+  ]
+}

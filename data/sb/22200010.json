@@ -1,0 +1,31 @@
+{
+  "id": "22200010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200010/22200010_256.png",
+  "character": "Edea",
+  "name": "Astral Soul",
+  "name_jp": "アストラル・ソウル",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Ice Stalker Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Ice Stalker Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Ice Stalker Follow-Up] to the user"
+    }
+  ]
+}

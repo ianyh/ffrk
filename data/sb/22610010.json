@@ -1,0 +1,30 @@
+{
+  "id": "22610010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610010/22610010_256.png",
+  "character": "Raijin",
+  "name": "Thunderstorm Assault",
+  "name_jp": "神技「雷雲襲来」",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Rousing Thunder] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Rousing Thunder] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Rousing Thunder] to the user"
+    }
+  ]
+}

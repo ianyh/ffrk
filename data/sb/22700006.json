@@ -1,0 +1,27 @@
+{
+  "id": "22700006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22700006/22700006_256.png",
+  "character": "Rapha",
+  "name": "Mystic Mantra",
+  "name_jp": "真言の秘奥",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [75% Damage Reduction Barrier 1] and [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [75% Damage Reduction Barrier 1] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [75% Damage Reduction Barrier 1] and [Haste]"
+    }
+  ]
+}

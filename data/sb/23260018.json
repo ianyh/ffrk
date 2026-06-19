@@ -1,0 +1,27 @@
+{
+  "id": "23260018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260018/23260018_256.png",
+  "character": "Seven",
+  "name": "Spiraling Flash (Seven)",
+  "name_jp": "降閃【セブン】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Imperil Ice 40% (5s)], grants [Quick Cast 2] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Ice 40% (5s)], grants [Quick Cast 2] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Ice 40% (5s)], grants [Quick Cast 2] to all allies"
+    }
+  ]
+}

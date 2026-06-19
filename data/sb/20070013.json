@@ -1,0 +1,29 @@
+{
+  "id": "20070013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070013/20070013_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Crystal Vanguard",
+  "name_jp": "アドバンスクリスタル",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "IV",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.72 each), grants [Last Stand] to all allies, grants [Knight +30% Boost (15s)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Last Stand] to all allies, grants [Knight +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Last Stand] to all allies, grants [Knight +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ]
+}

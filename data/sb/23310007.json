@@ -1,0 +1,31 @@
+{
+  "id": "23310007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310007/23310007_256.png",
+  "character": "Biggs",
+  "name": "Humongous Strike?",
+  "name_jp": "オレ様流・大々々切斬？",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Core",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Earth], [Awoken Earth], [Damage Cap +10000], [Our Bond Follow-Up] and [Mighty Severance] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Earth], [Awoken Earth], [Damage Cap +10000], [Our Bond Follow-Up] and [Mighty Severance] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Earth], [Awoken Earth], [Damage Cap +10000], [Our Bond Follow-Up] and [Mighty Severance] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20610007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610007/20610007_256.png",
+  "character": "Zack",
+  "name": "Lucky Stars",
+  "name_jp": "ラッキースター",
+  "tier": "CSB",
+  "sb_version": "CSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Activates Wind Chain (max 99, field +20%), [ATK +50%] for 25 seconds, grants [Critical Damage +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Chain (max 99, field +20%), [ATK +50%] for 25 seconds, grants [Critical Damage +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Chain (max 99, field +20%), [ATK +50%] for 25 seconds, grants [Critical Damage +50%] for 25 seconds"
+    }
+  ]
+}

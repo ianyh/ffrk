@@ -1,0 +1,27 @@
+{
+  "id": "20510028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510028/20510028_256.png",
+  "character": "Selphie",
+  "name": "Super Flash (Selphie)",
+  "name_jp": "超閃【セルフィ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a White Magic/Dancer ability, grants Quick Cast 3 to party (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a White Magic/Dancer ability, grants Quick Cast 3 to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a White Magic/Dancer ability, grants Quick Cast 3 to party (max 1 chase)"
+    }
+  ]
+}

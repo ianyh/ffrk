@@ -1,0 +1,29 @@
+{
+  "id": "23360005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360005/23360005_256.png",
+  "character": "Eight",
+  "name": "Ice Render Combo",
+  "name_jp": "氷裂拳コンボ",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (8.00 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ]
+}

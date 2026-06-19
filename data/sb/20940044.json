@@ -1,0 +1,27 @@
+{
+  "id": "20940044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940044/20940044_256.png",
+  "character": "Krile",
+  "name": "Continuous Flash: Krile",
+  "name_jp": " 連閃・クルル",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Fire/Earth Ability Quick Cast (15s)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Fire/Earth Ability Quick Cast (15s)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Fire/Earth Ability Quick Cast (15s)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

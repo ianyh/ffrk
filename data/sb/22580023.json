@@ -1,0 +1,27 @@
+{
+  "id": "22580023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580023/22580023_256.png",
+  "character": "Master",
+  "name": "Starry Brave Advance",
+  "name_jp": "極星勇往邁進",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Earth/Fire/Lightning/NE physical attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Earth/Fire/Lightning/NE physical attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Earth/Fire/Lightning/NE physical attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode"
+    }
+  ]
+}

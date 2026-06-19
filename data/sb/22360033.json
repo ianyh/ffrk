@@ -1,0 +1,27 @@
+{
+  "id": "22360033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360033/22360033_256.png",
+  "character": "Shantotto",
+  "name": "Continuous Flash: Shantotto (Lightning) II",
+  "name_jp": "連閃・シャントット雷II",
+  "tier": "Glint++",
+  "sb_version": "Glint++2",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "6 single-target Lightning/NE magic attacks, Instant Cast & Zero SB Cost, 250 SB Points & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "6 single-target Lightning/NE magic attacks, Instant Cast & Zero SB Cost, 250 SB Points & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "6 single-target Lightning/NE magic attacks, Instant Cast & Zero SB Cost, 250 SB Points & Quick ATB 1 to user"
+    }
+  ]
+}

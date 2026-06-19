@@ -1,0 +1,29 @@
+{
+  "id": "21000155",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000155/21000155_256.png",
+  "character": "-",
+  "name": "Sylvan Storm",
+  "name_jp": "シルヴァンストーム",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [
+    "Ice"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Five group attacks (3.00 each), grants [Stoneskin: 30%] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (3.00 each), grants [Stoneskin: 30%] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (3.00 each), grants [Stoneskin: 30%] to all allies"
+    }
+  ]
+}

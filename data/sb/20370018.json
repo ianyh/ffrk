@@ -1,0 +1,30 @@
+{
+  "id": "20370018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370018/20370018_256.png",
+  "character": "Vivi",
+  "name": "Glittering Flame",
+  "name_jp": "キラメクホノオ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Heart to Heart Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Heart to Heart Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Heart to Heart Mode] to the user"
+    }
+  ]
+}

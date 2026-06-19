@@ -1,0 +1,27 @@
+{
+  "id": "23320016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320016/23320016_256.png",
+  "character": "Wedge",
+  "name": "Awoken Mach Star (Dual Shift)",
+  "name_jp": "覚醒マッハスター",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [ATK +50%, MND -50%], [Instant ATB 1], and [Dual Awoken Wind Mode II (Wedge II)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK +50%, MND -50%], [Instant ATB 1], and [Dual Awoken Wind Mode II (Wedge II)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK +50%, MND -50%], [Instant ATB 1], and [Dual Awoken Wind Mode II (Wedge II)] to the user"
+    }
+  ]
+}

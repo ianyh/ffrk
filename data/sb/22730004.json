@@ -1,0 +1,27 @@
+{
+  "id": "22730004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730004/22730004_256.png",
+  "character": "Gogo (V)",
+  "name": "Sunken Rhapsody",
+  "name_jp": "沈塔ラプソディ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste] and [Last Stand], grants [Attach Water] to the user, casts the last ability used by any ally twice, default ability (PHY: single, 1.50 physical)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Last Stand], grants [Attach Water] to the user, casts the last ability used by any ally twice, default ability (PHY: single, 1.50 physical)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Last Stand], grants [Attach Water] to the user, casts the last ability used by any ally twice, default ability (PHY: single, 1.50 physical)"
+    }
+  ]
+}

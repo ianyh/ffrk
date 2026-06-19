@@ -1,0 +1,30 @@
+{
+  "id": "20710012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710012/20710012_256.png",
+  "character": "Ashe",
+  "name": "Inspiring Flash",
+  "name_jp": "革新の雷光",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random attacks (1.70 each), grants [Attach Lightning] and [Inspiring Flash] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (1.70 each), grants [Attach Lightning] and [Inspiring Flash] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (1.70 each), grants [Attach Lightning] and [Inspiring Flash] to the user"
+    }
+  ]
+}

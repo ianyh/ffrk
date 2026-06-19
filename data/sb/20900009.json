@@ -1,0 +1,27 @@
+{
+  "id": "20900009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900009/20900009_256.png",
+  "character": "Mog",
+  "name": "Dance As One",
+  "name_jp": "みんなでダンシング",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, DEF, MAG and RES +30% (25s)], [Quick Cast] and [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF6 allies are alive, grants [Awoken Rhapsody] and [Mog Step Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (25s)], [Quick Cast] and [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF6 allies are alive, grants [Awoken Rhapsody] and [Mog Step Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (25s)], [Quick Cast] and [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF6 allies are alive, grants [Awoken Rhapsody] and [Mog Step Follow-Up] to the user"
+    }
+  ]
+}

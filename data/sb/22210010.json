@@ -1,0 +1,27 @@
+{
+  "id": "22210010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210010/22210010_256.png",
+  "character": "Palom",
+  "name": "Lightning Raiment (Palom)",
+  "name_jp": "雷装【パロム】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Attach Lightning]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning]"
+    }
+  ]
+}

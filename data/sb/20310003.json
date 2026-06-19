@@ -1,0 +1,27 @@
+{
+  "id": "20310003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310003/20310003_256.png",
+  "character": "Snow",
+  "name": "Sovereign Fist",
+  "name_jp": "ルーラーフィスト",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Two group attacks (1.75 each), causes [Stun] (20%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (1.75 each), causes [Stun] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (1.75 each), causes [Stun] (20%)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22530013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22530013/22530013_256.png",
+  "character": "Alphinaud",
+  "name": "Excogitation",
+  "name_jp": "深謀遠慮の策",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "XIV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (55), grants [Regenga], [HP Stock (3000)] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga], [HP Stock (3000)] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga], [HP Stock (3000)] and [High Quick Cast 2]"
+    }
+  ]
+}

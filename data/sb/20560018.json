@@ -1,0 +1,27 @@
+{
+  "id": "20560018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560018/20560018_256.png",
+  "character": "Maria",
+  "name": "Earth Bond (Maria)",
+  "name_jp": "地絆【マリア】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Earth Chain (max 150, field +50%), grants [Buff Earth 10% (5s)]/[Buff Earth 20% (5s)]/[Buff Earth 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Earth], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 150, field +50%), grants [Buff Earth 10% (5s)]/[Buff Earth 20% (5s)]/[Buff Earth 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Earth], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 150, field +50%), grants [Buff Earth 10% (5s)]/[Buff Earth 20% (5s)]/[Buff Earth 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Earth], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ]
+}

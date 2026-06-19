@@ -1,0 +1,27 @@
+{
+  "id": "22970026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970026/22970026_256.png",
+  "character": "Prompto",
+  "name": "Starry Double Hunt",
+  "name_jp": "極星ダブルハント",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Lightning Damage +5% to party, Instant Cast, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE ranged physical attacks, Lightning Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE ranged physical attack at True Cap Break Level 1, Lightning Damage +30% to party, removes Master Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Lightning Damage +5% to party, Instant Cast, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE ranged physical attacks, Lightning Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE ranged physical attack at True Cap Break Level 1, Lightning Damage +30% to party, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Lightning Damage +5% to party, Instant Cast, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE ranged physical attacks, Lightning Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE ranged physical attack at True Cap Break Level 1, Lightning Damage +30% to party, removes Master Mode"
+    }
+  ]
+}

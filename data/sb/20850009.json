@@ -1,0 +1,30 @@
+{
+  "id": "20850009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850009/20850009_256.png",
+  "character": "Gau",
+  "name": "Explosive Thrust",
+  "name_jp": "とびかかる",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "23020011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020011/23020011_256.png",
+  "character": "Elena",
+  "name": "Awoken Rookie Turk (Dual Shift)",
+  "name_jp": "覚醒タークス・ルーキー",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Turks Recruit Mode II (Elena)] to the user, removes [Dual Awoken Turks Recruit Mode I (Elena)] from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Turks Recruit Mode II (Elena)] to the user, removes [Dual Awoken Turks Recruit Mode I (Elena)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Turks Recruit Mode II (Elena)] to the user, removes [Dual Awoken Turks Recruit Mode I (Elena)] from the user"
+    }
+  ]
+}

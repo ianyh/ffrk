@@ -1,0 +1,27 @@
+{
+  "id": "20860018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860018/20860018_256.png",
+  "character": "Zidane",
+  "name": "Tail Draft",
+  "name_jp": "テイルウィンド",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Causes [Imperil Wind 20% (15s)], grants [Buff Wind 20% (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Wind 20% (15s)], grants [Buff Wind 20% (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Wind 20% (15s)], grants [Buff Wind 20% (15s)] to the user"
+    }
+  ]
+}

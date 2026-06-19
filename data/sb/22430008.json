@@ -1,0 +1,30 @@
+{
+  "id": "22430008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430008/22430008_256.png",
+  "character": "Guy",
+  "name": "Lupine Maul",
+  "name_jp": "狼牙狼爪",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (? each), grants [Attach Earth with Stacking], [Quick Cast 1] and [Gaia Stamp Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (? each), grants [Attach Earth with Stacking], [Quick Cast 1] and [Gaia Stamp Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (? each), grants [Attach Earth with Stacking], [Quick Cast 1] and [Gaia Stamp Follow-Up] to the user"
+    }
+  ]
+}

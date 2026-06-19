@@ -1,0 +1,31 @@
+{
+  "id": "23510002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510002/23510002_256.png",
+  "character": "Alisaie",
+  "name": "Heart and Steel",
+  "name_jp": "抗う力",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Lightning, Wind)], Black Mana +1 and [Ver Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Lightning, Wind)], Black Mana +1 and [Ver Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Lightning, Wind)], Black Mana +1 and [Ver Mode] to the user"
+    }
+  ]
+}

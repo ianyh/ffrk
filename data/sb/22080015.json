@@ -1,0 +1,27 @@
+{
+  "id": "22080015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080015/22080015_256.png",
+  "character": "Exdeath",
+  "name": "Orbital Energy",
+  "name_jp": "オービットエナジー",
+  "tier": "Glint",
+  "sb_version": "Glint2",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Holy with Stacking], causes [DEF -15%, RES -15% and MND +50%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], causes [DEF -15%, RES -15% and MND +50%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], causes [DEF -15%, RES -15% and MND +50%]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20500002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500002/20500002_256.png",
+  "character": "Quistis",
+  "name": "Maser Eye",
+  "name_jp": "メーザーアイ",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group attack (7.40)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.40)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.40)"
+    }
+  ]
+}

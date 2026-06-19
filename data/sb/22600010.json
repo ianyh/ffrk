@@ -1,0 +1,30 @@
+{
+  "id": "22600010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22600010/22600010_256.png",
+  "character": "Fujin",
+  "name": "Ran",
+  "name_jp": "乱",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Retsu Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Retsu Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Retsu Follow-Up] to the user"
+    }
+  ]
+}

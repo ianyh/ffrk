@@ -1,0 +1,27 @@
+{
+  "id": "22430022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430022/22430022_256.png",
+  "character": "Guy",
+  "name": "Awoken Lupine Maul (Dual Shift)",
+  "name_jp": "覚醒狼牙狼爪",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Guy II)] to the user\nDual Awoken Earth Mode II (Guy II): Earth Ability Boost, Instant Earth & chases an Earth ability with causes [DEF, RES and MND -50% (8s)] and grants [Earth +40% Boost (5s)] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Guy II)] to the user\nDual Awoken Earth Mode II (Guy II): Earth Ability Boost, Instant Earth & chases an Earth ability with causes [DEF, RES and MND -50% (8s)] and grants [Earth +40% Boost (5s)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Guy II)] to the user\nDual Awoken Earth Mode II (Guy II): Earth Ability Boost, Instant Earth & chases an Earth ability with causes [DEF, RES and MND -50% (8s)] and grants [Earth +40% Boost (5s)] to all allies"
+    }
+  ]
+}

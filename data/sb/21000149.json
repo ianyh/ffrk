@@ -1,0 +1,29 @@
+{
+  "id": "21000149",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000149/21000149_256.png",
+  "character": "-",
+  "name": "Nibelung Valesti",
+  "name_jp": "ニーベルンヴァレスティ",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Eight single ranged attacks (0.93 each), grants [Holy +50% Boost (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.93 each), grants [Holy +50% Boost (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.93 each), grants [Holy +50% Boost (15s)] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20820031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820031/20820031_256.png",
+  "character": "Seifer",
+  "name": "Continuous Flash: Seifer",
+  "name_jp": "連閃・サイファー",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Switch Draw Mode II (Fire, Dark)], [Soul Break Gauge +250] and [200% ATB 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Switch Draw Mode II (Fire, Dark)], [Soul Break Gauge +250] and [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Switch Draw Mode II (Fire, Dark)], [Soul Break Gauge +250] and [200% ATB 1]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20400072",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400072/20400072_256.png",
+  "character": "Bartz",
+  "name": "Radiant Sundering Spellblade",
+  "name_jp": "耀光魔法剣・地裂",
+  "tier": "CASB",
+  "sb_version": "CASB3",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns to user; After using Crystal Force I/II, grants Cap Break Level 0/1/1 for 2 turns, Quick/Quick/Instant Cast 2 & Quick/Quick/Instant ATB 1 to user with at least 0/2/4 V members",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns to user; After using Crystal Force I/II, grants Cap Break Level 0/1/1 for 2 turns, Quick/Quick/Instant Cast 2 & Quick/Quick/Instant ATB 1 to user with at least 0/2/4 V members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns to user; After using Crystal Force I/II, grants Cap Break Level 0/1/1 for 2 turns, Quick/Quick/Instant Cast 2 & Quick/Quick/Instant ATB 1 to user with at least 0/2/4 V members"
+    }
+  ]
+}

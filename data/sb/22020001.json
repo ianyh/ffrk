@@ -1,0 +1,27 @@
+{
+  "id": "22020001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22020001/22020001_256.png",
+  "character": "Magus",
+  "name": "Black Magic Chant",
+  "name_jp": "黒魔法詠唱圧縮",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Black Magic Quick Cast 3]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Black Magic Quick Cast 3]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Black Magic Quick Cast 3]"
+    }
+  ]
+}

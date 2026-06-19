@@ -1,0 +1,30 @@
+{
+  "id": "23220012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220012/23220012_256.png",
+  "character": "Barbariccia",
+  "name": "Apex Maelstrom (IV)",
+  "name_jp": "ミールストーム・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IV",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom (IV) level 0/1/2, removes Arcane Dyad Empowered: Barbariccia from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom (IV) level 0/1/2, removes Arcane Dyad Empowered: Barbariccia from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom (IV) level 0/1/2, removes Arcane Dyad Empowered: Barbariccia from the user"
+    }
+  ]
+}

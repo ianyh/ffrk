@@ -1,0 +1,30 @@
+{
+  "id": "22240017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240017/22240017_256.png",
+  "character": "Kuja",
+  "name": "Soul Resonance",
+  "name_jp": "ソウルレゾナンス",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IX",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Soul Resonance level 0/1/2, removes Arcane Dyad Empowered: Kuja from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Soul Resonance level 0/1/2, removes Arcane Dyad Empowered: Kuja from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Soul Resonance level 0/1/2, removes Arcane Dyad Empowered: Kuja from the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20600039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600039/20600039_256.png",
+  "character": "Lightning",
+  "name": "Woven Bond: Lightning",
+  "name_jp": "紡絆・ライトニング",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Lightning/NE to Holy/NE if the user has any Attach Holy, activates XIII Chain (max 150, field +0%) or adds 25 to the current XIII Chain maximum limit, grants [Chain Force Mode: Lightning] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Lightning/NE to Holy/NE if the user has any Attach Holy, activates XIII Chain (max 150, field +0%) or adds 25 to the current XIII Chain maximum limit, grants [Chain Force Mode: Lightning] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Lightning/NE to Holy/NE if the user has any Attach Holy, activates XIII Chain (max 150, field +0%) or adds 25 to the current XIII Chain maximum limit, grants [Chain Force Mode: Lightning] and [Instant ATB 1] to the user"
+    }
+  ]
+}

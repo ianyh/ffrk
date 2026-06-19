@@ -1,0 +1,30 @@
+{
+  "id": "20110022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110022/20110022_256.png",
+  "character": "Cloud",
+  "name": "Apex Slash",
+  "name_jp": "凶斬り・極",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Damage Cap +10000] and [Synchro Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Damage Cap +10000] and [Synchro Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Damage Cap +10000] and [Synchro Mode] to the user"
+    }
+  ]
+}

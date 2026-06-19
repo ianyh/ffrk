@@ -1,0 +1,27 @@
+{
+  "id": "23020004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020004/23020004_256.png",
+  "character": "Elena",
+  "name": "Special Bomb",
+  "name_jp": "スペシャルボム",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste] and [Critical Chance 50%], [ATK and RES +30%] to all allies for 25 seconds, grants [Turk Pistol Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Critical Chance 50%], [ATK and RES +30%] to all allies for 25 seconds, grants [Turk Pistol Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Critical Chance 50%], [ATK and RES +30%] to all allies for 25 seconds, grants [Turk Pistol Follow-Up] to the user"
+    }
+  ]
+}

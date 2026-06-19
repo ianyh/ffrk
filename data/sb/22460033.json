@@ -1,0 +1,33 @@
+{
+  "id": "22460033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460033/22460033_256.png",
+  "character": "Onion Knight",
+  "name": "Dark Vision",
+  "name_jp": "可変の境地・魔",
+  "tier": "AASB",
+  "sb_version": "AASB4",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "Water",
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Quad Element Mode II (Fire, Earth, Wind, Water)], [Awoken Black Magic], [Damage Cap +10000] and [High Speed Onion] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Quad Element Mode II (Fire, Earth, Wind, Water)], [Awoken Black Magic], [Damage Cap +10000] and [High Speed Onion] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Quad Element Mode II (Fire, Earth, Wind, Water)], [Awoken Black Magic], [Damage Cap +10000] and [High Speed Onion] to the user"
+    }
+  ]
+}

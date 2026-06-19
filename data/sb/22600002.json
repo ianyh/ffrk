@@ -1,0 +1,30 @@
+{
+  "id": "22600002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22600002/22600002_256.png",
+  "character": "Fujin",
+  "name": "Zan",
+  "name_jp": "斬",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (2.14 each), grants [Attach Wind] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.14 each), grants [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.14 each), grants [Attach Wind] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20710009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710009/20710009_256.png",
+  "character": "Ashe",
+  "name": "Dusk Mote",
+  "name_jp": "黄昏の魔片",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Lightning Stacking], [Attach Lightning] and [High Quick Cast 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning Stacking], [Attach Lightning] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning Stacking], [Attach Lightning] and [High Quick Cast 2]"
+    }
+  ]
+}

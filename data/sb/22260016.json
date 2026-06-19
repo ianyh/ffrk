@@ -1,0 +1,30 @@
+{
+  "id": "22260016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260016/22260016_256.png",
+  "character": "Serah",
+  "name": "Transcendent Arrow",
+  "name_jp": "トランセンドアロー",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

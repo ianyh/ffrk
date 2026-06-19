@@ -1,0 +1,29 @@
+{
+  "id": "22270002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270002/22270002_256.png",
+  "character": "Braska",
+  "name": "Aeon of Storms",
+  "name_jp": "雷獣召喚",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "X",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Two group attacks (0.55 each), minimum damage 55",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (0.55 each), minimum damage 55"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (0.55 each), minimum damage 55"
+    }
+  ]
+}

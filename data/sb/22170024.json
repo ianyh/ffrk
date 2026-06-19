@@ -1,0 +1,27 @@
+{
+  "id": "22170024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170024/22170024_256.png",
+  "character": "Vincent",
+  "name": "Guardian Chaos",
+  "name_jp": "Gカオス",
+  "tier": "LBGS",
+  "sb_version": "LBGS1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Summons Chaos for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Last Stand], [Attach Fire 3 with Stacking] and [Damage Cap +20000] to Chaos",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Summons Chaos for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Last Stand], [Attach Fire 3 with Stacking] and [Damage Cap +20000] to Chaos"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Summons Chaos for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Last Stand], [Attach Fire 3 with Stacking] and [Damage Cap +20000] to Chaos"
+    }
+  ]
+}

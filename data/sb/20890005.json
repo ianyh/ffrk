@@ -1,0 +1,30 @@
+{
+  "id": "20890005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890005/20890005_256.png",
+  "character": "Shadow",
+  "name": "Abandoned Past",
+  "name_jp": "捨て去りし過去",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user"
+    }
+  ]
+}

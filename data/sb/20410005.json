@@ -1,0 +1,27 @@
+{
+  "id": "20410005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410005/20410005_256.png",
+  "character": "Irvine",
+  "name": "Hyper Sniper",
+  "name_jp": "ハイパースナイプ",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.98 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.98 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.98 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ]
+}

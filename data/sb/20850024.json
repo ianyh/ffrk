@@ -1,0 +1,31 @@
+{
+  "id": "20850024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850024/20850024_256.png",
+  "character": "Gau",
+  "name": "Roaring Enrage",
+  "name_jp": "轟・あばれちらす",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Lightning Ability High Boost & chases 1/2/3+ Wind/Lightning abilities with Wind/Lightning Ability Damage +10/20/30% to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Lightning Ability High Boost & chases 1/2/3+ Wind/Lightning abilities with Wind/Lightning Ability Damage +10/20/30% to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Lightning Ability High Boost & chases 1/2/3+ Wind/Lightning abilities with Wind/Lightning Ability Damage +10/20/30% to user"
+    }
+  ]
+}

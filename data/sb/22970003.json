@@ -1,0 +1,30 @@
+{
+  "id": "22970003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970003/22970003_256.png",
+  "character": "Prompto",
+  "name": "Starshell",
+  "name_jp": "スターシェル",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group ranged attacks (1.13 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.13 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.13 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ]
+}

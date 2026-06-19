@@ -1,0 +1,27 @@
+{
+  "id": "20310034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310034/20310034_256.png",
+  "character": "Snow",
+  "name": "Awoken Dogged Hero (Dual Shift)",
+  "name_jp": "覚醒不屈のヒーロー",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Ice Mode II to user\nDual Awoken Ice Mode II: Ice Ability Boost, Instant Ice & chases an Ice ability with [Cap Break Level 1 & Deadly Strikes +20%] for 2 turns to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Ice Mode II to user\nDual Awoken Ice Mode II: Ice Ability Boost, Instant Ice & chases an Ice ability with [Cap Break Level 1 & Deadly Strikes +20%] for 2 turns to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Ice Mode II to user\nDual Awoken Ice Mode II: Ice Ability Boost, Instant Ice & chases an Ice ability with [Cap Break Level 1 & Deadly Strikes +20%] for 2 turns to user"
+    }
+  ]
+}

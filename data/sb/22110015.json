@@ -1,0 +1,30 @@
+{
+  "id": "22110015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110015/22110015_256.png",
+  "character": "Freya",
+  "name": "Sandstorm Lance",
+  "name_jp": "サンドストームランス",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged jump attacks (0.71 each), grants [Attach Wind with Stacking], [Jump Instant Cast] and [Wind Ability +30% Boost (15s)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Attach Wind with Stacking], [Jump Instant Cast] and [Wind Ability +30% Boost (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Attach Wind with Stacking], [Jump Instant Cast] and [Wind Ability +30% Boost (15s)] to the user"
+    }
+  ]
+}

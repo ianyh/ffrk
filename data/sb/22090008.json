@@ -1,0 +1,30 @@
+{
+  "id": "22090008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090008/22090008_256.png",
+  "character": "Jecht",
+  "name": "Ultimate Jecht Rush",
+  "name_jp": "真・ジェクトラッシュ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), grants [ATK and DEF +30%] for 25 seconds, [Critical Chance 75%], [Quick Cast 1] and [Dark Quick Cycle] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [ATK and DEF +30%] for 25 seconds, [Critical Chance 75%], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [ATK and DEF +30%] for 25 seconds, [Critical Chance 75%], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    }
+  ]
+}

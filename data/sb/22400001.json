@@ -1,0 +1,27 @@
+{
+  "id": "22400001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400001/22400001_256.png",
+  "character": "Mustadio",
+  "name": "Seal Evil (FFT)",
+  "name_jp": "邪心封印",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)"
+    }
+  ]
+}

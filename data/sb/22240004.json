@@ -1,0 +1,30 @@
+{
+  "id": "22240004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240004/22240004_256.png",
+  "character": "Kuja",
+  "name": "Force Symphony",
+  "name_jp": "フォースシンフォニー",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IX",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random attacks (2.20 each), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.20 each), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.20 each), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "20420027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420027/20420027_256.png",
+  "character": "Arc",
+  "name": "Zenith Divine Wave",
+  "name_jp": "究極ディバインウェーブ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "III",
+  "elements": [
+    "Holy",
+    "Water",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Water 2 with Stacking] if entry damage was Holy/Water, [Zenith Mode], [Zenith Mode: Arc (Holy)] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Water 2 with Stacking] if entry damage was Holy/Water, [Zenith Mode], [Zenith Mode: Arc (Holy)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Zenith Mode: Arc (Holy)",
+      "text": "Increases [Water/Holy Infusion] damage bonus by 20%, cast speed x1.10 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage, Water or Holy abilities trigger 1 additional time, casts Spirit Attack: Arc after using two Water or Holy abilities (max 2), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Auroral Leviath+",
+      "text": "Five single hybrid attacks (3.87/4.02 or 5.25/5.40 each), minimum damage 2000 (SUM only), capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Grace of Water+",
+      "text": "Four single attacks (5.25 each), minimum damage 2000, grants [Buff Holy 10% (15s)] and [Buff Water 10% (15s)] to all allies every third activation, capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Arc",
+      "text": "Grants [Dualcast Holy/Water 1] to the user"
+    },
+    {
+      "name": "Attach Holy 2 with Stacking",
+      "text": "Increase Attach Holy Level by 2 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Attach Water 2 with Stacking",
+      "text": "Increase Attach Water Level by 2 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Water 2 with Stacking] if entry damage was Holy/Water, [Zenith Mode], [Zenith Mode: Arc (Holy)] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Auroral Leviath+",
+      "text": "Five single hybrid attacks (3.87/4.02 or 5.25/5.40 each), minimum damage 2000 (SUM only), capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Grace of Water+",
+      "text": "Four single attacks (5.25 each), minimum damage 2000, grants [Buff Holy 10% (15s)] and [Buff Water 10% (15s)] to all allies every third activation, capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Spirit Attack: Arc",
+      "text": "Grants [Dualcast Holy/Water 1] to the user"
+    }
+  ]
+}

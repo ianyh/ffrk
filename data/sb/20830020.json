@@ -1,0 +1,30 @@
+{
+  "id": "20830020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830020/20830020_256.png",
+  "character": "Cid (VII)",
+  "name": "Dragon Tempest",
+  "name_jp": "ドラゴンテンペスト",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "20 single-target Wind/NE jump attacks (1.20 each) & single-target Wind/NE Overflow jump attack (12.0), removes True Arcane Augment Mode",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "20 single-target Wind/NE jump attacks (1.20 each) & single-target Wind/NE Overflow jump attack (12.0), removes True Arcane Augment Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "20 single-target Wind/NE jump attacks (1.20 each) & single-target Wind/NE Overflow jump attack (12.0), removes True Arcane Augment Mode"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "22550018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550018/22550018_256.png",
+  "character": "Orlandeau",
+  "name": "Zenith Sword of Saints",
+  "name_jp": "究極畏国最強の剣",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Holy/Dark/NE physical attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1, Quick ATB & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Knight/Darkness, Higher Multiplier & Zero Hone Cost to Hero Ability; Sword Saint's Art+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/Dark/NE physical attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1, Quick ATB & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Knight/Darkness, Higher Multiplier & Zero Hone Cost to Hero Ability; Sword Saint's Art+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Sword Saint's Art+",
+      "text": "Five single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/Dark/NE physical attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1, Quick ATB & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Knight/Darkness, Higher Multiplier & Zero Hone Cost to Hero Ability; Sword Saint's Art+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Sword Saint's Art+",
+      "text": "Five single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
+    }
+  ]
+}

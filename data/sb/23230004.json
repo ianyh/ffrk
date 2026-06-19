@@ -1,0 +1,30 @@
+{
+  "id": "23230004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230004/23230004_256.png",
+  "character": "Ultimecia",
+  "name": "Cycle of Steel",
+  "name_jp": "流転の剣斧",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Wind] and [Black Magic Double] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Wind] and [Black Magic Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Wind] and [Black Magic Double] to the user"
+    }
+  ]
+}

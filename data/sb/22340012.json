@@ -1,0 +1,30 @@
+{
+  "id": "22340012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340012/22340012_256.png",
+  "character": "Yang",
+  "name": "Woven Bond: Yang",
+  "name_jp": "紡絆・ヤン",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Yang] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Yang] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Yang] and [Instant ATB 1] to the user"
+    }
+  ]
+}

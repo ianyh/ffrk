@@ -1,0 +1,32 @@
+{
+  "id": "23000005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000005/23000005_256.png",
+  "character": "Ward",
+  "name": "Anchor Rain",
+  "name_jp": "アンカーレイン",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.69 each), grants [Buff Water 20% (15s)], [Buff Ice 20% (15s)], [Buff Earth 20% (15s)] and [Career Change Mode II (Ice, Earth, Water)] to the user, grants [50% Damage Reduction Barrier 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.69 each), grants [Buff Water 20% (15s)], [Buff Ice 20% (15s)], [Buff Earth 20% (15s)] and [Career Change Mode II (Ice, Earth, Water)] to the user, grants [50% Damage Reduction Barrier 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.69 each), grants [Buff Water 20% (15s)], [Buff Ice 20% (15s)], [Buff Earth 20% (15s)] and [Career Change Mode II (Ice, Earth, Water)] to the user, grants [50% Damage Reduction Barrier 1] to all allies"
+    }
+  ]
+}

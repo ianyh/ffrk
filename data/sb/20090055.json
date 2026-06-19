@@ -1,0 +1,30 @@
+{
+  "id": "20090055",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090055/20090055_256.png",
+  "character": "Rydia",
+  "name": "Roaring Eidolon King's Favor",
+  "name_jp": "轟・幻獣王の冥護",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target summon magic attacks (2.60 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & Quick Water",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target summon magic attacks (2.60 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & Quick Water"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target summon magic attacks (2.60 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & Quick Water"
+    }
+  ]
+}

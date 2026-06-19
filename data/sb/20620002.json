@@ -1,0 +1,29 @@
+{
+  "id": "20620002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620002/20620002_256.png",
+  "character": "Eiko",
+  "name": "Withering Winds",
+  "name_jp": "千年の風化",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "IX",
+  "elements": [
+    "Wind"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "One group attack (7.17), minimum damage 1050, [MAG -50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17), minimum damage 1050, [MAG -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17), minimum damage 1050, [MAG -50%] for 25 seconds"
+    }
+  ]
+}

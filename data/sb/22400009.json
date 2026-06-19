@@ -1,0 +1,27 @@
+{
+  "id": "22400009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400009/22400009_256.png",
+  "character": "Mustadio",
+  "name": "Awoken Lost Legacy (Dual Shift)",
+  "name_jp": "覚醒失われた文明の遺産",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Dual Shift: ATK/MAG/DEF/RES +15% for 8 seconds to party, Instant Cast & Zero SB Cost, Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Machinist Ability Boost, Instant Machinist & chases a Machinist ability with Instant Cast 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Dual Shift: ATK/MAG/DEF/RES +15% for 8 seconds to party, Instant Cast & Zero SB Cost, Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Machinist Ability Boost, Instant Machinist & chases a Machinist ability with Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Dual Shift: ATK/MAG/DEF/RES +15% for 8 seconds to party, Instant Cast & Zero SB Cost, Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Machinist Ability Boost, Instant Machinist & chases a Machinist ability with Instant Cast 1 to user"
+    }
+  ]
+}

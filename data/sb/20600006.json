@@ -1,0 +1,27 @@
+{
+  "id": "20600006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600006/20600006_256.png",
+  "character": "Lightning",
+  "name": "Smite",
+  "name_jp": "インパクトブレイク",
+  "tier": "SB",
+  "sb_version": "SB3",
+  "realm": "XIII",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (1.68 each), grants [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.68 each), grants [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.68 each), grants [Instant Cast 2] to the user"
+    }
+  ]
+}

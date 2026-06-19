@@ -1,0 +1,30 @@
+{
+  "id": "20300011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300011/20300011_256.png",
+  "character": "Rinoa",
+  "name": "Angel Wing Frost Vortex",
+  "name_jp": "ヴァリー・冷渦",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (1.70 each), grants [Attach Ice] and [Chosen Sorceress EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Ice] and [Chosen Sorceress EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Attach Ice] and [Chosen Sorceress EX Mode] to the user"
+    }
+  ]
+}

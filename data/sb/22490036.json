@@ -1,0 +1,27 @@
+{
+  "id": "22490036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490036/22490036_256.png",
+  "character": "Leo",
+  "name": "Super Flash (Leo)",
+  "name_jp": "超装【レオ将軍】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Instant Cast 1], grants [Deadly Strikes +15%] to En-Earth members, grants [Instant ATB 1] to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 1], grants [Deadly Strikes +15%] to En-Earth members, grants [Instant ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 1], grants [Deadly Strikes +15%] to En-Earth members, grants [Instant ATB 1] to user"
+    }
+  ]
+}

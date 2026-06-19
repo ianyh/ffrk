@@ -1,0 +1,30 @@
+{
+  "id": "20090005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090005/20090005_256.png",
+  "character": "Rydia",
+  "name": "Mournful Cry",
+  "name_jp": "悲痛なる少女の叫び",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group attacks (2.37 each), minimum damage 1100, grants [Haste], [Attach Earth] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.37 each), minimum damage 1100, grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.37 each), minimum damage 1100, grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ]
+}

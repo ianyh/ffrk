@@ -1,0 +1,27 @@
+{
+  "id": "22330025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330025/22330025_256.png",
+  "character": "Papalymo",
+  "name": "Continuous Flash: Papalymo (Fire)",
+  "name_jp": "連閃・パパリモ炎",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1] to the user"
+    }
+  ]
+}

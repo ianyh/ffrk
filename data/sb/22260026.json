@@ -1,0 +1,31 @@
+{
+  "id": "22260026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260026/22260026_256.png",
+  "character": "Serah",
+  "name": "Artemis Archer",
+  "name_jp": "アルテミスアーチャー",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Farseer], [Damage Cap +10000], [Quick Cast], [(Ice/Water) Ability +30% Boost (15s)] and [Double Crystarium Mode II (Ice, Water)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Farseer], [Damage Cap +10000], [Quick Cast], [(Ice/Water) Ability +30% Boost (15s)] and [Double Crystarium Mode II (Ice, Water)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Farseer], [Damage Cap +10000], [Quick Cast], [(Ice/Water) Ability +30% Boost (15s)] and [Double Crystarium Mode II (Ice, Water)] to the user"
+    }
+  ]
+}

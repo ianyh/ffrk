@@ -1,0 +1,29 @@
+{
+  "id": "22240002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240002/22240002_256.png",
+  "character": "Kuja",
+  "name": "Dread of Death",
+  "name_jp": "死神の恐怖",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "IX",
+  "elements": [
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Four group attacks (2.35 each), grants [Attach Dark] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.35 each), grants [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.35 each), grants [Attach Dark] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22720004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720004/22720004_256.png",
+  "character": "Ceodore",
+  "name": "Trinity Slash",
+  "name_jp": "トリニティスラッシュ",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.72 each), [ATK and RES +30%] to the user for 25 seconds, grants [Attach Holy] and [Sentinel] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), [ATK and RES +30%] to the user for 25 seconds, grants [Attach Holy] and [Sentinel] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), [ATK and RES +30%] to the user for 25 seconds, grants [Attach Holy] and [Sentinel] to the user"
+    }
+  ]
+}

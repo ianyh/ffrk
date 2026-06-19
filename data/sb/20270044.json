@@ -1,0 +1,27 @@
+{
+  "id": "20270044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270044/20270044_256.png",
+  "character": "Firion",
+  "name": "Starry Rose of Rebellion",
+  "name_jp": "極星革命の象徴・のばら",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Master Mode], [Master Mode: Firion], [Instant ATB 1], [Diffusion Barrier 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Firion], [Instant ATB 1], [Diffusion Barrier 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Master Mode: Firion], [Instant ATB 1], [Diffusion Barrier 1]"
+    }
+  ]
+}

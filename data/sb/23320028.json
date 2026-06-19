@@ -1,0 +1,27 @@
+{
+  "id": "23320028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320028/23320028_256.png",
+  "character": "Wedge",
+  "name": "Super Flash (Wedge)",
+  "name_jp": "超装【ウェッジ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Wind members & Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Wind members & Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Quick Cast 1 to party, Deadly Strikes or Sorcery Damage +15% to En-Wind members & Instant ATB 1 to user"
+    }
+  ]
+}

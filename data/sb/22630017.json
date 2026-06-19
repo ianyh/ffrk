@@ -1,0 +1,30 @@
+{
+  "id": "22630017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630017/22630017_256.png",
+  "character": "Rufus",
+  "name": "President's Prospects",
+  "name_jp": "若きプレジデントの実力",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)] if 0-3 FF7 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] to all allies if 4+ FF7 are alive, grants [Attach Dark with Stacking], [Awoken Charismatic Ambition] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)] if 0-3 FF7 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] to all allies if 4+ FF7 are alive, grants [Attach Dark with Stacking], [Awoken Charismatic Ambition] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)] if 0-3 FF7 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] to all allies if 4+ FF7 are alive, grants [Attach Dark with Stacking], [Awoken Charismatic Ambition] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22150010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22150010/22150010_256.png",
+  "character": "Agrias",
+  "name": "Holy Cross Blade",
+  "name_jp": "ホーリークロスブレード",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Holy], [Awoken Knight], [Damage Cap +10000] and [Incandescent Sear Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Holy], [Awoken Knight], [Damage Cap +10000] and [Incandescent Sear Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Holy], [Awoken Knight], [Damage Cap +10000] and [Incandescent Sear Follow-Up] to the user"
+    }
+  ]
+}

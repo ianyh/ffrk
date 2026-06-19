@@ -1,0 +1,30 @@
+{
+  "id": "22270027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270027/22270027_256.png",
+  "character": "Braska",
+  "name": "High Summoner's Journey",
+  "name_jp": "大召喚士の旅路",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "15 single-target Fire/NE summon magic attacks, Weakness Damage +30% to Summoners, En-Fire, En-Fire Stack, Awoken Summoning Mode, Cap Break Level 1 & Quick Cast to user\nAwoken Summoning Mode: Unlimited Summoning Hones, Summoning Ability Boost & Dualcast Summoning",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Fire/NE summon magic attacks, Weakness Damage +30% to Summoners, En-Fire, En-Fire Stack, Awoken Summoning Mode, Cap Break Level 1 & Quick Cast to user\nAwoken Summoning Mode: Unlimited Summoning Hones, Summoning Ability Boost & Dualcast Summoning"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Fire/NE summon magic attacks, Weakness Damage +30% to Summoners, En-Fire, En-Fire Stack, Awoken Summoning Mode, Cap Break Level 1 & Quick Cast to user\nAwoken Summoning Mode: Unlimited Summoning Hones, Summoning Ability Boost & Dualcast Summoning"
+    }
+  ]
+}

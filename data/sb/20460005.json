@@ -1,0 +1,30 @@
+{
+  "id": "20460005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460005/20460005_256.png",
+  "character": "Ricard",
+  "name": "Wyvern's Roar",
+  "name_jp": "竜翼竜哮",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "II",
+  "elements": [
+    "Wind",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged jump attacks (0.71 each), grants [Jump Instant Cast] and [Wyvern's Roar] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Jump Instant Cast] and [Wyvern's Roar] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), grants [Jump Instant Cast] and [Wyvern's Roar] to the user"
+    }
+  ]
+}

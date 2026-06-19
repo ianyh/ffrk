@@ -1,0 +1,27 @@
+{
+  "id": "22140004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22140004/22140004_256.png",
+  "character": "Ramza",
+  "name": "Hail of Stones",
+  "name_jp": "投石六連弾",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "FFT",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single ranged attacks (0.89 each), causes [Stun] (100%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.89 each), causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.89 each), causes [Stun] (100%)"
+    }
+  ]
+}

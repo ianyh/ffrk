@@ -1,0 +1,30 @@
+{
+  "id": "23100016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100016/23100016_256.png",
+  "character": "Queen",
+  "name": "Lightning Flash (Queen)",
+  "name_jp": "雷閃【クイーン】",
+  "tier": "LBG",
+  "sb_version": "LBG1",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    }
+  ]
+}

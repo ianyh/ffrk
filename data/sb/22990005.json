@@ -1,0 +1,31 @@
+{
+  "id": "22990005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990005/22990005_256.png",
+  "character": "Kiros",
+  "name": "Katar Dance",
+  "name_jp": "カタール乱舞",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.62 each), grants [Quick Cast 1], [Switch Draw Mode II (Ice, Dark)] and [Katar Dance] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.62 each), grants [Quick Cast 1], [Switch Draw Mode II (Ice, Dark)] and [Katar Dance] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.62 each), grants [Quick Cast 1], [Switch Draw Mode II (Ice, Dark)] and [Katar Dance] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22310021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310021/22310021_256.png",
+  "character": "Garland",
+  "name": "Dark Flash (Garland)",
+  "name_jp": "闇閃【ガーランド】",
+  "tier": "LBG",
+  "sb_version": "LBG2",
+  "realm": "I",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20370048",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370048/20370048_256.png",
+  "character": "Vivi",
+  "name": "Zenith Venom Sphere",
+  "name_jp": "究極ヴェノムスフィア",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "IX",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Poison/NE magic attacks at Cap Break Level 1, Lv.3 En-Poison, En-Poison Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Poison Damage +20%, Magic Casting Speed x1.1 & chases a Poison ability with Dualcast Poison 4 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Poison, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Poison/NE magic attacks at Cap Break Level 1, Lv.3 En-Poison, En-Poison Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Poison Damage +20%, Magic Casting Speed x1.1 & chases a Poison ability with Dualcast Poison 4 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Poison, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Poison/NE magic attacks at Cap Break Level 1, Lv.3 En-Poison, En-Poison Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Poison Damage +20%, Magic Casting Speed x1.1 & chases a Poison ability with Dualcast Poison 4 to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Poison, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

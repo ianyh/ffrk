@@ -1,0 +1,27 @@
+{
+  "id": "22160024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160024/22160024_256.png",
+  "character": "Relm",
+  "name": "Bond (Relm)",
+  "name_jp": "絆【リルム】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates VI Chain (150) & 50% VI Field, ATK/MAG/MND +30%, Instant Cast 1 & 30% Stoneskin to party, Link Assist Mode to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (Max 3 chases, 1 per element)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates VI Chain (150) & 50% VI Field, ATK/MAG/MND +30%, Instant Cast 1 & 30% Stoneskin to party, Link Assist Mode to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (Max 3 chases, 1 per element)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates VI Chain (150) & 50% VI Field, ATK/MAG/MND +30%, Instant Cast 1 & 30% Stoneskin to party, Link Assist Mode to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (Max 3 chases, 1 per element)"
+    }
+  ]
+}

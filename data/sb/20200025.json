@@ -1,0 +1,30 @@
+{
+  "id": "20200025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200025/20200025_256.png",
+  "character": "Lenna",
+  "name": "Woven Bond: Lenna",
+  "name_jp": "紡絆・レナ",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "V",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target white magic attacks (2.70 each) capped at 19999, activates V Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Dancer abilities, grants Quick Cast 1 to party (max 2 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target white magic attacks (2.70 each) capped at 19999, activates V Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Dancer abilities, grants Quick Cast 1 to party (max 2 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target white magic attacks (2.70 each) capped at 19999, activates V Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Dancer abilities, grants Quick Cast 1 to party (max 2 chases)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20310007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310007/20310007_256.png",
+  "character": "Snow",
+  "name": "Here We Go!",
+  "name_jp": "テンションあげあげ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.84 each), 0.96 multiplier if all allies are alive, grants [Last Stand] to all allies, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.84 each), 0.96 multiplier if all allies are alive, grants [Last Stand] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.84 each), 0.96 multiplier if all allies are alive, grants [Last Stand] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

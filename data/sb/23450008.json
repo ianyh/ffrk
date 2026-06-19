@@ -1,0 +1,27 @@
+{
+  "id": "23450008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450008/23450008_256.png",
+  "character": "Serafie",
+  "name": "Awoken Wind Rhapsody (Dual Shift)",
+  "name_jp": "覚醒かぜのラプソディ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Serafie)], removes [Dual Awoken Wind Mode I (Serafie)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Serafie)], removes [Dual Awoken Wind Mode I (Serafie)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Serafie)], removes [Dual Awoken Wind Mode I (Serafie)]"
+    }
+  ]
+}

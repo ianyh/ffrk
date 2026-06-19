@@ -1,0 +1,30 @@
+{
+  "id": "20520014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520014/20520014_256.png",
+  "character": "Yuna",
+  "name": "Grand Summon Dragonlord",
+  "name_jp": "マスター召喚・竜王",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "X",
+  "elements": [
+    "Holy",
+    "Wind"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999"
+    }
+  ]
+}

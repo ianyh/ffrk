@@ -1,0 +1,30 @@
+{
+  "id": "22130010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130010/22130010_256.png",
+  "character": "Leila",
+  "name": "Pirate's Gaze",
+  "name_jp": "パイレーツゲイザー",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "II",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.63 each), grants [Attach Water], [High Quick Cast 1], [Dim Spray Follow-Up] and [Pirate's Geyser] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [Attach Water], [High Quick Cast 1], [Dim Spray Follow-Up] and [Pirate's Geyser] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [Attach Water], [High Quick Cast 1], [Dim Spray Follow-Up] and [Pirate's Geyser] to the user"
+    }
+  ]
+}

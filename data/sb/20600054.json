@@ -1,0 +1,31 @@
+{
+  "id": "20600054",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600054/20600054_256.png",
+  "character": "Lightning",
+  "name": "Zenith Liberator's Drive",
+  "name_jp": "究極リベレートドライブ",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Lightning/Holy/NE physical attacks at Cap Break Level 1, Lv.2 En-Lightning Stack or Lv.2 En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Holy Damage +20%, Physical Casting Speed x1.1 & chases Lightning/Holy abilities with Lightning/Holy Damage +30% for 1 turn to user (max 5 chases)\nUltimate Dexterity Mode: Dualcast Lightning/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Blaze Rush+: 1.2s CT, Cap Break Level 1 after 3 uses; Crushing Blow+: 0.825s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/Holy/NE physical attacks at Cap Break Level 1, Lv.2 En-Lightning Stack or Lv.2 En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Holy Damage +20%, Physical Casting Speed x1.1 & chases Lightning/Holy abilities with Lightning/Holy Damage +30% for 1 turn to user (max 5 chases)\nUltimate Dexterity Mode: Dualcast Lightning/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Blaze Rush+: 1.2s CT, Cap Break Level 1 after 3 uses; Crushing Blow+: 0.825s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/Holy/NE physical attacks at Cap Break Level 1, Lv.2 En-Lightning Stack or Lv.2 En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Holy Damage +20%, Physical Casting Speed x1.1 & chases Lightning/Holy abilities with Lightning/Holy Damage +30% for 1 turn to user (max 5 chases)\nUltimate Dexterity Mode: Dualcast Lightning/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Blaze Rush+: 1.2s CT, Cap Break Level 1 after 3 uses; Crushing Blow+: 0.825s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ]
+}

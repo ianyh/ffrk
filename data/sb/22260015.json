@@ -1,0 +1,27 @@
+{
+  "id": "22260015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260015/22260015_256.png",
+  "character": "Serah",
+  "name": "Artemis Field",
+  "name_jp": "アルテミスフィールド",
+  "tier": "Glint",
+  "sb_version": "Glint1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Water Stacking], [Attach Water] and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water Stacking], [Attach Water] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water Stacking], [Attach Water] and [Instant Cast 1] to the user"
+    }
+  ]
+}

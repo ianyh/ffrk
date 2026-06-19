@@ -1,0 +1,30 @@
+{
+  "id": "22100008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100008/22100008_256.png",
+  "character": "Laguna",
+  "name": "Freezing Beam",
+  "name_jp": "フリージングビーム",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single ranged attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.83 each), grants [Haste], [Attach Ice] and [Burst Mode] to the user"
+    }
+  ]
+}

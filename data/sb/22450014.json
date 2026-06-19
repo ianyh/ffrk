@@ -1,0 +1,27 @@
+{
+  "id": "22450014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450014/22450014_256.png",
+  "character": "Noel",
+  "name": "Ice Bond (Noel)",
+  "name_jp": "氷絆【ノエル】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [ATK +50% (25s)], grants [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [ATK +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [ATK +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ]
+}

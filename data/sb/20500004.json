@@ -1,0 +1,27 @@
+{
+  "id": "20500004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500004/20500004_256.png",
+  "character": "Quistis",
+  "name": "Cerberus",
+  "name_jp": "G.F.ケルベロス",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste] and [Magical Quick Cast 3]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Magical Quick Cast 3]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Magical Quick Cast 3]"
+    }
+  ]
+}

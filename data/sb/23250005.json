@@ -1,0 +1,27 @@
+{
+  "id": "23250005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23250005/23250005_256.png",
+  "character": "Riku",
+  "name": "Vertical Strike",
+  "name_jp": "縦振り",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "KH",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Three single attacks (0.50 each)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (0.50 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (0.50 each)"
+    }
+  ]
+}

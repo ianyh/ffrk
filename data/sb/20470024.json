@@ -1,0 +1,66 @@
+{
+  "id": "20470024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470024/20470024_256.png",
+  "character": "Red XIII",
+  "name": "Zenith Lunatic Ray",
+  "name_jp": "究極ルナティックレイ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Red XIII] to user. Causes [MAG and RES -50% (25s)] on enemy. Grants [Attach Earth 3 with Stacking].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Red XIII] to user. Causes [MAG and RES -50% (25s)] on enemy. Grants [Attach Earth 3 with Stacking]."
+    },
+    {
+      "name": "Zenith Mode: Red XIII",
+      "text": "Increases Earth Infusion damage bonus by 20%, cast speed x1.10 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage, Earth abilities trigger 1 additional time, casts Spirit Attack: Red XIII after using a Earth ability (max 3), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
+    },
+    {
+      "name": "Earth Rave+",
+      "text": "Five single attacks (? each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Earth 10% (5s)]"
+    },
+    {
+      "name": "Spirit Attack: Red XIII",
+      "text": "Grants [Buff Earth 10% (5s)] and [Quick Cast 1] to all allies"
+    },
+    {
+      "name": "Zenith Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses, after the duration the status only expires after the character takes an action"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "MAG and RES -50% (25s)",
+      "text": "MAG and RES -50%"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Red XIII] to user. Causes [MAG and RES -50% (25s)] on enemy. Grants [Attach Earth 3 with Stacking]."
+    },
+    {
+      "name": "Earth Rave+",
+      "text": "Five single attacks (? each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Earth 10% (5s)]"
+    },
+    {
+      "name": "Spirit Attack: Red XIII",
+      "text": "Grants [Buff Earth 10% (5s)] and [Quick Cast 1] to all allies"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22780006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780006/22780006_256.png",
+  "character": "Cid (VII)",
+  "name": "Dreams of Space",
+  "name_jp": "ドリームトゥスペース",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000], [Flight of Intrigue Mode] and [Dream of Space] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000], [Flight of Intrigue Mode] and [Dream of Space] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000], [Flight of Intrigue Mode] and [Dream of Space] to the user"
+    }
+  ]
+}

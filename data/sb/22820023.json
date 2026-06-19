@@ -1,0 +1,30 @@
+{
+  "id": "22820023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820023/22820023_256.png",
+  "character": "Shelke",
+  "name": "Radiant Transparent Spark",
+  "name_jp": "耀光無式・雷閃",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Instant Lightning, Dualcast Lightning & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Instant Lightning, Dualcast Lightning & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Instant Lightning, Dualcast Lightning & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

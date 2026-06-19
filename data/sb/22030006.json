@@ -1,0 +1,30 @@
+{
+  "id": "22030006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030006/22030006_256.png",
+  "character": "Fang",
+  "name": "Aerial Loop",
+  "name_jp": "スカイハイループ",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "XIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.81 each), grants [Attach Wind] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.81 each), grants [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.81 each), grants [Attach Wind] to the user"
+    }
+  ]
+}

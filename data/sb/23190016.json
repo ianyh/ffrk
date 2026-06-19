@@ -1,0 +1,30 @@
+{
+  "id": "23190016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190016/23190016_256.png",
+  "character": "Cinque",
+  "name": "Apex Homerun Swing",
+  "name_jp": "フルスイング・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Homerun Swing level 0/1/2, removes Arcane Dyad Empowered: Cinque from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Homerun Swing level 0/1/2, removes Arcane Dyad Empowered: Cinque from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Homerun Swing level 0/1/2, removes Arcane Dyad Empowered: Cinque from the user"
+    }
+  ]
+}

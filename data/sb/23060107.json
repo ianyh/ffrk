@@ -1,0 +1,38 @@
+{
+  "id": "23060107",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060107/23060107_256.png",
+  "character": "Dr. Mog",
+  "name": "Nameless Historia",
+  "name_jp": "名もなきヒストリア",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Nameless Historia level 0/1/2, removes Arcane Dyad Empowered: Dr. Mog from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Nameless Historia level 0/1/2, removes Arcane Dyad Empowered: Dr. Mog from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Nameless Historia level 0/1/2, removes Arcane Dyad Empowered: Dr. Mog from the user"
+    }
+  ]
+}

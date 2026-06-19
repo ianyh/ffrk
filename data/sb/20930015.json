@@ -1,0 +1,31 @@
+{
+  "id": "20930015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930015/20930015_256.png",
+  "character": "Faris",
+  "name": "Pirate's Bravery",
+  "name_jp": "パイレーツブレイブ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [Imperil Wind 20%] and [Imperil Fire 20%] for 25 seconds, grants [Awoken Thief], [Damage Cap +10000], [Twin Element Mode (Fire, Wind)] and [Twin Anchor Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Wind 20%] and [Imperil Fire 20%] for 25 seconds, grants [Awoken Thief], [Damage Cap +10000], [Twin Element Mode (Fire, Wind)] and [Twin Anchor Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Wind 20%] and [Imperil Fire 20%] for 25 seconds, grants [Awoken Thief], [Damage Cap +10000], [Twin Element Mode (Fire, Wind)] and [Twin Anchor Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22840005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22840005/22840005_256.png",
+  "character": "Aemo",
+  "name": "Radiant Photon Barrage",
+  "name_jp": "耀光フォトンパラージ",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants Deadly Strikes +20%, Instant ATB 1, Instant Cast 1, grants Crystal Mode to user\nCrystal Mode: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities\nCrystal Force I/II: h60 heal & PHY Damage +30% for 1 turn to party, Instant Cast, Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Deadly Strikes +20%, Instant ATB 1, Instant Cast 1, grants Crystal Mode to user\nCrystal Mode: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities\nCrystal Force I/II: h60 heal & PHY Damage +30% for 1 turn to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Deadly Strikes +20%, Instant ATB 1, Instant Cast 1, grants Crystal Mode to user\nCrystal Mode: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities\nCrystal Force I/II: h60 heal & PHY Damage +30% for 1 turn to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ]
+}

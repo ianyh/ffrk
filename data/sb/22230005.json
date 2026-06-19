@@ -1,0 +1,30 @@
+{
+  "id": "22230005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230005/22230005_256.png",
+  "character": "Desch",
+  "name": "Ancient Lightning",
+  "name_jp": "太古の迅雷",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "III",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Five group attacks (2.34 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.34 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.34 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23140001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140001/23140001_256.png",
+  "character": "Thief (I)",
+  "name": "Invisibreak",
+  "name_jp": "インビジブレイク",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "I",
+  "elements": [
+    "Wind",
+    "Poison"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten random attacks (0.48 each), [ATK and DEF -50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.48 each), [ATK and DEF -50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.48 each), [ATK and DEF -50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "21000018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/21000018/21000018_256.png",
+  "character": "-",
+  "name": "Veil of Annulment",
+  "name_jp": "マインドアップ",
+  "tier": "Shared",
+  "sb_version": "Shared",
+  "realm": "-",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [Shell]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Shell]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Shell]"
+    }
+  ]
+}

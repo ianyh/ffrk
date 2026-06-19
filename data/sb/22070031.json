@@ -1,0 +1,30 @@
+{
+  "id": "22070031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070031/22070031_256.png",
+  "character": "Kefka",
+  "name": "Woven Bond: Kefka (Dark)",
+  "name_jp": "紡絆・ケフカ闇",
+  "tier": "LBC",
+  "sb_version": "LBC1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "10 single-target Dark/NE magic attacks at Cap Break Level 1, activates Dark Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Dark/NE Overflow magic attack, Quick Dark 2 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Dark/NE magic attacks at Cap Break Level 1, activates Dark Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Dark/NE Overflow magic attack, Quick Dark 2 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Dark/NE magic attacks at Cap Break Level 1, activates Dark Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Dark/NE Overflow magic attack, Quick Dark 2 to user"
+    }
+  ]
+}

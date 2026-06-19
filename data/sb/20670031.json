@@ -1,0 +1,27 @@
+{
+  "id": "20670031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670031/20670031_256.png",
+  "character": "Zell",
+  "name": "War-Awoken My Omega Heaven",
+  "name_jp": "戦醒俺式オメガヘヴン",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Zell], [ATK +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Zell], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Zell], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

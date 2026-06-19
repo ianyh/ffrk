@@ -1,0 +1,30 @@
+{
+  "id": "20390010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390010/20390010_256.png",
+  "character": "Fran",
+  "name": "Thundering Hail",
+  "name_jp": "星天霹靂弾",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "XII",
+  "elements": [
+    "Ice",
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Eight random ranged attacks (0.79 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged attacks (0.79 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged attacks (0.79 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

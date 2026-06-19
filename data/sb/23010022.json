@@ -1,0 +1,31 @@
+{
+  "id": "23010022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010022/23010022_256.png",
+  "character": "Rude",
+  "name": "Radiant Rising Headbutt",
+  "name_jp": "耀光Rヘッドバット",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [Attach Earth with Stacking]/[Attach Lightning with Stacking] to the user depending on entry damage, grants [Damage Cap +10000], Radiant Rising Headbutt, and Crystal Mode to the user\nCrystal Mode: Earth/Lightning Ability Boost, Dualcast Earth/Lightning, Zero Hone Cost to Earth/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/Lightning/NE ranged physical attacks (2.00 or 6.60 each) capped at 19999, Instant Cast, grants [Instant Cast 1] to all allies, grants [Damage Cap +10000 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user\nRadiant Rising Headbutt: After using an Earth or Lightning ability, grants [Soul Break Gauge +250] to the user (max 1 chase)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [Attach Earth with Stacking]/[Attach Lightning with Stacking] to the user depending on entry damage, grants [Damage Cap +10000], Radiant Rising Headbutt, and Crystal Mode to the user\nCrystal Mode: Earth/Lightning Ability Boost, Dualcast Earth/Lightning, Zero Hone Cost to Earth/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/Lightning/NE ranged physical attacks (2.00 or 6.60 each) capped at 19999, Instant Cast, grants [Instant Cast 1] to all allies, grants [Damage Cap +10000 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user\nRadiant Rising Headbutt: After using an Earth or Lightning ability, grants [Soul Break Gauge +250] to the user (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [Attach Earth with Stacking]/[Attach Lightning with Stacking] to the user depending on entry damage, grants [Damage Cap +10000], Radiant Rising Headbutt, and Crystal Mode to the user\nCrystal Mode: Earth/Lightning Ability Boost, Dualcast Earth/Lightning, Zero Hone Cost to Earth/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/Lightning/NE ranged physical attacks (2.00 or 6.60 each) capped at 19999, Instant Cast, grants [Instant Cast 1] to all allies, grants [Damage Cap +10000 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user\nRadiant Rising Headbutt: After using an Earth or Lightning ability, grants [Soul Break Gauge +250] to the user (max 1 chase)"
+    }
+  ]
+}

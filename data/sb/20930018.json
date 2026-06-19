@@ -1,0 +1,30 @@
+{
+  "id": "20930018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930018/20930018_256.png",
+  "character": "Faris",
+  "name": "Serpent's Roar",
+  "name_jp": "海竜の咆哮",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22940015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940015/22940015_256.png",
+  "character": "Scott",
+  "name": "Resolute Flames",
+  "name_jp": "気高き火焔",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "II",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Physical Quick Cast] to all allies, grants [Attach Fire], [Awoken Kashuan Prince] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Physical Quick Cast] to all allies, grants [Attach Fire], [Awoken Kashuan Prince] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Physical Quick Cast] to all allies, grants [Attach Fire], [Awoken Kashuan Prince] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

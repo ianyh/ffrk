@@ -1,0 +1,27 @@
+{
+  "id": "20470006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470006/20470006_256.png",
+  "character": "Red XIII",
+  "name": "Protector's Roar",
+  "name_jp": "星守の雄叫び",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "[ATK, DEF and MND +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, DEF and MND +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, DEF and MND +30%] for 25 seconds"
+    }
+  ]
+}

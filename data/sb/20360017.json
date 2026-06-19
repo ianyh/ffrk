@@ -1,0 +1,29 @@
+{
+  "id": "20360017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360017/20360017_256.png",
+  "character": "Garnet",
+  "name": "Truespark Anthem",
+  "name_jp": "清廉なる奔雷の歌",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "IX",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
+    }
+  ]
+}

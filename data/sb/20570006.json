@@ -1,0 +1,30 @@
+{
+  "id": "20570006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570006/20570006_256.png",
+  "character": "Steiner",
+  "name": "Knight's Honor",
+  "name_jp": "己の騎士道",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

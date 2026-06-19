@@ -1,0 +1,27 @@
+{
+  "id": "22070001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070001/22070001_256.png",
+  "character": "Kefka",
+  "name": "Havoc Wing",
+  "name_jp": "はかいのつばさ",
+  "tier": "SB",
+  "sb_version": "SB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group attacks (3.15 each), causes [Blind] (21%) and [Paralyze] (16%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (3.15 each), causes [Blind] (21%) and [Paralyze] (16%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (3.15 each), causes [Blind] (21%) and [Paralyze] (16%)"
+    }
+  ]
+}

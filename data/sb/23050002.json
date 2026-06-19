@@ -1,0 +1,27 @@
+{
+  "id": "23050002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23050002/23050002_256.png",
+  "character": "Montblanc",
+  "name": "Sidekick",
+  "name_jp": "手助け",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste], [MAG and MND +30%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [MAG and MND +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [MAG and MND +30%] for 25 seconds"
+    }
+  ]
+}

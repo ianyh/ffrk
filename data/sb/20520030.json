@@ -1,0 +1,30 @@
+{
+  "id": "20520030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520030/20520030_256.png",
+  "character": "Yuna",
+  "name": "Blast Ray",
+  "name_jp": "ブラスト・レイ",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "X",
+  "elements": [
+    "Holy",
+    "Wind"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
+    }
+  ]
+}

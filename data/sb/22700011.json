@@ -1,0 +1,27 @@
+{
+  "id": "22700011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22700011/22700011_256.png",
+  "character": "Rapha",
+  "name": "Lightning Bond (Rapha)",
+  "name_jp": "雷絆【ラファ】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Activates Lightning Limit Chain (150) & 50% Lightning Field, Imperil Lightning 10/20/30% for 5 seconds to all targets with 0/2/4 En-Lightning members, MAG +50% to party, Instant Cast 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Limit Chain (150) & 50% Lightning Field, Imperil Lightning 10/20/30% for 5 seconds to all targets with 0/2/4 En-Lightning members, MAG +50% to party, Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Limit Chain (150) & 50% Lightning Field, Imperil Lightning 10/20/30% for 5 seconds to all targets with 0/2/4 En-Lightning members, MAG +50% to party, Instant Cast 1 to user"
+    }
+  ]
+}

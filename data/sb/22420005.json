@@ -1,0 +1,30 @@
+{
+  "id": "22420005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22420005/22420005_256.png",
+  "character": "Paine",
+  "name": "Rushing Steel",
+  "name_jp": "ネオ・アクアセイバー",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Water] and [Spellblade Quick Cast v2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Water] and [Spellblade Quick Cast v2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Water] and [Spellblade Quick Cast v2] to the user"
+    }
+  ]
+}

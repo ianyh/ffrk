@@ -1,0 +1,31 @@
+{
+  "id": "22500028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500028/22500028_256.png",
+  "character": "Angeal",
+  "name": "War-Awoken Proud White Wing (Weapon Skill)",
+  "name_jp": "戦醒誇り抱きし白翼",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Wind/Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Holy Abilities, and Weapon Skill Blue/Gold with at least 0/4 Knight/VII members\nWS Blue: PHY Damage +50 to user\nWS Gold: PHY Damage +30% to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Holy Abilities, and Weapon Skill Blue/Gold with at least 0/4 Knight/VII members\nWS Blue: PHY Damage +50 to user\nWS Gold: PHY Damage +30% to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Wind/Holy/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Holy Abilities, and Weapon Skill Blue/Gold with at least 0/4 Knight/VII members\nWS Blue: PHY Damage +50 to user\nWS Gold: PHY Damage +30% to all allies"
+    }
+  ]
+}

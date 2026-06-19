@@ -1,0 +1,30 @@
+{
+  "id": "20550037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550037/20550037_256.png",
+  "character": "Sabin",
+  "name": "War-Awoken Erupting Phoenix Form (Weapon Skill)",
+  "name_jp": "戦醒鳳凰輪廻・爆昇",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single piercing attack (11.00) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [Surging Power +30% 6] to all allies/[Monk +30% Boost (15s)] to all allies if there are 0-3/4+ Monk allies in the party.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [Surging Power +30% 6] to all allies/[Monk +30% Boost (15s)] to all allies if there are 0-3/4+ Monk allies in the party."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [Surging Power +30% 6] to all allies/[Monk +30% Boost (15s)] to all allies if there are 0-3/4+ Monk allies in the party."
+    }
+  ]
+}

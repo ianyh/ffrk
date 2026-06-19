@@ -1,0 +1,30 @@
+{
+  "id": "20400020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400020/20400020_256.png",
+  "character": "Bartz",
+  "name": "Rousing Winds",
+  "name_jp": "風のめざめ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Zephyr], [Damage Cap +10000] and [Enlightening Breeze Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Zephyr], [Damage Cap +10000] and [Enlightening Breeze Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Zephyr], [Damage Cap +10000] and [Enlightening Breeze Follow-Up] to the user"
+    }
+  ]
+}

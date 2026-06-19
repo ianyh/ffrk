@@ -1,0 +1,30 @@
+{
+  "id": "20140016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140016/20140016_256.png",
+  "character": "Tyro",
+  "name": "Link of Light",
+  "name_jp": "リンク・オブ・ライト",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "Core",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Three single ranged attacks (5.20 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (5.20 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (5.20 each) capped at 99999"
+    }
+  ]
+}

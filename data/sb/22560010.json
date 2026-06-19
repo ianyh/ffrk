@@ -1,0 +1,27 @@
+{
+  "id": "22560010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22560010/22560010_256.png",
+  "character": "Gaffgarion",
+  "name": "Shadowy Stance",
+  "name_jp": "暗の型",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Instant Cast 1]"
+    }
+  ]
+}

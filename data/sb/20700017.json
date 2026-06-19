@@ -1,0 +1,30 @@
+{
+  "id": "20700017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700017/20700017_256.png",
+  "character": "Vaan",
+  "name": "Dreadnought",
+  "name_jp": "ドレッドノート",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [100% Critical], [Awoken Thief], [Damage Cap +10000] and [Blast & Run Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [100% Critical], [Awoken Thief], [Damage Cap +10000] and [Blast & Run Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [100% Critical], [Awoken Thief], [Damage Cap +10000] and [Blast & Run Follow-Up] to the user"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22500012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500012/22500012_256.png",
+  "character": "Angeal",
+  "name": "Burden of Pride",
+  "name_jp": "背負いし誇り",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Awoken Pride], [Damage Cap +10000], [Linked Materia Mode (Wind, Holy)], [Dream Herald Mode], [Dream Herald Quick Cast] and [Dream Herald Critical Damage +50%] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Pride], [Damage Cap +10000], [Linked Materia Mode (Wind, Holy)], [Dream Herald Mode], [Dream Herald Quick Cast] and [Dream Herald Critical Damage +50%] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Pride], [Damage Cap +10000], [Linked Materia Mode (Wind, Holy)], [Dream Herald Mode], [Dream Herald Quick Cast] and [Dream Herald Critical Damage +50%] to the user"
+    }
+  ]
+}

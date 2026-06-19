@@ -1,0 +1,30 @@
+{
+  "id": "22450006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450006/22450006_256.png",
+  "character": "Noel",
+  "name": "Blizzard Hunt",
+  "name_jp": "ブリザドハンティング",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), grants [Attach Ice] and [Farseer's Guardian EX Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Ice] and [Farseer's Guardian EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Ice] and [Farseer's Guardian EX Mode] to the user"
+    }
+  ]
+}

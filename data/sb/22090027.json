@@ -1,0 +1,31 @@
+{
+  "id": "22090027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090027/22090027_256.png",
+  "character": "Jecht",
+  "name": "Radiant Jecht Dream",
+  "name_jp": "耀光ジェクトドリーム",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Fire with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Jecht] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Fire with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Jecht] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking]/[Attach Fire with Stacking] based on entry element damage, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Jecht] to the user"
+    }
+  ]
+}

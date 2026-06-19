@@ -1,0 +1,27 @@
+{
+  "id": "20770030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770030/20770030_256.png",
+  "character": "Hope",
+  "name": "Awoken Reflecting Arc (Dual Shift)",
+  "name_jp": "覚醒Rブーメラン",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with 2 single-target Holy/NE Overflow summon magic attacks, Holy Ability Damage +50% for 2 turns to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with 2 single-target Holy/NE Overflow summon magic attacks, Holy Ability Damage +50% for 2 turns to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with 2 single-target Holy/NE Overflow summon magic attacks, Holy Ability Damage +50% for 2 turns to user"
+    }
+  ]
+}

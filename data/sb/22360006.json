@@ -1,0 +1,29 @@
+{
+  "id": "22360006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360006/22360006_256.png",
+  "character": "Shantotto",
+  "name": "Colossal Shantotto",
+  "name_jp": "コロッサルシャントット",
+  "tier": "AOSB",
+  "sb_version": "AOSB1",
+  "realm": "XI",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Three single attacks (26.50 each) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ]
+}

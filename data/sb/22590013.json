@@ -1,0 +1,27 @@
+{
+  "id": "22590013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590013/22590013_256.png",
+  "character": "Matoya",
+  "name": "Awoken Inner Eye (Dual Shift)",
+  "name_jp": "覚醒真眼の魔女",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Witch Mode II (Matoya)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Witch Mode II (Matoya)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Witch Mode II (Matoya)] to the user"
+    }
+  ]
+}

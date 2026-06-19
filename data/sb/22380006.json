@@ -1,0 +1,32 @@
+{
+  "id": "22380006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22380006/22380006_256.png",
+  "character": "Delita",
+  "name": "King Apparent",
+  "name_jp": "畏国王",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Lightning",
+    "Ice"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.67 each), 0.77 multiplier if exploiting elemental weakness, grants [Bushido] to the user for 25 seconds, grants [Instant Cast 2] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.67 each), 0.77 multiplier if exploiting elemental weakness, grants [Bushido] to the user for 25 seconds, grants [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.67 each), 0.77 multiplier if exploiting elemental weakness, grants [Bushido] to the user for 25 seconds, grants [Instant Cast 2] to the user"
+    }
+  ]
+}

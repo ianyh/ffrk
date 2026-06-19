@@ -1,0 +1,27 @@
+{
+  "id": "23290005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290005/23290005_256.png",
+  "character": "Tama",
+  "name": "Miracle Challenge",
+  "name_jp": "ミラクルチャレンジ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (3000)], [Haste] and [ATK, DEF, MAG and RES +30% (25s)], grants [Awoken Miracle] and [Tama's Guidance Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)], [Haste] and [ATK, DEF, MAG and RES +30% (25s)], grants [Awoken Miracle] and [Tama's Guidance Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)], [Haste] and [ATK, DEF, MAG and RES +30% (25s)], grants [Awoken Miracle] and [Tama's Guidance Follow-Up] to the user"
+    }
+  ]
+}

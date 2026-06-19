@@ -1,0 +1,30 @@
+{
+  "id": "20360005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360005/20360005_256.png",
+  "character": "Garnet",
+  "name": "Dagger of Resolve",
+  "name_jp": "決意の短剣",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "Holy"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Three group attacks (4.75 each), minimum damage 1100, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (4.75 each), minimum damage 1100, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (4.75 each), minimum damage 1100, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

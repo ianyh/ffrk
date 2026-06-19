@@ -1,0 +1,29 @@
+{
+  "id": "20810026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810026/20810026_256.png",
+  "character": "Gilgamesh",
+  "name": "Tested Mettle",
+  "name_jp": "ためさせてもらうぜ！！",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "V",
+  "elements": [
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Two single attacks (7.24 each) capped at 19999, ignores DEF, grants [50% Damage Reduction Barrier 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (7.24 each) capped at 19999, ignores DEF, grants [50% Damage Reduction Barrier 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (7.24 each) capped at 19999, ignores DEF, grants [50% Damage Reduction Barrier 1] to all allies"
+    }
+  ]
+}

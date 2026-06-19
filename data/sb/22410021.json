@@ -1,0 +1,27 @@
+{
+  "id": "22410021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410021/22410021_256.png",
+  "character": "Cid Raines",
+  "name": "Commander Shift",
+  "name_jp": "コマンダーシフト",
+  "tier": "Glint+",
+  "sb_version": "Glint+2",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Quick Cast 3] and [Soul Break Gauge +250]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3] and [Soul Break Gauge +250]"
+    }
+  ]
+}

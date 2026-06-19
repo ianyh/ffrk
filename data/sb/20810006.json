@@ -1,0 +1,27 @@
+{
+  "id": "20810006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810006/20810006_256.png",
+  "character": "Gilgamesh",
+  "name": "Gilgamesh Morphing Time",
+  "name_jp": "秘剣・八方ふさがり",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "V",
+  "elements": [],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.98 each), grants [Haste], [Sentinel] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.98 each), grants [Haste], [Sentinel] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.98 each), grants [Haste], [Sentinel] and [Burst Mode] to the user"
+    }
+  ]
+}

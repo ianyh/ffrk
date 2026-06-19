@@ -1,0 +1,27 @@
+{
+  "id": "23560007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560007/23560007_256.png",
+  "character": "Ultros",
+  "name": "Continuous Flash: Ultros (Poison)",
+  "name_jp": "連閃・オルトロス毒",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Poison with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Poison with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Poison with Stacking], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ]
+}

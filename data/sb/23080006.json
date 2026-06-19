@@ -1,0 +1,27 @@
+{
+  "id": "23080006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080006/23080006_256.png",
+  "character": "Rem",
+  "name": "Live Another Day",
+  "name_jp": "ライフコンバート",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste], [Shell], [Astra] and [Reraise: 40%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [Shell], [Astra] and [Reraise: 40%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [Shell], [Astra] and [Reraise: 40%]"
+    }
+  ]
+}

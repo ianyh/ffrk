@@ -1,0 +1,30 @@
+{
+  "id": "22510004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22510004/22510004_256.png",
+  "character": "Dorgann",
+  "name": "Brotherhood of the Dawn",
+  "name_jp": "暁の絆",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.71 each), [DEF +100%] to the user for 25 seconds, grants [Attach Earth] and [Sandwind Blade Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), [DEF +100%] to the user for 25 seconds, grants [Attach Earth] and [Sandwind Blade Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), [DEF +100%] to the user for 25 seconds, grants [Attach Earth] and [Sandwind Blade Follow-Up] to the user"
+    }
+  ]
+}

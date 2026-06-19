@@ -1,0 +1,29 @@
+{
+  "id": "20330015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330015/20330015_256.png",
+  "character": "Warrior of Light",
+  "name": "Radiant Buckler",
+  "name_jp": "レディアントバックラー",
+  "tier": "USB",
+  "sb_version": "USB3",
+  "realm": "I",
+  "elements": [
+    "Holy"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.72 each), grants [Holy Radiant Shield: 75%] and [Instant Cast 1] to all allies",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Holy Radiant Shield: 75%] and [Instant Cast 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Holy Radiant Shield: 75%] and [Instant Cast 1] to all allies"
+    }
+  ]
+}

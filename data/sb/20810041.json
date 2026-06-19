@@ -1,0 +1,27 @@
+{
+  "id": "20810041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810041/20810041_256.png",
+  "character": "Gilgamesh",
+  "name": "War-Awoken Ultimate Illusion",
+  "name_jp": "戦醒至極幻想",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gilgamesh], [ATK +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gilgamesh], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gilgamesh], [ATK +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

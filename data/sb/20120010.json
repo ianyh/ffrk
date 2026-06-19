@@ -1,0 +1,27 @@
+{
+  "id": "20120010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20120010/20120010_256.png",
+  "character": "Aerith",
+  "name": "Prayer of Salvation",
+  "name_jp": "救星の祈り",
+  "tier": "BSB",
+  "sb_version": "BSB2",
+  "realm": "VII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (85), grants [Resist Dark 10% (15s)], grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Resist Dark 10% (15s)], grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Resist Dark 10% (15s)], grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

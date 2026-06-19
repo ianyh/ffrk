@@ -1,0 +1,30 @@
+{
+  "id": "22650007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650007/22650007_256.png",
+  "character": "Lann",
+  "name": "Radiant Mega Mirage Zantetsuken",
+  "name_jp": "耀光Mミラージュ・斬鉄剣",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Fire/NE ranged hybrid attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Fire/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, Fire Damage +20% for 5 seconds to party, [Cap Break Level 1, Quick Fire, Dualcast Fire, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE ranged hybrid attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Fire/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, Fire Damage +20% for 5 seconds to party, [Cap Break Level 1, Quick Fire, Dualcast Fire, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE ranged hybrid attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Fire/NE ranged hybrid attack at True Cap Break Level 1, Instant Cast, Fire Damage +20% for 5 seconds to party, [Cap Break Level 1, Quick Fire, Dualcast Fire, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ]
+}

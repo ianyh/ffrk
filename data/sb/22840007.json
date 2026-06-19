@@ -1,0 +1,27 @@
+{
+  "id": "22840007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22840007/22840007_256.png",
+  "character": "Aemo",
+  "name": "Awoken Angel Feathers (Dual Shift)",
+  "name_jp": "覚醒エンジェルフェザー",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Dual Shift: Instant ATB 1 & Dual Awoken Time Traveler Mode II to user\nDual Awoken Time Traveler Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with DEF/RES/MND -70% to all targets, ATK/MAG/DEF/RES +30% & Weakness Damage +30% for 3 turns to party",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Dual Shift: Instant ATB 1 & Dual Awoken Time Traveler Mode II to user\nDual Awoken Time Traveler Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with DEF/RES/MND -70% to all targets, ATK/MAG/DEF/RES +30% & Weakness Damage +30% for 3 turns to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Dual Shift: Instant ATB 1 & Dual Awoken Time Traveler Mode II to user\nDual Awoken Time Traveler Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with DEF/RES/MND -70% to all targets, ATK/MAG/DEF/RES +30% & Weakness Damage +30% for 3 turns to party"
+    }
+  ]
+}

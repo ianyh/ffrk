@@ -1,0 +1,27 @@
+{
+  "id": "20360004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360004/20360004_256.png",
+  "character": "Garnet",
+  "name": "Divine Guardian",
+  "name_jp": "聖なる守護神",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Haste] and [High Regen], [RES +50%] for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [High Regen], [RES +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [High Regen], [RES +50%] for 25 seconds"
+    }
+  ]
+}

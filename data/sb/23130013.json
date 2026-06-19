@@ -1,0 +1,27 @@
+{
+  "id": "23130013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130013/23130013_256.png",
+  "character": "Ysayle",
+  "name": "Awoken Whiteout (Dual Shift)",
+  "name_jp": "覚醒ホワイトアウト",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Ysayle)] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Ysayle)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Ysayle)] to the user"
+    }
+  ]
+}

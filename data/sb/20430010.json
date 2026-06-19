@@ -1,0 +1,30 @@
+{
+  "id": "20430010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430010/20430010_256.png",
+  "character": "Refia",
+  "name": "Battering Heat",
+  "name_jp": "爆熱連撃烈波掌",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "III",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Fire], [Damage Cap +10000], [Blacksmith's Daughter Mode] and [Battering Heat] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Fire], [Damage Cap +10000], [Blacksmith's Daughter Mode] and [Battering Heat] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Fire], [Damage Cap +10000], [Blacksmith's Daughter Mode] and [Battering Heat] to the user"
+    }
+  ]
+}

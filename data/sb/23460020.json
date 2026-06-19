@@ -1,0 +1,27 @@
+{
+  "id": "23460020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460020/23460020_256.png",
+  "character": "Lunafreya",
+  "name": "Water Bond (Lunafreya)",
+  "name_jp": "水絆【ルナフレーナ】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Activates Water Limit Chain (150) & 50% Water Field, Imperil Water 10/20/30% for 5 seconds to all targets with 0/2/4 En-Water members, MAG +50% to party, Instant Cast 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Water Limit Chain (150) & 50% Water Field, Imperil Water 10/20/30% for 5 seconds to all targets with 0/2/4 En-Water members, MAG +50% to party, Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Water Limit Chain (150) & 50% Water Field, Imperil Water 10/20/30% for 5 seconds to all targets with 0/2/4 En-Water members, MAG +50% to party, Instant Cast 1 to user"
+    }
+  ]
+}

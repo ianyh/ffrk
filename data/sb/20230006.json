@@ -1,0 +1,29 @@
+{
+  "id": "20230006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230006/20230006_256.png",
+  "character": "Tifa",
+  "name": "Meteor Crusher",
+  "name_jp": "メテオクラッシャー",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "VII",
+  "elements": [
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ]
+}

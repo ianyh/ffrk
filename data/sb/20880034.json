@@ -1,0 +1,38 @@
+{
+  "id": "20880034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880034/20880034_256.png",
+  "character": "Lulu",
+  "name": "Burst Break: Lulu (Break Arte)",
+  "name_jp": "烈破・ルールー",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Water",
+    "Lightning",
+    "Fire",
+    "Earth",
+    "Wind",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Lulu], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Lightning with Secondary Stacking].",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Lulu], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Lightning with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Lulu], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Lightning with Secondary Stacking]."
+    }
+  ]
+}

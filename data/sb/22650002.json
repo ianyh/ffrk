@@ -1,0 +1,30 @@
+{
+  "id": "22650002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650002/22650002_256.png",
+  "character": "Lann",
+  "name": "Channel Element: Fire",
+  "name_jp": "属性ハーモニクス・炎",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Fire] and [Burst Mode] to the user"
+    }
+  ]
+}

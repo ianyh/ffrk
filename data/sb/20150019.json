@@ -1,0 +1,29 @@
+{
+  "id": "20150019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150019/20150019_256.png",
+  "character": "Wakka",
+  "name": "Blitz Off",
+  "name_jp": "ブリッツオフ",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "X",
+  "elements": [
+    "Water"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Five single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

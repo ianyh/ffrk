@@ -1,0 +1,33 @@
+{
+  "id": "23540010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540010/23540010_256.png",
+  "character": "Arciela",
+  "name": "Dynastic Gravitas",
+  "name_jp": "Dグラビタス",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Magic Princess], [Damage Cap +10000], [Quad Element Mode (Ice, Lightning, Wind, Water)] and [Forest Protector Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Magic Princess], [Damage Cap +10000], [Quad Element Mode (Ice, Lightning, Wind, Water)] and [Forest Protector Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Magic Princess], [Damage Cap +10000], [Quad Element Mode (Ice, Lightning, Wind, Water)] and [Forest Protector Mode] to the user"
+    }
+  ]
+}

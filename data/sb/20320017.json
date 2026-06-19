@@ -1,0 +1,27 @@
+{
+  "id": "20320017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320017/20320017_256.png",
+  "character": "Vanille",
+  "name": "Come On, Hecaton!",
+  "name_jp": "いけいけヘカトン！",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Regenga] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and [Revived Storyteller's Spirit Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Regenga] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and [Revived Storyteller's Spirit Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Regenga] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and [Revived Storyteller's Spirit Mode] to the user"
+    }
+  ]
+}

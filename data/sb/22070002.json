@@ -1,0 +1,27 @@
+{
+  "id": "22070002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070002/22070002_256.png",
+  "character": "Kefka",
+  "name": "Magic Infusion",
+  "name_jp": "魔導注入",
+  "tier": "SB",
+  "sb_version": "SB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "MAG +20% for 25 seconds, grants [Haste]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "MAG +20% for 25 seconds, grants [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "MAG +20% for 25 seconds, grants [Haste]"
+    }
+  ]
+}

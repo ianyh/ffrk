@@ -1,0 +1,33 @@
+{
+  "id": "22780011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780011/22780011_256.png",
+  "character": "Cid (XIV)",
+  "name": "Heated Combo Shot",
+  "name_jp": "ヒートショットコンボ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [Imperil Fire 20% (25s)], [Imperil Earth 20% (25s)], [Imperil Wind 20% (25s)], [Imperil Poison 20% (25s)], [Awoken Engineer], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Overheat Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Fire 20% (25s)], [Imperil Earth 20% (25s)], [Imperil Wind 20% (25s)], [Imperil Poison 20% (25s)], [Awoken Engineer], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Overheat Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Fire 20% (25s)], [Imperil Earth 20% (25s)], [Imperil Wind 20% (25s)], [Imperil Poison 20% (25s)], [Awoken Engineer], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Overheat Mode] to the user"
+    }
+  ]
+}

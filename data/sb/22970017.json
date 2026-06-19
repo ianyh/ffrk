@@ -1,0 +1,29 @@
+{
+  "id": "22970017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970017/22970017_256.png",
+  "character": "Prompto",
+  "name": "Trigger Hunt",
+  "name_jp": "トリガー・ハント",
+  "tier": "LBO",
+  "sb_version": "LBO1",
+  "realm": "XV",
+  "elements": [
+    "Lightning"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance"
+    }
+  ]
+}

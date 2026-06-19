@@ -1,0 +1,27 @@
+{
+  "id": "22630008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630008/22630008_256.png",
+  "character": "Rufus",
+  "name": "Ambitious Vice",
+  "name_jp": "副社長の野心",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking] and [Instant Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Instant Cast 1]"
+    }
+  ]
+}

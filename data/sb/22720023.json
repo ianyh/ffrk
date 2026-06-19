@@ -1,0 +1,27 @@
+{
+  "id": "22720023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720023/22720023_256.png",
+  "character": "Ceodore",
+  "name": "Continuous Flash: Ceodore (Holy)",
+  "name_jp": "連閃・セオドア聖",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Holy with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
+    }
+  ]
+}

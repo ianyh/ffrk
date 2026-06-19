@@ -1,0 +1,30 @@
+{
+  "id": "22410005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410005/22410005_256.png",
+  "character": "Cid Raines",
+  "name": "Metamorphose",
+  "name_jp": "メタモルフォーゼ",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (2.57 each), 3.31 multiplier with any [Doom], [DEF and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (2.57 each), 3.31 multiplier with any [Doom], [DEF and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (2.57 each), 3.31 multiplier with any [Doom], [DEF and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

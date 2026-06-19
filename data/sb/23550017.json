@@ -1,0 +1,31 @@
+{
+  "id": "23550017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550017/23550017_256.png",
+  "character": "Kurasame",
+  "name": "Roaring Cold Steel",
+  "name_jp": "轟・氷剣凍刃",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single-target Ice/Dark/NE hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 2 single-target Ice/Dark/NE hybrid attacks + minor Prismatic Imperil for 5 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Ice/Dark/NE hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 2 single-target Ice/Dark/NE hybrid attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Ice/Dark/NE hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 2 single-target Ice/Dark/NE hybrid attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ]
+}

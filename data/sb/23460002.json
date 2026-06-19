@@ -1,0 +1,31 @@
+{
+  "id": "23460002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460002/23460002_256.png",
+  "character": "Lunafreya",
+  "name": "For the King",
+  "name_jp": "全ては我らが王のために",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XV",
+  "elements": [
+    "Water",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Water 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Water 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Water 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ]
+}

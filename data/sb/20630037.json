@@ -1,0 +1,30 @@
+{
+  "id": "20630037",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630037/20630037_256.png",
+  "character": "Golbez",
+  "name": "Burst Break: Golbez (Break Arte)",
+  "name_jp": "烈破・ゴルベーザ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Single Dark/NE Overflow magic attack, Instant ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single Dark/NE Overflow magic attack, Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single Dark/NE Overflow magic attack, Instant ATB 1 to user"
+    }
+  ]
+}

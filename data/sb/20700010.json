@@ -1,0 +1,30 @@
+{
+  "id": "20700010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700010/20700010_256.png",
+  "character": "Balthier",
+  "name": "Makara",
+  "name_jp": "ブルカノ式T",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Quick Cast 1] and [Machinist Quick Cycle: Fire] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Quick Cast 1] and [Machinist Quick Cycle: Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), grants [Attach Fire], [Quick Cast 1] and [Machinist Quick Cycle: Fire] to the user"
+    }
+  ]
+}

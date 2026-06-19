@@ -1,0 +1,29 @@
+{
+  "id": "22510001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22510001/22510001_256.png",
+  "character": "Dorgann",
+  "name": "Winds of Home",
+  "name_jp": "はるかなる故郷",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "V",
+  "elements": [
+    "Wind"
+  ],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Six random attacks (1.28 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six random attacks (1.28 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six random attacks (1.28 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds"
+    }
+  ]
+}

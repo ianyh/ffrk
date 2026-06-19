@@ -1,0 +1,30 @@
+{
+  "id": "23130008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130008/23130008_256.png",
+  "character": "Ysayle",
+  "name": "Oblivion (XIV)",
+  "name_jp": "忘却の彼方",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Icy Vessel Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Icy Vessel Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Icy Vessel Mode] to the user"
+    }
+  ]
+}

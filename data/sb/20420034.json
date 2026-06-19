@@ -1,0 +1,31 @@
+{
+  "id": "20420034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420034/20420034_256.png",
+  "character": "Arc",
+  "name": "Radiant Auroral Grace",
+  "name_jp": "耀光優心の極光",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "III",
+  "elements": [
+    "Holy",
+    "Water",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Holy/Water/NE hybrid attacks at Cap Break Level 1, En-Holy Stack or En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy/Water Ability Boost, Dualcast Holy/Water, Zero Hone Cost to Holy/Water Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/Water/NE hybrid attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Magic Damage +30%, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/Water/NE hybrid attacks at Cap Break Level 1, En-Holy Stack or En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy/Water Ability Boost, Dualcast Holy/Water, Zero Hone Cost to Holy/Water Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/Water/NE hybrid attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Magic Damage +30%, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/Water/NE hybrid attacks at Cap Break Level 1, En-Holy Stack or En-Water Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy/Water Ability Boost, Dualcast Holy/Water, Zero Hone Cost to Holy/Water Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/Water/NE hybrid attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Magic Damage +30%, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ]
+}

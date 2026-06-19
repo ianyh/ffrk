@@ -1,0 +1,30 @@
+{
+  "id": "23130002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130002/23130002_256.png",
+  "character": "Ysayle",
+  "name": "Shiva: Diamond Dust",
+  "name_jp": "ダイアモンドダスト",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "XIV",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (2.16 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.16 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.16 each), causes [Imperil Ice 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

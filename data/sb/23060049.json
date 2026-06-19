@@ -1,0 +1,32 @@
+{
+  "id": "23060049",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060049/23060049_256.png",
+  "character": "Dr. Mog",
+  "name": "Archivist's Source",
+  "name_jp": "歴史省奥義「起源」",
+  "tier": "AOSB",
+  "sb_version": "AOSB2",
+  "realm": "Core",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Ice",
+    "Lightning"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.82 each), followed by one single attack (26.50) capped at 99999"
+    }
+  ]
+}

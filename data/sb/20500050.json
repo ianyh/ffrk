@@ -1,0 +1,27 @@
+{
+  "id": "20500050",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500050/20500050_256.png",
+  "character": "Quistis",
+  "name": "War-Awoken Twinstrom",
+  "name_jp": "戦醒ツインシュトローム",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Quistis (Water)], [MAG +500 (25s) (Tactical)] to user.",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Quistis (Water)], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Quistis (Water)], [MAG +500 (25s) (Tactical)] to user."
+    }
+  ]
+}

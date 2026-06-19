@@ -1,0 +1,31 @@
+{
+  "id": "20600061",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600061/20600061_256.png",
+  "character": "Lightning",
+  "name": "Radiant Smite",
+  "name_jp": "耀光インパクトブレイク",
+  "tier": "CASB",
+  "sb_version": "CASB3",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking]/[Attach Holy with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Lightning] to the user\nCrystal Mode: Lightning/Holy Ability Boost, Dualcast Lightning/Holy, Zero Hone Cost to Lightning/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I: Single-target Lightning/Holy/NE physical attack at True Cap Break Level 1, Instant Cast, Instant Cast 2 & Quick ATB 1 to user\nCrystal Force II: Single-target Lightning/Holy/NE physical attack at True Cap Break Level 1, Instant Cast, 50% DEF/RES Pierce for 3 turns & Quick ATB 1 to user; After using Crystal Force II, grants [Cap Break Level 1, Lightning/Holy Ability Damage +30%, Quick Lightning/Holy & Dualcast Lightning/Holy] for 3 turns to user \n",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking]/[Attach Holy with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Lightning] to the user\nCrystal Mode: Lightning/Holy Ability Boost, Dualcast Lightning/Holy, Zero Hone Cost to Lightning/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I: Single-target Lightning/Holy/NE physical attack at True Cap Break Level 1, Instant Cast, Instant Cast 2 & Quick ATB 1 to user\nCrystal Force II: Single-target Lightning/Holy/NE physical attack at True Cap Break Level 1, Instant Cast, 50% DEF/RES Pierce for 3 turns & Quick ATB 1 to user; After using Crystal Force II, grants [Cap Break Level 1, Lightning/Holy Ability Damage +30%, Quick Lightning/Holy & Dualcast Lightning/Holy] for 3 turns to user \n"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking]/[Attach Holy with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Lightning] to the user\nCrystal Mode: Lightning/Holy Ability Boost, Dualcast Lightning/Holy, Zero Hone Cost to Lightning/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I: Single-target Lightning/Holy/NE physical attack at True Cap Break Level 1, Instant Cast, Instant Cast 2 & Quick ATB 1 to user\nCrystal Force II: Single-target Lightning/Holy/NE physical attack at True Cap Break Level 1, Instant Cast, 50% DEF/RES Pierce for 3 turns & Quick ATB 1 to user; After using Crystal Force II, grants [Cap Break Level 1, Lightning/Holy Ability Damage +30%, Quick Lightning/Holy & Dualcast Lightning/Holy] for 3 turns to user \n"
+    }
+  ]
+}

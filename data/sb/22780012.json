@@ -1,0 +1,33 @@
+{
+  "id": "22780012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780012/22780012_256.png",
+  "character": "Cid (XIV)",
+  "name": "Flamethrower (XIV)",
+  "name_jp": "フレイムスロアー",
+  "tier": "USB",
+  "sb_version": "USB2",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (0.68 each), grants [Instant Cast 1] to all allies, grants [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.68 each), grants [Instant Cast 1] to all allies, grants [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.68 each), grants [Instant Cast 1] to all allies, grants [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Brave Mode] to the user"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20180001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20180001/20180001_256.png",
+  "character": "Summoner",
+  "name": "Call I",
+  "name_jp": "よびだすⅠ",
+  "tier": "Default",
+  "sb_version": "Default",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "-",
+  "lensable": false,
+  "effects": "Randomly casts Goblin (25%), Bomb (50%) or Chocobo (25%)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Randomly casts Goblin (25%), Bomb (50%) or Chocobo (25%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Randomly casts Goblin (25%), Bomb (50%) or Chocobo (25%)"
+    }
+  ]
+}

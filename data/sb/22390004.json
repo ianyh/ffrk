@@ -1,0 +1,27 @@
+{
+  "id": "22390004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390004/22390004_256.png",
+  "character": "Ovelia",
+  "name": "Divine Ward",
+  "name_jp": "守りの聖魔法",
+  "tier": "SSB",
+  "sb_version": "SSB2",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Protect], [Shell] and [HP Stock (2000)]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [HP Stock (2000)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [HP Stock (2000)]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20060007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060007/20060007_256.png",
+  "character": "Cecil (Dark Knight)",
+  "name": "Dark Flame",
+  "name_jp": "ダークフレイム",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Eight group attacks (0.98 each), damages the user for 25% max HP, [ATK and RES +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (0.98 each), damages the user for 25% max HP, [ATK and RES +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (0.98 each), damages the user for 25% max HP, [ATK and RES +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

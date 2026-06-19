@@ -1,0 +1,27 @@
+{
+  "id": "23230024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230024/23230024_256.png",
+  "character": "Ultimecia",
+  "name": "Awoken Dancing Axe (Dual Shift)",
+  "name_jp": "覚醒乱舞の斧",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Instant ATB 1] and [Dual Awoken Spellstrike Mode II (Ultimecia) 2]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellstrike Mode II (Ultimecia) 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellstrike Mode II (Ultimecia) 2]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20070044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070044/20070044_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "War-Awoken Cosmos Luster (Weapon Skill)",
+  "name_jp": "戦醒コスモスラスター",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Single-target Holy/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, Surging Power (max 30%) & Quick Holy to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, Surging Power (max 30%) & Quick Holy to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Single-target Holy/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, Surging Power (max 30%) & Quick Holy to user"
+    }
+  ]
+}

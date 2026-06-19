@@ -1,0 +1,27 @@
+{
+  "id": "20620018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620018/20620018_256.png",
+  "character": "Eiko",
+  "name": "Soothing Flute",
+  "name_jp": "癒しの笛",
+  "tier": "USB",
+  "sb_version": "USB5",
+  "realm": "IX",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (55), grants [Regenga], [Last Stand] and [High Quick Cast 1]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga], [Last Stand] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Regenga], [Last Stand] and [High Quick Cast 1]"
+    }
+  ]
+}

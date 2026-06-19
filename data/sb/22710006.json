@@ -1,0 +1,30 @@
+{
+  "id": "22710006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22710006/22710006_256.png",
+  "character": "Marach",
+  "name": "Way of the Khamja",
+  "name_jp": "カミュジャの秘術",
+  "tier": "Glint+",
+  "sb_version": "Glint+1",
+  "realm": "FFT",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (1.25 each), causes [Imperil Lightning 20%] for 15 seconds",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.25 each), causes [Imperil Lightning 20%] for 15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.25 each), causes [Imperil Lightning 20%] for 15 seconds"
+    }
+  ]
+}

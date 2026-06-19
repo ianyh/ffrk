@@ -1,0 +1,32 @@
+{
+  "id": "20880014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880014/20880014_256.png",
+  "character": "Lulu",
+  "name": "Voltech Fury",
+  "name_jp": "T・ボルテック",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Water",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Mage's Smile], [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)] and [Triple Voltech Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Mage's Smile], [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)] and [Triple Voltech Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Mage's Smile], [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)] and [Triple Voltech Mode] to the user"
+    }
+  ]
+}

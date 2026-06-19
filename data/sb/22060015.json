@@ -1,0 +1,27 @@
+{
+  "id": "22060015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060015/22060015_256.png",
+  "character": "Penelo",
+  "name": "Awoken Tear Drop (Dual Shift)",
+  "name_jp": "覚醒ティアーズドロップ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Dual Awoken Dancer Mode II (Penelo)] and [Instant ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Awoken Dancer Mode II (Penelo)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Awoken Dancer Mode II (Penelo)] and [Instant ATB 1] to the user"
+    }
+  ]
+}

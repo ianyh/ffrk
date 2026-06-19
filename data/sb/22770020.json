@@ -1,0 +1,30 @@
+{
+  "id": "22770020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770020/22770020_256.png",
+  "character": "Reks",
+  "name": "Radiant Dalmascan Hazard",
+  "name_jp": "耀光ダルマスカハザード",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single physical attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, grants [Damage +30% Boost 1] to Spellblade and XII allies, grants [Instant Cast 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single physical attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, grants [Damage +30% Boost 1] to Spellblade and XII allies, grants [Instant Cast 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single physical attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, grants [Damage +30% Boost 1] to Spellblade and XII allies, grants [Instant Cast 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
+    }
+  ]
+}

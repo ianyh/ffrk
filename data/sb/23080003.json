@@ -1,0 +1,27 @@
+{
+  "id": "23080003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080003/23080003_256.png",
+  "character": "Rem",
+  "name": "Undying Wish",
+  "name_jp": "死なないで",
+  "tier": "SSB",
+  "sb_version": "SSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [Last Stand] and [Reraise: 40%]",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Last Stand] and [Reraise: 40%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Last Stand] and [Reraise: 40%]"
+    }
+  ]
+}

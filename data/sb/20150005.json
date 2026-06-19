@@ -1,0 +1,27 @@
+{
+  "id": "20150005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150005/20150005_256.png",
+  "character": "Wakka",
+  "name": "Assault Reels",
+  "name_jp": "フルアタックリール",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "X",
+  "elements": [],
+  "type": "PHY",
+  "target": "Random enemies",
+  "lensable": true,
+  "effects": "Twelve random ranged attacks (0.63 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twelve random ranged attacks (0.63 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twelve random ranged attacks (0.63 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

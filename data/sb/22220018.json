@@ -1,0 +1,27 @@
+{
+  "id": "22220018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22220018/22220018_256.png",
+  "character": "Porom",
+  "name": "Radiant Twin Chronos",
+  "name_jp": "耀光ツインクロノス",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55), grants [MAG and MND +30%, RES +25% (25s)], [Empower Healing 30%] and [Magical +30% Boost 4] to all allies, grants [Crystal Force Mode: Porom] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [MAG and MND +30%, RES +25% (25s)], [Empower Healing 30%] and [Magical +30% Boost 4] to all allies, grants [Crystal Force Mode: Porom] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [MAG and MND +30%, RES +25% (25s)], [Empower Healing 30%] and [Magical +30% Boost 4] to all allies, grants [Crystal Force Mode: Porom] to the user"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20650006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650006/20650006_256.png",
+  "character": "Galuf",
+  "name": "Sweet Sorrow",
+  "name_jp": "離愁",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Earth"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Six single attacks (1.27 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.27 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.27 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ]
+}

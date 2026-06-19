@@ -1,0 +1,30 @@
+{
+  "id": "20080016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080016/20080016_256.png",
+  "character": "Kain",
+  "name": "Blood Dragoon",
+  "name_jp": "ドラグーンオブブラッド",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Spark Spear Follow-Up] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Spark Spear Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Spark Spear Follow-Up] to the user"
+    }
+  ]
+}

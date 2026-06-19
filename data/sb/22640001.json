@@ -1,0 +1,30 @@
+{
+  "id": "22640001",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640001/22640001_256.png",
+  "character": "Emperor",
+  "name": "Winds of War",
+  "name_jp": "帝国兵器・竜巻",
+  "tier": "BSB",
+  "sb_version": "BSB1",
+  "realm": "II",
+  "elements": [
+    "Wind",
+    "Dark"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": true,
+  "effects": "Six group attacks (1.99 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.99 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.99 each), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ]
+}

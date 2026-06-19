@@ -1,0 +1,27 @@
+{
+  "id": "22960005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960005/22960005_256.png",
+  "character": "Aria",
+  "name": "Maiden's Miracle",
+  "name_jp": "巫女が起こした奇跡",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "III",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Instant Cast 1], [Last Stand] and [Haste], grants [Awoken Maiden] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Instant Cast 1], [Last Stand] and [Haste], grants [Awoken Maiden] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Instant Cast 1], [Last Stand] and [Haste], grants [Awoken Maiden] to the user"
+    }
+  ]
+}

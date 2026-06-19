@@ -1,0 +1,27 @@
+{
+  "id": "22060020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060020/22060020_256.png",
+  "character": "Penelo",
+  "name": "Resurrection Dance",
+  "name_jp": "リザレクションダンス",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)], [Quick Cast], and [50% Damage Reduction Barrier 1], grants Awoken Sky Pirate Dancer Mode and Weak Dance to the user\nAwoken Sky Pirate Dancer Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to all allies\nWeak Dance: After using White Magic/Dancer abilities, grants [Weakness +30% Boost 1] to all allies (max 3 chases)",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)], [Quick Cast], and [50% Damage Reduction Barrier 1], grants Awoken Sky Pirate Dancer Mode and Weak Dance to the user\nAwoken Sky Pirate Dancer Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to all allies\nWeak Dance: After using White Magic/Dancer abilities, grants [Weakness +30% Boost 1] to all allies (max 3 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)], [Quick Cast], and [50% Damage Reduction Barrier 1], grants Awoken Sky Pirate Dancer Mode and Weak Dance to the user\nAwoken Sky Pirate Dancer Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to all allies\nWeak Dance: After using White Magic/Dancer abilities, grants [Weakness +30% Boost 1] to all allies (max 3 chases)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20150015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150015/20150015_256.png",
+  "character": "Wakka",
+  "name": "Apex Aurochs Reels",
+  "name_jp": "オーラカリール・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Aurochs Reels level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Wakka from the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Aurochs Reels level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Wakka from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Aurochs Reels level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Wakka from the user"
+    }
+  ]
+}

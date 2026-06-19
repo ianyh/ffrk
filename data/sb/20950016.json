@@ -1,0 +1,49 @@
+{
+  "id": "20950016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950016/20950016_256.png",
+  "character": "Thancred",
+  "name": "Zenith Double Down",
+  "name_jp": "究極ダブルダウン",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIV",
+  "elements": [
+    "Holy",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, Lv.2 En-Holy Stack, Lv.2 En-Earth Stack, Lv.2 En-Wind Stack or Lv.2 En-Poison Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy/Earth/Wind/Poison Damage +20%, Physical/Magic Casting Speed x1.1 and Deadly Strikes +10/20/30% & Sorcery Damage +10/20/30% under 0/1/2 Heavy Charge\nUltimate Dexterity Mode: Dualcast Holy/Earth/Wind/Poison, Higher Multiplier & Zero Hone Cost to Hero Ability; Danger Zone+: 1.65s CT, Cap Break Level 1 after 3 uses; Solid Barrel+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, Lv.2 En-Holy Stack, Lv.2 En-Earth Stack, Lv.2 En-Wind Stack or Lv.2 En-Poison Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy/Earth/Wind/Poison Damage +20%, Physical/Magic Casting Speed x1.1 and Deadly Strikes +10/20/30% & Sorcery Damage +10/20/30% under 0/1/2 Heavy Charge\nUltimate Dexterity Mode: Dualcast Holy/Earth/Wind/Poison, Higher Multiplier & Zero Hone Cost to Hero Ability; Danger Zone+: 1.65s CT, Cap Break Level 1 after 3 uses; Solid Barrel+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Danger Zone+",
+      "text": "Six single hybrid attacks (1.20/3.80 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Solid Barrel+",
+      "text": "Four single attacks (1.10/3.60 each), grants [Heavy Charge +1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, Lv.2 En-Holy Stack, Lv.2 En-Earth Stack, Lv.2 En-Wind Stack or Lv.2 En-Poison Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy/Earth/Wind/Poison Damage +20%, Physical/Magic Casting Speed x1.1 and Deadly Strikes +10/20/30% & Sorcery Damage +10/20/30% under 0/1/2 Heavy Charge\nUltimate Dexterity Mode: Dualcast Holy/Earth/Wind/Poison, Higher Multiplier & Zero Hone Cost to Hero Ability; Danger Zone+: 1.65s CT, Cap Break Level 1 after 3 uses; Solid Barrel+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    },
+    {
+      "name": "Danger Zone+",
+      "text": "Six single hybrid attacks (1.20/3.80 each) capped at 9999/19999 after 0-2/3+ uses"
+    },
+    {
+      "name": "Solid Barrel+",
+      "text": "Four single attacks (1.10/3.60 each), grants [Heavy Charge +1] to the user"
+    }
+  ]
+}

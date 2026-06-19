@@ -1,0 +1,30 @@
+{
+  "id": "22230015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230015/22230015_256.png",
+  "character": "Desch",
+  "name": "Life Spark",
+  "name_jp": "命雷",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "III",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Tower Sentinel Mode] and [Frenzied Thunder Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Tower Sentinel Mode] and [Frenzied Thunder Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Tower Sentinel Mode] and [Frenzied Thunder Mode] to the user"
+    }
+  ]
+}

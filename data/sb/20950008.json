@@ -1,0 +1,30 @@
+{
+  "id": "20950008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950008/20950008_256.png",
+  "character": "Thancred",
+  "name": "Wheel of Life",
+  "name_jp": "集気六道輪廻",
+  "tier": "USB",
+  "sb_version": "USB1",
+  "realm": "XIV",
+  "elements": [
+    "Earth",
+    "Fire"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Ten single attacks (0.63 each), [DEF and MAG -40%] for 25 seconds, grants [Ninja +30% Boost (15s)] and [Brave Mode] to the user",
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), [DEF and MAG -40%] for 25 seconds, grants [Ninja +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), [DEF and MAG -40%] for 25 seconds, grants [Ninja +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ]
+}
