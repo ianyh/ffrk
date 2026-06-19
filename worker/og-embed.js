@@ -9,8 +9,8 @@
 // pretty URL and rewrites the <head> so embeds reflect the referenced soul
 // breaks. Embed crawlers (Discord, Twitter, Slack) never run JavaScript, so
 // this server-side rewrite is the only way the unfurl can vary per link.
-// Everything else (/, /search, /static, /data, /view.html) passes straight
-// through to the origin.
+// Everything else (/ the search page, /static, /data, /view.html) passes
+// straight through to the origin.
 //
 // Deploy: see worker/README.md.
 

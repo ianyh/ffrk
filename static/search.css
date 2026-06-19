@@ -1,0 +1,160 @@
+/* Search page (search/index.html). Dark theme shared with the detail page and
+   cards via /static/theme.css (linked first); this file owns the search layout.
+   The page is intentionally minimal: one live-filter box over the soul breaks,
+   rows that toggle a selection, and a sticky bar that builds the share URL. */
+:root {
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --link: #8b9bf5;
+}
+
+[x-cloak] { display: none !important; }
+
+body {
+  background: #0c111b;
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.5;
+  padding: 24px 16px 64px;
+}
+
+.search-page { max-width: 820px; margin: 0 auto; }
+
+.search-topbar {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 18px;
+}
+.search-topbar strong { font-size: 1.05rem; }
+.search-topbar a { color: var(--muted); text-decoration: none; font-weight: 600; }
+.search-topbar a:hover { color: var(--text); }
+
+.search-blurb {
+  color: var(--muted);
+  font-size: .9rem;
+  margin: 0 2px 16px;
+}
+.search-blurb code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: .85em;
+  background: var(--panel);
+  color: var(--text);
+  padding: 1px 6px;
+  border-radius: 5px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 13px 16px;
+  font-size: 1rem;
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--divider);
+  border-radius: 10px;
+  outline: none;
+}
+.search-input:focus { border-color: var(--link); }
+.search-input::placeholder { color: var(--muted); }
+
+.search-meta { color: var(--muted); font-size: .85rem; margin: 14px 2px; }
+
+/* Sticky share bar — appears once anything is selected. */
+.share-bar {
+  position: sticky;
+  top: 8px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  background: var(--panel);
+  border: 1px solid var(--divider);
+  padding: 10px 14px;
+  border-radius: 10px;
+  margin: 14px 0;
+}
+.share-bar .count { font-weight: 700; margin-right: auto; }
+.share-bar button {
+  padding: 7px 14px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: .85rem;
+  cursor: pointer;
+  background: var(--link);
+  color: #0c111b;
+}
+.share-bar button.ghost {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--divider);
+}
+.share-bar a.preview { color: var(--muted); text-decoration: none; font-weight: 600; font-size: .85rem; }
+.share-bar a.preview:hover { color: var(--text); }
+
+/* Results */
+.results { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  background: var(--bg);
+  border: 1px solid var(--divider);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.row:hover { border-color: var(--accent); }
+.row.selected { box-shadow: inset 0 0 0 1px var(--accent); }
+
+.row-check {
+  flex: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--divider);
+  border-radius: 5px;
+  display: grid;
+  place-items: center;
+  font-size: .7rem;
+  font-weight: 700;
+  color: #0c111b;
+}
+.row.selected .row-check { background: var(--accent); border-color: var(--accent); }
+
+.row-icon {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 8px;
+  background: var(--panel);
+  overflow: hidden;             /* clip the scaled-up transparent margin */
+  display: flex;                /* flex centers the oversized child; grid anchors it to the top */
+  align-items: center;
+  justify-content: center;
+}
+/* Source icons are ~64% art + ~36% transparent padding, so scale ~1.5x to fill
+   the box with the visible art; the transparent overflow is clipped (like the card). */
+.row-icon img { width: 150%; height: 150%; object-fit: contain; }
+
+.row-text { min-width: 0; flex: 1; }
+.row-title { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.row-character { color: var(--accent); font-weight: 700; text-transform: uppercase; letter-spacing: .03em; font-size: .95rem; }
+.row-version { background: var(--panel); font-size: .72rem; font-weight: 700; padding: 1px 8px; border-radius: 999px; }
+.row-name { color: var(--text); font-size: .9rem; }
+.row-id { color: var(--muted); font-size: .75rem; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+
+.row-link {
+  flex: none;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 1.1rem;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+.row-link:hover { color: var(--text); background: var(--panel); }
+
+@media (max-width: 560px) {
+  .row-id { display: none; }
+}

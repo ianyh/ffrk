@@ -3,20 +3,140 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ffrk.xyz</title>
-  <link rel="stylesheet" href="/static/style.css">
+  <title>ffrk.xyz · Soul break search</title>
+  <link rel="stylesheet" href="/static/theme.css">
+  <link rel="stylesheet" href="/static/search.css">
+
+  <!-- buildShareUrl (the /id and /m/?ids=… share scheme) + accentFor/el (the
+       per-type accent, shared with the cards and the detail page). -->
+  <script src="/static/sb-ids.js"></script>
+  <script src="/card/card.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js" defer></script>
 </head>
 <body>
-  <div class="ref-page">
-    <header class="ref-header">
-      <h1>ffrk.xyz</h1>
-      <a class="ref-back" href="/search">Search</a>
-    </header>
-    <p>
-      Permalinks for Final Fantasy Record Keeper soul breaks. Reference one by id
-      — e.g. <a href="/20210006">ffrk.xyz/20210006</a> — or several at once via
-      <code>ffrk.xyz/m/?ids=20210006&amp;ids=20210007</code>.
+  <div class="search-page" x-data="search()" x-cloak>
+    <div class="search-topbar"><strong>ffrk.xyz</strong></div>
+
+    <p class="search-blurb">
+      Search Final Fantasy Record Keeper soul breaks and grab a shareable
+      permalink. Select one or more results, then copy the link — a single pick
+      becomes <code>ffrk.xyz/&lt;id&gt;</code>, several become one
+      <code>/m/?ids=…</code> link.
     </p>
+
+    <input class="search-input" type="text" x-model="query"
+           placeholder="Search by character, soul break, or id…" autofocus>
+
+    <!-- Selecting rows builds a share link; one id → /id, several → /m/?ids=… -->
+    <div class="share-bar" x-show="selected.size > 0" x-cloak>
+      <span class="count" x-text="`${selected.size} selected`"></span>
+      <button type="button" @click="copyLink" x-text="copyLabel"></button>
+      <a class="preview" :href="previewUrl" target="_blank" rel="noopener">Preview ↗</a>
+      <button type="button" class="ghost" @click="clearSelection">Clear</button>
+    </div>
+
+    <p class="search-meta" x-text="meta"></p>
+
+    <ul class="results">
+      <template x-for="item in shown" :key="item.id">
+        <li class="row" :class="{ selected: selected.has(item.id) }"
+            :style="`--accent:${accentFor(item.type)}`" @click="toggle(item.id)">
+          <span class="row-check"><span x-show="selected.has(item.id)">✓</span></span>
+          <span class="row-icon"><img :src="item.image_url" alt="" loading="lazy"></span>
+          <span class="row-text">
+            <span class="row-title">
+              <span class="row-character" x-text="item.character"></span>
+              <span class="row-version" x-text="item.sb_version"></span>
+              <span class="row-name" x-text="item.name"></span>
+            </span>
+            <span class="row-id" x-text="item.id"></span>
+          </span>
+          <a class="row-link" :href="'/' + item.id" target="_blank" rel="noopener"
+             title="Open permalink" @click.stop>↗</a>
+        </li>
+      </template>
+    </ul>
   </div>
+
+  <script>
+    function search() {
+      return {
+        query: '',
+        items: [],
+        shown: [],
+        meta: 'Loading…',
+        selected: new Set(),
+        copyLabel: 'Copy link',
+        LIMIT: 100,
+
+        // Shortest shareable URL for the current selection (order preserved).
+        // This is the pretty scheme (/id, /m/?ids=…) served by the Cloudflare
+        // Worker in production — what we put on the clipboard to share.
+        get shareUrl() {
+          return buildShareUrl(window.location.origin, [...this.selected]);
+        },
+
+        // Preview points straight at view.html?ids=… so it works on the bare
+        // static origin too (the pretty URLs above need the Worker in front).
+        get previewUrl() {
+          const qs = [...this.selected].map(id => `ids=${encodeURIComponent(id)}`).join('&');
+          return `/view.html?${qs}`;
+        },
+
+        init() {
+          this.$watch('query', () => this.filter());
+          fetch('/data/all.json')
+            .then(r => r.json())
+            .then(data => {
+              this.items = data.items;
+              this.meta = `Type to search ${this.items.length} soul breaks.`;
+            });
+        },
+
+        // Live substring match: every space-separated term must appear somewhere
+        // in the character / name / version / id text. Capped for rendering.
+        filter() {
+          const q = this.query.trim().toLowerCase();
+          if (!q) {
+            this.shown = [];
+            this.meta = `Type to search ${this.items.length} soul breaks.`;
+            return;
+          }
+          const terms = q.split(/\s+/);
+          const matches = this.items.filter(it => {
+            const hay = `${it.character} ${it.name} ${it.name_jp} ${it.sb_version} ${it.id}`.toLowerCase();
+            return terms.every(t => hay.includes(t));
+          });
+          this.shown = matches.slice(0, this.LIMIT);
+          this.meta = matches.length > this.LIMIT
+            ? `Showing first ${this.LIMIT} of ${matches.length} matches.`
+            : `${matches.length} match${matches.length === 1 ? '' : 'es'}.`;
+        },
+
+        // Reassign the Set so Alpine picks up the change reactively.
+        toggle(id) {
+          const next = new Set(this.selected);
+          next.has(id) ? next.delete(id) : next.add(id);
+          this.selected = next;
+          this.copyLabel = 'Copy link';
+        },
+
+        clearSelection() {
+          this.selected = new Set();
+        },
+
+        async copyLink() {
+          try {
+            await navigator.clipboard.writeText(this.shareUrl);
+            this.copyLabel = 'Copied!';
+            setTimeout(() => { this.copyLabel = 'Copy link'; }, 1500);
+          } catch (e) {
+            // Clipboard API needs a secure context; fall back to a prompt.
+            window.prompt('Copy this link:', this.shareUrl);
+          }
+        },
+      };
+    }
+  </script>
 </body>
 </html>
