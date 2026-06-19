@@ -35,6 +35,27 @@
       <button type="button" class="ghost" @click="clearSelection">Clear</button>
     </div>
 
+    <!-- Persistent selection tray: stays put even when the search is cleared,
+         so you can keep building a set across several searches. -->
+    <ul class="results selected-list" x-show="selected.size > 0" x-cloak>
+      <template x-for="item in selectedItems" :key="item.id">
+        <li class="row selected" :style="`--accent:${accentFor(item.type)}`" @click="toggle(item.id)">
+          <span class="row-check">✓</span>
+          <span class="row-icon"><img :src="item.image_url" alt="" loading="lazy"></span>
+          <span class="row-text">
+            <span class="row-title">
+              <span class="row-character" x-text="item.character"></span>
+              <span class="row-version" x-text="item.sb_version"></span>
+              <span class="row-name" x-text="item.name"></span>
+            </span>
+            <span class="row-id" x-text="item.id"></span>
+          </span>
+          <a class="row-link" :href="'/' + item.id" target="_blank" rel="noopener"
+             title="Open permalink" @click.stop>↗</a>
+        </li>
+      </template>
+    </ul>
+
     <p class="search-meta" x-text="meta"></p>
 
     <ul class="results">
@@ -63,11 +84,17 @@
       return {
         query: '',
         items: [],
+        byId: {},
         shown: [],
         meta: 'Loading…',
         selected: new Set(),
         copyLabel: 'Copy link',
         LIMIT: 100,
+
+        // Selected items, in pick order — the persistent tray at the top.
+        get selectedItems() {
+          return [...this.selected].map(id => this.byId[id]).filter(Boolean);
+        },
 
         // Shortest shareable URL for the current selection (order preserved).
         // This is the pretty scheme (/id, /m/?ids=…) served by the Cloudflare
@@ -89,6 +116,7 @@
             .then(r => r.json())
             .then(data => {
               this.items = data.items;
+              this.items.forEach(it => { this.byId[it.id] = it; });
               this.meta = `Type to search ${this.items.length} soul breaks.`;
             });
         },
@@ -107,22 +135,26 @@
             const hay = `${it.character} ${it.name} ${it.name_jp} ${it.sb_version} ${it.id}`.toLowerCase();
             return terms.every(t => hay.includes(t));
           });
-          this.shown = matches.slice(0, this.LIMIT);
+          // Selected items live in the tray above; don't repeat them here.
+          this.shown = matches.filter(it => !this.selected.has(it.id)).slice(0, this.LIMIT);
           this.meta = matches.length > this.LIMIT
             ? `Showing first ${this.LIMIT} of ${matches.length} matches.`
             : `${matches.length} match${matches.length === 1 ? '' : 'es'}.`;
         },
 
-        // Reassign the Set so Alpine picks up the change reactively.
+        // Reassign the Set so Alpine picks up the change reactively, then refresh
+        // the results so the item moves between the tray and the result list.
         toggle(id) {
           const next = new Set(this.selected);
           next.has(id) ? next.delete(id) : next.add(id);
           this.selected = next;
           this.copyLabel = 'Copy link';
+          this.filter();
         },
 
         clearSelection() {
           this.selected = new Set();
+          this.filter();
         },
 
         async copyLink() {
