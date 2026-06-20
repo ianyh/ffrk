@@ -80,6 +80,37 @@
   </div>
 
   <script>
+    // Derive a global tier ordering empirically. Within a character, id order is
+    // the exact release order, so each character's id-sorted sequence is a
+    // partial chronology of tiers. Averaging each tier's normalized position
+    // (0 = that character's first SB, 1 = its latest) across all characters
+    // yields a stable oldest→newest tier ranking that needs no hand-maintained
+    // list — new tiers slot themselves in as the data grows. Returns a map of
+    // tier → rank (higher = newer).
+    // Over-engineered beyond belief, but kinda fun.
+    function tierRanks(items) {
+      const byChar = {};
+      for (const it of items) (byChar[it.character] ||= []).push(it);
+
+      const sums = {};   // tier -> { total, n }
+      for (const list of Object.values(byChar)) {
+        if (list.length < 2) continue;  // can't position a lone SB on [0,1]
+        const sorted = list.slice().sort((a, b) => Number(a.id) - Number(b.id));
+        sorted.forEach((it, i) => {
+          const pos = i / (sorted.length - 1);
+          const s = (sums[it.tier] ||= { total: 0, n: 0 });
+          s.total += pos;
+          s.n += 1;
+        });
+      }
+
+      const tiers = Object.keys(sums).sort(
+        (a, b) => sums[a].total / sums[a].n - sums[b].total / sums[b].n);
+      const rank = {};
+      tiers.forEach((t, i) => { rank[t] = i; });   // oldest = 0, newest = highest
+      return rank;
+    }
+
     function search() {
       return {
         query: '',
@@ -115,7 +146,16 @@
           fetch('/data/all.json')
             .then(r => r.json())
             .then(data => {
-              this.items = data.items;
+              // Sort newest-first. There's no release date in the data, so we
+              // order by tier era (tiers roll out game-wide in waves), then by id
+              // descending as a tiebreak. Within a character the id is the exact
+              // release order, but across characters the id prefix is just an
+              // arbitrary character slot — hence the tier proxy. filter() keeps
+              // this order.
+              const rank = tierRanks(data.items);
+              const r = t => rank[t] ?? -1;   // unranked tiers sort oldest
+              this.items = data.items.slice().sort((a, b) =>
+                (r(b.tier) - r(a.tier)) || (Number(b.id) - Number(a.id)));
               this.items.forEach(it => { this.byId[it.id] = it; });
               this.meta = `Type to search ${this.items.length} soul breaks.`;
             });
