@@ -9,10 +9,9 @@ keeping the last occurrence, matching the source spreadsheet's own precedence.
 import argparse
 import json
 import re
-from parsing.sheet_data import SheetData, ELEMENT_SPLIT
-from parsing.asb import ASB
-from parsing.zsb import ZSB
+from parsing import SheetData, ELEMENT_SPLIT, ZSB, ASB, SoulBreak
 from pathlib import Path
+from typing import Dict
 
 
 class Parser():
@@ -20,13 +19,13 @@ class Parser():
     def __init__(self, csv_dir):
         self.sheet_data = SheetData(csv_dir)
 
-    def sb_details(self):
-        sbs = {}
+    def sb_details(self) -> Dict[str, SoulBreak]:
+        sb_rows_by_char_tier_version: Dict[tuple[str, str, str], list[dict]] = {}
         for row in self.sheet_data.readers["sbs"]:
             id = row["ID"]
             elements_string = row["Element"]
             elements = re.split(ELEMENT_SPLIT, elements_string) if elements_string not in ["", "-"] else []
-            sbs[id] = {
+            sb = {
                 "id": id,
                 "image_url": f"https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/{id}/{id}_256.png",
                 "character": row["Character"],
@@ -41,33 +40,26 @@ class Parser():
                 "lensable": row["Anima"] != "",
                 "effects": row["Effects"]
             }
-            sbs[id]["description"] = self.description_for_sb(sbs[id])
-            card_desc = self.card_description_for_sb(sbs[id])
-            if card_desc is not None:
-                sbs[id]["card_description"] = card_desc
+            try:
+                sb_rows_by_char_tier_version[(sb["character"], sb["tier"], sb["sb_version"])].append(sb)
+            except KeyError:
+                sb_rows_by_char_tier_version[(sb["character"], sb["tier"], sb["sb_version"])] = [sb]
+        
+        sbs: Dict[str, SoulBreak] = {}
+        for (_, tier, _), sb_rows in sb_rows_by_char_tier_version.items():
+            soul_break = self.sb_for_rows(tier, sb_rows)
+            sbs[soul_break.id] = soul_break
+
         return sbs
 
-    def description_for_sb(self, sb):
-        return self.sections_for_sb(sb)
-
-    def card_description_for_sb(self, sb):
-        return self.sections_for_sb(sb, True)
-
-    def sections_for_sb(self, sb, is_card: bool = False):
-        sections = [
-            {
-                "name": "Entry",
-                "text": sb["effects"]
-            }
-        ]
-
-        match sb["tier"]:
+    def sb_for_rows(self, tier, sb_rows) -> SoulBreak:
+        match tier:
             case "ZSB":
-                sections = ZSB(self.sheet_data, sb).ordered_sections(is_card)
+                return ZSB(self.sheet_data, sb_rows)
             case "ASB":
-                sections = ASB(self.sheet_data, sb).ordered_sections(is_card)
-
-        return [s for s in sections if s is not None]
+                return ASB(self.sheet_data, sb_rows)
+            case _:
+                return SoulBreak(self.sheet_data, sb_rows)
 
 
 def main():
@@ -97,18 +89,20 @@ def main():
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with open(args.output, "w", encoding="utf-8") as f:
-        json.dump({"items": list(sbs.values())}, f, indent=2, ensure_ascii=False)
+        json.dump({"items": [sb.encoded() for sb in sbs.values()]}, f, indent=2, ensure_ascii=False)
     print(f"✓ Wrote {len(sbs)} items to {args.output}")
 
-    # Per-SB files (full item each) for the detail page to load individually.
-    # Prune stale ids so the committed dir tracks the current set.
+    # Per-SB files (full item each) for the detail page to load individually,
+    # named by the item's primary id. Prune stale ids so the committed dir
+    # tracks the current set.
     args.sb_dir.mkdir(parents=True, exist_ok=True)
+    valid_ids = {sb.id for sb in sbs.values()}
     for stale in args.sb_dir.glob("*.json"):
-        if stale.stem not in sbs:
+        if stale.stem not in valid_ids:
             stale.unlink()
-    for id, item in sbs.items():
-        (args.sb_dir / f"{id}.json").write_text(
-            json.dumps(item, indent=2, ensure_ascii=False), encoding="utf-8"
+    for sb in sbs.values():
+        (args.sb_dir / f"{sb.id}.json").write_text(
+            json.dumps(sb.encoded(), indent=2, ensure_ascii=False), encoding="utf-8"
         )
     print(f"✓ Wrote {len(sbs)} per-SB files to {args.sb_dir}")
 

@@ -1,11 +1,18 @@
 from dataclasses import dataclass
-from parsing.sheet_data import SheetData, extract_with_prefix, extract_statuses
+from typing import Any
+from .sheet_data import SheetData, extract_statuses
+from .soul_break import SoulBreak
 
 
 @dataclass(frozen=True)
-class ASB():
-    data: SheetData
-    sb: dict
+class ASB(SoulBreak):
+    def __init__(self, data, sb_rows):
+        assert(len(sb_rows) == 1)
+        super().__init__(data, sb_rows)
+
+    @property
+    def sb(self) -> dict:
+        return self.sb_rows[0]
 
     def ordered_sections(self, is_card: bool) -> list[dict]:
         sections = self.sections()
@@ -16,7 +23,7 @@ class ASB():
         ]
     
     def sections(self) -> dict:
-        sections = {
+        sections: dict[str, Any] = {
             "entry": {
                 "name": "Entry",
                 "text": self.sb["effects"]

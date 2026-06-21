@@ -55,7 +55,7 @@ class SheetData():
     
     It is not particularly efficient, but the data set is small enough that it's not too bad, and it's pretty easy to audit the logic this way.
     """
-    readers = {}
+    readers: dict[str, list] = {}
     def __init__(self, csv_dir):
         for name in CSV_NAMES:
             csv_path = csv_dir / f"{name}.csv"

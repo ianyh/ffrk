@@ -1,11 +1,18 @@
 from dataclasses import dataclass
-from parsing.sheet_data import SheetData, extract_with_prefix, extract_statuses
+from typing import Any
+from .sheet_data import extract_with_prefix, extract_statuses
+from .soul_break import SoulBreak
 
 
 @dataclass(frozen=True)
-class ZSB():
-    data: SheetData
-    sb: dict
+class ZSB(SoulBreak):
+    def __init__(self, data, sb_rows):
+        assert(len(sb_rows) == 1)
+        super().__init__(data, sb_rows)
+
+    @property
+    def sb(self) -> dict:
+        return self.sb_rows[0]
 
     def ordered_sections(self, is_card: bool) -> list[dict]:
         sections = self.sections()
@@ -26,7 +33,7 @@ class ZSB():
             ]
     
     def sections(self) -> dict:
-        sections = {
+        sections: dict[str, Any] = {
             "entry": {
                 "name": "Entry",
                 "text": self.sb["effects"]
@@ -36,7 +43,7 @@ class ZSB():
         # try to find the upgraded has
         sections["ha+"] = []
         sb_name = self.sb["name"]
-        has: list[dict] = filter(lambda h: h["Source"] == sb_name, self.data.readers["ua_abilities"])
+        has: list[dict] = list(filter(lambda h: h["Source"] == sb_name, self.data.readers["ua_abilities"]))
         for ha in has:
             sections["ha+"].append({
                 "name": ha["Name"],
