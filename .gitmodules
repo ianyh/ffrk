@@ -1,0 +1,3 @@
+[submodule "data/sb"]
+	path = data/sb
+	url = git@github.com:ianyh/ffrk-json.git
