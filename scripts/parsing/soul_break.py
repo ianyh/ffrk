@@ -14,21 +14,6 @@ def secondary_label(name):
     return m.group(1) if m else name
 
 
-def group_to_item(rows):
-    primary = next((r for r in rows if "(" not in r["name"]), rows[0])
-    secondaries = [r for r in rows if r is not primary]
-
-    item = dict(primary)
-    for key in ("description", "card_description"):
-        sections = list(primary[key])
-        for r in secondaries:
-            label = secondary_label(r["name"])
-            for sec in r.get(key, []):
-                sections.append({**sec, "name": label} if isinstance(sec, dict)
-                                else {"name": label, "text": sec})
-        item[key] = sections
-    return item
-
 @dataclass(frozen=True)
 class SoulBreak():
     data: SheetData
@@ -87,7 +72,7 @@ class SoulBreak():
         secondary_entries = []
         for secondary in self.secondaries():
             secondary_entry = SoulBreak(self.data, [secondary]).sections().get("entry")
-            secondary_entry["name"] = secondary["name"]
+            secondary_entry["name"] = secondary_label(secondary["name"])
             secondary_entries.append(secondary_entry)
         collected_sections.extend([s for s in secondary_entries if s is not None])
 
