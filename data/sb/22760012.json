@@ -5,7 +5,7 @@
       "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Malicious Surge level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Nabaat from the user"
     },
     {
-      "name": "Malicious Surge (Engaged)",
+      "name": "Engaged",
       "text": "Causes [Imperil Dark 20% (15s)], grants [Buff Dark 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Nabaat], [Malicious Surge Ability Tracker] and [Malicious Surge Level] to the user"
     }
   ],
@@ -15,7 +15,7 @@
       "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Malicious Surge level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Nabaat from the user"
     },
     {
-      "name": "Malicious Surge (Engaged)",
+      "name": "Engaged",
       "text": "Causes [Imperil Dark 20% (15s)], grants [Buff Dark 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Nabaat], [Malicious Surge Ability Tracker] and [Malicious Surge Level] to the user"
     }
   ],

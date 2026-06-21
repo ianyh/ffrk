@@ -5,7 +5,7 @@
       "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Accursed Storm level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Emperor from the user"
     },
     {
-      "name": "Accursed Storm (Engaged)",
+      "name": "Engaged",
       "text": "Causes [Imperil Dark 10% (15s)]/[Imperil Earth 10% (15s)]/[Imperil Wind 10% (15s)], grants [Buff Dark 10% (15s)]/[Buff Earth 10% (15s)]/[Buff Wind 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Emperor], [Accursed Storm Ability Tracker] and [Accursed Storm Level]"
     }
   ],
@@ -15,7 +15,7 @@
       "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Accursed Storm level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Emperor from the user"
     },
     {
-      "name": "Accursed Storm (Engaged)",
+      "name": "Engaged",
       "text": "Causes [Imperil Dark 10% (15s)]/[Imperil Earth 10% (15s)]/[Imperil Wind 10% (15s)], grants [Buff Dark 10% (15s)]/[Buff Earth 10% (15s)]/[Buff Wind 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Emperor], [Accursed Storm Ability Tracker] and [Accursed Storm Level]"
     }
   ],

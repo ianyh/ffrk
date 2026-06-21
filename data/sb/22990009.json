@@ -5,7 +5,7 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, causes [DEF, RES and MND -70% (8s)] if 0-3 FF8 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] if 4+ FF8 allies are alive, grants [Switch Draw Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Laguna Mania Mode I (Kiros)] and [(Dark/Ice) Resonance +5% Boost] to the user"
     },
     {
-      "name": "Awoken Exsanguination (Dual Shift)",
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Laguna Mania Mode II (Kiros)], removes [Dual Awoken Laguna Mania Mode I (Kiros)]"
     }
   ],
@@ -15,7 +15,7 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, causes [DEF, RES and MND -70% (8s)] if 0-3 FF8 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] if 4+ FF8 allies are alive, grants [Switch Draw Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Laguna Mania Mode I (Kiros)] and [(Dark/Ice) Resonance +5% Boost] to the user"
     },
     {
-      "name": "Awoken Exsanguination (Dual Shift)",
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Laguna Mania Mode II (Kiros)], removes [Dual Awoken Laguna Mania Mode I (Kiros)]"
     }
   ],

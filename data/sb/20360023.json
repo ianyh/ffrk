@@ -5,7 +5,7 @@
       "text": "Ten single attacks (3.10/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Thundering Dark level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Garnet (Lightning) from the user"
     },
     {
-      "name": "Thundering Dark (Engaged)",
+      "name": "Engaged",
       "text": "Causes [Imperil Lightning 20% (15s)], grants [Buff Lightning 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Garnet (Lightning)], [Thundering Dark Ability Tracker] and [Thundering Dark Level] to the user"
     }
   ],
@@ -15,7 +15,7 @@
       "text": "Ten single attacks (3.10/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Thundering Dark level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Garnet (Lightning) from the user"
     },
     {
-      "name": "Thundering Dark (Engaged)",
+      "name": "Engaged",
       "text": "Causes [Imperil Lightning 20% (15s)], grants [Buff Lightning 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Garnet (Lightning)], [Thundering Dark Ability Tracker] and [Thundering Dark Level] to the user"
     }
   ],

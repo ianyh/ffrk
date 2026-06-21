@@ -5,7 +5,7 @@
       "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Purging Steel level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Wol from the user"
     },
     {
-      "name": "Purging Steel (Engaged)",
+      "name": "Engaged",
       "text": "Grants [Twin Element Mode (Earth, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Wol], [Purging Steel Damage Tracker] and [Purging Steel Level] to the user"
     }
   ],
@@ -15,7 +15,7 @@
       "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Purging Steel level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Wol from the user"
     },
     {
-      "name": "Purging Steel (Engaged)",
+      "name": "Engaged",
       "text": "Grants [Twin Element Mode (Earth, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Wol], [Purging Steel Damage Tracker] and [Purging Steel Level] to the user"
     }
   ],

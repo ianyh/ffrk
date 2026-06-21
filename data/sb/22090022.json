@@ -5,7 +5,7 @@
       "text": "Seven single ranged attacks (0.90 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF10 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF10 allies are alive, grants [Double Sphere Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Legend Mode I (Jecht)], [Dark/Fire Resonance +5% Boost] and [Instant Cast 1] to the user"
     },
     {
-      "name": "Awoken Jecht Rush (Dual Shift)",
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Legend Mode II (Jecht)], removes [Dual Awoken Legend Mode I (Jecht)]"
     }
   ],
@@ -15,7 +15,7 @@
       "text": "Seven single ranged attacks (0.90 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF10 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF10 allies are alive, grants [Double Sphere Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Legend Mode I (Jecht)], [Dark/Fire Resonance +5% Boost] and [Instant Cast 1] to the user"
     },
     {
-      "name": "Awoken Jecht Rush (Dual Shift)",
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Legend Mode II (Jecht)], removes [Dual Awoken Legend Mode I (Jecht)]"
     }
   ],
