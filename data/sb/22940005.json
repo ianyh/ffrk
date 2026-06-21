@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive"
+    },
+    {
+      "name": "ATK, MAG and MND +30%",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Astra",
+      "text": "Prevents Poison, Silence, Paralyze, Confuse, Slow, Stop, Blind, Sleep, Petrify, Berserk, Sap and Stun once"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Instant Cast 1] to all allies, grants [Instant ATB 1] to user, grants [Deadly Strikes +15% (15s)] to Machinist party members"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Deadly Strikes +15% (15s)",
+      "text": "Critical hits deal 15% more damage (additive with the base critical coefficient and other Critical Damage statuses)"
     }
   ],
   "card_description": [

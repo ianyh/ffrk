@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Holy Chain (max 150, field +30%), grants [MAG and MND +30% (25s)] to all allies"
+    },
+    {
+      "name": "MAG and MND +30% (25s)",
+      "text": "MAG and MND +30%"
     }
   ],
   "card_description": [

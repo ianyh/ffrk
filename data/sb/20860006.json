@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [High Regen] and [Different DEF and RES +25%] for 25 seconds"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
     }
   ],
   "card_description": [

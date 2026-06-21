@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Darkness High Quick Cast] and [Darkness Rank Boost]"
+    },
+    {
+      "name": "Darkness High Quick Cast",
+      "text": "Cast speed x3.00 for Darkness abilities"
+    },
+    {
+      "name": "Darkness Rank Boost",
+      "text": "Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
     }
   ],
   "card_description": [

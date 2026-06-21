@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Chant Mode I (Garnet - Lightning)] and [Lightning Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Chant Mode I (Garnet - Lightning)",
+      "text": "Summoning and Bard abilities trigger 1 additional time, Summoning and Bard abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, cast speed x3.00 for Summoning and Bard abilities, causes [Imperil Lightning 10% (5s)] after using Summoning abilities, grants [Quick Cast 2] to all allies once per battle after using a Bard ability, Summoning smart ether 2 to the user once per battle after using a Bard ability"
+    },
+    {
+      "name": "Lightning Resonance +5% Boost",
+      "text": "Lightning abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Chant Mode II (Garnet - Lightning)], removes [Dual Awoken Chant Mode I (Garnet - Lightning)]"
     }

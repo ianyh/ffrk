@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Quick Cast 2], grants [ATK, DEF, MAG and RES +15% (25s)] if 5 Core/Beyond all are alive"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +15% (25s)",
+      "text": "ATK, DEF, MAG and RES +15%"
     }
   ],
   "card_description": [

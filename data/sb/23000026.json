@@ -5,6 +5,30 @@
       "text": "One single attack (8.00) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Ward], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Ice with Secondary Stacking]/[Attach Earth with Secondary Stacking]."
     },
     {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Ward",
+      "text": "Triggers [Destruction: Ward] when using Water/Ice/Earth abilities (max 5)"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5"
+    },
+    {
+      "name": "Attach Ice with Secondary Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 5, up to Attach Ice 5"
+    },
+    {
+      "name": "Attach Earth with Secondary Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 5, up to Attach Earth 5"
+    },
+    {
       "name": "Break Arte",
       "text": "One Ice/NE or Earth/NE or Water/NE group attack (8.00) capped at 99,999 based on EnIce or EnEarth or EnWater. Grants [Instant ATB 1] to user."
     }

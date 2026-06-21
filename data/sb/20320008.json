@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Causes [Debuff Holy 20% (15s)], restores HP (55) to all allies, grants [Last Stand] to all allies"
+    },
+    {
+      "name": "Debuff Holy 20% (15s)",
+      "text": "Reduces Holy damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
     }
   ],
   "card_description": [

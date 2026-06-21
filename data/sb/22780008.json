@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
     }
   ],
   "card_description": [

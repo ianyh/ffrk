@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [MAG, RES and MND +30% (25s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Magus of Earth] to the user"
+    },
+    {
+      "name": "MAG, RES and MND +30% (25s)",
+      "text": "MAG, RES and MND +30%"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Magus of Earth",
+      "text": "Grants Magus of Earth +1 after using three of Synchrospell Earth or Breachspell Earth, removed after triggering, removed if the character hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "[RES +100%] for 25 seconds, grants [Haste] and [Critical Damage +50%]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
     }
   ],
   "card_description": [

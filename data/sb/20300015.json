@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Black Magic Rank Boost] and [Black Magic High Quick Cast]"
+    },
+    {
+      "name": "Black Magic Rank Boost",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
+    },
+    {
+      "name": "Black Magic High Quick Cast",
+      "text": "Cast speed x3.00 for Black Magic abilities"
     }
   ],
   "card_description": [

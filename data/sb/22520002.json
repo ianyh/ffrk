@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "[ATK +50%] for 25 seconds, grants [Last Stand]"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
     }
   ],
   "card_description": [

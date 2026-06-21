@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Unerring Pikes Follow-Up",
+      "text": "Casts Unerring Pikes after using a Dark ability"
     }
   ],
   "card_description": [

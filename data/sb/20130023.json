@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Four single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [100% Critical 1] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "100% Critical 1",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

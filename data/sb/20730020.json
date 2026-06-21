@@ -5,6 +5,30 @@
       "text": "Seven single attacks (3.10 each) capped at 19999, [Imperil Holy 20% (25s)], grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (FuSoYa v2)] and [Holy Resonance +5% Boost] to the user"
     },
     {
+      "name": "Imperil Holy 20% (25s)",
+      "text": "Holy Resistance -20%, cumulable"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Highborn Mode I (FuSoYa v2)",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, cast speed x2.00 for equipped Holy abilities"
+    },
+    {
+      "name": "Holy Resonance +5% Boost",
+      "text": "Holy abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (FuSoYa v2)], removes [Dual Awoken Highborn Mode I (FuSoYa v2)]"
     }

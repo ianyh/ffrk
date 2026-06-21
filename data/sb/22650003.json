@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eight random attacks (0.80 each), ATK increases as HP decrease, causes [Stun] (100%)"
+    },
+    {
+      "name": "Stun",
+      "text": "Resets ATB when set"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [Magical High Quick Cast 3] and [Regenga], grants [Synchro Mode], [Damage Cap +10000] and Precocious +1"
+    },
+    {
+      "name": "Magical High Quick Cast 3",
+      "text": "Cast speed x3.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

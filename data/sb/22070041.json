@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Kefka (Poison)], [Instant ATB 1] to user. Grants [Attach Poison with Stacking]."
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode: Kefka (Poison)",
+      "text": "Poison abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
     }
   ],
   "card_description": [

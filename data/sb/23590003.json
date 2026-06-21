@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Seven single attacks at Cap Break Level 1, grants [Attach Ice with Stacking], Cap Break Level 1, [200% ATB], Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Ice, Ice Ability Damage +30% & 50% DEF/RES Pierce] for 1 turn to user"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "200% ATB",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

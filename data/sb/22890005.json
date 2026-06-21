@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Dark +30% Boost (15s)] and [Absorb Mode] to the user"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%"
+    },
+    {
+      "name": "Awoken Dark",
+      "text": "Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark +30% Boost (15s)",
+      "text": "Dark abilities deal 30% more damage"
+    },
+    {
+      "name": "Absorb Mode",
+      "text": "Grants 250 SB points after using three Dark attacks, casts Abyssal Sword when removed"
     }
   ],
   "card_description": [

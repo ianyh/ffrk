@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (0.98 each), grants [Haste] to the user, [ATK and DEF +35%] to the user for 25 seconds"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

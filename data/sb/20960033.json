@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Stoneskin: 30%], grants [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

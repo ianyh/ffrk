@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [Regenga] and [High Quick Cast 2] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

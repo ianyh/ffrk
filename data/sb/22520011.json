@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [ATK, MAG and RES +30% (25s)] and [High Quick Cast 3], grants [Synchro Mode], [Blessing of Light] and Will of Light +1 to the user"
+    },
+    {
+      "name": "ATK, MAG and RES +30% (25s)",
+      "text": "ATK, MAG and RES +30%"
+    },
+    {
+      "name": "High Quick Cast 3",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Blessing of Light",
+      "text": "Grants [Weakness +50% Boost 1] to all allies after using three Support abilities, removed if the character hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

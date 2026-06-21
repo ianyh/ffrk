@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single ranged jump attacks (0.71 each), grants [Attach Wind with Stacking], [Jump Instant Cast] and [Wind Ability +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Jump Instant Cast",
+      "text": "Instant cast speed for Jump attacks"
+    },
+    {
+      "name": "Wind Ability +30% Boost (15s)",
+      "text": "Wind abilities deal 30% more damage"
     }
   ],
   "card_description": [

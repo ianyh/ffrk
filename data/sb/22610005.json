@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [50% Critical] and [Lightning Radiant Shield: 75%] to all allies"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "Lightning Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Lightning damage capped at 9999"
     }
   ],
   "card_description": [

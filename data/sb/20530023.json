@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Awoken Machine Mania], [Damage Cap +10000] and [Affable King Mode] to the user"
+    },
+    {
+      "name": "Change Machinery Mode II (Fire, Lightning, Poison)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Poison with Stacking] after using a Fire/Lightning/Poison ability"
+    },
+    {
+      "name": "Awoken Machine Mania",
+      "text": "Machinist abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Trinity Crossbow after using Machinist abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Affable King Mode",
+      "text": "Cast speed x2.00, Machinist abilities deal 10/20/30% more damage after casting 1/2/3+ Machinist abilities"
     }
   ],
   "card_description": [

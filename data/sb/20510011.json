@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Regenga], [Last Stand] and [Quick Cast 2]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

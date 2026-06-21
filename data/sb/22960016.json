@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Empower Healing 30%], and [120% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Aria] to the user\nCrystal Force Mode: Aria: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities"
+    },
+    {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Empower Healing 30%",
+      "text": "Increases HP restored by healing by 30% (cumulative)"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Crystal Force Mode: Aria",
+      "text": ""
     }
   ],
   "card_description": [

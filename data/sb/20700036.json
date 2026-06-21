@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "7 single physical attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Thief Ability Boost, Dualcast Thief, Zero Hone Cost to Thief Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Wind/NE physical attacks (2.00 each) capped at 19999, Instant Cast, grants [Damage Cap +10000 2], [Physical +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Damage Cap +10000 2",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Physical +30% Boost 2",
+      "text": "Physical attacks deal 30% more damage"
+    },
+    {
+      "name": "DEF and RES 50% Piercing 2",
+      "text": "Ignores 50% of the target's DEF and RES"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

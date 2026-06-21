@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Causes [Slow] (20%)"
+    },
+    {
+      "name": "Slow",
+      "text": "ATB speed x0.50"
     }
   ],
   "card_description": [

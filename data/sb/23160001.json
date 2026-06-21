@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Quick Cast 1], [Attach Ice] and [Spellblade Rank Boost] to the user"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%"
+    },
+    {
+      "name": "Spellblade Rank Boost",
+      "text": "Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
     }
   ],
   "card_description": [

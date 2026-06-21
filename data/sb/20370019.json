@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Fire Chain (max 99, field +50%), grants [MAG +50%] for 25 seconds, grants [Buff Fire 20% (15s)]"
+    },
+    {
+      "name": "Buff Fire 20% (15s)",
+      "text": "Increases Fire damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

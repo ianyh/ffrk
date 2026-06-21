@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.80 each) capped at 19999, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Sice] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Sice",
+      "text": "Casts Kindred Guidance: Sice after a Type-0 Chain reaches a count of 50 or 100, removed after triggering two times"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

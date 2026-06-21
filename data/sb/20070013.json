@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.72 each), grants [Last Stand] to all allies, grants [Knight +30% Boost (15s)] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Knight +30% Boost (15s)",
+      "text": "Knight abilities deal 30% more damage"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

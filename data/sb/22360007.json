@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Buff Lightning 20% (15s)] and [High Quick Cast 2]"
+    },
+    {
+      "name": "Buff Lightning 20% (15s)",
+      "text": "Increases Lightning damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

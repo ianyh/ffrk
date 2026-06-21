@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Grants [MAG and MND +50% (25s)], [Haste], [Magical +30% Boost (15s)], and [Magical Quick Cast] to all allies, grants [Crystal Force Mode] and Crystal Force Mode: Tama to the user\nCrystal Force Mode: Tama: Quick Black Magic/White Magic & Zero Hone Cost to Black Magic/White Magic Abilities"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Magical +30% Boost (15s)",
+      "text": "Magical attacks deal 30% more damage"
+    },
+    {
+      "name": "Magical Quick Cast",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (? each) capped at 19999, activates Dark Chain (max 150, field +0%) or adds 25 to the current Dark Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Seymour (Dark)] and [Instant ATB1 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Seymour (Dark)",
+      "text": "Casts Dark Guidance: Seymour after another ally uses a Dark ability, removed after triggering two times"
     }
   ],
   "card_description": [

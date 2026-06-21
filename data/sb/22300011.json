@@ -3,6 +3,46 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste], [High Quick Cast 2], grants [Buff Holy 10% (15s)]/[Buff Dark 10% (15s)] and [HP Stock (2000)] if Warrior of Light/Garland is in the party, grants [Buff Holy 20% (15s)] and [Buff Dark 20% (15s)] and [HP Stock (2000)] if both are in the party, grants [Awoken Cornelian Princess] to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Buff Holy 10% (15s)",
+      "text": "Increases Holy damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Buff Dark 10% (15s)",
+      "text": "Increases Dark damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "HP Stock (2000)",
+      "text": "Automatically restores HP, up to 2000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Buff Holy 20% (15s)",
+      "text": "Increases Holy damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Dark 20% (15s)",
+      "text": "Increases Dark damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Awoken Cornelian Princess",
+      "text": "White Magic and Bard abilities don't consume uses, cast speed x3.00 for White Magic and Bard abilities, casts Healing Voice after using a White Magic or Bard ability"
     }
   ],
   "card_description": [

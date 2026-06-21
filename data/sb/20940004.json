@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (2.23 each), grants [Magical Quick Cast 3] to all allies"
+    },
+    {
+      "name": "Magical Quick Cast 3",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
     }
   ],
   "card_description": [

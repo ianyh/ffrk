@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.70 each), grants [Haste], [Radiant Shield: 100%] and [High Regen] to all allies"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Radiant Shield: 100%",
+      "text": "Returns 100% of the damage taken to the attacker"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
     }
   ],
   "card_description": [

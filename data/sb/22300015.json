@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [Regenga] and [Quick Cast 3]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

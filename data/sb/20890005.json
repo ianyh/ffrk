@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user"
+    },
+    {
+      "name": "Abandoned Past",
+      "text": "Grants [High Quick Cast 1] after using a Dark ability, casts Vanishing Blade after using a Ninja ability if the user has any Physical Blink"
     }
   ],
   "card_description": [

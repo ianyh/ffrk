@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [50% Damage Reduction Barrier 2] to all allies"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 2",
+      "text": "Reduces damage taken by 50% for the next two attacks"
     }
   ],
   "card_description": [

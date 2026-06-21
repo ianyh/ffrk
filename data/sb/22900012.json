@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Dual Master level 0/1/2, removes Arcane Dyad Empowered: Gladiolus from the user"
+      "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Gladiolus], [Dual Master Damage Tracker] and [Dual Master Level]"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Gladiolus",
+      "text": "Keeps track of the number of uses of Dual Master (0~2), removed after using Dual Master two times"
+    },
+    {
+      "name": "Dual Master Damage Tracker",
+      "text": "Increases Dual Master level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Gladiolus]"
+    },
+    {
+      "name": "Dual Master Level",
+      "text": "Keeps track of Dual Master level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Gladiolus]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Dual Master level 0/1/2, removes Arcane Dyad Empowered: Gladiolus from the user"
+      "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Gladiolus], [Dual Master Damage Tracker] and [Dual Master Level]"
     },
     {
       "name": "Engaged",

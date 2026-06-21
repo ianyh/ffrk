@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [Regenga], [Instant Cast 1] and [ATK, DEF, MAG and RES +30% (25s)], grants [Awoken Potion Prince] to the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Awoken Potion Prince",
+      "text": "White Magic and Support abilities don't consume uses, cast speed x3.00 for White Magic and Support abilities, grants [HP Stock (2000)] to all allies after using White Magic and Support abilities"
     }
   ],
   "card_description": [

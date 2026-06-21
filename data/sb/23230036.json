@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Switch Draw Mode II (Wind, Dark)], [Instant ATB 1], and [Instant Cast 2]"
+    },
+    {
+      "name": "Switch Draw Mode II (Wind, Dark)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Wind/Dark ability"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

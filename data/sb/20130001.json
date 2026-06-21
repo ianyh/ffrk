@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (1.30), causes [Slow] (50%)"
+    },
+    {
+      "name": "Slow",
+      "text": "ATB speed x0.50"
     }
   ],
   "card_description": [

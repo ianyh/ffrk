@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Stoneskin: 30%] and [RES +100%] for 25 seconds"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

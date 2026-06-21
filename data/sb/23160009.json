@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [SB Gauge +25% Boost 1] and [Haste], grants [Instant Cast 1] to the user"
+    },
+    {
+      "name": "SB Gauge +25% Boost 1",
+      "text": "Abilities grant 25% more SB points"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

@@ -5,6 +5,26 @@
       "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to all enemies, grants [ATK, DEF, MAG and RES +30% (25s)] and [Quick Cast 3] to all allies, grants [Dual Awoken Frog-Catcher Mode I (Quina)] to the user, grants [IX Resonance +3% Boost] to all FFIX allies"
     },
     {
+      "name": "ATK, DEF, MAG, RES and MND -50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Dual Awoken Frog-Catcher Mode I (Quina)",
+      "text": "Cast speed x2.00 for Support abilities, casts Dual Frog Guard after using Support abilities"
+    },
+    {
+      "name": "IX Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is IX"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Frog-Catcher Mode II (Quina)] to the user"
     }

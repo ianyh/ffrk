@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind with Stacking], [Awoken Dragoon], [Damage Cap +10000] and [Steadfast Pilot Mode] to the user"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Awoken Dragoon",
+      "text": "Dragoon abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Jump attacks"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Steadfast Pilot Mode",
+      "text": "Casts Aero Descent after another ally casts a Wind ability, removed after triggering three times, casts High Climb when removed"
     }
   ],
   "card_description": [

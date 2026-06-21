@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), removes KO [Raise: 100%], grants [Magical High Quick Cast 3], [Haste] and [Last Stand], grants [Awoken Cry] to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Magical High Quick Cast 3",
+      "text": "Cast speed x3.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Awoken Cry",
+      "text": "White Magic abilities don't consume uses, cast speed x3.00 for White Magic abilities, grants [HP Stock (500)]/[HP Stock (1000)]/[HP Stock (1500)]/[HP Stock (2000)]/[HP Stock (3000)] to all allies after using White Magic abilities at rank 1/2/3/4/5"
     }
   ],
   "card_description": [

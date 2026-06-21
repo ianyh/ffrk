@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Seven single-target Dark/Poison/NE magical attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Kefka (Dark) to the user\nCrystal Force I/II: Single-target overflow Dark/Poison/NE magic attack (34.60 each) capped at 199999; Crystal Force II: Grants [Damage Cap +10000 2], [Magical 30% Boost 2], [50% DEF/RES Pierce 2], & [200% ATB 1] to user; After using Crystal Force II, chases with 8 single-target Dark/Poison/NE magic attack (3.05 each)"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Damage Cap +10000 2",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

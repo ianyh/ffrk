@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Element Mode II (Fire, Dark)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Twin Element Mode II (Fire, Dark)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Dark with Stacking] after using a Fire/Dark ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.63 each), grants [Attach Lightning with Stacking] and [Lightning Crash Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Lightning Crash Follow-Up",
+      "text": "Casts Lightning Crash after using two Support or Celerity abilities"
     }
   ],
   "card_description": [

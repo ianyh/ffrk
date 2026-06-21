@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores HP (50), removes KO [Raise: 30%]"
+    },
+    {
+      "name": "Raise: 30%",
+      "text": "Removes KO (30% HP)"
     }
   ],
   "card_description": [

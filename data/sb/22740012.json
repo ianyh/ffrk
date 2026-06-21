@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attack (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Quick Cast 1] and [Phantom Flame Mode] to the user"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Phantom Flame Mode",
+      "text": "Grants Phantom Flame +1 after using Tricky Flame, causes Phantom Flame -1 after using Glide Flame, removed if user hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

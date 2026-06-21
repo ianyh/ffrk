@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Causes [Imperil Water 40% (5s)], grants [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "Imperil Water 40% (5s)",
+      "text": "Water Resistance -40%, cumulable"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

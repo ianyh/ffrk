@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ Tactics allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and Antilaws +1 to the user"
+    },
+    {
+      "name": "Imperil Prismatic 10% (15s)",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], [Imperil Lightning 10% (15s)], [Imperil Earth 10% (15s)], [Imperil Wind 10% (15s)], [Imperil Water 10% (15s)], [Imperil Holy 10% (15s)], [Imperil Dark 10% (15s)] and [Imperil Poison 10% (15s)]"
+    },
+    {
+      "name": "Imperil Prismatic 30% (15s)",
+      "text": "Causes [Imperil Fire 30% (15s)], [Imperil Ice 30% (15s)], [Imperil Lightning 30% (15s)], [Imperil Earth 30% (15s)], [Imperil Wind 30% (15s)], [Imperil Water 30% (15s)], [Imperil Holy 30% (15s)], [Imperil Dark 30% (15s)] and [Imperil Poison 30% (15s)]"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
     }
   ],
   "card_description": [

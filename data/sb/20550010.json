@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Monk High Quick Cast] and [Monk Rank Boost]"
+    },
+    {
+      "name": "Monk High Quick Cast",
+      "text": "Cast speed x3.00 for Monk abilities"
+    },
+    {
+      "name": "Monk Rank Boost",
+      "text": "Monk abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
     }
   ],
   "card_description": [

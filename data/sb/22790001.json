@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), grants [Attach Fire] to the user, grants [Ace Follow-Up] and [Attack Hand EX Mode] to the user for 15 seconds"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%"
+    },
+    {
+      "name": "Ace Follow-Up",
+      "text": "Casts Ace Follow-Up after using an ability"
+    },
+    {
+      "name": "Attack Hand EX Mode",
+      "text": "MAG +30%, cast speed x2.00"
     }
   ],
   "card_description": [

@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode II (Ice, Dark)], [Awoken Frostshade Witch], [Damage Cap +10000], [Quick Cast] and [(Ice/Dark) Ability +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Switch Draw Mode II (Ice, Dark)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Dark with Stacking] after using a Ice/Dark ability"
+    },
+    {
+      "name": "Awoken Frostshade Witch",
+      "text": "Ice and Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Ice Binding after using Ice and Dark abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "(Ice/Dark) Ability +30% Boost (15s)",
+      "text": "Ice and Dark abilities deal 30% more damage"
     }
   ],
   "card_description": [

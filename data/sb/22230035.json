@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Sorcery Damage +5%] & [Quick Cast 2], grants [Quick ATB 1] to user"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [High Quick Cast 1] and [Twin Element Mode II (Lightning, Wind)]"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Twin Element Mode II (Lightning, Wind)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Wind with Stacking] after using a Lightning/Wind ability"
     }
   ],
   "card_description": [

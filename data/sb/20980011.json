@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single hybrid attacks (0.60 or 222.50 each), grants [Awoken Ninja], [Damage Cap +10000], [Ninja High Quick Cast] and [Eblan Tactics Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Ninja",
+      "text": "Ninja abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ninja High Quick Cast",
+      "text": "Cast speed x3.00 for Ninja abilities"
+    },
+    {
+      "name": "Eblan Tactics Follow-Up",
+      "text": "Casts Eblan Tactics after using a Ninja ability"
     }
   ],
   "card_description": [

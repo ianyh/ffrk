@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Earth with Stacking], [Quick Cast 1] and [Second Rebellion] to the user"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Second Rebellion",
+      "text": "Grants [Quick Cast 1] to the user after using an Earth ability"
     }
   ],
   "card_description": [

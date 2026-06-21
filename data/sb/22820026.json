@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Lightning with Stacking], [Soul Break Gauge +250], and [200% ATB 1]"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

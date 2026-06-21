@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Attach Wind], [Wind Drain] and [Gale Spear Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%"
+    },
+    {
+      "name": "Wind Drain",
+      "text": "Restores HP for 10% of the damage dealt with Wind attacks"
+    },
+    {
+      "name": "Gale Spear Follow-Up",
+      "text": "Casts Gale Spear after using a Wind ability"
     }
   ],
   "card_description": [

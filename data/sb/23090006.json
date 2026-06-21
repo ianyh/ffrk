@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Awoken Earth], [Damage Cap +10000], [Pulverizing Blow Follow-Up], [Fear Mode] and [Overflow Earth Radiant Shield: 75%] to the user"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%"
+    },
+    {
+      "name": "Awoken Earth",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Pulverizing Blow Follow-Up",
+      "text": "Casts Pulverizing Blow after using four Earth abilities"
+    },
+    {
+      "name": "Fear Mode",
+      "text": "Grants [Overflow Earth Radiant Shield: 125%]/[Overflow Earth Radiant Shield: 200%]/[Overflow Earth Radiant Shield: 300%] after using 1/2/3+ Earth abilities"
+    },
+    {
+      "name": "Overflow Earth Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Earth damage capped at 99999"
     }
   ],
   "card_description": [

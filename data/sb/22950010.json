@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), grants [Twin Element Mode II (Earth, Holy) v2], [Awoken Knight], [Damage Cap +10000], [Reequip Mode], [Reequip Mode Critical Chance] and [Shatter Accessory] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Earth, Holy) v2",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Holy with Stacking] after using a Earth/Holy ability"
+    },
+    {
+      "name": "Awoken Knight",
+      "text": "Knight abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Knight abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Reequip Mode",
+      "text": "Keeps track of the number of uses of Knight abilities used (0~4), cast speed x2.00, grants [Reequip Mode Critical Chance] after using a Knight ability"
+    },
+    {
+      "name": "Reequip Mode Critical Chance",
+      "text": "Critical chance =0/25/50/75/100% scaling with [Reequip Mode], removed if the character hasn't [Reequip Mode]"
+    },
+    {
+      "name": "Shatter Accessory",
+      "text": "Grants [Attach Earth]/[Attach Holy] after using three Earth or Holy abilities if the triggering ability deals Earth/Holy damage"
     }
   ],
   "card_description": [

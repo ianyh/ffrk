@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (0.81 each), [ATK and DEF -50%] for 25 seconds, grants [Timeless EX Mode] to the user"
+    },
+    {
+      "name": "Timeless EX Mode",
+      "text": "ATK +30%, cast speed x2.00 for Support abilities"
     }
   ],
   "card_description": [

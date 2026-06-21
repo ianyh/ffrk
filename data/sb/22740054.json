@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Master Mode], [Instant ATB 1], [Diffusion Barrier 1] to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE physical attacks, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE physical attack at True Cap Break Level 1; Cap Break Level 9, Instant Cast, & Hero Boost +50% for 1 turn to user; [Instant ATB 1] to user if Prompto is in party; removes Master Mode"
+    },
+    {
+      "name": "Master Mode",
+      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Diffusion Barrier 1",
+      "text": "Prevents elemental diffusion once"
     }
   ],
   "card_description": [

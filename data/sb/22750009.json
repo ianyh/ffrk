@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [True Undine] to the user"
+    },
+    {
+      "name": "Attach Water 3 with Stacking",
+      "text": "Increase Attach Water Level by 3 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "True Undine",
+      "text": "Grants [125% ATB (Synchro)]/[200% ATB (Synchro)] after using 1/2+ Water abilities"
     }
   ],
   "card_description": [

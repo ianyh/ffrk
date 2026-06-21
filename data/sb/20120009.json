@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Shell] and [HP Stock (2000)]"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "HP Stock (2000)",
+      "text": "Automatically restores HP, up to 2000 HP, removed when that amount is reached"
     }
   ],
   "card_description": [

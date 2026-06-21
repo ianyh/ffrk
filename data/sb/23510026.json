@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Activates Mage II Chain (150) & 50% Mage II Field, grants [MAG & MND +30%] and [Quick Cast 1] to party, grants Link Assist Mode & [Instant Cast 1] to user\nLink Assist Mode: After a Mage II member uses [Element] ability, chases with minor Prismatic Imperil to all targets (max 3 chases, 1 per element)"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

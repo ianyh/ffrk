@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Awoken Monk], [Damage Cap +10000], [Rousing Charge Mode (Fire, Lightning, Earth)] and [Rousing Rush Mode] to the user"
+    },
+    {
+      "name": "Awoken Monk",
+      "text": "Monk abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Monk abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Rousing Charge Mode (Fire, Lightning, Earth)",
+      "text": "Grants [Attach Fire]/[Attach Lightning]/[Attach Earth] after using a Fire/Lightning/Earth ability"
+    },
+    {
+      "name": "Rousing Rush Mode",
+      "text": "ATK +50%, DEF and RES -30%, 50% chance for Monk abilities to trigger 1 additional time"
     }
   ],
   "card_description": [

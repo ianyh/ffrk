@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random attacks (0.72 each), causes [Imperil Wind 20%] for 25 seconds, grants [Master Thief EX Mode] to the user"
+    },
+    {
+      "name": "Master Thief EX Mode",
+      "text": "Casts Steel Storm after using a Thief ability"
     }
   ],
   "card_description": [

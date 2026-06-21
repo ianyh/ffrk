@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user."
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Double Crystarium Mode II (Holy, Dark)",
+      "text": "Grants [Attach Holy with Stacking]/[Attach Dark with Stacking] after using a Holy/Dark ability"
+    },
+    {
+      "name": "Dual Awoken Ambitious Commander Mode I (Cid Raines)",
+      "text": "Dark and Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Instant cast speed for Dark and Holy abilities"
+    },
+    {
+      "name": "Dark/Holy Resonance +5% Boost",
+      "text": "Dark and Holy abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ambitious Commander Mode II (Cid Raines)] to the user"
     }

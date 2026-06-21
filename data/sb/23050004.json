@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.68 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Protect] and [Shell] to all allies"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
     }
   ],
   "card_description": [

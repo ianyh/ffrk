@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Three group attacks (4.80 each), causes [Silence] (100%) and [Sleep] (100%)"
+    },
+    {
+      "name": "Silence",
+      "text": "Disables BLK, WHT, BLU and SUM actions, persists after battle"
+    },
+    {
+      "name": "Sleep",
+      "text": "Arrests ATB charge rate, prevents from acting, removed upon taking damage by PHY attacks"
     }
   ],
   "card_description": [

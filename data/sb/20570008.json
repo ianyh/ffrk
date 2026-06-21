@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.70 each), [RES +100%] to the user for 25 seconds, grants [Shining Knight Mode] to the user"
+    },
+    {
+      "name": "Shining Knight Mode",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning] after taking Fire/Ice/Lightning damage from a BLK, WHT, BLU or SUM ability used by another ally"
     }
   ],
   "card_description": [

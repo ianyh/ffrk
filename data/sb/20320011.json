@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Causes [ATK, DEF, MAG and RES -40%] for 25 seconds, restores HP (85) to all allies, grants [Regenga] to all allies"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
     }
   ],
   "card_description": [

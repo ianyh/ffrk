@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (0.66 each), causes [Paralyze] (100%) and [Slow] (100%)"
+    },
+    {
+      "name": "Paralyze",
+      "text": "Prevents from acting"
+    },
+    {
+      "name": "Slow",
+      "text": "ATB speed x0.50"
     }
   ],
   "card_description": [

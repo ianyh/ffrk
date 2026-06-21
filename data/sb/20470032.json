@@ -5,6 +5,18 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Red XIII], [MAG +500 (25s) (Tactical)] to user."
     },
     {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. "
+    },
+    {
+      "name": "Tactical Awoken Mode: Red XIII",
+      "text": "Earth abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, penetrate 20% DEF and RES; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "MAG +500 (25s) (Tactical)",
+      "text": "Mag +500"
+    },
+    {
       "name": "Weapon Skill",
       "text": "One single attack (31.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Soul Break Gauge +500] to user if Level 3+ EnEarth, grants [Attach Earth 3 with Stacking] to user if not."
     }

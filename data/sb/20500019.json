@@ -2,7 +2,39 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Shockwave Pulsar level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Quistis from the user"
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Arcane Dyad Empowered: Quistis], [Apex Shockwave Pulsar Damage Tracker] and [Apex Shockwave Pulsar Level] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND -50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Quistis",
+      "text": "Keeps track of the number of uses of Apex Shockwave Pulsar (0~2), removed after using Apex Shockwave Pulsar two times"
+    },
+    {
+      "name": "Apex Shockwave Pulsar Damage Tracker",
+      "text": "Increases Apex Shockwave Pulsar level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Quistis]"
+    },
+    {
+      "name": "Apex Shockwave Pulsar Level",
+      "text": "Keeps track of Apex Shockwave Pulsar level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Quistis]"
     },
     {
       "name": "Engaged",
@@ -12,7 +44,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Shockwave Pulsar level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Quistis from the user"
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Arcane Dyad Empowered: Quistis], [Apex Shockwave Pulsar Damage Tracker] and [Apex Shockwave Pulsar Level] to the user"
     },
     {
       "name": "Engaged",

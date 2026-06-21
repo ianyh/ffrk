@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Magical High Quick Cast 3], grants [Brave Mode] to the user"
+    },
+    {
+      "name": "Magical High Quick Cast 3",
+      "text": "Cast speed x3.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

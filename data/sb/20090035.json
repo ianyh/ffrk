@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (7.29) capped at 99999, 7.79 multiplier if exploiting elemental weakness, grants [Soul Break Gauge +250]"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
     }
   ],
   "card_description": [

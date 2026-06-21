@@ -5,6 +5,26 @@
       "text": "Grants [Attach Ice with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Eight], [Sacrificial Slug (Type-0) Damage Tracker] and [Sacrificial Slug (Type-0) Level]"
     },
     {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Eight",
+      "text": "Keeps track of the number of uses of Sacrificial Slug (Type-0) (0~2), removed after using Sacrificial Slug (Type-0) two times"
+    },
+    {
+      "name": "Sacrificial Slug (Type-0) Damage Tracker",
+      "text": "Increases Sacrificial Slug (Type-0) level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Eight]"
+    },
+    {
+      "name": "Sacrificial Slug (Type-0) Level",
+      "text": "Keeps track of Sacrificial Slug (Type-0) level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Eight]"
+    },
+    {
       "name": "Type-0",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Sacrificial Slug (Type-0) level 0/1/2, removes Arcane Dyad Empowered: Eight from the user"
     }

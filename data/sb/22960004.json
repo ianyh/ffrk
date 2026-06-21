@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Fire Stoneskin: 100%] and [High Regen]"
+    },
+    {
+      "name": "Fire Stoneskin: 100%",
+      "text": "Reduces Fire damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
     }
   ],
   "card_description": [

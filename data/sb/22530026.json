@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Alphinaud v2)] and [Summoning Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Summoning Mode I (Alphinaud v2)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 2 additional times, cast speed x2.00 for Summoning abilities, casts D Miasma Burst after using 2 Summoning abilities (max 1)"
+    },
+    {
+      "name": "Summoning Resonance +5% Boost",
+      "text": "Summoning abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Dual Awoken Summoning Mode II (Alphinaud v2)]"
     }

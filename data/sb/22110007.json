@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eight random ranged jump attacks (0.87 each), [ATK, DEF and MAG -70%] for 8 seconds, grants [No Air Time 3] to the user"
+    },
+    {
+      "name": "No Air Time 3",
+      "text": "Changes air time to  0.01 seconds"
     }
   ],
   "card_description": [

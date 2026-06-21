@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Activates Earth Chain (max 150, field +30%), grants [ATK +50% (25s)] or [MAG +50% (25s)] to all allies"
+    },
+    {
+      "name": "ATK +50% (25s)",
+      "text": "ATK +50%"
+    },
+    {
+      "name": "MAG +50% (25s)",
+      "text": "MAG +50%"
     }
   ],
   "card_description": [

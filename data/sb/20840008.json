@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Physical Quick Cast",
+      "text": "Cast speed x2.00 for PHY attacks"
+    },
+    {
+      "name": "Awoken Frog-Catcher",
+      "text": "Support abilities don't consume uses, cast speed x3.00 for Support abilities, restores 1000 HP to the user after using Support abilities"
+    },
+    {
+      "name": "Delicious Discovery!",
+      "text": "Grants [100% Critical 1] and [Critical Damage +50% 1] to all allies and casts Frog Stomp after using three Support abilities"
     }
   ],
   "card_description": [

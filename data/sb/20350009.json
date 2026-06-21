@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Nine single attacks (0.83 each), grants [High Quick Cast 2] and [SeeD EX Mode] to the user"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "SeeD EX Mode",
+      "text": "Casts Shattering Finish after using two Spellblade abilities"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [40% Damage Reduction Barrier 3] to all allies, grants [Attach Wind 3 with Stacking], [Damage Cap +10000] and [Raging Wind Mode] to the user"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 3",
+      "text": "Reduces damage taken by 40% for the next three attacks"
+    },
+    {
+      "name": "Attach Wind 3 with Stacking",
+      "text": "Increase Attach Wind Level by 3 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Raging Wind Mode",
+      "text": "Grants [200% ATB 1] after using Violent Tornado or Whirlwind Form If the character has any Damage Reduction Barrier"
     }
   ],
   "card_description": [

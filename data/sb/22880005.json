@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), removes KO [Raise: 100%], grants [Dual Blink 1], [Haste] and [Instant Cast 1], grants [Awoken Automaton Mode] to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Dual Blink 1",
+      "text": "Evades the next attack that could be evaded with [Physical Blink] or [Magical Blink], lower priority than [Physical Blink] and [Magical Blink]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Awoken Automaton Mode",
+      "text": "White Magic and Monk abilities don't consume uses, cast speed x3.00 for White Magic and Monk abilities, grants [HP Stock (500)]/[HP Stock (1000)]/[HP Stock (1500)]/[HP Stock (2000)]/[HP Stock (3000)] to all allies after using White Magic or Monk abilities at rank 1/2/3/4/5"
     }
   ],
   "card_description": [

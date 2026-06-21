@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.73 each), grants [Wind Radiant Shield: 75%] to all allies, grants [High Quick Cast 2] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Wind Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Wind damage capped at 9999"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

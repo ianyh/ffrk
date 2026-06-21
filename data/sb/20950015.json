@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "Seven single attacks (0.90/3.05 each) capped at 19999, grants [Attach Holy with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Poison with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Thancred] to the user"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Crystal Force Mode: Thancred",
+      "text": "Holy/Earth/Wind/Poison abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy/Earth/Wind/Poison abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if the user hasn't Crystal Force Mode"
     }
   ],
   "card_description": [

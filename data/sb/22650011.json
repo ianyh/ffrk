@@ -2,7 +2,7 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Omega God: 10 single-target Fire/NE ranged hybrid attacks & single-target Fire/NE Overflow ranged hybrid attack, Instant Cast 1 to party, removes True Arcane Augment Mode"
+      "text": "ATK & MAG +50% and Instant Cast 1 to party, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Omega God if at least 100001/300001 damage is dealt"
     },
     {
       "name": "Engaged",
@@ -12,7 +12,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Omega God: 10 single-target Fire/NE ranged hybrid attacks & single-target Fire/NE Overflow ranged hybrid attack, Instant Cast 1 to party, removes True Arcane Augment Mode"
+      "text": "ATK & MAG +50% and Instant Cast 1 to party, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Omega God if at least 100001/300001 damage is dealt"
     },
     {
       "name": "Engaged",

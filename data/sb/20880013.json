@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Triple Sphere Mode III (Ice, Lightning, Water)] and [Third Activation Mode] to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Triple Sphere Mode III (Ice, Lightning, Water)",
+      "text": "Grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking] after using a Ice/Lightning/Water ability"
+    },
+    {
+      "name": "Third Activation Mode",
+      "text": "Ice, Lightning and Water abilities trigger 1 additional time, casts Toy Break after using three Ice, Lightning or Water abilities"
     }
   ],
   "card_description": [

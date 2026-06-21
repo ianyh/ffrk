@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [High Regen] and [High Quick Cast 2] to all allies, grants [Cure Melody Follow-Up] to the user"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Cure Melody Follow-Up",
+      "text": "Casts Cure Melody after using a White Magic or Bard ability"
     }
   ],
   "card_description": [

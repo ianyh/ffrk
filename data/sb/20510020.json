@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (2.70 each) capped at 19999, activates VIII Chain (max 150, field +0%) or adds 25 to the current VIII Chain maximum limit, grants [Chain Force Mode: Selphie] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Selphie",
+      "text": "Casts Kindred Guidance: Selphie after using a White Magic or Dancer ability, removed after triggering two times"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)] to all allies"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "ATK +50% (25s)",
+      "text": "ATK +50%"
     }
   ],
   "card_description": [

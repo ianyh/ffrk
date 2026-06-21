@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.62 each), causes [Imperil Fire 20%] and [Imperil Lightning 20%] for 25 seconds, grants [Monk High Quick Cast 2] to the user"
+    },
+    {
+      "name": "Monk High Quick Cast 2",
+      "text": "Cast speed x3.00 for Monk abilities"
     }
   ],
   "card_description": [

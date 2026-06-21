@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged jump attacks (0.80 each) capped at 19999, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Aranea] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Aranea",
+      "text": "Casts Kindred Guidance: Aranea after a XV Chain reaches a count of 50 or 100, removed after triggering two times"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

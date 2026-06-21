@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Earth Ability Quick Cast (15s)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Earth Ability Quick Cast (15s)",
+      "text": "Cast speed x2.00 for Earth abilities"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

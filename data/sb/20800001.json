@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Protect] and [Shell]"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
     }
   ],
   "card_description": [

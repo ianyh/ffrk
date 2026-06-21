@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Ice Stalker Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%"
+    },
+    {
+      "name": "Awoken Ice",
+      "text": "Ice abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ice Stalker Follow-Up",
+      "text": "Casts Ice Stalker (Black Magic/Witch) after using a Black Magic/Witch ability"
     }
   ],
   "card_description": [

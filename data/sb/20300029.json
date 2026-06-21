@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Awoken Comet], [Damage Cap +10000], [Ice, Earth Ability +30% Boost (15s)] and [Switch Draw Mode II (Ice, Earth)] to the user"
+    },
+    {
+      "name": "MAG and RES +30% (25s)",
+      "text": "MAG and RES +30%"
+    },
+    {
+      "name": "Awoken Comet",
+      "text": "Ice and Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Binary Star after using Ice and Earth abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ice, Earth Ability +30% Boost (15s)",
+      "text": "Ice or Earth abilities deal 30% more damage"
+    },
+    {
+      "name": "Switch Draw Mode II (Ice, Earth)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Earth with Stacking] after using a Ice/Earth ability"
     }
   ],
   "card_description": [

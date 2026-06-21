@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [Haste], [Shell], [Astra] and [Reraise: 40%]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Astra",
+      "text": "Prevents Poison, Silence, Paralyze, Confuse, Slow, Stop, Blind, Sleep, Petrify, Berserk, Sap and Stun once"
+    },
+    {
+      "name": "Reraise: 40%",
+      "text": "Automatically removes KO (40% HP), removed after triggering"
     }
   ],
   "card_description": [

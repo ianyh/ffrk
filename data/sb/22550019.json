@@ -5,6 +5,26 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Holy with Stacking], [Damage Cap +10000], [Thunder God's Might], [Dual Awoken Thunder God Mode I (Orlandeau)], and [Knight/Darkness Resonance +5% Boost] to the user"
     },
     {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Thunder God's Might",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Dual Awoken Thunder God Mode I (Orlandeau)",
+      "text": "Knight and Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Knight and Darkness abilities trigger 2 additional times, Deadly Strikes 5/10/15/20% to the user after using 1/2/3/4+ Knight or Darkness abilities"
+    },
+    {
+      "name": "Knight/Darkness Resonance +5% Boost",
+      "text": ""
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Dual Awoken Thunder God Mode II (Orlandeau)], and Smart Ether 3 to the user"
     }

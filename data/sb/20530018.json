@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Causes [Imperil Poison 20% (25s)], [Imperil Fire 20% (25s)] and [Imperil Lightning 20% (25s)], grants [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Imperil Poison 20% (25s)",
+      "text": "Poison Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Fire 20% (25s)",
+      "text": "Fire Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Lightning 20% (25s)",
+      "text": "Lightning Resistance -20%, cumulable"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

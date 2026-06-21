@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.65 each), grants [Light's Wisdom EX Mode] to the user"
+    },
+    {
+      "name": "Light's Wisdom EX Mode",
+      "text": "MAG +30%, cast speed x2.00 for magical damage, casts Wind/Water/Fire/Earth Onion Magic after using a Wind/Water/Fire/Earth Black Magic ability"
     }
   ],
   "card_description": [

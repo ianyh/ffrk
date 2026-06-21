@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Seventeen single attacks (0.37 each), grants [Haste] and [ATK, DEF, MAG, RES and MND +15%] to all allies for 25 seconds"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

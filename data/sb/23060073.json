@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Conditional Attach Element with Stacking From Party], [Synchro Mode], [Damage Cap +10000] and [Rainbow Magic] to the user"
+    },
+    {
+      "name": "Conditional Attach Element with Stacking From Party",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Water with Stacking]/[Attach Holy with Stacking]/[Attach Dark with Stacking]/[Attach Poison with Stacking] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Rainbow Magic",
+      "text": "Grants [Conditional Attach Element From Party] after using three of Sage Counsel or Tome of Knowledge"
     }
   ],
   "card_description": [

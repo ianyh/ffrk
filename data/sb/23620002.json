@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Crystal Force Mode: Torgal] to user. Grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)], [Pentabuff Damage Boost (15s)], [125% Quick Cast] to all allies."
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Crystal Force Mode: Torgal",
+      "text": "Support/Celerity/Black Magic abilities don't consume uses and have Cast Speed x2.00, removed if user hasn't Crystal Force Mode"
+    },
+    {
+      "name": "ATK, MAG and MND 30%, DEF and RES 25% (25s)",
+      "text": "ATK, MAG and MND 30%, DEF and RES 25%"
+    },
+    {
+      "name": "Pentabuff Damage Boost (15s)",
+      "text": "Increases damage dealt by 5/10/15/20/30% if user has 1/2/3/4/5 of ATK, DEF, MAG, RES or MND increased"
+    },
+    {
+      "name": "125% Quick Cast",
+      "text": "Cast speed x1.25"
     }
   ],
   "card_description": [

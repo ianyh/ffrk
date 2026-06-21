@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (? each), grants [Attach Dark with Stacking], [Damage Cap +10000], and [Awoken Summoner of Darkness Mode] to the user, causes [Imperil Dark 30% (15s)]/[Imperil Prismatic 30% (15s)] with 0-3/4+ X realm allies "
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Imperil Dark 30% (15s)",
+      "text": "Dark Resistance -30%, cumulable"
+    },
+    {
+      "name": "Imperil Prismatic 30% (15s)",
+      "text": "Causes [Imperil Fire 30% (15s)], [Imperil Ice 30% (15s)], [Imperil Lightning 30% (15s)], [Imperil Earth 30% (15s)], [Imperil Wind 30% (15s)], [Imperil Water 30% (15s)], [Imperil Holy 30% (15s)], [Imperil Dark 30% (15s)] and [Imperil Poison 30% (15s)]"
     }
   ],
   "card_description": [

@@ -5,6 +5,14 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Sephiroth (Fire)], & ATK +500 to user\nTP Max: AOE Fire/NE physical attack at True Cap Break Level 1"
     },
     {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. "
+    },
+    {
+      "name": "Tactical Awoken Mode: Sephiroth (Fire)",
+      "text": "Fire abilities deal 30% more damage, have +10000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times and don't consume ability uses, Fire abilities ignore 20% of the target's DEF and RES, keeps track of the number of Fire abilities used, removes [Tactical Awoken Mode] after using 8 Fire abilities, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
       "name": "Weapon Skill",
       "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user.\n[Fire Damage Cap +20000 (Tactical)] & [Fire Ability DEF and RES 30% Piercing (Tactical)] to user, and Weapon Skill Blue/Gold if user has Attach Fire 0-1/2\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: Chases a Fire ability with [200% ATB 3] (max 1 chase) to user"
     }

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Twin Element Mode III (Wind, Poison)], [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Twin Element Mode III (Wind, Poison)",
+      "text": "Grants [Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] after using a Wind/Poison ability"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "[MAG and RES +30%] for 25 seconds, grants [Darkness High Quick Cast] for 15 seconds"
+    },
+    {
+      "name": "Darkness High Quick Cast",
+      "text": "Cast speed x3.00 for Darkness abilities"
     }
   ],
   "card_description": [

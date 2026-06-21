@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Six single attacks (0.52 each), grants [Attach Holy Stacking] and [Attach Holy] to the user"
+    },
+    {
+      "name": "Attach Holy Stacking",
+      "text": "Allow to stack Attach Holy, up to Attach Holy 3"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%"
     }
   ],
   "card_description": [

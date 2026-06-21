@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [50% Damage Reduction Barrier 1] and [High Quick Cast 2], grants [Brave Mode] to the user"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

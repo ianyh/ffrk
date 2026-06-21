@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten random ranged attacks (0.72 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Quick Cast 1] and [Machinist Quick Cycle: Lightning] to the user"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Machinist Quick Cycle: Lightning",
+      "text": "Grants [Quick Cast 1] after using a Machinist ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Six group attacks (1.05 each), causes [Imperil Lightning 10%] and [RES -50%] for 15 seconds"
+    },
+    {
+      "name": "RES -50%",
+      "text": "RES -50%"
     }
   ],
   "card_description": [

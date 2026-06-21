@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "[DEF and MAG +30%] for 25 seconds, grants [Haste], [Protect] and [Quick Cast 2]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

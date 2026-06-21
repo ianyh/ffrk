@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Five group attacks (1.19 each), grants [Bushido] to the user for 30 seconds, grants [Haste] and [Burst Mode] to the user"
+    },
+    {
+      "name": "Bushido",
+      "text": "ATK +30%, RES +25%, Critical chance =50%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Burst Mode",
+      "text": "Replaces the Attack and Defend commands, ATK, DEF, MAG, RES, MND, ACC and EVA +20%, SPD +10%"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Summoning High Quick Cast] and Summoning smart ether 2 to the user"
+    },
+    {
+      "name": "Summoning High Quick Cast",
+      "text": "Cast speed x3.00 for Summoning abilities"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random attacks (0.70 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds, grants [Sky Pirate EX Mode] to the user"
+    },
+    {
+      "name": "Sky Pirate EX Mode",
+      "text": "Thief abilities deal 30% more damage, instant cast speed for Thief abilities"
     }
   ],
   "card_description": [

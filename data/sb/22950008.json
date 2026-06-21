@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Element Mode II (Earth, Holy) v2] and [(Earth/Holy) Ability Quick Cast (15s)]"
+    },
+    {
+      "name": "Twin Element Mode II (Earth, Holy) v2",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Holy with Stacking] after using a Earth/Holy ability"
+    },
+    {
+      "name": "(Earth/Holy) Ability Quick Cast (15s)",
+      "text": "Cast speed x2.00 for Earth and Holy abilities"
     }
   ],
   "card_description": [

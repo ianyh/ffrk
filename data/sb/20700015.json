@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Six single attacks (0.52 each), causes [Imperil Wind 10%] for 15 seconds, grants [Buff Wind 10% (15s)] to the user"
+    },
+    {
+      "name": "Buff Wind 10% (15s)",
+      "text": "Increases Wind damage dealt by 10%, cumulable"
     }
   ],
   "card_description": [

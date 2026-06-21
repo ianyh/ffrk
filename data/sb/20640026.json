@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

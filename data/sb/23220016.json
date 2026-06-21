@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Wind with Stacking] and [Hexa Mirage Follow-Up]"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Hexa Mirage Follow-Up",
+      "text": "Casts Hexa Mirage after using a Wind ability"
     }
   ],
   "card_description": [

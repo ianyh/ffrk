@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Element Mode II (Dark, Poison)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Twin Element Mode II (Dark, Poison)",
+      "text": "Grants [Attach Dark with Stacking]/[Attach Poison with Stacking] after using a Dark/Poison ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

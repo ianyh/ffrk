@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Quad Element Mode (Fire, Earth, Wind, Water)] and [Instant Cast 1]"
+    },
+    {
+      "name": "Quad Element Mode (Fire, Earth, Wind, Water)",
+      "text": "Grants [Attach Fire]/[Attach Earth]/[Attach Wind]/[Attach Water] after using a Fire/Earth/Wind/Water ability"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

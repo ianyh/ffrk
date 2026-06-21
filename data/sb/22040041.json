@@ -5,6 +5,26 @@
       "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user"
     },
     {
+      "name": "Chain Materia Mode II (Earth, Water)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Water with Stacking] after using a Earth/Water ability"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Ninja Mode I (Yuffie)",
+      "text": "Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 2 additional times, Deadly strikes 5/10/15/20% for equipped Ninja abilities after using 1/2/3/4+ Ninja abilities"
+    },
+    {
+      "name": "Ninja Resonance +5% Boost",
+      "text": "Ninja abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Yuffie)]"
     }

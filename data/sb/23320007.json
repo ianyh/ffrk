@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 3] to the user"
+    },
+    {
+      "name": "Instant Cast 3",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Awoken Life], [Damage Cap +10000], [Twin Element Mode (Ice, Lightning)] and [Vivi Trance] to the user"
+    },
+    {
+      "name": "Awoken Life",
+      "text": "Ice and Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice and Lightning abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode (Ice, Lightning)",
+      "text": "Grants [Attach Ice]/[Attach Lightning] after using a Ice/Lightning ability"
+    },
+    {
+      "name": "Vivi Trance",
+      "text": "MAG +30%, 50% chance for Black Magic abilities to trigger 1 additional time"
     }
   ],
   "card_description": [

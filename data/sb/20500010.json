@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Awoken Instructor], [Damage Cap +10000], [Switch Draw Mode (Water, Poison)] and [Lesson Time] to the user"
+    },
+    {
+      "name": "Awoken Instructor",
+      "text": "Water and Poison abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water and Poison abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Switch Draw Mode (Water, Poison)",
+      "text": "Grants [Attach Water]/[Attach Poison] after using a Water/Poison ability"
+    },
+    {
+      "name": "Lesson Time",
+      "text": "Grants [40% Damage Reduction Barrier 1] to all allies after using a Water or Poison ability"
     }
   ],
   "card_description": [

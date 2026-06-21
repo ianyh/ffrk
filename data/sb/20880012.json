@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Buff Ice 30% (15s)], [Buff Water 30% (15s)], [Awoken Wisdom], [Damage Cap +10000] and [Ice-touched Water Follow-Up] to the user"
+    },
+    {
+      "name": "Buff Ice 30% (15s)",
+      "text": "Increases Ice damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Water 30% (15s)",
+      "text": "Increases Water damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Awoken Wisdom",
+      "text": "Ice and Water abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice and Water abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ice-touched Water Follow-Up",
+      "text": "Casts Ice-touched Water after using two Ice or Water abilities"
     }
   ],
   "card_description": [

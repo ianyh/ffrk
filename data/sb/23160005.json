@@ -3,6 +3,46 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Buff Ice 30% (15s)], [Buff Earth 30% (15s)], [Buff Lightning 30% (15s)], [Awoken Spellblade], [Damage Cap +10000] to the user, grants [50% Critical] to all allies, grants [High Quick Cast 1]/[High Quick Cast 2]/[100% Critical (25s)], [Critical Damage +50%] and [High Quick Cast 2] to all allies if 1/2/3 of Kelger, Galuf or Dorgann are alive"
+    },
+    {
+      "name": "Buff Ice 30% (15s)",
+      "text": "Increases Ice damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Earth 30% (15s)",
+      "text": "Increases Earth damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Lightning 30% (15s)",
+      "text": "Increases Lightning damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Awoken Spellblade",
+      "text": "Spellblade abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "100% Critical (25s)",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
     }
   ],
   "card_description": [

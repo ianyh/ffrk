@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Twelve single attacks (0.57 each), grants [100% Critical] and [Combat/Celerity Double] to the user"
+    },
+    {
+      "name": "100% Critical",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Combat/Celerity Double",
+      "text": "Combat or Celerity abilities trigger 1 additional time consuming an extra ability use if able"
     }
   ],
   "card_description": [

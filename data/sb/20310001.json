@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Protect] and [Low Regen]"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Low Regen",
+      "text": "Heals for 3% maximum HP every 3.00 seconds"
     }
   ],
   "card_description": [

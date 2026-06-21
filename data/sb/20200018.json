@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [High Quick Cast 2] and [Empower Healing 30%], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Empower Healing 30%",
+      "text": "Increases HP restored by healing by 30% (cumulative)"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

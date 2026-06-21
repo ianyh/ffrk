@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.70 each), grants [75% Critical (25s)], [Quick Cast] and [Brave Mode] to the user"
+    },
+    {
+      "name": "75% Critical (25s)",
+      "text": "Critical chance =75%"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

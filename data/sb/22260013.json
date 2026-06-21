@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), grants [Attach Water], [Aquatic Strike] and [Rain Arrow Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Water",
+      "text": "Replaces Attack command, increases Water damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Water resistance +20%"
+    },
+    {
+      "name": "Aquatic Strike",
+      "text": "Grants [Magical High Quick Cast 1] to all allies in the back row after using a Water ability"
+    },
+    {
+      "name": "Rain Arrow Follow-Up",
+      "text": "Casts Rain Arrow after using a Water ability"
     }
   ],
   "card_description": [

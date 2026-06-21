@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Shell], [Haste] and [Stoneskin: 30%]"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

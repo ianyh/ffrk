@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (3000)] and [ATK, DEF, MAG and RES +30% (25s)], grants [Synchro Mode] and [Cheering Mode] to the user"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Cheering Mode",
+      "text": "Grants [Dualcast Dancer 1] to the character and [Dualcast Prismatic 1] to all other allies after using Repeating Samba, removed after triggering"
     }
   ],
   "card_description": [

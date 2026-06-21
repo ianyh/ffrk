@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Grants [MAG and MND +50% (25s)], [Haste], [Magical High Quick Cast 2] and [Magical +30% Boost (15s)], grants [Awoken Fortune-Teller] to the user"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Magical High Quick Cast 2",
+      "text": "Cast speed x3.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Magical +30% Boost (15s)",
+      "text": "Magical attacks deal 30% more damage"
+    },
+    {
+      "name": "Awoken Fortune-Teller",
+      "text": "Dancer and Bard abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Dancer and Bard abilities at ability rank 1/2/3/4/5, casts Lucky Moogle Dance after using a Dancer or Bard ability"
     }
   ],
   "card_description": [

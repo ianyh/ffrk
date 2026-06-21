@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores 1 consumed ability use, grants [Haste]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

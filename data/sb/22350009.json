@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Regenga], [Stoneskin: 30%] and smart ether 1, grants [Quick Cast 3] to the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

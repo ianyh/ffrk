@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Haste] and [Low Regen]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Low Regen",
+      "text": "Heals for 3% maximum HP every 3.00 seconds"
     }
   ],
   "card_description": [

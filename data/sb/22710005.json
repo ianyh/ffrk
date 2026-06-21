@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), causes [Imperil Lightning 20% (25s)], grants [Awoken Lightning], [Damage Cap +10000] and [Lightning Instant Cast] to the user"
+    },
+    {
+      "name": "Imperil Lightning 20% (25s)",
+      "text": "Lightning Resistance -20%, cumulable"
+    },
+    {
+      "name": "Awoken Lightning",
+      "text": "Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Lightning Instant Cast",
+      "text": "Instant cast speed for Lightning attacks"
     }
   ],
   "card_description": [

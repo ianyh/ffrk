@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Instant Cast 1], [Attach Holy] and [Twin Rush] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%"
+    },
+    {
+      "name": "Twin Rush",
+      "text": "Grants [Physical High Quick Cast 1] to all allies in the front row after using a Holy ability"
     }
   ],
   "card_description": [

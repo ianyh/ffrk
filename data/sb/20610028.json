@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Quick ATB 1] to Machinists, grants Master Mode, [Instant ATB 1] & Starry Old Guy's Lead to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Old Guy's Lead: [Machinist Damage +25%] or [Damage +5% & 50 SB Charge] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeProtect for 5 seconds & Machinist Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE ranged physical attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Job Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE ranged physical attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

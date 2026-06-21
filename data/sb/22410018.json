@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Seraphic Ray level 0/1, removes Arcane Dyad Empowered: Cid Raines from the user"
+      "text": "Grants [Double Crystarium Mode (Holy, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Cid Raines], [Apex Seraphic Ray Damage Tracker] and [Apex Seraphic Ray Level]"
+    },
+    {
+      "name": "Double Crystarium Mode (Holy, Dark)",
+      "text": "Grants [Attach Holy]/[Attach Dark] after using a Holy/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Cid Raines",
+      "text": "Keeps track of the number of uses of Apex Seraphic Ray (0~2), removed after using Apex Seraphic Ray two times"
+    },
+    {
+      "name": "Apex Seraphic Ray Damage Tracker",
+      "text": "Increases Apex Seraphic Ray level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Cid Raines]"
+    },
+    {
+      "name": "Apex Seraphic Ray Level",
+      "text": "Keeps track of Apex Seraphic Ray level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Cid Raines]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Seraphic Ray level 0/1, removes Arcane Dyad Empowered: Cid Raines from the user"
+      "text": "Grants [Double Crystarium Mode (Holy, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Cid Raines], [Apex Seraphic Ray Damage Tracker] and [Apex Seraphic Ray Level]"
     },
     {
       "name": "Engaged",

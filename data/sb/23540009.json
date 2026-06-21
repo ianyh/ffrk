@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Ice, Lightning, Wind, Water)] and [Sweet Tooth Mode] to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quad Element Mode III (Ice, Lightning, Wind, Water)",
+      "text": "Grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Wind 2 with Stacking]/[Attach Water 2 with Stacking] after using a Ice/Lightning/Wind/Water ability"
+    },
+    {
+      "name": "Sweet Tooth Mode",
+      "text": "Witch abilities trigger 1 additional time, instant cast speed for Witch abilities, casts Quick Cast after using Witch abilities, removed after triggering, grants [200% ATB 1], [Instant Cast 1] and Amity +1 to the user when removed"
     }
   ],
   "card_description": [

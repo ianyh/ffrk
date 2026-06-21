@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Resist Holy 10% (15s)] and [HP Stock (3000)]"
+    },
+    {
+      "name": "Resist Holy 10% (15s)",
+      "text": "Holy Resistance +10%, cumulable"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
     }
   ],
   "card_description": [

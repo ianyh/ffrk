@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Attach Wind with Stacking], [Dual Awoken Wind Mode I (Barbariccia v2)], [Wind Resonance +5% Boost]"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Dual Awoken Wind Mode I (Barbariccia v2)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 2 additional times, casts Dual Wind Cutter when Damage Reduction Barrier is consumed, increases Wind Ability damage by 10/15/20/25/30% when Dual Wind Cutter has been cast 1/2/3/4/5+ times"
+    },
+    {
+      "name": "Wind Resonance +5% Boost",
+      "text": "Wind abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Barbariccia v2)] to the user"
     }

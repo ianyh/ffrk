@@ -5,6 +5,26 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [ATK, DEF, MAG and RES +30% (8s)] to party, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cor)] to the user, grants [XV Resonance +3% Boost] to all XV allies"
     },
     {
+      "name": "ATK, DEF, MAG and RES +30% (8s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode I (Cor)",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 2 additional times, cast speed x2.00 for equipped Samurai abilities"
+    },
+    {
+      "name": "XV Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is XV"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cor)]"
     }

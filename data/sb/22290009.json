@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [Regenga], grants [Timely Encore Follow-Up] to the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Timely Encore Follow-Up",
+      "text": "Casts Timely Encore after using two Black Magic or Dancer abilities"
     }
   ],
   "card_description": [

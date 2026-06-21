@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (37.39~48.00 scaling with [Doom] timer, 37.00 default) capped at 99999"
+    },
+    {
+      "name": "Doom",
+      "text": "Causes [KO] when a timer reaches 0"
     }
   ],
   "card_description": [

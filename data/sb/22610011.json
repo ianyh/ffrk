@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [Dual Blink 1] to all allies"
+    },
+    {
+      "name": "Dual Blink 1",
+      "text": "Evades the next attack that could be evaded with [Physical Blink] or [Magical Blink], lower priority than [Physical Blink] and [Magical Blink]"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.64 each), [DEF and MAG -40%] for 25 seconds, grants [Thief Quick Cast] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Thief Quick Cast",
+      "text": "Cast speed x2.00 for Thief abilities"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

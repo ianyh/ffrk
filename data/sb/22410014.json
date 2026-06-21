@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Double Crystarium Mode II (Holy, Dark)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Double Crystarium Mode II (Holy, Dark)",
+      "text": "Grants [Attach Holy with Stacking]/[Attach Dark with Stacking] after using a Holy/Dark ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

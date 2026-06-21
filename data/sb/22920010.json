@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], [100% Critical] to the user, grants [Dualcast Ice 1]/[Dualcast Ice 3] to the user if 0-3/4+ FF6 allies are alive"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Awoken Ice",
+      "text": "Ice abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "100% Critical",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Dualcast Ice 1",
+      "text": "Ice abilities trigger 1 additional time"
+    },
+    {
+      "name": "Dualcast Ice 3",
+      "text": "Ice abilities trigger 1 additional time"
     }
   ],
   "card_description": [

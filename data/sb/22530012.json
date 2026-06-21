@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [Last Stand], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

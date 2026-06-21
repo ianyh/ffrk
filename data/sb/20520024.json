@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "Summons Valefor for 5 seconds, grants [Protect], [Shell], [Haste], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Holy 3 with Stacking] and [Damage Cap +20000] to Valefor"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "DEF and RES +200% (25s)",
+      "text": "DEF and RES +200%"
+    },
+    {
+      "name": "Attach Holy 3 with Stacking",
+      "text": "Increase Attach Holy Level by 3 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +20000",
+      "text": "Increases the damage/healing cap by 20000"
     }
   ],
   "card_description": [

@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), grants [Awoken Laguna Freak], [Damage Cap +10000] and [Career Change Mode II (Ice, Earth, Water) v2] to the user, grants [Water/Ice/Earth Ability Quick Cast 1] and [Dualcast Water/Ice/Earth 1]/[Water/Ice/Earth Ability Quick Cast 2] and [Dualcast Water/Ice/Earth 2]/[Water/Ice/Earth Ability Instant Cast 3] and [Dualcast Water/Ice/Earth 3] to the user if 0-1/2-3/4+ FF8 allies are alive"
+    },
+    {
+      "name": "Awoken Laguna Freak",
+      "text": "Water, Ice and Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water, Ice and Earth abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Career Change Mode II (Ice, Earth, Water) v2",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Earth with Stacking]/[Attach Water with Stacking] after using a Ice/Earth/Water ability"
+    },
+    {
+      "name": "Water/Ice/Earth Ability Quick Cast 1",
+      "text": "Cast speed x2.00 for Water, Ice and Earth abilities"
+    },
+    {
+      "name": "Water/Ice/Earth Ability Quick Cast 2",
+      "text": "Cast speed x2.00 for Water, Ice and Earth abilities"
+    },
+    {
+      "name": "Water/Ice/Earth Ability Instant Cast 3",
+      "text": "Instant cast speed for Water, Ice and Earth abilities"
     }
   ],
   "card_description": [

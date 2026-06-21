@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random ranged attacks (0.51 each), grants [Physical Blink 2] to the user"
+    },
+    {
+      "name": "Physical Blink 2",
+      "text": "Evades the next 2 PHY attacks that deal physical, missing HP or fixed damage or NAT attacks that deal physical or fractional damage"
     }
   ],
   "card_description": [

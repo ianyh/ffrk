@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.72 each), [ATK and MAG -70%] for 8 seconds, grants [Quick Cast] and [Old Man's Hammer Follow-Up] to the user"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Old Man's Hammer Follow-Up",
+      "text": "Casts Old Man's Hammer after using a Lightning ability"
     }
   ],
   "card_description": [

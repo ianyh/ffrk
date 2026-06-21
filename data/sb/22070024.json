@@ -5,6 +5,26 @@
       "text": "Seven single target attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Poison Mode I (Kefka)] and [Poison Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Poison Mode I (Kefka)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 2 additional times, cast speed x2.00 for Poison abilities "
+    },
+    {
+      "name": "Poison Resonance +5% Boost",
+      "text": "Poison abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Poison Mode II (Kefka)]"
     }

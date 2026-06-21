@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Sharpshooter], [Damage Cap +10000] and [Smart Archer Mode] to the user"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Awoken Sharpshooter",
+      "text": "Sharpshooter abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Sharpshooter abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Smart Archer Mode",
+      "text": "Instant cast speed for Sharpshooter Abilities, Casts Tri-Shot Follow-Up after using Sharpshooter Abilities, removed after using 3 Sharpshooter abilities\n"
     }
   ],
   "card_description": [

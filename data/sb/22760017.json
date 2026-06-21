@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, causes [Imperil Dark 20% (25s)], grants [Attach Dark with Stacking], [Damage Cap +10000], [Dark Resonance +5% Boost], and [Dual Awoken Dark Mode I (Nabaat v2)] to the user"
     },
     {
+      "name": "Imperil Dark 20% (25s)",
+      "text": "Dark Resistance -20%, cumulable"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark Resonance +5% Boost",
+      "text": "Dark abilities deal 5% more damage"
+    },
+    {
+      "name": "Dual Awoken Dark Mode I (Nabaat v2)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 2 additional times, casts Dual Blood Gear after every Dark ability"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Nabaat v2)] to the user"
     }

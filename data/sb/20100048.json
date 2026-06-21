@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Black Magic +30% Boost (15s)], [200% ATB 1], and [Quick Cast 1] to the user, damages the user for 99% current HP"
+    },
+    {
+      "name": "Black Magic +30% Boost (15s)",
+      "text": "Black Magic abilities deal 30% more damage"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

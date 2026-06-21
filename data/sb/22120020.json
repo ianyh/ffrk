@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Activates Holy Chain (max 150, field +50%), grants [Buff Holy 10% (5s)]/[Buff Holy 20% (5s)]/[Buff Holy 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Holy], grants [MAG and MND +30% (25s)], grants [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Buff Holy 10% (5s)",
+      "text": "Increases Holy damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Buff Holy 20% (5s)",
+      "text": "Increases Holy damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Holy 30% (5s)",
+      "text": "Increases Holy damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%"
+    },
+    {
+      "name": "MAG and MND +30% (25s)",
+      "text": "MAG and MND +30%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

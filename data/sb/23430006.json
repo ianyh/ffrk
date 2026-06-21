@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Instant Cast 2] and [Tri-Element Mode (Fire, Ice, Water)]"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Tri-Element Mode (Fire, Ice, Water)",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Water] after using a Fire/Ice/Water ability"
     }
   ],
   "card_description": [

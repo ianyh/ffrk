@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.70 each), grants [Spellblade Barrage EX Mode] to the user"
+    },
+    {
+      "name": "Spellblade Barrage EX Mode",
+      "text": "ATK +30%, cast speed x2.00, casts Wind/Water/Fire/Earth Barrage after using a Wind/Water/Fire/Earth Spellblade ability"
     }
   ],
   "card_description": [

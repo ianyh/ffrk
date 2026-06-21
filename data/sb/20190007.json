@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "[ATK +50%] for 25 seconds, grants [Haste] and [Last Stand], grants [Quick Cast 2] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

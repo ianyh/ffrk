@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies"
+    },
+    {
+      "name": "Magical Blink 1",
+      "text": "Evades the next non-PHY, non-NIN attack that deals magical, fractional or missing HP damage"
     }
   ],
   "card_description": [

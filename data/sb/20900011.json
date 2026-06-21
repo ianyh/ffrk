@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [High Quick Cast 1]"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

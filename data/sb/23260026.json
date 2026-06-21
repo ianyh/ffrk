@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "[Imperil Ice 20% (?s)], grants [200% ATB 1] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

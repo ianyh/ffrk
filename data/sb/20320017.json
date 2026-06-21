@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [Regenga] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and [Revived Storyteller's Spirit Mode] to the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Revived Storyteller's Spirit Mode",
+      "text": "Casts Revived Storyteller's Spirit when HP fall below 20%, removed if user hasn't [Synchro Mode], removed after triggering"
     }
   ],
   "card_description": [

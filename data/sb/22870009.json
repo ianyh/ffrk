@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Inferno level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Rubicante from the user"
+      "text": "Causes [Imperil Fire 20% (15s)], grants [Buff Fire 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Rubicante], [Apex Inferno Ability Tracker] and [Apex Inferno Level]"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable"
+    },
+    {
+      "name": "Buff Fire 20% (15s)",
+      "text": "Increases Fire damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Rubicante",
+      "text": "Keeps track of the number of uses of Apex Inferno (0~2), removed after using Apex Inferno two times"
+    },
+    {
+      "name": "Apex Inferno Ability Tracker",
+      "text": "Increases Apex Inferno level by 1 when the user triggers 7 Fire abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Rubicante]"
+    },
+    {
+      "name": "Apex Inferno Level",
+      "text": "Keeps track of Apex Inferno level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Rubicante]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Inferno level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Rubicante from the user"
+      "text": "Causes [Imperil Fire 20% (15s)], grants [Buff Fire 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Rubicante], [Apex Inferno Ability Tracker] and [Apex Inferno Level]"
     },
     {
       "name": "Engaged",

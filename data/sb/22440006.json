@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [High Quick Cast 2], grants [Scintillating Potion Follow-Up] to the user"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Scintillating Potion Follow-Up",
+      "text": "Casts Scintillating Potion after using a White Magic or Support ability"
     }
   ],
   "card_description": [

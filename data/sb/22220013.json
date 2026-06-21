@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (2000)], grants [ATK, DEF, MAG and RES +30% (25s)] if 4+ FF4 allies are alive"
+    },
+    {
+      "name": "HP Stock (2000)",
+      "text": "Automatically restores HP, up to 2000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
     }
   ],
   "card_description": [

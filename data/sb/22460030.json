@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Earth, Wind, Water)] and [Crystal's Revelation Mode] to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quad Element Mode III (Fire, Earth, Wind, Water)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Earth 2 with Stacking]/[Attach Wind 2 with Stacking]/[Attach Water 2 with Stacking] after using a Fire/Earth/WInd/Water ability"
+    },
+    {
+      "name": "Crystal's Revelation Mode",
+      "text": "ATK +70%, DEF -50%, casts Tremendous Slash after using Swift Hit or Onion Knight's Dance, removed after triggering three times, removed if the character hasn't [Synchro Mode], grants [Soul Break Gauge +250] to the user when removed"
     }
   ],
   "card_description": [

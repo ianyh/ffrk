@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Star] for 25 seconds"
+    },
+    {
+      "name": "Twin Star",
+      "text": "ATK +30%, MND +15%, Critical chance =50%"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Witch Limit Chain (150) & 50% Witch Field, grants [MAG +50%] & [Haste] to all allies"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

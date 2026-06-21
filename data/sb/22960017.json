@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (6000)], [Regenga], [Quick Cast 3], and [ATK and MAG +30%, DEF and RES +25% (25s)], grants [Awoken Rainbow Sky Mode] to the user\nAwoken Rainbow Sky Mode: Unlimited White Magic/Bard Hones, Quick White Magic/Bard & chases R1/2/3/45 White Magic/Bard abilities with h10/15/25/35/45 heal to all allies"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "ATK and MAG +30%, DEF and RES +25% (25s)",
+      "text": "ATK and MAG +30%, DEF and RES +25%"
     }
   ],
   "card_description": [

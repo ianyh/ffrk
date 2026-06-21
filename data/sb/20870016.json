@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Quick Cast 2], grants [ATK, DEF, MAG and RES +30% (25s)] if 4+ FF9 allies are alive"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
     }
   ],
   "card_description": [

@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Wind with Stacking], [Awoken Thief], [Damage Cap +10000], [Thief Instant Cast] and [Luminescence] to the user"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Awoken Thief",
+      "text": "Thief abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Thief abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Thief Instant Cast",
+      "text": "Instant cast speed for Thief abilities"
+    },
+    {
+      "name": "Luminescence",
+      "text": "Grants [Attach Wind] after using two Thief abilities"
     }
   ],
   "card_description": [

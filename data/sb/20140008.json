@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (9.00) capped at 99999, Grants [ATK, DEF, MAG and RES +15% (25s)] to all allies"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +15% (25s)",
+      "text": "ATK, DEF, MAG and RES +15%"
     }
   ],
   "card_description": [

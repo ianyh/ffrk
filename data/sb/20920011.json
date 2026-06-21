@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Four single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, causes [ATK and MAG -50% (8s)], grants [50% Damage Reduction Barrier 1] to all allies"
+    },
+    {
+      "name": "ATK and MAG -50% (8s)",
+      "text": "ATK and MAG -50%"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
     }
   ],
   "card_description": [

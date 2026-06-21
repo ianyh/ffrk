@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Six single attacks (1.27 each), grants [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

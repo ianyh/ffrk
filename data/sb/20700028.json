@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Activates XII Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XII] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "ATK and MAG +30% (25s)",
+      "text": "ATK and MAG +30%"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Linked Burst Mode: XII",
+      "text": "Grants [Buff Prismatic 10% (15s)] to all allies after a XII ally uses an elemental attack, triggers only once per element, removed after triggering three times"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

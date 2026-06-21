@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Element Mode II (Holy, Dark)], [Soul Break Gauge +250], and [200% ATB 1]"
+    },
+    {
+      "name": "Twin Element Mode II (Holy, Dark)",
+      "text": "Grants [Attach Holy with Stacking]/[Attach Dark with Stacking] after using a Holy/Dark ability"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

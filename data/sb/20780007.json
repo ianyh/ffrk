@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random ranged attacks (0.71 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds, grants [Gambling Break] to the user"
+    },
+    {
+      "name": "Gambling Break",
+      "text": "Grants [High Quick Cast 1] and randomly casts Deadly Spade/Club/Diamond/Heart after using a Support ability"
     }
   ],
   "card_description": [

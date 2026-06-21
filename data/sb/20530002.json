@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One group ranged attack (3.10), causes [Poison] (50%)"
+    },
+    {
+      "name": "Poison",
+      "text": "Damages for 1/64 maximum HP every 5.00 seconds, persists after battle"
     }
   ],
   "card_description": [

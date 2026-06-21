@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Rousing Charge Mode II (Fire, Lightning, Earth)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Rousing Charge Mode II (Fire, Lightning, Earth)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Earth with Stacking] after using a Fire/Lightning/Earth ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

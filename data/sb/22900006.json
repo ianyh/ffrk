@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Heavy Rank Boost] and [Heavy Charge +2]"
+    },
+    {
+      "name": "Heavy Rank Boost",
+      "text": "Heavy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
+    },
+    {
+      "name": "Heavy Charge +2",
+      "text": "Increases Heavy Charge level by 2 when set"
     }
   ],
   "card_description": [

@@ -2,7 +2,15 @@
   "description": [
     {
       "name": "Entry",
-      "text": "10 single hybrid attacks and one single overflow attack, grants [Instant Cast 1] to all allies, removes True Arcane Augment Mode"
+      "text": "Grants [Quick Cast 2] to all allies, grants [Damage Cap +10000] and True Arcane Augment Mode to the user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Ink if at least 100001/300001 damage is dealt"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     },
     {
       "name": "Engaged",
@@ -12,7 +20,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "10 single hybrid attacks and one single overflow attack, grants [Instant Cast 1] to all allies, removes True Arcane Augment Mode"
+      "text": "Grants [Quick Cast 2] to all allies, grants [Damage Cap +10000] and True Arcane Augment Mode to the user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Ink if at least 100001/300001 damage is dealt"
     },
     {
       "name": "Engaged",

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Tri-Element Mode II (Fire, Ice, Holy)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Ice, Holy)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Holy with Stacking] after using a Fire/Ice/Holy ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

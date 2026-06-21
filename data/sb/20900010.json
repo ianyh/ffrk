@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [MAG and MND +50% (25s)], grants [Synchro Mode] and [Arcane Virtuoso Mode] to the user"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Arcane Virtuoso Mode",
+      "text": "Grants [Magical +70% Boost 1] to all allies after using Moogle Salsa, removed after triggering three times"
     }
   ],
   "card_description": [

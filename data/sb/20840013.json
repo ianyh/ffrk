@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Haste] and [Instant Cast 3], damages the user for 99% current HP"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Instant Cast 3",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

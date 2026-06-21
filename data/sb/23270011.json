@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Negative Aura level 0/1/2, removes Arcane Dyad Empowered: Sice from the user"
+      "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Sice], [Apex Negative Aura Damage Tracker] and [Apex Negative Aura Level]"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Sice",
+      "text": "Keeps track of the number of uses of Apex Negative Aura (0~2), removed after using Apex Negative Aura two times"
+    },
+    {
+      "name": "Apex Negative Aura Damage Tracker",
+      "text": "Increases Apex Negative Aura level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Sice]"
+    },
+    {
+      "name": "Apex Negative Aura Level",
+      "text": "Keeps track of Apex Negative Aura level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Sice]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Negative Aura level 0/1/2, removes Arcane Dyad Empowered: Sice from the user"
+      "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Sice], [Apex Negative Aura Damage Tracker] and [Apex Negative Aura Level]"
     },
     {
       "name": "Engaged",

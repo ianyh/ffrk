@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Six single attacks (0.52 each), grants [Last Stand] to all allies"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
     }
   ],
   "card_description": [

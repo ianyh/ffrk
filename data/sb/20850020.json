@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Twin Element Mode III (Lightning, Wind)], [Damage Cap +10000], [Your Friend Mode], and [Rampage Mode] to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Twin Element Mode III (Lightning, Wind)",
+      "text": "Grants [Attach Lightning 2 with Stacking]/[Attach Wind 2 with Stacking] after using a Lightning/Wind ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Your Friend Mode",
+      "text": "Increases Feral Awakening level by 1 after an ally uses a Lightning or Wind ability, removed after triggering 6 times"
+    },
+    {
+      "name": "Rampage Mode",
+      "text": "Grants [Instant ATB 1] and decreases Feral Awakening level by 1 after using Rampage if the character's Feral Awakening level is 1 or greater"
     }
   ],
   "card_description": [

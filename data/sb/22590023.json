@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Fifteen single target Fire/Ice/Lightning/NE magic attacks (? each), grants [Instant Cast 1] to party and Awoken Inner Eye Apothecary Mode, [Damage Cap +10000] & [Soul Break Gauge +500] to user\nAwoken Inner Eye Apothecary Mode: Unlimited Fire/Ice/Lightning hones, [Quick Fire], [Quick Ice], [Quick Lightning], chases Fire/Ice/Lightning abilities with six single-target Fire/Ice/Lightning/NE magic attacks (? each), every 2 chases inflicts [Imperil Fire 10%], [Imperil Ice 10%], [Imperil Lightning 10%]"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Soul Break Gauge +500",
+      "text": "Grants 500 SB points when set"
     }
   ],
   "card_description": [

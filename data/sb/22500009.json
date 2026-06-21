@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Linked Materia Mode II (Wind, Holy)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Linked Materia Mode II (Wind, Holy)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Holy with Stacking] after using a Wind/Holy ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

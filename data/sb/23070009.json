@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.70 each), grants [Twin Element Mode II (Wind, Poison)], [High Quick Cast 1] and [Poison Trick (IX) Follow-Up] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Wind, Poison)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Poison with Stacking] after using a Wind/Poison ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Poison Trick (IX) Follow-Up",
+      "text": "Casts Poison Trick (IX) after using two Thief abilities"
     }
   ],
   "card_description": [

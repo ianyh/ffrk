@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Awoken Pride], [Damage Cap +10000], [Linked Materia Mode (Wind, Holy)] and [Dreams and Dignity] to the user, grants [PHY +30% Boost (15s)] to the user if Cloud or Zack are alive"
+    },
+    {
+      "name": "Awoken Pride",
+      "text": "Wind and Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind and Holy abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Linked Materia Mode (Wind, Holy)",
+      "text": "Grants [Attach Wind]/[Attach Holy] after using a Wind/Holy ability"
+    },
+    {
+      "name": "Dreams and Dignity",
+      "text": "Grants [40% Damage Reduction Barrier 1] to all allies after using a Wind or Holy ability"
+    },
+    {
+      "name": "PHY +30% Boost (15s)",
+      "text": "PHY attacks deal 30% more damage"
     }
   ],
   "card_description": [

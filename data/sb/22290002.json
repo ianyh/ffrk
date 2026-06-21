@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Shell] and [Haste], [RES +50%] for 25 seconds"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

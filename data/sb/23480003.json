@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [Regenga], [High Quick Cast 1] and [75% Damage Reduction Barrier 1], grants [Brave Mode] to the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "75% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 75% for the next attack"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

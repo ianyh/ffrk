@@ -5,6 +5,10 @@
       "text": "One single Overflow attack, grants En-Holy Super Stack, Burst Strike & [Instant ATB 1] to user\nBurst Strike: After using Holy abilities, chases with 6 single-target Holy/NE white magic attacks (max 5 chases)"
     },
     {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
       "name": "Break Arte",
       "text": "One single Overflow attack, grants [Instant ATB 1] to user"
     }

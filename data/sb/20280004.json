@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Physical Blink 1], [ATK and MAG +30%] for 25 seconds"
+    },
+    {
+      "name": "Physical Blink 1",
+      "text": "Evades the next PHY attack that deals physical, missing HP or fixed damage or NAT attack that deals physical or fractional damage"
     }
   ],
   "card_description": [

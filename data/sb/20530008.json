@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.70 each), grants [Machinist Rank Boost] and [Machinist EX Mode] to the user"
+    },
+    {
+      "name": "Machinist Rank Boost",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
+    },
+    {
+      "name": "Machinist EX Mode",
+      "text": "ATK +30%, Machinist cast speed x2.00, casts Poison/Fire/Lightning Enfeeble after using a Poison/Fire/Lightning Machinist ability"
     }
   ],
   "card_description": [

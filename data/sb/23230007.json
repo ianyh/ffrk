@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Awoken Spellstrike], [Damage Cap +10000], [Switch Draw Mode (Wind, Dark)] and [Cruel Blow Follow-up] to the user"
+    },
+    {
+      "name": "Awoken Spellstrike",
+      "text": "Wind and Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind and Dark abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Switch Draw Mode (Wind, Dark)",
+      "text": "Grants [Attach Wind]/[Attach Dark] after using a Wind/Dark ability"
+    },
+    {
+      "name": "Cruel Blow Follow-up",
+      "text": "Casts Cruel Blow after using three Wind or Dark abilities"
     }
   ],
   "card_description": [

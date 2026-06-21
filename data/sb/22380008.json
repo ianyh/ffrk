@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.69 each), grants [Critical Chance 75%] to the user for 25 seconds, grants [Quick Cast] and [Hero-King Blade Follow-Up] to the user"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Hero-King Blade Follow-Up",
+      "text": "Casts Hero-King Blade after exploiting elemental weakness"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (2.60 each) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Garnet (Lightning)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Garnet (Lightning)",
+      "text": "Casts Lightning Guidance: Garnet after using a Lightning ability, removed after triggering two times"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

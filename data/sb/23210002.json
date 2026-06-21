@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), damages undeads, grants [Last Stand], grants [Haste] and [Burst Mode] to the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Burst Mode",
+      "text": "Replaces the Attack and Defend commands, ATK, DEF, MAG, RES, MND, ACC and EVA +20%, SPD +10%"
     }
   ],
   "card_description": [

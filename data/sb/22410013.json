@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), removes positive effects, grants [Awoken Seraph], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)] and [Dystopian Shift] to the user"
+    },
+    {
+      "name": "Awoken Seraph",
+      "text": "Dark and Holy abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Dark and Holy abilities at ability rank 1/2/3/4/5, casts Cross Shift after using a Dark or Holy ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Double Crystarium Mode II (Holy, Dark)",
+      "text": "Grants [Attach Holy with Stacking]/[Attach Dark with Stacking] after using a Holy/Dark ability"
+    },
+    {
+      "name": "Dystopian Shift",
+      "text": "Grants [Attach Holy]/[Attach Dark] to the user after using two Holy or Dark abilities if the triggering ability dealt Holy/Dark damage"
     }
   ],
   "card_description": [

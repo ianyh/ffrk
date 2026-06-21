@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [ATK, MAG and MND +30% (25s)], [Instant Cast 1] and [200% ATB 1], grants [Synchro Mode] and Disguised +1 to the user"
+    },
+    {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "[MAG +30%] for 25 seconds, grants [Magical Quick Cast 3] and [High Regen]"
+    },
+    {
+      "name": "Magical Quick Cast 3",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
     }
   ],
   "card_description": [

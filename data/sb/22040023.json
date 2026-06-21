@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Earth with Stacking] and [Instant Cast 1]"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

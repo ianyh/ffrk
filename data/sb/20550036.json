@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Activates Monk Chain (150) & 50% Monk Field, grants [ATK +50% (25s)] and [Quick Cast 1] to all allies, grants [Linked Assist Mode: Monk] and [Instant Cast 1] to user."
+    },
+    {
+      "name": "ATK +50% (25s)",
+      "text": "ATK +50%"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Linked Assist Mode: Monk",
+      "text": "Cast Link Assist: Monk when a Monk ally uses an ability that deals elemental damage, once per element (max 3)"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

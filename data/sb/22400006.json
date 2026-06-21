@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten random ranged attacks (0.68 each), causes [Imperil Fire 20%] for 25 seconds, grants [Quick Cast 1] and [Machinist Quick Cycle: Fire] to the user"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Machinist Quick Cycle: Fire",
+      "text": "Grants [Quick Cast 1] after using a Machinist ability"
     }
   ],
   "card_description": [

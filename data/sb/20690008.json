@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (0.90 each), [ATK, DEF and RES -50%] for 25 seconds, grants [Sentinel] to the user for 25 seconds, grants [Magical Blink 1] to all allies"
+    },
+    {
+      "name": "Sentinel",
+      "text": "DEF +200%, taunts single-target PHY and BLK attacks"
+    },
+    {
+      "name": "Magical Blink 1",
+      "text": "Evades the next non-PHY, non-NIN attack that deals magical, fractional or missing HP damage"
     }
   ],
   "card_description": [

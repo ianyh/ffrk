@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Malicious Surge level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Nabaat from the user"
+      "text": "Causes [Imperil Dark 20% (15s)], grants [Buff Dark 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Nabaat], [Malicious Surge Ability Tracker] and [Malicious Surge Level] to the user"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable"
+    },
+    {
+      "name": "Buff Dark 20% (15s)",
+      "text": "Increases Dark damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Nabaat",
+      "text": "Keeps track of the number of uses of Malicious Surge (0~2), removed after using Malicious Surge two times"
+    },
+    {
+      "name": "Malicious Surge Ability Tracker",
+      "text": "Increases Malicious Surge level by 1 after using 7 Dark abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Nabaat]"
+    },
+    {
+      "name": "Malicious Surge Level",
+      "text": "Keeps track of Malicious Surge level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Nabaat]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Malicious Surge level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Nabaat from the user"
+      "text": "Causes [Imperil Dark 20% (15s)], grants [Buff Dark 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Nabaat], [Malicious Surge Ability Tracker] and [Malicious Surge Level] to the user"
     },
     {
       "name": "Engaged",

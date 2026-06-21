@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Instant Cast 1], grants [Cure Step Follow-Up] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Cure Step Follow-Up",
+      "text": "Casts Cure Step after using a Dancer ability"
     }
   ],
   "card_description": [

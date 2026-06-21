@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Zidane Trance] and [Instant ATB 3] to the user"
+    },
+    {
+      "name": "Attach Wind 3 with Stacking",
+      "text": "Increase Attach Wind Level by 3 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Zidane Trance",
+      "text": "ATK, DEF, MAG, RES, MND, ACC, EVA and SPD +15%, instantly casts Thief abilities"
+    },
+    {
+      "name": "Instant ATB 3",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

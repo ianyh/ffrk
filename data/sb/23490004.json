@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Twin Element Mode II (Fire, Earth)] and [Perdition's Charge EX Mode] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Twin Element Mode II (Fire, Earth)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Earth with Stacking] after using a Fire/Earth ability"
+    },
+    {
+      "name": "Perdition's Charge EX Mode",
+      "text": "ATK +50%, casts Perdition's Blade when removed"
     }
   ],
   "card_description": [

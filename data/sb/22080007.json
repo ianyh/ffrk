@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Six group attacks (2.32 each), [MAG and MND +30%] to all allies for 25 seconds, grants [High Runic] to the user"
+    },
+    {
+      "name": "High Runic",
+      "text": "Taunts single-target BLK and WHT attacks, absorbs BLK and WHT attacks to restore 1 consumed ability use"
     }
   ],
   "card_description": [

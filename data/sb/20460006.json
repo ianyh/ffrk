@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged jump attacks (0.60 each), grants [Awoken Deist Dragoon], [Damage Cap +10000], [Twin Element Mode (Lightning, Wind)] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Awoken Deist Dragoon",
+      "text": "Wind and Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind and Lightning abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Wind)",
+      "text": "Grants [Attach Lightning/Wind] after using a Lightning/Wind ability"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

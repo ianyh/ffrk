@@ -3,6 +3,42 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [PHY +15% Boost 3] and [High Quick Cast 1]/[PHY +30% Boost 3] and [Instant Cast 1] to all allies if 0-3/4+ FF2 allies are alive, grants [Magical +30% Boost 3] to Maria if Maria is alive, grants [Attach Dark 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "PHY +15% Boost 3",
+      "text": "PHY attacks deal 15% more damage"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "PHY +30% Boost 3",
+      "text": "PHY attacks deal 30% more damage"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Magical +30% Boost 3",
+      "text": "Magical attacks deal 30% more damage"
+    },
+    {
+      "name": "Attach Dark 3 with Stacking",
+      "text": "Increase Attach Dark Level by 3 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

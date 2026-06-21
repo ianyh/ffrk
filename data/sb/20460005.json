@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged jump attacks (0.71 each), grants [Jump Instant Cast] and [Wyvern's Roar] to the user"
+    },
+    {
+      "name": "Jump Instant Cast",
+      "text": "Instant cast speed for Jump attacks"
+    },
+    {
+      "name": "Wyvern's Roar",
+      "text": "Grants [Dragoon +30% Boost 1] and [No Air Time 1] to all allies in the character's row after using a Dragoon ability"
     }
   ],
   "card_description": [

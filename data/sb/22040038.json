@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Chain Materia Mode II (Earth, Water)] and [Soul Break Gauge +250]"
+    },
+    {
+      "name": "Chain Materia Mode II (Earth, Water)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Water with Stacking] after using a Earth/Water ability"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Knight High Quick Cast] and [Knight Rank Boost]"
+    },
+    {
+      "name": "Knight High Quick Cast",
+      "text": "Cast speed x3.00 for Knight abilities"
+    },
+    {
+      "name": "Knight Rank Boost",
+      "text": "Knight abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
     }
   ],
   "card_description": [

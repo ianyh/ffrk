@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.80 each) capped at 19999, activates Ice Chain (max 150, field +0%) or adds 25 to the current Ice Chain maximum limit, grants [Chain Force Mode: Squall (Ice)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Squall (Ice)",
+      "text": "Casts Ice Guidance: Squall after using a Ice ability, removed after triggering three times"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

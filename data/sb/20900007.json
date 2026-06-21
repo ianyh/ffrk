@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "[MAG and MND +50%] for 25 seconds, grants [Haste] and [Magical Quick Cast] to all allies, grants [Awoken Rhapsody] and [Fevered Rhapsody Follow-Up] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Magical Quick Cast",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Awoken Rhapsody",
+      "text": "Dancer abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Dancer abilities at ability rank 1/2/3/4/5, Dancer abilities trigger 1 additional time"
+    },
+    {
+      "name": "Fevered Rhapsody Follow-Up",
+      "text": "Casts Fevered Rhapsody after using three Dancer abilities"
     }
   ],
   "card_description": [

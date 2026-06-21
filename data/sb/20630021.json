@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Shadow Summon Mode] and [Shadow Summon Finisher] to the user"
+    },
+    {
+      "name": "Attach Dark 3 with Stacking",
+      "text": "Increase Attach Dark Level by 3 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Shadow Summon Mode",
+      "text": "Casts Twilight Fang every 3.00 seconds"
+    },
+    {
+      "name": "Shadow Summon Finisher",
+      "text": "Casts Fang of Darkness after using Twilight Fang three times, removed if the character hasn't [Shadow Summon Mode]"
     }
   ],
   "card_description": [

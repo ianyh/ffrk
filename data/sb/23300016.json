@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [ATK and MND +30%, DEF +25% (25s)], [100% Critical (25s)], and [Empower Healing 30%] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Hilda] to the user\nCrystal Mode: Hilda: Quick White Magic/Bard/Dancer & Zero Hone Cost to White Magic/Bard/Dancer Abilities"
+    },
+    {
+      "name": "ATK and MND +30%, DEF +25% (25s)",
+      "text": "ATK and MND +30%, DEF +25%"
+    },
+    {
+      "name": "100% Critical (25s)",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Empower Healing 30%",
+      "text": "Increases HP restored by healing by 30% (cumulative)"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Crystal Force Mode: Hilda",
+      "text": ""
     }
   ],
   "card_description": [

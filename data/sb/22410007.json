@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.62 each), 1.87 multiplier with any Doom, [MAG and RES +30%] to the user for 25 seconds, grants [Doom: 30], [Instant Cast 1] and [Seraph-Wing Buffet Follow-Up] to the user"
+    },
+    {
+      "name": "Doom: 30",
+      "text": "Causes [Doom] with a 30 seconds timer"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Seraph-Wing Buffet Follow-Up",
+      "text": "Casts Seraph-Wing Buffet after using a Holy or Dark ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Dark Radiant Shield: 75%] to all allies, grants [Attach Dark with Stacking] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dark Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Dark damage capped at 9999"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

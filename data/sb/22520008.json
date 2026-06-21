@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [SB Gauge +25% Boost 3], grants [Awoken Oracle of Light] to the user"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "SB Gauge +25% Boost 3",
+      "text": "Abilities grant 25% more SB points"
+    },
+    {
+      "name": "Awoken Oracle of Light",
+      "text": "Knight and Support abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Knight and Support abilities at ability rank 1/2/3/4/5, grants [Quick Cast 1] to all allies after using Knight and Support abilities"
     }
   ],
   "card_description": [

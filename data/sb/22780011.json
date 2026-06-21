@@ -3,6 +3,38 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Fire 20% (25s)], [Imperil Earth 20% (25s)], [Imperil Wind 20% (25s)], [Imperil Poison 20% (25s)], [Awoken Engineer], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Overheat Mode] to the user"
+    },
+    {
+      "name": "Imperil Fire 20% (25s)",
+      "text": "Fire Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Earth 20% (25s)",
+      "text": "Earth Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Wind 20% (25s)",
+      "text": "Wind Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Poison 20% (25s)",
+      "text": "Poison Resistance -20%, cumulable"
+    },
+    {
+      "name": "Awoken Engineer",
+      "text": "Unlimited Machinist hones, Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Machinist abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quad Element Mode (Fire, Earth, Wind, Poison)",
+      "text": "Grants [Attach Fire]/[Attach Earth]/[Attach Wind]/[Attach Poison] after using a Fire/Earth/Wind/Poison ability"
+    },
+    {
+      "name": "Overheat Mode",
+      "text": "Fire, Earth, Wind or Poison abilities deal 10/20/30% more damage if the target's Fire, Earth, Wind or Poison weakness is 20/30/40%+"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Dark 20% (25s)], grants [Awoken High Roller Mode], [Damage Cap +10000], [Ton 80 Follow-Up] to the user"
+    },
+    {
+      "name": "Imperil Dark 20% (25s)",
+      "text": "Dark Resistance -20%, cumulable"
+    },
+    {
+      "name": "Awoken High Roller Mode",
+      "text": "Support and Sharpshooter abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support and Sharpshooter abilities at ability rank 1/2/3/4/5, casts Gamer Awakening Mode after casting Support or Sharpshooter abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ton 80 Follow-Up",
+      "text": "Casts Ton 80 after using three Support or Sharpshooter abilities"
     }
   ],
   "card_description": [

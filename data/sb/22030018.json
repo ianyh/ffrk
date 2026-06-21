@@ -5,6 +5,22 @@
       "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang)] and [Dragoon Resonance +5% Boost] to the user"
     },
     {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Dragoon Mode I (Fang)",
+      "text": "Dragoon abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dragoon abilities trigger 2 additional times, changes air time to 0.01 seconds, 25%/50%/75%/100% additional critical chance for equipped Dragoon abilities after using 1/2/3/4+ Dragoon abilities"
+    },
+    {
+      "name": "Dragoon Resonance +5% Boost",
+      "text": "Dragoon abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Mode II (Fang)], removes [Dual Awoken Dragoon Mode I (Fang)]"
     }

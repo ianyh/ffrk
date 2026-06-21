@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Regenga], grants [Quick Cast] to the user, grants [Buff Holy 10% (15s)]/[Buff Dark 10% (15s)] if Warrior of Light/Garland is in the party, grants [Buff Holy 20% (15s)] and [Buff Dark 20% (15s)] if both are in the party"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Buff Holy 10% (15s)",
+      "text": "Increases Holy damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Buff Dark 10% (15s)",
+      "text": "Increases Dark damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Buff Holy 20% (15s)",
+      "text": "Increases Holy damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Dark 20% (15s)",
+      "text": "Increases Dark damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Buff Holy 30% (15s)], [Buff Fire 30% (15s)], [Buff Ice 30% (15s)], [Buff Lightning 30% (15s)], [Awoken Archivist], [Damage Cap +10000] and [Archivist's Teachings Follow-Up] to the user"
+    },
+    {
+      "name": "Buff Holy 30% (15s)",
+      "text": "Increases Holy damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Fire 30% (15s)",
+      "text": "Increases Fire damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Ice 30% (15s)",
+      "text": "Increases Ice damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Lightning 30% (15s)",
+      "text": "Increases Lightning damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Awoken Archivist",
+      "text": "Black Magic and Summoning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Black Magic and Summoning abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Archivist's Teachings Follow-Up",
+      "text": "Casts Archivist's Teachings after using 3 Black Magic or Summoning abilities"
     }
   ],
   "card_description": [

@@ -5,6 +5,30 @@
       "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Soother Mode I (Deuce)] and [White Magic Healing Resonance Boost +5%] to the user"
     },
     {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Soother Mode I (Deuce)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic and Bard abilities after using 1/2/3+ White Magic or Bard abilities, increases healing done by White Magic and Bard abilities by 10%/15%/20% after using 1/2/3+ White Magic or Bard abilities, grants [Stoneskin: 10%]/[Stoneskin: 15%]/[Stoneskin: 20%]/[Stoneskin: 25%]/[Stoneskin: 30%] after using White Magic or Bard abilities at rank 1/2/3/4/5\n"
+    },
+    {
+      "name": "White Magic Healing Resonance Boost +5%",
+      "text": "White Magic abilities restore 5% more HP"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Soother Mode II (Deuce)], removes [Dual Awoken Soother Mode I (Deuce)]"
     }

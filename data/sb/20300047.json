@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Seven single-target Earth/NE magical attacks (? each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], & Crystal Force Mode: Rinoa (Earth) to the user\nCrystal Force Mode: Rinoa (Earth): Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce\nCrystal Force I: 4 single-target Earth/NE magic attacks (? each) capped at 19999, grants [Damage Cap +10000 1] [Earth Ability Damage +50% 1] [Quick ATB 1]  & [50% DEF/RES Pierce 1] for 1 turn to user; Crystal Force II: Chases with 2 single-target Earth/NE Overflow magic attacks (? each),[Quick Earth 1] & [Triplecast Earth 1] to user with at least 0 Witches/ [Instant Earth 1] & [Quadruplecast Earth 1] to user with at least 3 Witches"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Damage Cap +10000 1",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Triplecast Earth 1",
+      "text": "Earth abilities trigger 2 additional times"
     }
   ],
   "card_description": [

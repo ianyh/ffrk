@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Super Flash: Machina Follow-Up], [Instant ATB 1], [Limit Break Gauge +250]."
+    },
+    {
+      "name": "Super Flash: Machina Follow-Up",
+      "text": "Casts [Super Flash Attack: Machina] after using an Earth ability (max 1)"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Limit Break Gauge +250",
+      "text": "Grants 250 LB points when set"
     }
   ],
   "card_description": [

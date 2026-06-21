@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Strong Heart Mode] to the user"
+    },
+    {
+      "name": "Attach Wind 3 with Stacking",
+      "text": "Increase Attach Wind Level by 3 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Strong Heart Mode",
+      "text": "After using Spear Squall three times, grants [Wind Ability +30% Boost 3], [Dualcast Wind 3] and [Instant Cast 3], grants [Damage Cap +10000 3] if 2+ III allies are alive, removed after triggering"
     }
   ],
   "card_description": [

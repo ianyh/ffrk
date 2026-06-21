@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Soul Drive Mode: Rydia] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Soul Drive Mode: Rydia",
+      "text": "Reduces the SB points cost for Soul Breaks by 250, instant cast speed for Soul Breaks, increases the damage/healing cap by 10000 for Soul Breaks, Soul Breaks deal 50% more damage, grants [Instant ATB 1] after using a Soul Break, removed after triggering, removed if the character hasn't [Soul Drive Mode]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

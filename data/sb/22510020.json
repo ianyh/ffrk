@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (? each) capped at 19999, activates V Chain (max 150, field +0%) or adds 25 to the current V Chain maximum limit, grants [Chain Force Mode: Dorgann] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Dorgann",
+      "text": "Casts Kindred Guidance: Dorgann after a V Chain reaches a count of 50 or 100, removed after triggering two times"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

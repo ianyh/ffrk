@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.73 each), causes [Doom: 30] to all allies, grants [MAG and RES +30%] for 25 seconds, [Attach Dark] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Doom: 30",
+      "text": "Causes [Doom] with a 30 seconds timer"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [HP Stock (2000)] and [Astra]"
+    },
+    {
+      "name": "HP Stock (2000)",
+      "text": "Automatically restores HP, up to 2000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Astra",
+      "text": "Prevents Poison, Silence, Paralyze, Confuse, Slow, Stop, Blind, Sleep, Petrify, Berserk, Sap and Stun once"
     }
   ],
   "card_description": [

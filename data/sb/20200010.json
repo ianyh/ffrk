@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Stoneskin: 30%] and [Last Stand]"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
     }
   ],
   "card_description": [

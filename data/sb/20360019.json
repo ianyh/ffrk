@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, removes KO [Raise: 100%] from all allies, grants [Haste] to all allies, grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode (Lightning, Holy)] to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Awoken Ballad",
+      "text": "Summoning and Bard abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Summoning and Bard abilities at ability rank 1/2/3/4/5, Summoning and Bard abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Holy)",
+      "text": "Grants [Attach Lightning]/[Attach Holy] after using a Lightning/Holy ability"
     }
   ],
   "card_description": [

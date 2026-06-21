@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Advance] for 30 seconds"
+    },
+    {
+      "name": "Advance",
+      "text": "ATK +150%, DEF -50%"
     }
   ],
   "card_description": [

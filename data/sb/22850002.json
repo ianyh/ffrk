@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Five group ranged attacks (1.12 each), grants [No Air Time 3] to the user"
+    },
+    {
+      "name": "No Air Time 3",
+      "text": "Changes air time to  0.01 seconds"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Seven random attacks (1.10 each), grants [Haste] to all allies"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Fire with Stacking] and [Fleet Blade Follow-Up]"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Fleet Blade Follow-Up",
+      "text": "Casts Fleet Blade after using a Fire ability"
     }
   ],
   "card_description": [

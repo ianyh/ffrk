@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [High Quick Cast 3], grants [Awoken Sovereign] and [Beloved Homeland Follow-Up] to the user"
+    },
+    {
+      "name": "High Quick Cast 3",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Awoken Sovereign",
+      "text": "Support abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support abilities at ability rank 1/2/3/4/5, grants [Physical Blink 1] and [Magical Blink 1] to all allies after using two Support abilities"
+    },
+    {
+      "name": "Beloved Homeland Follow-Up",
+      "text": "Casts Beloved Homeland and Lost Nation after using a Support ability"
     }
   ],
   "card_description": [

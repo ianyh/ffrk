@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Earth)], [Damage Cap +10000], [Dual Awoken Successor Mode I (Krile)] and [Fire/Earth Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Twin Element Mode II (Fire, Earth)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Earth with Stacking] after using a Fire/Earth ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Successor Mode I (Krile)",
+      "text": "Fire and Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire and Earth abilities trigger 2 additional times, casts Dual Consuming Flame after using two equipped Fire or Earth abilities"
+    },
+    {
+      "name": "Fire/Earth Resonance +5% Boost",
+      "text": "Fire and Earth abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Successor Mode II (Krile)], removes [Dual Awoken Successor Mode I (Krile)]"
     }

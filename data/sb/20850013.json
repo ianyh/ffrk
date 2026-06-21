@@ -5,6 +5,26 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Bestial Power Mode I (Gau)], [Dual Wildling Life Mode] and [Celerity/Combat Resonance +5% Boost] to the user"
     },
     {
+      "name": "Twin Element Mode II (Lightning, Wind)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Wind with Stacking] after using a Lightning/Wind ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Bestial Power Mode I (Gau)",
+      "text": "Combat and Celerity abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Celerity and Combat abilities trigger 2 additional times"
+    },
+    {
+      "name": "Dual Wildling Life Mode",
+      "text": "Randomly casts Dual Barbarity, Dual Explosive Thrust or Dual Scratch after using a Combat or Celerity ability, removed after triggering three times, removed if the character hasn't [Dual Awoken Bestial Power Mode I (Gau)]"
+    },
+    {
+      "name": "Celerity/Combat Resonance +5% Boost",
+      "text": "Celerity and Combat abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Bestial Power Mode II (Gau)], removes [Dual Awoken Bestial Power Mode I (Gau)]"
     }

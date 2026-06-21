@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.68 each), causes [Imperil Water 20% (25s)] and [Imperil Poison 20% (25s)], grants [Switch Draw Mode (Water, Poison)] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Imperil Water 20% (25s)",
+      "text": "Water Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Poison 20% (25s)",
+      "text": "Poison Resistance -20%, cumulable"
+    },
+    {
+      "name": "Switch Draw Mode (Water, Poison)",
+      "text": "Grants [Attach Water]/[Attach Poison] after using a Water/Poison ability"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

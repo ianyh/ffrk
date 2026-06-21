@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single ranged attack (1.40), causes [Stop] (50%)"
+    },
+    {
+      "name": "Stop",
+      "text": "Arrests ATB charge rate, prevents from acting"
     }
   ],
   "card_description": [

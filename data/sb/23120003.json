@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [50% Critical] and [Stoneskin: 30%]"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

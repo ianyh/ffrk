@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Soul Break Gauge +500]"
+    },
+    {
+      "name": "Soul Break Gauge +500",
+      "text": "Grants 500 SB points when set"
     }
   ],
   "card_description": [

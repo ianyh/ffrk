@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Haste] and [Lightning Radiant Shield: 75%], [ATK +50%] for 25 seconds"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Lightning Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Lightning damage capped at 9999"
     }
   ],
   "card_description": [

@@ -5,6 +5,34 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [Ice/Lightning Ability +15% Boost 6]/[Ice/Lightning Ability +30% Boost 6] to all allies if 0-3/4+ allies have any Attach Ice or Attach Lightning, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Life Mode I: Vivi] and [(Ice/Lightning) Resonance +5% Boost] to the user"
     },
     {
+      "name": "Ice/Lightning Ability +15% Boost 6",
+      "text": "Ice and Lightning abilities deal 15% more damage"
+    },
+    {
+      "name": "Ice/Lightning Ability +30% Boost 6",
+      "text": "Ice and Lightning abilities deal 30% more damage"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Twin Element Mode II (Ice, Lightning)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Ice/Lightning ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Life Mode I: Vivi",
+      "text": "Ice and Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice and Lightning abilities trigger 1 additional time, cast speed x2.00 for Ice and Lightning abilities"
+    },
+    {
+      "name": "(Ice/Lightning) Resonance +5% Boost",
+      "text": "Ice and Lightning abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Life Mode II: Vivi]"
     }

@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [High Quick Cast 1], [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Water High Quick Cycle] to the user"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Attach Water 3 with Stacking",
+      "text": "Increase Attach Water Level by 3 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Water High Quick Cycle",
+      "text": "Grants [High Quick Cast 1] after using a Water ability"
     }
   ],
   "card_description": [

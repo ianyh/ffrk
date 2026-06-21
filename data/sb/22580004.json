@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.72 each), [ATK and RES +30%] to the user for 25 seconds, grants [Critical Damage +50%] and [Follow-Up Flurry Follow-Up] to the user"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Follow-Up Flurry Follow-Up",
+      "text": "Casts Follow-Up Flurry after dealing a critical hit with an ability"
     }
   ],
   "card_description": [

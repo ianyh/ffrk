@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Removes positive effects, grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Awoken Astrologer] to the user"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Awoken Astrologer",
+      "text": "White Magic and Bard abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for White Magic and Bard abilities, grants [HP Stock (500)]/[HP Stock (1000)]/[HP Stock (1500)]/[HP Stock (2000)]/[HP Stock (3000)] to all allies after using White Magic or Bard abilities at rank 1/2/3/4/5"
     }
   ],
   "card_description": [

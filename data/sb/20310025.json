@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Overflow Ice Radiant Shield: 500% (8s)] and [Sovereign Barrier Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Ice 3 with Stacking",
+      "text": "Increase Attach Ice Level by 3 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Overflow Ice Radiant Shield: 500% (8s)",
+      "text": "Returns 500% of the damage taken to the attacker as Ice damage capped at 99999"
+    },
+    {
+      "name": "Sovereign Barrier Follow-Up",
+      "text": "Casts Sovereign Barrier after using three Ice abilities, removed after triggering, removed if the user hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

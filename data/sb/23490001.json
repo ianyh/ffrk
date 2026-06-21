@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quick Cast], [Twin Element Mode III (Fire, Earth)] and [Vagrant Knight Mode] to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Twin Element Mode III (Fire, Earth)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Earth 2 with Stacking] after using a Fire/Earth ability"
+    },
+    {
+      "name": "Vagrant Knight Mode",
+      "text": "After using two of Crimson Charge or Crimson Break, casts Crimson Gamma 1/2 if the character has Vagrant Knight Alpha 0~1/2~3 and Vagrant Knight Beta 0~1/2~3, Crimson Alpha 1/2 if the character has Vagrant Knight Alpha 2/3 and Vagrant Knight Beta 0~1, Crimson Beta 1/2 if the character has Vagrant Knight Alpha 0~1 and Vagrant Knight Beta 2/3"
     }
   ],
   "card_description": [

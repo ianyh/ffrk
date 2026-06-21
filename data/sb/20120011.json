@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Last Stand] and [Physical High Quick Cast 3]"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Physical High Quick Cast 3",
+      "text": "Cast speed x3.00 for PHY attacks"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), causes [Imperil Ice 20%] for 25 seconds, grants [Deep Freeze Follow-Up] to the user"
+    },
+    {
+      "name": "Deep Freeze Follow-Up",
+      "text": "Casts Deep Freeze after using two Black Magic abilities"
     }
   ],
   "card_description": [

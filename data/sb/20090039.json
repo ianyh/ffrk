@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (2.60 each) capped at 19999, activates Earth Chain (max 150, field +0%) or adds 25 to the current Earth Chain maximum limit, grants [Chain Force Mode: Rydia (Earth)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Rydia (Earth)",
+      "text": "Casts Earth Guidance: Rydia after a Earth Chain reaches a count of 50 or 100, removed after triggering two times"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

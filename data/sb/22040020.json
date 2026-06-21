@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three single ranged attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [Physical Blink 1] to all allies"
+    },
+    {
+      "name": "Physical Blink 1",
+      "text": "Evades the next PHY attack that deals physical, missing HP or fixed damage or NAT attack that deals physical or fractional damage"
     }
   ],
   "card_description": [

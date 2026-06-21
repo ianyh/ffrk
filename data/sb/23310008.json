@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (3.36) capped at 99999, grants [Attach Earth with Stacking] to the user"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
     }
   ],
   "card_description": [

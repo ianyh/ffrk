@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK +30%, DEF +25% (25s)], [Attach Earth with Stacking], [Awoken Platinum Crusher], [Damage Cap +10000], [Monk Quick Cast] and [Buff Earth 20% (15s)] to the user"
+    },
+    {
+      "name": "ATK +30%, DEF +25% (25s)",
+      "text": "ATK +30%, DEF +25%"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Awoken Platinum Crusher",
+      "text": "Monk abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Rock Drive after using Monk abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Monk Quick Cast",
+      "text": "Cast speed x2.00 for Monk abilities"
+    },
+    {
+      "name": "Buff Earth 20% (15s)",
+      "text": "Increases Earth damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

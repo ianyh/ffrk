@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single hybrid attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Star Drive level 0/1/2, removes Arcane Dyad Empowered: Wedge from the user"
+      "text": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Wedge], [Star Drive Ability Tracker] and [Star Drive Level]"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Wedge",
+      "text": "Keeps track of the number of uses of Star Drive (0~2), removed after using Star Drive two times"
+    },
+    {
+      "name": "Star Drive Ability Tracker",
+      "text": "Increases Star Drive level by 1 after using 5 or 8 Wind abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Wedge]"
+    },
+    {
+      "name": "Star Drive Level",
+      "text": "Keeps track of Star Drive level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Wedge]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single hybrid attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Star Drive level 0/1/2, removes Arcane Dyad Empowered: Wedge from the user"
+      "text": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Wedge], [Star Drive Ability Tracker] and [Star Drive Level]"
     },
     {
       "name": "Engaged",

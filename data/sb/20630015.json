@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Dark with Stacking] and [Stoneskin: 100%]"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

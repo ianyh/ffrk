@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "[ATK +50%] for 25 seconds, causes [KO] (100%) to the user"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
     }
   ],
   "card_description": [

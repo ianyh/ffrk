@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Five single attacks (1.58 each), grants [High Runic] to the user for 25 seconds"
+    },
+    {
+      "name": "High Runic",
+      "text": "Taunts single-target BLK and WHT attacks, absorbs BLK and WHT attacks to restore 1 consumed ability use"
     }
   ],
   "card_description": [

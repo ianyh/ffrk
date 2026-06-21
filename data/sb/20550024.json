@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Fire Chain (max 150, field +30%), [ATK +50% (25s)] to all allies"
+    },
+    {
+      "name": "ATK +50% (25s)",
+      "text": "ATK +50%"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [40% Damage Reduction Barrier 1], [Quick Cast 2]"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

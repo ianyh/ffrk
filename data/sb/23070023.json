@@ -5,6 +5,18 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Twin Element Mode II (Wind, Poison)], Dual Awoken Tantalus Mode I, and [Wind/Poison Resonance +5% Boost] to the user\nDual Awoken Tantalus Mode I: Wind/Poison Ability Boost, Triplecast Wind/Poison & chases Wind/Poison abilities with 4 single-target Wind/Poison/NE physical attacks (0.50 each)"
     },
     {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode II (Wind, Poison)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Poison with Stacking] after using a Wind/Poison ability"
+    },
+    {
+      "name": "Wind/Poison Resonance +5% Boost",
+      "text": "Wind and Poison abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Tantalus Mode II to user\nDual Awoken Tantalus Mode II: Wind/Poison Ability Boost & chases a Wind/Poison ability with [Triplecast Wind/Poison, Wind/Poison Ability Damage +30% & Cap Break Level 2] for 1 turn to user"
     }

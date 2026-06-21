@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Fifteen single hits (0.52 each), grants [Physical Quick Cast] to all allies, grants [Synchro Mode], [Peacebreaker Chase Mode] to the user"
+    },
+    {
+      "name": "Physical Quick Cast",
+      "text": "Cast speed x2.00 for PHY attacks"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Peacebreaker Chase Mode",
+      "text": "Chases Shout with President's Duty, removed after 3 chases"
     }
   ],
   "card_description": [

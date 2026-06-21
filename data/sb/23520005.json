@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.62 each), grants [Instant Cast 1] and [Last Stand] to all allies, grants [Twin Element Mode (Fire, Dark)] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Twin Element Mode (Fire, Dark)",
+      "text": "Grants [Attach Fire]/[Attach Dark] after using a Fire/Dark ability"
     }
   ],
   "card_description": [

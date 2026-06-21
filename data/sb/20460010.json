@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [No Air Time] to all allies"
+    },
+    {
+      "name": "No Air Time",
+      "text": "Changes air time to 0.01 seconds"
     }
   ],
   "card_description": [

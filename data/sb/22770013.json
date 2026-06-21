@@ -2,7 +2,31 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Patriot's Sword level 0/1/2, removes Arcane Dyad Empowered: Reks from the user"
+      "text": "Grants [Last Stand] and [40% Damage Reduction Barrier 1], grants [Damage Cap +10000], [Arcane Dyad Empowered: Reks], [Patriot's Sword Damage Tracker] and [Patriot's Sword Level]"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Reks",
+      "text": "Keeps track of the number of uses of Patriot's Sword (0~2), removed after using Patriot's Sword two times"
+    },
+    {
+      "name": "Patriot's Sword Damage Tracker",
+      "text": "Increases Patriot's Sword level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Reks]"
+    },
+    {
+      "name": "Patriot's Sword Level",
+      "text": "Keeps track of Patriot's Sword level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Reks]"
     },
     {
       "name": "Engaged",
@@ -12,7 +36,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Patriot's Sword level 0/1/2, removes Arcane Dyad Empowered: Reks from the user"
+      "text": "Grants [Last Stand] and [40% Damage Reduction Barrier 1], grants [Damage Cap +10000], [Arcane Dyad Empowered: Reks], [Patriot's Sword Damage Tracker] and [Patriot's Sword Level]"
     },
     {
       "name": "Engaged",

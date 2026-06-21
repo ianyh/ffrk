@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Chosen One], [Damage Cap +10000], [Quick Cast 1] and [Linked Materia Mode II (Fire, Dark)] to the user"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Awoken Chosen One",
+      "text": "Dark and Fire abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Dark and Fire abilities at ability rank 1/2/3/4/5, casts Mesocyclone after using a Dark or Fire ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Linked Materia Mode II (Fire, Dark)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Dark with Stacking] after using a Fire/Dark ability"
     }
   ],
   "card_description": [

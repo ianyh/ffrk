@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Last Stand] and [40% Damage Reduction Barrier 3] to all allies, grants [Attach Ice] and [Avenging Fist Follow-Up] to the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 3",
+      "text": "Reduces damage taken by 40% for the next three attacks"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%"
+    },
+    {
+      "name": "Avenging Fist Follow-Up",
+      "text": "Casts Avenging Fist when any Damage Reduction Barrier is removed"
     }
   ],
   "card_description": [

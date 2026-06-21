@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), [ATK and MAG -70%] for 8 seconds, grants [Quick Cast] and [Anguished Rose Follow-Up] to the user"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Anguished Rose Follow-Up",
+      "text": "Casts Anguished Rose after using a Earth ability"
     }
   ],
   "card_description": [

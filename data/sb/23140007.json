@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Wind with Stacking], Storm Raider +1 and [Gear Storm Follow-Up]"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Gear Storm Follow-Up",
+      "text": "Casts Gear Storm after using a Wind or Poison ability"
     }
   ],
   "card_description": [

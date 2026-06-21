@@ -5,6 +5,18 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lion], [ATK +500 (25s) (Tactical)] to user."
     },
     {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. "
+    },
+    {
+      "name": "Tactical Awoken Mode: Lion",
+      "text": "Water abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, penetrate 20% DEF and RES; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "ATK +500 (25s) (Tactical)",
+      "text": "ATK +500"
+    },
+    {
       "name": "Weapon Skill",
       "text": "One single attack (11.00 each) capped at 199,999. Grants [Water Damage Cap +20000 (Tactical)], [Water Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, causes [Deprotect 20% (15s)] to all enemies if one target has at least 40% imperil water, causes [Imperil Water 30% (15s)] to enemies if not"
     }

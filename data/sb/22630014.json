@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Mako Cannon level 0/1/2, removes Arcane Dyad Empowered: Rufus from the user"
+      "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Rufus], [Apex Mako Cannon Damage Tracker] and [Apex Mako Cannon Level]"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Rufus",
+      "text": "Keeps track of the number of uses of Apex Mako Cannon (0~2), removed after using Apex Mako Cannon two times"
+    },
+    {
+      "name": "Apex Mako Cannon Damage Tracker",
+      "text": "Increases Apex Mako Cannon level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Rufus]"
+    },
+    {
+      "name": "Apex Mako Cannon Level",
+      "text": "Keeps track of Apex Mako Cannon level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Rufus]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Mako Cannon level 0/1/2, removes Arcane Dyad Empowered: Rufus from the user"
+      "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Rufus], [Apex Mako Cannon Damage Tracker] and [Apex Mako Cannon Level]"
     },
     {
       "name": "Engaged",

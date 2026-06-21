@@ -3,6 +3,46 @@
     {
       "name": "Entry",
       "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Edgar (Poison/Fire/Lightning)] to user. Causes [Imperil Prismatic 20% (15s)] if there are at least 4 VI party members, causes [Imperil Fire 20% (15s)], [Imperil Lightning 20% (15s)], and [Imperil Poison 20% (15s)] if not. Grants [Attach Poison with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] based on if entry damage was Poison/Fire/Lightning.\n"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode: Edgar (Poison/Fire/Lightning)",
+      "text": "Poison/Fire/Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison/Fire/Lightning abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode"
+    },
+    {
+      "name": "Imperil Prismatic 20% (15s)",
+      "text": "Causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)], [Imperil Lightning 20% (15s)], [Imperil Earth 20% (15s)], [Imperil Wind 20% (15s)], [Imperil Water 20% (15s)], [Imperil Holy 20% (15s)], [Imperil Dark 20% (15s)] and [Imperil Poison 20% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
     }
   ],
   "card_description": [

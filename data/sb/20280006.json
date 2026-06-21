@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Six group attacks (0.89 each), [ATK, MAG and MND -50%] for 25 seconds, grants [Haste] and [High Regen] to all allies"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
     }
   ],
   "card_description": [

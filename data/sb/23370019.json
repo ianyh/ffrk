@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Instant Cast 1]/[Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (25s)] to all allies"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "ATK and MND +30%, DEF and RES +25% (25s)",
+      "text": "ATK and MND +30%, DEF and RES +25%"
     }
   ],
   "card_description": [

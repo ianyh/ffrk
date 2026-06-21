@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Semi-Prime Mode], [Soul Break Gauge +250], and [200% ATB 1] to the user\nSemi-Prime Mode (5s): ATK/DEF/RES +50%, Damage Cap +10000, and Instant Cast"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

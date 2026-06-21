@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Ten single hybrid attacks (3.20/3.55 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (35.15/38.67 or 34.60/38.06) capped at 99999 at Apex Double Black Magic level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Fusoya from the user"
+      "text": "Causes [Imperil Holy 20% (15s)], grants [Buff Holy 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Fusoya], [Apex Double Black Magic Ability Tracker] and [Apex Double Black Magic Level]"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable"
+    },
+    {
+      "name": "Buff Holy 20% (15s)",
+      "text": "Increases Holy damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Fusoya",
+      "text": "Keeps track of the number of uses of Apex Double Black Magic (0~2), removed after using Apex Double Black Magic two times"
+    },
+    {
+      "name": "Apex Double Black Magic Ability Tracker",
+      "text": "Increases Apex Double Black Magic level by 1 after using 7 White Magic or Black Magic abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Fusoya]"
+    },
+    {
+      "name": "Apex Double Black Magic Level",
+      "text": "Keeps track of Apex Double Black Magic level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Fusoya]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Ten single hybrid attacks (3.20/3.55 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (35.15/38.67 or 34.60/38.06) capped at 99999 at Apex Double Black Magic level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Fusoya from the user"
+      "text": "Causes [Imperil Holy 20% (15s)], grants [Buff Holy 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Fusoya], [Apex Double Black Magic Ability Tracker] and [Apex Double Black Magic Level]"
     },
     {
       "name": "Engaged",

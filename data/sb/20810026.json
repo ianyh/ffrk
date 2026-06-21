@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Two single attacks (7.24 each) capped at 19999, ignores DEF, grants [50% Damage Reduction Barrier 1] to all allies"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
     }
   ],
   "card_description": [

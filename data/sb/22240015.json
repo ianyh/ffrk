@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.79 each), grants [Attach Dark with Stacking], [Dark Ability +30% Boost (15s)] and [Dark Charge Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Dark Ability +30% Boost (15s)",
+      "text": "Dark abilities deal 30% more damage"
+    },
+    {
+      "name": "Dark Charge Follow-Up",
+      "text": "Casts Dark Charge after using a Dark ability"
     }
   ],
   "card_description": [

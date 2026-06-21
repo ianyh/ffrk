@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [Instant Cast 1] and [50% Damage Reduction Barrier 2], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 2",
+      "text": "Reduces damage taken by 50% for the next two attacks"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

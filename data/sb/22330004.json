@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "[MAG +30%] for 25 seconds, grants [Haste] and [Magical Quick Cast 3]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Magical Quick Cast 3",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
     }
   ],
   "card_description": [

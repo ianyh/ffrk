@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste], [Regenga] and [Physical Quick Cast], removes negative effects, grants [Awoken Cetra Strength] to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Physical Quick Cast",
+      "text": "Cast speed x2.00 for PHY attacks"
+    },
+    {
+      "name": "Awoken Cetra Strength",
+      "text": "White Magic abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for White Magic abilities at ability rank 1/2/3/4/5, casts Prayer to Gaia after using White Magic abilities"
     }
   ],
   "card_description": [

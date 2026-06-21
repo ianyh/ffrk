@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at With Wishes in Mind Level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Reynn from the user"
+      "text": "Causes [Imperil Ice 20% (15s)], grants [Buff Ice 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Reynn], [With Wishes in Mind Damage Tracker], and [With Wishes in Mind Level] to the user"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable"
+    },
+    {
+      "name": "Buff Ice 20% (15s)",
+      "text": "Increases Ice damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Reynn",
+      "text": "Keeps track of the number of uses of Wish Wishes in Mind (0~2), removed after using With Wishes in Mind two times"
+    },
+    {
+      "name": "With Wishes in Mind Damage Tracker",
+      "text": "Increases With Wishes in Mind level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Reynn]"
+    },
+    {
+      "name": "With Wishes in Mind Level",
+      "text": "Keeps track of With Wishes in Mind level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Reynn]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at With Wishes in Mind Level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Reynn from the user"
+      "text": "Causes [Imperil Ice 20% (15s)], grants [Buff Ice 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Reynn], [With Wishes in Mind Damage Tracker], and [With Wishes in Mind Level] to the user"
     },
     {
       "name": "Engaged",

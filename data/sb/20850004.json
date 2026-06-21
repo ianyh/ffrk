@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (0.95 each), grants [Dark Bargain] to the user for 25 seconds, grants [Haste], [Quick Cast 3] and [Burst Mode] to the user"
+    },
+    {
+      "name": "Dark Bargain",
+      "text": "ATK +30%, DEF -30%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Burst Mode",
+      "text": "Replaces the Attack and Defend commands, ATK, DEF, MAG, RES, MND, ACC and EVA +20%, SPD +10%"
     }
   ],
   "card_description": [

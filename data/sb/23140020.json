@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Element Mode II (Wind, Poison)], [Soul Break Gauge +250], [200% ATB 1] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Wind, Poison)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Poison with Stacking] after using a Wind/Poison ability"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Blazing Monk] and [Damage Cap +10000] to the user, grants [Ascetic Monk Mode]/[Act As One Mode] if Edgar isn't/is alive"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Awoken Blazing Monk",
+      "text": "Fire abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Fire abilities at ability rank 1/2/3/4/5, casts Scorching Firebird Strike after using Fire abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ascetic Monk Mode",
+      "text": "Fire abilities deal 10%/20%/30% more damage after casting 1/2/3+ Fire abilities, removed if the character hasn't [Awoken Blazing Monk]"
+    },
+    {
+      "name": "Act As One Mode",
+      "text": "Fire abilities deal 10%/30%/50% more damage after casting 1/2/3+ Fire abilities, removed if the character hasn't [Awoken Blazing Monk]"
     }
   ],
   "card_description": [

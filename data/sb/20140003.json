@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One group attack (7.25), [RES -50%] for 25 seconds"
+    },
+    {
+      "name": "RES -50%",
+      "text": "RES -50%"
     }
   ],
   "card_description": [

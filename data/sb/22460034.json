@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG +30%, RES +25% (25s)] to all allies, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Black Magic Mode I (Onion Knight (Fire))] and [Black Magic Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG +30%, RES +25% (25s)",
+      "text": "MAG +30%, RES +25%"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode I (Onion Knight (Fire))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic abilities trigger 2 additional times, cast speed x2.00 for equipped Black Magic abilities, casts Dual Flame Sorcery when removed"
+    },
+    {
+      "name": "Black Magic Resonance +5% Boost",
+      "text": "Black Magic abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Onion Knight (Fire))], removes [Dual Awoken Black Magic Mode I (Onion Knight (Fire))]"
     }

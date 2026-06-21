@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Highborn Mode I (Fusoya)",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Holy abilities after using 1/2/3+ Holy abilities"
+    },
+    {
+      "name": "Holy Resonance +5% Boost",
+      "text": "Holy abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Regenga], grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (Fusoya)] to the user, removes [Dual Awoken Highborn Mode I (Fusoya)] from the user"
     }

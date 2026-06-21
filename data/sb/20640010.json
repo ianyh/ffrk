@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Earth Chain (max 99, field +50%), grants [MAG +50%] for 25 seconds, grants [Buff Earth 20% (15s)]"
+    },
+    {
+      "name": "Buff Earth 20% (15s)",
+      "text": "Increases Earth damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

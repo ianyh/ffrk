@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Two single attacks (0.90 each), causes [Confuse] (20%)"
+    },
+    {
+      "name": "Confuse",
+      "text": "Forces default action (Attack for characters), affects targeting (single: 50% random enemy, 50% random ally; group: 50% all enemies, 50% all allies), resets ATB when set or removed, removed upon taking damage by PHY attacks"
     }
   ],
   "card_description": [

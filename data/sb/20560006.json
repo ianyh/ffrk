@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Earth] and [Black Magic Double] to the user"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%"
+    },
+    {
+      "name": "Black Magic Double",
+      "text": "Black Magic abilities trigger 1 additional time consuming an extra ability use if able"
     }
   ],
   "card_description": [

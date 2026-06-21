@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Double Crystarium Mode II (Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]"
+    },
+    {
+      "name": "Double Crystarium Mode II (Holy, Dark)",
+      "text": "Grants [Attach Holy with Stacking]/[Attach Dark with Stacking] after using a Holy/Dark ability"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

@@ -2,7 +2,55 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single hybrid ranged attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Our Fantasy Unbound level 0/1/2, removes Arcane Dyad Empowered: Tyro from the user"
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10% (25s)]/[ATK, DEF, MAG, RES and MND +20% (25s)]/[ATK, DEF, MAG, RES and MND +30% (25s)]/[ATK, DEF, MAG, RES and MND +40% (25s)]/[ATK, DEF, MAG, RES and MND +50% (25s)] if 1/2/3/4/5+ allies are alive, [Conditional Attach Element From Party], [Prismatic +50% Boost], [Damage Cap +10000], [Striking Reminiscence Follow-Up], [Our Fantasy Unbound Ability Tracker], [Our Fantasy Unbound Level] and [Arcane Dyad Empowered: Tyro] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND +10% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND +10%"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND +20% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND +20%"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND +30% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND +30%"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND +40% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND +40%"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND +50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND +50%"
+    },
+    {
+      "name": "Conditional Attach Element From Party",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Earth]/[Attach Wind]/[Attach Water]/[Attach Holy]/[Attach Dark]/[Attach Poison] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "Prismatic +50% Boost",
+      "text": "Fire, Ice, Lightning, Earth, Wind, Water, Holy, Dark and Poison attacks deal 50% more damage"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Striking Reminiscence Follow-Up",
+      "text": "Casts Striking Reminiscence after using two abilities"
+    },
+    {
+      "name": "Our Fantasy Unbound Ability Tracker",
+      "text": "Increases Our Fantasy Unbound level by 1 after using 6 or 10 abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Tyro]"
+    },
+    {
+      "name": "Our Fantasy Unbound Level",
+      "text": "Keeps track of Our Fantasy Unbound level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Tyro]"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Tyro",
+      "text": "Keeps track of the number of uses of Our Fantasy Unbound (0~2), removed after using Our Fantasy Unbound two times"
     },
     {
       "name": "Engaged",
@@ -12,7 +60,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single hybrid ranged attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Our Fantasy Unbound level 0/1/2, removes Arcane Dyad Empowered: Tyro from the user"
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10% (25s)]/[ATK, DEF, MAG, RES and MND +20% (25s)]/[ATK, DEF, MAG, RES and MND +30% (25s)]/[ATK, DEF, MAG, RES and MND +40% (25s)]/[ATK, DEF, MAG, RES and MND +50% (25s)] if 1/2/3/4/5+ allies are alive, [Conditional Attach Element From Party], [Prismatic +50% Boost], [Damage Cap +10000], [Striking Reminiscence Follow-Up], [Our Fantasy Unbound Ability Tracker], [Our Fantasy Unbound Level] and [Arcane Dyad Empowered: Tyro] to the user"
     },
     {
       "name": "Engaged",

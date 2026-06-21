@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Awoken Unequaled Prince Mode], [Damage Cap +10000], [Ninja +30% Boost (15s)] and [Quad Element Mode II (Fire, Lightning, Water, Poison)] to the user"
+    },
+    {
+      "name": "Awoken Unequaled Prince Mode",
+      "text": "Ninja abilities don't consume uses, Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, chases ninja abilities with Eblan Style Kassatsu Jizai"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ninja +30% Boost (15s)",
+      "text": "Ninja abilities deal 30% more damage"
+    },
+    {
+      "name": "Quad Element Mode II (Fire, Lightning, Water, Poison)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Water with Stacking]/[Attach Poison with Stacking] after using a Fire/Lightning/Water/Poison ability"
     }
   ],
   "card_description": [

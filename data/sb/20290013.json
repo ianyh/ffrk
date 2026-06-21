@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Dragoon High Quick Cast] and [Jump +30% Boost (15s)]"
+    },
+    {
+      "name": "Dragoon High Quick Cast",
+      "text": "Cast speed x3.00 for Dragoon abilities"
+    },
+    {
+      "name": "Jump +30% Boost (15s)",
+      "text": "Jump attacks deal 30% more damage"
     }
   ],
   "card_description": [

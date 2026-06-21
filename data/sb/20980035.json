@@ -2,7 +2,7 @@
   "description": [
     {
       "name": "Entry",
-      "text": "20 single-target Poison/NE hybrid attacks & single-target Poison/NE Overflow hybrid attack, removes True Arcane Augment Mode"
+      "text": "En-Poison, En-Poison Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Venom Vortex if at least 100001/300001 damage is dealt"
     },
     {
       "name": "Engaged",
@@ -12,7 +12,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "20 single-target Poison/NE hybrid attacks & single-target Poison/NE Overflow hybrid attack, removes True Arcane Augment Mode"
+      "text": "En-Poison, En-Poison Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Venom Vortex if at least 100001/300001 damage is dealt"
     },
     {
       "name": "Engaged",

@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Activates Fire Chain (max 150, field +50%), causes [Imperil Fire 10% (5s)]/[Imperil Fire 20% (5s)]/[Imperil Fire 30% (5s)] to all targets with 0-1/2-3/4+ allies with Attach Fire, grants [ATK +50% (25s)] to all allies, grants [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Imperil Fire 10% (5s)",
+      "text": "Fire Resistance -10%, cumulable"
+    },
+    {
+      "name": "Imperil Fire 20% (5s)",
+      "text": "Fire Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Fire 30% (5s)",
+      "text": "Fire Resistance -30%, cumulable"
+    },
+    {
+      "name": "ATK +50% (25s)",
+      "text": "ATK +50%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

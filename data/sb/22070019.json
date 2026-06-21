@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Poison with Stacking], [Awoken Poison], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Poison 3] to the user"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Awoken Poison",
+      "text": "Poison abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant Cast 3",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Dualcast Poison 3",
+      "text": "Poison abilities trigger 1 additional time"
     }
   ],
   "card_description": [

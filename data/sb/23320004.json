@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.65 each), grants [Black Magic +50% Boost 2], [Magical Instant Cast 2] and [Magic Purge Follow-Up] to the user"
+    },
+    {
+      "name": "Black Magic +50% Boost 2",
+      "text": "Black Magic abilities deal 50% more damage"
+    },
+    {
+      "name": "Magical Instant Cast 2",
+      "text": "Instant cast speed for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Magic Purge Follow-Up",
+      "text": "Casts Magic Purge after using a Black Magic ability"
     }
   ],
   "card_description": [

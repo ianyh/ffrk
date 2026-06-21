@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Weakness +30% Boost (15s)] and [High Quick Cast 1], grants [Weakness +30% Boost (15s)] and [High Quick Cast 1] to Yang if Yang is alive"
+    },
+    {
+      "name": "Weakness +30% Boost (15s)",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

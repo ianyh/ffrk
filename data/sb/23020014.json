@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode (Fire, Lightning)], [Awoken Eager Elite Mode] and [Damage Cap +10000] to the user, grants [Damage Cap +10000] to Reno, Rude and the user if Reno is alive, grants [Fire/Earth/Lightning Ability +30% Boost (15s)] to all allies if Reno is alive, grants [Quick Cast] to all allies if Rude is alive"
+    },
+    {
+      "name": "Linked Materia Mode (Fire, Lightning)",
+      "text": "Grants [Attach Fire] after using a Fire ability, grants [Attach Lightning] after using a Lightning ability"
+    },
+    {
+      "name": "Awoken Eager Elite Mode",
+      "text": "Fire and Lightning abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Fire and Lightning abilities at ability rank 1/2/3/4/5, casts Sparking Shot after using after using Fire and Lightning abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Fire/Earth/Lightning Ability +30% Boost (15s)",
+      "text": "Fire, Earth or Lightning abilities deal 30% more damage"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

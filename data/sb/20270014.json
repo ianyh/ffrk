@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.70 each), grants [PHY +30% Boost (15s)] and [Military Prowess EX Mode] to the user"
+    },
+    {
+      "name": "PHY +30% Boost (15s)",
+      "text": "PHY attacks deal 30% more damage"
+    },
+    {
+      "name": "Military Prowess EX Mode",
+      "text": "Instant cast speed for Knight or Samurai abilities, restores HP for 10% of the damage dealt with Knight or Samurai abilities"
     }
   ],
   "card_description": [

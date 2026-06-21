@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [Instant Cast 1] and [Stoneskin: 100%], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

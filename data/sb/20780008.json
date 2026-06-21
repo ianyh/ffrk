@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.71 each), [DEF and MAG -70%] for 8 seconds, grants [Instant Cast 1] to all allies, grants [Darkness Card Follow-Up] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Darkness Card Follow-Up",
+      "text": "Casts Darkness Card 1/2/3/4 after using 1/2/3/4+4n damaging Support abilities"
     }
   ],
   "card_description": [

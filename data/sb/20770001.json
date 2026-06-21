@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single ranged attack (1.40), grants [Haste] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

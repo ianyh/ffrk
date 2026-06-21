@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Snowfield Survivor level 0/1, grants [Instant Cast 1] to all allies removes Arcane Dyad Empowered: Josef from the user"
+      "text": "Causes [Imperil Ice 20% (15s)], grants [Buff Ice 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Josef], [Snowfield Survivor Ability Tracker] and [Snowfield Survivor Level]"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable"
+    },
+    {
+      "name": "Buff Ice 20% (15s)",
+      "text": "Increases Ice damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Josef",
+      "text": "Keeps track of the number of uses of Snowfield Survivor (0~2), removed after using Snowfield Survivor two times"
+    },
+    {
+      "name": "Snowfield Survivor Ability Tracker",
+      "text": "Increases Snowfield Survivor level by 1 after using 7 Monk abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Josef]"
+    },
+    {
+      "name": "Snowfield Survivor Level",
+      "text": "Keeps track of Snowfield Survivor level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Josef]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Snowfield Survivor level 0/1, grants [Instant Cast 1] to all allies removes Arcane Dyad Empowered: Josef from the user"
+      "text": "Causes [Imperil Ice 20% (15s)], grants [Buff Ice 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Josef], [Snowfield Survivor Ability Tracker] and [Snowfield Survivor Level]"
     },
     {
       "name": "Engaged",

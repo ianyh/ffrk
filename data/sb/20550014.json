@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Figaro Firebrand Mode] to the user"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Physical Blink Stacking 2",
+      "text": "Allows to stack Physical Blink, up to Physical Blink 2"
+    },
+    {
+      "name": "Physical Blink 2",
+      "text": "Evades the next 2 PHY attacks that deal physical, missing HP or fixed damage or NAT attacks that deal physical or fractional damage"
+    },
+    {
+      "name": "Figaro Firebrand Mode",
+      "text": "After using two of Solemn Fist or Phantom Resolve, casts Lethal Punch (Righteous) if the character has Pillar of Justice level 2, Lethal Punch (Support) if the character has Pillar of Support level 2, Lethal Punch (Mixed) if the character has Pillar of Justice level 0~1 and Pillar of Support level 0~1, removed if the character hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

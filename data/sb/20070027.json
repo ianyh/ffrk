@@ -3,6 +3,38 @@
     {
       "name": "Entry",
       "text": "Fifteen single hybrid attacks (0.60 or 1.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] and [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF4 allies are alive, grants [Awoken Holy], [Damage Cap +10000], [Quick Cast] and [Buff Holy 20% (15s)] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Weakness +9% Boost (15s)",
+      "text": "Increases damage dealt by 9% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "Weakness +15% Boost (15s)",
+      "text": "Increases damage dealt by 15% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "Weakness +30% Boost (15s)",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "Awoken Holy",
+      "text": "Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Buff Holy 20% (15s)",
+      "text": "Increases Holy damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

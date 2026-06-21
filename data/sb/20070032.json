@@ -5,6 +5,26 @@
       "text": "Seven single hybrid attacks (0.90/3.10 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Cecil (Paladin)) 2], [Holy Resonance +5% Boost] and [Holy Ability +50% Boost 2] to the user"
     },
     {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Holy Mode I (Cecil (Paladin)) 2",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, casts Dual Paladin Dive after using Holy abilities (max 2)"
+    },
+    {
+      "name": "Holy Resonance +5% Boost",
+      "text": "Holy abilities deal 5% more damage"
+    },
+    {
+      "name": "Holy Ability +50% Boost 2",
+      "text": "Holy abilities deal 50% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Cecil (Paladin)) 2]"
     }

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), causes [Imperil Dark 20%] for 25 seconds, grants [DEF and MAG +30%], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Dark Quick Cycle",
+      "text": "Grants [Quick Cast 1] after using a Dark ability"
     }
   ],
   "card_description": [

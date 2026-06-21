@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Haste] and [Magical Quick Cast 3], [MAG, RES and MND +30%] for 25 seconds, grants [Sage EX Mode] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Magical Quick Cast 3",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Sage EX Mode",
+      "text": "MAG +30%, BLK attacks deal 15% more damage"
     }
   ],
   "card_description": [

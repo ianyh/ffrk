@@ -5,6 +5,26 @@
       "text": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Barbariccia], [Apex Maelstrom (IV) Ability Tracker] and [Apex Maelstrom (IV) Level]"
     },
     {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Barbariccia",
+      "text": "Keeps track of the number of uses of Apex Maelstrom (IV) (0~2), removed after using Apex Maelstrom (IV) two times"
+    },
+    {
+      "name": "Apex Maelstrom (IV) Ability Tracker",
+      "text": "Increases Apex Maelstrom (IV) level by 1 after using 5 or 8 Wind abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Barbariccia]"
+    },
+    {
+      "name": "Apex Maelstrom (IV) Level",
+      "text": "Keeps track of Apex Maelstrom (IV) level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Barbariccia]"
+    },
+    {
       "name": "IV",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom (IV) level 0/1/2, removes Arcane Dyad Empowered: Barbariccia from the user"
     }

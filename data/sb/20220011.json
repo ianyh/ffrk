@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Critical Damage +50%] and [Heartless Angel]"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Heartless Angel",
+      "text": "ATK +50%, DEF and RES -15%"
     }
   ],
   "card_description": [

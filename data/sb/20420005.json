@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Physical Blink 1]"
+    },
+    {
+      "name": "Physical Blink 1",
+      "text": "Evades the next PHY attack that deals physical, missing HP or fixed damage or NAT attack that deals physical or fractional damage"
     }
   ],
   "card_description": [

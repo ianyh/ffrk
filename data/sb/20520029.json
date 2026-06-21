@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Farplane Flutter] to the user"
+    },
+    {
+      "name": "Attach Holy 3 with Stacking",
+      "text": "Increase Attach Holy Level by 3 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

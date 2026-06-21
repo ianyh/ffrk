@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Buff Wind 20% (15s)] and [High Quick Cast 2]"
+    },
+    {
+      "name": "Buff Wind 20% (15s)",
+      "text": "Increases Wind damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

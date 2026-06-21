@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Full Throttle Water], [Damage Cap +10000] and [Sardonic Swordfighter Mode] to the user"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Awoken Full Throttle Water",
+      "text": "Water abilities don't consume uses, cast speed x2.00/x2.25/x2.50/x2.75/x3.00 for Water abilities at ability rank 1/2/3/4/5, casts Marine Sword after using two Water abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Sardonic Swordfighter Mode",
+      "text": "Grants [Soul Break Gauge +250] to the user after using four Water abilities, removed after triggering"
     }
   ],
   "card_description": [

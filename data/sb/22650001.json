@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (12.60) capped at 99999, 13.60 multiplier if Reynn is alive, causes [Instant KO] (60%)"
+    },
+    {
+      "name": "Instant KO",
+      "text": "Causes [KO] when set"
     }
   ],
   "card_description": [

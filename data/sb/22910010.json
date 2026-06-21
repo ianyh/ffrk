@@ -5,6 +5,34 @@
       "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [Physical High Quick Cast 3] to all allies, Grants [Damage Cap +10000], [Dual Awoken Support Mode I: Iris] and [White Magic Healing Resonance Boost +5%] to the user"
     },
     {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Physical High Quick Cast 3",
+      "text": "Cast speed x3.00 for PHY attacks"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Support Mode I: Iris",
+      "text": "Cast speed x2.00 for White Magic/Monk abilities, casts [HP Stock (500)]/[HP Stock (1000)]/[HP Stock (1500)]/[HP Stock (2000)]/[HP Stock (3000)] to all allies after using White Magic/Monk abilities at rank 1/2/3/4/5"
+    },
+    {
+      "name": "White Magic Healing Resonance Boost +5%",
+      "text": "White Magic abilities restore 5% more HP"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Support Mode II: Iris]"
     }

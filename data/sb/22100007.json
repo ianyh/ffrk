@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Seven group ranged attacks (0.75 each), [Imperil Ice 20%] for 25 seconds, grants ATK and RES +30%, [High Quick Cast 1] and [Ice High Quick Cycle] to the user"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Ice High Quick Cycle",
+      "text": "Grants [High Quick Cast 1] after using a Ice ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores HP for 40% of the target's maximum HP, grants [Protect]"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
     }
   ],
   "card_description": [

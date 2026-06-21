@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single ranged jump attacks (0.71 each), grants [Twin Element Mode II (Wind, Dark)], [Jump Instant Cast] and [Wind, Dark Ability +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Wind, Dark)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Wind/Dark ability"
+    },
+    {
+      "name": "Jump Instant Cast",
+      "text": "Instant cast speed for Jump attacks"
+    },
+    {
+      "name": "Wind, Dark Ability +30% Boost (15s)",
+      "text": "Wind or Dark abilities deal 30% more damage"
     }
   ],
   "card_description": [

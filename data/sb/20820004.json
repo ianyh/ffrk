@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three group attacks (2.00 each), causes [Instant KO] (100%), [DEF +50%] to all allies for 25 seconds"
+    },
+    {
+      "name": "Instant KO",
+      "text": "Causes [KO] when set"
     }
   ],
   "card_description": [

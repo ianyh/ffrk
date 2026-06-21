@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Cause [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to the user"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

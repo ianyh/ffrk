@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (3000)], [Last Stand], [Haste], [Stoneskin: 30%], [High Quick Cast 2], grants [Awoken Sketch] to the user"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Awoken Sketch",
+      "text": "White Magic and Support abilities don't consume uses, cast speed x3.00 for White Magic and Support abilities at ability rank 1/2/3/4/5, grants [HP Stock (500)]/[HP Stock (1000)]/[HP Stock (1500)]/[HP Stock (2000)]/[HP Stock (3000)] to all allies after using a White Magic or Support ability"
     }
   ],
   "card_description": [

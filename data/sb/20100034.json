@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode II (Fire, Wind) v2], [Awoken Blazewind Elite], [Damage Cap +10000] and [Fire/Wind Ability +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Fire, Wind) v2",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Wind with Stacking] after using a Fire/Wind ability"
+    },
+    {
+      "name": "Awoken Blazewind Elite",
+      "text": "Fire and Wind abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Wind Nova after using Fire and Wind abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Fire/Wind Ability +30% Boost (15s)",
+      "text": "Fire or Wind abilities deal 30% more damage"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), grants [Attach Earth], [Black Magic Quick Cast] and [Sweet Coffee Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%"
+    },
+    {
+      "name": "Black Magic Quick Cast",
+      "text": "Cast speed x2.00 for Black Magic abilities"
+    },
+    {
+      "name": "Sweet Coffee Follow-Up",
+      "text": "Casts Sweet Coffee after using a Earth ability"
     }
   ],
   "card_description": [

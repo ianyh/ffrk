@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Grants [Haste], [Protect], [Shell], [High Regen], [Astra] and [Reraise: 40%]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
+    },
+    {
+      "name": "Astra",
+      "text": "Prevents Poison, Silence, Paralyze, Confuse, Slow, Stop, Blind, Sleep, Petrify, Berserk, Sap and Stun once"
+    },
+    {
+      "name": "Reraise: 40%",
+      "text": "Automatically removes KO (40% HP), removed after triggering"
     }
   ],
   "card_description": [

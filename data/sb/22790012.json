@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Fire Stacking], [Attach Fire] and [Instant Cast 1]"
+    },
+    {
+      "name": "Attach Fire Stacking",
+      "text": "Allow to stack Attach Fire, up to Attach Fire 3"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

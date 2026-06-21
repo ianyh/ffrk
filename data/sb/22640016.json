@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Tri-Element Mode II (Earth, Wind, Dark)], [Damage Cap +10000], [Dual Awoken Imperial Mode I (Emperor)] and [Dark/Earth/Wind Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Tri-Element Mode II (Earth, Wind, Dark)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Earth/Wind/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Imperial Mode I (Emperor)",
+      "text": "Dark, Earth and Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark, Earth and Wind abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Dark, Earth and Wind abilities after casting 1/2/3+ Dark, Earth and Wind abilities"
+    },
+    {
+      "name": "Dark/Earth/Wind Resonance +5% Boost",
+      "text": "Dark, Earth and Wind abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Imperial Mode II (Emperor)] to the user, removes [Dual Awoken Imperial Mode I (Emperor)] from the user"
     }

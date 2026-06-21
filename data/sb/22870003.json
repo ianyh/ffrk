@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Removes KO [Raise: 40%]"
+    },
+    {
+      "name": "Raise: 40%",
+      "text": "Removes KO (40% HP)"
     }
   ],
   "card_description": [

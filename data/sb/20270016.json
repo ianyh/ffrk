@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Ice, Holy)], [Elemental Command Mode] and [Gulp] to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Tri-Element Mode III (Fire, Ice, Holy)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Holy 2 with Stacking] after using a Fire/Ice/Holy ability"
+    },
+    {
+      "name": "Elemental Command Mode",
+      "text": "Grants [Conditional Attach Element with Stacking] after using four Samurai or Knight abilities, removed after triggering"
+    },
+    {
+      "name": "Gulp",
+      "text": "Grants [100% Critical 1], [Damage Cap +10000 1] and Proficiency +1 after using two Samurai or Knight abilities, grants [Critical Damage +50% 1] if Hilda is alive after using two Samurai or Knight abilities"
     }
   ],
   "card_description": [

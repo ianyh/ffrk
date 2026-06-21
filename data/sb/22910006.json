@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Regenga] and [Physical High Quick Cast 3]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Physical High Quick Cast 3",
+      "text": "Cast speed x3.00 for PHY attacks"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.72 each), grants [Monk Rank Boost], [Critical Damage +50%] and [Monk Quick Cycle: Non-Elemental] to the user"
+    },
+    {
+      "name": "Monk Rank Boost",
+      "text": "Monk abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Monk Quick Cycle: Non-Elemental",
+      "text": "Grants [Quick Cast 1] after using a Monk ability"
     }
   ],
   "card_description": [

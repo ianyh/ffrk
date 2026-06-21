@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Quartz Eye Mode (Fire, Ice, Lightning)] and [Instant Cast 2]"
+    },
+    {
+      "name": "Quartz Eye Mode (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire] after using a Fire ability, grants [Attach Ice] after using an Ice ability, grants [Attach Lightning] after using an Lightning ability"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

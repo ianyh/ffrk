@@ -2,7 +2,7 @@
   "description": [
     {
       "name": "Entry",
-      "text": "20 single-target Earth/NE physical attacks & single-target Earth/NE Overflow physical attack, removes True Arcane Augment Mode"
+      "text": "En-Earth, En-Earth Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Warp Impact E if at least 100001/300001 damage is dealt"
     },
     {
       "name": "Engaged",
@@ -12,7 +12,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "20 single-target Earth/NE physical attacks & single-target Earth/NE Overflow physical attack, removes True Arcane Augment Mode"
+      "text": "En-Earth, En-Earth Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Warp Impact E if at least 100001/300001 damage is dealt"
     },
     {
       "name": "Engaged",

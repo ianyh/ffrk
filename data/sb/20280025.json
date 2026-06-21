@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [ATK, MND, DEF, RES +15% (8s)], grants [Quick ATB 1] & [Instant Cast 1] to user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

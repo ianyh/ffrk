@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.73 each), grants [Earth Radiant Shield: 75%] and [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Earth Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Earth damage capped at 9999"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

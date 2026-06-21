@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), grants [100% Critical], [Awoken Ninja], [Damage Cap +10000], [Chain Materia Mode II (Earth, Water)], [Ninja Spirit], [Physical Blink Stacking 2] and [Physical Blink 2] to the user"
+    },
+    {
+      "name": "100% Critical",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Awoken Ninja",
+      "text": "Ninja abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Chain Materia Mode II (Earth, Water)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Water with Stacking] after using a Earth/Water ability"
+    },
+    {
+      "name": "Ninja Spirit",
+      "text": "Grants [Ninja +30% Boost 3] to the user after using a Ninja ability, removed after triggering"
+    },
+    {
+      "name": "Physical Blink Stacking 2",
+      "text": "Allows to stack Physical Blink, up to Physical Blink 2"
+    },
+    {
+      "name": "Physical Blink 2",
+      "text": "Evades the next 2 PHY attacks that deal physical, missing HP or fixed damage or NAT attacks that deal physical or fractional damage"
     }
   ],
   "card_description": [

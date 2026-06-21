@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Holy with Stacking] and [High Quick Cast 2]"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

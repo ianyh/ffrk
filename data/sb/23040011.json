@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Seven single attacks at Cap Break Level 1, grants [Attach Holy with Stacking], Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 40% maxHP heal to party, Instant Cast, [Holy Ability Damage +30%, Dualcast Holy & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Four group ranged attacks (1.50 each), causes [Blind] (100%) and [Poison] (100%)"
+    },
+    {
+      "name": "Blind",
+      "text": "ACC -50%, reduces hit rate by 75%, persists after battle, base duration is 30 seconds for characters"
+    },
+    {
+      "name": "Poison",
+      "text": "Damages for 1/64 maximum HP every 5.00 seconds, persists after battle"
     }
   ],
   "card_description": [

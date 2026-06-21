@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), Grants [Quick Cast] and [200% ATB 1] to all allies, Grants [Awoken Faerie Mode] and [Faerie Mode: Follow-up] to the user"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "Awoken Faerie Mode",
+      "text": "Unlimited Black Magic/Dancer hones, cast speed x2.00/2.25/2.50/2.75/3.00 for Black Magic/Dancer abilities at ability rank 1/2/3/4/5, Black Magic and Dancer abilities trigger 1 additional time"
+    },
+    {
+      "name": "Faerie Mode: Follow-up",
+      "text": "Casts Faerie Power after using two Black Magic/Dancer abilities"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), removes KO [Raise: 40%], grants [Haste], grants [High Quick Cast] to the user"
+    },
+    {
+      "name": "Raise: 40%",
+      "text": "Removes KO (40% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

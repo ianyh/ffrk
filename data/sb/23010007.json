@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user"
+    },
+    {
+      "name": "Awoken Stoic Sunglasses",
+      "text": "Unlimited Earth and Lightning hones, Earth and Lightining abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth and Lightning abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Linked Materia Mode II (Lightning, Earth)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Earth with Stacking] after using a Lightning/Earth ability"
+    },
+    {
+      "name": "Deeds Not Words Mode",
+      "text": "Casts Let's Get to Work (Lightning/Earth) after using two Earth or Lightning abilities if the triggering ability deals Lightning/Earth damage"
     }
   ],
   "card_description": [

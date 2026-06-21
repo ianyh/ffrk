@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants Ultra Flash & [Instant ATB 1] to user, +1 LB Gauge\nUltra Flash: After using a Dragoon ability, grants Dragoon Damage +30% for 3 turns to user (max 1 chase)"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

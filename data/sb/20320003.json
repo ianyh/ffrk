@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores HP (50), grants [Protect]"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
     }
   ],
   "card_description": [

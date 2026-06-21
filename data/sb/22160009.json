@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Physical Blink 2] and [Haste], grants [Awoken Love] to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Physical Blink 2",
+      "text": "Evades the next 2 PHY attacks that deal physical, missing HP or fixed damage or NAT attacks that deal physical or fractional damage"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Awoken Love",
+      "text": "White Magic abilities don't consume uses, cast speed x3.00 for White Magic abilities, casts Wave of Mending after using White Magic abilities"
     }
   ],
   "card_description": [

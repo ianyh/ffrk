@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Holy Runic Blade level 0/1/2, removes Arcane Dyad Empowered: Celes (Holy) from the user"
+      "text": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Celes (Holy)], [Holy Runic Blade Damage Tracker] and [Holy Runic Blade Level]"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Celes (Holy)",
+      "text": "Keeps track of the number of uses of Holy Runic Blade (0~2), removed after using Holy Runic Blade two times"
+    },
+    {
+      "name": "Holy Runic Blade Damage Tracker",
+      "text": "Increases Holy Runic Blade level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Celes (Holy)]"
+    },
+    {
+      "name": "Holy Runic Blade Level",
+      "text": "Keeps track of Holy Runic Blade level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Celes (Holy)]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Holy Runic Blade level 0/1/2, removes Arcane Dyad Empowered: Celes (Holy) from the user"
+      "text": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Celes (Holy)], [Holy Runic Blade Damage Tracker] and [Holy Runic Blade Level]"
     },
     {
       "name": "Engaged",

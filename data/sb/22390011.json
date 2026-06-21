@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [Regenga], [DEF +100% (25s)] and [High Quick Cast 2]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "DEF +100% (25s)",
+      "text": "DEF +100%"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

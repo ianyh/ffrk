@@ -2,7 +2,31 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Raijin Special level 0/1/2, removes Arcane Dyad Empowered: Raijin from the user"
+      "text": "Grants [Haste] and [Instant Cast 1], grants [Attach Lightning with Stacking], [Arcane Dyad Empowered: Raijin], [Apex Raijin Special Damage Tracker] and [Apex Raijin Special Level] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Raijin",
+      "text": "Keeps track of the number of uses of Apex Raijin Special (0~2), removed after using Apex Raijin Special two times"
+    },
+    {
+      "name": "Apex Raijin Special Damage Tracker",
+      "text": "Increases Apex Raijin Special level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Raijin]"
+    },
+    {
+      "name": "Apex Raijin Special Level",
+      "text": "Keeps track of Apex Raijin Special level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Raijin]"
     },
     {
       "name": "Engaged",
@@ -12,7 +36,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Raijin Special level 0/1/2, removes Arcane Dyad Empowered: Raijin from the user"
+      "text": "Grants [Haste] and [Instant Cast 1], grants [Attach Lightning with Stacking], [Arcane Dyad Empowered: Raijin], [Apex Raijin Special Damage Tracker] and [Apex Raijin Special Level] to the user"
     },
     {
       "name": "Engaged",

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), causes [DEF, RES and MND -70% (8s)], grants [Instant Cast 1] to all allies, grants [Attach Fire with Stacking] to the user"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
     }
   ],
   "card_description": [

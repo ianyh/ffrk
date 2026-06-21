@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random attacks (0.67 each), causes [Imperil Holy 20%] for 25 seconds, grants [Divine Purge Follow-Up] to the user"
+    },
+    {
+      "name": "Divine Purge Follow-Up",
+      "text": "Casts Divine Purge after using two Knight abilities"
     }
   ],
   "card_description": [

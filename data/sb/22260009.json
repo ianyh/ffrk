@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.73 each), grants [Ice Radiant Shield: 75%] to all allies, grants [High Quick Cast 1] and [Ice High Quick Cycle] to the user"
+    },
+    {
+      "name": "Ice Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Ice damage capped at 9999"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Ice High Quick Cycle",
+      "text": "Grants [High Quick Cast 1] after using a Ice ability"
     }
   ],
   "card_description": [

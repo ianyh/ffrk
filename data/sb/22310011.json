@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Buff Dark 20% (15s)] and [High Quick Cast 2]"
+    },
+    {
+      "name": "Buff Dark 20% (15s)",
+      "text": "Increases Dark damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

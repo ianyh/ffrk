@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (1.50), grants [Rage] to the user for 2 turns"
+    },
+    {
+      "name": "Rage",
+      "text": "Forces a specified action, affects targeting (single: random enemy/ally; group: all enemies/allies if the action's auto-target group is enemies/allies), resets ATB when removed"
     }
   ],
   "card_description": [

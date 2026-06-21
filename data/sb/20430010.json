@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Fire], [Damage Cap +10000], [Blacksmith's Daughter Mode] and [Battering Heat] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Awoken Fire",
+      "text": "Fire abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Blacksmith's Daughter Mode",
+      "text": "Casts Fist of Kazus after using a Fire ability"
+    },
+    {
+      "name": "Battering Heat",
+      "text": "Grants [Attach Fire] after using two Fire abilities"
     }
   ],
   "card_description": [

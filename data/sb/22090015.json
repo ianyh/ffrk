@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [High Quick Cast 1] and [Double Sphere Mode II (Fire, Dark)]"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Double Sphere Mode II (Fire, Dark)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Dark with Stacking] after using a Fire/Dark ability"
     }
   ],
   "card_description": [

@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Terra)] and [Fire Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Fire Mode I (Terra)",
+      "text": "Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 2 additional times, casts speed x2.00 for equipped Fire abilities"
+    },
+    {
+      "name": "Fire Resonance +5% Boost",
+      "text": "Fire abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Terra)]"
     }

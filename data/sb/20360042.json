@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Element Mode II (Lightning, Holy)], [Instant Cast 2], and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Lightning, Holy)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Holy with Stacking] after using a Lightning/Holy ability"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

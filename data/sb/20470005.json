@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random ranged attacks (0.78 each), grants [Shell] to all allies"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (3.31) capped at 99999, 3.55 multiplier if exploiting Lightning or Dark weakness, grants [Twin Element Mode II (Lightning, Dark)] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Lightning, Dark)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] after using a Lightning/Dark ability"
     }
   ],
   "card_description": [

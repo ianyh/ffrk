@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Awoken High Commander], [Damage Cap +10000], [Twin Element Mode (Lightning, Dark)], [Bitter Vengeance Mode] and [Grievous Slash] to the user"
+    },
+    {
+      "name": "Awoken High Commander",
+      "text": "Lightning and Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning and Dark abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Dark)",
+      "text": "Grants [Attach Lightning]/[Attach Dark] after using a Lightning/Dark ability"
+    },
+    {
+      "name": "Bitter Vengeance Mode",
+      "text": "Casts Grudge after using a Lightning or Dark ability, removed after triggering two times"
+    },
+    {
+      "name": "Grievous Slash",
+      "text": "Grants [Conditional Attach Element] (based on the Attach Element of the user) to allies in party slots 1 and 5 after using a Lightning or Dark ability, removed if the character hasn't Awoken High Commander, removed after using a Lightning or Dark ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "[ATK, MAG and RES +30%], grants [Haste], grants [Brave Mode] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

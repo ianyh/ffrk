@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (1.88 each), grants [Physical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user"
+    },
+    {
+      "name": "Physical Blink 1",
+      "text": "Evades the next PHY attack that deals physical, missing HP or fixed damage or NAT attack that deals physical or fractional damage"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Burst Mode",
+      "text": "Replaces the Attack and Defend commands, ATK, DEF, MAG, RES, MND, ACC and EVA +20%, SPD +10%"
     }
   ],
   "card_description": [

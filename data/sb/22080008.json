@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten random attacks (1.64 each), causes [Imperil Dark 20%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

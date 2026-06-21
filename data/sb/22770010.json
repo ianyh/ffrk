@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ XII members are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Imperil Prismatic 10% (15s)",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], [Imperil Lightning 10% (15s)], [Imperil Earth 10% (15s)], [Imperil Wind 10% (15s)], [Imperil Water 10% (15s)], [Imperil Holy 10% (15s)], [Imperil Dark 10% (15s)] and [Imperil Poison 10% (15s)]"
+    },
+    {
+      "name": "Imperil Prismatic 30% (15s)",
+      "text": "Causes [Imperil Fire 30% (15s)], [Imperil Ice 30% (15s)], [Imperil Lightning 30% (15s)], [Imperil Earth 30% (15s)], [Imperil Wind 30% (15s)], [Imperil Water 30% (15s)], [Imperil Holy 30% (15s)], [Imperil Dark 30% (15s)] and [Imperil Poison 30% (15s)]"
+    },
+    {
+      "name": "Attach Lightning 3 with Stacking",
+      "text": "Increase Attach Lightning Level by 3 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

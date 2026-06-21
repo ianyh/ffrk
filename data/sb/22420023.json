@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000] and [Beg For Your Life Mode] to the user"
+    },
+    {
+      "name": "ATK and MND +30%, DEF and RES +25% (25s)",
+      "text": "ATK and MND +30%, DEF and RES +25%"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Awoken Water",
+      "text": "Water abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Beg For Your Life Mode",
+      "text": "Casts I'll Hit You! after another ally casts a Spellblade ability, removed after triggering five times"
     }
   ],
   "card_description": [

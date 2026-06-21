@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random attacks (0.71 each), grants [Chaotic Moon] to the user"
+    },
+    {
+      "name": "Chaotic Moon",
+      "text": "Grants [High Quick Cast 1] after using a Water ability, casts Lurking Shadow after using a Ninja ability if the user has any Physical Blink"
     }
   ],
   "card_description": [

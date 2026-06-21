@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Stout Archer Mode] to the user"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Stout Archer Mode",
+      "text": "Casts Mash VIII after another ally uses an Earth ability, grants [Instant ATB 3] and [Earth Ability +30% Boost 3] after triggering six times, removed after triggering six times"
     }
   ],
   "card_description": [

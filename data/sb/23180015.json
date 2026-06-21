@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single ranged attack (3.36) capped at 99999, 3.60 multiplier if exploiting Lightning weakness, grants [Soul Break Gauge +250] to the user"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
     }
   ],
   "card_description": [

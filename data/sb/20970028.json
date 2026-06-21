@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Rikku)] and [Water Resonance +5% Boost] to the user"
     },
     {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Water Mode I (Rikku)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 2 additional times, causes [Imperil Water 10% (15s)] and [ATK, DEF, MAG and RES -40% (8s)] after using two Water abilities"
+    },
+    {
+      "name": "Water Resonance +5% Boost",
+      "text": "Water abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Rikku)] to the user, removes [Dual Awoken Water Mode I (Rikku)] from the user"
     }

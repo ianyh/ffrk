@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Knight of the Round level 0/1/2, removes Arcane Dyad Empowered: Biggs from the user"
+      "text": "Grants [Attach Earth with Stacking], [Instant Cast 2], [Arcane Dyad Empowered: Biggs], [Knight of the Round Damage Tracker] and [Knight of the Round Level]"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Biggs",
+      "text": "Keeps track of the number of uses of Knight of the Round (0~2), removed after using Knight of the Round two times"
+    },
+    {
+      "name": "Knight of the Round Damage Tracker",
+      "text": "Increases Knight of the Round level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Biggs]"
+    },
+    {
+      "name": "Knight of the Round Level",
+      "text": "Keeps track of Knight of the Round level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Biggs]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Knight of the Round level 0/1/2, removes Arcane Dyad Empowered: Biggs from the user"
+      "text": "Grants [Attach Earth with Stacking], [Instant Cast 2], [Arcane Dyad Empowered: Biggs], [Knight of the Round Damage Tracker] and [Knight of the Round Level]"
     },
     {
       "name": "Engaged",

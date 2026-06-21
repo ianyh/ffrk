@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Frost Sanction level 0/1/2, removes Arcane Dyad Empowered: Snow from the user"
+      "text": "Grants [Attach Ice with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Snow], [Frost Sanction Damage Tracker] and [Frost Sanction Level]"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Snow",
+      "text": "Keeps track of the number of uses of Frost Sanction (0~2), removed after using Frost Sanction two times"
+    },
+    {
+      "name": "Frost Sanction Damage Tracker",
+      "text": "Increases Frost Sanction level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Snow]"
+    },
+    {
+      "name": "Frost Sanction Level",
+      "text": "Keeps track of Frost Sanction level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Snow]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Frost Sanction level 0/1/2, removes Arcane Dyad Empowered: Snow from the user"
+      "text": "Grants [Attach Ice with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Snow], [Frost Sanction Damage Tracker] and [Frost Sanction Level]"
     },
     {
       "name": "Engaged",

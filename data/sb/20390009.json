@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten random ranged attacks (0.60 each), [ATK, DEF and MAG -70%] for 8 seconds, grants [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Samurai +30% Boost (15s)], [200% ATB 1] and [Stoneskin: 30%] to the user, damages the user for 99% current HP\n"
+    },
+    {
+      "name": "Samurai +30% Boost (15s)",
+      "text": "Samurai abilities deal 30% more damage"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

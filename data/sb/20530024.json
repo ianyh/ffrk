@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Royal Shock level 0/1, removes Arcane Dyad Empowered: Edgar from the user"
+      "text": "Grants [Change Machinery Mode (Fire, Lightning, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Edgar], [Royal Shock Damage Tracker] and [Royal Shock Level]"
+    },
+    {
+      "name": "Change Machinery Mode (Fire, Lightning, Poison)",
+      "text": "Grants [Attach Fire]/[Attach Lightning]/[Attach Poison] after using a Fire/Lightning/Poison ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Edgar",
+      "text": "Keeps track of the number of uses of Royal Shock (0~2), removed after using Royal Shock two times"
+    },
+    {
+      "name": "Royal Shock Damage Tracker",
+      "text": "Increases Royal Shock level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Edgar]"
+    },
+    {
+      "name": "Royal Shock Level",
+      "text": "Keeps track of Royal Shock level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Edgar]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Royal Shock level 0/1, removes Arcane Dyad Empowered: Edgar from the user"
+      "text": "Grants [Change Machinery Mode (Fire, Lightning, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Edgar], [Royal Shock Damage Tracker] and [Royal Shock Level]"
     },
     {
       "name": "Engaged",

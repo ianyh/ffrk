@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "[ATK and MAG +30%], grants [Haste]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

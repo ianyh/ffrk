@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quick Cast 2]/[Quick Cast 3] to all allies if 0-3/4+ FF5 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Veteran's Resolve Mode] to the user if 4+ FF5 allies are alive"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Veteran's Resolve Mode",
+      "text": "Casts Dawn Onslaught 1 after using Indomitable Strike, casts Dawn Onslaught 2 after using Immortal Strike, removed after triggering three times, removed if the character hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

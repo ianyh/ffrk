@@ -5,6 +5,26 @@
       "text": "Grants [ATK, MAG and MND +30% (25s)], [Quick Cast 3] and [Fire/Earth/Ice Resonance +3% Boost], grants [Dual Awoken Sovereign Mode I (Gordon)] to the user, grants [100% Critical (25s)] to all allies with any Attach Fire, Attach Earth or Attach Ice"
     },
     {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Fire/Earth/Ice Resonance +3% Boost",
+      "text": "Fire, Earth and Ice abilities deal 3% more damage"
+    },
+    {
+      "name": "Dual Awoken Sovereign Mode I (Gordon)",
+      "text": "Instant cast speed for Support abilities, casts Dual Sorrow of a Nation after using Support abilities"
+    },
+    {
+      "name": "100% Critical (25s)",
+      "text": "Critical chance =100%"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Sovereign Mode II (Gordon)]"
     }

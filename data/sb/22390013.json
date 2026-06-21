@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), removes KO [Raise: 100%], grants [Holy Quick Cast 4] and [Resist Dark 20% (15s)], grants [Synchro Mode], [Damage Cap +10000], [Revived Deadly Bouquet Mode] and Queen's Reign +1 to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Holy Quick Cast 4",
+      "text": "Cast speed x2.00 for Holy attacks"
+    },
+    {
+      "name": "Resist Dark 20% (15s)",
+      "text": "Dark Resistance +20%, cumulable"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Revived Deadly Bouquet Mode",
+      "text": "Grants [Instant ATB 1], [Instant Cast 1] and Queen's Reign +1 when HP fall below 20%, removed after triggering"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Magical Quick Cast 3] to all allies"
+    },
+    {
+      "name": "Magical Quick Cast 3",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
     }
   ],
   "card_description": [

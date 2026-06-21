@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Instant Cast 1] to all allies, and grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies if there are 4+ monks in the party"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "ATK and MND +30%, DEF and RES +25% (25s)",
+      "text": "ATK and MND +30%, DEF and RES +25%"
     }
   ],
   "card_description": [

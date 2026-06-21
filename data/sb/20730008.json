@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates IV Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

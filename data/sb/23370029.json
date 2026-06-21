@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Instant Cast 2], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

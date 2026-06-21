@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "7 single attacks (0.90 each) capped at 19999, [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Clive] to the user\nCrystal Force Mode: Clive: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce, grants [Fire Ability Instant Cast 1] and [True Damage Cap 199999 1] to the user after using Crustsal Force II"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Fire Ability Instant Cast 1",
+      "text": "Instant cast speed for Fire attacks"
+    },
+    {
+      "name": "True Damage Cap 199999 1",
+      "text": "Sets the True damage/healing cap to 199999"
     }
   ],
   "card_description": [

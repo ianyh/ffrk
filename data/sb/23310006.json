@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Three single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [100% Critical 2] and [High Quick Cast 2] to the user"
+    },
+    {
+      "name": "100% Critical 2",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

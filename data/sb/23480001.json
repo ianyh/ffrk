@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [High Quick Cast 1] and [Dual Blink 2], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Dual Blink 2",
+      "text": "Evades the next 2 attacks that could be evaded with [Physical Blink] or [Magical Blink], lower priority than [Physical Blink] and [Magical Blink]"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

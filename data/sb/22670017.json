@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Ultra Particle Beam level 0/1, removes Arcane Dyad Empowered: Cloud of Darkness from the user"
+      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Dark) v2",
+      "text": "Grants [Attach Lightning]/[Attach Dark] after using a Lightning or Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Cloud of Darkness",
+      "text": "Keeps track of the number of uses of Ultra Particle Beam (0~2), removed after using Ultra Particle Beam two times"
+    },
+    {
+      "name": "Ultra Particle Beam Damage Tracker",
+      "text": "Increases Ultra Particle Beam level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Cloud of Darkness]"
+    },
+    {
+      "name": "Ultra Particle Beam Level",
+      "text": "Keeps track of Ultra Particle Beam level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Cloud of Darkness]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Ultra Particle Beam level 0/1, removes Arcane Dyad Empowered: Cloud of Darkness from the user"
+      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
     },
     {
       "name": "Engaged",

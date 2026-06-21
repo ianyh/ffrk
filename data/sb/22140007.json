@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "[ATK, DEF and MAG +30%] for 25 seconds, grants [Instant Cast 1]"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

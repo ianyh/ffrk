@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Cruelest Angel level 0/1/2, removes Arcane Dyad Empowered: Kefka from the user"
+      "text": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
+    },
+    {
+      "name": "Twin Element Mode II (Dark, Poison)",
+      "text": "Grants [Attach Dark with Stacking]/[Attach Poison with Stacking] after using a Dark/Poison ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kefka",
+      "text": "Keeps track of the number of uses of Cruelest Angel (0~2), removed after using Cruelest Angel two times"
+    },
+    {
+      "name": "Cruelest Angel Damage Tracker",
+      "text": "Increases Cruelest Angel level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kefka]"
+    },
+    {
+      "name": "Cruelest Angel Level",
+      "text": "Keeps track of Cruelest Angel level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Kefka]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Cruelest Angel level 0/1/2, removes Arcane Dyad Empowered: Kefka from the user"
+      "text": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
     },
     {
       "name": "Engaged",

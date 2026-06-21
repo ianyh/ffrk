@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.69 each), causes [ATK, DEF, MAG, RES and MND -50% (8s)], grants [Twin Element Mode (Fire, Holy)] and [Quick Cast] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND -50% (8s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "Twin Element Mode (Fire, Holy)",
+      "text": "Grants [Attach Fire]/[Attach Holy] after using a Fire/Holy ability"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

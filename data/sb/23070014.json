@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Tantalus Blade level 0/1, removes Arcane Dyad Empowered: Marcus from the user"
+      "text": "Grants [Twin Element Mode (Wind, Poison) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Marcus], [Tantalus Blade Damage Tracker] and [Tantalus Blade Level]"
+    },
+    {
+      "name": "Twin Element Mode (Wind, Poison) v2",
+      "text": "Grants [Attach Wind]/[Attach Poison] after using a Wind/Poison ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Marcus",
+      "text": "Keeps track of the number of uses of Tantalus Blade (0~2), removed after using Tantalus Blade two times"
+    },
+    {
+      "name": "Tantalus Blade Damage Tracker",
+      "text": "Increases Tantalus Blade level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Marcus]"
+    },
+    {
+      "name": "Tantalus Blade Level",
+      "text": "Keeps track of Tantalus Blade level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Marcus]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Tantalus Blade level 0/1, removes Arcane Dyad Empowered: Marcus from the user"
+      "text": "Grants [Twin Element Mode (Wind, Poison) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Marcus], [Tantalus Blade Damage Tracker] and [Tantalus Blade Level]"
     },
     {
       "name": "Engaged",

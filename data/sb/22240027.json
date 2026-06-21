@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Quick Cast 2], [Buff Dark 20% (15s)] and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Buff Dark 20% (15s)",
+      "text": "Increases Dark damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

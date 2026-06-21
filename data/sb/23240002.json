@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.70 each), grants [50% Critical] and [Connected Hearts EX Mode] to the user"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "Connected Hearts EX Mode",
+      "text": "ATK +30%, casts Judgment after using a Fire, Ice or Lightning Spellblade ability"
     }
   ],
   "card_description": [

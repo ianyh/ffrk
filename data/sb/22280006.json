@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.63 each), [ATK, MAG and MND -30%] for 25 seconds, grants [High Quick Cast] and [Brave Mode] to the user"
+    },
+    {
+      "name": "High Quick Cast",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

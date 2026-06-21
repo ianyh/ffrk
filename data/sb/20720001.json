@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Causes [Doom: 60] (100%)"
+    },
+    {
+      "name": "Doom: 60",
+      "text": "Causes [Doom] with a 60 seconds timer"
     }
   ],
   "card_description": [

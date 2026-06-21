@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [Haste] and [50% Critical] to all allies, Grants [High Quick Cast] and [Judge's Apocrypha] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "High Quick Cast",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Judge's Apocrypha",
+      "text": "Grants [Judge's Critical Chance 60%]/[Judge's Critical Chance 70%]/[Judge's Critical Chance 80%]/[Judge's Critical Chance 90%]/[Judge's Critical Chance 100%] to all allies for 15 seconds after using 1/2/3/4/5+ Support abilities"
     }
   ],
   "card_description": [

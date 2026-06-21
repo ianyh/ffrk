@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [50% Damage Reduction Barrier 2] and [High Quick Cast 2]"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 2",
+      "text": "Reduces damage taken by 50% for the next two attacks"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

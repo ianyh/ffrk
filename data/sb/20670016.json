@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Duel Mode] to the user"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Duel Mode",
+      "text": "After using two of Booya (Duel Mode) or Heel Drop, grants [Duel 4S Mode] if the character has 4S level 2 and 6S level 0, [Duel 6S Mode] if the character has 4S level 0 and 6S level 2, or [Duel 9S Mode] if the character has 4S level 1 and 6S level 1, removed after triggering, removed if the character hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

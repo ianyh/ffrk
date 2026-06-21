@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "ATK/MAG/DEF/RES -50% to all targets; grants [ATK/MND +50%, DEF +30%] and [Instant Cast 2] to party; grants [Crystal Force Mode] to user\nCrystal Force Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Grants [Deadly Strikes +30% 2] & [40% Damage Reduction Barrier 2] to party, Instant Cast, grants [200% ATB 1] to user"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Deadly Strikes +30% 2",
+      "text": "Critical hits deal 30% more damage (additive with the base critical coefficient and other Critical Damage statuses)"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 2",
+      "text": "Reduces damage taken by 40% for the next two attacks"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

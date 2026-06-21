@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Brave Mode] to the user"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (7.28) capped at 99999, 7.79 multiplier if exploiting elemental weakness, grants [Tri-Element Mode II (Earth, Wind, Dark)] to the user"
+    },
+    {
+      "name": "Tri-Element Mode II (Earth, Wind, Dark)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Earth/Wind/Dark ability"
     }
   ],
   "card_description": [

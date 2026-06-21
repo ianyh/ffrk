@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Heartless Sorceress Mode] to the user"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Attach Ice 3 with Stacking",
+      "text": "Increase Attach Ice Level by 3 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Heartless Sorceress Mode",
+      "text": "Casts Dark Manafrost when any Damage Reduction Barrier is removed"
     }
   ],
   "card_description": [

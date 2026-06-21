@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Lightning with Stacking] and [Instant Cast 1]"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

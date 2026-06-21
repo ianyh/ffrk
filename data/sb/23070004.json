@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.63 each), causes [Imperil Wind 20%] for 25 seconds, grants [Swift Poison Follow-Up] to the user"
+    },
+    {
+      "name": "Swift Poison Follow-Up",
+      "text": "Casts Swift Poison after using a Thief ability"
     }
   ],
   "card_description": [

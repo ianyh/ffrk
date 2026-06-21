@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Poison Damage +30% (15s)] to all allies, grants [Damage Cap +10000], [Attach Poison 3 with Stacking], and [Synchro Mode] to the user"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Poison 3 with Stacking",
+      "text": "Increase Attach Poison Level by 3 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
     }
   ],
   "card_description": [

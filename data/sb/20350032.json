@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK and DEF +30% (25s)], [Switch Draw Mode II (Fire, Ice)], [Awoken Lion], [Damage Cap +10000] and [Spellblade +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "ATK and DEF +30% (25s)",
+      "text": "ATK and DEF +30%"
+    },
+    {
+      "name": "Switch Draw Mode II (Fire, Ice)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking] after using a Fire/Ice ability"
+    },
+    {
+      "name": "Awoken Lion",
+      "text": "Ice and Fire abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Ice and Fire abilities at ability rank 1/2/3/4/5, casts Draw & Stock after using two Ice or Fire abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Spellblade +30% Boost (15s)",
+      "text": "Spellblade abilities deal 30% more damage"
     }
   ],
   "card_description": [

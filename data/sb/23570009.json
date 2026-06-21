@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "15 single attacks (0.60 each), grants [PHY +30% Boost (15s)] to all allies, grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], and [Physical Quick Cast] to the user"
+    },
+    {
+      "name": "PHY +30% Boost (15s)",
+      "text": "PHY attacks deal 30% more damage"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Awoken Fire",
+      "text": "Fire abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Physical Quick Cast",
+      "text": "Cast speed x2.00 for PHY attacks"
     }
   ],
   "card_description": [

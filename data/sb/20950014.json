@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Tri-Element Mode II (Earth, Wind, Poison)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Tri-Element Mode II (Earth, Wind, Poison)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Poison with Stacking] after using a Earth/Wind/Poison ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

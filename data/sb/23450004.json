@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.73 each), grants [Buff Wind 10% (15s)] to all allies, grants [Attach Wind] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Buff Wind 10% (15s)",
+      "text": "Increases Wind damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

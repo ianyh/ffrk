@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Quad Element Mode II (Fire, Earth, Wind, Poison)]"
+    },
+    {
+      "name": "Quad Element Mode II (Fire, Earth, Wind, Poison)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Poison with Stacking] after using a Fire/Earth/Wind/Poison ability"
     }
   ],
   "card_description": [

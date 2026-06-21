@@ -5,6 +5,26 @@
       "text": "Grants [ATK, DEF, MAG and RES +30% (25s)] and [Quick Cast 3] to all allies, grants [Buff Prismatic 20% (15s)] to all allies, grants [Dual Awoken Oracle of Light Mode I (Minfilia)] to the user, grants [XIV Resonance +3% Boost] to all FFXIV allies"
     },
     {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Buff Prismatic 20% (15s)",
+      "text": "Grants [Buff Fire 20% (15s)], [Buff Ice 20% (15s)], [Buff Lightning 20% (15s)], [Buff Earth 20% (15s)], [Buff Wind 20% (15s)], [Buff Water 20% (15s)], [Buff Holy 20% (15s)], [Buff Dark 20% (15s)] and [Buff Poison 20% (15s)]"
+    },
+    {
+      "name": "Dual Awoken Oracle of Light Mode I (Minfilia)",
+      "text": "Cast speed x2.00 for Knight and Support abilities, grants [Quick Cast 1], [HP Stock (1000)], [Buff Prismatic 10% (5s)] to all allies after using Knight or Support abilities"
+    },
+    {
+      "name": "XIV Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is XIV"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Oracle of Light Mode II (Minfilia)]"
     }

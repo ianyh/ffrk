@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (11.25/12.00/12.75/13.50) capped at 99999 scaling with [Thunderfall Uses]"
+    },
+    {
+      "name": "Thunderfall Uses",
+      "text": "Keeps track of the number of uses of Thunderfall (0~3)"
     }
   ],
   "card_description": [

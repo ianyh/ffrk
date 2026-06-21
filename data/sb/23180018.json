@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (?) capped at 19999, activates Lightning Chain (max 150, field +0%) or adds 25 to the current Lightning Chain maximum limit, grants [Chain Force Mode (King - Lightning)], and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

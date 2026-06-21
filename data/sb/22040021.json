@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.70 each), grants [Chain Materia Mode II (Earth, Water)] and [Ninja +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Chain Materia Mode II (Earth, Water)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Water with Stacking] after using a Earth/Water ability"
+    },
+    {
+      "name": "Ninja +30% Boost (15s)",
+      "text": "Ninja abilities deal 30% more damage"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [PHY +30% Boost (15s)] and [High Quick Cast 3], grants [Awoken Father] and [Exertion Mode] to the user"
+    },
+    {
+      "name": "PHY +30% Boost (15s)",
+      "text": "PHY attacks deal 30% more damage"
+    },
+    {
+      "name": "High Quick Cast 3",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Awoken Father",
+      "text": "Machinist and Support abilities don't consume uses, cast speed x3.00 for Machinist and Support abilities, grants [40% Damage Reduction Barrier 1] to all allies after using a Machinist or Support ability"
+    },
+    {
+      "name": "Exertion Mode",
+      "text": "Machinist abilities trigger 1 additional time, casts Tether's End after using three Machinist or Support abilities"
     }
   ],
   "card_description": [

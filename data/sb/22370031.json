@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Soul Drive Mode: Gabranth] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Soul Drive Mode: Gabranth",
+      "text": "Reduces the SB points cost for Soul Breaks by 250, instant cast speed for Soul Breaks, grants [200% ATB 1] after using a Soul Break, grants [Attach Dark] to all allies without any Infusion or with [Dark Infusion] after using a Soul Break, removed after triggering, removed if the character hasn't [Soul Drive Mode]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

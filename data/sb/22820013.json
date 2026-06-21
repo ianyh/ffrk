@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Synaptic Net Dive level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Shelke from the user"
+      "text": "Causes [Imperil Lightning 20% (15s)], grants [Buff Lightning 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Shelke], [Apex Synaptic Net Dive Ability Tracker] and [Apex Synaptic Net Dive Level] to the user"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable"
+    },
+    {
+      "name": "Buff Lightning 20% (15s)",
+      "text": "Increases Lightning damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Shelke",
+      "text": "Keeps track of the number of uses of Apex Synaptic Net Dive (0~2), removed after using Apex Synaptic Net Dive two times"
+    },
+    {
+      "name": "Apex Synaptic Net Dive Ability Tracker",
+      "text": "Increases Apex Synaptic Net Dive level by 1 after using 7 Celerity or Support abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Shelke]"
+    },
+    {
+      "name": "Apex Synaptic Net Dive Level",
+      "text": "Keeps track of Apex Synaptic Net Dive level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Shelke]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Synaptic Net Dive level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Shelke from the user"
+      "text": "Causes [Imperil Lightning 20% (15s)], grants [Buff Lightning 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Shelke], [Apex Synaptic Net Dive Ability Tracker] and [Apex Synaptic Net Dive Level] to the user"
     },
     {
       "name": "Engaged",

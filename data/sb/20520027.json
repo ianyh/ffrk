@@ -5,6 +5,26 @@
       "text": "Seven single attacks (2.69 each) capped at 19999, restores HP (55) to all allies, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Kindred Mode I (Yuna)] and [Holy Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Kindred Mode I (Yuna)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 1 additional time, grants [Quick Cast 1] and Summoning smart ether 1 to the user after casting Summoning abilities"
+    },
+    {
+      "name": "Holy Resonance +5% Boost",
+      "text": "Holy abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants Summoning smart ether 2, [Instant ATB 1] and [Dual Awoken Kindred Mode II (Yuna)]"
     }

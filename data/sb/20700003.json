@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Three single ranged attacks (1.70 each), causes [Blind] (21%) and [Silence] (21%)"
+    },
+    {
+      "name": "Blind",
+      "text": "ACC -50%, reduces hit rate by 75%, persists after battle, base duration is 30 seconds for characters"
+    },
+    {
+      "name": "Silence",
+      "text": "Disables BLK, WHT, BLU and SUM actions, persists after battle"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Causes [Imperil Wind 40% (5s)] and [Imperil Poison 40% (5s)], grants [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "Imperil Wind 40% (5s)",
+      "text": "Wind Resistance -40%, cumulable"
+    },
+    {
+      "name": "Imperil Poison 40% (5s)",
+      "text": "Poison Resistance -40%, cumulable"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

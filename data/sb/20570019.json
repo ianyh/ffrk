@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Steiner Trance] to the user"
+    },
+    {
+      "name": "Tri-Element Mode III (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Steiner Trance",
+      "text": "ATK and DEF +25%, Fire, Ice, Lightning, Earth, Wind, Water, Holy, Dark and Poison attacks deal 25% more damage"
     }
   ],
   "card_description": [

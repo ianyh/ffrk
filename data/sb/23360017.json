@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Damage Cap +10000], [Awoken Calm Might Mode], [Silent Fury Mode] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Awoken Calm Might Mode",
+      "text": "Monk abilities don't consume uses, Monk abilities trigger 1 additional time, chases Monk abilities with Ice Speed Fist"
+    },
+    {
+      "name": "Silent Fury Mode",
+      "text": "Ice abilities deal 10/20/30% more damage after using 0/1/2+ Ice abilities"
     }
   ],
   "card_description": [

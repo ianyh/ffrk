@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Regen], and [Quick Cast 3] to all allies, grants [Awoken Decorous Mode] to the user"
+    },
+    {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Awoken Decorous Mode",
+      "text": "White Magic and Bard abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for White Magic and Bard abilities at ability rank 1/2/3/4/5, chases White Magic and Bard abilities with Healing Melody"
     }
   ],
   "card_description": [

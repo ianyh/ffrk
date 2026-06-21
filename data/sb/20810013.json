@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.72 each), grants [Fire Radiant Shield: 75%] to all allies, grants [High Quick Cast 2] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Fire Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Fire damage capped at 9999"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

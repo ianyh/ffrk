@@ -5,6 +5,26 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)] to all allies, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Machina - 2)] and [Earth Resonance +5% Boost] to the user"
     },
     {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Earth Mode I (Machina - 2)",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 1 additional time, cast speed x2.00 for Earth abilities, casts Dual Rush Blade after using two Earth abilities"
+    },
+    {
+      "name": "Earth Resonance +5% Boost",
+      "text": "Earth abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Machina - 2)] to the user"
     }

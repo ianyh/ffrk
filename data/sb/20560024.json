@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [MAG +30%, RES +25% (25s)], [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Earth Ability Instant Cast (15s)], and [Rockslide VIII Finisher] to the user"
+    },
+    {
+      "name": "MAG +30%, RES +25% (25s)",
+      "text": "MAG +30%, RES +25%"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Awoken Earth",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Earth Ability Instant Cast (15s)",
+      "text": "Instant cast speed for Earth abilities"
+    },
+    {
+      "name": "Rockslide VIII Finisher",
+      "text": "Casts Rockslide VIII when [Awoken Earth] is removed"
     }
   ],
   "card_description": [

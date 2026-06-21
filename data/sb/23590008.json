@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants Semi Prime Mode, [Soul Break Gauge +250], [Quick ATB 1] to user\nSemi-Prime Mode: [MAG/DEF/RES +50%, Weakness Damage +30% & Instant Cast] for 5 seconds"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
     }
   ],
   "card_description": [

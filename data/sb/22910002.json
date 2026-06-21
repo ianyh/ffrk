@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Five group attacks (2.80 each), grants [Haste] and [Critical Chance 50%] to all allies"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three single ranged attacks (1.35 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (40%)"
+    },
+    {
+      "name": "Instant KO",
+      "text": "Causes [KO] when set"
     }
   ],
   "card_description": [

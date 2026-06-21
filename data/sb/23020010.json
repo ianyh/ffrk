@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Linked Materia Mode II (Fire, Lightning)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Linked Materia Mode II (Fire, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking] after using a Fire/Lightning ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

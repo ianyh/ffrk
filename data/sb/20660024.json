@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Zack v2)] and [Wind Resonance +5% Boost] to the user"
     },
     {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Wind Mode I (Zack v2)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 2 additional times, attacks deal 5%/10%/15%/20% additional critical damage for equipped Wind abilities after casting 1/2/3/4+ Wind abilities"
+    },
+    {
+      "name": "Wind Resonance +5% Boost",
+      "text": "Wind abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Zack v2)] to the user"
     }

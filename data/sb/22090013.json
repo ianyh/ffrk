@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [100% Critical 1], [Critical Damage +50% 1] and [Instant Cast 1]"
+    },
+    {
+      "name": "100% Critical 1",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Critical Damage +50% 1",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

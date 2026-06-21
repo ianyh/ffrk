@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND -50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

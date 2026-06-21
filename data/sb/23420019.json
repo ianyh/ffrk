@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "15 single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Samurai], and [Damage Cap +10000] to the user, grants [Weakness +9% Boost (15s)]/[Weakness +30% Boost (15s)] and [50% Critical (15s)]/[100% Critical (15s)] to all allies with 0-3/4+ XV allies"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Awoken Samurai",
+      "text": "Samurai abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Weakness +9% Boost (15s)",
+      "text": "Increases damage dealt by 9% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "Weakness +30% Boost (15s)",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "50% Critical (15s)",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "100% Critical (15s)",
+      "text": "Critical chance =100%"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single hybrid attacks (0.60 or 225.0 each), grants [Synchro Mode], [Damage Cap +10000], [Attach Poison 3 with Stacking] and [Vengeful Prince Mode] to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Poison 3 with Stacking",
+      "text": "Increase Attach Poison Level by 3 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Vengeful Prince Mode",
+      "text": "Casts Eblan Style Greased Lightning after another ally uses a Poison ability, grants [Instant ATB 3] and [Poison Ability +30% Boost 3] to the user after casting Eblan Style Greased Lightning six times, removed after casting Eblan Style Greased Lightning six times"
     }
   ],
   "card_description": [

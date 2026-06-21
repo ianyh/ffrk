@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Quick Cast] and [Dark Drain]"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Dark Drain",
+      "text": "Restores HP for 10% of the damage dealt with Dark attacks"
     }
   ],
   "card_description": [

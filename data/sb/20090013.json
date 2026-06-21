@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Magical High Quick Cast] and [Summoning Rank Boost]"
+    },
+    {
+      "name": "Magical High Quick Cast",
+      "text": "Cast speed x3.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Summoning Rank Boost",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting Dark weakness, grants [40% Damage Reduction Barrier 2] to all allies"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 2",
+      "text": "Reduces damage taken by 40% for the next two attacks"
     }
   ],
   "card_description": [

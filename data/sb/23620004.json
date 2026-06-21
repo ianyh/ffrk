@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each). Causes [Imperil Prismatic 30% (15s)] on enemy. Grants [Synchro Mode], [Fenrir's Howl] to user."
+    },
+    {
+      "name": "Imperil Prismatic 30% (15s)",
+      "text": "Causes [Imperil Fire 30% (15s)], [Imperil Ice 30% (15s)], [Imperil Lightning 30% (15s)], [Imperil Earth 30% (15s)], [Imperil Wind 30% (15s)], [Imperil Water 30% (15s)], [Imperil Holy 30% (15s)], [Imperil Dark 30% (15s)] and [Imperil Poison 30% (15s)]"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Fenrir's Howl",
+      "text": "Triggers Fenrir Howl after using Support, Celerity, or Black Magic abilities (max 3)"
     }
   ],
   "card_description": [

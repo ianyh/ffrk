@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [10% Damage Reduction Barrier 1] and [Eye for an Eye Mode] to the user"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "10% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 10% for the next attack"
+    },
+    {
+      "name": "Eye for an Eye Mode",
+      "text": "Casts Merciless Counter when any Damage Reduction Barrier is removed, removed after triggering 6 times, removed if the character hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

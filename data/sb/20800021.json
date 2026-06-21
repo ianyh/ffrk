@@ -5,6 +5,30 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Ingus)], [Earth Resonance +5% Boost] and [Solid Guardian] to the user"
     },
     {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Earth Mode I (Ingus)",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional times"
+    },
+    {
+      "name": "Earth Resonance +5% Boost",
+      "text": "Earth abilities deal 5% more damage"
+    },
+    {
+      "name": "Solid Guardian",
+      "text": "Grants [50% Damage Reduction Barrier 1] to all allies when any Damage Reduction Barrier is removed, removed after triggering two times, grants [Buff Earth 20% (15s)] to all allies when removed, removed if the character hasn't [Dual Awoken Earth Mode I (Ingus)]"
+    },
+    {
       "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Ingus)] to the user, removes [Dual Awoken Earth Mode I (Ingus)] and [Solid Guardian] from the user"
     }

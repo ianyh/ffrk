@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), grants [Tri-Element Transition Mode (Fire, Ice, Lightning)], [Awoken Engineer], [Damage Cap +10000], and [Machinist Instant Cast] to the user"
+    },
+    {
+      "name": "Tri-Element Transition Mode (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Awoken Engineer",
+      "text": "Unlimited Machinist hones, Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Machinist abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Machinist Instant Cast",
+      "text": "Instant cast speed for Machinist abilities"
     }
   ],
   "card_description": [

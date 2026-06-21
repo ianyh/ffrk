@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Attach Fire with Stacking], [Monk +30% Boost (15s)] and [Quick Cast] to the user"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Monk +30% Boost (15s)",
+      "text": "Monk abilities deal 30% more damage"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

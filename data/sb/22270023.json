@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Soul Break Gauge +250] and [Quick Cast 3] to the user"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

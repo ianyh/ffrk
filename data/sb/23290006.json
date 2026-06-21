@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [Astra], [Regenga] and [High Quick Cast 1], grants [Sky Dream] to the user"
+    },
+    {
+      "name": "Astra",
+      "text": "Prevents Poison, Silence, Paralyze, Confuse, Slow, Stop, Blind, Sleep, Petrify, Berserk, Sap and Stun once"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Sky Dream",
+      "text": "Grants [40% Damage Reduction Barrier 1] to all allies after using two Black Magic or White Magic abilities"
     }
   ],
   "card_description": [

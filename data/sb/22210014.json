@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.65 each), grants [Buff Lightning 20% (15s)], [Buff Fire 20% (15s)], [Buff Ice 20% (15s)], [Quick Cast], [Tri-Element Mode (Fire, Ice, Lightning)] and [Triple Bomb Follow-Up] to the user"
+    },
+    {
+      "name": "Buff Lightning 20% (15s)",
+      "text": "Increases Lightning damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Fire 20% (15s)",
+      "text": "Increases Fire damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Ice 20% (15s)",
+      "text": "Increases Ice damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Tri-Element Mode (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Triple Bomb Follow-Up",
+      "text": "Casts Triple Bomb after using a Black Magic ability"
     }
   ],
   "card_description": [

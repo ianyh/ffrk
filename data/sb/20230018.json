@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Final Heaven level 0/1/2, removes Arcane Dyad Empowered: Tifa from the user"
+      "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Tifa], [Final Heaven Damage Tracker] and [Final Heaven Level]"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Tifa",
+      "text": "Keeps track of the number of uses of Final Heaven (0~2), removed after using Final Heaven two times"
+    },
+    {
+      "name": "Final Heaven Damage Tracker",
+      "text": "Increases Final Heaven level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Tifa]"
+    },
+    {
+      "name": "Final Heaven Level",
+      "text": "Keeps track of Final Heaven level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Tifa]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Final Heaven level 0/1/2, removes Arcane Dyad Empowered: Tifa from the user"
+      "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Tifa], [Final Heaven Damage Tracker] and [Final Heaven Level]"
     },
     {
       "name": "Engaged",

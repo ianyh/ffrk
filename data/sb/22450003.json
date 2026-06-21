@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Six single attacks (1.23 each), causes [Stun] (100%), grants [Instant Cast 2] to the user"
+    },
+    {
+      "name": "Stun",
+      "text": "Resets ATB when set"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants Linked Materia Mode II, [Instant ATB 1] and [Instant Cast 2] to the user\nLinked Materia Mode II: En-Water Stack or En-Earth Stack"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

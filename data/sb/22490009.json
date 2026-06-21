@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Stoneskin: 100%]"
+    },
+    {
+      "name": "Attach Earth Stacking",
+      "text": "Allow to stack Attach Earth, up to Attach Earth 3"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

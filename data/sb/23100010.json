@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Lightning Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Lightning 20% (15s)]"
+    },
+    {
+      "name": "Buff Lightning 20% (15s)",
+      "text": "Increases Lightning damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

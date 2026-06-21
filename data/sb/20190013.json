@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Dual Blink 1]"
+    },
+    {
+      "name": "Dual Blink 1",
+      "text": "Evades the next attack that could be evaded with [Physical Blink] or [Magical Blink], lower priority than [Physical Blink] and [Magical Blink]"
     }
   ],
   "card_description": [

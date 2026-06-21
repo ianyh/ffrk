@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Seven single attacks (2.60/2.80/2.90/3.0 or 8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single attacks (11.00 or 31.00 each) capped at 99999, and grants [Instant Cast 1] to female allies at highest multiplier. Multiplier/cap requirements: 0-2/3-4/5+ Poison abilities on allies/5+ Poison abilities on allies and 2+ female allies"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

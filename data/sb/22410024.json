@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Buff Dark 20% (15s)] and [Buff Holy 20% (15s)] to allies, grants [Awoken Ambitious Commander Mode], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], and [Dualcast Dark/Holy 3] to the user"
+    },
+    {
+      "name": "Buff Dark 20% (15s)",
+      "text": "Increases Dark damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Holy 20% (15s)",
+      "text": "Increases Holy damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Awoken Ambitious Commander Mode",
+      "text": "Holy and Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Dark and Holy abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Double Crystarium Mode II (Holy, Dark)",
+      "text": "Grants [Attach Holy with Stacking]/[Attach Dark with Stacking] after using a Holy/Dark ability"
     }
   ],
   "card_description": [

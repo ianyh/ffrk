@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Conditional Attach Element From Party] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Conditional Attach Element From Party",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Earth]/[Attach Wind]/[Attach Water]/[Attach Holy]/[Attach Dark]/[Attach Poison] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

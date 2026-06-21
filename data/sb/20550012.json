@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Fire], [Awoken Fire], [Damage Cap +10000], [Physical Blink 3] and [Footwork Mode] to the user"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%"
+    },
+    {
+      "name": "Awoken Fire",
+      "text": "Fire abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Physical Blink 3",
+      "text": "Evades the next 3 PHY attacks that deal physical, missing HP or fixed damage or NAT attacks that deal physical or fractional damage"
+    },
+    {
+      "name": "Footwork Mode",
+      "text": "Critical chance =100%, cast speed x2.00, casts Streaking Fist after using three Monk abilities, removed if user hasn't any Physical Blink"
     }
   ],
   "card_description": [

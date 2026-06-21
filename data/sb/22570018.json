@@ -5,6 +5,22 @@
       "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Cid (IV) v2)] and [Lightning Resonance +5% Boost] to the user"
     },
     {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode I (Cid (IV) v2)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 2 additional times, critical chance =50%/75%/100% for equipped Lightning abilities after casting 1/2/3+ Lightning abilities"
+    },
+    {
+      "name": "Lightning Resonance +5% Boost",
+      "text": "Lightning abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], and [Dual Awoken Lightning Mode II (Cid (IV) v2)]"
     }

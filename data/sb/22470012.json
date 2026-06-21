@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I (Curilla)] to the user, grants [XI Resonance +3% Boost] to all FFXI allies"
     },
     {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Knight Mode I (Curilla)",
+      "text": "Knight abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Knight abilities trigger 2 additional times, grants [Quick Cast 1] to all allies in the character's row after using Knight abilities"
+    },
+    {
+      "name": "XI Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is XI"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II (Curilla)]"
     }

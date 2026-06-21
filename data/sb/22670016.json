@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.68 each), grants [Attach Dark with Stacking], [Quick Cast 3] and [Dark Ability +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Dark Ability +30% Boost (15s)",
+      "text": "Dark abilities deal 30% more damage"
     }
   ],
   "card_description": [

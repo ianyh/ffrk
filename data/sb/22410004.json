@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Six random attacks (2.92 each), [MAG and RES +30%] to the user for 25 seconds, grants [Magical Quick Cast 4] and [Doom: 45] to the user"
+    },
+    {
+      "name": "Magical Quick Cast 4",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Doom: 45",
+      "text": "Causes [Doom] with a 45 seconds timer"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.80 each), causes [Imperil Holy 20% (25s)], grants [Attach Holy] and [Quick Cast 3] to the user, grants [Holy Radiant Shield: 75%] to all allies"
+    },
+    {
+      "name": "Imperil Holy 20% (25s)",
+      "text": "Holy Resistance -20%, cumulable"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Holy Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Holy damage capped at 9999"
     }
   ],
   "card_description": [

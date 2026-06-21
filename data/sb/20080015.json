@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [No Air Time] and [Instant Cast 1]"
+    },
+    {
+      "name": "No Air Time",
+      "text": "Changes air time to 0.01 seconds"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

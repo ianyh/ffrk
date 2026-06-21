@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Earth)] and Beast Whisperer +1"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode III (Fire, Earth)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Earth 2 with Stacking] after using a Fire/Earth ability"
     }
   ],
   "card_description": [

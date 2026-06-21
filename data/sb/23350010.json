@@ -5,6 +5,26 @@
       "text": "Causes [DEF, MAG and MND -50% (25s)], grants [Instant Cast 1] and [200% ATB 1] to all allies, grants [XI Resonance +3% Boost] to all XI allies, grants [Dual Awoken Moonshade Mode I (Lilisette)] to self"
     },
     {
+      "name": "DEF, MAG and MND -50% (25s)",
+      "text": "DEF, MAG and MND -50%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "XI Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is XI"
+    },
+    {
+      "name": "Dual Awoken Moonshade Mode I (Lilisette)",
+      "text": "Cast speed x2.00 for Support/Dancer/Celerity abilities, casts Dual Fan Dance after using Support/Dancer/Celerity abilities"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Dual Awoken Moonshade Mode II (Lilisette)] and [Instant ATB 1] to the user"
     }

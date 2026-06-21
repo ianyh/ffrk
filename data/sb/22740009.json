@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Critical Damage +50%] and [Quick Cast 2]"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

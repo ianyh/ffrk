@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.74 each), grants [Non-Elemental +50% Boost] and [Future King EX Mode] to the user"
+    },
+    {
+      "name": "Non-Elemental +50% Boost",
+      "text": "Non-Elemental attacks deal 50% more damage"
+    },
+    {
+      "name": "Future King EX Mode",
+      "text": "ATK +30%, cast speed x2.00, casts Warp Strike after using a Combat or Celerity ability"
     }
   ],
   "card_description": [

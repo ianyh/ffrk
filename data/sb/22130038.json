@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Element Mode II (Water, Poison)], [Instant Cast 2], and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Water, Poison)",
+      "text": "Grants [Attach Water with Stacking]/[Attach Poison with Stacking] after using a Water/Poison ability"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

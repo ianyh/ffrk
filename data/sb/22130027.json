@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Buccaneers' Brigade level 0/1/2, removes [Arcane Dyad Empowered: Leila (Poison)] from the user"
+      "text": "Grants [Attach Poison with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Leila (Poison)], [Buccaneers' Brigade Damage Tracker], and [Buccaneers' Brigade Level]"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Leila (Poison)",
+      "text": "Keeps track of the number of uses of Buccaneers' Brigrade (0~2), removed after using Buccaneers' Brigade two times"
+    },
+    {
+      "name": "Buccaneers' Brigade Damage Tracker",
+      "text": "Increases Buccaneers' Brigade level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Leila (Poison)]"
+    },
+    {
+      "name": "Buccaneers' Brigade Level",
+      "text": "Keeps track of Buccaneers' Brigrade level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Leila (Poison)]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Buccaneers' Brigade level 0/1/2, removes [Arcane Dyad Empowered: Leila (Poison)] from the user"
+      "text": "Grants [Attach Poison with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Leila (Poison)], [Buccaneers' Brigade Damage Tracker], and [Buccaneers' Brigade Level]"
     },
     {
       "name": "Engaged",

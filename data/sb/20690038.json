@@ -5,6 +5,22 @@
       "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Auron], [Instant ATB 1], [Attach Fire with Secondary Stacking] to the userr."
     },
     {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Auron",
+      "text": "Triggers [Destruction: Auron] when using Fire abilities (max 5)"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Fire with Secondary Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 5, up to Attach Fire 5"
+    },
+    {
       "name": "Break Arte",
       "text": "One group attack (8.00) capped at 99,999. Grants [Instant ATB 1] to user."
     }

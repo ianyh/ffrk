@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Quad Element Mode II (Fire, Earth, Wind, Poison)], [Soul Break Gauge +250], and [200% ATB 1]"
+    },
+    {
+      "name": "Quad Element Mode II (Fire, Earth, Wind, Poison)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Poison with Stacking] after using a Fire/Earth/Wind/Poison ability"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

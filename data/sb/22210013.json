@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode II (Fire, Ice, Lightning) v2], [Awoken Black Magic], [Damage Cap +10000], [Instant Cast 1], [Bluff Mode] and [True Thunderstorm] to the user"
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Ice, Lightning) v2",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Awoken Black Magic",
+      "text": "Black Magic abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Bluff Mode",
+      "text": "Casts Black Magic Bluff after using four Fire, Ice or Lightning abilities, removed after triggering"
+    },
+    {
+      "name": "True Thunderstorm",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning] to the user after using three Fire, Ice or Lightning abilities if the triggering ability deals Fire/Ice/Lightning damage"
     }
   ],
   "card_description": [

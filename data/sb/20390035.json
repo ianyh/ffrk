@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Element Mode II (Ice, Lightning)], [Soul Break Gauge +250], and [200% ATB 1]"
+    },
+    {
+      "name": "Twin Element Mode II (Ice, Lightning)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Ice/Lightning ability"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

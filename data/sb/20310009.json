@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Ice Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [HP Stock (2000)] to all allies"
+    },
+    {
+      "name": "HP Stock (2000)",
+      "text": "Automatically restores HP, up to 2000 HP, removed when that amount is reached"
     }
   ],
   "card_description": [

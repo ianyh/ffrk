@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (1.20), causes [Instant KO] (20%)"
+    },
+    {
+      "name": "Instant KO",
+      "text": "Causes [KO] when set"
     }
   ],
   "card_description": [

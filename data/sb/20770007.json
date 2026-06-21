@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Six group attacks (1.72~2.90 each scaling with targets), causes [Stun] (100%), grants [MAG and RES +30%] for 25 seconds, [Haste] and [Burst Mode] to the user"
+    },
+    {
+      "name": "Stun",
+      "text": "Resets ATB when set"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Burst Mode",
+      "text": "Replaces the Attack and Defend commands, ATK, DEF, MAG, RES, MND, ACC and EVA +20%, SPD +10%"
     }
   ],
   "card_description": [

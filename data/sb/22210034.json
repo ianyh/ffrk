@@ -5,6 +5,30 @@
       "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Palom], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Ice with Secondary Stacking]."
     },
     {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Palom",
+      "text": "Triggers Destruction: Palom up to 5 times when using Lightning/Fire/Ice abilities"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5"
+    },
+    {
+      "name": "Attach Fire with Secondary Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 5, up to Attach Fire 5"
+    },
+    {
+      "name": "Attach Ice with Secondary Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 5, up to Attach Ice 5"
+    },
+    {
       "name": "Break Arte",
       "text": "One Fire/NE or Ice/NE or Lightning/NE single attack (26.50 each) capped at 99,999 based on EnFire or EnIce. Grants [Instant ATB 1] to user."
     }

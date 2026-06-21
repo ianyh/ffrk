@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.80 each) capped at 19999, activates Wind Chain (max 150, field +0%) or adds 25 to the current Wind Chain maximum limit, grants [Chain Force Mode: Zack (Wind)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Zack (Wind)",
+      "text": "Casts Wind Guidance: Zack after using a Wind ability, removed after triggering two times"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

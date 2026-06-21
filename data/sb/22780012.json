@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.68 each), grants [Instant Cast 1] to all allies, grants [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Quad Element Mode (Fire, Earth, Wind, Poison)",
+      "text": "Grants [Attach Fire]/[Attach Earth]/[Attach Wind]/[Attach Poison] after using a Fire/Earth/Wind/Poison ability"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

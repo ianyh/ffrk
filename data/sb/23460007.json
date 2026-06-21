@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Divine Communion Mode], Oracle's Duty +1 and God Conversation +1 to the user"
+    },
+    {
+      "name": "Attach Water 3 with Stacking",
+      "text": "Increase Attach Water Level by 3 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Divine Communion Mode",
+      "text": "Grants [Oracle's Decree Summoning +15% Boost]/[Oracle's Decree Summoning +30% Boost]/[Oracle's Decree Summoning +50% Boost] after using 1/2/3+ of Hydraean's Mercy or Oath of Covenant, grants [Damage Cap +10000 3] and causes God Conversation -1 if the character has God Conversation level 1 after using three of Hydraean's Mercy or Ceremonial Pledge"
     }
   ],
   "card_description": [

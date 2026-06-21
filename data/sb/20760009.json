@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Fifteen random ranged attacks (0.45 each), [DEF and RES -70%] for 8 seconds, grants [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

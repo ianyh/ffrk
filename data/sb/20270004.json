@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Five single ranged attacks (1.56 each), causes [Blind] (100%)"
+    },
+    {
+      "name": "Blind",
+      "text": "ACC -50%, reduces hit rate by 75%, persists after battle, base duration is 30 seconds for characters"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), removes KO [Raise: 40%], grants [Stoneskin: 30%]"
+    },
+    {
+      "name": "Raise: 40%",
+      "text": "Removes KO (40% HP)"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

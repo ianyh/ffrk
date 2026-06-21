@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (55) to all allies, grants [Flash Attack: Yuna Follow-Up], Summoning Smart Ether 2 and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Flash Attack: Yuna Follow-Up",
+      "text": "Casts Continuous Flash Chase: Yuna after using White Magic/Summoning abilities"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand] and [Haste], grants [Awoken Soother] to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Awoken Soother",
+      "text": "White Magic and Bard abilities don't consume uses, cast speed x3.00 for White Magic and Bard abilities, grants [Stoneskin: 10%]/[Stoneskin: 15%]/[Stoneskin: 20%]/[Stoneskin: 25%]/[Stoneskin: 30%] after using White Magic or Bard abilities at ability rank 1/2/3/4/5"
     }
   ],
   "card_description": [

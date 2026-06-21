@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind with Stacking], [Damage Cap +10000], [Awoken Wind], [Jump Instant Cast], and [No Air Time] to the user"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Awoken Wind",
+      "text": "Wind abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 1 additional time"
+    },
+    {
+      "name": "Jump Instant Cast",
+      "text": "Instant cast speed for Jump attacks"
+    },
+    {
+      "name": "No Air Time",
+      "text": "Changes air time to 0.01 seconds"
     }
   ],
   "card_description": [

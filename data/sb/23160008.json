@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.69 each), grants [Quick Cast 1] to all allies, grants [Attach Earth with Stacking] and [Spellstrike Frigid Cry] to the user"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Spellstrike Frigid Cry",
+      "text": "Grants [Quick Cast 1] to all allies in the front row after using a Spellblade ability"
     }
   ],
   "card_description": [

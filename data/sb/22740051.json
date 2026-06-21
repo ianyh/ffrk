@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Tri-Element Mode II (Fire, Lightning, Earth)], [Soul Break Gauge +250], and [200% ATB 1]"
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Lightning, Earth)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Earth with Stacking] after using a Fire/Lightning/Earth ability"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

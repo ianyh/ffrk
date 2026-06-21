@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical +30% Boost (15s)] to party, Instant Cast, grants [Synchro Mode] & [Plaza 99 Daily Life Follow-Up] to user"
+    },
+    {
+      "name": "MAG and MND +30%, DEF and RES +25% (25s)",
+      "text": "MAG and MND +30%, DEF and RES +25%"
+    },
+    {
+      "name": "Magical +30% Boost (15s)",
+      "text": "Magical attacks deal 30% more damage"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Plaza 99 Daily Life Follow-Up",
+      "text": "using Attack Sync abilities, grants [Weakness +30% Boost 2] to party"
     }
   ],
   "card_description": [

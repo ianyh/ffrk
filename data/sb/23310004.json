@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eight random attacks (0.52 each), grants [PHY +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "PHY +30% Boost (15s)",
+      "text": "PHY attacks deal 30% more damage"
     }
   ],
   "card_description": [

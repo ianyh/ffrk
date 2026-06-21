@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), grants [Attach Earth with Stacking], [Earth Ability +30% Boost (15s)] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Earth Ability +30% Boost (15s)",
+      "text": "Earth abilities deal 30% more damage"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

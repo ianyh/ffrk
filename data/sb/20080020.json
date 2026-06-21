@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single ranged jump attacks (0.71 each), grants [Twin Element Mode II (Lightning, Dark)], [Jump Instant Cast] and [No Air Time] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Lightning, Dark)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] after using a Lightning/Dark ability"
+    },
+    {
+      "name": "Jump Instant Cast",
+      "text": "Instant cast speed for Jump attacks"
+    },
+    {
+      "name": "No Air Time",
+      "text": "Changes air time to 0.01 seconds"
     }
   ],
   "card_description": [

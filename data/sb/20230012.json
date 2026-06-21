@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Monk Rank Boost], grants [Striker Mode 1/2/3/3] if the user has Striker Mode 0/1/2/3"
+    },
+    {
+      "name": "Monk Rank Boost",
+      "text": "Monk abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
     }
   ],
   "card_description": [

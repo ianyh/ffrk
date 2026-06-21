@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Removes positive effects, grants [Attach Ice with Stacking] and [High Quick Cast 1] to the user"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

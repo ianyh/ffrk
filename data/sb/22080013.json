@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Awoken Darkwood], [Damage Cap +10000], [Twin Element Mode (Holy, Dark)] and [Emptiness Break] to the user"
+    },
+    {
+      "name": "Awoken Darkwood",
+      "text": "Dark and Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Holy abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode (Holy, Dark)",
+      "text": "Grants [Attach Holy]/[Attach Dark] after using a Holy/Dark ability"
+    },
+    {
+      "name": "Emptiness Break",
+      "text": "Grants [40% Damage Reduction Barrier 1] to all allies after using a Dark or Holy ability"
     }
   ],
   "card_description": [

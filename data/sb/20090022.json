@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Awoken Summoning], [Damage Cap +10000], [Tri-Element Mode (Earth, Water, Holy)], [Feymarch Oath Mode], [Feymarch Oath +10% Boost] and [Feymarch Oath Quick Cast 150%] to the user"
+    },
+    {
+      "name": "Awoken Summoning",
+      "text": "Summoning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Tri-Element Mode (Earth, Water, Holy)",
+      "text": "Grants [Attach Earth]/[Attach Water]/[Attach Holy] after using a Earth/Water/Holy ability"
+    },
+    {
+      "name": "Feymarch Oath Mode",
+      "text": "Grants [Feymarch Oath +20% Boost]/[Feymarch Oath +30% Boost] and [Feymarch Oath Quick Cast 200%]/[Feymarch Oath Quick Cast 300%] after using 1/2+ Summoning abilities"
+    },
+    {
+      "name": "Feymarch Oath +10% Boost",
+      "text": "Summoning abilities deal 10% more damage, removed if user hasn't [Feymarch Oath Mode]"
+    },
+    {
+      "name": "Feymarch Oath Quick Cast 150%",
+      "text": "Cast speed x1.50 for Summoning abilities, removed if user hasn't [Feymarch Oath Mode]"
     }
   ],
   "card_description": [

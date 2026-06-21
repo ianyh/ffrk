@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), causes [Imperil Ice 20%] for 25 seconds, grants [Ice Radiant Shield: 75%] to all allies, grants [Attach Ice] and [Quick Cast 3] to the user"
+    },
+    {
+      "name": "Ice Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Ice damage capped at 9999"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

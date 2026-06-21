@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode III (Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Icebolt Advent] to the user"
+    },
+    {
+      "name": "Twin Element Mode III (Ice, Lightning)",
+      "text": "Grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] after using a Ice/Lightning ability"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Icebolt Advent",
+      "text": "Grants [Dualcast Ice, Lightning 1] to the user after using two Black Magic abilities"
     }
   ],
   "card_description": [

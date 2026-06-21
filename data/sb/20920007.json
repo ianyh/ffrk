@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%"
+    },
+    {
+      "name": "Black Magic, Machinist +30% Boost (15s)",
+      "text": "Black Magic or Machinist abilities deal 30% more damage"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

@@ -5,6 +5,34 @@
       "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Dancer Mode I (Penelo)], and [Dancer Healing Resonance +5% Boost] to the user"
     },
     {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Dancer Mode I (Penelo)",
+      "text": "White Magic and Dancer abilities trigger 1 additional time, cast speed x? to White Magic and Dancer abilities, White Magic and Dancer healing +20%"
+    },
+    {
+      "name": "Dancer Healing Resonance +5% Boost",
+      "text": "Dancer abilities restore 5% more HP"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Dual Awoken Dancer Mode II (Penelo)] and [Instant ATB 1] to the user"
     }

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [High Quick Cast], [Double Junction] and [Brave Mode] to the user"
+    },
+    {
+      "name": "High Quick Cast",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Double Junction",
+      "text": "Spellblade abilities deal 30/35/40/45/50/55/60/65/70% more damage after using 0/1/2/3/4/5/6/7/8 Fire or Ice Spellblade abilities"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), grants [Attach Fire] to the user, grants [Magitek EX Mode] to the user for 25 seconds"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%"
+    },
+    {
+      "name": "Magitek EX Mode",
+      "text": "MAG +30%, cast speed x2.00"
     }
   ],
   "card_description": [

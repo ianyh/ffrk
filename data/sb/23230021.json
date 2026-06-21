@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode II (Wind, Dark)], [Awoken Spellstrike], [Damage Cap +10000], [Wind, Dark Ability +30% Boost (15s)] and [(Wind/Dark) Ability Instant Cast 2] to the user"
+    },
+    {
+      "name": "Switch Draw Mode II (Wind, Dark)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Wind/Dark ability"
+    },
+    {
+      "name": "Awoken Spellstrike",
+      "text": "Wind and Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind and Dark abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Wind, Dark Ability +30% Boost (15s)",
+      "text": "Wind or Dark abilities deal 30% more damage"
+    },
+    {
+      "name": "(Wind/Dark) Ability Instant Cast 2",
+      "text": "Instant cast speed for Wind and Dark abilities"
     }
   ],
   "card_description": [

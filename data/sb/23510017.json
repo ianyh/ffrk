@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode] to user, [Damage Cap +10000], [Crystal Force Mode: Alisaie] to self. Grants [Attach Wind with Stacking]/[Attach Lightning with Stacking] based on if entry damage was Wind/Lightning."
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode: Alisaie",
+      "text": "Black Magic/White Magic abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic/White Magic abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
     }
   ],
   "card_description": [

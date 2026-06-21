@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four group ranged attacks (1.50 each), grants [Haste] to all allies"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

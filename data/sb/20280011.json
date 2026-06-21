@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
+    },
+    {
+      "name": "High Quick Cast 3",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
     }
   ],
   "card_description": [

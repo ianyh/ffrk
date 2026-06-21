@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.70 each), removes positive effects, grants [Physical High Quick Cast 2] to all allies, grants [Linked Materia Mode II (Fire, Lightning)] to the user"
+    },
+    {
+      "name": "Physical High Quick Cast 2",
+      "text": "Cast speed x3.00 for PHY attacks"
+    },
+    {
+      "name": "Linked Materia Mode II (Fire, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking] after using a Fire/Lightning ability"
     }
   ],
   "card_description": [

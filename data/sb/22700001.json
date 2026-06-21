@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Six group attacks (2.27 each), grants [Haste] to all allies, grants [Magical Quick Cast 2] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Magical Quick Cast 2",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
     }
   ],
   "card_description": [

@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single hybrid attacks (3.20/3.55 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (35.15/38.67 or 34.60/38.06) capped at 99999 at Apex Gentle Soul level 0/1, removes Arcane Dyad Empowered: Arc from the user"
+      "text": "Grants [Twin Element Mode (Water, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Arc], [Apex Gentle Soul Damage Tracker] and [Apex Gentle Soul Level]"
+    },
+    {
+      "name": "Twin Element Mode (Water, Holy)",
+      "text": "Grants [Attach Water]/[Attach Holy] after using a Water/Holy ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Arc",
+      "text": "Keeps track of the number of uses of Apex Gentle Soul (0~2), removed after using Apex Gentle Soul two times"
+    },
+    {
+      "name": "Apex Gentle Soul Damage Tracker",
+      "text": "Increases Apex Gentle Soul level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Arc]"
+    },
+    {
+      "name": "Apex Gentle Soul Level",
+      "text": "Keeps track of Apex Gentle Soul level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Arc]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single hybrid attacks (3.20/3.55 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (35.15/38.67 or 34.60/38.06) capped at 99999 at Apex Gentle Soul level 0/1, removes Arcane Dyad Empowered: Arc from the user"
+      "text": "Grants [Twin Element Mode (Water, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Arc], [Apex Gentle Soul Damage Tracker] and [Apex Gentle Soul Level]"
     },
     {
       "name": "Engaged",

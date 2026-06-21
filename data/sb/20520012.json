@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [High Regen] and [Holy Stoneskin: 50%]"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
+    },
+    {
+      "name": "Holy Stoneskin: 50%",
+      "text": "Reduces Holy damage taken to 0, up to an amount equal to 50% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

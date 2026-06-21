@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000], [MAG and RES +30% (25s)] and [Farfall Nera] to the user"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Awoken Water",
+      "text": "Water abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "MAG and RES +30% (25s)",
+      "text": "MAG and RES +30%"
+    },
+    {
+      "name": "Farfall Nera",
+      "text": "Grants [Water +50% Boost 1] to the user after using two Water abilities"
     }
   ],
   "card_description": [

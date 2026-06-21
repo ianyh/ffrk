@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [100% Critical (25s) Custom Param], [Physical Quick Cast] and [Haste], grants [Synchro Mode] and Snacks +2 to the user"
+    },
+    {
+      "name": "100% Critical (25s) Custom Param",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Physical Quick Cast",
+      "text": "Cast speed x2.00 for PHY attacks"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
     }
   ],
   "card_description": [

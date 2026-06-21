@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Activates I Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Link Burst Mode I] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "ATK and MAG +30% (25s)",
+      "text": "ATK and MAG +30%"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged jump attacks (0.60 each), grants [Awoken Dragoon Pride], [Twin Element Mode (Lightning, Dark)], [Damage Cap +10000] and [Soaring Knight Mode] to the user"
+    },
+    {
+      "name": "Awoken Dragoon Pride",
+      "text": "Dragoon abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dragoon abilities trigger 1 additional time"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Dark)",
+      "text": "Grants [Attach Lightning]/[Attach Dark] after using a Lightning/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Soaring Knight Mode",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient), keeps track of the number of Lightning and Dark abilities used (0~4), grants [Soaring Knight Critical Chance] after using a Lightning or Dark ability"
     }
   ],
   "card_description": [

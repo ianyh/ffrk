@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I (Jack)] and [Fire Resonance +5% Boost] to the user"
     },
     {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode I (Jack)",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 2 additional times, 50%/75%/100% additional critical chance for equipped Samurai abilities after using 1/2/3+ Samurai abilities, grants [Critical Damage +50% 1] to the user when a Samurai ability deals a critical hit"
+    },
+    {
+      "name": "Fire Resonance +5% Boost",
+      "text": "Fire abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [10% Damage Reduction Barrier 1] and [Dual Awoken Samurai Mode II (Jack)], removes [Dual Awoken Samurai Mode I (Jack)]"
     }

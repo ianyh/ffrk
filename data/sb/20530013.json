@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Change Machinery Mode (Fire, Lightning, Poison)] and [High Quick Cast 2]"
+    },
+    {
+      "name": "Change Machinery Mode (Fire, Lightning, Poison)",
+      "text": "Grants [Attach Fire]/[Attach Lightning]/[Attach Poison] after using a Fire/Lightning/Poison ability"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

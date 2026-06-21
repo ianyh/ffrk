@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Ice Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Ice 20% (15s)]"
+    },
+    {
+      "name": "Buff Ice 20% (15s)",
+      "text": "Increases Ice damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

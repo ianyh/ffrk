@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "7 single summon magic attacks (3.05 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], and Crystal Mode to user\nCrystal Mode: Summoning/White Magic Ability Boost, Dualcast Summoning/White Magic, Zero Hone Cost to Summoning/White Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Wind/Holy/NE summon magic attacks (6.60 each) capped at 19999, Instant Cast, [Instant Summoning/White Magic, Dualcast Summoning/White Magic & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

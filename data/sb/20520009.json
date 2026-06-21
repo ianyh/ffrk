@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), removes KO [Raise: 40%], grants [Haste] and [Last Stand]"
+    },
+    {
+      "name": "Raise: 40%",
+      "text": "Removes KO (40% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
     }
   ],
   "card_description": [

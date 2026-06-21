@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.48 each), grants [50% Damage Reduction Barrier 1] to all allies, grants [Twin Element Mode II (Fire, Earth)] to the user"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
+    },
+    {
+      "name": "Twin Element Mode II (Fire, Earth)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Earth with Stacking] after using a Fire/Earth ability"
     }
   ],
   "card_description": [

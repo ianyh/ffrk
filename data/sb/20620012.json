@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Wind with Stacking] to the user, grants [Regenga] and [High Quick Cast 2] to all allies"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

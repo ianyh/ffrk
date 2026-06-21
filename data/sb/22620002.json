@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Five group hybrid ranged attacks (1.15 or 2.78 each), grants [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

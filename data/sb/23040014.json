@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Activates Holy Limit Chain (150) & 50% Holy Field, causes Imperil Holy 10/20/30% for 5 seconds to all targets with 0/2/4 En-Holy members, grants [ATK +50% (25s)] to party, grants [Instant Cast 1] to user"
+    },
+    {
+      "name": "ATK +50% (25s)",
+      "text": "ATK +50%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

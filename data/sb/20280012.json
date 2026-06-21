@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Removes positive effects, grants [ATK, DEF, MAG and RES +30% (25s)] and [Weakness +9% Boost (15s)]/[Weakness +15% Boost (15s)]/[Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF2 allies are alive, grants [High Quick Cast 1] to all allies if Hilda or Scott are alive, grants [Awoken Kingdom's Pledge] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Weakness +9% Boost (15s)",
+      "text": "Increases damage dealt by 9% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "Weakness +15% Boost (15s)",
+      "text": "Increases damage dealt by 15% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "Weakness +30% Boost (15s)",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Awoken Kingdom's Pledge",
+      "text": "Support abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support abilities at ability rank 1/2/3/4/5, grants [Quick Cast 1] to all allies after using a Support ability"
     }
   ],
   "card_description": [

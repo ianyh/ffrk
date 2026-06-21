@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Rousing Charge Mode III (Fire, Lightning, Earth)], [Frenzied Monk Mode] and Martial Will +5 to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Rousing Charge Mode III (Fire, Lightning, Earth)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Earth 2 with Stacking] after using a Fire/Lightning/Earth ability"
+    },
+    {
+      "name": "Frenzied Monk Mode",
+      "text": "ATK +30%, critical hits deal 50% more damage (additive with the base critical coefficient), casts Ballistic Fist after dealing a critical hit with an ability if the character has Martial Will level 1+"
     }
   ],
   "card_description": [

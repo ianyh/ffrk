@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Spellblade Assault Mode (Fire, Ice, Lightning)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Spellblade Assault Mode (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

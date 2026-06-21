@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Spellblade Mode I: Bartz - Wind] and [Spellblade Resonance +5% Boost] to the user"
     },
     {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode I: Bartz - Wind",
+      "text": "Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 2 additional times, casts Dual Spellblade Whirlwind after casting an equipped Spellblade ability"
+    },
+    {
+      "name": "Spellblade Resonance +5% Boost",
+      "text": "Spellblade abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Attach Wind 2 with Stacking], [Dual Wind Spellblade Mode], [Dual Awoken Spellblade Mode II: Bartz - Wind], removes [Dual Awoken Spellblade Mode I: Bartz - Wind]"
     }

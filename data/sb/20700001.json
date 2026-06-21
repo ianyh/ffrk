@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One group ranged attack (3.20), causes [Sap] (50%)"
+    },
+    {
+      "name": "Sap",
+      "text": "Damages for 1/64 maximum HP every 2.00 seconds"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three single attacks (1.68 each), grants [Instant Cast 2] to the user"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

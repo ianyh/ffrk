@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Instant Cast 2], [Instant ATB 1], and [Double Crystarium Mode II (Ice, Water)] to the user"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Double Crystarium Mode II (Ice, Water)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Water with Stacking] after using a Ice/Water ability"
     }
   ],
   "card_description": [

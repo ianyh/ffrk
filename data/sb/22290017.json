@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Grants [Crystal Force Mode], [Crystal Force Mode: Echo] to user. Causes [ATK, DEF, MAG, RES and MND -50% (25s)] on enemies. Grants [Pentabreak Damage Boost (15s)], [125% Quick Cast] to all allies."
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Crystal Force Mode: Echo",
+      "text": "Black Magic/Dancer abilities don't consume uses and have cast speed x2.00, removed if user hasn't Crystal Force Mode"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND -50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "Pentabreak Damage Boost (15s)",
+      "text": "Increases damage dealt by 5/10/15/20/30% if target has 1/2/3/4/5 of ATK, DEF, MAG, RES or MND reduced"
+    },
+    {
+      "name": "125% Quick Cast",
+      "text": "Cast speed x1.25"
     }
   ],
   "card_description": [

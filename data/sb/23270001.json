@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Culling Scythe Finisher] and [Malice Mode 0] to the user"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%"
+    },
+    {
+      "name": "Culling Scythe Finisher",
+      "text": "Casts Culling Scythe when removed"
+    },
+    {
+      "name": "Malice Mode 0",
+      "text": "Grants [Malice Mode 1] after using a Darkness ability, removed if the character hasn't [Culling Scythe Finisher]"
     }
   ],
   "card_description": [

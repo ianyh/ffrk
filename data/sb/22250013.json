@@ -5,6 +5,26 @@
       "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to the target, grants [HP Stock (6000)] and [Quick Cast 3] to all allies, grants [Dual Awoken Fortune-Teller Mode I (Cait Sith)] to the user, grants [VII Resonance +3% Boost] to all VII allies"
     },
     {
+      "name": "ATK, DEF, MAG, RES and MND -50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Dual Awoken Fortune-Teller Mode I (Cait Sith)",
+      "text": "Cast time x2.00 for Bard and Dancer abilities, chases Bard abilities with Heal Dice, chases Dancer abilities with Break Dance"
+    },
+    {
+      "name": "VII Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is VII"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fortune-Teller Mode II (Cait Sith)] to the user"
     }

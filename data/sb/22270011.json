@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken High Summoner], and [Damage Cap +10000] to the user, grants [High Summoner's Locus Mode]/[High Summoner's Coterie Mode] to the user if 0/1+ of Auron or Jecht are alive"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Awoken High Summoner",
+      "text": "Fire abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Fire abilities at ability rank 1/2/3/4/5, casts Flamebeast Flex after using Fire abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "High Summoner's Locus Mode",
+      "text": "Fire abilities deal 10/20/30% more damage after using 0/1/2+ Fire abilities"
+    },
+    {
+      "name": "High Summoner's Coterie Mode",
+      "text": "Fire abilities deal 10/30/50% more damage after using 0/1/2+ Fire abilities"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [Master Mode], [Master Mode: Emperor], [Instant ATB 1] and [Diffusion Barrier 1]"
+    },
+    {
+      "name": "Master Mode",
+      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
+    },
+    {
+      "name": "Master Mode: Emperor",
+      "text": "Casts Star Strike: Emperor every 2s (max 5), casts North Star: Stick Bomb after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Diffusion Barrier 1",
+      "text": "Prevents elemental diffusion once"
     }
   ],
   "card_description": [

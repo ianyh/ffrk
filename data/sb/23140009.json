@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.70 each), grants [High Quick Cast 1], [Twin Element Mode II (Wind, Poison)] and [Hollow Blast Mode] to the user"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Twin Element Mode II (Wind, Poison)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Poison with Stacking] after using a Wind/Poison ability"
+    },
+    {
+      "name": "Hollow Blast Mode",
+      "text": "Grants [Quick Cast 1] to all allies in the character's row after using a Wind or Poison ability"
     }
   ],
   "card_description": [

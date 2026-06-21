@@ -3,6 +3,46 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (6000)], [Haste], [Protect], [Shell], and [Last Stand] to all allies, grants [100% Critical (25s)] to all allies if Clive is in the party, causes [Imperil Ice 20% (15s)] to all enemies if Jill is in the party, causes [Imperil Fire 20% (15s)] to all enemies if Joshua is in the party, causes [Imperil Lightning 20% (15s)] to all enemies if Cidolfus is in the party, grants Awoken Frost Wolf Mode and [Soul Break Gauge +250] to the user\nAwoken Frost Wolf Mode: Unlimited Support/Celerity/Black Magic Hones, Support/Celerity/Black Magic Rank Quick Cast & chases Support/Celerity/Black Magic abilities with Quick Cast 1 to all allies"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "100% Critical (25s)",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
     }
   ],
   "card_description": [

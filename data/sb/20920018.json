@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single hybrid attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Apex Pyramid level 0/1, removes Arcane Dyad Empowered: Reno from the user"
+      "text": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Reno], [Apex Pyramid Damage Tracker] and [Apex Pyramid Level]"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Reno",
+      "text": "Keeps track of the number of uses of Apex Pyramid (0~2), removed after using Apex Pyramid two times"
+    },
+    {
+      "name": "Apex Pyramid Damage Tracker",
+      "text": "Increases Apex Pyramid level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Reno]"
+    },
+    {
+      "name": "Apex Pyramid Level",
+      "text": "Keeps track of Apex Pyramid level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Reno]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single hybrid attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Apex Pyramid level 0/1, removes Arcane Dyad Empowered: Reno from the user"
+      "text": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Reno], [Apex Pyramid Damage Tracker] and [Apex Pyramid Level]"
     },
     {
       "name": "Engaged",

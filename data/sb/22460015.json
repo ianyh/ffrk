@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [100% Critical (25s)] and [Physical Quick Cast 2] to all allies, grants [Awoken Shadow Ninja] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "100% Critical (25s)",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Physical Quick Cast 2",
+      "text": "Cast speed x2.00 for PHY attacks"
+    },
+    {
+      "name": "Awoken Shadow Ninja",
+      "text": "Celerity, Support and Ninja abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Celerity, Support and Ninja abilities at ability rank 1/2/3/4/5, casts Unleashed Power after using Celerity, Support and Ninja abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

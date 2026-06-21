@@ -5,6 +5,30 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Captain's Fury Mode I (Leila - Poison)], [Awoken Poison Cloud XVI] and [Poison Resonance +5% Boost] to the user"
     },
     {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Captain's Fury Mode I (Leila - Poison)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 2 additional times, cast speed x2.00 for equipped Poison abilities"
+    },
+    {
+      "name": "Awoken Poison Cloud XVI",
+      "text": "Keeps track of the number of Poison abilities used (0~5), grants [Awoken Poison Cloud XVI Critical] to the user after using a Poison ability"
+    },
+    {
+      "name": "Poison Resonance +5% Boost",
+      "text": "Poison abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Captain's Fury Mode II (Leila - Poison)], removes [Dual Awoken Captain's Fury Mode I (Leila - Poison)]"
     }

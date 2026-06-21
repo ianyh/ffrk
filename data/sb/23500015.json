@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Mirror of Equity: Ice Demon level 0/1/2, removes Arcane Dyad Empowered: Lasswell from the user"
+      "text": "Grants [Damage Cap +10000], [Attach Ice with Stacking], [Arcane Dyad Empowered: Lasswell], [Apex Mirror of Equity: Ice Demon Damage Tracker], [Apex Mirror of Equity: Ice Demon Level] to the user"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Lasswell",
+      "text": "Keeps track of the number of uses of Apex Mirror of Equity: Ice Demon (0~2), removed after using Apex Mirror of Equity: Ice Demon two times"
+    },
+    {
+      "name": "Apex Mirror of Equity: Ice Demon Damage Tracker",
+      "text": "Increases Apex Mirror of Equity: Ice Demon level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Lasswell]"
+    },
+    {
+      "name": "Apex Mirror of Equity: Ice Demon Level",
+      "text": "Keeps track of Apex Mirror of Equity: Ice Demon level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Lasswell]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Mirror of Equity: Ice Demon level 0/1/2, removes Arcane Dyad Empowered: Lasswell from the user"
+      "text": "Grants [Damage Cap +10000], [Attach Ice with Stacking], [Arcane Dyad Empowered: Lasswell], [Apex Mirror of Equity: Ice Demon Damage Tracker], [Apex Mirror of Equity: Ice Demon Level] to the user"
     },
     {
       "name": "Engaged",

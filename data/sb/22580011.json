@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Instant Cast 3]"
+    },
+    {
+      "name": "Instant Cast 3",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

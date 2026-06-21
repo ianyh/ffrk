@@ -2,7 +2,31 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Three single ranged hybrid attacks (5.24/5.77/6.29 or 16.53/18.36/20.20 each) capped at 9999/19999/29999 at Hour of Purpose level 0/1/2, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Gordon from the user"
+      "text": "Grants [Magical Blink 1] and [Physical Blink 1], grants [Soul Break Gauge +250], [Arcane Dyad Empowered: Gordon], [Hour of Purpose Ability Tracker] and [Hour of Purpose Level] to the user"
+    },
+    {
+      "name": "Magical Blink 1",
+      "text": "Evades the next non-PHY, non-NIN attack that deals magical, fractional or missing HP damage"
+    },
+    {
+      "name": "Physical Blink 1",
+      "text": "Evades the next PHY attack that deals physical, missing HP or fixed damage or NAT attack that deals physical or fractional damage"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Gordon",
+      "text": "Keeps track of the number of uses of Hour of Purpose (0~2), removed after using Hour of Purpose two times"
+    },
+    {
+      "name": "Hour of Purpose Ability Tracker",
+      "text": "Increases Hour of Purpose level by 1 after using 5 or 8 Support abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Gordon]"
+    },
+    {
+      "name": "Hour of Purpose Level",
+      "text": "Keeps track of Hour of Purpose level (0~2), grants [Hour of Purpose SB Cost Reduction] to the user after increeasing Hour of Purpose level to 2, removed if user hasn't [Arcane Dyad Empowered: Gordon]"
     },
     {
       "name": "Engaged",
@@ -12,7 +36,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Three single ranged hybrid attacks (5.24/5.77/6.29 or 16.53/18.36/20.20 each) capped at 9999/19999/29999 at Hour of Purpose level 0/1/2, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Gordon from the user"
+      "text": "Grants [Magical Blink 1] and [Physical Blink 1], grants [Soul Break Gauge +250], [Arcane Dyad Empowered: Gordon], [Hour of Purpose Ability Tracker] and [Hour of Purpose Level] to the user"
     },
     {
       "name": "Engaged",

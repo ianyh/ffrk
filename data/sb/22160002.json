@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four group attacks (2.37 each), minimum damage 600, causes [Blind] (100%)"
+    },
+    {
+      "name": "Blind",
+      "text": "ACC -50%, reduces hit rate by 75%, persists after battle, base duration is 30 seconds for characters"
     }
   ],
   "card_description": [

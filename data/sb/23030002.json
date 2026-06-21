@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores HP for 40% of the target's maximum HP, grants [Last Stand], [RES +100%] for 25 seconds"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
     }
   ],
   "card_description": [

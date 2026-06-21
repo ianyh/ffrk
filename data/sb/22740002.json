@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "One single attack (15.00) capped at 99999, grants [Armiger Mode] and [Stoneskin: 30%] to the user"
+    },
+    {
+      "name": "Armiger Mode",
+      "text": "ATK +30%, cast speed x3.00, removed if the character doesn't have any Stoneskin"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Earth with Stacking] and [High Quick Cast 1], grants [Last Stand] to all allies if two or more of Galuf, Kelger and Xezat are alive"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
     }
   ],
   "card_description": [

@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu v2)] and [White Magic Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken White Magic Mode I (Minwu v2)",
+      "text": "White Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, White Magic abilities trigger 2 additional times, chases White Magic abilities with Mysidian Rain"
+    },
+    {
+      "name": "White Magic Resonance +5% Boost",
+      "text": "White Magic abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken White Magic Mode II (Minwu v2)] to the user"
     }

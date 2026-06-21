@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten random attacks (0.68 each), [Imperil Wind 20%] for 25 seconds, grants [ATK and DEF +30%] for 25 seconds, [Quick Cast 1] and [Wind Quick Cycle] to the user"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Wind Quick Cycle",
+      "text": "Grants [Quick Cast 1] after using a Wind ability"
     }
   ],
   "card_description": [

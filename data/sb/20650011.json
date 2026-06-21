@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), causes [Imperil Earth 20%] for 25 seconds, grants [ATK and RES +30%], [Quick Cast 1] and [Earth Quick Cycle] to the user"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Earth Quick Cycle",
+      "text": "Grants [Quick Cast 1] after using a Earth ability"
     }
   ],
   "card_description": [

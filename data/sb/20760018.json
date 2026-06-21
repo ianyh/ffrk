@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), causes [ATK, DEF, MAG, RES and MND -50% (15s)] if 4+ FF7 allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quick Cast 1]/[Instant Cast 1] to all allies if 0-3/4+ FF7 allies are alive, grants [Synchro Mode] and Battle Fervor +2 to the user, grants [Attach Fire with Stacking] to the user if 4+ FF7 allies are alive"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND -50% (15s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
     }
   ],
   "card_description": [

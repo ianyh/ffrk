@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), causes [Imperil Ice 20% (25s)], grants [Instant Cast 1] and [Buff Ice 20% (15s)] to all allies, grants [Awoken Rebel Army Mode] and [Damage Cap +10000] to the user\nAwoken Rebel Army Mode: Unlimited Ice Hones, Ice Rank Quick Cast & chases Ice abilities with 6 single attacks (0.72 each)"
+    },
+    {
+      "name": "Imperil Ice 20% (25s)",
+      "text": "Ice Resistance -20%, cumulable"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Buff Ice 20% (15s)",
+      "text": "Increases Ice damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

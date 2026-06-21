@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single ranged jump attacks (0.71 each), grants [Attach Lightning with Stacking], [Jump Instant Cast] and [Dragoon +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Jump Instant Cast",
+      "text": "Instant cast speed for Jump attacks"
+    },
+    {
+      "name": "Dragoon +30% Boost (15s)",
+      "text": "Dragoon abilities deal 30% more damage"
     }
   ],
   "card_description": [

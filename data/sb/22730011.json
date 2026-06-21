@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [Quick Cast 3], grants [Attach Water with Stacking], [Awoken Virtuoso], and [Damage Cap +10000] to the user, casts the last ability used by any ally three times, default ability (PHY: single, 1.50 physical)"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Awoken Virtuoso",
+      "text": "Black Magic and Bard abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Black Magic and Bard abilities at ability rank 1/2/3/4/5, casts Punishing Aqua Breath after using Black Magic and Bard abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

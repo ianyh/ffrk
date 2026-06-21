@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Three single attacks (1.71 each), grants [Protect], [Shell] and [Haste] to the user"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

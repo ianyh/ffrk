@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [75% Damage Reduction Barrier 1] and [Haste]"
+    },
+    {
+      "name": "75% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 75% for the next attack"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

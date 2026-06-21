@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/29999, followed by one single attack (34.60/38.06) capped at 99999 at Spiritual Ray level 0/1, removes Arcane Dyad Empowered: Y'shtola from the user"
+      "text": "Grants [Quad Element Mode (Fire, Ice, Lightning, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Y'shtola], [Spiritual Ray Damage Tracker] and [Spiritual Ray Level]"
+    },
+    {
+      "name": "Quad Element Mode (Fire, Ice, Lightning, Dark)",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Dark] after using a Fire/Ice/Lightning/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Y'shtola",
+      "text": "Keeps track of the number of uses of Spiritual Ray (0~2), removed after using Spiritual Ray two times"
+    },
+    {
+      "name": "Spiritual Ray Damage Tracker",
+      "text": "Increases Spiritual Ray level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Y'shtola]"
+    },
+    {
+      "name": "Spiritual Ray Level",
+      "text": "Keeps track of Spiritual Ray level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Y'shtola]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/29999, followed by one single attack (34.60/38.06) capped at 99999 at Spiritual Ray level 0/1, removes Arcane Dyad Empowered: Y'shtola from the user"
+      "text": "Grants [Quad Element Mode (Fire, Ice, Lightning, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Y'shtola], [Spiritual Ray Damage Tracker] and [Spiritual Ray Level]"
     },
     {
       "name": "Engaged",

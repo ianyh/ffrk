@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (38.00) capped at 99999, 44.00 multiplier if the user has any [Doom]"
+    },
+    {
+      "name": "Doom",
+      "text": "Causes [KO] when a timer reaches 0"
     }
   ],
   "card_description": [

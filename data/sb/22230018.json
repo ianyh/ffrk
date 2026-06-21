@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Causes [Imperil Lightning 20% (15s)], grants [Buff Lightning 20% (15s)] to the user"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable"
+    },
+    {
+      "name": "Buff Lightning 20% (15s)",
+      "text": "Increases Lightning damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

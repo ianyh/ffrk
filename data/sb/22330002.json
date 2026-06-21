@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three group attacks (3.13 each), grants [Quick Cast 4] to the user"
+    },
+    {
+      "name": "Quick Cast 4",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Grants [Protect], [Shell] and [Last Stand], grants [Extreme Guard] to the user"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Extreme Guard",
+      "text": "Restores 1500 HP to all allies in the front row after using a Knight ability"
     }
   ],
   "card_description": [

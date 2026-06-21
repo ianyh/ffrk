@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Quick Cast 1]/[Quick Cast 2] to all allies if 0-1/2+ FF4 allies are alive, grants [Attach Holy with Stacking], [Awoken Night Vigil], and [Damage Cap +10000] to the user, grants [Dualcast Holy 2] to the user if 4+ FF4 allies are alive"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Awoken Night Vigil",
+      "text": "Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Moonblossom Mind after using Holy abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dualcast Holy 2",
+      "text": "Holy abilities trigger 1 additional time"
     }
   ],
   "card_description": [

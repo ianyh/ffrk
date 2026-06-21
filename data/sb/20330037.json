@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Soul Break Gauge +500] and [200% ATB 1]"
+    },
+    {
+      "name": "Soul Break Gauge +500",
+      "text": "Grants 500 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

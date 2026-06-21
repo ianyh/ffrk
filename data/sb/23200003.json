@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Six single attacks (1.30 each), grants [Critical Damage +50%] to all allies"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
     }
   ],
   "card_description": [

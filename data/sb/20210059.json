@@ -5,6 +5,18 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Celes (Holy)], [ATK +500 (25s) (Tactical)] to user."
     },
     {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. "
+    },
+    {
+      "name": "Tactical Awoken Mode: Celes (Holy)",
+      "text": "Holy abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Holy abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "ATK +500 (25s) (Tactical)",
+      "text": "ATK +500"
+    },
+    {
       "name": "Weapon Skill",
       "text": "One single attack (11.00 each) capped at 199,999. Grants [Holy Damage Cap +20000 (Tactical)], [Holy 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Surging Power +30% 6] to all allies if there are at least 4 Spellblade or VI party members, grants [Holy Ability +50% Boost (Tactical)] and [Holy 142% ATB Quick Cycle (Tactical)] to user if not"
     }

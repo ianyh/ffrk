@@ -5,6 +5,22 @@
       "text": "Seven single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Damage Cap +10000], [Tri-Element Mode II (Fire, Lightning, Water)], [Dual Awoken Ninja Mode I (Edge)] and [Ninja Resonance +5% Boost] to the user"
     },
     {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Lightning, Water)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Water with Stacking] after using a Fire/Lightning/Water ability"
+    },
+    {
+      "name": "Dual Awoken Ninja Mode I (Edge)",
+      "text": "Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 2 additional times, casts Dual Eblan Style after using three equipped Ninja abilities"
+    },
+    {
+      "name": "Ninja Resonance +5% Boost",
+      "text": "Ninja abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Edge)], removes [Dual Awoken Ninja Mode I (Edge)]"
     }

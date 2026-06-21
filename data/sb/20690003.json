@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three single attacks (1.70 each), causes [Paralyze] (21%)"
+    },
+    {
+      "name": "Paralyze",
+      "text": "Prevents from acting"
     }
   ],
   "card_description": [

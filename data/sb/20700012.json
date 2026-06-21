@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.63 each), grants [50% Critical] and [Wings of Freedom EX Mode] to the user"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "Wings of Freedom EX Mode",
+      "text": "ATK +30%, casts Spiral Rush after using a Thief ability"
     }
   ],
   "card_description": [

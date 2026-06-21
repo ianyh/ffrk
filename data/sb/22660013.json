@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Magical +70% Boost 1] to all allies with Attach Ice, grants [200% ATB 1] and [Quick Cast 1] to the user"
+    },
+    {
+      "name": "Magical +70% Boost 1",
+      "text": "Magical attacks deal 70% more damage"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

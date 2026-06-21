@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Lightning, Holy)], [Damage Cap +10000], [Dual Awoken Ballad Mode I (Garnet)] and [Lightning/Holy Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Twin Element Mode II (Lightning, Holy)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Holy with Stacking] after using a Lightning/Holy ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Ballad Mode I (Garnet)",
+      "text": "Summoning and Bard abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning and Bard abilities trigger 1 additional time, casts Dual Thundercloud Rhapsody after casting equipped Summoning or Bard abilities"
+    },
+    {
+      "name": "Lightning/Holy Resonance +5% Boost",
+      "text": "Lightning and Holy abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Garnet Trance], Smart Ether 2, and [Dual Awoken Ballad Mode II (Garnet)]"
     }

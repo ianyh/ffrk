@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four single attacks (1.90 each), grants [Critical Chance 25%] to all allies for 25 seconds, grants [Retaliate] to the user"
+    },
+    {
+      "name": "Retaliate",
+      "text": "Evades PHY attacks, counters PHY attacks with Attack"
     }
   ],
   "card_description": [

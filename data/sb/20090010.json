@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Water] and [Tidal Flood Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Water",
+      "text": "Replaces Attack command, increases Water damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Water resistance +20%"
+    },
+    {
+      "name": "Tidal Flood Follow-Up",
+      "text": "Casts Tidal Flood after using a Water ability, smart ether 2 when removed"
     }
   ],
   "card_description": [

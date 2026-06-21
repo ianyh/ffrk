@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (0.98 each), grants [Physical Blink 1] to all allies"
+    },
+    {
+      "name": "Physical Blink 1",
+      "text": "Evades the next PHY attack that deals physical, missing HP or fixed damage or NAT attack that deals physical or fractional damage"
     }
   ],
   "card_description": [

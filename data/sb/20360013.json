@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), grants [Lightning Radiant Shield: 75%] to all allies, grants [Divine Roar Follow-Up] to the user"
+    },
+    {
+      "name": "Lightning Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Lightning damage capped at 9999"
+    },
+    {
+      "name": "Divine Roar Follow-Up",
+      "text": "Casts Divine Roar after using two Summoning abilities"
     }
   ],
   "card_description": [

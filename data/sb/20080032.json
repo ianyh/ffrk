@@ -5,6 +5,22 @@
       "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Dark)], [Damage Cap +20000], [Dual Awoken Dragoon Pride Mode I (Kain - Dark)] and [Dragoon Resonance +5% Boost] to the user"
     },
     {
+      "name": "Twin Element Mode II (Lightning, Dark)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] after using a Lightning/Dark ability"
+    },
+    {
+      "name": "Damage Cap +20000",
+      "text": "Increases the damage/healing cap by 20000"
+    },
+    {
+      "name": "Dual Awoken Dragoon Pride Mode I (Kain - Dark)",
+      "text": "Dragoon abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dragoon abilities trigger 1 additional time, instant cast speed for Jump attacks"
+    },
+    {
+      "name": "Dragoon Resonance +5% Boost",
+      "text": "Dragoon abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Pride Mode II (Kain - Dark)]"
     }

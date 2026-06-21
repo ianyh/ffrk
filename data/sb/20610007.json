@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Wind Chain (max 99, field +20%), [ATK +50%] for 25 seconds, grants [Critical Damage +50%] for 25 seconds"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
     }
   ],
   "card_description": [

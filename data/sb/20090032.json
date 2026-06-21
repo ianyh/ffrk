@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I: Rydia - Water] and [Water Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Summoning Mode I: Rydia - Water",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Summoning abilities after casting 1/2/3+ Summoning abilities"
+    },
+    {
+      "name": "Water Resonance +5% Boost",
+      "text": "Water abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II: Rydia - Water], removes [Dual Awoken Summoning Mode I: Rydia - Water]"
     }

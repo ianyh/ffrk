@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Causes [ATK, DEF, MAG, RES and MND -50% (?s)], restores HP (55), and grants [ATK, MAG and MND +30% (25s) and [Empower Healing 30%] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Elarra] to the user"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Crystal Force Mode: Elarra",
+      "text": "White Magic/Bard/Dancer abilities don't consume uses, cast speed x3.00 for White Magic/Bard/Dancer abilities"
     }
   ],
   "card_description": [

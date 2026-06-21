@@ -2,7 +2,23 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Leap of Faith level 0/1/2, removes Arcane Dyad Empowered: Thancred from the user"
+      "text": "Grants Quad Element Mode II, [Damage Cap +10000], [Arcane Dyad Empowered: Thancred], [Leap of Faith Damage Tracker], and [Leap of Faith Level]\nQuad Element Mode II: En-Holy Stack, En-Earth Stack, En-Wind Stack or En-Poison Stack\n"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Thancred",
+      "text": "Keeps track of the number of uses of Leap of Faith (0~2), removed after using Leap of Faith two times"
+    },
+    {
+      "name": "Leap of Faith Damage Tracker",
+      "text": "Increases Leap of Faith level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Thancred]"
+    },
+    {
+      "name": "Leap of Faith Level",
+      "text": "Keeps track of Leap of Faith level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Thancred]"
     },
     {
       "name": "Engaged",
@@ -12,7 +28,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Leap of Faith level 0/1/2, removes Arcane Dyad Empowered: Thancred from the user"
+      "text": "Grants Quad Element Mode II, [Damage Cap +10000], [Arcane Dyad Empowered: Thancred], [Leap of Faith Damage Tracker], and [Leap of Faith Level]\nQuad Element Mode II: En-Holy Stack, En-Earth Stack, En-Wind Stack or En-Poison Stack\n"
     },
     {
       "name": "Engaged",

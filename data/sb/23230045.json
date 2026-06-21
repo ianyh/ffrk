@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Seven single attacks at Cap Break Level 1, grants [Attach Wind with Stacking], Cap Break Level 1, [Instant ATB 1], Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Wind/NE magic attacks at Cap Break Level 1, Instant Cast, [Quick Cast, Wind Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II, chases a Wind ability with Instant ATB 1 to user (max 1 chase)"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

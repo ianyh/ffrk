@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Attach Wind with Stacking], [Awoken Wind], [Damage Cap +10000], [Wind Ability +30% Boost (15s)] and [Ka] to the user"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Awoken Wind",
+      "text": "Wind abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Wind Ability +30% Boost (15s)",
+      "text": "Wind abilities deal 30% more damage"
+    },
+    {
+      "name": "Ka",
+      "text": "Grants [Quick Cast 1] to all allies in the character's row after using a Wind ability"
     }
   ],
   "card_description": [

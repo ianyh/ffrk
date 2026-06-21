@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three single jump attacks (8.00 each) capped at 99999, causes [KO] (100%) to the user"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
     }
   ],
   "card_description": [

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Dion] to user. Grants [Attach Holy with Stacking]."
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode: Dion",
+      "text": "Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode, triggers [Light Strike: Dion] after using Crystal Force abilities"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
     }
   ],
   "card_description": [

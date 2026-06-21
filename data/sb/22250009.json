@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Regenga], [Last Stand] and [75% Damage Reduction Barrier 1]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "75% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 75% for the next attack"
     }
   ],
   "card_description": [

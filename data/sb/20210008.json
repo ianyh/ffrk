@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.69 each), grants [High Runic], [Spellblade +30% Boost (15s)] and [Spellblade Double] to the user"
+    },
+    {
+      "name": "High Runic",
+      "text": "Taunts single-target BLK and WHT attacks, absorbs BLK and WHT attacks to restore 1 consumed ability use"
+    },
+    {
+      "name": "Spellblade +30% Boost (15s)",
+      "text": "Spellblade abilities deal 30% more damage"
+    },
+    {
+      "name": "Spellblade Double",
+      "text": "Spellblade abilities trigger 1 additional time consuming an extra ability use if able"
     }
   ],
   "card_description": [

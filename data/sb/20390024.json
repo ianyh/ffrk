@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Twin Element Mode III (Ice, Lightning)], [Synchro Mode], [Damage Cap +10000], [Viera's Vigor] and Berserk +1 to the user"
+    },
+    {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%"
+    },
+    {
+      "name": "Twin Element Mode III (Ice, Lightning)",
+      "text": "Grants [Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] after using a Ice/Lightning ability"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Viera's Vigor",
+      "text": "Grants [Viera's Vigor 60% Critical (15s)]/[Viera's Vigor 80% Critical (15s)]/[Viera's Vigor 100% Critical (15s)] to all allies after using 2/4/6+2n Sharpshooter abilities"
     }
   ],
   "card_description": [

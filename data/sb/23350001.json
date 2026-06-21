@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "[ATK, DEF and MAG -70%] for 8 seconds, causes [Imperil Lightning 20% (25s)], grants [Whirling Edge Follow-Up] to the user"
+    },
+    {
+      "name": "Imperil Lightning 20% (25s)",
+      "text": "Lightning Resistance -20%, cumulable"
+    },
+    {
+      "name": "Whirling Edge Follow-Up",
+      "text": "Casts Whirling Edge after using a Celerity or Dancer ability"
     }
   ],
   "card_description": [

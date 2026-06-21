@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), grants [Holy Radiant Shield: 75%], grants [Attach Holy] and [Awoken 2P] to the user"
+    },
+    {
+      "name": "Holy Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Holy damage capped at 9999"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%"
+    },
+    {
+      "name": "Awoken 2P",
+      "text": "White Magic abilities don't consume uses, White Magic abilities trigger 1 additional time, casts Banishra after using 2 White Magic abilities"
     }
   ],
   "card_description": [

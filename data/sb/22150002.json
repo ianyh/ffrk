@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Four group ranged attacks (1.50 each), causes [Paralyze] (15%) and [Silence] (15%)"
+    },
+    {
+      "name": "Paralyze",
+      "text": "Prevents from acting"
+    },
+    {
+      "name": "Silence",
+      "text": "Disables BLK, WHT, BLU and SUM actions, persists after battle"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Haste] and [Critical Chance 50%], [ATK and RES +30%] to all allies for 25 seconds, grants [Turk Pistol Follow-Up] to the user"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Turk Pistol Follow-Up",
+      "text": "Casts Turk Pistol after using two Fire abilities"
     }
   ],
   "card_description": [

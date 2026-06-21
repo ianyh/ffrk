@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Five group attacks (2.84 each), causes [Slow] (100%)"
+    },
+    {
+      "name": "Slow",
+      "text": "ATB speed x0.50"
     }
   ],
   "card_description": [

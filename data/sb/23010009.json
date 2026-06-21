@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Linked Materia Mode II (Lightning, Earth)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Linked Materia Mode II (Lightning, Earth)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Earth with Stacking] after using a Lightning/Earth ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

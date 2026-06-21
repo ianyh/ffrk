@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "Restores HP (85). Grants [Crystal Force Mode], [Conditional Attach Element 2 with Stacking From Party], [Damage Cap +10000], [Crystal Force Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Grants [ATK and MND +50% (25s)], [Quick Cast 3] to all allies."
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Conditional Attach Element 2 with Stacking From Party",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Earth 2 with Stacking]/[Attach Wind 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Holy 2 with Stacking]/[Attach Dark 2 with Stacking]/[Attach Poison 2 with Stacking] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode: Mog (Dragoon)",
+      "text": "Dragoon abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dragoon abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode"
+    },
+    {
+      "name": "Nature's Warrior Mode",
+      "text": "ATK +150%, DEF and RES +25%, cast speed x999999 to Dragoon abilities, triggers [Nature's Warrior] after using Dragoon abilities"
+    },
+    {
+      "name": "ATK and MND +50% (25s)",
+      "text": "ATK and MND +50%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

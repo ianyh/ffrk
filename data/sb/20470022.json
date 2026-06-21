@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Instant Cast 1] to all allies, grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000] and [Heir of Seto Mode] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Awoken Earth",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Heir of Seto Mode",
+      "text": "Grants [Buff Earth 10% (15s)] and [40% Damage Reduction Barrier 1] to all allies after using Earth abilities, removed after triggering three times"
     }
   ],
   "card_description": [

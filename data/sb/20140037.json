@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Weakness +30% Boost 2] to all allies, Grants [200% ATB 1] to the user"
+    },
+    {
+      "name": "Weakness +30% Boost 2",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

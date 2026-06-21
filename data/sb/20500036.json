@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Switch Draw Mode II (Water, Poison)], [Instant ATB 1], and [Instant Cast 2] to user"
+    },
+    {
+      "name": "Switch Draw Mode II (Water, Poison)",
+      "text": "Grants [Attach Water with Stacking]/[Attach Poison with Stacking] after using a Water/Poison ability"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

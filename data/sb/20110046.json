@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Linked Materia Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Shinra Mode I (Cloud)] and [(Wind/Dark) Resonance +5% Boost] to the user"
     },
     {
+      "name": "Linked Materia Mode II (Wind, Dark)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Wind/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Ex-Shinra Mode I (Cloud)",
+      "text": "Wind/Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind and Dark abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Wind/Dark abilities after casting 1/2/3+ Wind/Dark abilities"
+    },
+    {
+      "name": "(Wind/Dark) Resonance +5% Boost",
+      "text": "Wind and Dark abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Shinra Mode II (Cloud)] to the user"
     }

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning) v2], [Synchro Mode], [Damage Cap +10000] and [Double Bluff Mode] to the user"
+    },
+    {
+      "name": "Tri-Element Mode III (Fire, Ice, Lightning) v2",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Double Bluff Mode",
+      "text": "Grants [Black Magic +50% Boost 1] and Twincast +1 to the user after using two of Ice Crush or A Little Black Magic, grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)] and [Buff Lightning 10% (15s)] to the user after using two of Ice Crush or A Little Black Magic if Porom is alive"
     }
   ],
   "card_description": [

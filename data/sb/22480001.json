@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Five group attacks (1.11 each), grants [Haste] to all allies, [ATK +50%] to the user for 25 seconds"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

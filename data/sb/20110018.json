@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Attach Dark], [Heavy Charge Booster] and [Darkness Blow Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%"
+    },
+    {
+      "name": "Heavy Charge Booster",
+      "text": "Increases Heavy Charge level by 1 when the Heavy Charge level is increased"
+    },
+    {
+      "name": "Darkness Blow Follow-Up",
+      "text": "Casts Darkness Blow after using a Dark ability"
     }
   ],
   "card_description": [

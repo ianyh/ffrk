@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1], [Awoken Spellblade], [Damage Cap +10000], [Spellblade Assault Mode (Fire, Ice, Lightning)] and [Prepare to Charge] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Awoken Spellblade",
+      "text": "Spellblade abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Spellblade Assault Mode (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Prepare to Charge",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning] after using two Fire/Ice/Lightning Spellblade abilities if the triggering ability deals Fire/Ice/Lightning damage"
     }
   ],
   "card_description": [

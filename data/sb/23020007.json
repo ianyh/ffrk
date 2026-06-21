@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), grants [Awoken Turks Recruit], [Damage Cap +10000], [Instant Cast 1], [Linked Materia Mode (Fire, Lightning)] and [Rookie Mode] to the user"
+    },
+    {
+      "name": "Awoken Turks Recruit",
+      "text": "Fire and Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire and Lightning abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Linked Materia Mode (Fire, Lightning)",
+      "text": "Grants [Attach Fire] after using a Fire ability, grants [Attach Lightning] after using a Lightning ability"
+    },
+    {
+      "name": "Rookie Mode",
+      "text": "Casts Turks Flurry after another ally uses a Fire or Lightning ability, removed after triggering six times"
     }
   ],
   "card_description": [

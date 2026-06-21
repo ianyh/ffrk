@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Last Stand] to all allies, grants [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

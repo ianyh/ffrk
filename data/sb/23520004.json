@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Awoken Shadow King], [Damage Cap +10000], [Twin Element Mode (Fire, Dark)] and [Dark Phantom Mode] to the user"
+    },
+    {
+      "name": "Awoken Shadow King",
+      "text": "Dark and Fire abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode (Fire, Dark)",
+      "text": "Grants [Attach Fire]/[Attach Dark] after using a Fire/Dark ability"
+    },
+    {
+      "name": "Dark Phantom Mode",
+      "text": "Instant cast speed, casts Destruction after using a Dark or Fire ability, removed after triggering three times"
     }
   ],
   "card_description": [

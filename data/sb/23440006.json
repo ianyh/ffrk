@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.79 each) capped at 19999, causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [PHY +30% Boost (15s)] to all allies, grants [Dual Awoken President Salaheem Mode I] and [XI Resonance +3% Boost] to the user"
     },
     {
+      "name": "ATK, DEF, MAG, RES and MND -50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "PHY +30% Boost (15s)",
+      "text": "PHY attacks deal 30% more damage"
+    },
+    {
+      "name": "Dual Awoken President Salaheem Mode I",
+      "text": "Cast speed x2.00 for Support abilities, chases support abilities with President's Command"
+    },
+    {
+      "name": "XI Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is XI"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken President Salaheem Mode II], removes [Dual Awoken President Salaheem Mode I]"
     }

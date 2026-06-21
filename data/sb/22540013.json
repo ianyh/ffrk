@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
     }
   ],
   "card_description": [

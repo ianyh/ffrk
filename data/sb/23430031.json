@@ -5,6 +5,10 @@
       "text": "One single attack (8.00 each) capped at 99,999 based on EnIce, EnWater, or EnFire. Grants [Instant ATB 1] to user."
     },
     {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
       "name": "Break Arte",
       "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Trey], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]/[Attach Ice with Secondary Stacking]/[Attach Water with Secondary Stacking]."
     }

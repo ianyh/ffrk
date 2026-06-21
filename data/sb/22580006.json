@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Weakness +30% Boost (15s)] and [100% Critical 2]"
+    },
+    {
+      "name": "Weakness +30% Boost (15s)",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "100% Critical 2",
+      "text": "Critical chance =100%"
     }
   ],
   "card_description": [

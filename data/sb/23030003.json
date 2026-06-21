@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Causes [Instant KO] (20%)"
+    },
+    {
+      "name": "Instant KO",
+      "text": "Causes [KO] when set"
     }
   ],
   "card_description": [

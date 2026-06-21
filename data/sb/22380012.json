@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Quad Element Mode II (Fire, Ice, Lightning, Holy)]"
+    },
+    {
+      "name": "Quad Element Mode II (Fire, Ice, Lightning, Holy)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Holy with Stacking] after using a Fire/Ice/Lightning/Holy ability"
     }
   ],
   "card_description": [

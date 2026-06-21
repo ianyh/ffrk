@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [Attach Fire with Stacking], [100% Critical (25s) Custom Param] and [Scattering Blast Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "100% Critical (25s) Custom Param",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Scattering Blast Follow-Up",
+      "text": "Casts Scattering Blast after using a Fire ability"
     }
   ],
   "card_description": [

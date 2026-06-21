@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.80 each) capped at 19999, activates XV Chain (max 150, field +0%) or adds 25 to the current XV Chain maximum limit, grants [Chain Force Mode: Cor] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Cor",
+      "text": "Casts Kindred Guidance: Cor after another XV ally uses an ability, removed after triggering three times"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
     }
   ],
   "card_description": [

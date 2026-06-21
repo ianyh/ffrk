@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), [MAG, RES and MND +30%] to the user for 25 seconds, grants [Buff Holy 30% (15s)], [Buff Dark 30% (15s)] and [Delta Magic Follow-Up] to the user"
+    },
+    {
+      "name": "Buff Holy 30% (15s)",
+      "text": "Increases Holy damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Dark 30% (15s)",
+      "text": "Increases Dark damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Delta Magic Follow-Up",
+      "text": "Casts Delta Magic 1/2/3 after using 1/2/3+ White Magic or Darkness abilities"
     }
   ],
   "card_description": [

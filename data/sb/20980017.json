@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Tri-Element Mode II (Fire, Lightning, Water)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Lightning, Water)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Water with Stacking] after using a Fire/Lightning/Water ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

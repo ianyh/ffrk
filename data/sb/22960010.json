@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Fire Stoneskin: 100%] and [Quick Cast 1]"
+    },
+    {
+      "name": "Fire Stoneskin: 100%",
+      "text": "Reduces Fire damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

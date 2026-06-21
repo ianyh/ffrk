@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Activates Machinist Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Quick Cast 1] to all allies, grants [Linked Burst Mode: Machinist] and [Instant Cast 1] to user"
+    },
+    {
+      "name": "ATK +50% (25s)",
+      "text": "ATK +50%"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Linked Burst Mode: Machinist",
+      "text": "Grants [Buff Prismatic 10% (15s)] to all allies after a Machinist ally uses an elemental attack, triggers only once per element, removed after triggering three times"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

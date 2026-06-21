@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Buff Holy 30% (15s)], [Buff Ice 30% (15s)], [Buff Fire 30% (15s)], [Awoken Retainer], [Damage Cap +10000] and [Trinity Rush Finisher] to the user"
+    },
+    {
+      "name": "Buff Holy 30% (15s)",
+      "text": "Increases Holy damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Ice 30% (15s)",
+      "text": "Increases Ice damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Fire 30% (15s)",
+      "text": "Increases Fire damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Awoken Retainer",
+      "text": "Knight and Samurai abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Knight and Samurai abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Trinity Rush Finisher",
+      "text": "Casts Trinity Rush when removed"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eighteen single attacks (0.38 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

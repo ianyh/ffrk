@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
     }
   ],
   "card_description": [

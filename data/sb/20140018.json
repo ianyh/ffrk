@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Grants [50% Critical], [Haste] and [ATK and DEF +30% (25s)] to all allies, Grants [Awoken Keeper Mode] and [Unraveled History Follow-Up] to the user"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "ATK and DEF +30% (25s)",
+      "text": "ATK and DEF +30%"
+    },
+    {
+      "name": "Awoken Keeper Mode",
+      "text": "Support abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support abilities at ability rank 1/2/3/4/5, casts Awoken Keeper Mode Critical after using a Support ability"
+    },
+    {
+      "name": "Unraveled History Follow-Up",
+      "text": "Casts Unraveled History after using three Support abilities"
     }
   ],
   "card_description": [

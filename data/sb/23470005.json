@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Fire Stacking], [Attach Fire] and [Heat Reciter Follow-Up], damages the user for 99% current HP"
+    },
+    {
+      "name": "Attach Fire Stacking",
+      "text": "Allow to stack Attach Fire, up to Attach Fire 3"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%"
+    },
+    {
+      "name": "Heat Reciter Follow-Up",
+      "text": "Casts Heat Reciter after using a Fire ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Quartz Eye Mode II (Fire, Ice, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Quartz Eye Mode II (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

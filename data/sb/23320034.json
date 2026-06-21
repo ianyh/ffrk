@@ -5,6 +5,10 @@
       "text": "One single attack (8.00/5190.00 or 8.00/5190.00 each) capped at 99999. Grants [Instant ATB 1] to user."
     },
     {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
       "name": "Break Arte",
       "text": "One single attack (8.00 or 5190.00 each) capped at 99,999 based on ATK and MAG. Grants [Buster Mode], [Buster Chase Mode: Wedge], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Poison with Secondary Stacking]."
     }

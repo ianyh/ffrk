@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four group ranged attacks (1.05 each), grants [Rage] to the user for 3 turns"
+    },
+    {
+      "name": "Rage",
+      "text": "Forces a specified action, affects targeting (single: random enemy/ally; group: all enemies/allies if the action's auto-target group is enemies/allies), resets ATB when removed"
     }
   ],
   "card_description": [

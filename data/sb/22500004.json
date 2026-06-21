@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 2] and [Regenga] to all allies, grants 100% Critical to the user"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 2",
+      "text": "Reduces damage taken by 50% for the next two attacks"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
     }
   ],
   "card_description": [

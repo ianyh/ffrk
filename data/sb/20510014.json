@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [40% Damage Reduction Barrier 2], grants [Vivifying Step Follow-Up] to the user"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 2",
+      "text": "Reduces damage taken by 40% for the next two attacks"
+    },
+    {
+      "name": "Vivifying Step Follow-Up",
+      "text": "Casts Vivifying Step after using a Dancer ability"
     }
   ],
   "card_description": [

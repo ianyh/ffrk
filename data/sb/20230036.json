@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Instant ATB 1] and [Flash Attack: Tifa Follow-Up] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Flash Attack: Tifa Follow-Up",
+      "text": "Casts Flash Attack: Tifa after using a Earth ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [DEF and RES +200% (25s)] to all allies"
+    },
+    {
+      "name": "DEF and RES +200% (25s)",
+      "text": "DEF and RES +200%"
     }
   ],
   "card_description": [

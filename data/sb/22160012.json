@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Haste] and [Physical Blink 1]"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Physical Blink 1",
+      "text": "Evades the next PHY attack that deals physical, missing HP or fixed damage or NAT attack that deals physical or fractional damage"
     }
   ],
   "card_description": [

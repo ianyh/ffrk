@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "[ATK and MAG +30%] for 25 seconds, grants [Radiant Shield: 100%]"
+    },
+    {
+      "name": "Radiant Shield: 100%",
+      "text": "Returns 100% of the damage taken to the attacker"
     }
   ],
   "card_description": [

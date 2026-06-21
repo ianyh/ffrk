@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Last Stand], grants [Auto Kindred Sketch] to the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Auto Kindred Sketch",
+      "text": "Casts Kindred Sketch 1/1/2/3 every 3.50 seconds if there are 0/1/2/3+ VI characters in the party"
     }
   ],
   "card_description": [

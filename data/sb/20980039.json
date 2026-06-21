@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "7 single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] depending on entry damage, [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities, 25% DEF/RES Pierce & chases Ninja abilities with 2 single-target Water/Fire/Lightning/NE piercing hybrid attacks (0.60 or 225.00 each)"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

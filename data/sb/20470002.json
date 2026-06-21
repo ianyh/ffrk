@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Protect] and [Haste]"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

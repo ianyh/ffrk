@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "[ATK, MAG and MND +30% (25s)], grants [Haste], [Quick Cast] and [200% ATB 1], grants [Awoken Bard] to the user"
+    },
+    {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "Awoken Bard",
+      "text": "Bard abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Bard abilities at ability rank 1/2/3/4/5, Bard abilities trigger 1 additional time"
     }
   ],
   "card_description": [

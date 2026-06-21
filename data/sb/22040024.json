@@ -5,6 +5,30 @@
       "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie - Water)], [Ninja Resonance +5% Boost], [Physical Blink Stacking 2] and [Awoken Gauntlet] to the user"
     },
     {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Ninja Mode I (Yuffie - Water)",
+      "text": "Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 2 additional times, cast speed x2.00 for equipped Ninja abilities"
+    },
+    {
+      "name": "Ninja Resonance +5% Boost",
+      "text": "Ninja abilities deal 5% more damage"
+    },
+    {
+      "name": "Physical Blink Stacking 2",
+      "text": "Allows to stack Physical Blink, up to Physical Blink 2"
+    },
+    {
+      "name": "Awoken Gauntlet",
+      "text": "Grants [Physical Blink 1] after using a Ninja ability"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Yuffie - Water)], removes [Dual Awoken Ninja Mode I (Yuffie - Water)]"
     }

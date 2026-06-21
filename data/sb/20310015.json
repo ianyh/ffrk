@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Ice Stacking] and [Attach Ice] to the user, grants [Protect] to all allies"
+    },
+    {
+      "name": "Attach Ice Stacking",
+      "text": "Allow to stack Attach Ice, up to Attach Ice 3"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
     }
   ],
   "card_description": [

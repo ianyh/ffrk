@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Activates Dark Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)]"
+    },
+    {
+      "name": "MAG +50% (25s)",
+      "text": "MAG +50%"
+    },
+    {
+      "name": "ATK +50% (25s)",
+      "text": "ATK +50%"
     }
   ],
   "card_description": [

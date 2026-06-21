@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Six single attacks (0.52 each), causes [Imperil Dark 10%] for 15 seconds, grants [Buff Dark 10% (15s)] to the user"
+    },
+    {
+      "name": "Buff Dark 10% (15s)",
+      "text": "Increases Dark damage dealt by 10%, cumulable"
     }
   ],
   "card_description": [

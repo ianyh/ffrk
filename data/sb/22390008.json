@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Quick Cast] and [Princess of Destiny EX Mode] to the user"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Princess of Destiny EX Mode",
+      "text": "MND +30%, casts Holy Vengeance after using a White Magic ability"
     }
   ],
   "card_description": [

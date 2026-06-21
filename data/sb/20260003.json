@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (1.30), causes [Stun] (20%)"
+    },
+    {
+      "name": "Stun",
+      "text": "Resets ATB when set"
     }
   ],
   "card_description": [

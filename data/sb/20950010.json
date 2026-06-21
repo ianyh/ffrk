@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode III (Earth, Wind, Poison)], [Synchro Mode], [Damage Cap +10000] and [Assassinate] to the user"
+    },
+    {
+      "name": "Tri-Element Mode III (Earth, Wind, Poison)",
+      "text": "Grants [Attach Earth 2 with Stacking]/[Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] after using a Earth/Wind/Poison ability"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Assassinate",
+      "text": "Grants [Conditional Attach Element] to the user after using three of Assassin's Blade or Blade Ascension"
     }
   ],
   "card_description": [

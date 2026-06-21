@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four single attacks (1.95 each), grants [Unyielding Fist] to the user, [ATK +50%] to the user for 25 seconds"
+    },
+    {
+      "name": "Unyielding Fist",
+      "text": "ATK +50%, evades all attacks"
     }
   ],
   "card_description": [

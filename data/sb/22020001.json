@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Black Magic Quick Cast 3]"
+    },
+    {
+      "name": "Black Magic Quick Cast 3",
+      "text": "Cast speed x2.00 for Black Magic abilities"
     }
   ],
   "card_description": [

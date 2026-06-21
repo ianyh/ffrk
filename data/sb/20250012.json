@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.48 each), grants [Attach Dark], [Critical Chance 50%] for 25 seconds, and [Legendary SOLDIER EX Mode] for 15 seconds to the user"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%"
+    },
+    {
+      "name": "Legendary SOLDIER EX Mode",
+      "text": "Grants [Dark +30% Boost 1] after using two Dark abilities, sets the damage cap for PHY Dark attacks to 99999"
     }
   ],
   "card_description": [

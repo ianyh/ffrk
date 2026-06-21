@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "7 single attacks (3.05 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

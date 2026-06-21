@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.63 each), grants [Attach Fire], [Instant Cast 1] and [Lion Flash Follow-up] to the user"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Lion Flash Follow-up",
+      "text": "Casts Lion Flash after dealing a critical hit with an ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking, grants [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Zeid (Dark)] to the user"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Crystal Force Mode: Zeid (Dark)",
+      "text": "Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode"
     }
   ],
   "card_description": [

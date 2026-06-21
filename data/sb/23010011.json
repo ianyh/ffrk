@@ -5,6 +5,30 @@
       "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG and RES +30% (25s)], [Linked Materia Mode II (Lightning, Earth)], [Damage Cap +10000], [Dual Awoken Stoic Sunglasses Mode I (Rude)] and [Earth/Lightning Resonance +5% Boost] to the user"
     },
     {
+      "name": "Critical Chance +50% (25s)",
+      "text": "Critical chance +50% (additive with other critical chance sources)"
+    },
+    {
+      "name": "MAG and RES +30% (25s)",
+      "text": "MAG and RES +30%"
+    },
+    {
+      "name": "Linked Materia Mode II (Lightning, Earth)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Earth with Stacking] after using a Lightning/Earth ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Stoic Sunglasses Mode I (Rude)",
+      "text": "Earth and Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth and Lightning abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Earth and Lightning abilities after casting 1/2/3+ Earth or Lightning abilities"
+    },
+    {
+      "name": "Earth/Lightning Resonance +5% Boost",
+      "text": "Earth and Lightning abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Stoic Sunglasses Mode II (Rude)]"
     }

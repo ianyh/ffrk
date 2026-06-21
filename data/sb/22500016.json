@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Succession level 0/1, removes Arcane Dyad Empowered: Angeal from the user"
+      "text": "Grants [Linked Materia Mode (Wind, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Angeal], [Succession Damage Tracker] and [Succession Level]"
+    },
+    {
+      "name": "Linked Materia Mode (Wind, Holy)",
+      "text": "Grants [Attach Wind]/[Attach Holy] after using a Wind/Holy ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Angeal",
+      "text": "Keeps track of the number of uses of Succession (0~2), removed after using Succession two times"
+    },
+    {
+      "name": "Succession Damage Tracker",
+      "text": "Increases Succession level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Angeal]"
+    },
+    {
+      "name": "Succession Level",
+      "text": "Keeps track of Succession level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Angeal]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Succession level 0/1, removes Arcane Dyad Empowered: Angeal from the user"
+      "text": "Grants [Linked Materia Mode (Wind, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Angeal], [Succession Damage Tracker] and [Succession Level]"
     },
     {
       "name": "Engaged",

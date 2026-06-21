@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attacks (7.50) capped at 99999, 8.03 multiplier if Galuf is alive, grants [Twin Element Mode II (Fire, Earth)] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Fire, Earth)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Earth with Stacking] after using a Fire/Earth ability"
     }
   ],
   "card_description": [

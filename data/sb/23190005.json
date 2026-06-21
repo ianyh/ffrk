@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -50%] for 25 seconds, grants [Attach Earth], [Awoken Heavy Physical] and [Damage Cap +20000] to the user"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%"
+    },
+    {
+      "name": "Awoken Heavy Physical",
+      "text": "Heavy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, grants [Heavy Charge +1] after using a Heavy ability"
+    },
+    {
+      "name": "Damage Cap +20000",
+      "text": "Increases the damage/healing cap by 20000"
     }
   ],
   "card_description": [

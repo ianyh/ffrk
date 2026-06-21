@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four group ranged attacks (1.50 each), causes [Stun] (100%)"
+    },
+    {
+      "name": "Stun",
+      "text": "Resets ATB when set"
     }
   ],
   "card_description": [

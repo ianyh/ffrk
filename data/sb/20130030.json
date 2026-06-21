@@ -5,6 +5,26 @@
       "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [100% Critical], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Sharpshooter Mode I (Tidus)] and [Water Resonance +5% Boost] to the user"
     },
     {
+      "name": "100% Critical",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Sharpshooter Mode I (Tidus)",
+      "text": "Sharpshooter abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Sharpshooter abilities trigger 2 additional times, cast speed x2.00 for Sharpshooter abilities"
+    },
+    {
+      "name": "Water Resonance +5% Boost",
+      "text": "Water abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Tidus)]"
     }

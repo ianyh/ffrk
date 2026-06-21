@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Stoneskin: 30%], grants [Attach Holy] to the user"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%"
     }
   ],
   "card_description": [

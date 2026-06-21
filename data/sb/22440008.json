@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste] and [Astra], removes negative effects, grants [Awoken Potion] to the user"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Astra",
+      "text": "Prevents Poison, Silence, Paralyze, Confuse, Slow, Stop, Blind, Sleep, Petrify, Berserk, Sap and Stun once"
+    },
+    {
+      "name": "Awoken Potion",
+      "text": "White Magic abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for White Magic abilities at ability rank 1/2/3/4/5, casts Custom Potion after using a White Magic ability"
     }
   ],
   "card_description": [

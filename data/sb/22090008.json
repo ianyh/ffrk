@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.71 each), grants [ATK and DEF +30%] for 25 seconds, [Critical Chance 75%], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Dark Quick Cycle",
+      "text": "Grants [Quick Cast 1] after using a Dark ability"
     }
   ],
   "card_description": [

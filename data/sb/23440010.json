@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Causes [ATK, DEF and MAG -50% (25s)], grants 100% Critical (25s)] to all allies, grants [Awoken President Salaheem] to the user"
+    },
+    {
+      "name": "ATK, DEF and MAG -50% (25s)",
+      "text": "ATK, DEF and MAG -50%"
+    },
+    {
+      "name": "Awoken President Salaheem",
+      "text": "Unlimited Support ability hones, cast speed x2.00 for Support abilities, chase every 2 Support abilities with Salary"
     }
   ],
   "card_description": [

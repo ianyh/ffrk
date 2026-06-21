@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Five single attacks (2.36 each), causes [Sap] (15%) and [Sleep] (15%)"
+    },
+    {
+      "name": "Sap",
+      "text": "Damages for 1/64 maximum HP every 2.00 seconds"
+    },
+    {
+      "name": "Sleep",
+      "text": "Arrests ATB charge rate, prevents from acting, removed upon taking damage by PHY attacks"
     }
   ],
   "card_description": [

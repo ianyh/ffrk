@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Twin Jewel Mode II (Ice/Lightning)] and [High Quick Cast 1]"
+    },
+    {
+      "name": "Twin Jewel Mode II (Ice/Lightning)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Ice/Lightning ability"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
     }
   ],
   "card_description": [

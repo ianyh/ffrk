@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Two single attacks (5.20 each), causes [Poison] (25%)"
+    },
+    {
+      "name": "Poison",
+      "text": "Damages for 1/64 maximum HP every 5.00 seconds, persists after battle"
     }
   ],
   "card_description": [

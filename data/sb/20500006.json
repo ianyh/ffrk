@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "One single attack (39.60) capped at 99999, causes [Poison] (15%), [Blind] (15%), [Silence] (15%) and [Confuse] (15%)"
+    },
+    {
+      "name": "Poison",
+      "text": "Damages for 1/64 maximum HP every 5.00 seconds, persists after battle"
+    },
+    {
+      "name": "Blind",
+      "text": "ACC -50%, reduces hit rate by 75%, persists after battle, base duration is 30 seconds for characters"
+    },
+    {
+      "name": "Silence",
+      "text": "Disables BLK, WHT, BLU and SUM actions, persists after battle"
+    },
+    {
+      "name": "Confuse",
+      "text": "Forces default action (Attack for characters), affects targeting (single: 50% random enemy, 50% random ally; group: 50% all enemies, 50% all allies), resets ATB when set or removed, removed upon taking damage by PHY attacks"
     }
   ],
   "card_description": [

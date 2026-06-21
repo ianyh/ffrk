@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Cause [ATK, DEF, MAG and RES -30% (25s)]"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES -30% (25s)",
+      "text": "ATK, DEF, MAG and RES -30%"
     }
   ],
   "card_description": [

@@ -5,6 +5,30 @@
       "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Whistle Mode I (Yuna)] and [Holy Resonance Boost +5%] to the user"
     },
     {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Whistle Mode I (Yuna)",
+      "text": "Cast speed x2.00 for White Magic and Summoning abilities, casts Dual Dual Smile Practice after using White Magic and Summoning abilities"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Attach Holy] and [Dual Awoken Whistle Mode II (Yuna)]"
     }

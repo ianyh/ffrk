@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning with Stacking], [Awoken Acumen], [Damage Cap +10000] and [Austere Judge] to the user"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Awoken Acumen",
+      "text": "Lightning abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Lightning abilities at ability rank 1/2/3/4/5, casts Energy Bolt after using Lightning abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Austere Judge",
+      "text": "Grants [Attach Lightning] to the user after using two Lightning abilities"
     }
   ],
   "card_description": [

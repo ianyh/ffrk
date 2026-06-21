@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Damage Cap +10000] and [Weakness +30% Boost 2]"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Weakness +30% Boost 2",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
     }
   ],
   "card_description": [

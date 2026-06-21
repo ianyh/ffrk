@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attack (0.60 each), grants [50% Critical (25s)] to all allies, grants [Twin Element Mode III (Fire, Holy)], [Synchro Mode], [Damage Cap +10000], [High Quick Cast 1] and [Chivalrous Ambition] to the user"
+    },
+    {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%"
+    },
+    {
+      "name": "Twin Element Mode III (Fire, Holy)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Holy 2 with Stacking] after using a Fire/Holy ability"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "High Quick Cast 1",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Chivalrous Ambition",
+      "text": "Grants [Chivalrous Ambition Critical 60%]/[Chivalrous Ambition Critical 80%]/[Chivalrous Ambition Critical 100%] to all allies after using 2/4/6+2n Fire or Holy abilities"
     }
   ],
   "card_description": [

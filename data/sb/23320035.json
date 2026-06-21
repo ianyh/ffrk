@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Activates Poison Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] to all allies, grants [Instant Cast 1] to user, causes [Imperil Poison 30% (5s)]/[Imperil Poison 20% (5s)]/[Imperil Poison 10% (5s)] to all enemies if there are at least 4/2/0 allies with EnPoison"
+    },
+    {
+      "name": "ATK and MAG +30% (25s)",
+      "text": "ATK and MAG +30%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Imperil Poison 30% (5s)",
+      "text": "Poison Resistance -30%, cumulable"
+    },
+    {
+      "name": "Imperil Poison 20% (5s)",
+      "text": "Poison Resistance -20%, cumulable"
+    },
+    {
+      "name": "Imperil Poison 10% (5s)",
+      "text": "Poison Resistance -10%, cumulable"
     }
   ],
   "card_description": [

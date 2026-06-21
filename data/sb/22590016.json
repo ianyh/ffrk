@@ -3,6 +3,46 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Instant Cast 1], [Weakness +30% Boost (15s)], [Buff Prismatic 20% (15s)] to all allies if 4+ FF1 allies are alive, grants [Instant Cast 1], [Buff Prismatic 10% (15s)] too all allies if 2-3 FF1 allies are alive, grants [Instant Cast 1], [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)] to user if 0-1 FF1 allies are alive, grants [Awoken Witch], [Damage Cap +10000], and [Quartz Eye Mode II (Fire, Ice, Lightning)] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Weakness +30% Boost (15s)",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "Buff Prismatic 20% (15s)",
+      "text": "Grants [Buff Fire 20% (15s)], [Buff Ice 20% (15s)], [Buff Lightning 20% (15s)], [Buff Earth 20% (15s)], [Buff Wind 20% (15s)], [Buff Water 20% (15s)], [Buff Holy 20% (15s)], [Buff Dark 20% (15s)] and [Buff Poison 20% (15s)]"
+    },
+    {
+      "name": "Buff Prismatic 10% (15s)",
+      "text": "Grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)], [Buff Earth 10% (15s)], [Buff Wind 10% (15s)], [Buff Water 10% (15s)], [Buff Holy 10% (15s)], [Buff Dark 10% (15s)] and [Buff Poison 10% (15s)]"
+    },
+    {
+      "name": "Buff Fire 10% (15s)",
+      "text": "Increases Fire damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Buff Ice 10% (15s)",
+      "text": "Increases Ice damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Buff Lightning 10% (15s)",
+      "text": "Increases Lightning damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Awoken Witch",
+      "text": "Witch abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Witch abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quartz Eye Mode II (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
     }
   ],
   "card_description": [

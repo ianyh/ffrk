@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Tri-Element Mode II (Fire, Ice, Water)] and [Tri-Element Arrow Follow-Up]"
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Ice, Water)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Water with Stacking] after using a Fire/Ice/Water ability"
+    },
+    {
+      "name": "Tri-Element Arrow Follow-Up",
+      "text": "Casts Tri-Element Arrow after using a Fire, Ice or Water ability"
     }
   ],
   "card_description": [

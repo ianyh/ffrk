@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Holy Stacking], [Attach Holy] and [Stoneskin: 100%]"
+    },
+    {
+      "name": "Attach Holy Stacking",
+      "text": "Allow to stack Attach Holy, up to Attach Holy 3"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
     }
   ],
   "card_description": [

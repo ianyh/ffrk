@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single attack (7.50) capped at 99999, grants [Limit Break Gauge +250] to the user"
+    },
+    {
+      "name": "Limit Break Gauge +250",
+      "text": "Grants 250 LB points when set"
     }
   ],
   "card_description": [

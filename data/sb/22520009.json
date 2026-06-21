@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to all allies"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
     }
   ],
   "card_description": [

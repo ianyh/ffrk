@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single ranged jump attacks (0.71 each), [DEF and RES -50%] for 25 seconds, grants [Attach Wind] and [Jump Quick Cast] to the user"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%"
+    },
+    {
+      "name": "Jump Quick Cast",
+      "text": "Cast speed x2.00 for Jump attacks"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (6000)], [Cover Boost] and [Haurchefant Cover] to the user"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Cover Boost",
+      "text": "DEF and RES +100%, MND +50%"
+    },
+    {
+      "name": "Haurchefant Cover",
+      "text": "While front row, 100% chance to cover PHY, BLK, WHT, BLU and SUM attacks that target back row allies, reducing damage taken by 50%"
     }
   ],
   "card_description": [

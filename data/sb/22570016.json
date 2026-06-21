@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single ranged attacks (0.60 each), causes [DEF, RES and MND -70% (8s)] if 0-3 FF4 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] if 4+ FF4 allies are alive, grants [Attach Lightning], [Awoken Airship Tech], [Damage Cap +10000] and [Buff Lightning 20% (15s)] to the user"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (8s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%"
+    },
+    {
+      "name": "Awoken Airship Tech",
+      "text": "Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Bolt Rush after using Lightning abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Buff Lightning 20% (15s)",
+      "text": "Increases Lightning damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

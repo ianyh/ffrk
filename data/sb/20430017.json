@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Blacksmith Runaway Mode] and [Fire Ability +50% Boost 3] to the user"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Awoken Fire",
+      "text": "Fire abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Blacksmith Runaway Mode",
+      "text": "Critical chance =100%, cast speed x2.00 for Fire abilities"
+    },
+    {
+      "name": "Fire Ability +50% Boost 3",
+      "text": "Fire abilities deal 50% more damage"
     }
   ],
   "card_description": [

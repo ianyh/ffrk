@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.63 each), grants [Stoneskin: 30%] to all allies, grants [Quad Element Mode II (Fire, Ice, Lightning, Dark)] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Stoneskin: 30%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 30% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Quad Element Mode II (Fire, Ice, Lightning, Dark)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Dark with Stacking] after using a Fire/Ice/Lightning/Dark ability"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

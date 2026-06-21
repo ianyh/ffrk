@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Pentabreak Damage Boost (15s)] and [Crimson Steel Mode] to the user"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Pentabreak Damage Boost (15s)",
+      "text": "Increases damage dealt by 5/10/15/20/30% if target has 1/2/3/4/5 of ATK, DEF, MAG, RES or MND reduced"
+    },
+    {
+      "name": "Crimson Steel Mode",
+      "text": "Grants Firelight Shadows +1/-1 after using Mottled Chroma if user has Firelight Shadows 0/1, removed if the character hasn't [Synchro Mode]"
     }
   ],
   "card_description": [

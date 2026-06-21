@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Activates Lightning Chain (max 99, field +20%), eleven single attacks (1.63 each), grants [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

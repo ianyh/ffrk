@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Holy)], [Twin Master Mode] and Armaments +1 to the user"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode III (Fire, Holy)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Holy 2 with Stacking] after using a Fire/Holy ability"
+    },
+    {
+      "name": "Twin Master Mode",
+      "text": "Grants [Fire, Holy Ability +15% Boost 3]/[Fire, Holy Ability +30% Boost 3]/[Fire, Holy Ability +50% Boost 3], [75% Critical 3]/[100% Critical 3]/[100% Critical 3] and -/-/[Instant Cast 3] if the character has at least 0/50/80% HP after using Saintfire Blade, removed after triggering"
     }
   ],
   "card_description": [

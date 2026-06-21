@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Protect] and [High Regen]"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
     }
   ],
   "card_description": [

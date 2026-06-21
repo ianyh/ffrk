@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.72 each), grants [High Retaliate], [50% Critical], and [Legendary Swordsman EX Mode] to the user"
+    },
+    {
+      "name": "High Retaliate",
+      "text": "Evades PHY attacks, counters PHY attacks with an ability (PHY: single, 1.20 physical)"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "Legendary Swordsman EX Mode",
+      "text": "ATK +30%"
     }
   ],
   "card_description": [

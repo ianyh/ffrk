@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (? each) capped at 19999, activates XII Chain (max 150, field +0%) or adds 25 to the current XII Chain maximum limit, grants [Chain Force Mode: Reks] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Chain Force Mode: Reks",
+      "text": "Casts Kindred Guidance: Reks after using a Lightning ability, removed after triggering three times"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

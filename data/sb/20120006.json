@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Restores HP (50), grants [Reraise: 40%]"
+    },
+    {
+      "name": "Reraise: 40%",
+      "text": "Automatically removes KO (40% HP), removed after triggering"
     }
   ],
   "card_description": [

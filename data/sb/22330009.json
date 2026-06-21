@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Magical Instant Cast 3]"
+    },
+    {
+      "name": "Magical Instant Cast 3",
+      "text": "Instant cast speed for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
     }
   ],
   "card_description": [

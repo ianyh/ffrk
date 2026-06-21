@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One single ranged attack (1.80), causes [Sleep] (30%)"
+    },
+    {
+      "name": "Sleep",
+      "text": "Arrests ATB charge rate, prevents from acting, removed upon taking damage by PHY attacks"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten random ranged attacks (0.60 each), [ATK and DEF -40%] for 25 seconds, grants [Thief +30% Boost (15s)] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Thief +30% Boost (15s)",
+      "text": "Thief abilities deal 30% more damage"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

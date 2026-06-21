@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Runic] for 25 seconds"
+    },
+    {
+      "name": "Runic",
+      "text": "Taunts single-target BLK attacks, absorbs BLK attacks to restore 1 consumed ability use"
     }
   ],
   "card_description": [

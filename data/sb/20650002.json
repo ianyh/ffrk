@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Unyielding Fist]"
+    },
+    {
+      "name": "Unyielding Fist",
+      "text": "ATK +50%, evades all attacks"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [Tri-Element Mode II (Earth, Water, Holy)], Summoning smart ether 2"
+    },
+    {
+      "name": "Tri-Element Mode II (Earth, Water, Holy)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Water with Stacking]/[Attach Holy with Stacking] after using a Earth/Water/Holy ability"
     }
   ],
   "card_description": [

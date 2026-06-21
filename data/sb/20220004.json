@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Three group attacks (2.00 each), causes [Stop] (28%) and [Stun] (28%)"
+    },
+    {
+      "name": "Stop",
+      "text": "Arrests ATB charge rate, prevents from acting"
+    },
+    {
+      "name": "Stun",
+      "text": "Resets ATB when set"
     }
   ],
   "card_description": [

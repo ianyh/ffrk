@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.69 each), grants [Instant Cast 1] to all allies, grants [Steiner Rush] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Steiner Rush",
+      "text": "Casts Pluto Knight Triblade and grants [Buff Fire 10% (15s)], [Buff Lightning 10% (15s)] and [Buff Ice 10% (15s)] after exploiting elemental weakness"
     }
   ],
   "card_description": [

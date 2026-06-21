@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.80 each), [MND +50%] to the user for 25 seconds, grants [White Magic Rank Boost] and [White Magic Double] to the user"
+    },
+    {
+      "name": "White Magic Rank Boost",
+      "text": "White Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
+    },
+    {
+      "name": "White Magic Double",
+      "text": "White Magic abilities trigger 1 additional time consuming an extra ability use if able"
     }
   ],
   "card_description": [

@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (? each), [Quickcast Magic 2] to the party, [Awoken Card Master Mode], [Damage Cap +10000], [Switch Draw Mode II (Water, Poison)], Bubble Shock to the user. Bubble Shock: After using 2 Water/Poison abilities, chases with single target [Imperil Water 10%]/[Imperil Poison 10%] & [DEF/RES/MND -70%]"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Switch Draw Mode II (Water, Poison)",
+      "text": "Grants [Attach Water with Stacking]/[Attach Poison with Stacking] after using a Water/Poison ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Eight single attacks (2.14 each), grants [Radiant Shield: 100%] to all allies"
+    },
+    {
+      "name": "Radiant Shield: 100%",
+      "text": "Returns 100% of the damage taken to the attacker"
     }
   ],
   "card_description": [

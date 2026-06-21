@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Regenga], [Resist Ice 10% (15s)] and [Resist Water 10% (15s)], grants [Quick Cast] to the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Resist Ice 10% (15s)",
+      "text": "Ice Resistance +10%, cumulable"
+    },
+    {
+      "name": "Resist Water 10% (15s)",
+      "text": "Water Resistance +10%, cumulable"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

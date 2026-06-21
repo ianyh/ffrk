@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
     }
   ],
   "card_description": [

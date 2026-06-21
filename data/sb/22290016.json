@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to the target, Grants [Quick Cast 3] to all allies, Grants [200% ATB 1] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND -50% (8s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
     }
   ],
   "card_description": [

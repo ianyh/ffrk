@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), damages undeads, grants [Last Stand], grants [Brave Mode] to the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

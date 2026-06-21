@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Water, Poison)], [Awoken Captain's Fury], [Damage Cap +10000] and [Sisterly Spirit Mode] to the user"
+    },
+    {
+      "name": "Twin Element Mode II (Water, Poison)",
+      "text": "Grants [Attach Water with Stacking]/[Attach Poison with Stacking] after using a Water/Poison ability"
+    },
+    {
+      "name": "Awoken Captain's Fury",
+      "text": "Water and Poison abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water and Poison abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Sisterly Spirit Mode",
+      "text": "Casts Scourge Splash (Water/Poison) after using two Water or Poison abilities if the triggering ability deals Water/Poison damage, removed after triggering"
     }
   ],
   "card_description": [

@@ -5,6 +5,22 @@
       "text": "7 single attacks (0.90 each) capped at 19999, causes [Imperil Earth 20% (25s)], grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Guy II)], and [Earth Resonance +5% Boost] to the user\nDual Awoken Earth Mode I (Guy II): Earth Ability Boost, Triplecast Earth & chases Earth abilities with 4 single attacks (0.60 each)"
     },
     {
+      "name": "Imperil Earth 20% (25s)",
+      "text": "Earth Resistance -20%, cumulable"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Earth Resonance +5% Boost",
+      "text": "Earth abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Guy II)] to the user\nDual Awoken Earth Mode II (Guy II): Earth Ability Boost, Instant Earth & chases an Earth ability with causes [DEF, RES and MND -50% (8s)] and grants [Earth +40% Boost (5s)] to all allies"
     }

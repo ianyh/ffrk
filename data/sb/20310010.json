@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.72 each), grants [Ice Radiant Shield: 75%] to all allies, grants [Revenge Counter] to the user"
+    },
+    {
+      "name": "Ice Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Ice damage capped at 9999"
+    },
+    {
+      "name": "Revenge Counter",
+      "text": "Counters enemy PHY and BLK attacks with Revenge Counter"
     }
   ],
   "card_description": [

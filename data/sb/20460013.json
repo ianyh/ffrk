@@ -2,7 +2,23 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Last Dragoon level 0/1, removes Arcane Dyad Empowered: Ricard from the user"
+      "text": "Grants [Damage Cap +10000], [Quad Element Mode (Wind/Lightning/Water/Dark], [Arcane Dyad Empowered: Ricard], [Apex Last Dragoon Damage Tracker], [Apex Last Dragoon Level] "
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Ricard",
+      "text": "Keeps track of the number of uses of Apex Last Dragoon (0~2), removed after using Apex Last Dragoon two times"
+    },
+    {
+      "name": "Apex Last Dragoon Damage Tracker",
+      "text": "Increases Apex Last Dragoon level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Ricard]"
+    },
+    {
+      "name": "Apex Last Dragoon Level",
+      "text": "Keeps track of Apex Last Dragoon level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Ricard]"
     },
     {
       "name": "Engaged",
@@ -12,7 +28,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Last Dragoon level 0/1, removes Arcane Dyad Empowered: Ricard from the user"
+      "text": "Grants [Damage Cap +10000], [Quad Element Mode (Wind/Lightning/Water/Dark], [Arcane Dyad Empowered: Ricard], [Apex Last Dragoon Damage Tracker], [Apex Last Dragoon Level] "
     },
     {
       "name": "Engaged",

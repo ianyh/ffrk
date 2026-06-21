@@ -5,6 +5,14 @@
       "text": "Seven single-target Fire/Ice/Lightning/NE magic attacks (? each) capped at 19999, [MAG/MND +25% & DEF/RES +30%] for 8 seconds & [Witch Damage +3%] to party, [Damage Cap +10000] & [Dual Awoken Witch Mode I (Matoya)] to user"
     },
     {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Witch Mode I (Matoya)",
+      "text": "Witch abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Witch abilities trigger 2 additional times, cast speed x2.00 for Witch abilities"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Ability Boost], [Triplecast Witch], chases Witch abilities with 4 single-target Fire/Ice/Lightning/NE magic attacks (? each), every 2 chases grant [Quick Cast 1] to user, and grants [Dual Awoken Witch Mode II (Matoya)] to user"
     }

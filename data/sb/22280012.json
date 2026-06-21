@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Cosmic Warrior Mode I (Wol)], [Twin Element Mode II (Earth, Holy)] and [(Earth/Holy) Resonance +5% Boost] to the user"
     },
     {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Cosmic Warrior Mode I (Wol)",
+      "text": "Earth and Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth and Holy abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Earth and Holy abilities after casting 1/2/3+ Earth or Holy abilities"
+    },
+    {
+      "name": "Twin Element Mode II (Earth, Holy)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Holy with Stacking] after using a Earth/Holy ability"
+    },
+    {
+      "name": "(Earth/Holy) Resonance +5% Boost",
+      "text": "Earth and Holy abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Cosmic Warrior Mode II (Wol)] to the user, removes [Dual Awoken Cosmic Warrior Mode I (Wol)] from the user"
     }

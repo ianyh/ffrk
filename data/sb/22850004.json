@@ -5,6 +5,14 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Wrieg], ATK +500 to user\n"
     },
     {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. "
+    },
+    {
+      "name": "Tactical Awoken Mode: Wrieg",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional time, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities. Cast one single AOE Earth/NE jump attack at True Cap Break Level 1 when TP level reaches 6."
+    },
+    {
       "name": "Weapon Skill",
       "text": "One single-target Earth/NE piercing jump attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user. \n[Earth Damage Cap +20000 (Tactical)] & [Earth 125% ATB Quick Cycle (Tactical)] to user, and Weapon Skill Blue/Gold if user has 0-749/750+ SB points\nWS Blue: Grant [No Soul Break Cost (Tactical, max 1)] to user\nWS Gold: Grant [Earth Ability +50% Boost (Tactical)] & [Quadracast Earth 1] to user"
     }

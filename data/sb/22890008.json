@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Last Resort Mode] and Blood Weapon +1 to the user"
+    },
+    {
+      "name": "Attach Dark 3 with Stacking",
+      "text": "Increase Attach Dark Level by 3 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Last Resort Mode",
+      "text": "ATK +25%, DEF -25%, grants [125% ATB (Synchro)]/[200% ATB (Synchro)] and [Quick Cast (Synchro)]/[High Quick Cast (Synchro)] after using 1/2+ Dark abilities"
     }
   ],
   "card_description": [

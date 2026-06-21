@@ -3,6 +3,34 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (1.50 each), grants [Buff Water 20% (15s)], [Buff Earth 20% (15s)], [Buff Holy 20% (15s)], [Awoken Instacast], [Damage Cap +20000], [Tri-Element Mode II (Earth, Water, Holy)] and [Facing Destiny] to the user"
+    },
+    {
+      "name": "Buff Water 20% (15s)",
+      "text": "Increases Water damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Earth 20% (15s)",
+      "text": "Increases Earth damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Holy 20% (15s)",
+      "text": "Increases Holy damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Awoken Instacast",
+      "text": "Summoning abilities don't consume uses, Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Summoning abilities"
+    },
+    {
+      "name": "Damage Cap +20000",
+      "text": "Increases the damage/healing cap by 20000"
+    },
+    {
+      "name": "Tri-Element Mode II (Earth, Water, Holy)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Water with Stacking]/[Attach Holy with Stacking] after using a Earth/Water/Holy ability"
+    },
+    {
+      "name": "Facing Destiny",
+      "text": "Casts Mist Strike when Awoken Instacast is removed, removed after triggering"
     }
   ],
   "card_description": [

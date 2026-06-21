@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants [Stoneskin: 100%] and [Combat Rank Boost]"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Combat Rank Boost",
+      "text": "Combat abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5"
     }
   ],
   "card_description": [

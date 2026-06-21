@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Activates Summoning Chain (max 150, field +50%), grants [MAG +50% (25s)] and [Haste]"
+    },
+    {
+      "name": "MAG +50% (25s)",
+      "text": "MAG +50%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
     }
   ],
   "card_description": [

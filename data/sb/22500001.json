@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Six single attacks (1.24 each), [DEF +100%] to all allies for 25 seconds, grants [High Regen] to all allies"
+    },
+    {
+      "name": "High Regen",
+      "text": "Heals for 5% maximum HP every 2.50 seconds"
     }
   ],
   "card_description": [

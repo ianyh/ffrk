@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single ranged jump attacks (0.71 each), grants [Attach Wind], [No Air Time] and [Wind Fang Follow-Up] to the user"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%"
+    },
+    {
+      "name": "No Air Time",
+      "text": "Changes air time to 0.01 seconds"
+    },
+    {
+      "name": "Wind Fang Follow-Up",
+      "text": "Casts Wind Fang after using a Dragoon ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Dark], [Quick Cast 1] and [Dark Quick Cycle] to the user"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Dark Quick Cycle",
+      "text": "Grants [Quick Cast 1] after using a Dark ability"
     }
   ],
   "card_description": [

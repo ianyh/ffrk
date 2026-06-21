@@ -5,6 +5,26 @@
       "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [50% Critical (25s)] to all allies, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Father Mode I (Sazh)] and [Machinst/Support Resonance +5% Boost] to the user"
     },
     {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Father Mode I (Sazh)",
+      "text": "Machinst and Support abilities trigger 1 additional time, cast speed x2.00 for Machinst and Support abilities, grants [Dual Crimson Bravery 60% Critical]/[Dual Crimson Bravery 80% Critical]/[Dual Crimson Bravery 100% Critical] after using 1/2/3+ Machinst or Support abilities, grants [Deadly Strikes +20% 1] and [Quick Cast 1] to allies with any Attach Fire after using Machinist or Support abilities"
+    },
+    {
+      "name": "Machinst/Support Resonance +5% Boost",
+      "text": "Machinist and Support abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Father Mode II (Sazh)], removes [Dual Awoken Father Mode I (Sazh)]"
     }

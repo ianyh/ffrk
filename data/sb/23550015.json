@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1] to all allies, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Awoken Four Champions of Rubrum] and [Glacial Deathbringer Chase] to the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Twin Element Mode II (Ice, Dark)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Dark with Stacking] after using a Ice/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Awoken Four Champions of Rubrum",
+      "text": "Unlimited Ice and Dark abilities hones, cast speed x2.00/2.25/2.50/2.75/3.00 for Ice and Dark abilities at ability rank 1/2/3/4/5, Ice and Dark abilities trigger 1 additional time"
+    },
+    {
+      "name": "Glacial Deathbringer Chase",
+      "text": "Grants [Buff Ice 10% (15s)] and [Buff Dark 10% (15s)] to all allies after using two Ice or Dark abilities"
     }
   ],
   "card_description": [

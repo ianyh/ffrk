@@ -21,10 +21,6 @@
     {
       "name": "Accel Mode: Snow (Ice)",
       "text": "Ice abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts Roaring Snow (Max 6) after using Ice abilities, removed if the character hasn't [Accel Mode]"
-    },
-    {
-      "name": "Roaring Snow",
-      "text": "Six single attacks (0.60 each), grants [20% Damage Reduction Barrier 1] to the user"
     }
   ],
   "id": "20310038",

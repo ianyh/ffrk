@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.69 each), grants [Buff Water 20% (15s)], [Buff Ice 20% (15s)], [Buff Earth 20% (15s)] and [Career Change Mode II (Ice, Earth, Water)] to the user, grants [50% Damage Reduction Barrier 1] to all allies"
+    },
+    {
+      "name": "Buff Water 20% (15s)",
+      "text": "Increases Water damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Ice 20% (15s)",
+      "text": "Increases Ice damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Buff Earth 20% (15s)",
+      "text": "Increases Earth damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Career Change Mode II (Ice, Earth, Water)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Earth with Stacking]/[Attach Water with Stacking] after using a Ice/Earth/Water ability"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
     }
   ],
   "card_description": [

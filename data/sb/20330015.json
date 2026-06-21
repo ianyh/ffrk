@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.72 each), grants [Holy Radiant Shield: 75%] and [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Holy Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Holy damage capped at 9999"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

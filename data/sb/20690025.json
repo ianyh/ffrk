@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Attach Fire with Stacking], [Awoken Guiding Guardian], [Damage Cap +10000] and [Readied Blade Mode] to the user"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Awoken Guiding Guardian",
+      "text": "Samurai abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Blade of Allegiance after using a Samurai ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Readied Blade Mode",
+      "text": "Cast speed x2.00, Samurai abilities deal 10/20/30% more damage after using 0/1/2+ Samurai abilities"
     }
   ],
   "card_description": [

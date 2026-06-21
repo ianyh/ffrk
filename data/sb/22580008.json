@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.69 each), grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [100% Critical] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Rousing Charge Mode II (Fire, Lightning, Earth)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Earth with Stacking] after using a Fire/Lightning/Earth ability"
+    },
+    {
+      "name": "100% Critical",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

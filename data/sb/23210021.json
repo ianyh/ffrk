@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Restores HP (55), grants [Critical Damage +50%], grants [Synchro Mode] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

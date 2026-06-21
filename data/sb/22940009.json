@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK +30%, DEF +25% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Prince Royal Mode] to the user"
+    },
+    {
+      "name": "ATK +30%, DEF +25% (25s)",
+      "text": "ATK +30%, DEF +25%"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Prince Royal Mode",
+      "text": "Spellblade abilities deal 15/30/50% more damage after using 1/2/3+ Spellblade abilities"
     }
   ],
   "card_description": [

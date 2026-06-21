@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.70 each), grants [Summoning +30% Boost (15s)] and [Auto Firebolt Barrage] to the user"
+    },
+    {
+      "name": "Summoning +30% Boost (15s)",
+      "text": "Summoning abilities deal 30% more damage"
+    },
+    {
+      "name": "Auto Firebolt Barrage",
+      "text": "Casts Firebolt Barrage every 3.50 seconds"
     }
   ],
   "card_description": [

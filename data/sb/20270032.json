@@ -5,6 +5,22 @@
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Fire, Holy)], [Damage Cap +10000], [Dual Awoken Retainer Mode I (Firion (Holy/Fire))] and [(Samurai/Knight) Resonance +5% Boost] to the user"
     },
     {
+      "name": "Twin Element Mode II (Fire, Holy)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Holy with Stacking] after using a Fire/Holy ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Retainer Mode I (Firion (Holy/Fire))",
+      "text": "Samurai and Knight abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai and Knight abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Samurai and Knight abilities after using 1/2/3+ Samurai and Knight abilities"
+    },
+    {
+      "name": "(Samurai/Knight) Resonance +5% Boost",
+      "text": "Samurai and Knight abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Retainer Mode II (Firion (Holy/Fire))]"
     }

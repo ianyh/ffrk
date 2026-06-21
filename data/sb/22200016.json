@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Switch Draw Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Frostshade Witch Mode I (Edea)] and [(Ice/Dark) Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Switch Draw Mode II (Ice, Dark)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Dark with Stacking] after using a Ice/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Frostshade Witch Mode I (Edea)",
+      "text": "Ice and Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice and Dark abilities trigger 2 additional times, causes [Imperil Ice 10% (15s)] and [Imperil Dark 10% (15s)] after using two equipped Ice or Dark abilities, grants [Quick Cast 1] to the user after using two equipped Ice or Dark abilities"
+    },
+    {
+      "name": "(Ice/Dark) Resonance +5% Boost",
+      "text": "Ice and Dark abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Frostshade Witch Mode II (Edea)], removes [Dual Awoken Frostshade Witch Mode I (Edea)]"
     }

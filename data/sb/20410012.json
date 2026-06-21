@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.71 each), causes [DEF, RES and MND -70% (8s)], grants [Attach Fire with Stacking] and [Hyper Ignition] to the user"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Hyper Ignition",
+      "text": "Grants [Quick Cast 1] to all allies in the character's row after using a Fire ability"
     }
   ],
   "card_description": [

@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Causes [Imperil Fire 40% (5s)] and [Imperil Earth 40% (5s)] to target, grants [Quick Cast 2] to all allies."
+    },
+    {
+      "name": "Imperil Fire 40% (5s)",
+      "text": "Fire Resistance -40%, cumulable"
+    },
+    {
+      "name": "Imperil Earth 40% (5s)",
+      "text": "Earth Resistance -40%, cumulable"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

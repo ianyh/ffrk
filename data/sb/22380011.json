@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Quad Element Mode II (Fire, Ice, Lightning, Holy)], [Awoken War Hero], [100% Critical (25s)], [Damage Cap +10000] and [Hero-King's Strike] to the user"
+    },
+    {
+      "name": "Quad Element Mode II (Fire, Ice, Lightning, Holy)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Holy with Stacking] after using a Fire/Ice/Lightning/Holy ability"
+    },
+    {
+      "name": "Awoken War Hero",
+      "text": "Spellblade and Knight abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade and Knight abilities trigger 1 additional time"
+    },
+    {
+      "name": "100% Critical (25s)",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Hero-King's Strike",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Holy] to the user after using two Fire, Ice, Lightning or Holy abilities if the triggering ability deals Fire/Ice/Lightning/Holy damage"
     }
   ],
   "card_description": [

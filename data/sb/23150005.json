@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Dark Stoneskin: 100%] and [HP Stock (2000)]"
+    },
+    {
+      "name": "Dark Stoneskin: 100%",
+      "text": "Reduces Dark damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "HP Stock (2000)",
+      "text": "Automatically restores HP, up to 2000 HP, removed when that amount is reached"
     }
   ],
   "card_description": [

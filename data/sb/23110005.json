@@ -3,6 +3,38 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[50% Damage Reduction Barrier 1] and [Weakness +15% Boost (15s)]/[75% Damage Reduction Barrier 1] and [Weakness +30% Boost (15s)] to all allies if 1/2/4+ FF14 allies are alive, grants [Attach Holy], [Awoken Knight] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
+    },
+    {
+      "name": "Weakness +15% Boost (15s)",
+      "text": "Increases damage dealt by 15% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "75% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 75% for the next attack"
+    },
+    {
+      "name": "Weakness +30% Boost (15s)",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%"
+    },
+    {
+      "name": "Awoken Knight",
+      "text": "Knight abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Knight abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

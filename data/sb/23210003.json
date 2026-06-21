@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Restores HP (85), grants [Critical Damage +50%], grants [Quick Cast] to the user"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

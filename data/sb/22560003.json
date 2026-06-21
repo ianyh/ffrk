@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "One group attack (0.90), causes [Blind] (15%)"
+    },
+    {
+      "name": "Blind",
+      "text": "ACC -50%, reduces hit rate by 75%, persists after battle, base duration is 30 seconds for characters"
     }
   ],
   "card_description": [

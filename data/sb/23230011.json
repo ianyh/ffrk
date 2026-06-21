@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom level 0/1/2, removes Arcane Dyad Empowered: Ultimecia (Dark) from the user"
+      "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Ultimecia (Dark)], [Apex Maelstrom Damage Tracker] and [Apex Maelstrom Level]"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Ultimecia (Dark)",
+      "text": "Keeps track of the number of uses of Apex Maelstrom (0~2), removed after using Apex Maelstrom two times"
+    },
+    {
+      "name": "Apex Maelstrom Damage Tracker",
+      "text": "Increases Apex Maelstrom level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Ultimecia (Dark)]"
+    },
+    {
+      "name": "Apex Maelstrom Level",
+      "text": "Keeps track of Apex Maelstrom level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Ultimecia (Dark)]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom level 0/1/2, removes Arcane Dyad Empowered: Ultimecia (Dark) from the user"
+      "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Ultimecia (Dark)], [Apex Maelstrom Damage Tracker] and [Apex Maelstrom Level]"
     },
     {
       "name": "Engaged",

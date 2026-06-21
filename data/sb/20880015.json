@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.79 each), grants [MAG and RES +30% (25s)], [Instant Cast 2] and [Triple Sphere Mode II (Ice, Lightning, Water)] to the user"
+    },
+    {
+      "name": "MAG and RES +30% (25s)",
+      "text": "MAG and RES +30%"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Triple Sphere Mode II (Ice, Lightning, Water)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Water with Stacking] after using a Ice/Lightning/Water ability"
     }
   ],
   "card_description": [

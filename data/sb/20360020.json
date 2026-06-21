@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (1.68 each), grants [Twin Element Mode (Lightning, Holy)], [Brave Mode] and [Honest Heart Follow-Up] to the user"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Holy)",
+      "text": "Grants [Attach Lightning]/[Attach Holy] after using a Lightning/Holy ability"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
+    },
+    {
+      "name": "Honest Heart Follow-Up",
+      "text": "Casts Honest Heart (Lightning)/Honest Heart (Holy) after using two Lightning or Holy abilities if the triggering ability deals Lightning/Holy damage"
     }
   ],
   "card_description": [

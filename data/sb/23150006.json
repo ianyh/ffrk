@@ -3,6 +3,38 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (6000)], [Regenga], [Protect], [Shell], [Haste], [Reraise: 40%] and [75% Damage Reduction Barrier 1], grants [Awoken Love] to the user"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Protect",
+      "text": "DEF +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Shell",
+      "text": "RES +100% (ignoring the buff stacking caps)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Reraise: 40%",
+      "text": "Automatically removes KO (40% HP), removed after triggering"
+    },
+    {
+      "name": "75% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 75% for the next attack"
+    },
+    {
+      "name": "Awoken Love",
+      "text": "White Magic abilities don't consume uses, cast speed x3.00 for White Magic abilities, casts Wave of Mending after using White Magic abilities"
     }
   ],
   "card_description": [

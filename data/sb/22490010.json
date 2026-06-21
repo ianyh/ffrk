@@ -3,6 +3,30 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] and [50% Critical (15s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [General's Proclamation] to the user"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "50% Critical (15s)",
+      "text": "Critical chance =50%"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "General's Proclamation",
+      "text": "Grants [60% Critical (15s)]/[80% Critical (15s)]/[100% Critical (15s)] and [40% Damage Reduction Barrier 1] to all allies after using 2/4/6+2n Knight abilities"
     }
   ],
   "card_description": [

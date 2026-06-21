@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Grants all allies [Buff Earth 20% (15s)], grants [Soul Break Gauge +250] to the user"
+    },
+    {
+      "name": "Buff Earth 20% (15s)",
+      "text": "Increases Earth damage dealt by 20%, cumulable"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
     }
   ],
   "card_description": [

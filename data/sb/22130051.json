@@ -5,6 +5,26 @@
       "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Leila], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking]."
     },
     {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Leila",
+      "text": "Triggers [Destruction: Leila] when using Water/Poison abilities (max 5)"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5"
+    },
+    {
+      "name": "Attach Poison with Secondary Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 5, up to Attach Poison 5"
+    },
+    {
       "name": "Break Arte",
       "text": "One Poison/NE or Water/NE group attack (8.00) capped at 99,999 based on EnPoison or EnWater. Grants [Instant ATB 1] to user."
     }

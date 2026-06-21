@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Grants [HP Stock (3000)], removes negative effects"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
     }
   ],
   "card_description": [

@@ -3,6 +3,26 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Yeti Mode], [Damage Cap +10000], [Soul Break Gauge +500], and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Awoken Yeti Mode",
+      "text": "Unlimited Ice abilities hones, cast speed x2.00/2.25/2.50/2.75/3.00 for Ice abilities at ability rank 1/2/3/4/5, Ice abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Soul Break Gauge +500",
+      "text": "Grants 500 SB points when set"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
     }
   ],
   "card_description": [

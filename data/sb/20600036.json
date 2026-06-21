@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "FIfteen single attacks (0.60 each), grants [Awoken Sublime Thunder], [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)] and [Watchful Protector Mode] to the user"
+    },
+    {
+      "name": "Awoken Sublime Thunder",
+      "text": "Lightning and Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Ascending Presence after using Lightning and Holy abilities"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Double Crystarium Mode II (Lightning, Holy)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Holy with Stacking] after using a Lightning/Holy ability"
+    },
+    {
+      "name": "Watchful Protector Mode",
+      "text": "Cast speed x2.00, keeps track of the number of uses of Lightning or Holy abilities used (0~4), grants [Watchful Protector Critical Chance] after using a Lightning or Holy ability"
     }
   ],
   "card_description": [

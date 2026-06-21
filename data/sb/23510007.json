@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Aetheric Sever level 0/1, removes Arcane Dyad Empowered: Alisaie from the user"
+      "text": "Grants [Twin Element Mode (Lightning, Wind) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Alisaie], [Aetheric Sever Damage Tracker] and [Aetheric Sever Level]"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Wind) v2",
+      "text": "Grants [Attach Lightning]/[Attach Wind] after using a Lightning/Wind ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Alisaie",
+      "text": "Keeps track of the number of uses of Aetheric Sever (0~2), removed after using Aetheric Sever two times"
+    },
+    {
+      "name": "Aetheric Sever Damage Tracker",
+      "text": "Increases Aetheric Sever level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Alisaie]"
+    },
+    {
+      "name": "Aetheric Sever Level",
+      "text": "Keeps track of Aetheric Sever level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Alisaie]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Aetheric Sever level 0/1, removes Arcane Dyad Empowered: Alisaie from the user"
+      "text": "Grants [Twin Element Mode (Lightning, Wind) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Alisaie], [Aetheric Sever Damage Tracker] and [Aetheric Sever Level]"
     },
     {
       "name": "Engaged",

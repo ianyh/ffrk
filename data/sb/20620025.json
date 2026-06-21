@@ -5,6 +5,26 @@
       "text": "Seven single attacks (3.05 each) capped at 19999, restores HP (55) to all allies, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Kindred Mode I (Eiko)] and [Summoning Resonance +5% Boost] to the user"
     },
     {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dual Awoken Kindred Mode I (Eiko)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 1 additional time, casts Dual Terra Storm after casting Summoning abilities"
+    },
+    {
+      "name": "Summoning Resonance +5% Boost",
+      "text": "Summoning abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants Summoning smart ether 2, [Instant ATB 1] and [Dual Awoken Kindred Mode II (Eiko)]"
     }

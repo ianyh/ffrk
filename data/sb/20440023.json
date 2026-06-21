@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Causes [Imperil Fire 20% (15s)], grants [Buff Fire 20% (15s)] to the user"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable"
+    },
+    {
+      "name": "Buff Fire 20% (15s)",
+      "text": "Increases Fire damage dealt by 20%, cumulable"
     }
   ],
   "card_description": [

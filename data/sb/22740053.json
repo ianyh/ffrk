@@ -5,6 +5,14 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Noctis], ATK +500 to user\nTP Max: AOE Fire/NE, Earth/NE, or Lightning/NE physical attack at True Cap Break Level 1"
     },
     {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. "
+    },
+    {
+      "name": "Tactical Awoken Mode: Noctis",
+      "text": "Fire, Lightning or Earth abilities deal 30% more damage, have +10000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times and don't consume ability uses, Fire, Lightning or Earth abilities ignore 20% of the target's DEF and RES, keeps track of the number of Fire, Lightning or Earth abilities used, removes [Tactical Awoken Mode] after using 8 Fire, Lightning or Earth abilities, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
       "name": "Weapon Skill",
       "text": "Single-target Fire/Earth/Lightning/NE piercing physical attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user; during [Tactical Awoken Mode], Cap Break Level 2 & 30% DEF/RES Pierce to Fire/Earth/Lightning Abilities; Critical Chance +100% & Critical Damage +50% to user / during [Tactical Awoken Mode], Fire/Earth/Lightning Ability Damage +50% & chases a Fire/Earth/Lightning ability with [200% ATB 2] to user (max 1 chase) at 0/100% Critical Chance"
     }

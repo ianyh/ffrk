@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Four group ranged attacks (1.05 each), grants [Sentinel] to the user for 25 seconds"
+    },
+    {
+      "name": "Sentinel",
+      "text": "DEF +200%, taunts single-target PHY and BLK attacks"
     }
   ],
   "card_description": [

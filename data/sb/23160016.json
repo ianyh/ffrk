@@ -3,6 +3,50 @@
     {
       "name": "Entry",
       "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Spellblade] and [Damage Cap +10000] to the user, grants [Dualcast Spellblade 1] and [Quick Cast 1]/[Attach Earth], [Dualcast Spellblade 2] and [Quick Cast 2]/[Attach Earth with Stacking], [Dualcast Spellblade 3] and [Quick Cast 3] to the user if 0-1/2-3/4+ FF5 allies are alive"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Awoken Spellblade",
+      "text": "Spellblade abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 1 additional time"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dualcast Spellblade 1",
+      "text": "Spellblade abilities trigger 1 additional time"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%"
+    },
+    {
+      "name": "Dualcast Spellblade 2",
+      "text": "Spellblade abilities trigger 1 additional time"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Dualcast Spellblade 3",
+      "text": "Spellblade abilities trigger 1 additional time"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
     }
   ],
   "card_description": [

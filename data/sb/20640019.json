@@ -2,7 +2,27 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Forbidden Meteor level 0/1/2, removes Arcane Dyad Empowered: Tellah from the user"
+      "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Tellah], [Forbidden Meteor Damage Tracker] and [Forbidden Meteor Level]"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Tellah",
+      "text": "Keeps track of the number of uses of Forbidden Meteor (0~2), removed after using Forbidden Meteor two times"
+    },
+    {
+      "name": "Forbidden Meteor Damage Tracker",
+      "text": "Increases Forbidden Meteor level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Tellah]"
+    },
+    {
+      "name": "Forbidden Meteor Level",
+      "text": "Keeps track of Forbidden Meteor level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Tellah]"
     },
     {
       "name": "Engaged",
@@ -12,7 +32,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Forbidden Meteor level 0/1/2, removes Arcane Dyad Empowered: Tellah from the user"
+      "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Tellah], [Forbidden Meteor Damage Tracker] and [Forbidden Meteor Level]"
     },
     {
       "name": "Engaged",

@@ -3,6 +3,22 @@
     {
       "name": "Entry",
       "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], Crystal Mode to the user, grants [Critical Damage +50% 3] to the user/[Critical Damage +50%] to all allies if there are 0-3/4+ IX allies\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Fire Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Critical Damage +50% 3",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Critical Damage +50%",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
     }
   ],
   "card_description": [

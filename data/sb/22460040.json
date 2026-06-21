@@ -5,6 +5,22 @@
       "text": "Seven attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Quad Element Mode II (Fire, Earth, Wind, Water)], [Dual Awoken Shadow Ninja Mode I (Onion Knight)] and [Celerity/Support/Ninja Resonance +5% Boost] to the user"
     },
     {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quad Element Mode II (Fire, Earth, Wind, Water)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Water with Stacking] after using a Fire/Earth/Wind/Water ability"
+    },
+    {
+      "name": "Dual Awoken Shadow Ninja Mode I (Onion Knight)",
+      "text": "Celerity, Support and Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Celerity, Support and Ninja abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Celerity, Support and Ninja abilities after casting 1/2/3+ Celerity, Support or Ninja abilities"
+    },
+    {
+      "name": "Celerity/Support/Ninja Resonance +5% Boost",
+      "text": "Celerity, Support and Ninja abilities deal 5% more damage"
+    },
+    {
       "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Shadow Ninja Mode II (Onion Knight)]"
     }

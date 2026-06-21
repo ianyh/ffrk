@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Fifteen single-target Dark/Poison/NE magical attacks (1.50 each), grants [Twin Element Mode II (Dark, Poison)], [MAG +30%, RES +25% (25s)], [Damage Cap +10000], Awoken Jester of Ruin Mode & Toxic Bio Chase to user\nAwoken Jester of Ruin Mode: Unlimited Dark/Poison Hones, Dark/Poison Ability Boost & chases Dark/Poison abilities with 6 single-target Dark/Poison/NE magic attacks (2.41 each)\nToxic Bio: After using 2 Dark/Poison abilities, grants [Dark/Poison+50% Boost 1] to user"
+    },
+    {
+      "name": "Twin Element Mode II (Dark, Poison)",
+      "text": "Grants [Attach Dark with Stacking]/[Attach Poison with Stacking] after using a Dark/Poison ability"
+    },
+    {
+      "name": "MAG +30%, RES +25% (25s)",
+      "text": "MAG +30%, RES +25%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
     }
   ],
   "card_description": [

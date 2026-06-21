@@ -3,6 +3,14 @@
     {
       "name": "Entry",
       "text": "Ten single attacks (0.63 each), [DEF and MAG -40%] for 25 seconds, grants [Ninja +30% Boost (15s)] and [Brave Mode] to the user"
+    },
+    {
+      "name": "Ninja +30% Boost (15s)",
+      "text": "Ninja abilities deal 30% more damage"
+    },
+    {
+      "name": "Brave Mode",
+      "text": "Replaces the Attack command"
     }
   ],
   "card_description": [

@@ -3,6 +3,10 @@
     {
       "name": "Entry",
       "text": "Three single attacks (1.68 each), grants [Sentinel] to the user for 25 seconds"
+    },
+    {
+      "name": "Sentinel",
+      "text": "DEF +200%, taunts single-target PHY and BLK attacks"
     }
   ],
   "card_description": [

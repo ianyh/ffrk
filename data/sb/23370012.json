@@ -2,7 +2,47 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Elementillery level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Cater from the user"
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], and [Imperil Lightning 10% (15s)], grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)] and [Buff Lightning 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Cater], [Apex Elementillery Damage Tracker] and [Apex Elementillery Level]"
+    },
+    {
+      "name": "Imperil Fire 10% (15s)",
+      "text": "Fire Resistance -10%, cumulable"
+    },
+    {
+      "name": "Imperil Ice 10% (15s)",
+      "text": "Ice Resistance -10%, cumulable"
+    },
+    {
+      "name": "Imperil Lightning 10% (15s)",
+      "text": "Lightning Resistance -10%, cumulable"
+    },
+    {
+      "name": "Buff Fire 10% (15s)",
+      "text": "Increases Fire damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Buff Ice 10% (15s)",
+      "text": "Increases Ice damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Buff Lightning 10% (15s)",
+      "text": "Increases Lightning damage dealt by 10%, cumulable"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Cater",
+      "text": "Keeps track of the number of uses of Apex Elementillery (0~2), removed after using Apex Elementillery two times"
+    },
+    {
+      "name": "Apex Elementillery Damage Tracker",
+      "text": "Increases Apex Elementillery level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Cater]"
+    },
+    {
+      "name": "Apex Elementillery Level",
+      "text": "Keeps track of Apex Elementillery level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Cater]"
     },
     {
       "name": "Engaged",
@@ -12,7 +52,7 @@
   "card_description": [
     {
       "name": "Entry",
-      "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Elementillery level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Cater from the user"
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], and [Imperil Lightning 10% (15s)], grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)] and [Buff Lightning 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Cater], [Apex Elementillery Damage Tracker] and [Apex Elementillery Level]"
     },
     {
       "name": "Engaged",

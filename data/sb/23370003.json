@@ -3,6 +3,18 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (0.70 each), grants [Machinist +30% Boost (15s)], [Quick Cast] and [Debuff Shot Follow-Up] to the user"
+    },
+    {
+      "name": "Machinist +30% Boost (15s)",
+      "text": "Machinist abilities deal 30% more damage"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Debuff Shot Follow-Up",
+      "text": "Casts Fire/Ice/Lightning Debuff Shot after using two Fire, Ice or Lightning Machinist abilities if the triggering ability deals Fire/Ice/Lightning damage"
     }
   ],
   "card_description": [

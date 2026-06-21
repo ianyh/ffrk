@@ -5,6 +5,34 @@
       "text": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking]."
     },
     {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Ricard",
+      "text": "Triggers [Destruction: Ricard] when using Wind/Lightning/Water/Dark abilities (max 5)"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Wind with Secondary Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 5, up to Attach Wind 5"
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5"
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5"
+    },
+    {
+      "name": "Attach Dark with Secondary Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 5, up to Attach Dark 5"
+    },
+    {
       "name": "Break Arte",
       "text": "One Lightning/NE or Water/NE or Dark/NE or Wind/NE group attack (8.00) capped at 99,999 based on EnLightning or EnWater or EnDark or EnWind. Grants [Instant ATB 1] to user."
     }
