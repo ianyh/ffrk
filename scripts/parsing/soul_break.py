@@ -83,7 +83,11 @@ class SoulBreak():
         # if this is not a card we can take the rest of them in arbitrary order
         # otherwise we ignore to keep the card description tightened
         if not is_card:
-            collected_sections.extend(primary_sections.values())
+            for other_section in primary_sections.values():
+                if isinstance(other_section, SubsectionDescriptionSection):
+                    collected_sections.extend(other_section.entries)
+                else:
+                    collected_sections.append(other_section)
 
         # if there are other sb_rows, we just take the entry for each
         secondary_entries = []
@@ -96,7 +100,14 @@ class SoulBreak():
         return collected_sections
     
     def sections(self) -> Dict[str, DescriptionSection]:
+        entry_effects = self.sb_rows[0]["effects"]
         sections = {
-            "entry": DescriptionSection("Entry", self.sb_rows[0]["effects"])
+            "entry": DescriptionSection("Entry", entry_effects)
         }
+        status_sections: list[DescriptionSection] = []
+        for status_name in extract_statuses(entry_effects):
+            status = self.data.status_with_name(status_name)
+            if status:
+                status_sections.append(DescriptionSection(status["Common Name"], status["Effects"]))
+        sections["other_status"] = SubsectionDescriptionSection("other_status", "", status_sections)
         return sections

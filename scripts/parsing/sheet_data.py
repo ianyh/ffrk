@@ -8,7 +8,7 @@ ELEMENT_SPLIT = r'\s*(?:,\s*(?:and|or)\s*|,\s*|/\s*|\s+(?:and|or)\s+)\s*'
 
 
 STATUS_RE = re.compile(r"\[([^\]]+)\]")
-def extract_statuses(text) -> list[str]:
+def extract_statuses(text: str) -> list[str]:
     """List the [bracketed] status names in `text`, first-seen order, de-duped."""
     seen, out = set(), []
     for name in STATUS_RE.findall(text):
@@ -21,7 +21,7 @@ def extract_statuses(text) -> list[str]:
 
 # Lowercase words allowed *inside* a multi-word proper noun.
 _CONNECTORS = r"of|the|and|in|to"
-def extract_with_prefix(text, prefix) -> list[str]:
+def extract_with_prefix(text: str, prefix: str) -> list[str]:
     """Find 'prefix <Name>' references in `text` — colon optional, bracketed or not.
 
     Handles 'Spirit Attack:' (colon present) and 'Roaring' (no colon) alike.
