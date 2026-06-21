@@ -1,7 +1,7 @@
 from dataclasses import dataclass
-from typing import Any
-from .sheet_data import SheetData, extract_statuses
-from .soul_break import SoulBreak
+from typing import Any, Dict
+from .sheet_data import SheetData, extract_statuses, extract_with_prefix
+from .soul_break import SoulBreak, DescriptionSection, SubsectionDescriptionSection
 
 
 @dataclass(frozen=True)
@@ -14,36 +14,33 @@ class ASB(SoulBreak):
     def sb(self) -> dict:
         return self.sb_rows[0]
 
-    def ordered_sections(self, is_card: bool) -> list[dict]:
-        sections = self.sections()
+    def section_key_ordering(self, is_card):
         return [
-            sections["entry"],
-            sections.get("mode"),
-            sections.get("chase")
+            "entry",
+            "mode",
+            "chase"
         ]
-    
-    def sections(self) -> dict:
-        sections: dict[str, Any] = {
-            "entry": {
-                "name": "Entry",
-                "text": self.sb["effects"]
-            }
+
+    def sections(self) -> Dict[str, DescriptionSection]:
+        sections: dict[str, DescriptionSection] = {
+            "entry": DescriptionSection("Entry", self.sb["effects"])
         }
 
         sb_statuses = extract_statuses(self.sb["effects"])
         accel_mode_name = next((status for status in sb_statuses if status.startswith("Accel Mode: ")), None)
         accel_mode = self.data.status_with_name(accel_mode_name)
         if accel_mode is not None:
-            sections["mode"] = {
-                "name": accel_mode["Common Name"],
-                "text": accel_mode["Effects"]
-            }
-            sections["other"] = [{"name": o["Name"], "text": o["Effects"]} for o in self.data.others_with_source(accel_mode_name)]
-            for chase in self.data.others_with_source(accel_mode_name):
-                sections["chase"] = {
-                    "name": chase["Name"],
-                    "text": chase["Effects"]
-                }
+            sections["mode"] = DescriptionSection(accel_mode["Common Name"], accel_mode["Effects"])
+            chase_name = next((o for o in extract_with_prefix(accel_mode["Effects"], "Roaring")), None)
+            if chase_name is not None:
+                chase = self.data.other_with_name(chase_name)
+                if chase is not None:
+                    sections["chase"] = DescriptionSection(chase_name, chase["Effects"])
+            others = [o for o in self.data.others_with_source(accel_mode_name) if o["Name"] != chase_name]
+            others_sections: list[DescriptionSection] = []
+            for other in others:
+                others_sections.append(DescriptionSection(other["Name"], other["Effects"]))
+            sections["other"] = SubsectionDescriptionSection("other", "", others_sections)
         else:
             print(f"accel mode not found: {accel_mode} {accel_mode_name}")
             

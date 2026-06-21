@@ -8,7 +8,7 @@ ELEMENT_SPLIT = r'\s*(?:,\s*(?:and|or)\s*|,\s*|/\s*|\s+(?:and|or)\s+)\s*'
 
 
 STATUS_RE = re.compile(r"\[([^\]]+)\]")
-def extract_statuses(text):
+def extract_statuses(text) -> list[str]:
     """List the [bracketed] status names in `text`, first-seen order, de-duped."""
     seen, out = set(), []
     for name in STATUS_RE.findall(text):
@@ -21,7 +21,7 @@ def extract_statuses(text):
 
 # Lowercase words allowed *inside* a multi-word proper noun.
 _CONNECTORS = r"of|the|and|in|to"
-def extract_with_prefix(text, prefix):
+def extract_with_prefix(text, prefix) -> list[str]:
     """Find 'prefix <Name>' references in `text` — colon optional, bracketed or not.
 
     Handles 'Spirit Attack:' (colon present) and 'Roaring' (no colon) alike.
@@ -61,11 +61,11 @@ class SheetData():
             csv_path = csv_dir / f"{name}.csv"
             self.readers[name] = list(csv.DictReader(open(csv_path, encoding="utf-8")))
 
-    def others_with_source(self, source):
+    def others_with_source(self, source) -> list[dict]:
         return [other for other in self.readers["other"] if other["Source"] == source]
 
-    def other_with_name(self, name):
+    def other_with_name(self, name) -> dict | None:
         return next((other for other in self.readers["other"] if other["Name"] == name), None)
     
-    def status_with_name(self, name):
+    def status_with_name(self, name) -> dict | None:
         return next((status for status in self.readers["status"] if status["Common Name"] == name), None)
