@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [SB Gauge +25% Boost 3], grants [Awoken Oracle of Light] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [SB Gauge +25% Boost 3], grants [Awoken Oracle of Light] to the user"
+    }
+  ],
   "id": "22520008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520008/22520008_256.png",
   "character": "Minfilia",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [SB Gauge +25% Boost 3], grants [Awoken Oracle of Light] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [SB Gauge +25% Boost 3], grants [Awoken Oracle of Light] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [SB Gauge +25% Boost 3], grants [Awoken Oracle of Light] to the user"
-    }
-  ]
+  "effects": "Grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [SB Gauge +25% Boost 3], grants [Awoken Oracle of Light] to the user"
 }

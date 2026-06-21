@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Last Stand], grants [Extreme Guard] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Last Stand], grants [Extreme Guard] to the user"
+    }
+  ],
   "id": "22470005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470005/22470005_256.png",
   "character": "Curilla",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Protect], [Shell] and [Last Stand], grants [Extreme Guard] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect], [Shell] and [Last Stand], grants [Extreme Guard] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect], [Shell] and [Last Stand], grants [Extreme Guard] to the user"
-    }
-  ]
+  "effects": "Grants [Protect], [Shell] and [Last Stand], grants [Extreme Guard] to the user"
 }

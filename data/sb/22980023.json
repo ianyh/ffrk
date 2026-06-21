@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "War-Awoken Alliance Leap (Weapon Skill)",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "War-Awoken Alliance Leap (Weapon Skill)",
+      "text": ""
+    }
+  ],
   "id": "22980023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980023/22980023_256.png",
   "character": "Aranea",
@@ -11,25 +31,5 @@
   "type": "",
   "target": "",
   "lensable": false,
-  "effects": "",
-  "description": [
-    {
-      "name": "Entry",
-      "text": ""
-    },
-    {
-      "name": "Weapon Skill",
-      "text": ""
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": ""
-    },
-    {
-      "name": "Weapon Skill",
-      "text": ""
-    }
-  ]
+  "effects": ""
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I: Rydia - Water] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Lord of the Seas (Dual Shift)",
+      "text": "Grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II: Rydia - Water], removes [Dual Awoken Summoning Mode I: Rydia - Water]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I: Rydia - Water] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Lord of the Seas (Dual Shift)",
+      "text": "Grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II: Rydia - Water], removes [Dual Awoken Summoning Mode I: Rydia - Water]"
+    }
+  ],
   "id": "20090032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090032/20090032_256.png",
   "character": "Rydia",
@@ -14,25 +34,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I: Rydia - Water] and [Water Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I: Rydia - Water] and [Water Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II: Rydia - Water], removes [Dual Awoken Summoning Mode I: Rydia - Water]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I: Rydia - Water] and [Water Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II: Rydia - Water], removes [Dual Awoken Summoning Mode I: Rydia - Water]"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I: Rydia - Water] and [Water Resonance +5% Boost] to the user"
 }

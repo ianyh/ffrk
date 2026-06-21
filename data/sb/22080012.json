@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user"
+    }
+  ],
   "id": "22080012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080012/22080012_256.png",
   "character": "Exdeath",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 or 1.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Holy, Dark)] and [Ravenous Void Mode] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Buff Lightning 20% (15s)] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Buff Lightning 20% (15s)] and [High Quick Cast 2]"
+    }
+  ],
   "id": "22360007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360007/22360007_256.png",
   "character": "Shantotto",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Buff Lightning 20% (15s)] and [High Quick Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Buff Lightning 20% (15s)] and [High Quick Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Buff Lightning 20% (15s)] and [High Quick Cast 2]"
-    }
-  ]
+  "effects": "Grants [Buff Lightning 20% (15s)] and [High Quick Cast 2]"
 }

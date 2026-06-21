@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Ice Ability Boost, Triplecast Ice, Unlimited Ice Hones, Cap Break Level 1 to Ice Abilities, Ice Ability Damage +30% & ATB Speed x1.1 to Ice Abilities; Ends after using 8 Ice abilities\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Hagakure Pure Heart (Weapon Skill)",
+      "text": "Single-target Ice/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold with at least 0/4 Samurai/XI members\nWS Blue: During Tactical Awoken Mode, Deadly Strikes +30% to user\nWS Gold: Deadly Strikes +20% to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Ice Ability Boost, Triplecast Ice, Unlimited Ice Hones, Cap Break Level 1 to Ice Abilities, Ice Ability Damage +30% & ATB Speed x1.1 to Ice Abilities; Ends after using 8 Ice abilities\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Hagakure Pure Heart (Weapon Skill)",
+      "text": "Single-target Ice/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold with at least 0/4 Samurai/XI members\nWS Blue: During Tactical Awoken Mode, Deadly Strikes +30% to user\nWS Gold: Deadly Strikes +20% to all allies"
+    }
+  ],
   "id": "22480025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22480025/22480025_256.png",
   "character": "Ayame",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Ice Ability Boost, Triplecast Ice, Unlimited Ice Hones, Cap Break Level 1 to Ice Abilities, Ice Ability Damage +30% & ATB Speed x1.1 to Ice Abilities; Ends after using 8 Ice abilities\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Ice Ability Boost, Triplecast Ice, Unlimited Ice Hones, Cap Break Level 1 to Ice Abilities, Ice Ability Damage +30% & ATB Speed x1.1 to Ice Abilities; Ends after using 8 Ice abilities\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Ice/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold with at least 0/4 Samurai/XI members\nWS Blue: During Tactical Awoken Mode, Deadly Strikes +30% to user\nWS Gold: Deadly Strikes +20% to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Ice Ability Boost, Triplecast Ice, Unlimited Ice Hones, Cap Break Level 1 to Ice Abilities, Ice Ability Damage +30% & ATB Speed x1.1 to Ice Abilities; Ends after using 8 Ice abilities\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Ice/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Ice Abilities, and Weapon Skill Blue/Gold with at least 0/4 Samurai/XI members\nWS Blue: During Tactical Awoken Mode, Deadly Strikes +30% to user\nWS Gold: Deadly Strikes +20% to all allies"
-    }
-  ]
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Ice Ability Boost, Triplecast Ice, Unlimited Ice Hones, Cap Break Level 1 to Ice Abilities, Ice Ability Damage +30% & ATB Speed x1.1 to Ice Abilities; Ends after using 8 Ice abilities\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
 }

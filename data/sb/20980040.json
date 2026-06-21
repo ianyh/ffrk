@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target hybrid attacks (0.80/390.00 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Fire/Lightning Ability High Boost & chases Water/Fire/Lightning abilities with 8 single-target Water/Fire/Lightning/NE hybrid attacks (0.60/225.00 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target hybrid attacks (0.80/390.00 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Fire/Lightning Ability High Boost & chases Water/Fire/Lightning abilities with 8 single-target Water/Fire/Lightning/NE hybrid attacks (0.60/225.00 each)"
+    }
+  ],
   "id": "20980040",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980040/20980040_256.png",
   "character": "Edge",
@@ -16,17 +28,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target hybrid attacks (0.80/390.00 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Fire/Lightning Ability High Boost & chases Water/Fire/Lightning abilities with 8 single-target Water/Fire/Lightning/NE hybrid attacks (0.60/225.00 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target hybrid attacks (0.80/390.00 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Fire/Lightning Ability High Boost & chases Water/Fire/Lightning abilities with 8 single-target Water/Fire/Lightning/NE hybrid attacks (0.60/225.00 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target hybrid attacks (0.80/390.00 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Fire/Lightning Ability High Boost & chases Water/Fire/Lightning abilities with 8 single-target Water/Fire/Lightning/NE hybrid attacks (0.60/225.00 each)"
-    }
-  ]
+  "effects": "5 single-target hybrid attacks (0.80/390.00 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Fire/Lightning Ability High Boost & chases Water/Fire/Lightning abilities with 8 single-target Water/Fire/Lightning/NE hybrid attacks (0.60/225.00 each)"
 }

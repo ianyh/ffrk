@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.10)"
+    }
+  ],
   "id": "20560001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560001/20560001_256.png",
   "character": "Maria",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single ranged attack (2.10)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (2.10)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (2.10)"
-    }
-  ]
+  "effects": "One single ranged attack (2.10)"
 }

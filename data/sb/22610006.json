@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%] to all allies, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], and [Thunderous Call Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%] to all allies, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], and [Thunderous Call Follow-Up] to the user"
+    }
+  ],
   "id": "22610006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610006/22610006_256.png",
   "character": "Raijin",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%] to all allies, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], and [Thunderous Call Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%] to all allies, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], and [Thunderous Call Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%] to all allies, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], and [Thunderous Call Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%] to all allies, grants [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], and [Thunderous Call Follow-Up] to the user"
 }

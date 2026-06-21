@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.55 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.55 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
   "id": "22080004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080004/22080004_256.png",
   "character": "Exdeath",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group attacks (3.55 each), grants [Magical Blink 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (3.55 each), grants [Magical Blink 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (3.55 each), grants [Magical Blink 1] to all allies"
-    }
-  ]
+  "effects": "Four group attacks (3.55 each), grants [Magical Blink 1] to all allies"
 }

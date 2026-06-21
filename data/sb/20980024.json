@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.53 or 198.00 each), grants [Physical Blink 1] to all allies, grants [Awoken Ninja], [Damage Cap +10000], [Ninja Instant Cast (15s)] and [Tri-Element Mode II (Fire, Lightning, Water)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.53 or 198.00 each), grants [Physical Blink 1] to all allies, grants [Awoken Ninja], [Damage Cap +10000], [Ninja Instant Cast (15s)] and [Tri-Element Mode II (Fire, Lightning, Water)] to the user"
+    }
+  ],
   "id": "20980024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980024/20980024_256.png",
   "character": "Edge",
@@ -16,17 +28,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single hybrid attacks (0.53 or 198.00 each), grants [Physical Blink 1] to all allies, grants [Awoken Ninja], [Damage Cap +10000], [Ninja Instant Cast (15s)] and [Tri-Element Mode II (Fire, Lightning, Water)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (0.53 or 198.00 each), grants [Physical Blink 1] to all allies, grants [Awoken Ninja], [Damage Cap +10000], [Ninja Instant Cast (15s)] and [Tri-Element Mode II (Fire, Lightning, Water)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (0.53 or 198.00 each), grants [Physical Blink 1] to all allies, grants [Awoken Ninja], [Damage Cap +10000], [Ninja Instant Cast (15s)] and [Tri-Element Mode II (Fire, Lightning, Water)] to the user"
-    }
-  ]
+  "effects": "Fifteen single hybrid attacks (0.53 or 198.00 each), grants [Physical Blink 1] to all allies, grants [Awoken Ninja], [Damage Cap +10000], [Ninja Instant Cast (15s)] and [Tri-Element Mode II (Fire, Lightning, Water)] to the user"
 }

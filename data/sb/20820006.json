@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.92 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.92 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds"
+    }
+  ],
   "id": "20820006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820006/20820006_256.png",
   "character": "Seifer",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (0.92 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.92 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.92 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Eight single attacks (0.92 each), [DEF -30%] to the user for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Warrior II Limit Chain (150) & 50% Warrior II Field, ATK +50% & Haste to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Warrior II Limit Chain (150) & 50% Warrior II Field, ATK +50% & Haste to party"
+    }
+  ],
   "id": "23190029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190029/23190029_256.png",
   "character": "Cinque",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Warrior II Limit Chain (150) & 50% Warrior II Field, ATK +50% & Haste to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Warrior II Limit Chain (150) & 50% Warrior II Field, ATK +50% & Haste to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Warrior II Limit Chain (150) & 50% Warrior II Field, ATK +50% & Haste to party"
-    }
-  ]
+  "effects": "Activates Warrior II Limit Chain (150) & 50% Warrior II Field, ATK +50% & Haste to party"
 }

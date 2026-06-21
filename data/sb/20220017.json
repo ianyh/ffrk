@@ -1,27 +1,11 @@
 {
-  "id": "20220017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220017/20220017_256.png",
-  "character": "Cyan",
-  "name": "Apex Tsubame Gaeshi",
-  "name_jp": "つばめがえし・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VI",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Tsubame Gaeshi level 0/1/2, removes Arcane Dyad Empowered: Cyan from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Tsubame Gaeshi level 0/1/2, removes Arcane Dyad Empowered: Cyan from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Tsubame Gaeshi (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Cyan], [Apex Tsubame Gaeshi Damage Tracker] and [Apex Tsubame Gaeshi Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Tsubame Gaeshi level 0/1/2, removes Arcane Dyad Empowered: Cyan from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Tsubame Gaeshi (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Cyan], [Apex Tsubame Gaeshi Damage Tracker] and [Apex Tsubame Gaeshi Level]"
     }
-  ]
+  ],
+  "id": "20220017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220017/20220017_256.png",
+  "character": "Cyan",
+  "name": "Apex Tsubame Gaeshi (Engaged)",
+  "name_jp": "つばめがえし・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Cyan], [Apex Tsubame Gaeshi Damage Tracker] and [Apex Tsubame Gaeshi Level]"
 }

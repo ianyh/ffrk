@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Lightning/Bio/NE magic attacks at Cap Break Level 1, Lv.2 En-Fire Stack, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack or Lv.2 En-Bio Stack, Cap Break Level 1, Vivi Trance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Lightning/Bio Damage +20%, Magic Casting Speed x1.1 & chases Fire/Ice/Lightning/Bio abilities with 6 single-target Fire/Ice/Lightning/Bio/NE magic attacks\nUltimate Dexterity Mode: Dualcast Fire/Ice/Lightning/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Fira+: Higher multiplier & Cap Break Level 1 after 3 uses; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nVivi Trance: MAG +30% & 50% chance to Dualcast Black Magic abilities"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Lightning/Bio/NE magic attacks at Cap Break Level 1, Lv.2 En-Fire Stack, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack or Lv.2 En-Bio Stack, Cap Break Level 1, Vivi Trance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Lightning/Bio Damage +20%, Magic Casting Speed x1.1 & chases Fire/Ice/Lightning/Bio abilities with 6 single-target Fire/Ice/Lightning/Bio/NE magic attacks\nUltimate Dexterity Mode: Dualcast Fire/Ice/Lightning/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Fira+: Higher multiplier & Cap Break Level 1 after 3 uses; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nVivi Trance: MAG +30% & 50% chance to Dualcast Black Magic abilities"
+    }
+  ],
   "id": "20370064",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370064/20370064_256.png",
   "character": "Vivi",
@@ -17,17 +29,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/Ice/Lightning/Bio/NE magic attacks at Cap Break Level 1, Lv.2 En-Fire Stack, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack or Lv.2 En-Bio Stack, Cap Break Level 1, Vivi Trance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Lightning/Bio Damage +20%, Magic Casting Speed x1.1 & chases Fire/Ice/Lightning/Bio abilities with 6 single-target Fire/Ice/Lightning/Bio/NE magic attacks\nUltimate Dexterity Mode: Dualcast Fire/Ice/Lightning/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Fira+: Higher multiplier & Cap Break Level 1 after 3 uses; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nVivi Trance: MAG +30% & 50% chance to Dualcast Black Magic abilities",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Lightning/Bio/NE magic attacks at Cap Break Level 1, Lv.2 En-Fire Stack, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack or Lv.2 En-Bio Stack, Cap Break Level 1, Vivi Trance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Lightning/Bio Damage +20%, Magic Casting Speed x1.1 & chases Fire/Ice/Lightning/Bio abilities with 6 single-target Fire/Ice/Lightning/Bio/NE magic attacks\nUltimate Dexterity Mode: Dualcast Fire/Ice/Lightning/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Fira+: Higher multiplier & Cap Break Level 1 after 3 uses; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nVivi Trance: MAG +30% & 50% chance to Dualcast Black Magic abilities"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Lightning/Bio/NE magic attacks at Cap Break Level 1, Lv.2 En-Fire Stack, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack or Lv.2 En-Bio Stack, Cap Break Level 1, Vivi Trance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Lightning/Bio Damage +20%, Magic Casting Speed x1.1 & chases Fire/Ice/Lightning/Bio abilities with 6 single-target Fire/Ice/Lightning/Bio/NE magic attacks\nUltimate Dexterity Mode: Dualcast Fire/Ice/Lightning/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Fira+: Higher multiplier & Cap Break Level 1 after 3 uses; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nVivi Trance: MAG +30% & 50% chance to Dualcast Black Magic abilities"
-    }
-  ]
+  "effects": "7 single-target Fire/Ice/Lightning/Bio/NE magic attacks at Cap Break Level 1, Lv.2 En-Fire Stack, Lv.2 En-Ice Stack, Lv.2 En-Lightning Stack or Lv.2 En-Bio Stack, Cap Break Level 1, Vivi Trance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Lightning/Bio Damage +20%, Magic Casting Speed x1.1 & chases Fire/Ice/Lightning/Bio abilities with 6 single-target Fire/Ice/Lightning/Bio/NE magic attacks\nUltimate Dexterity Mode: Dualcast Fire/Ice/Lightning/Bio, Higher Multiplier & Zero Hone Cost to Hero Ability; Double Black Magic Fira+: Higher multiplier & Cap Break Level 1 after 3 uses; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses; Double Black Magic Biora+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nVivi Trance: MAG +30% & 50% chance to Dualcast Black Magic abilities"
 }

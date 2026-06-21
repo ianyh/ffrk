@@ -1,17 +1,4 @@
 {
-  "id": "20900021",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900021/20900021_256.png",
-  "character": "Mog",
-  "name": "Zenith Twilight Requiem",
-  "name_jp": "究極闇のレクイエム",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "VI",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
-  "lensable": false,
-  "effects": "Grants [Zenith Mode], [Conditional Attach Element 3 with Stacking From Party], [Damage Cap +10000], [Zenith Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Causes [ATK -15%, DEF -70% (25s)] and [Imperil Prismatic 20% (25s)] to all enemies",
   "description": [
     {
       "name": "Entry",
@@ -63,5 +50,18 @@
       "name": "Moogle Jump+",
       "text": "Four single ranged jump attacks (1.10 each), 40% DEF piercing"
     }
-  ]
+  ],
+  "id": "20900021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900021/20900021_256.png",
+  "character": "Mog",
+  "name": "Zenith Twilight Requiem",
+  "name_jp": "究極闇のレクイエム",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Zenith Mode], [Conditional Attach Element 3 with Stacking From Party], [Damage Cap +10000], [Zenith Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Causes [ATK -15%, DEF -70% (25s)] and [Imperil Prismatic 20% (25s)] to all enemies"
 }

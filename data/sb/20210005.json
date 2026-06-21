@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] to all allies for 25 seconds, grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] to all allies for 25 seconds, grants [Haste], [Attach Holy] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20210005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210005/20210005_256.png",
   "character": "Celes",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK and MAG +30%] to all allies for 25 seconds, grants [Haste], [Attach Holy] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK and MAG +30%] to all allies for 25 seconds, grants [Haste], [Attach Holy] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK and MAG +30%] to all allies for 25 seconds, grants [Haste], [Attach Holy] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "[ATK and MAG +30%] to all allies for 25 seconds, grants [Haste], [Attach Holy] and [Burst Mode] to the user"
 }

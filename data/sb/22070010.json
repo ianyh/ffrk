@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Darkness High Quick Cast] and [Darkness Rank Boost]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Darkness High Quick Cast] and [Darkness Rank Boost]"
+    }
+  ],
   "id": "22070010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070010/22070010_256.png",
   "character": "Kefka",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Darkness High Quick Cast] and [Darkness Rank Boost]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Darkness High Quick Cast] and [Darkness Rank Boost]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Darkness High Quick Cast] and [Darkness Rank Boost]"
-    }
-  ]
+  "effects": "Grants [Darkness High Quick Cast] and [Darkness Rank Boost]"
 }

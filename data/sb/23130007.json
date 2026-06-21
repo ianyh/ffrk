@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice with Stacking] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice with Stacking] and [Soul Break Gauge +250]"
+    }
+  ],
   "id": "23130007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130007/23130007_256.png",
   "character": "Ysayle",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Ice with Stacking] and [Soul Break Gauge +250]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Ice with Stacking] and [Soul Break Gauge +250]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Ice with Stacking] and [Soul Break Gauge +250]"
-    }
-  ]
+  "effects": "Grants [Attach Ice with Stacking] and [Soul Break Gauge +250]"
 }

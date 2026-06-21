@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Core/Beyond Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Core/Beyond Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
+    }
+  ],
   "id": "23060047",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060047/23060047_256.png",
   "character": "Dr. Mog",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Core/Beyond Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Core/Beyond Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Core/Beyond Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
-    }
-  ]
+  "effects": "Activates Core/Beyond Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
 }

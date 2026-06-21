@@ -1,20 +1,4 @@
 {
-  "id": "20650029",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650029/20650029_256.png",
-  "character": "Galuf",
-  "name": "Zenith Single-Mindedness",
-  "name_jp": "究極一心不乱",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "V",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Galuf (Earth)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Galuf (Earth)",
       "text": "One single attack (3.36) capped at 99999, grants [100% Critical 3] to all allies"
     }
-  ]
+  ],
+  "id": "20650029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650029/20650029_256.png",
+  "character": "Galuf",
+  "name": "Zenith Single-Mindedness",
+  "name_jp": "究極一心不乱",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Galuf (Earth)] to the user"
 }

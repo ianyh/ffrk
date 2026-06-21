@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)] and [High Quick Cast 1]"
+    }
+  ],
   "id": "23300012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300012/23300012_256.png",
   "character": "Hilda",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [HP Stock (3000)] and [High Quick Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (3000)] and [High Quick Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (3000)] and [High Quick Cast 1]"
-    }
-  ]
+  "effects": "Grants [HP Stock (3000)] and [High Quick Cast 1]"
 }

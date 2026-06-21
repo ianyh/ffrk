@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Witch], [Damage Cap +10000] and [Play Rough Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Witch], [Damage Cap +10000] and [Play Rough Mode] to the user"
+    }
+  ],
   "id": "22360008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360008/22360008_256.png",
   "character": "Shantotto",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Witch], [Damage Cap +10000] and [Play Rough Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Witch], [Damage Cap +10000] and [Play Rough Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Witch], [Damage Cap +10000] and [Play Rough Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning], [Awoken Witch], [Damage Cap +10000] and [Play Rough Mode] to the user"
 }

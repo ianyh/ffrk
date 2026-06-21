@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), causes [Doom: 30] to all allies, grants [MAG and RES +30%] for 25 seconds, [Attach Dark] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), causes [Doom: 30] to all allies, grants [MAG and RES +30%] for 25 seconds, [Attach Dark] and [Brave Mode] to the user"
+    }
+  ],
   "id": "22240010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240010/22240010_256.png",
   "character": "Kuja",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.73 each), causes [Doom: 30] to all allies, grants [MAG and RES +30%] for 25 seconds, [Attach Dark] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), causes [Doom: 30] to all allies, grants [MAG and RES +30%] for 25 seconds, [Attach Dark] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), causes [Doom: 30] to all allies, grants [MAG and RES +30%] for 25 seconds, [Attach Dark] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.73 each), causes [Doom: 30] to all allies, grants [MAG and RES +30%] for 25 seconds, [Attach Dark] and [Brave Mode] to the user"
 }

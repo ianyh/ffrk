@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [High Retaliate], [50% Critical], and [Legendary Swordsman EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [High Retaliate], [50% Critical], and [Legendary Swordsman EX Mode] to the user"
+    }
+  ],
   "id": "20810008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810008/20810008_256.png",
   "character": "Gilgamesh",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.72 each), grants [High Retaliate], [50% Critical], and [Legendary Swordsman EX Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), grants [High Retaliate], [50% Critical], and [Legendary Swordsman EX Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), grants [High Retaliate], [50% Critical], and [Legendary Swordsman EX Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.72 each), grants [High Retaliate], [50% Critical], and [Legendary Swordsman EX Mode] to the user"
 }

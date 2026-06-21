@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking] and [High Quick Cast 2]"
+    }
+  ],
   "id": "22550011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550011/22550011_256.png",
   "character": "Orlandeau",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Holy with Stacking] and [High Quick Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Holy with Stacking] and [High Quick Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Holy with Stacking] and [High Quick Cast 2]"
-    }
-  ]
+  "effects": "Grants [Attach Holy with Stacking] and [High Quick Cast 2]"
 }

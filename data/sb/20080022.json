@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Lightning]"
+    }
+  ],
   "id": "20080022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080022/20080022_256.png",
   "character": "Kain",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Attach Lightning]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Lightning]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Lightning]"
-    }
-  ]
+  "effects": "Grants [Attach Lightning]"
 }

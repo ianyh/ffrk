@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, ATK/MAG/DEF/RES/MND -50% to all targets, Casting Speed x1.2 & Damage +5/10/15/20/25/30% to party with 0/1/2/3/4/5 Stat Breaks, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Entrust & Quick Cast 2 to party, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, ATK/MAG/DEF/RES/MND -50% to all targets, Casting Speed x1.2 & Damage +5/10/15/20/25/30% to party with 0/1/2/3/4/5 Stat Breaks, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Entrust & Quick Cast 2 to party, Quick ATB 1 to user"
+    }
+  ],
   "id": "22830005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22830005/22830005_256.png",
   "character": "Morrow",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single attacks at Cap Break Level 1, ATK/MAG/DEF/RES/MND -50% to all targets, Casting Speed x1.2 & Damage +5/10/15/20/25/30% to party with 0/1/2/3/4/5 Stat Breaks, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Entrust & Quick Cast 2 to party, Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks at Cap Break Level 1, ATK/MAG/DEF/RES/MND -50% to all targets, Casting Speed x1.2 & Damage +5/10/15/20/25/30% to party with 0/1/2/3/4/5 Stat Breaks, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Entrust & Quick Cast 2 to party, Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks at Cap Break Level 1, ATK/MAG/DEF/RES/MND -50% to all targets, Casting Speed x1.2 & Damage +5/10/15/20/25/30% to party with 0/1/2/3/4/5 Stat Breaks, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Entrust & Quick Cast 2 to party, Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single attacks at Cap Break Level 1, ATK/MAG/DEF/RES/MND -50% to all targets, Casting Speed x1.2 & Damage +5/10/15/20/25/30% to party with 0/1/2/3/4/5 Stat Breaks, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Entrust & Quick Cast 2 to party, Quick ATB 1 to user"
 }

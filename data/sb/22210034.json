@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Palom], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Ice with Secondary Stacking]."
+    },
+    {
+      "name": "Burst Break: Palom (Break Arte)",
+      "text": "One Fire/NE or Ice/NE or Lightning/NE single attack (26.50 each) capped at 99,999 based on EnFire or EnIce. Grants [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Palom], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Ice with Secondary Stacking]."
+    },
+    {
+      "name": "Burst Break: Palom (Break Arte)",
+      "text": "One Fire/NE or Ice/NE or Lightning/NE single attack (26.50 each) capped at 99,999 based on EnFire or EnIce. Grants [Instant ATB 1] to user."
+    }
+  ],
   "id": "22210034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210034/22210034_256.png",
   "character": "Palom",
@@ -22,25 +42,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Palom], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Ice with Secondary Stacking].",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Palom], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Ice with Secondary Stacking]."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One Fire/NE or Ice/NE or Lightning/NE single attack (26.50 each) capped at 99,999 based on EnFire or EnIce. Grants [Instant ATB 1] to user."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Palom], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Ice with Secondary Stacking]."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One Fire/NE or Ice/NE or Lightning/NE single attack (26.50 each) capped at 99,999 based on EnFire or EnIce. Grants [Instant ATB 1] to user."
-    }
-  ]
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Palom], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Ice with Secondary Stacking]."
 }

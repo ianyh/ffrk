@@ -1,17 +1,4 @@
 {
-  "id": "22520016",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520016/22520016_256.png",
-  "character": "Minfilia",
-  "name": "Zenith Word of the Mother",
-  "name_jp": "究極星の代弁者",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIV",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
-  "lensable": false,
-  "effects": "Grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)], [Quick Cast] and [Weakness +30% Boost (15s)] to all allies, grants [Zenith Mode] and [Zenith Mode: Minfilia] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +54,18 @@
       "name": "Spirit Attack: Minfilia",
       "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 10% (15s)], [Buff Prismatic 10% (15s)] and [200% ATB 1] if 0-3/4+ XIV allies are alive"
     }
-  ]
+  ],
+  "id": "22520016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520016/22520016_256.png",
+  "character": "Minfilia",
+  "name": "Zenith Word of the Mother",
+  "name_jp": "究極星の代弁者",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)], [Quick Cast] and [Weakness +30% Boost (15s)] to all allies, grants [Zenith Mode] and [Zenith Mode: Minfilia] to the user"
 }

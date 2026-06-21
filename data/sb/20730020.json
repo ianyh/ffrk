@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, [Imperil Holy 20% (25s)], grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (FuSoYa v2)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Lunarian Enigma (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (FuSoYa v2)], removes [Dual Awoken Highborn Mode I (FuSoYa v2)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, [Imperil Holy 20% (25s)], grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (FuSoYa v2)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Lunarian Enigma (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (FuSoYa v2)], removes [Dual Awoken Highborn Mode I (FuSoYa v2)]"
+    }
+  ],
   "id": "20730020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730020/20730020_256.png",
   "character": "Fusoya",
@@ -14,25 +34,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.10 each) capped at 19999, [Imperil Holy 20% (25s)], grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (FuSoYa v2)] and [Holy Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.10 each) capped at 19999, [Imperil Holy 20% (25s)], grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (FuSoYa v2)] and [Holy Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (FuSoYa v2)], removes [Dual Awoken Highborn Mode I (FuSoYa v2)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.10 each) capped at 19999, [Imperil Holy 20% (25s)], grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (FuSoYa v2)] and [Holy Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (FuSoYa v2)], removes [Dual Awoken Highborn Mode I (FuSoYa v2)]"
-    }
-  ]
+  "effects": "Seven single attacks (3.10 each) capped at 19999, [Imperil Holy 20% (25s)], grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (FuSoYa v2)] and [Holy Resonance +5% Boost] to the user"
 }

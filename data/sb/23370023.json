@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE, Ice/NE or Lightning/NE ranged physical attacks under En-Fire, En-Ice or En-Lightning + minor DeProtect for 5 seconds, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Ice/Lightning/NE ranged physical attack at True Cap Break Level 1 + DeProtect 30% for 5 seconds, Instant Cast 1 to user, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE, Ice/NE or Lightning/NE ranged physical attacks under En-Fire, En-Ice or En-Lightning + minor DeProtect for 5 seconds, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Ice/Lightning/NE ranged physical attack at True Cap Break Level 1 + DeProtect 30% for 5 seconds, Instant Cast 1 to user, removes Master Mode"
+    }
+  ],
   "id": "23370023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370023/23370023_256.png",
   "character": "Cater",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE, Ice/NE or Lightning/NE ranged physical attacks under En-Fire, En-Ice or En-Lightning + minor DeProtect for 5 seconds, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Ice/Lightning/NE ranged physical attack at True Cap Break Level 1 + DeProtect 30% for 5 seconds, Instant Cast 1 to user, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE, Ice/NE or Lightning/NE ranged physical attacks under En-Fire, En-Ice or En-Lightning + minor DeProtect for 5 seconds, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Ice/Lightning/NE ranged physical attack at True Cap Break Level 1 + DeProtect 30% for 5 seconds, Instant Cast 1 to user, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE, Ice/NE or Lightning/NE ranged physical attacks under En-Fire, En-Ice or En-Lightning + minor DeProtect for 5 seconds, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Ice/Lightning/NE ranged physical attack at True Cap Break Level 1 + DeProtect 30% for 5 seconds, Instant Cast 1 to user, removes Master Mode"
-    }
-  ]
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE, Ice/NE or Lightning/NE ranged physical attacks under En-Fire, En-Ice or En-Lightning + minor DeProtect for 5 seconds, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Ice/Lightning/NE ranged physical attack at True Cap Break Level 1 + DeProtect 30% for 5 seconds, Instant Cast 1 to user, removes Master Mode"
 }

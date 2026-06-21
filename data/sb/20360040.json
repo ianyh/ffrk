@@ -1,20 +1,4 @@
 {
-  "id": "20360040",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360040/20360040_256.png",
-  "character": "Garnet",
-  "name": "Zenith O Holy Guardian",
-  "name_jp": "究極大いなる守護神",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "IX",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Garnet (Holy)] ",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Garnet (Holy)",
       "text": "Grants [Dualcast Summoning 1] and [Magical Quick Cast 4] to all allies"
     }
-  ]
+  ],
+  "id": "20360040",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360040/20360040_256.png",
+  "character": "Garnet",
+  "name": "Zenith O Holy Guardian",
+  "name_jp": "究極大いなる守護神",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "IX",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Garnet (Holy)] "
 }

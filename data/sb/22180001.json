@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and RES +20%] for 20 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and RES +20%] for 20 seconds"
+    }
+  ],
   "id": "22180001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180001/22180001_256.png",
   "character": "Basch",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "[DEF and RES +20%] for 20 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[DEF and RES +20%] for 20 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[DEF and RES +20%] for 20 seconds"
-    }
-  ]
+  "effects": "[DEF and RES +20%] for 20 seconds"
 }

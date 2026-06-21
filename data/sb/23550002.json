@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG +30%, RES +25% (25s)] to the user, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Commanding Officer Mode I (Kurasame)] and [(Ice/Dark) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Flash Freeze (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Commanding Officer Mode II (Kurasame)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG +30%, RES +25% (25s)] to the user, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Commanding Officer Mode I (Kurasame)] and [(Ice/Dark) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Flash Freeze (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Commanding Officer Mode II (Kurasame)]"
+    }
+  ],
   "id": "23550002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550002/23550002_256.png",
   "character": "Kurasame",
@@ -15,25 +35,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG +30%, RES +25% (25s)] to the user, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Commanding Officer Mode I (Kurasame)] and [(Ice/Dark) Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG +30%, RES +25% (25s)] to the user, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Commanding Officer Mode I (Kurasame)] and [(Ice/Dark) Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Commanding Officer Mode II (Kurasame)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG +30%, RES +25% (25s)] to the user, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Commanding Officer Mode I (Kurasame)] and [(Ice/Dark) Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Commanding Officer Mode II (Kurasame)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG +30%, RES +25% (25s)] to the user, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Dual Awoken Commanding Officer Mode I (Kurasame)] and [(Ice/Dark) Resonance +5% Boost] to the user"
 }

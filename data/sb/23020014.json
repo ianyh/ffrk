@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode (Fire, Lightning)], [Awoken Eager Elite Mode] and [Damage Cap +10000] to the user, grants [Damage Cap +10000] to Reno, Rude and the user if Reno is alive, grants [Fire/Earth/Lightning Ability +30% Boost (15s)] to all allies if Reno is alive, grants [Quick Cast] to all allies if Rude is alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode (Fire, Lightning)], [Awoken Eager Elite Mode] and [Damage Cap +10000] to the user, grants [Damage Cap +10000] to Reno, Rude and the user if Reno is alive, grants [Fire/Earth/Lightning Ability +30% Boost (15s)] to all allies if Reno is alive, grants [Quick Cast] to all allies if Rude is alive"
+    }
+  ],
   "id": "23020014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020014/23020014_256.png",
   "character": "Elena",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode (Fire, Lightning)], [Awoken Eager Elite Mode] and [Damage Cap +10000] to the user, grants [Damage Cap +10000] to Reno, Rude and the user if Reno is alive, grants [Fire/Earth/Lightning Ability +30% Boost (15s)] to all allies if Reno is alive, grants [Quick Cast] to all allies if Rude is alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode (Fire, Lightning)], [Awoken Eager Elite Mode] and [Damage Cap +10000] to the user, grants [Damage Cap +10000] to Reno, Rude and the user if Reno is alive, grants [Fire/Earth/Lightning Ability +30% Boost (15s)] to all allies if Reno is alive, grants [Quick Cast] to all allies if Rude is alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode (Fire, Lightning)], [Awoken Eager Elite Mode] and [Damage Cap +10000] to the user, grants [Damage Cap +10000] to Reno, Rude and the user if Reno is alive, grants [Fire/Earth/Lightning Ability +30% Boost (15s)] to all allies if Reno is alive, grants [Quick Cast] to all allies if Rude is alive"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode (Fire, Lightning)], [Awoken Eager Elite Mode] and [Damage Cap +10000] to the user, grants [Damage Cap +10000] to Reno, Rude and the user if Reno is alive, grants [Fire/Earth/Lightning Ability +30% Boost (15s)] to all allies if Reno is alive, grants [Quick Cast] to all allies if Rude is alive"
 }

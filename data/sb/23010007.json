@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user"
+    }
+  ],
   "id": "23010007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010007/23010007_256.png",
   "character": "Rude",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user"
 }

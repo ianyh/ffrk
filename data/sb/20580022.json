@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Leon] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Leon] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "20580022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580022/20580022_256.png",
   "character": "Leon",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Ten single attacks (0.80 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Leon] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.80 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Leon] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.80 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Leon] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.80 each) capped at 19999, activates II Chain (max 150, field +0%) or adds 25 to the current II Chain maximum limit and increases the current chain count on all enemies by 10, grants [Chain Force Mode: Leon] and [Instant ATB 1] to the user"
 }

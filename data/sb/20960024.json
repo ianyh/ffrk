@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +50% (25s)], [Awoken Scion Sorceress], [Damage Cap +10000], [Quick Cast], [Quad Element Mode II (Fire, Ice, Lightning, Dark)] and [Pulse of Life Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +50% (25s)], [Awoken Scion Sorceress], [Damage Cap +10000], [Quick Cast], [Quad Element Mode II (Fire, Ice, Lightning, Dark)] and [Pulse of Life Follow-Up] to the user"
+    }
+  ],
   "id": "20960024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960024/20960024_256.png",
   "character": "Y'shtola",
@@ -17,17 +29,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [MAG and RES +50% (25s)], [Awoken Scion Sorceress], [Damage Cap +10000], [Quick Cast], [Quad Element Mode II (Fire, Ice, Lightning, Dark)] and [Pulse of Life Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +50% (25s)], [Awoken Scion Sorceress], [Damage Cap +10000], [Quick Cast], [Quad Element Mode II (Fire, Ice, Lightning, Dark)] and [Pulse of Life Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +50% (25s)], [Awoken Scion Sorceress], [Damage Cap +10000], [Quick Cast], [Quad Element Mode II (Fire, Ice, Lightning, Dark)] and [Pulse of Life Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [MAG and RES +50% (25s)], [Awoken Scion Sorceress], [Damage Cap +10000], [Quick Cast], [Quad Element Mode II (Fire, Ice, Lightning, Dark)] and [Pulse of Life Follow-Up] to the user"
 }

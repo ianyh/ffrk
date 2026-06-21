@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (1.16 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (1.16 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20240006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240006/20240006_256.png",
   "character": "Locke",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Five group attacks (1.16 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five group attacks (1.16 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five group attacks (1.16 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Five group attacks (1.16 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

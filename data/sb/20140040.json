@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Deadly Strikes +5% & 150 SB Points to party, Master Mode & Instant ATB 1 to user\nMaster Mode: Cap Break Level 2, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Prismatic/NE ranged hybrid attacks, Deadly Strikes +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Deadly Strikes +30% for 1 turn to party, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Deadly Strikes +5% & 150 SB Points to party, Master Mode & Instant ATB 1 to user\nMaster Mode: Cap Break Level 2, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Prismatic/NE ranged hybrid attacks, Deadly Strikes +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Deadly Strikes +30% for 1 turn to party, removes Master Mode"
+    }
+  ],
   "id": "20140040",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140040/20140040_256.png",
   "character": "Tyro",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Deadly Strikes +5% & 150 SB Points to party, Master Mode & Instant ATB 1 to user\nMaster Mode: Cap Break Level 2, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Prismatic/NE ranged hybrid attacks, Deadly Strikes +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Deadly Strikes +30% for 1 turn to party, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Deadly Strikes +5% & 150 SB Points to party, Master Mode & Instant ATB 1 to user\nMaster Mode: Cap Break Level 2, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Prismatic/NE ranged hybrid attacks, Deadly Strikes +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Deadly Strikes +30% for 1 turn to party, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Deadly Strikes +5% & 150 SB Points to party, Master Mode & Instant ATB 1 to user\nMaster Mode: Cap Break Level 2, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Prismatic/NE ranged hybrid attacks, Deadly Strikes +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Deadly Strikes +30% for 1 turn to party, removes Master Mode"
-    }
-  ]
+  "effects": "Deadly Strikes +5% & 150 SB Points to party, Master Mode & Instant ATB 1 to user\nMaster Mode: Cap Break Level 2, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Prismatic/NE ranged hybrid attacks, Deadly Strikes +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Deadly Strikes +30% for 1 turn to party, removes Master Mode"
 }

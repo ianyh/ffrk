@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & 20% DEF/RES Pierce to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Explosive Particle Beam (Weapon Skill)",
+      "text": "Single-target Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Quick Dark & 250 SB Points to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & 20% DEF/RES Pierce to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Explosive Particle Beam (Weapon Skill)",
+      "text": "Single-target Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Quick Dark & 250 SB Points to user"
+    }
+  ],
   "id": "22670046",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670046/22670046_256.png",
   "character": "Cloud of Darkness",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & 20% DEF/RES Pierce to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE magic attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & 20% DEF/RES Pierce to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE magic attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Quick Dark & 250 SB Points to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & 20% DEF/RES Pierce to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE magic attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Dark/NE piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Quick Dark & 250 SB Points to user"
-    }
-  ]
+  "effects": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & 20% DEF/RES Pierce to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE magic attack at True Cap Break Level 1"
 }

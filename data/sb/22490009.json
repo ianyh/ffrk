@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Stoneskin: 100%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Stoneskin: 100%]"
+    }
+  ],
   "id": "22490009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490009/22490009_256.png",
   "character": "Leo",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [Stoneskin: 100%]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Stoneskin: 100%]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Stoneskin: 100%]"
-    }
-  ]
+  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [Stoneskin: 100%]"
 }

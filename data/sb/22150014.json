@@ -1,20 +1,4 @@
 {
-  "id": "22150014",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22150014/22150014_256.png",
-  "character": "Agrias",
-  "name": "Zenith Hallowed Bolt",
-  "name_jp": "究極無双稲妻突き",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "FFT",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "7 single-target Holy/NE physical attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20%, Physical Casting Speed x1.1 & chases 2 Knight abilities with [single-target minor Imperil Holy] or [Holy Damage +30% for 1 turn & Quick Cast 1 to user] if target has at least 0/50% Holy Weakness (max 2 chases)\nUltimate Dexterity Mode: Dualcast Knight, Higher Multiplier & Zero Hone Cost to Hero Ability; Judgment Blade+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Judgment Blade+",
       "text": "Five single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Holy 10% (5s)]"
     }
-  ]
+  ],
+  "id": "22150014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22150014/22150014_256.png",
+  "character": "Agrias",
+  "name": "Zenith Hallowed Bolt",
+  "name_jp": "究極無双稲妻突き",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "FFT",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Holy/NE physical attacks at Cap Break Level 1, Lv.3 En-Holy, En-Holy Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Holy Damage +20%, Physical Casting Speed x1.1 & chases 2 Knight abilities with [single-target minor Imperil Holy] or [Holy Damage +30% for 1 turn & Quick Cast 1 to user] if target has at least 0/50% Holy Weakness (max 2 chases)\nUltimate Dexterity Mode: Dualcast Knight, Higher Multiplier & Zero Hone Cost to Hero Ability; Judgment Blade+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

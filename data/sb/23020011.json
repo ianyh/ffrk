@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [50% Critical (15s)]/[100% Critical (15s)] to all allies if 1/2 of Reno and Rude are alive, grants [Linked Materia Mode II (Fire, Lightning)], [Damage Cap +10000], [Dual Awoken Turks Recruit Mode I (Elena)], [Fire/Lightning Resonance +3% Boost] and [Weakness Resonance +3% Boost] to the user, grants [Weakness Resonance +3% Boost] to Reno and Rude"
+    },
+    {
+      "name": "Awoken Rookie Turk (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Turks Recruit Mode II (Elena)] to the user, removes [Dual Awoken Turks Recruit Mode I (Elena)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [50% Critical (15s)]/[100% Critical (15s)] to all allies if 1/2 of Reno and Rude are alive, grants [Linked Materia Mode II (Fire, Lightning)], [Damage Cap +10000], [Dual Awoken Turks Recruit Mode I (Elena)], [Fire/Lightning Resonance +3% Boost] and [Weakness Resonance +3% Boost] to the user, grants [Weakness Resonance +3% Boost] to Reno and Rude"
+    },
+    {
+      "name": "Awoken Rookie Turk (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Turks Recruit Mode II (Elena)] to the user, removes [Dual Awoken Turks Recruit Mode I (Elena)] from the user"
+    }
+  ],
   "id": "23020011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020011/23020011_256.png",
   "character": "Elena",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [50% Critical (15s)]/[100% Critical (15s)] to all allies if 1/2 of Reno and Rude are alive, grants [Linked Materia Mode II (Fire, Lightning)], [Damage Cap +10000], [Dual Awoken Turks Recruit Mode I (Elena)], [Fire/Lightning Resonance +3% Boost] and [Weakness Resonance +3% Boost] to the user, grants [Weakness Resonance +3% Boost] to Reno and Rude",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [50% Critical (15s)]/[100% Critical (15s)] to all allies if 1/2 of Reno and Rude are alive, grants [Linked Materia Mode II (Fire, Lightning)], [Damage Cap +10000], [Dual Awoken Turks Recruit Mode I (Elena)], [Fire/Lightning Resonance +3% Boost] and [Weakness Resonance +3% Boost] to the user, grants [Weakness Resonance +3% Boost] to Reno and Rude"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Turks Recruit Mode II (Elena)] to the user, removes [Dual Awoken Turks Recruit Mode I (Elena)] from the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [50% Critical (15s)]/[100% Critical (15s)] to all allies if 1/2 of Reno and Rude are alive, grants [Linked Materia Mode II (Fire, Lightning)], [Damage Cap +10000], [Dual Awoken Turks Recruit Mode I (Elena)], [Fire/Lightning Resonance +3% Boost] and [Weakness Resonance +3% Boost] to the user, grants [Weakness Resonance +3% Boost] to Reno and Rude"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Turks Recruit Mode II (Elena)] to the user, removes [Dual Awoken Turks Recruit Mode I (Elena)] from the user"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [50% Critical (15s)]/[100% Critical (15s)] to all allies if 1/2 of Reno and Rude are alive, grants [Linked Materia Mode II (Fire, Lightning)], [Damage Cap +10000], [Dual Awoken Turks Recruit Mode I (Elena)], [Fire/Lightning Resonance +3% Boost] and [Weakness Resonance +3% Boost] to the user, grants [Weakness Resonance +3% Boost] to Reno and Rude"
 }

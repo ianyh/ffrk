@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities equipped on allies/5+ Wind abilities equipped on allies and 2+ allies with Attack Wind"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities equipped on allies/5+ Wind abilities equipped on allies and 2+ allies with Attack Wind"
+    }
+  ],
   "id": "20700035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700035/20700035_256.png",
   "character": "Vaan",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities equipped on allies/5+ Wind abilities equipped on allies and 2+ allies with Attack Wind",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities equipped on allies/5+ Wind abilities equipped on allies and 2+ allies with Attack Wind"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities equipped on allies/5+ Wind abilities equipped on allies and 2+ allies with Attack Wind"
-    }
-  ]
+  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind abilities equipped on allies/5+ Wind abilities equipped on allies and 2+ allies with Attack Wind"
 }

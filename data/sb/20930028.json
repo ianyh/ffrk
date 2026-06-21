@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Summons Syldra for 5 seconds, grants [Protect], [Shell], [Haste], [Last Stand], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Syldra"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Summons Syldra for 5 seconds, grants [Protect], [Shell], [Haste], [Last Stand], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Syldra"
+    }
+  ],
   "id": "20930028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930028/20930028_256.png",
   "character": "Faris",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Summons Syldra for 5 seconds, grants [Protect], [Shell], [Haste], [Last Stand], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Syldra",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Summons Syldra for 5 seconds, grants [Protect], [Shell], [Haste], [Last Stand], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Syldra"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Summons Syldra for 5 seconds, grants [Protect], [Shell], [Haste], [Last Stand], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Syldra"
-    }
-  ]
+  "effects": "Summons Syldra for 5 seconds, grants [Protect], [Shell], [Haste], [Last Stand], [Instant ATB 1], [DEF and RES +200% (25s)], [Attach Wind 3 with Stacking] and [Damage Cap +20000] to Syldra"
 }

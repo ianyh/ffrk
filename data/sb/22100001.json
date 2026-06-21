@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (1.00 each), causes [Slow] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (1.00 each), causes [Slow] (100%)"
+    }
+  ],
   "id": "22100001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100001/22100001_256.png",
   "character": "Laguna",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group ranged attacks (1.00 each), causes [Slow] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (1.00 each), causes [Slow] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (1.00 each), causes [Slow] (100%)"
-    }
-  ]
+  "effects": "Six group ranged attacks (1.00 each), causes [Slow] (100%)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, DEF and MAG -70%] for 8 seconds, causes [Imperil Lightning 20% (25s)], grants [Whirling Edge Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, DEF and MAG -70%] for 8 seconds, causes [Imperil Lightning 20% (25s)], grants [Whirling Edge Follow-Up] to the user"
+    }
+  ],
   "id": "23350001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23350001/23350001_256.png",
   "character": "Lilisette",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "[ATK, DEF and MAG -70%] for 8 seconds, causes [Imperil Lightning 20% (25s)], grants [Whirling Edge Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, DEF and MAG -70%] for 8 seconds, causes [Imperil Lightning 20% (25s)], grants [Whirling Edge Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, DEF and MAG -70%] for 8 seconds, causes [Imperil Lightning 20% (25s)], grants [Whirling Edge Follow-Up] to the user"
-    }
-  ]
+  "effects": "[ATK, DEF and MAG -70%] for 8 seconds, causes [Imperil Lightning 20% (25s)], grants [Whirling Edge Follow-Up] to the user"
 }

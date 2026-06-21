@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Switch Draw Mode II (Ice, Dark)] and [Soul Break Gauge +250]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Switch Draw Mode II (Ice, Dark)] and [Soul Break Gauge +250]"
+    }
+  ],
   "id": "22200023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200023/22200023_256.png",
   "character": "Edea",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Switch Draw Mode II (Ice, Dark)] and [Soul Break Gauge +250]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Switch Draw Mode II (Ice, Dark)] and [Soul Break Gauge +250]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Switch Draw Mode II (Ice, Dark)] and [Soul Break Gauge +250]"
-    }
-  ]
+  "effects": "Grants [Switch Draw Mode II (Ice, Dark)] and [Soul Break Gauge +250]"
 }

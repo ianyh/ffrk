@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user"
+    }
+  ],
   "id": "20890005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890005/20890005_256.png",
   "character": "Shadow",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user"
-    }
-  ]
+  "effects": "Ten random attacks (0.66 each), grants [Abandoned Past] to the user"
 }

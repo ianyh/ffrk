@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.69 or 247.41 each), grants [Quick Cast 1], [Tri-Element Mode II (Earth, Wind, Poison)] and [Armor Crush Combo Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.69 or 247.41 each), grants [Quick Cast 1], [Tri-Element Mode II (Earth, Wind, Poison)] and [Armor Crush Combo Follow-Up] to the user"
+    }
+  ],
   "id": "20950013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950013/20950013_256.png",
   "character": "Thancred",
@@ -16,17 +28,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single hybrid attacks (0.69 or 247.41 each), grants [Quick Cast 1], [Tri-Element Mode II (Earth, Wind, Poison)] and [Armor Crush Combo Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single hybrid attacks (0.69 or 247.41 each), grants [Quick Cast 1], [Tri-Element Mode II (Earth, Wind, Poison)] and [Armor Crush Combo Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single hybrid attacks (0.69 or 247.41 each), grants [Quick Cast 1], [Tri-Element Mode II (Earth, Wind, Poison)] and [Armor Crush Combo Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single hybrid attacks (0.69 or 247.41 each), grants [Quick Cast 1], [Tri-Element Mode II (Earth, Wind, Poison)] and [Armor Crush Combo Follow-Up] to the user"
 }

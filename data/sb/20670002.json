@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.30), [ATK +30%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.30), [ATK +30%] to all allies for 25 seconds"
+    }
+  ],
   "id": "20670002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670002/20670002_256.png",
   "character": "Zell",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group ranged attack (3.30), [ATK +30%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (3.30), [ATK +30%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (3.30), [ATK +30%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "One group ranged attack (3.30), [ATK +30%] to all allies for 25 seconds"
 }

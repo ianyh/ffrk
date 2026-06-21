@@ -1,21 +1,4 @@
 {
-  "id": "23190013",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190013/23190013_256.png",
-  "character": "Cinque",
-  "name": "Zenith Spirited Swing",
-  "name_jp": "究極魂！全力スイング",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Earth",
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Cinque (Earth, Wind)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +50,22 @@
       "name": "Spirit Attack: Cinque (Earth, Wind)",
       "text": "Grants [100% Critical 3], [Quick Cast 3] to the user/[100% Critical 3], [Quick Cast 3] and [PHY +30% Boost 3] to all allies if 0-3/4+ Type-0 allies are alive"
     }
-  ]
+  ],
+  "id": "23190013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190013/23190013_256.png",
+  "character": "Cinque",
+  "name": "Zenith Spirited Swing",
+  "name_jp": "究極魂！全力スイング",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Cinque (Earth, Wind)] and [Damage Cap +10000] to the user"
 }

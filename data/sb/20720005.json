@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven group attacks (1.66 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven group attacks (1.66 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20720005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720005/20720005_256.png",
   "character": "Strago",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Seven group attacks (1.66 each), grants [Haste], [Attach Water] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven group attacks (1.66 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven group attacks (1.66 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Seven group attacks (1.66 each), grants [Haste], [Attach Water] and [Burst Mode] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 4 single-target Fire/NE summon magic attacks, Fire Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 4 single-target Fire/NE summon magic attacks, Fire Damage +10% for 5 seconds to party"
+    }
+  ],
   "id": "22270029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270029/22270029_256.png",
   "character": "Braska",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Fire/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 4 single-target Fire/NE summon magic attacks, Fire Damage +10% for 5 seconds to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Fire/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 4 single-target Fire/NE summon magic attacks, Fire Damage +10% for 5 seconds to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Fire/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 4 single-target Fire/NE summon magic attacks, Fire Damage +10% for 5 seconds to party"
-    }
-  ]
+  "effects": "5 single-target Fire/NE summon magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 4 single-target Fire/NE summon magic attacks, Fire Damage +10% for 5 seconds to party"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single ranged attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning Ability High Boost & chases Lightning abilities with [6 > 12] single-target Lightning/NE ranged physical attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single ranged attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning Ability High Boost & chases Lightning abilities with [6 > 12] single-target Lightning/NE ranged physical attacks"
+    }
+  ],
   "id": "23180024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180024/23180024_256.png",
   "character": "King",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single ranged attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning Ability High Boost & chases Lightning abilities with [6 > 12] single-target Lightning/NE ranged physical attacks",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single ranged attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning Ability High Boost & chases Lightning abilities with [6 > 12] single-target Lightning/NE ranged physical attacks"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single ranged attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning Ability High Boost & chases Lightning abilities with [6 > 12] single-target Lightning/NE ranged physical attacks"
-    }
-  ]
+  "effects": "5 single ranged attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Lightning Ability High Boost & chases Lightning abilities with [6 > 12] single-target Lightning/NE ranged physical attacks"
 }

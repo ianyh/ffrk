@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500] to the user"
+    }
+  ],
   "id": "20940039",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940039/20940039_256.png",
   "character": "Krile",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Soul Break Gauge +500] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Break Gauge +500] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Break Gauge +500] to the user"
-    }
-  ]
+  "effects": "Grants [Soul Break Gauge +500] to the user"
 }

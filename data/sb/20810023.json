@@ -1,8 +1,28 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Big Bridge Battle level 0/1/2, removes Arcane Dyad Empowered: Gilgamesh from the user"
+    },
+    {
+      "name": "Big Bridge Battle (Engaged)",
+      "text": "Twenty single attacks (0.01 each), grants [High Retaliate], [Damage Cap +10000], [Arcane Dyad Empowered: Gilgamesh], [Big Bridge Battle Ability Tracker] and [Big Bridge Battle Level]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Big Bridge Battle level 0/1/2, removes Arcane Dyad Empowered: Gilgamesh from the user"
+    },
+    {
+      "name": "Big Bridge Battle (Engaged)",
+      "text": "Twenty single attacks (0.01 each), grants [High Retaliate], [Damage Cap +10000], [Arcane Dyad Empowered: Gilgamesh], [Big Bridge Battle Ability Tracker] and [Big Bridge Battle Level]"
+    }
+  ],
   "id": "20810023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810023/20810023_256.png",
   "character": "Gilgamesh",
-  "name": "Big Bridge Battle",
+  "name": "Big Bridge Battle (Engaged)",
   "name_jp": "ビッグブリッヂの死闘",
   "tier": "ADSB",
   "sb_version": "ADSB1",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Big Bridge Battle level 0/1/2, removes Arcane Dyad Empowered: Gilgamesh from the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Big Bridge Battle level 0/1/2, removes Arcane Dyad Empowered: Gilgamesh from the user"
-    },
-    {
-      "name": "Engaged",
-      "text": "Twenty single attacks (0.01 each), grants [High Retaliate], [Damage Cap +10000], [Arcane Dyad Empowered: Gilgamesh], [Big Bridge Battle Ability Tracker] and [Big Bridge Battle Level]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Big Bridge Battle level 0/1/2, removes Arcane Dyad Empowered: Gilgamesh from the user"
-    },
-    {
-      "name": "Engaged",
-      "text": "Twenty single attacks (0.01 each), grants [High Retaliate], [Damage Cap +10000], [Arcane Dyad Empowered: Gilgamesh], [Big Bridge Battle Ability Tracker] and [Big Bridge Battle Level]"
-    }
-  ]
+  "effects": "Twenty single attacks (0.01 each), grants [High Retaliate], [Damage Cap +10000], [Arcane Dyad Empowered: Gilgamesh], [Big Bridge Battle Ability Tracker] and [Big Bridge Battle Level]"
 }

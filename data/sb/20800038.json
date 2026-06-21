@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ingus], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Monolith Impact (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ability +50% Boost (Tactical)] and [Dualcast Earth (Tactical) 4] to user if HP is less than 70%, else grants [Surging Power +30% 6] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ingus], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Monolith Impact (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ability +50% Boost (Tactical)] and [Dualcast Earth (Tactical) 4] to user if HP is less than 70%, else grants [Surging Power +30% 6] to all allies"
+    }
+  ],
   "id": "20800038",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800038/20800038_256.png",
   "character": "Ingus",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ingus], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ingus], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ability +50% Boost (Tactical)] and [Dualcast Earth (Tactical) 4] to user if HP is less than 70%, else grants [Surging Power +30% 6] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ingus], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ability +50% Boost (Tactical)] and [Dualcast Earth (Tactical) 4] to user if HP is less than 70%, else grants [Surging Power +30% 6] to all allies"
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ingus], [ATK +500 (25s) (Tactical)] to user."
 }

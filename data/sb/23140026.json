@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Thief], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Storm Prison (Weapon Skill)",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Wind, Poison Damage Cap +20000 (Tactical)], [Wind, Poison DEF and RES 40% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Wind, Poison Damage Cap +30000 (Tactical)], [Wind, Poison Ability +50% Boost (Tactical)] to user if Level 2+ EnWind or EnPoison, grants [Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Thief], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Storm Prison (Weapon Skill)",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Wind, Poison Damage Cap +20000 (Tactical)], [Wind, Poison DEF and RES 40% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Wind, Poison Damage Cap +30000 (Tactical)], [Wind, Poison Ability +50% Boost (Tactical)] to user if Level 2+ EnWind or EnPoison, grants [Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] to user if not."
+    }
+  ],
   "id": "23140026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140026/23140026_256.png",
   "character": "Thief (I)",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Thief], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Thief], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Wind, Poison Damage Cap +20000 (Tactical)], [Wind, Poison DEF and RES 40% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Wind, Poison Damage Cap +30000 (Tactical)], [Wind, Poison Ability +50% Boost (Tactical)] to user if Level 2+ EnWind or EnPoison, grants [Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] to user if not."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Thief], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Wind, Poison Damage Cap +20000 (Tactical)], [Wind, Poison DEF and RES 40% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Wind, Poison Damage Cap +30000 (Tactical)], [Wind, Poison Ability +50% Boost (Tactical)] to user if Level 2+ EnWind or EnPoison, grants [Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] to user if not."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Thief], [ATK +500 (25s) (Tactical)] to user."
 }

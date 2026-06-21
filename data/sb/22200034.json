@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Ice/Dark/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 4 single-target Ice/Dark/NE magic attacks, Ice/Dark Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Ice/Dark/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 4 single-target Ice/Dark/NE magic attacks, Ice/Dark Damage +10% for 5 seconds to party"
+    }
+  ],
   "id": "22200034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200034/22200034_256.png",
   "character": "Edea",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Ice/Dark/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 4 single-target Ice/Dark/NE magic attacks, Ice/Dark Damage +10% for 5 seconds to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Ice/Dark/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 4 single-target Ice/Dark/NE magic attacks, Ice/Dark Damage +10% for 5 seconds to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Ice/Dark/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 4 single-target Ice/Dark/NE magic attacks, Ice/Dark Damage +10% for 5 seconds to party"
-    }
-  ]
+  "effects": "5 single-target Ice/Dark/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Dark Ability High Boost & chases Ice/Dark abilities with 4 single-target Ice/Dark/NE magic attacks, Ice/Dark Damage +10% for 5 seconds to party"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Fire/Ice/Lightning/NE magic attacks (? each) capped at 19999, [MAG/MND +25% & DEF/RES +30%] for 8 seconds & [Witch Damage +3%] to party, [Damage Cap +10000] & [Dual Awoken Witch Mode I (Matoya)] to user"
+    },
+    {
+      "name": "Awoken Magic Broom (Dual Shift)",
+      "text": "Grants [Instant ATB 1], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Ability Boost], [Triplecast Witch], chases Witch abilities with 4 single-target Fire/Ice/Lightning/NE magic attacks (? each), every 2 chases grant [Quick Cast 1] to user, and grants [Dual Awoken Witch Mode II (Matoya)] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Fire/Ice/Lightning/NE magic attacks (? each) capped at 19999, [MAG/MND +25% & DEF/RES +30%] for 8 seconds & [Witch Damage +3%] to party, [Damage Cap +10000] & [Dual Awoken Witch Mode I (Matoya)] to user"
+    },
+    {
+      "name": "Awoken Magic Broom (Dual Shift)",
+      "text": "Grants [Instant ATB 1], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Ability Boost], [Triplecast Witch], chases Witch abilities with 4 single-target Fire/Ice/Lightning/NE magic attacks (? each), every 2 chases grant [Quick Cast 1] to user, and grants [Dual Awoken Witch Mode II (Matoya)] to user"
+    }
+  ],
   "id": "22590021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590021/22590021_256.png",
   "character": "Matoya",
@@ -16,25 +36,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single-target Fire/Ice/Lightning/NE magic attacks (? each) capped at 19999, [MAG/MND +25% & DEF/RES +30%] for 8 seconds & [Witch Damage +3%] to party, [Damage Cap +10000] & [Dual Awoken Witch Mode I (Matoya)] to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single-target Fire/Ice/Lightning/NE magic attacks (? each) capped at 19999, [MAG/MND +25% & DEF/RES +30%] for 8 seconds & [Witch Damage +3%] to party, [Damage Cap +10000] & [Dual Awoken Witch Mode I (Matoya)] to user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Ability Boost], [Triplecast Witch], chases Witch abilities with 4 single-target Fire/Ice/Lightning/NE magic attacks (? each), every 2 chases grant [Quick Cast 1] to user, and grants [Dual Awoken Witch Mode II (Matoya)] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single-target Fire/Ice/Lightning/NE magic attacks (? each) capped at 19999, [MAG/MND +25% & DEF/RES +30%] for 8 seconds & [Witch Damage +3%] to party, [Damage Cap +10000] & [Dual Awoken Witch Mode I (Matoya)] to user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Ability Boost], [Triplecast Witch], chases Witch abilities with 4 single-target Fire/Ice/Lightning/NE magic attacks (? each), every 2 chases grant [Quick Cast 1] to user, and grants [Dual Awoken Witch Mode II (Matoya)] to user"
-    }
-  ]
+  "effects": "Seven single-target Fire/Ice/Lightning/NE magic attacks (? each) capped at 19999, [MAG/MND +25% & DEF/RES +30%] for 8 seconds & [Witch Damage +3%] to party, [Damage Cap +10000] & [Dual Awoken Witch Mode I (Matoya)] to user"
 }

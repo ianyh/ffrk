@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55)"
+    }
+  ],
   "id": "20320010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320010/20320010_256.png",
   "character": "Vanille",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (55)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55)"
-    }
-  ]
+  "effects": "Restores HP (55)"
 }

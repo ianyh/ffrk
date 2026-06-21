@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[Imperil Lightning 20% (15s)], grants [Instant Cast 1] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[Imperil Lightning 20% (15s)], grants [Instant Cast 1] and [200% ATB 1] to the user"
+    }
+  ],
   "id": "20920028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920028/20920028_256.png",
   "character": "Reno",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "[Imperil Lightning 20% (15s)], grants [Instant Cast 1] and [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[Imperil Lightning 20% (15s)], grants [Instant Cast 1] and [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[Imperil Lightning 20% (15s)], grants [Instant Cast 1] and [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "[Imperil Lightning 20% (15s)], grants [Instant Cast 1] and [200% ATB 1] to the user"
 }

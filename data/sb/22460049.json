@@ -1,23 +1,4 @@
 {
-  "id": "22460049",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460049/22460049_256.png",
-  "character": "Onion Knight",
-  "name": "Zenith Onion Master",
-  "name_jp": "究極オニオンマスタ",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "III",
-  "elements": [
-    "Wind",
-    "Water",
-    "Fire",
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Earth 2 with Stacking] based on if entry damage was Wind/Water/Fire/Earth damage, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Wind, Water, Fire, Earth)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -73,5 +54,24 @@
       "name": "Spirit Attack: Onion Knight (Fire, Earth, Wind, Water)",
       "text": "Grants [Instant ATB 1] to user"
     }
-  ]
+  ],
+  "id": "22460049",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460049/22460049_256.png",
+  "character": "Onion Knight",
+  "name": "Zenith Onion Master",
+  "name_jp": "究極オニオンマスタ",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "Water",
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Earth 2 with Stacking] based on if entry damage was Wind/Water/Fire/Earth damage, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Wind, Water, Fire, Earth)] to the user"
 }

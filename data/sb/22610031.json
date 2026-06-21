@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single attacks at Cap Break Level 1, activates Monk Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Lightning/NE Overflow physical attack, multiplier increases with each chase, Quick Monk 2 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single attacks at Cap Break Level 1, activates Monk Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Lightning/NE Overflow physical attack, multiplier increases with each chase, Quick Monk 2 to user"
+    }
+  ],
   "id": "22610031",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610031/22610031_256.png",
   "character": "Raijin",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single attacks at Cap Break Level 1, activates Monk Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Lightning/NE Overflow physical attack, multiplier increases with each chase, Quick Monk 2 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single attacks at Cap Break Level 1, activates Monk Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Lightning/NE Overflow physical attack, multiplier increases with each chase, Quick Monk 2 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single attacks at Cap Break Level 1, activates Monk Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Lightning/NE Overflow physical attack, multiplier increases with each chase, Quick Monk 2 to user"
-    }
-  ]
+  "effects": "10 single attacks at Cap Break Level 1, activates Monk Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Lightning/NE Overflow physical attack, multiplier increases with each chase, Quick Monk 2 to user"
 }

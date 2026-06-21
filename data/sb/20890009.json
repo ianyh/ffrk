@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user"
+    }
+  ],
   "id": "20890009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890009/20890009_256.png",
   "character": "Shadow",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user"
 }

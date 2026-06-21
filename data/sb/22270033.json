@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user."
+    },
+    {
+      "name": "Burst Break: Braska (Break Arte)",
+      "text": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user."
+    },
+    {
+      "name": "Burst Break: Braska (Break Arte)",
+      "text": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user."
+    }
+  ],
   "id": "22270033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270033/22270033_256.png",
   "character": "Braska",
@@ -22,25 +42,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user."
-    }
-  ]
+  "effects": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user."
 }

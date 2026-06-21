@@ -1,20 +1,4 @@
 {
-  "id": "23470024",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23470024/23470024_256.png",
-  "character": "Genesis",
-  "name": "Roaring Crimson Contempt",
-  "name_jp": "轟・紅き断罪",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "VII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Genesis], and [Instant ATB 1] to the user",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Genesis",
       "text": "Fire abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, and instant cast speed for Fire abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "23470024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23470024/23470024_256.png",
+  "character": "Genesis",
+  "name": "Roaring Crimson Contempt",
+  "name_jp": "轟・紅き断罪",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Genesis], and [Instant ATB 1] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.05 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.05 each)"
+    }
+  ],
   "id": "20110004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110004/20110004_256.png",
   "character": "Cloud",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group ranged attacks (2.05 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group ranged attacks (2.05 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group ranged attacks (2.05 each)"
-    }
-  ]
+  "effects": "Three group ranged attacks (2.05 each)"
 }

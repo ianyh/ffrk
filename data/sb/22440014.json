@@ -1,17 +1,4 @@
 {
-  "id": "22440014",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440014/22440014_256.png",
-  "character": "Larsa",
-  "name": "Zenith Potion Regalia",
-  "name_jp": "究極ポーション皇子",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XII",
-  "elements": [],
-  "type": "NAT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Grants [HP Stock (6000)], [Critical Damage +50%], [Last Stand], [High Quick Cast 2], and [Natural Cure: Larsa] to all allies, grants [Damage Cap +10000], [Instant Cast 1], [Zenith Mode], and [Zenith Mode: Larsa] to the user",
   "description": [
     {
       "name": "Entry",
@@ -71,5 +58,18 @@
       "name": "Mote Glimmer+",
       "text": "Causes [ATK, DEF and MAG -50% (15s)], restores 1500 HP to all allies"
     }
-  ]
+  ],
+  "id": "22440014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440014/22440014_256.png",
+  "character": "Larsa",
+  "name": "Zenith Potion Regalia",
+  "name_jp": "究極ポーション皇子",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (6000)], [Critical Damage +50%], [Last Stand], [High Quick Cast 2], and [Natural Cure: Larsa] to all allies, grants [Damage Cap +10000], [Instant Cast 1], [Zenith Mode], and [Zenith Mode: Larsa] to the user"
 }

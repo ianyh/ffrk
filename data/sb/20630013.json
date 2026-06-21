@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Stoneskin: 100%] and [Dark Armor Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Stoneskin: 100%] and [Dark Armor Mode] to the user"
+    }
+  ],
   "id": "20630013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630013/20630013_256.png",
   "character": "Golbez",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Stoneskin: 100%] and [Dark Armor Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Stoneskin: 100%] and [Dark Armor Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Stoneskin: 100%] and [Dark Armor Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000], [Stoneskin: 100%] and [Dark Armor Mode] to the user"
 }

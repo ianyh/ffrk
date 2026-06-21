@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode II (Fire, Ice, Lightning) v2], [Awoken Black Magic], [Damage Cap +10000], [Instant Cast 1], [Bluff Mode] and [True Thunderstorm] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode II (Fire, Ice, Lightning) v2], [Awoken Black Magic], [Damage Cap +10000], [Instant Cast 1], [Bluff Mode] and [True Thunderstorm] to the user"
+    }
+  ],
   "id": "22210013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210013/22210013_256.png",
   "character": "Palom",
@@ -16,17 +28,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode II (Fire, Ice, Lightning) v2], [Awoken Black Magic], [Damage Cap +10000], [Instant Cast 1], [Bluff Mode] and [True Thunderstorm] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode II (Fire, Ice, Lightning) v2], [Awoken Black Magic], [Damage Cap +10000], [Instant Cast 1], [Bluff Mode] and [True Thunderstorm] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode II (Fire, Ice, Lightning) v2], [Awoken Black Magic], [Damage Cap +10000], [Instant Cast 1], [Bluff Mode] and [True Thunderstorm] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode II (Fire, Ice, Lightning) v2], [Awoken Black Magic], [Damage Cap +10000], [Instant Cast 1], [Bluff Mode] and [True Thunderstorm] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five random ranged attacks (1.50 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five random ranged attacks (1.50 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20840005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840005/20840005_256.png",
   "character": "Quina",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Five random ranged attacks (1.50 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five random ranged attacks (1.50 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five random ranged attacks (1.50 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Five random ranged attacks (1.50 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

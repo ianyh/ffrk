@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Damage +5% to Witches, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE magic attacks, Damage +10/15/20/25/30% to Witches after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE magic attack at True Cap Break Level 1, Damage +30% for 1 turn to Witches, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Damage +5% to Witches, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE magic attacks, Damage +10/15/20/25/30% to Witches after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE magic attack at True Cap Break Level 1, Damage +30% for 1 turn to Witches, removes Master Mode"
+    }
+  ],
   "id": "22670041",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670041/22670041_256.png",
   "character": "Cloud of Darkness",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Damage +5% to Witches, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE magic attacks, Damage +10/15/20/25/30% to Witches after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE magic attack at True Cap Break Level 1, Damage +30% for 1 turn to Witches, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Damage +5% to Witches, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE magic attacks, Damage +10/15/20/25/30% to Witches after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE magic attack at True Cap Break Level 1, Damage +30% for 1 turn to Witches, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Damage +5% to Witches, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE magic attacks, Damage +10/15/20/25/30% to Witches after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE magic attack at True Cap Break Level 1, Damage +30% for 1 turn to Witches, removes Master Mode"
-    }
-  ]
+  "effects": "Damage +5% to Witches, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Lightning/NE magic attacks, Damage +10/15/20/25/30% to Witches after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Lightning/NE magic attack at True Cap Break Level 1, Damage +30% for 1 turn to Witches, removes Master Mode"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (0.67 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (0.67 each)"
+    }
+  ],
   "id": "22670003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670003/22670003_256.png",
   "character": "Cloud of Darkness",
@@ -11,17 +23,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Three single attacks (0.67 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (0.67 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (0.67 each)"
-    }
-  ]
+  "effects": "Three single attacks (0.67 each)"
 }

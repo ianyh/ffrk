@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra], removes negative status effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra], removes negative status effects"
+    }
+  ],
   "id": "22440007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440007/22440007_256.png",
   "character": "Larsa",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Astra], removes negative status effects",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Astra], removes negative status effects"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Astra], removes negative status effects"
-    }
-  ]
+  "effects": "Grants [Astra], removes negative status effects"
 }

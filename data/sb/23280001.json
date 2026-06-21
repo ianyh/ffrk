@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (26.50 each) capped at 99999"
+    }
+  ],
   "id": "23280001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280001/23280001_256.png",
   "character": "Enna Kros",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single attacks (26.50 each) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (26.50 each) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (26.50 each) capped at 99999"
-    }
-  ]
+  "effects": "Three single attacks (26.50 each) capped at 99999"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 2], [Physical Blink Stacking 2] and [Ninja Rank Boost]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 2], [Physical Blink Stacking 2] and [Ninja Rank Boost]"
+    }
+  ],
   "id": "22040011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040011/22040011_256.png",
   "character": "Yuffie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Physical Blink 2], [Physical Blink Stacking 2] and [Ninja Rank Boost]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Physical Blink 2], [Physical Blink Stacking 2] and [Ninja Rank Boost]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Physical Blink 2], [Physical Blink Stacking 2] and [Ninja Rank Boost]"
-    }
-  ]
+  "effects": "Grants [Physical Blink 2], [Physical Blink Stacking 2] and [Ninja Rank Boost]"
 }

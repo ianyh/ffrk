@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Earth], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Attach Earth], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
   "id": "20300012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300012/20300012_256.png",
   "character": "Rinoa",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.73 each), grants [Attach Earth], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), grants [Attach Earth], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), grants [Attach Earth], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.73 each), grants [Attach Earth], [Black Magic +30% Boost (15s)] and [Brave Mode] to the user"
 }

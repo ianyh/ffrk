@@ -1,20 +1,4 @@
 {
-  "id": "22610025",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610025/22610025_256.png",
-  "character": "Raijin",
-  "name": "Roaring Annihilating Bolt",
-  "name_jp": "轟・滅雷",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "VIII",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single attacks (0.80 each), Grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Raijin], and [Instant ATB 1] to the user",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Raijin",
       "text": "Lightning abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, and instant cast speed for Lightning abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "22610025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610025/22610025_256.png",
+  "character": "Raijin",
+  "name": "Roaring Annihilating Bolt",
+  "name_jp": "轟・滅雷",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (0.80 each), Grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Raijin], and [Instant ATB 1] to the user"
 }

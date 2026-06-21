@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Monk Rank Boost], [Critical Damage +50%] and [Monk Quick Cycle: Non-Elemental] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Monk Rank Boost], [Critical Damage +50%] and [Monk Quick Cycle: Non-Elemental] to the user"
+    }
+  ],
   "id": "22680004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680004/22680004_256.png",
   "character": "Prishe",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.72 each), grants [Monk Rank Boost], [Critical Damage +50%] and [Monk Quick Cycle: Non-Elemental] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), grants [Monk Rank Boost], [Critical Damage +50%] and [Monk Quick Cycle: Non-Elemental] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), grants [Monk Rank Boost], [Critical Damage +50%] and [Monk Quick Cycle: Non-Elemental] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.72 each), grants [Monk Rank Boost], [Critical Damage +50%] and [Monk Quick Cycle: Non-Elemental] to the user"
 }

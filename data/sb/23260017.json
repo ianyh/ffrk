@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)] [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], and [Freeze Drain Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)] [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], and [Freeze Drain Follow-Up] to the user"
+    }
+  ],
   "id": "23260017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260017/23260017_256.png",
   "character": "Seven",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)] [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], and [Freeze Drain Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)] [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], and [Freeze Drain Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)] [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], and [Freeze Drain Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)] [Attach Ice with Stacking], [Awoken Ice], [Damage Cap +10000], and [Freeze Drain Follow-Up] to the user"
 }

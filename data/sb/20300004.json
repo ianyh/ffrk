@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five random attacks (3.60 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five random attacks (3.60 each)"
+    }
+  ],
   "id": "20300004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300004/20300004_256.png",
   "character": "Rinoa",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Five random attacks (3.60 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five random attacks (3.60 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five random attacks (3.60 each)"
-    }
-  ]
+  "effects": "Five random attacks (3.60 each)"
 }

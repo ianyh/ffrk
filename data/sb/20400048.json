@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Spellblade Mode I: Bartz - Wind] and [Spellblade Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Rousing Winds (Dual Shift)",
+      "text": "Grants [Instant ATB 1], [Attach Wind 2 with Stacking], [Dual Wind Spellblade Mode], [Dual Awoken Spellblade Mode II: Bartz - Wind], removes [Dual Awoken Spellblade Mode I: Bartz - Wind]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Spellblade Mode I: Bartz - Wind] and [Spellblade Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Rousing Winds (Dual Shift)",
+      "text": "Grants [Instant ATB 1], [Attach Wind 2 with Stacking], [Dual Wind Spellblade Mode], [Dual Awoken Spellblade Mode II: Bartz - Wind], removes [Dual Awoken Spellblade Mode I: Bartz - Wind]"
+    }
+  ],
   "id": "20400048",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400048/20400048_256.png",
   "character": "Bartz",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Spellblade Mode I: Bartz - Wind] and [Spellblade Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Spellblade Mode I: Bartz - Wind] and [Spellblade Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], [Attach Wind 2 with Stacking], [Dual Wind Spellblade Mode], [Dual Awoken Spellblade Mode II: Bartz - Wind], removes [Dual Awoken Spellblade Mode I: Bartz - Wind]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Spellblade Mode I: Bartz - Wind] and [Spellblade Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], [Attach Wind 2 with Stacking], [Dual Wind Spellblade Mode], [Dual Awoken Spellblade Mode II: Bartz - Wind], removes [Dual Awoken Spellblade Mode I: Bartz - Wind]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Spellblade Mode I: Bartz - Wind] and [Spellblade Resonance +5% Boost] to the user"
 }

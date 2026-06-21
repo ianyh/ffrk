@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), grants [Twin Element Mode II (Lightning, Wind)], [Instant Cast 1] and [Red Mana Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), grants [Twin Element Mode II (Lightning, Wind)], [Instant Cast 1] and [Red Mana Mode] to the user"
+    }
+  ],
   "id": "23510004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510004/23510004_256.png",
   "character": "Alisaie",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.68 each), grants [Twin Element Mode II (Lightning, Wind)], [Instant Cast 1] and [Red Mana Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.68 each), grants [Twin Element Mode II (Lightning, Wind)], [Instant Cast 1] and [Red Mana Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.68 each), grants [Twin Element Mode II (Lightning, Wind)], [Instant Cast 1] and [Red Mana Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.68 each), grants [Twin Element Mode II (Lightning, Wind)], [Instant Cast 1] and [Red Mana Mode] to the user"
 }

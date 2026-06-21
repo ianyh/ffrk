@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Chain (max 99, field +20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Chain (max 99, field +20%)"
+    }
+  ],
   "id": "22110009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110009/22110009_256.png",
   "character": "Freya",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Wind Chain (max 99, field +20%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Wind Chain (max 99, field +20%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Wind Chain (max 99, field +20%)"
-    }
-  ]
+  "effects": "Activates Wind Chain (max 99, field +20%)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
   "id": "22460032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460032/22460032_256.png",
   "character": "Onion Knight",
@@ -16,17 +28,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
-    }
-  ]
+  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
 }

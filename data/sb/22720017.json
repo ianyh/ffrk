@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Ceodore)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Shimmering Cross (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Ceodore)], removes [Dual Awoken Holy Mode I (Ceodore)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Ceodore)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Shimmering Cross (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Ceodore)], removes [Dual Awoken Holy Mode I (Ceodore)]"
+    }
+  ],
   "id": "22720017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720017/22720017_256.png",
   "character": "Ceodore",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Ceodore)] and [Holy Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Ceodore)] and [Holy Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Ceodore)], removes [Dual Awoken Holy Mode I (Ceodore)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Ceodore)] and [Holy Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Ceodore)], removes [Dual Awoken Holy Mode I (Ceodore)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Ceodore)] and [Holy Resonance +5% Boost] to the user"
 }

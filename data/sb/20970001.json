@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (1.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (1.10)"
+    }
+  ],
   "id": "20970001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970001/20970001_256.png",
   "character": "Rikku",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One group ranged attack (1.10)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (1.10)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (1.10)"
-    }
-  ]
+  "effects": "One group ranged attack (1.10)"
 }

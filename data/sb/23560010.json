@@ -1,27 +1,11 @@
 {
-  "id": "23560010",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560010/23560010_256.png",
-  "character": "Ultros",
-  "name": "Apex Ink",
-  "name_jp": "すみ・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VI",
-  "elements": [
-    "Poison",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "10 single hybrid attacks and one single overflow attack, grants [Instant Cast 1] to all allies, removes True Arcane Augment Mode",
   "description": [
     {
       "name": "Entry",
       "text": "10 single hybrid attacks and one single overflow attack, grants [Instant Cast 1] to all allies, removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Ink (Engaged)",
       "text": "Grants [Quick Cast 2] to all allies, grants [Damage Cap +10000] and True Arcane Augment Mode to the user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Ink if at least 100001/300001 damage is dealt"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "10 single hybrid attacks and one single overflow attack, grants [Instant Cast 1] to all allies, removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Ink (Engaged)",
       "text": "Grants [Quick Cast 2] to all allies, grants [Damage Cap +10000] and True Arcane Augment Mode to the user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Ink if at least 100001/300001 damage is dealt"
     }
-  ]
+  ],
+  "id": "23560010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560010/23560010_256.png",
+  "character": "Ultros",
+  "name": "Apex Ink (Engaged)",
+  "name_jp": "すみ・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Quick Cast 2] to all allies, grants [Damage Cap +10000] and True Arcane Augment Mode to the user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Ink if at least 100001/300001 damage is dealt"
 }

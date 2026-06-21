@@ -1,17 +1,4 @@
 {
-  "id": "22060014",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060014/22060014_256.png",
-  "character": "Penelo",
-  "name": "Zenith Dance of Rapture",
-  "name_jp": "究極ファイナルダンス",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XII",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], [High Quick Cast 3], and [Natural Cure: Penelo] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Penelo] to the user",
   "description": [
     {
       "name": "Entry",
@@ -79,5 +66,18 @@
       "name": "Spirit Attack: Penelo",
       "text": "Grants [HP Stock (2000)] to all allies"
     }
-  ]
+  ],
+  "id": "22060014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060014/22060014_256.png",
+  "character": "Penelo",
+  "name": "Zenith Dance of Rapture",
+  "name_jp": "究極ファイナルダンス",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], [High Quick Cast 3], and [Natural Cure: Penelo] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Penelo] to the user"
 }

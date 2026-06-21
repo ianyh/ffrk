@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth/Wind/Poison Ability High Boost & chases Fire/Earth/Wind/Poison abilities with single-target minor Imperil Fire/Earth/Wind/Poison for 5 seconds and Fire/Earth/Wind/Poison Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth/Wind/Poison Ability High Boost & chases Fire/Earth/Wind/Poison abilities with single-target minor Imperil Fire/Earth/Wind/Poison for 5 seconds and Fire/Earth/Wind/Poison Damage +10% for 5 seconds to party"
+    }
+  ],
   "id": "22780024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780024/22780024_256.png",
   "character": "Cid (XIV)",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Five single ranged attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth/Wind/Poison Ability High Boost & chases Fire/Earth/Wind/Poison abilities with single-target minor Imperil Fire/Earth/Wind/Poison for 5 seconds and Fire/Earth/Wind/Poison Damage +10% for 5 seconds to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five single ranged attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth/Wind/Poison Ability High Boost & chases Fire/Earth/Wind/Poison abilities with single-target minor Imperil Fire/Earth/Wind/Poison for 5 seconds and Fire/Earth/Wind/Poison Damage +10% for 5 seconds to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five single ranged attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth/Wind/Poison Ability High Boost & chases Fire/Earth/Wind/Poison abilities with single-target minor Imperil Fire/Earth/Wind/Poison for 5 seconds and Fire/Earth/Wind/Poison Damage +10% for 5 seconds to party"
-    }
-  ]
+  "effects": "Five single ranged attacks, grants Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Earth/Wind/Poison Ability High Boost & chases Fire/Earth/Wind/Poison abilities with single-target minor Imperil Fire/Earth/Wind/Poison for 5 seconds and Fire/Earth/Wind/Poison Damage +10% for 5 seconds to party"
 }

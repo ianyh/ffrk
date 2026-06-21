@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "DEF & RES -50% to all targets, h60 heal, En-Heal +30% & Radiant Vivifying Dance to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h60 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Vivifying Dance: Prismatic Damage +20/30% with at least 0/3 VIII members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "DEF & RES -50% to all targets, h60 heal, En-Heal +30% & Radiant Vivifying Dance to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h60 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Vivifying Dance: Prismatic Damage +20/30% with at least 0/3 VIII members"
+    }
+  ],
   "id": "20510022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510022/20510022_256.png",
   "character": "Selphie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "DEF & RES -50% to all targets, h60 heal, En-Heal +30% & Radiant Vivifying Dance to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h60 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Vivifying Dance: Prismatic Damage +20/30% with at least 0/3 VIII members",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "DEF & RES -50% to all targets, h60 heal, En-Heal +30% & Radiant Vivifying Dance to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h60 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Vivifying Dance: Prismatic Damage +20/30% with at least 0/3 VIII members"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "DEF & RES -50% to all targets, h60 heal, En-Heal +30% & Radiant Vivifying Dance to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h60 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Vivifying Dance: Prismatic Damage +20/30% with at least 0/3 VIII members"
-    }
-  ]
+  "effects": "DEF & RES -50% to all targets, h60 heal, En-Heal +30% & Radiant Vivifying Dance to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h60 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Vivifying Dance: Prismatic Damage +20/30% with at least 0/3 VIII members"
 }

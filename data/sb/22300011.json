@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste], [High Quick Cast 2], grants [Buff Holy 10% (15s)]/[Buff Dark 10% (15s)] and [HP Stock (2000)] if Warrior of Light/Garland is in the party, grants [Buff Holy 20% (15s)] and [Buff Dark 20% (15s)] and [HP Stock (2000)] if both are in the party, grants [Awoken Cornelian Princess] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste], [High Quick Cast 2], grants [Buff Holy 10% (15s)]/[Buff Dark 10% (15s)] and [HP Stock (2000)] if Warrior of Light/Garland is in the party, grants [Buff Holy 20% (15s)] and [Buff Dark 20% (15s)] and [HP Stock (2000)] if both are in the party, grants [Awoken Cornelian Princess] to the user"
+    }
+  ],
   "id": "22300011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300011/22300011_256.png",
   "character": "Sarah",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste], [High Quick Cast 2], grants [Buff Holy 10% (15s)]/[Buff Dark 10% (15s)] and [HP Stock (2000)] if Warrior of Light/Garland is in the party, grants [Buff Holy 20% (15s)] and [Buff Dark 20% (15s)] and [HP Stock (2000)] if both are in the party, grants [Awoken Cornelian Princess] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste], [High Quick Cast 2], grants [Buff Holy 10% (15s)]/[Buff Dark 10% (15s)] and [HP Stock (2000)] if Warrior of Light/Garland is in the party, grants [Buff Holy 20% (15s)] and [Buff Dark 20% (15s)] and [HP Stock (2000)] if both are in the party, grants [Awoken Cornelian Princess] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste], [High Quick Cast 2], grants [Buff Holy 10% (15s)]/[Buff Dark 10% (15s)] and [HP Stock (2000)] if Warrior of Light/Garland is in the party, grants [Buff Holy 20% (15s)] and [Buff Dark 20% (15s)] and [HP Stock (2000)] if both are in the party, grants [Awoken Cornelian Princess] to the user"
-    }
-  ]
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand], [Haste], [High Quick Cast 2], grants [Buff Holy 10% (15s)]/[Buff Dark 10% (15s)] and [HP Stock (2000)] if Warrior of Light/Garland is in the party, grants [Buff Holy 20% (15s)] and [Buff Dark 20% (15s)] and [HP Stock (2000)] if both are in the party, grants [Awoken Cornelian Princess] to the user"
 }

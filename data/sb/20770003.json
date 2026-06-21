@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (8.55), [ATK -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (8.55), [ATK -50%] for 25 seconds"
+    }
+  ],
   "id": "20770003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770003/20770003_256.png",
   "character": "Hope",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (8.55), [ATK -50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (8.55), [ATK -50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (8.55), [ATK -50%] for 25 seconds"
-    }
-  ]
+  "effects": "One group attack (8.55), [ATK -50%] for 25 seconds"
 }

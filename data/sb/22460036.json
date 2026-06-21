@@ -1,27 +1,11 @@
 {
-  "id": "22460036",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460036/22460036_256.png",
-  "character": "Onion Knight",
-  "name": "Apex Flare",
-  "name_jp": "フレア・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB3",
-  "realm": "III",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Flare level 0/1/2, removes Arcane Dyad Empowered: Onion Knight (Fire) from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Flare level 0/1/2, removes Arcane Dyad Empowered: Onion Knight (Fire) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Flare (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Onion Knight (Fire)], [Apex Flare Damage Tracker] and [Apex Flare Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Flare level 0/1/2, removes Arcane Dyad Empowered: Onion Knight (Fire) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Flare (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Onion Knight (Fire)], [Apex Flare Damage Tracker] and [Apex Flare Level]"
     }
-  ]
+  ],
+  "id": "22460036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460036/22460036_256.png",
+  "character": "Onion Knight",
+  "name": "Apex Flare (Engaged)",
+  "name_jp": "フレア・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB3",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Onion Knight (Fire)], [Apex Flare Damage Tracker] and [Apex Flare Level]"
 }

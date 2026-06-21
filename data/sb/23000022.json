@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Water/Ice/Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Ice/Earth Ability High Boost & chases Water/Ice/Earth abilities with 2 single-target Water/Ice/Earth/NE ranged physical attacks, Prismatic Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Water/Ice/Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Ice/Earth Ability High Boost & chases Water/Ice/Earth abilities with 2 single-target Water/Ice/Earth/NE ranged physical attacks, Prismatic Damage +10% for 5 seconds to party"
+    }
+  ],
   "id": "23000022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000022/23000022_256.png",
   "character": "Ward",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Water/Ice/Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Ice/Earth Ability High Boost & chases Water/Ice/Earth abilities with 2 single-target Water/Ice/Earth/NE ranged physical attacks, Prismatic Damage +10% for 5 seconds to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Water/Ice/Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Ice/Earth Ability High Boost & chases Water/Ice/Earth abilities with 2 single-target Water/Ice/Earth/NE ranged physical attacks, Prismatic Damage +10% for 5 seconds to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Water/Ice/Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Ice/Earth Ability High Boost & chases Water/Ice/Earth abilities with 2 single-target Water/Ice/Earth/NE ranged physical attacks, Prismatic Damage +10% for 5 seconds to party"
-    }
-  ]
+  "effects": "5 single-target Water/Ice/Earth/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water/Ice/Earth Ability High Boost & chases Water/Ice/Earth abilities with 2 single-target Water/Ice/Earth/NE ranged physical attacks, Prismatic Damage +10% for 5 seconds to party"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Last Stand], [Magical Blink 1] and [High Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Last Stand], [Magical Blink 1] and [High Regen]"
+    }
+  ],
   "id": "22800003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22800003/22800003_256.png",
   "character": "Deuce",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Last Stand], [Magical Blink 1] and [High Regen]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Last Stand], [Magical Blink 1] and [High Regen]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Last Stand], [Magical Blink 1] and [High Regen]"
-    }
-  ]
+  "effects": "Grants [Last Stand], [Magical Blink 1] and [High Regen]"
 }

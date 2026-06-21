@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1] to all allies, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Awoken Four Champions of Rubrum] and [Glacial Deathbringer Chase] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1] to all allies, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Awoken Four Champions of Rubrum] and [Glacial Deathbringer Chase] to the user"
+    }
+  ],
   "id": "23550015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550015/23550015_256.png",
   "character": "Kurasame",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1] to all allies, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Awoken Four Champions of Rubrum] and [Glacial Deathbringer Chase] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1] to all allies, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Awoken Four Champions of Rubrum] and [Glacial Deathbringer Chase] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1] to all allies, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Awoken Four Champions of Rubrum] and [Glacial Deathbringer Chase] to the user"
-    }
-  ]
+  "effects": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Instant Cast 1] to all allies, grants [Twin Element Mode II (Ice, Dark)], [Damage Cap +10000], [Awoken Four Champions of Rubrum] and [Glacial Deathbringer Chase] to the user"
 }

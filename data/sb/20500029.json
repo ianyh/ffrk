@@ -1,20 +1,4 @@
 {
-  "id": "20500029",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500029/20500029_256.png",
-  "character": "Quistis",
-  "name": "Zenith Maser Eye",
-  "name_jp": "究極メーザーアイ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [
-    "Poison",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Quistis (Poison)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -98,5 +82,21 @@
       "name": "Spirit Attack: Quistis (Poison)",
       "text": "Five single attacks (2.70/3.05) higher multiplier when exploiting weakness, Grants [Poison Ability +30% Boost 2] to the user"
     }
-  ]
+  ],
+  "id": "20500029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500029/20500029_256.png",
+  "character": "Quistis",
+  "name": "Zenith Maser Eye",
+  "name_jp": "究極メーザーアイ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Quistis (Poison)] to the user"
 }

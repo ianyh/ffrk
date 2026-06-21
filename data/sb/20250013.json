@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast] and [Dark Drain]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast] and [Dark Drain]"
+    }
+  ],
   "id": "20250013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250013/20250013_256.png",
   "character": "Sephiroth",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Quick Cast] and [Dark Drain]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quick Cast] and [Dark Drain]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quick Cast] and [Dark Drain]"
-    }
-  ]
+  "effects": "Grants [Quick Cast] and [Dark Drain]"
 }

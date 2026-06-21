@@ -1,17 +1,4 @@
 {
-  "id": "20120019",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20120019/20120019_256.png",
-  "character": "Aerith",
-  "name": "Zenith Prayer of Salvation",
-  "name_jp": "究極救星の祈り",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VII",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Physical Instant Cast 1], and [Natural Cure: Aerith] to all allies, grants [Quick Cast], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Aerith] to the user",
   "description": [
     {
       "name": "Entry",
@@ -79,5 +66,18 @@
       "name": "Spirit Attack: Aerith",
       "text": "Restores HP (25) to all allies"
     }
-  ]
+  ],
+  "id": "20120019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20120019/20120019_256.png",
+  "character": "Aerith",
+  "name": "Zenith Prayer of Salvation",
+  "name_jp": "究極救星の祈り",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Physical Instant Cast 1], and [Natural Cure: Aerith] to all allies, grants [Quick Cast], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Aerith] to the user"
 }

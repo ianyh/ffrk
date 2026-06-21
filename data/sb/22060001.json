@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (45), damages undeads, [MND +20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (45), damages undeads, [MND +20%] for 25 seconds"
+    }
+  ],
   "id": "22060001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060001/22060001_256.png",
   "character": "Penelo",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Restores HP (45), damages undeads, [MND +20%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (45), damages undeads, [MND +20%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (45), damages undeads, [MND +20%] for 25 seconds"
-    }
-  ]
+  "effects": "Restores HP (45), damages undeads, [MND +20%] for 25 seconds"
 }

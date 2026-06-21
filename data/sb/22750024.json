@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Meia (Water)] to user. Grants [Attach Water with Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Meia (Water)] to user. Grants [Attach Water with Stacking]."
+    }
+  ],
   "id": "22750024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22750024/22750024_256.png",
   "character": "Meia",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Meia (Water)] to user. Grants [Attach Water with Stacking].",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Meia (Water)] to user. Grants [Attach Water with Stacking]."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Meia (Water)] to user. Grants [Attach Water with Stacking]."
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Meia (Water)] to user. Grants [Attach Water with Stacking]."
 }

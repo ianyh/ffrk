@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind]"
+    }
+  ],
   "id": "23230016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230016/23230016_256.png",
   "character": "Ultimecia",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Attach Wind]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Wind]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Wind]"
-    }
-  ]
+  "effects": "Grants [Attach Wind]"
 }

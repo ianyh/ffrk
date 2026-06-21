@@ -1,27 +1,11 @@
 {
-  "id": "20690020",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690020/20690020_256.png",
-  "character": "Auron",
-  "name": "Apex Tornado",
-  "name_jp": "陣風・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "X",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Tornado level 0/1/2, removes Arcane Dyad Empowered: Auron from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Tornado level 0/1/2, removes Arcane Dyad Empowered: Auron from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Tornado (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Auron], [Apex Tornado Damage Tracker] and [Apex Tornado Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Tornado level 0/1/2, removes Arcane Dyad Empowered: Auron from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Tornado (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Auron], [Apex Tornado Damage Tracker] and [Apex Tornado Level]"
     }
-  ]
+  ],
+  "id": "20690020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690020/20690020_256.png",
+  "character": "Auron",
+  "name": "Apex Tornado (Engaged)",
+  "name_jp": "陣風・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Auron], [Apex Tornado Damage Tracker] and [Apex Tornado Level]"
 }

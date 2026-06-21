@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 150, field +30%), grants [ATK +50% (25s)] or [MAG +50% (25s)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 150, field +30%), grants [ATK +50% (25s)] or [MAG +50% (25s)] to all allies"
+    }
+  ],
   "id": "23010024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010024/23010024_256.png",
   "character": "Rude",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Earth Chain (max 150, field +30%), grants [ATK +50% (25s)] or [MAG +50% (25s)] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Earth Chain (max 150, field +30%), grants [ATK +50% (25s)] or [MAG +50% (25s)] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Earth Chain (max 150, field +30%), grants [ATK +50% (25s)] or [MAG +50% (25s)] to all allies"
-    }
-  ]
+  "effects": "Activates Earth Chain (max 150, field +30%), grants [ATK +50% (25s)] or [MAG +50% (25s)] to all allies"
 }

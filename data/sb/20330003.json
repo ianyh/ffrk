@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (0.75 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (0.75 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
   "id": "20330003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330003/20330003_256.png",
   "character": "Warrior of Light",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Eight group attacks (0.75 each), grants [Physical Blink 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight group attacks (0.75 each), grants [Physical Blink 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight group attacks (0.75 each), grants [Physical Blink 1] to all allies"
-    }
-  ]
+  "effects": "Eight group attacks (0.75 each), grants [Physical Blink 1] to all allies"
 }

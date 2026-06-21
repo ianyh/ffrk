@@ -1,20 +1,4 @@
 {
-  "id": "23320014",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320014/23320014_256.png",
-  "character": "Wedge",
-  "name": "Zenith Tornado Star",
-  "name_jp": "究極トルネドスター",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Core",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Wedge]",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Spirit Attack: Wedge",
       "text": "Grants [Weakness +30% Boost 3] to the user/party if there are 0-2/3 Thief members in the party, and Six single hybrid attacks (0.6/1.5 each) and grants [Weakness +30% Boost 3] to all allies if there are 4+ Thief members in the party"
     }
-  ]
+  ],
+  "id": "23320014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320014/23320014_256.png",
+  "character": "Wedge",
+  "name": "Zenith Tornado Star",
+  "name_jp": "究極トルネドスター",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Core",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Wedge]"
 }

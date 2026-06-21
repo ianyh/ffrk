@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [Stoneskin: 30%], grants [Awoken Guardian] and [High Quick Cast] for 15 seconds to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [Stoneskin: 30%], grants [Awoken Guardian] and [High Quick Cast] for 15 seconds to the user"
+    }
+  ],
   "id": "20960009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960009/20960009_256.png",
   "character": "Y'shtola",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (105), grants [Last Stand] and [Stoneskin: 30%], grants [Awoken Guardian] and [High Quick Cast] for 15 seconds to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), grants [Last Stand] and [Stoneskin: 30%], grants [Awoken Guardian] and [High Quick Cast] for 15 seconds to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), grants [Last Stand] and [Stoneskin: 30%], grants [Awoken Guardian] and [High Quick Cast] for 15 seconds to the user"
-    }
-  ]
+  "effects": "Restores HP (105), grants [Last Stand] and [Stoneskin: 30%], grants [Awoken Guardian] and [High Quick Cast] for 15 seconds to the user"
 }

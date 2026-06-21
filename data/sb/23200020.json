@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Tactical Mind & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Fire Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user\nRadiant Tactical Mind: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Thief/XV members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Tactical Mind & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Fire Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user\nRadiant Tactical Mind: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Thief/XV members"
+    }
+  ],
   "id": "23200020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200020/23200020_256.png",
   "character": "Ignis",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Tactical Mind & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Fire Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user\nRadiant Tactical Mind: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Thief/XV members",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Tactical Mind & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Fire Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user\nRadiant Tactical Mind: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Thief/XV members"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Tactical Mind & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Fire Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user\nRadiant Tactical Mind: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Thief/XV members"
-    }
-  ]
+  "effects": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Tactical Mind & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Fire Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user\nRadiant Tactical Mind: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Thief/XV members"
 }

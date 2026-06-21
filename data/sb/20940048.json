@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Fire/NE or Earth/NE summon attacks at Cap Break Level 1 under En-Fire or En-Earth, activates Summoner Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Summoning abilities, chases with 6 single-target Fire/Earth/NE summon magic attacks (max 2 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Fire/NE or Earth/NE summon attacks at Cap Break Level 1 under En-Fire or En-Earth, activates Summoner Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Summoning abilities, chases with 6 single-target Fire/Earth/NE summon magic attacks (max 2 chases)"
+    }
+  ],
   "id": "20940048",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940048/20940048_256.png",
   "character": "Krile",
@@ -16,17 +28,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single-target Fire/NE or Earth/NE summon attacks at Cap Break Level 1 under En-Fire or En-Earth, activates Summoner Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Summoning abilities, chases with 6 single-target Fire/Earth/NE summon magic attacks (max 2 chases)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Fire/NE or Earth/NE summon attacks at Cap Break Level 1 under En-Fire or En-Earth, activates Summoner Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Summoning abilities, chases with 6 single-target Fire/Earth/NE summon magic attacks (max 2 chases)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Fire/NE or Earth/NE summon attacks at Cap Break Level 1 under En-Fire or En-Earth, activates Summoner Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Summoning abilities, chases with 6 single-target Fire/Earth/NE summon magic attacks (max 2 chases)"
-    }
-  ]
+  "effects": "10 single-target Fire/NE or Earth/NE summon attacks at Cap Break Level 1 under En-Fire or En-Earth, activates Summoner Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Summoning abilities, chases with 6 single-target Fire/Earth/NE summon magic attacks (max 2 chases)"
 }

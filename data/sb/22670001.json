@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.20 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.20 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22670001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670001/22670001_256.png",
   "character": "Cloud of Darkness",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random attacks (2.20 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (2.20 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (2.20 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight random attacks (2.20 each), grants [Radiant Shield: 100%] to all allies, grants [Haste] and [Burst Mode] to the user"
 }

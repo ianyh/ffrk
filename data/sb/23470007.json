@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Black Flurry Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Black Flurry Mode] to the user"
+    }
+  ],
   "id": "23470007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23470007/23470007_256.png",
   "character": "Genesis",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Black Flurry Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Black Flurry Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Black Flurry Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Black Flurry Mode] to the user"
 }

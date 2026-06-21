@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (6000)], [Regenga], [Protect], [Shell], [Haste], [Reraise: 40%] and [75% Damage Reduction Barrier 1], grants [Awoken Love] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (6000)], [Regenga], [Protect], [Shell], [Haste], [Reraise: 40%] and [75% Damage Reduction Barrier 1], grants [Awoken Love] to the user"
+    }
+  ],
   "id": "23150006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23150006/23150006_256.png",
   "character": "Alma",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [HP Stock (6000)], [Regenga], [Protect], [Shell], [Haste], [Reraise: 40%] and [75% Damage Reduction Barrier 1], grants [Awoken Love] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (6000)], [Regenga], [Protect], [Shell], [Haste], [Reraise: 40%] and [75% Damage Reduction Barrier 1], grants [Awoken Love] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (6000)], [Regenga], [Protect], [Shell], [Haste], [Reraise: 40%] and [75% Damage Reduction Barrier 1], grants [Awoken Love] to the user"
-    }
-  ]
+  "effects": "Grants [HP Stock (6000)], [Regenga], [Protect], [Shell], [Haste], [Reraise: 40%] and [75% Damage Reduction Barrier 1], grants [Awoken Love] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
+    }
+  ],
   "id": "20630008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630008/20630008_256.png",
   "character": "Golbez",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Dark Chain (max 150, field +50%), [MAG +50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dark Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dark Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
-    }
-  ]
+  "effects": "Activates Dark Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
 }

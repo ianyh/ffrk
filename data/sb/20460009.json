@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [No Air Time 3], [Dragoon +50% Boost 3] and [Jump Instant Cast] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [No Air Time 3], [Dragoon +50% Boost 3] and [Jump Instant Cast] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)] to the user"
+    }
+  ],
   "id": "20460009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460009/20460009_256.png",
   "character": "Ricard",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [No Air Time 3], [Dragoon +50% Boost 3] and [Jump Instant Cast] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged jump attacks (0.60 each), grants [No Air Time 3], [Dragoon +50% Boost 3] and [Jump Instant Cast] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged jump attacks (0.60 each), grants [No Air Time 3], [Dragoon +50% Boost 3] and [Jump Instant Cast] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [No Air Time 3], [Dragoon +50% Boost 3] and [Jump Instant Cast] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)] to the user"
 }

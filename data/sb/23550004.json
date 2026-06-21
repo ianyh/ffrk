@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [ATK and MAG +30%, DEF +25% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Ice, Dark)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [ATK and MAG +30%, DEF +25% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Ice, Dark)] to the user"
+    }
+  ],
   "id": "23550004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550004/23550004_256.png",
   "character": "Kurasame",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [ATK and MAG +30%, DEF +25% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Ice, Dark)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [ATK and MAG +30%, DEF +25% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Ice, Dark)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [ATK and MAG +30%, DEF +25% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Ice, Dark)] to the user"
-    }
-  ]
+  "effects": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [ATK and MAG +30%, DEF +25% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Ice, Dark)] to the user"
 }

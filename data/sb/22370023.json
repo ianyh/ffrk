@@ -1,20 +1,4 @@
 {
-  "id": "22370023",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370023/22370023_256.png",
-  "character": "Gabranth",
-  "name": "Zenith Guilt",
-  "name_jp": "究極エグゼクション",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XII",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.9 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 3 with Stacking], [ATK +30%, DEF +25% (25s)], [Quick Cast], [Zenith Mode], and [Zenith Mode: Gabranth (Dark)]",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Hatred Geyser+",
       "text": "4/5/6 single attacks (1.10 each) 0/1/2 Heavy Charge, causes [Imperil Dark 10% (5s)]"
     }
-  ]
+  ],
+  "id": "22370023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370023/22370023_256.png",
+  "character": "Gabranth",
+  "name": "Zenith Guilt",
+  "name_jp": "究極エグゼクション",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.9 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 3 with Stacking], [ATK +30%, DEF +25% (25s)], [Quick Cast], [Zenith Mode], and [Zenith Mode: Gabranth (Dark)]"
 }

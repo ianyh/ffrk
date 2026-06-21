@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20510007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510007/20510007_256.png",
   "character": "Selphie",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (85), [RES +100%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Restores HP (85), [RES +100%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

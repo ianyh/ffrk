@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
+    }
+  ],
   "id": "23170006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170006/23170006_256.png",
   "character": "Kelger",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
-    }
-  ]
+  "effects": "Six single attacks (0.52 each), grants [Attach Earth Stacking] and [Attach Earth] to the user"
 }

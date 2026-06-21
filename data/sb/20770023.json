@@ -1,20 +1,4 @@
 {
-  "id": "20770023",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770023/20770023_256.png",
-  "character": "Hope",
-  "name": "Zenith Divine Judgment",
-  "name_jp": "究極聖なる審判",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIII",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [MAG +30%, RES +25% (25s)], [Zenith Mode], and [Zenith Mode: Hope] to the user",
   "description": [
     {
       "name": "Entry",
@@ -54,5 +38,21 @@
       "name": "Last Resort+",
       "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses, removes [Haste] every second activation"
     }
-  ]
+  ],
+  "id": "20770023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770023/20770023_256.png",
+  "character": "Hope",
+  "name": "Zenith Divine Judgment",
+  "name_jp": "究極聖なる審判",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIII",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [MAG +30%, RES +25% (25s)], [Zenith Mode], and [Zenith Mode: Hope] to the user"
 }

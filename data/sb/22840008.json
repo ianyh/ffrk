@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell], [Haste] to all allies, grants [Soul Break Gauge +250], [200% ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell], [Haste] to all allies, grants [Soul Break Gauge +250], [200% ATB 1] to user."
+    }
+  ],
   "id": "22840008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22840008/22840008_256.png",
   "character": "Aemo",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Protect], [Shell], [Haste] to all allies, grants [Soul Break Gauge +250], [200% ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect], [Shell], [Haste] to all allies, grants [Soul Break Gauge +250], [200% ATB 1] to user."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect], [Shell], [Haste] to all allies, grants [Soul Break Gauge +250], [200% ATB 1] to user."
-    }
-  ]
+  "effects": "Grants [Protect], [Shell], [Haste] to all allies, grants [Soul Break Gauge +250], [200% ATB 1] to user."
 }

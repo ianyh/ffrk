@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and MAG +30%] for 25 seconds, grants [Haste], [Protect] and [Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and MAG +30%] for 25 seconds, grants [Haste], [Protect] and [Quick Cast 2]"
+    }
+  ],
   "id": "22290007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290007/22290007_256.png",
   "character": "Echo",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[DEF and MAG +30%] for 25 seconds, grants [Haste], [Protect] and [Quick Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[DEF and MAG +30%] for 25 seconds, grants [Haste], [Protect] and [Quick Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[DEF and MAG +30%] for 25 seconds, grants [Haste], [Protect] and [Quick Cast 2]"
-    }
-  ]
+  "effects": "[DEF and MAG +30%] for 25 seconds, grants [Haste], [Protect] and [Quick Cast 2]"
 }

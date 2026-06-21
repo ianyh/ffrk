@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Last Stand], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Last Stand], grants [Instant Cast 1] to the user"
+    }
+  ],
   "id": "22610008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610008/22610008_256.png",
   "character": "Raijin",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Last Stand], grants [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Last Stand], grants [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Last Stand], grants [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Grants [Last Stand], grants [Instant Cast 1] to the user"
 }

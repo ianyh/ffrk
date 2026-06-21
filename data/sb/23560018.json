@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "-50% ATK/MAG/DEF/RES/MND to all enemies, +30% ATK/MAG/DEF/RES/MND and Quickcast 2 to party and grants BDC1 and Awoken Kappa Friend to user\nAwoken Kappa Friend: Infinite Bio Hones, Quick Bio based on Rank and Chases Bio Abilities with Kappappa---!\nKappappa---!: 6 single target Bio/Non Elemental Hybrid attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "-50% ATK/MAG/DEF/RES/MND to all enemies, +30% ATK/MAG/DEF/RES/MND and Quickcast 2 to party and grants BDC1 and Awoken Kappa Friend to user\nAwoken Kappa Friend: Infinite Bio Hones, Quick Bio based on Rank and Chases Bio Abilities with Kappappa---!\nKappappa---!: 6 single target Bio/Non Elemental Hybrid attacks"
+    }
+  ],
   "id": "23560018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560018/23560018_256.png",
   "character": "Ultros",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "-50% ATK/MAG/DEF/RES/MND to all enemies, +30% ATK/MAG/DEF/RES/MND and Quickcast 2 to party and grants BDC1 and Awoken Kappa Friend to user\nAwoken Kappa Friend: Infinite Bio Hones, Quick Bio based on Rank and Chases Bio Abilities with Kappappa---!\nKappappa---!: 6 single target Bio/Non Elemental Hybrid attacks",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "-50% ATK/MAG/DEF/RES/MND to all enemies, +30% ATK/MAG/DEF/RES/MND and Quickcast 2 to party and grants BDC1 and Awoken Kappa Friend to user\nAwoken Kappa Friend: Infinite Bio Hones, Quick Bio based on Rank and Chases Bio Abilities with Kappappa---!\nKappappa---!: 6 single target Bio/Non Elemental Hybrid attacks"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "-50% ATK/MAG/DEF/RES/MND to all enemies, +30% ATK/MAG/DEF/RES/MND and Quickcast 2 to party and grants BDC1 and Awoken Kappa Friend to user\nAwoken Kappa Friend: Infinite Bio Hones, Quick Bio based on Rank and Chases Bio Abilities with Kappappa---!\nKappappa---!: 6 single target Bio/Non Elemental Hybrid attacks"
-    }
-  ]
+  "effects": "-50% ATK/MAG/DEF/RES/MND to all enemies, +30% ATK/MAG/DEF/RES/MND and Quickcast 2 to party and grants BDC1 and Awoken Kappa Friend to user\nAwoken Kappa Friend: Infinite Bio Hones, Quick Bio based on Rank and Chases Bio Abilities with Kappappa---!\nKappappa---!: 6 single target Bio/Non Elemental Hybrid attacks"
 }

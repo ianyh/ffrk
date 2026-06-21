@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, Critical Damage +50% to party, Awoken Engineer Mode, Cap Break Level 1, Quad Element Mode II & Relics of Heritage to user\nAwoken Engineer Mode: Unlimited Machinist Hones, Machinist Ability Boost & Dualcast Machinist\nQuad Element Mode II: En-Fire Stack, En-Ice Stack, En-Lightning Stack or En-Poison Stack\nRelics of Heritage: [Fire/Ice/Lightning/Poison Damage +10%] or [Prismatic Damage +30%] to party with at least 0/4 T members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, Critical Damage +50% to party, Awoken Engineer Mode, Cap Break Level 1, Quad Element Mode II & Relics of Heritage to user\nAwoken Engineer Mode: Unlimited Machinist Hones, Machinist Ability Boost & Dualcast Machinist\nQuad Element Mode II: En-Fire Stack, En-Ice Stack, En-Lightning Stack or En-Poison Stack\nRelics of Heritage: [Fire/Ice/Lightning/Poison Damage +10%] or [Prismatic Damage +30%] to party with at least 0/4 T members"
+    }
+  ],
   "id": "22400011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400011/22400011_256.png",
   "character": "Mustadio",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "15 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, Critical Damage +50% to party, Awoken Engineer Mode, Cap Break Level 1, Quad Element Mode II & Relics of Heritage to user\nAwoken Engineer Mode: Unlimited Machinist Hones, Machinist Ability Boost & Dualcast Machinist\nQuad Element Mode II: En-Fire Stack, En-Ice Stack, En-Lightning Stack or En-Poison Stack\nRelics of Heritage: [Fire/Ice/Lightning/Poison Damage +10%] or [Prismatic Damage +30%] to party with at least 0/4 T members",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, Critical Damage +50% to party, Awoken Engineer Mode, Cap Break Level 1, Quad Element Mode II & Relics of Heritage to user\nAwoken Engineer Mode: Unlimited Machinist Hones, Machinist Ability Boost & Dualcast Machinist\nQuad Element Mode II: En-Fire Stack, En-Ice Stack, En-Lightning Stack or En-Poison Stack\nRelics of Heritage: [Fire/Ice/Lightning/Poison Damage +10%] or [Prismatic Damage +30%] to party with at least 0/4 T members"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, Critical Damage +50% to party, Awoken Engineer Mode, Cap Break Level 1, Quad Element Mode II & Relics of Heritage to user\nAwoken Engineer Mode: Unlimited Machinist Hones, Machinist Ability Boost & Dualcast Machinist\nQuad Element Mode II: En-Fire Stack, En-Ice Stack, En-Lightning Stack or En-Poison Stack\nRelics of Heritage: [Fire/Ice/Lightning/Poison Damage +10%] or [Prismatic Damage +30%] to party with at least 0/4 T members"
-    }
-  ]
+  "effects": "15 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, Critical Damage +50% to party, Awoken Engineer Mode, Cap Break Level 1, Quad Element Mode II & Relics of Heritage to user\nAwoken Engineer Mode: Unlimited Machinist Hones, Machinist Ability Boost & Dualcast Machinist\nQuad Element Mode II: En-Fire Stack, En-Ice Stack, En-Lightning Stack or En-Poison Stack\nRelics of Heritage: [Fire/Ice/Lightning/Poison Damage +10%] or [Prismatic Damage +30%] to party with at least 0/4 T members"
 }

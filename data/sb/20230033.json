@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Monk Mode I & Monk Damage +5% to user\nDual Awoken Monk Mode I: Monk Ability Boost, Triplecast Monk & Quick Cast"
+    },
+    {
+      "name": "Awoken Chain Somersault (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Monk Mode II to user\nDual Awoken Monk Mode II: Monk Ability Boost, Instant Monk & chases a Monk ability with [Monk Damage +30% & Cap Break Level 1] for 3 turns to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Monk Mode I & Monk Damage +5% to user\nDual Awoken Monk Mode I: Monk Ability Boost, Triplecast Monk & Quick Cast"
+    },
+    {
+      "name": "Awoken Chain Somersault (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Monk Mode II to user\nDual Awoken Monk Mode II: Monk Ability Boost, Instant Monk & chases a Monk ability with [Monk Damage +30% & Cap Break Level 1] for 3 turns to user"
+    }
+  ],
   "id": "20230033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230033/20230033_256.png",
   "character": "Tifa",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Earth/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Monk Mode I & Monk Damage +5% to user\nDual Awoken Monk Mode I: Monk Ability Boost, Triplecast Monk & Quick Cast",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Monk Mode I & Monk Damage +5% to user\nDual Awoken Monk Mode I: Monk Ability Boost, Triplecast Monk & Quick Cast"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Monk Mode II to user\nDual Awoken Monk Mode II: Monk Ability Boost, Instant Monk & chases a Monk ability with [Monk Damage +30% & Cap Break Level 1] for 3 turns to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Monk Mode I & Monk Damage +5% to user\nDual Awoken Monk Mode I: Monk Ability Boost, Triplecast Monk & Quick Cast"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Monk Mode II to user\nDual Awoken Monk Mode II: Monk Ability Boost, Instant Monk & chases a Monk ability with [Monk Damage +30% & Cap Break Level 1] for 3 turns to user"
-    }
-  ]
+  "effects": "7 single-target Earth/NE physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Monk Mode I & Monk Damage +5% to user\nDual Awoken Monk Mode I: Monk Ability Boost, Triplecast Monk & Quick Cast"
 }

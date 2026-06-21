@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Cid (IV) v2)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Lightning Stamp (Dual Shift)",
+      "text": "Grants [Instant ATB 1], and [Dual Awoken Lightning Mode II (Cid (IV) v2)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Cid (IV) v2)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Lightning Stamp (Dual Shift)",
+      "text": "Grants [Instant ATB 1], and [Dual Awoken Lightning Mode II (Cid (IV) v2)]"
+    }
+  ],
   "id": "22570018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570018/22570018_256.png",
   "character": "Cid (IV)",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Cid (IV) v2)] and [Lightning Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Cid (IV) v2)] and [Lightning Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], and [Dual Awoken Lightning Mode II (Cid (IV) v2)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Cid (IV) v2)] and [Lightning Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], and [Dual Awoken Lightning Mode II (Cid (IV) v2)]"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Cid (IV) v2)] and [Lightning Resonance +5% Boost] to the user"
 }

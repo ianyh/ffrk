@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.72 each), grants [Attach Lightning], [No Air Time 2] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.72 each), grants [Attach Lightning], [No Air Time 2] and [Brave Mode] to the user"
+    }
+  ],
   "id": "20080011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080011/20080011_256.png",
   "character": "Kain",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single ranged jump attacks (0.72 each), grants [Attach Lightning], [No Air Time 2] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged jump attacks (0.72 each), grants [Attach Lightning], [No Air Time 2] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged jump attacks (0.72 each), grants [Attach Lightning], [No Air Time 2] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten single ranged jump attacks (0.72 each), grants [Attach Lightning], [No Air Time 2] and [Brave Mode] to the user"
 }

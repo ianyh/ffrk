@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]"
+    }
+  ],
   "id": "22790028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790028/22790028_256.png",
   "character": "Ace",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]"
-    }
-  ]
+  "effects": "Grants [Attach Fire with Stacking], [Instant ATB 1] and [Instant Cast 1]"
 }

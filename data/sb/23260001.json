@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
+    }
+  ],
   "id": "23260001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260001/23260001_256.png",
   "character": "Seven",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.70 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.70 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.70 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
-    }
-  ]
+  "effects": "Ten single attacks (1.70 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
 }

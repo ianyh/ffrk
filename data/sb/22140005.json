@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (1.17 each), [DEF +100%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (1.17 each), [DEF +100%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22140005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22140005/22140005_256.png",
   "character": "Ramza",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Five group attacks (1.17 each), [DEF +100%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five group attacks (1.17 each), [DEF +100%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five group attacks (1.17 each), [DEF +100%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Five group attacks (1.17 each), [DEF +100%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

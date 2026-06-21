@@ -1,20 +1,4 @@
 {
-  "id": "23180016",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180016/23180016_256.png",
-  "character": "King",
-  "name": "Zenith Endless Waltz",
-  "name_jp": "究極エンドレスワルツ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: King]",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: King",
       "text": "Grants [Lightning Damage +10% (5s)] and [Deadly Strikes +10% 1] to all allies"
     }
-  ]
+  ],
+  "id": "23180016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180016/23180016_256.png",
+  "character": "King",
+  "name": "Zenith Endless Waltz",
+  "name_jp": "究極エンドレスワルツ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: King]"
 }

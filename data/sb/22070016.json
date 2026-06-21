@@ -1,28 +1,11 @@
 {
-  "id": "22070016",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070016/22070016_256.png",
-  "character": "Kefka",
-  "name": "Cruelest Angel",
-  "name_jp": "こころないてんし",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VI",
-  "elements": [
-    "Dark",
-    "Poison",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Cruelest Angel level 0/1/2, removes Arcane Dyad Empowered: Kefka from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Cruelest Angel level 0/1/2, removes Arcane Dyad Empowered: Kefka from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Cruelest Angel (Engaged)",
       "text": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
     }
   ],
@@ -32,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Cruelest Angel level 0/1/2, removes Arcane Dyad Empowered: Kefka from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Cruelest Angel (Engaged)",
       "text": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
     }
-  ]
+  ],
+  "id": "22070016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070016/22070016_256.png",
+  "character": "Kefka",
+  "name": "Cruelest Angel (Engaged)",
+  "name_jp": "こころないてんし",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
 }

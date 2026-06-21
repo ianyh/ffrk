@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [High Quick Cast 2], [Tri-Element Mode II (Fire, Ice, Holy)], [Enhanced Mastery Mode] and [Enhanced Mastery Boost 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [High Quick Cast 2], [Tri-Element Mode II (Fire, Ice, Holy)], [Enhanced Mastery Mode] and [Enhanced Mastery Boost 1] to the user"
+    }
+  ],
   "id": "20270021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270021/20270021_256.png",
   "character": "Firion",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.69 each), grants [High Quick Cast 2], [Tri-Element Mode II (Fire, Ice, Holy)], [Enhanced Mastery Mode] and [Enhanced Mastery Boost 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.69 each), grants [High Quick Cast 2], [Tri-Element Mode II (Fire, Ice, Holy)], [Enhanced Mastery Mode] and [Enhanced Mastery Boost 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.69 each), grants [High Quick Cast 2], [Tri-Element Mode II (Fire, Ice, Holy)], [Enhanced Mastery Mode] and [Enhanced Mastery Boost 1] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.69 each), grants [High Quick Cast 2], [Tri-Element Mode II (Fire, Ice, Holy)], [Enhanced Mastery Mode] and [Enhanced Mastery Boost 1] to the user"
 }

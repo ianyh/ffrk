@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.78 each), grants [Haste], [Critical Chance 50%], [Last Stand] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.78 each), grants [Haste], [Critical Chance 50%], [Last Stand] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22580001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580001/22580001_256.png",
   "character": "Master",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.78 each), grants [Haste], [Critical Chance 50%], [Last Stand] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.78 each), grants [Haste], [Critical Chance 50%], [Last Stand] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.78 each), grants [Haste], [Critical Chance 50%], [Last Stand] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.78 each), grants [Haste], [Critical Chance 50%], [Last Stand] and [Burst Mode] to the user"
 }

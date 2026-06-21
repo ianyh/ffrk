@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [Quick Cast 1] to all allies, grants [Attach Earth with Stacking] and [Spellstrike Frigid Cry] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [Quick Cast 1] to all allies, grants [Attach Earth with Stacking] and [Spellstrike Frigid Cry] to the user"
+    }
+  ],
   "id": "23160008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160008/23160008_256.png",
   "character": "Xezat",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.69 each), grants [Quick Cast 1] to all allies, grants [Attach Earth with Stacking] and [Spellstrike Frigid Cry] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.69 each), grants [Quick Cast 1] to all allies, grants [Attach Earth with Stacking] and [Spellstrike Frigid Cry] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.69 each), grants [Quick Cast 1] to all allies, grants [Attach Earth with Stacking] and [Spellstrike Frigid Cry] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.69 each), grants [Quick Cast 1] to all allies, grants [Attach Earth with Stacking] and [Spellstrike Frigid Cry] to the user"
 }

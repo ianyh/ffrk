@@ -1,20 +1,4 @@
 {
-  "id": "23630004",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23630004/23630004_256.png",
-  "character": "Dion",
-  "name": "Zenith Holy Breath",
-  "name_jp": "究極ホーリーブレス",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XVI",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Zenith Mode], [Damage Cap +10000], [Holy Ability +30% Boost (15s)], [Zenith Mode: Dion] to user. Grants [Attach Holy 3 with Stacking].",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Spirit Attack: Dion",
       "text": "Six single attacks (0.90 each), ranged."
     }
-  ]
+  ],
+  "id": "23630004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23630004/23630004_256.png",
+  "character": "Dion",
+  "name": "Zenith Holy Breath",
+  "name_jp": "究極ホーリーブレス",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XVI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Zenith Mode], [Damage Cap +10000], [Holy Ability +30% Boost (15s)], [Zenith Mode: Dion] to user. Grants [Attach Holy 3 with Stacking]."
 }

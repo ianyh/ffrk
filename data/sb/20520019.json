@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 99, field +50%), grants [MAG and MND +30%] for 25 seconds, grants [Buff Holy 20% (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 99, field +50%), grants [MAG and MND +30%] for 25 seconds, grants [Buff Holy 20% (15s)]"
+    }
+  ],
   "id": "20520019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520019/20520019_256.png",
   "character": "Yuna",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Holy Chain (max 99, field +50%), grants [MAG and MND +30%] for 25 seconds, grants [Buff Holy 20% (15s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Holy Chain (max 99, field +50%), grants [MAG and MND +30%] for 25 seconds, grants [Buff Holy 20% (15s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Holy Chain (max 99, field +50%), grants [MAG and MND +30%] for 25 seconds, grants [Buff Holy 20% (15s)]"
-    }
-  ]
+  "effects": "Activates Holy Chain (max 99, field +50%), grants [MAG and MND +30%] for 25 seconds, grants [Buff Holy 20% (15s)]"
 }

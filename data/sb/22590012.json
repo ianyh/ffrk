@@ -1,22 +1,4 @@
 {
-  "id": "22590012",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590012/22590012_256.png",
-  "character": "Matoya",
-  "name": "Zenith Crystal Power",
-  "name_jp": "究極水晶の大魔術",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "I",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] based on if entry damage was Fire/Ice/Lightning, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Matoya (Fire, Ice, Lightning)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -64,5 +46,23 @@
       "name": "Inner Eye+",
       "text": "Six single attacks (3.10 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "22590012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590012/22590012_256.png",
+  "character": "Matoya",
+  "name": "Zenith Crystal Power",
+  "name_jp": "究極水晶の大魔術",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "I",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] based on if entry damage was Fire/Ice/Lightning, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Matoya (Fire, Ice, Lightning)] to the user"
 }

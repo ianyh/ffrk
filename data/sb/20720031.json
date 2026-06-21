@@ -1,20 +1,4 @@
 {
-  "id": "20720031",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720031/20720031_256.png",
-  "character": "Strago",
-  "name": "Zenith Tsunami",
-  "name_jp": "究極だいかいしょう",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VI",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Strago (Water)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Strago (Water)",
       "text": "Grants [Water Ability +30% Boost 2] and [Water Ability Instant Cast 2] to the user"
     }
-  ]
+  ],
+  "id": "20720031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720031/20720031_256.png",
+  "character": "Strago",
+  "name": "Zenith Tsunami",
+  "name_jp": "究極だいかいしょう",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Strago (Water)] to the user"
 }

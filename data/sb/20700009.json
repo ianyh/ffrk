@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.70 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds, grants [Sky Pirate EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.70 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds, grants [Sky Pirate EX Mode] to the user"
+    }
+  ],
   "id": "20700009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700009/20700009_256.png",
   "character": "Vaan",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Ten random attacks (0.70 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds, grants [Sky Pirate EX Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (0.70 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds, grants [Sky Pirate EX Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (0.70 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds, grants [Sky Pirate EX Mode] to the user"
-    }
-  ]
+  "effects": "Ten random attacks (0.70 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds, grants [Sky Pirate EX Mode] to the user"
 }

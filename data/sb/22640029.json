@@ -1,22 +1,4 @@
 {
-  "id": "22640029",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640029/22640029_256.png",
-  "character": "Emperor",
-  "name": "Roaring Abominable Invasion",
-  "name_jp": "轟・忌まわしき侵攻",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "II",
-  "elements": [
-    "Dark",
-    "Earth",
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single hits (2.60 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Emperor (Earth, Wind, Dark)] and [Instant ATB 1] to the user",
   "description": [
     {
       "name": "Entry",
@@ -44,5 +26,23 @@
       "name": "Roaring Emperor",
       "text": "Six single attacks (1.50 each), grants [Buff Dark 10% (5s)], [Buff Earth 10% (5s)], [Buff Wind 10% (5s)] to the user"
     }
-  ]
+  ],
+  "id": "22640029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640029/22640029_256.png",
+  "character": "Emperor",
+  "name": "Roaring Abominable Invasion",
+  "name_jp": "轟・忌まわしき侵攻",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single hits (2.60 each), grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Emperor (Earth, Wind, Dark)] and [Instant ATB 1] to the user"
 }

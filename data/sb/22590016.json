@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Instant Cast 1], [Weakness +30% Boost (15s)], [Buff Prismatic 20% (15s)] to all allies if 4+ FF1 allies are alive, grants [Instant Cast 1], [Buff Prismatic 10% (15s)] too all allies if 2-3 FF1 allies are alive, grants [Instant Cast 1], [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)] to user if 0-1 FF1 allies are alive, grants [Awoken Witch], [Damage Cap +10000], and [Quartz Eye Mode II (Fire, Ice, Lightning)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Instant Cast 1], [Weakness +30% Boost (15s)], [Buff Prismatic 20% (15s)] to all allies if 4+ FF1 allies are alive, grants [Instant Cast 1], [Buff Prismatic 10% (15s)] too all allies if 2-3 FF1 allies are alive, grants [Instant Cast 1], [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)] to user if 0-1 FF1 allies are alive, grants [Awoken Witch], [Damage Cap +10000], and [Quartz Eye Mode II (Fire, Ice, Lightning)] to the user"
+    }
+  ],
   "id": "22590016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590016/22590016_256.png",
   "character": "Matoya",
@@ -16,17 +28,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Instant Cast 1], [Weakness +30% Boost (15s)], [Buff Prismatic 20% (15s)] to all allies if 4+ FF1 allies are alive, grants [Instant Cast 1], [Buff Prismatic 10% (15s)] too all allies if 2-3 FF1 allies are alive, grants [Instant Cast 1], [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)] to user if 0-1 FF1 allies are alive, grants [Awoken Witch], [Damage Cap +10000], and [Quartz Eye Mode II (Fire, Ice, Lightning)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Instant Cast 1], [Weakness +30% Boost (15s)], [Buff Prismatic 20% (15s)] to all allies if 4+ FF1 allies are alive, grants [Instant Cast 1], [Buff Prismatic 10% (15s)] too all allies if 2-3 FF1 allies are alive, grants [Instant Cast 1], [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)] to user if 0-1 FF1 allies are alive, grants [Awoken Witch], [Damage Cap +10000], and [Quartz Eye Mode II (Fire, Ice, Lightning)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Instant Cast 1], [Weakness +30% Boost (15s)], [Buff Prismatic 20% (15s)] to all allies if 4+ FF1 allies are alive, grants [Instant Cast 1], [Buff Prismatic 10% (15s)] too all allies if 2-3 FF1 allies are alive, grants [Instant Cast 1], [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)] to user if 0-1 FF1 allies are alive, grants [Awoken Witch], [Damage Cap +10000], and [Quartz Eye Mode II (Fire, Ice, Lightning)] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Instant Cast 1], [Weakness +30% Boost (15s)], [Buff Prismatic 20% (15s)] to all allies if 4+ FF1 allies are alive, grants [Instant Cast 1], [Buff Prismatic 10% (15s)] too all allies if 2-3 FF1 allies are alive, grants [Instant Cast 1], [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)] to user if 0-1 FF1 allies are alive, grants [Awoken Witch], [Damage Cap +10000], and [Quartz Eye Mode II (Fire, Ice, Lightning)] to the user"
 }

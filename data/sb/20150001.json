@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (1.25)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (1.25)"
+    }
+  ],
   "id": "20150001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150001/20150001_256.png",
   "character": "Wakka",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One group ranged attack (1.25)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (1.25)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (1.25)"
-    }
-  ]
+  "effects": "One group ranged attack (1.25)"
 }

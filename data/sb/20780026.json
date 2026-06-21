@@ -1,20 +1,4 @@
 {
-  "id": "20780026",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780026/20780026_256.png",
-  "character": "Setzer",
-  "name": "Zenith The Blackjack Soars",
-  "name_jp": "究極闇を駆けるカジノ船",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "VI",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "7 single-target Dark/NE ranged physical attacks at Cap Break Level 1, Lv.3 En-Dark, En-Dark Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark Damage +20%, Support/Sharpshooter Casting Speed x1.1 & chases 2 Support/Sharpshooter abilities with Weakness Damage +30% to user/party/party for 3 turns/3 turns/15 seconds with at least 0/4/5 Sharpshooter/VI members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Sharpshooter, Higher Multiplier & Zero Hone Cost to Hero Ability; Dealer Shuffle+: Higher multiplier & Cap Break Level 1 after 3 uses; Red Card+: 1.2s CT, higher multiplier after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
   "description": [
     {
       "name": "Entry",
@@ -42,5 +26,21 @@
       "name": "Dealer Shuffle+",
       "text": "Six single ranged attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "20780026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780026/20780026_256.png",
+  "character": "Setzer",
+  "name": "Zenith The Blackjack Soars",
+  "name_jp": "究極闇を駆けるカジノ船",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark/NE ranged physical attacks at Cap Break Level 1, Lv.3 En-Dark, En-Dark Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark Damage +20%, Support/Sharpshooter Casting Speed x1.1 & chases 2 Support/Sharpshooter abilities with Weakness Damage +30% to user/party/party for 3 turns/3 turns/15 seconds with at least 0/4/5 Sharpshooter/VI members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Sharpshooter, Higher Multiplier & Zero Hone Cost to Hero Ability; Dealer Shuffle+: Higher multiplier & Cap Break Level 1 after 3 uses; Red Card+: 1.2s CT, higher multiplier after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

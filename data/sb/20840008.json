@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user"
+    }
+  ],
   "id": "20840008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840008/20840008_256.png",
   "character": "Quina",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user"
-    }
-  ]
+  "effects": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user"
 }

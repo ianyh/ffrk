@@ -1,20 +1,4 @@
 {
-  "id": "22920012",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920012/22920012_256.png",
-  "character": "Umaro",
-  "name": "Zenith Yellow Cherry",
-  "name_jp": "究極イエローチェリー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VI",
-  "elements": [
-    "Ice",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Umaro] to the user",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Spirit Attack: Umaro",
       "text": "Grants [Ice Ability Quick Cast 1], [10% Damage Reduction Barrier 1] and [Instant ATB 1] to the user"
     }
-  ]
+  ],
+  "id": "22920012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920012/22920012_256.png",
+  "character": "Umaro",
+  "name": "Zenith Yellow Cherry",
+  "name_jp": "究極イエローチェリー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Umaro] to the user"
 }

@@ -1,21 +1,4 @@
 {
-  "id": "22200028",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200028/22200028_256.png",
-  "character": "Edea",
-  "name": "Zenith Maelstrom",
-  "name_jp": "究極メイルシュトローム",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "VIII",
-  "elements": [
-    "Ice",
-    "Dark",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Instant Cast 1] to all allies with Attach Ice or Attach Dark, grants [Attach Ice 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Edea] to the user",
   "description": [
     {
       "name": "Entry",
@@ -75,5 +58,22 @@
       "name": "Spirit Attack: Edea",
       "text": "Grants [Damage Cap +10000 2]/[Damage Cap +10000 2] and [(Ice/Dark) Ability +30% Boost 2] to user/all allies if there are 0-2/3+ allies with Attach Ice or Dark in the party"
     }
-  ]
+  ],
+  "id": "22200028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200028/22200028_256.png",
+  "character": "Edea",
+  "name": "Zenith Maelstrom",
+  "name_jp": "究極メイルシュトローム",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Instant Cast 1] to all allies with Attach Ice or Attach Dark, grants [Attach Ice 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Edea] to the user"
 }

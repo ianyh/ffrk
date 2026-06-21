@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Reraise: 40%] and [Astra]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Reraise: 40%] and [Astra]"
+    }
+  ],
   "id": "20510008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510008/20510008_256.png",
   "character": "Selphie",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (85), grants [Reraise: 40%] and [Astra]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85), grants [Reraise: 40%] and [Astra]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85), grants [Reraise: 40%] and [Astra]"
-    }
-  ]
+  "effects": "Restores HP (85), grants [Reraise: 40%] and [Astra]"
 }

@@ -1,20 +1,4 @@
 {
-  "id": "20370038",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370038/20370038_256.png",
-  "character": "Vivi",
-  "name": "Zenith Doublecast Meteorite",
-  "name_jp": "究極W魔法・隕石",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IX",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Vivi (Fire)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Vivi (Fire)",
       "text": "Grants [Buff Fire 20% (15s)] and [Fire Ability Instant Cast 3] to the user"
     }
-  ]
+  ],
+  "id": "20370038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370038/20370038_256.png",
+  "character": "Vivi",
+  "name": "Zenith Doublecast Meteorite",
+  "name_jp": "究極W魔法・隕石",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Vivi (Fire)] and [Damage Cap +10000] to the user"
 }

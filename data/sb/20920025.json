@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
   "id": "20920025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920025/20920025_256.png",
   "character": "Reno",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Soul Break Gauge +500]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Break Gauge +500]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Break Gauge +500]"
-    }
-  ]
+  "effects": "Grants [Soul Break Gauge +500]"
 }

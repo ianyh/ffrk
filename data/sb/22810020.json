@@ -1,20 +1,4 @@
 {
-  "id": "22810020",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810020/22810020_256.png",
-  "character": "Nine",
-  "name": "Roaring Spiral Storm",
-  "name_jp": "轟・スパイラルストーム",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "Type-0",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "5 single ranged jump attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Nine (Wind)], and [Instant ATB 1] to the user\nAccel Mode: Nine (Window): Wind Ability High Boost & chases Wind abilities with 2 single ranged jump attacks (0.60 each) and [Imperil Prismatic 10% (5s)]",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Nine (Wind)",
       "text": "Wind abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Nine (Wind)] after using Wind abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "22810020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810020/22810020_256.png",
+  "character": "Nine",
+  "name": "Roaring Spiral Storm",
+  "name_jp": "轟・スパイラルストーム",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single ranged jump attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Nine (Wind)], and [Instant ATB 1] to the user\nAccel Mode: Nine (Window): Wind Ability High Boost & chases Wind abilities with 2 single ranged jump attacks (0.60 each) and [Imperil Prismatic 10% (5s)]"
 }

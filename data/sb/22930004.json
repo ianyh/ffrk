@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and RES +30%], grants [Haste], grants [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and RES +30%], grants [Haste], grants [Brave Mode] to the user"
+    }
+  ],
   "id": "22930004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930004/22930004_256.png",
   "character": "Gogo (VI)",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK, MAG and RES +30%], grants [Haste], grants [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, MAG and RES +30%], grants [Haste], grants [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, MAG and RES +30%], grants [Haste], grants [Brave Mode] to the user"
-    }
-  ]
+  "effects": "[ATK, MAG and RES +30%], grants [Haste], grants [Brave Mode] to the user"
 }

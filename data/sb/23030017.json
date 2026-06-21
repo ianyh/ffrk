@@ -1,21 +1,4 @@
 {
-  "id": "23030017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030017/23030017_256.png",
-  "character": "Ursula",
-  "name": "Zenith Crushing Fist",
-  "name_jp": "究極砕岩ノ拳打",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IV",
-  "elements": [
-    "Earth",
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Ursula (Earth)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -59,5 +42,22 @@
       "name": "Spirit Attack: Ursula (Earth)",
       "text": "Causes [Imperil Earth 20% (15s)]/[Imperil Prismatic 20% (15s)] and [Quick Cast 2] to all allies if 0-3/4+ FF4 allies are alive"
     }
-  ]
+  ],
+  "id": "23030017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030017/23030017_256.png",
+  "character": "Ursula",
+  "name": "Zenith Crushing Fist",
+  "name_jp": "究極砕岩ノ拳打",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Ursula (Earth)] and [Damage Cap +10000] to the user"
 }

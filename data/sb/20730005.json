@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each), causes [Imperil Holy 20% (25s)], grants [Attach Holy] and [Quick Cast 3] to the user, grants [Holy Radiant Shield: 75%] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each), causes [Imperil Holy 20% (25s)], grants [Attach Holy] and [Quick Cast 3] to the user, grants [Holy Radiant Shield: 75%] to all allies"
+    }
+  ],
   "id": "20730005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730005/20730005_256.png",
   "character": "Fusoya",
@@ -14,17 +26,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.80 each), causes [Imperil Holy 20% (25s)], grants [Attach Holy] and [Quick Cast 3] to the user, grants [Holy Radiant Shield: 75%] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.80 each), causes [Imperil Holy 20% (25s)], grants [Attach Holy] and [Quick Cast 3] to the user, grants [Holy Radiant Shield: 75%] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.80 each), causes [Imperil Holy 20% (25s)], grants [Attach Holy] and [Quick Cast 3] to the user, grants [Holy Radiant Shield: 75%] to all allies"
-    }
-  ]
+  "effects": "Ten single attacks (1.80 each), causes [Imperil Holy 20% (25s)], grants [Attach Holy] and [Quick Cast 3] to the user, grants [Holy Radiant Shield: 75%] to all allies"
 }

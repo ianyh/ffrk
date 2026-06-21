@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid ranged attacks (0.70 or 1.68 each), grants [ATK and DEF +30%] or [DEF and MAG +30%] for 25 seconds, [Attach Wind] and [Aeroburst Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid ranged attacks (0.70 or 1.68 each), grants [ATK and DEF +30%] or [DEF and MAG +30%] for 25 seconds, [Attach Wind] and [Aeroburst Follow-Up] to the user"
+    }
+  ],
   "id": "23320002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320002/23320002_256.png",
   "character": "Wedge",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single hybrid ranged attacks (0.70 or 1.68 each), grants [ATK and DEF +30%] or [DEF and MAG +30%] for 25 seconds, [Attach Wind] and [Aeroburst Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single hybrid ranged attacks (0.70 or 1.68 each), grants [ATK and DEF +30%] or [DEF and MAG +30%] for 25 seconds, [Attach Wind] and [Aeroburst Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single hybrid ranged attacks (0.70 or 1.68 each), grants [ATK and DEF +30%] or [DEF and MAG +30%] for 25 seconds, [Attach Wind] and [Aeroburst Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single hybrid ranged attacks (0.70 or 1.68 each), grants [ATK and DEF +30%] or [DEF and MAG +30%] for 25 seconds, [Attach Wind] and [Aeroburst Follow-Up] to the user"
 }

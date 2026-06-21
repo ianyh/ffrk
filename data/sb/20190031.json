@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Ice/NE physical attacks (0.9 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Josef to user Crystal Mode Josef: [Monk Ability Boost], [Dualcast Monk], [Zero Hone Cost to Monk Abilities] & [25% DEF/RES Pierce]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Ice/NE physical attacks (0.9 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Josef to user Crystal Mode Josef: [Monk Ability Boost], [Dualcast Monk], [Zero Hone Cost to Monk Abilities] & [25% DEF/RES Pierce]"
+    }
+  ],
   "id": "20190031",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190031/20190031_256.png",
   "character": "Josef",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single-target Ice/NE physical attacks (0.9 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Josef to user Crystal Mode Josef: [Monk Ability Boost], [Dualcast Monk], [Zero Hone Cost to Monk Abilities] & [25% DEF/RES Pierce]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single-target Ice/NE physical attacks (0.9 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Josef to user Crystal Mode Josef: [Monk Ability Boost], [Dualcast Monk], [Zero Hone Cost to Monk Abilities] & [25% DEF/RES Pierce]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single-target Ice/NE physical attacks (0.9 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Josef to user Crystal Mode Josef: [Monk Ability Boost], [Dualcast Monk], [Zero Hone Cost to Monk Abilities] & [25% DEF/RES Pierce]"
-    }
-  ]
+  "effects": "Seven single-target Ice/NE physical attacks (0.9 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] & Crystal Force Mode: Josef to user Crystal Mode Josef: [Monk Ability Boost], [Dualcast Monk], [Zero Hone Cost to Monk Abilities] & [25% DEF/RES Pierce]"
 }

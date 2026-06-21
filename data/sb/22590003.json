@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes negative effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes negative effects"
+    }
+  ],
   "id": "22590003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590003/22590003_256.png",
   "character": "Matoya",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "Single ally",
   "lensable": false,
-  "effects": "Removes negative effects",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Removes negative effects"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Removes negative effects"
-    }
-  ]
+  "effects": "Removes negative effects"
 }

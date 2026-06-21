@@ -1,20 +1,4 @@
 {
-  "id": "20110049",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110049/20110049_256.png",
-  "character": "Cloud",
-  "name": "Zenith Meteorain",
-  "name_jp": "究極メテオレイン",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "VII",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Cloud (Dark)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -50,5 +34,21 @@
       "name": "Spirit Attack: Cloud (Dark)",
       "text": "Grants [Dark Ability +30% Boost 3]/[Dark +50% Boost 3] the user if the user has heavy charge 0-1/2 and [Heavy Charge =0]"
     }
-  ]
+  ],
+  "id": "20110049",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110049/20110049_256.png",
+  "character": "Cloud",
+  "name": "Zenith Meteorain",
+  "name_jp": "究極メテオレイン",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Cloud (Dark)] to the user"
 }

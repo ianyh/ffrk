@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Starry Fenrir Prime to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Fenrir Prime: [Damage +5%] or [Damage +25%, Instant ATB 1 & Instant Cast 1] to party with at least 0/2 XVI members\nInterval Chase: [10 single-target Prismatic/NE magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] or [Single-target minor DeProtect & DeShell for 5 seconds, Damage +30/35/40/45/50% to party] after 1/2/3/4/5 chases with at least 0/2 XVI members (max 5 chases)\nMaster Chase: Single-target Prismatic/NE magic attack at True Cap Break Level 1, Quick ATB 1 to XVI members, removes Master Mode\n"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Starry Fenrir Prime to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Fenrir Prime: [Damage +5%] or [Damage +25%, Instant ATB 1 & Instant Cast 1] to party with at least 0/2 XVI members\nInterval Chase: [10 single-target Prismatic/NE magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] or [Single-target minor DeProtect & DeShell for 5 seconds, Damage +30/35/40/45/50% to party] after 1/2/3/4/5 chases with at least 0/2 XVI members (max 5 chases)\nMaster Chase: Single-target Prismatic/NE magic attack at True Cap Break Level 1, Quick ATB 1 to XVI members, removes Master Mode\n"
+    }
+  ],
   "id": "23620001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23620001/23620001_256.png",
   "character": "Torgal",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Master Mode, Instant ATB 1 & Starry Fenrir Prime to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Fenrir Prime: [Damage +5%] or [Damage +25%, Instant ATB 1 & Instant Cast 1] to party with at least 0/2 XVI members\nInterval Chase: [10 single-target Prismatic/NE magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] or [Single-target minor DeProtect & DeShell for 5 seconds, Damage +30/35/40/45/50% to party] after 1/2/3/4/5 chases with at least 0/2 XVI members (max 5 chases)\nMaster Chase: Single-target Prismatic/NE magic attack at True Cap Break Level 1, Quick ATB 1 to XVI members, removes Master Mode\n",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Starry Fenrir Prime to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Fenrir Prime: [Damage +5%] or [Damage +25%, Instant ATB 1 & Instant Cast 1] to party with at least 0/2 XVI members\nInterval Chase: [10 single-target Prismatic/NE magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] or [Single-target minor DeProtect & DeShell for 5 seconds, Damage +30/35/40/45/50% to party] after 1/2/3/4/5 chases with at least 0/2 XVI members (max 5 chases)\nMaster Chase: Single-target Prismatic/NE magic attack at True Cap Break Level 1, Quick ATB 1 to XVI members, removes Master Mode\n"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Starry Fenrir Prime to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Fenrir Prime: [Damage +5%] or [Damage +25%, Instant ATB 1 & Instant Cast 1] to party with at least 0/2 XVI members\nInterval Chase: [10 single-target Prismatic/NE magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] or [Single-target minor DeProtect & DeShell for 5 seconds, Damage +30/35/40/45/50% to party] after 1/2/3/4/5 chases with at least 0/2 XVI members (max 5 chases)\nMaster Chase: Single-target Prismatic/NE magic attack at True Cap Break Level 1, Quick ATB 1 to XVI members, removes Master Mode\n"
-    }
-  ]
+  "effects": "Master Mode, Instant ATB 1 & Starry Fenrir Prime to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Fenrir Prime: [Damage +5%] or [Damage +25%, Instant ATB 1 & Instant Cast 1] to party with at least 0/2 XVI members\nInterval Chase: [10 single-target Prismatic/NE magic attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] or [Single-target minor DeProtect & DeShell for 5 seconds, Damage +30/35/40/45/50% to party] after 1/2/3/4/5 chases with at least 0/2 XVI members (max 5 chases)\nMaster Chase: Single-target Prismatic/NE magic attack at True Cap Break Level 1, Quick ATB 1 to XVI members, removes Master Mode\n"
 }

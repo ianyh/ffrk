@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
+    }
+  ],
   "id": "20700022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700022/20700022_256.png",
   "character": "Vaan",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
 }

@@ -1,29 +1,11 @@
 {
-  "id": "23160010",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160010/23160010_256.png",
-  "character": "Xezat",
-  "name": "Martial Legacy",
-  "name_jp": "新たなる4戦士へ",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "V",
-  "elements": [
-    "Earth",
-    "Ice",
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Martial Legacy level 0/1, removes Arcane Dyad Empowered: Xezat from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Martial Legacy level 0/1, removes Arcane Dyad Empowered: Xezat from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Martial Legacy (Engaged)",
       "text": "Grants [Tri-Element Mode (Ice, Lightning, Earth)], [Damage Cap +10000], [Arcane Dyad Empowered: Xezat], [Martial Legacy Damage Tracker] and [Martial Legacy Level]"
     }
   ],
@@ -33,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Martial Legacy level 0/1, removes Arcane Dyad Empowered: Xezat from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Martial Legacy (Engaged)",
       "text": "Grants [Tri-Element Mode (Ice, Lightning, Earth)], [Damage Cap +10000], [Arcane Dyad Empowered: Xezat], [Martial Legacy Damage Tracker] and [Martial Legacy Level]"
     }
-  ]
+  ],
+  "id": "23160010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160010/23160010_256.png",
+  "character": "Xezat",
+  "name": "Martial Legacy (Engaged)",
+  "name_jp": "新たなる4戦士へ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Tri-Element Mode (Ice, Lightning, Earth)], [Damage Cap +10000], [Arcane Dyad Empowered: Xezat], [Martial Legacy Damage Tracker] and [Martial Legacy Level]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Regen], and [Quick Cast 3] to all allies, grants [Awoken Decorous Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Regen], and [Quick Cast 3] to all allies, grants [Awoken Decorous Mode] to the user"
+    }
+  ],
   "id": "22800012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22800012/22800012_256.png",
   "character": "Deuce",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Regen], and [Quick Cast 3] to all allies, grants [Awoken Decorous Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Regen], and [Quick Cast 3] to all allies, grants [Awoken Decorous Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Regen], and [Quick Cast 3] to all allies, grants [Awoken Decorous Mode] to the user"
-    }
-  ]
+  "effects": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Regen], and [Quick Cast 3] to all allies, grants [Awoken Decorous Mode] to the user"
 }

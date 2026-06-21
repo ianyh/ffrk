@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Lightning, Water)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Lightning, Water)] and [High Quick Cast 1]"
+    }
+  ],
   "id": "20980017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980017/20980017_256.png",
   "character": "Edge",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Tri-Element Mode II (Fire, Lightning, Water)] and [High Quick Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Mode II (Fire, Lightning, Water)] and [High Quick Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Mode II (Fire, Lightning, Water)] and [High Quick Cast 1]"
-    }
-  ]
+  "effects": "Grants [Tri-Element Mode II (Fire, Lightning, Water)] and [High Quick Cast 1]"
 }

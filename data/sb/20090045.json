@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Water Chain (max 150, field +0%) or adds 25 to the current Water Chain maximum limit, grants [Chain Force Mode: Rydia (Water)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates Water Chain (max 150, field +0%) or adds 25 to the current Water Chain maximum limit, grants [Chain Force Mode: Rydia (Water)] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "20090045",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090045/20090045_256.png",
   "character": "Rydia",
@@ -11,17 +23,5 @@
   "type": "?",
   "target": "",
   "lensable": false,
-  "effects": "Ten single attacks (2.60 each) capped at 19999, activates Water Chain (max 150, field +0%) or adds 25 to the current Water Chain maximum limit, grants [Chain Force Mode: Rydia (Water)] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (2.60 each) capped at 19999, activates Water Chain (max 150, field +0%) or adds 25 to the current Water Chain maximum limit, grants [Chain Force Mode: Rydia (Water)] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (2.60 each) capped at 19999, activates Water Chain (max 150, field +0%) or adds 25 to the current Water Chain maximum limit, grants [Chain Force Mode: Rydia (Water)] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (2.60 each) capped at 19999, activates Water Chain (max 150, field +0%) or adds 25 to the current Water Chain maximum limit, grants [Chain Force Mode: Rydia (Water)] and [Instant ATB 1] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged hybrid attack (3.36 or 7.50) capped at 99999, 3.60 or 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged hybrid attack (3.36 or 7.50) capped at 99999, 3.60 or 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
+    }
+  ],
   "id": "22620014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620014/22620014_256.png",
   "character": "Vayne",
@@ -13,17 +25,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single ranged hybrid attack (3.36 or 7.50) capped at 99999, 3.60 or 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged hybrid attack (3.36 or 7.50) capped at 99999, 3.60 or 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged hybrid attack (3.36 or 7.50) capped at 99999, 3.60 or 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
-    }
-  ]
+  "effects": "One single ranged hybrid attack (3.36 or 7.50) capped at 99999, 3.60 or 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
 }

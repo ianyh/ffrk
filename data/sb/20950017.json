@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, ATK/MND +50% or MAG/MND +50%, Cap Break Level 1, Quad Element Mode II, Dual Awoken Tenacious Gunbreaker Mode I & Holy/Earth/Wind/Poison Ability Damage +5% to user\nDual Awoken Tenacious Gunbreaker Mode I: Holy/Earth/Wind/Poison Ability Boost, Triplecast Holy/Earth/Wind/Poison & Quick Holy/Earth/Wind/Poison\nQuad Element Mode II: En-Holy Stack, En-Earth Stack, En-Wind Stack or En-Poison Stack\n"
+    },
+    {
+      "name": "Awoken Gnashing Fang (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Tenacious Gunbreaker Mode II to user\nDual Awoken Tenacious Gunbreaker Mode II: Holy/Earth/Wind/Poison Ability Boost, Instant Holy/Earth/Wind/Poison & chases a Holy/Earth/Wind/Poison ability with [Instant ATB, Holy/Earth/Wind/Poison Ability Damage +30% & Instant Holy/Earth/Wind/Poison] for 2 turns to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, ATK/MND +50% or MAG/MND +50%, Cap Break Level 1, Quad Element Mode II, Dual Awoken Tenacious Gunbreaker Mode I & Holy/Earth/Wind/Poison Ability Damage +5% to user\nDual Awoken Tenacious Gunbreaker Mode I: Holy/Earth/Wind/Poison Ability Boost, Triplecast Holy/Earth/Wind/Poison & Quick Holy/Earth/Wind/Poison\nQuad Element Mode II: En-Holy Stack, En-Earth Stack, En-Wind Stack or En-Poison Stack\n"
+    },
+    {
+      "name": "Awoken Gnashing Fang (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Tenacious Gunbreaker Mode II to user\nDual Awoken Tenacious Gunbreaker Mode II: Holy/Earth/Wind/Poison Ability Boost, Instant Holy/Earth/Wind/Poison & chases a Holy/Earth/Wind/Poison ability with [Instant ATB, Holy/Earth/Wind/Poison Ability Damage +30% & Instant Holy/Earth/Wind/Poison] for 2 turns to user"
+    }
+  ],
   "id": "20950017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950017/20950017_256.png",
   "character": "Thancred",
@@ -17,25 +37,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, ATK/MND +50% or MAG/MND +50%, Cap Break Level 1, Quad Element Mode II, Dual Awoken Tenacious Gunbreaker Mode I & Holy/Earth/Wind/Poison Ability Damage +5% to user\nDual Awoken Tenacious Gunbreaker Mode I: Holy/Earth/Wind/Poison Ability Boost, Triplecast Holy/Earth/Wind/Poison & Quick Holy/Earth/Wind/Poison\nQuad Element Mode II: En-Holy Stack, En-Earth Stack, En-Wind Stack or En-Poison Stack\n",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, ATK/MND +50% or MAG/MND +50%, Cap Break Level 1, Quad Element Mode II, Dual Awoken Tenacious Gunbreaker Mode I & Holy/Earth/Wind/Poison Ability Damage +5% to user\nDual Awoken Tenacious Gunbreaker Mode I: Holy/Earth/Wind/Poison Ability Boost, Triplecast Holy/Earth/Wind/Poison & Quick Holy/Earth/Wind/Poison\nQuad Element Mode II: En-Holy Stack, En-Earth Stack, En-Wind Stack or En-Poison Stack\n"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Tenacious Gunbreaker Mode II to user\nDual Awoken Tenacious Gunbreaker Mode II: Holy/Earth/Wind/Poison Ability Boost, Instant Holy/Earth/Wind/Poison & chases a Holy/Earth/Wind/Poison ability with [Instant ATB, Holy/Earth/Wind/Poison Ability Damage +30% & Instant Holy/Earth/Wind/Poison] for 2 turns to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, ATK/MND +50% or MAG/MND +50%, Cap Break Level 1, Quad Element Mode II, Dual Awoken Tenacious Gunbreaker Mode I & Holy/Earth/Wind/Poison Ability Damage +5% to user\nDual Awoken Tenacious Gunbreaker Mode I: Holy/Earth/Wind/Poison Ability Boost, Triplecast Holy/Earth/Wind/Poison & Quick Holy/Earth/Wind/Poison\nQuad Element Mode II: En-Holy Stack, En-Earth Stack, En-Wind Stack or En-Poison Stack\n"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Tenacious Gunbreaker Mode II to user\nDual Awoken Tenacious Gunbreaker Mode II: Holy/Earth/Wind/Poison Ability Boost, Instant Holy/Earth/Wind/Poison & chases a Holy/Earth/Wind/Poison ability with [Instant ATB, Holy/Earth/Wind/Poison Ability Damage +30% & Instant Holy/Earth/Wind/Poison] for 2 turns to user"
-    }
-  ]
+  "effects": "7 single-target hybrid attacks (0.90/3.05 each) capped at 19999, ATK/MND +50% or MAG/MND +50%, Cap Break Level 1, Quad Element Mode II, Dual Awoken Tenacious Gunbreaker Mode I & Holy/Earth/Wind/Poison Ability Damage +5% to user\nDual Awoken Tenacious Gunbreaker Mode I: Holy/Earth/Wind/Poison Ability Boost, Triplecast Holy/Earth/Wind/Poison & Quick Holy/Earth/Wind/Poison\nQuad Element Mode II: En-Holy Stack, En-Earth Stack, En-Wind Stack or En-Poison Stack\n"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.21 each), causes [Imperil Fire 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.21 each), causes [Imperil Fire 20%] for 25 seconds"
+    }
+  ],
   "id": "22870002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870002/22870002_256.png",
   "character": "Rubicante",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random attacks (2.21 each), causes [Imperil Fire 20%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (2.21 each), causes [Imperil Fire 20%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (2.21 each), causes [Imperil Fire 20%] for 25 seconds"
-    }
-  ]
+  "effects": "Eight random attacks (2.21 each), causes [Imperil Fire 20%] for 25 seconds"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Limit Chain (150) & 50% Holy Field, Imperil Holy 10/20/30% for 5 seconds to all targets with 0/2/4 En-Holy members, MAG & MND +30% to party, Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Limit Chain (150) & 50% Holy Field, Imperil Holy 10/20/30% for 5 seconds to all targets with 0/2/4 En-Holy members, MAG & MND +30% to party, Instant Cast 1 to user"
+    }
+  ],
   "id": "22080028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080028/22080028_256.png",
   "character": "Exdeath",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "Activates Holy Limit Chain (150) & 50% Holy Field, Imperil Holy 10/20/30% for 5 seconds to all targets with 0/2/4 En-Holy members, MAG & MND +30% to party, Instant Cast 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Holy Limit Chain (150) & 50% Holy Field, Imperil Holy 10/20/30% for 5 seconds to all targets with 0/2/4 En-Holy members, MAG & MND +30% to party, Instant Cast 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Holy Limit Chain (150) & 50% Holy Field, Imperil Holy 10/20/30% for 5 seconds to all targets with 0/2/4 En-Holy members, MAG & MND +30% to party, Instant Cast 1 to user"
-    }
-  ]
+  "effects": "Activates Holy Limit Chain (150) & 50% Holy Field, Imperil Holy 10/20/30% for 5 seconds to all targets with 0/2/4 En-Holy members, MAG & MND +30% to party, Instant Cast 1 to user"
 }

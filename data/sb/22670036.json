@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ],
   "id": "22670036",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670036/22670036_256.png",
   "character": "Cloud of Darkness",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Twin Element Mode (Lightning, Dark) v2], [Soul Break Gauge +250], and [200% ATB 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Soul Break Gauge +250], and [200% ATB 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Soul Break Gauge +250], and [200% ATB 1]"
-    }
-  ]
+  "effects": "Grants [Twin Element Mode (Lightning, Dark) v2], [Soul Break Gauge +250], and [200% ATB 1]"
 }

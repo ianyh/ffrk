@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes KO [Raise: 40%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes KO [Raise: 40%]"
+    }
+  ],
   "id": "23510001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510001/23510001_256.png",
   "character": "Alisaie",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "Single ally",
   "lensable": false,
-  "effects": "Removes KO [Raise: 40%]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Removes KO [Raise: 40%]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Removes KO [Raise: 40%]"
-    }
-  ]
+  "effects": "Removes KO [Raise: 40%]"
 }

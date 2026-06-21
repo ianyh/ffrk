@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.95 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.95 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22340004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340004/22340004_256.png",
   "character": "Yang",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Seven single attacks (0.95 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.95 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.95 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.95 each), grants [Haste], [Attach Earth] and [Burst Mode] to the user"
 }

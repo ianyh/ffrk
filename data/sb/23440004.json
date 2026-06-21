@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]"
+    }
+  ],
   "id": "23440004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23440004/23440004_256.png",
   "character": "Naja",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]"
-    }
-  ]
+  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [Instant Cast 1]"
 }

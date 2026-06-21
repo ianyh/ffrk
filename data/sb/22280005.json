@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven random attacks (1.08 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven random attacks (1.08 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22280005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280005/22280005_256.png",
   "character": "Wol",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Seven random attacks (1.08 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven random attacks (1.08 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven random attacks (1.08 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Seven random attacks (1.08 each), [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

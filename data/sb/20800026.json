@@ -1,20 +1,4 @@
 {
-  "id": "20800026",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800026/20800026_256.png",
-  "character": "Ingus",
-  "name": "Zenith Titan's Blade",
-  "name_jp": "究極ティターンブレード",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "III",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ingus] to the user",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Spirit Attack: Ingus",
       "text": "Grants [Earth Ability Quick Cast 1], [Instant ATB 1] and [10% Damage Reduction Barrier 1] to the user"
     }
-  ]
+  ],
+  "id": "20800026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800026/20800026_256.png",
+  "character": "Ingus",
+  "name": "Zenith Titan's Blade",
+  "name_jp": "究極ティターンブレード",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "III",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [10% Damage Reduction Barrier 1], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ingus] to the user"
 }

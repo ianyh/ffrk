@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (0.83 each), grants [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (0.83 each), grants [Attach Wind] to the user"
+    }
+  ],
   "id": "20400007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400007/20400007_256.png",
   "character": "Bartz",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Five group ranged attacks (0.83 each), grants [Attach Wind] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five group ranged attacks (0.83 each), grants [Attach Wind] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five group ranged attacks (0.83 each), grants [Attach Wind] to the user"
-    }
-  ]
+  "effects": "Five group ranged attacks (0.83 each), grants [Attach Wind] to the user"
 }

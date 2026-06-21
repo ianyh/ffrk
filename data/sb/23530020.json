@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Ravus], [Attach Lightning with Secondary Stacking]/[Attach Dark with Secondary Stacking], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Ravus (Break Arte)",
+      "text": "One Dark/NE or Lightning/NE group attack (8.00) capped at 99,999 based on EnDark or EnLightning. Grants [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Ravus], [Attach Lightning with Secondary Stacking]/[Attach Dark with Secondary Stacking], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Ravus (Break Arte)",
+      "text": "One Dark/NE or Lightning/NE group attack (8.00) capped at 99,999 based on EnDark or EnLightning. Grants [Instant ATB 1] to user."
+    }
+  ],
   "id": "23530020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530020/23530020_256.png",
   "character": "Ravus",
@@ -22,25 +42,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Ravus], [Attach Lightning with Secondary Stacking]/[Attach Dark with Secondary Stacking], [Instant ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Ravus], [Attach Lightning with Secondary Stacking]/[Attach Dark with Secondary Stacking], [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One Dark/NE or Lightning/NE group attack (8.00) capped at 99,999 based on EnDark or EnLightning. Grants [Instant ATB 1] to user."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Ravus], [Attach Lightning with Secondary Stacking]/[Attach Dark with Secondary Stacking], [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One Dark/NE or Lightning/NE group attack (8.00) capped at 99,999 based on EnDark or EnLightning. Grants [Instant ATB 1] to user."
-    }
-  ]
+  "effects": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Ravus], [Attach Lightning with Secondary Stacking]/[Attach Dark with Secondary Stacking], [Instant ATB 1] to user."
 }

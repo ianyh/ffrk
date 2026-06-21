@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +30%] for 25 seconds"
+    }
+  ],
   "id": "22500002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500002/22500002_256.png",
   "character": "Angeal",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "[DEF +30%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[DEF +30%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[DEF +30%] for 25 seconds"
-    }
-  ]
+  "effects": "[DEF +30%] for 25 seconds"
 }

@@ -1,20 +1,4 @@
 {
-  "id": "22240031",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240031/22240031_256.png",
-  "character": "Kuja",
-  "name": "Roaring Ruinous Recital",
-  "name_jp": "轟・破滅の奏楽",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "IX",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Accel Mode: Kuja (Dark)], and [Instant ATB 1] to the user\nAccel Mode: Kuja (Dark): Dark Ability High Boost & chases Dark abilities with 6 single attacks (1.50 each) and [Buff Dark 10% (5s)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Kuja (Dark)",
       "text": "Dark abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Kuja (Dark)] after using Dark abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "22240031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240031/22240031_256.png",
+  "character": "Kuja",
+  "name": "Roaring Ruinous Recital",
+  "name_jp": "轟・破滅の奏楽",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "IX",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Accel Mode: Kuja (Dark)], and [Instant ATB 1] to the user\nAccel Mode: Kuja (Dark): Dark Ability High Boost & chases Dark abilities with 6 single attacks (1.50 each) and [Buff Dark 10% (5s)] to the user"
 }

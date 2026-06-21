@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.80) capped at 99999, 12.80 multiplier if 4 or more females are in the party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.80) capped at 99999, 12.80 multiplier if 4 or more females are in the party"
+    }
+  ],
   "id": "20860007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860007/20860007_256.png",
   "character": "Zidane",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (11.80) capped at 99999, 12.80 multiplier if 4 or more females are in the party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (11.80) capped at 99999, 12.80 multiplier if 4 or more females are in the party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (11.80) capped at 99999, 12.80 multiplier if 4 or more females are in the party"
-    }
-  ]
+  "effects": "One single attack (11.80) capped at 99999, 12.80 multiplier if 4 or more females are in the party"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user"
+    }
+  ],
   "id": "22430019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430019/22430019_256.png",
   "character": "Guy",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user"
 }

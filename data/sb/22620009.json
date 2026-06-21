@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single hybrid attacks (0.52 or 1.25 each), grants [Attach Dark Stacking] and [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single hybrid attacks (0.52 or 1.25 each), grants [Attach Dark Stacking] and [Attach Dark] to the user"
+    }
+  ],
   "id": "22620009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620009/22620009_256.png",
   "character": "Vayne",
@@ -14,17 +26,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single hybrid attacks (0.52 or 1.25 each), grants [Attach Dark Stacking] and [Attach Dark] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single hybrid attacks (0.52 or 1.25 each), grants [Attach Dark Stacking] and [Attach Dark] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single hybrid attacks (0.52 or 1.25 each), grants [Attach Dark Stacking] and [Attach Dark] to the user"
-    }
-  ]
+  "effects": "Six single hybrid attacks (0.52 or 1.25 each), grants [Attach Dark Stacking] and [Attach Dark] to the user"
 }

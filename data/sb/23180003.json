@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.87 each), causes [Imperil Lightning 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.87 each), causes [Imperil Lightning 20%] for 25 seconds"
+    }
+  ],
   "id": "23180003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180003/23180003_256.png",
   "character": "King",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group ranged attacks (0.87 each), causes [Imperil Lightning 20%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.87 each), causes [Imperil Lightning 20%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.87 each), causes [Imperil Lightning 20%] for 25 seconds"
-    }
-  ]
+  "effects": "Six group ranged attacks (0.87 each), causes [Imperil Lightning 20%] for 25 seconds"
 }

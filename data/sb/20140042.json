@@ -1,28 +1,4 @@
 {
-  "id": "20140042",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140042/20140042_256.png",
-  "character": "Tyro",
-  "name": "Roaring Memory Strike",
-  "name_jp": "轟・追想の断撃",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "Core",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "Earth",
-    "Wind",
-    "Water",
-    "Holy",
-    "Dark",
-    "Poison",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single ranged attacks (? or ? each), grants [Damage Cap +10000], [Accel Mode: Tyro], and [Instant ATB 1] to the user",
   "description": [
     {
       "name": "Entry",
@@ -50,5 +26,29 @@
       "name": "Roaring Tyro",
       "text": "Six single ranged attacks (? or ? each), grants [Buff Prismatic 10% (5s)] to the user"
     }
-  ]
+  ],
+  "id": "20140042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140042/20140042_256.png",
+  "character": "Tyro",
+  "name": "Roaring Memory Strike",
+  "name_jp": "轟・追想の断撃",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single ranged attacks (? or ? each), grants [Damage Cap +10000], [Accel Mode: Tyro], and [Instant ATB 1] to the user"
 }

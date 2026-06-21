@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four random attacks (0.80 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four random attacks (0.80 each)"
+    }
+  ],
   "id": "20220002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220002/20220002_256.png",
   "character": "Cyan",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Four random attacks (0.80 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four random attacks (0.80 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four random attacks (0.80 each)"
-    }
-  ]
+  "effects": "Four random attacks (0.80 each)"
 }

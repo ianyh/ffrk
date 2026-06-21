@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Piercing Concentrate (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Piercing Concentrate (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies."
+    }
+  ],
   "id": "23430029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430029/23430029_256.png",
   "character": "Trey",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user."
 }

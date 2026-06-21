@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 2 single-target Earth/NE physical attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 2 single-target Earth/NE physical attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ],
   "id": "23190026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190026/23190026_256.png",
   "character": "Cinque",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 2 single-target Earth/NE physical attacks + minor Prismatic Imperil for 5 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 2 single-target Earth/NE physical attacks + minor Prismatic Imperil for 5 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 2 single-target Earth/NE physical attacks + minor Prismatic Imperil for 5 seconds"
-    }
-  ]
+  "effects": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 2 single-target Earth/NE physical attacks + minor Prismatic Imperil for 5 seconds"
 }

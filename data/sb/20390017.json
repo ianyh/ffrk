@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Ice, Lightning)] and [Raid Arc Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Ice, Lightning)] and [Raid Arc Follow-Up] to the user"
+    }
+  ],
   "id": "20390017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390017/20390017_256.png",
   "character": "Fran",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Ice, Lightning)] and [Raid Arc Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Ice, Lightning)] and [Raid Arc Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Ice, Lightning)] and [Raid Arc Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Ice, Lightning)] and [Raid Arc Follow-Up] to the user"
 }

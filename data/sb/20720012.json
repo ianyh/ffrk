@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000], [Tidal Fall] and [Costume Collector Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000], [Tidal Fall] and [Costume Collector Mode]"
+    }
+  ],
   "id": "20720012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720012/20720012_256.png",
   "character": "Strago",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000], [Tidal Fall] and [Costume Collector Mode]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000], [Tidal Fall] and [Costume Collector Mode]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000], [Tidal Fall] and [Costume Collector Mode]"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000], [Tidal Fall] and [Costume Collector Mode]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (6000)], [Haste], [Protect], [Shell], and [Last Stand] to all allies, grants [100% Critical (25s)] to all allies if Clive is in the party, causes [Imperil Ice 20% (15s)] to all enemies if Jill is in the party, causes [Imperil Fire 20% (15s)] to all enemies if Joshua is in the party, causes [Imperil Lightning 20% (15s)] to all enemies if Cidolfus is in the party, grants Awoken Frost Wolf Mode and [Soul Break Gauge +250] to the user\nAwoken Frost Wolf Mode: Unlimited Support/Celerity/Black Magic Hones, Support/Celerity/Black Magic Rank Quick Cast & chases Support/Celerity/Black Magic abilities with Quick Cast 1 to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (6000)], [Haste], [Protect], [Shell], and [Last Stand] to all allies, grants [100% Critical (25s)] to all allies if Clive is in the party, causes [Imperil Ice 20% (15s)] to all enemies if Jill is in the party, causes [Imperil Fire 20% (15s)] to all enemies if Joshua is in the party, causes [Imperil Lightning 20% (15s)] to all enemies if Cidolfus is in the party, grants Awoken Frost Wolf Mode and [Soul Break Gauge +250] to the user\nAwoken Frost Wolf Mode: Unlimited Support/Celerity/Black Magic Hones, Support/Celerity/Black Magic Rank Quick Cast & chases Support/Celerity/Black Magic abilities with Quick Cast 1 to all allies"
+    }
+  ],
   "id": "23620005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23620005/23620005_256.png",
   "character": "Torgal",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [HP Stock (6000)], [Haste], [Protect], [Shell], and [Last Stand] to all allies, grants [100% Critical (25s)] to all allies if Clive is in the party, causes [Imperil Ice 20% (15s)] to all enemies if Jill is in the party, causes [Imperil Fire 20% (15s)] to all enemies if Joshua is in the party, causes [Imperil Lightning 20% (15s)] to all enemies if Cidolfus is in the party, grants Awoken Frost Wolf Mode and [Soul Break Gauge +250] to the user\nAwoken Frost Wolf Mode: Unlimited Support/Celerity/Black Magic Hones, Support/Celerity/Black Magic Rank Quick Cast & chases Support/Celerity/Black Magic abilities with Quick Cast 1 to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (6000)], [Haste], [Protect], [Shell], and [Last Stand] to all allies, grants [100% Critical (25s)] to all allies if Clive is in the party, causes [Imperil Ice 20% (15s)] to all enemies if Jill is in the party, causes [Imperil Fire 20% (15s)] to all enemies if Joshua is in the party, causes [Imperil Lightning 20% (15s)] to all enemies if Cidolfus is in the party, grants Awoken Frost Wolf Mode and [Soul Break Gauge +250] to the user\nAwoken Frost Wolf Mode: Unlimited Support/Celerity/Black Magic Hones, Support/Celerity/Black Magic Rank Quick Cast & chases Support/Celerity/Black Magic abilities with Quick Cast 1 to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (6000)], [Haste], [Protect], [Shell], and [Last Stand] to all allies, grants [100% Critical (25s)] to all allies if Clive is in the party, causes [Imperil Ice 20% (15s)] to all enemies if Jill is in the party, causes [Imperil Fire 20% (15s)] to all enemies if Joshua is in the party, causes [Imperil Lightning 20% (15s)] to all enemies if Cidolfus is in the party, grants Awoken Frost Wolf Mode and [Soul Break Gauge +250] to the user\nAwoken Frost Wolf Mode: Unlimited Support/Celerity/Black Magic Hones, Support/Celerity/Black Magic Rank Quick Cast & chases Support/Celerity/Black Magic abilities with Quick Cast 1 to all allies"
-    }
-  ]
+  "effects": "Grants [HP Stock (6000)], [Haste], [Protect], [Shell], and [Last Stand] to all allies, grants [100% Critical (25s)] to all allies if Clive is in the party, causes [Imperil Ice 20% (15s)] to all enemies if Jill is in the party, causes [Imperil Fire 20% (15s)] to all enemies if Joshua is in the party, causes [Imperil Lightning 20% (15s)] to all enemies if Cidolfus is in the party, grants Awoken Frost Wolf Mode and [Soul Break Gauge +250] to the user\nAwoken Frost Wolf Mode: Unlimited Support/Celerity/Black Magic Hones, Support/Celerity/Black Magic Rank Quick Cast & chases Support/Celerity/Black Magic abilities with Quick Cast 1 to all allies"
 }

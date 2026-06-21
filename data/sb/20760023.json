@@ -1,20 +1,4 @@
 {
-  "id": "20760023",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760023/20760023_256.png",
-  "character": "Barret",
-  "name": "Zenith Catastrophe",
-  "name_jp": "究極カタストロフィ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, causes [DEF and RES -50% (25s)] to the target, grants [200% ATB 1] to the party, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Barret] to the user",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Spirit Attack: Barret",
       "text": "Grants [Quick Cast 1] to all allies if there are 0-3 VII members in the party, and grant [Instant Cast 1] and [100% Critical (15s)] to all allies and [Attach Fire with Stacking] to the user if there are 4+ VII members in the party"
     }
-  ]
+  ],
+  "id": "20760023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760023/20760023_256.png",
+  "character": "Barret",
+  "name": "Zenith Catastrophe",
+  "name_jp": "究極カタストロフィ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, causes [DEF and RES -50% (25s)] to the target, grants [200% ATB 1] to the party, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Barret] to the user"
 }

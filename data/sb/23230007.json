@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Spellstrike], [Damage Cap +10000], [Switch Draw Mode (Wind, Dark)] and [Cruel Blow Follow-up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Spellstrike], [Damage Cap +10000], [Switch Draw Mode (Wind, Dark)] and [Cruel Blow Follow-up] to the user"
+    }
+  ],
   "id": "23230007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230007/23230007_256.png",
   "character": "Ultimecia",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Spellstrike], [Damage Cap +10000], [Switch Draw Mode (Wind, Dark)] and [Cruel Blow Follow-up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Awoken Spellstrike], [Damage Cap +10000], [Switch Draw Mode (Wind, Dark)] and [Cruel Blow Follow-up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Awoken Spellstrike], [Damage Cap +10000], [Switch Draw Mode (Wind, Dark)] and [Cruel Blow Follow-up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Spellstrike], [Damage Cap +10000], [Switch Draw Mode (Wind, Dark)] and [Cruel Blow Follow-up] to the user"
 }

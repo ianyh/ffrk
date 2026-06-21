@@ -1,20 +1,4 @@
 {
-  "id": "20090043",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090043/20090043_256.png",
-  "character": "Rydia",
-  "name": "Zenith Fated Encounter",
-  "name_jp": "究極宿命の邂逅",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IV",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rydia (Water)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Law of the Eidolons+",
       "text": "Five single attacks (5.25 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "20090043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090043/20090043_256.png",
+  "character": "Rydia",
+  "name": "Zenith Fated Encounter",
+  "name_jp": "究極宿命の邂逅",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Rydia (Water)] to the user"
 }

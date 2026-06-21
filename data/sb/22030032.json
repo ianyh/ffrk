@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Wind/NE jump attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1, No Air Time & Crystal Mode to user\nCrystal Mode: Dragoon Ability Boost, Dualcast Dragoon, Zero Hone Cost to Dragoon Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/NE jump attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 2, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Wind/NE jump attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1, No Air Time & Crystal Mode to user\nCrystal Mode: Dragoon Ability Boost, Dualcast Dragoon, Zero Hone Cost to Dragoon Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/NE jump attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 2, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user"
+    }
+  ],
   "id": "22030032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030032/22030032_256.png",
   "character": "Fang",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Wind/NE jump attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1, No Air Time & Crystal Mode to user\nCrystal Mode: Dragoon Ability Boost, Dualcast Dragoon, Zero Hone Cost to Dragoon Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/NE jump attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 2, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Wind/NE jump attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1, No Air Time & Crystal Mode to user\nCrystal Mode: Dragoon Ability Boost, Dualcast Dragoon, Zero Hone Cost to Dragoon Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/NE jump attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 2, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Wind/NE jump attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1, No Air Time & Crystal Mode to user\nCrystal Mode: Dragoon Ability Boost, Dualcast Dragoon, Zero Hone Cost to Dragoon Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/NE jump attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 2, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Wind/NE jump attacks at Cap Break Level 1, En-Wind, En-Wind Stack, Cap Break Level 1, No Air Time & Crystal Mode to user\nCrystal Mode: Dragoon Ability Boost, Dualcast Dragoon, Zero Hone Cost to Dragoon Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Wind/NE jump attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 2, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns and Quick ATB 1 to user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Awoken Tantalus], [Damage Cap +10000], [Twin Element Mode II (Wind, Poison)], [Toxic Break Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Awoken Tantalus], [Damage Cap +10000], [Twin Element Mode II (Wind, Poison)], [Toxic Break Follow-Up] to the user"
+    }
+  ],
   "id": "23070019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070019/23070019_256.png",
   "character": "Marcus",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Awoken Tantalus], [Damage Cap +10000], [Twin Element Mode II (Wind, Poison)], [Toxic Break Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Awoken Tantalus], [Damage Cap +10000], [Twin Element Mode II (Wind, Poison)], [Toxic Break Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Awoken Tantalus], [Damage Cap +10000], [Twin Element Mode II (Wind, Poison)], [Toxic Break Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -70% (8s)], grants [Awoken Tantalus], [Damage Cap +10000], [Twin Element Mode II (Wind, Poison)], [Toxic Break Follow-Up] to the user"
 }

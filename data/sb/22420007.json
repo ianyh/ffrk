@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Attach Water], [Spellblade High Quick Cast 2] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), grants [Attach Water], [Spellblade High Quick Cast 2] and [Brave Mode] to the user"
+    }
+  ],
   "id": "22420007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22420007/22420007_256.png",
   "character": "Paine",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.72 each), grants [Attach Water], [Spellblade High Quick Cast 2] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), grants [Attach Water], [Spellblade High Quick Cast 2] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), grants [Attach Water], [Spellblade High Quick Cast 2] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.72 each), grants [Attach Water], [Spellblade High Quick Cast 2] and [Brave Mode] to the user"
 }

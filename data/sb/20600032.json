@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Lightning)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Flourish of Steel (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Lightning)], removes [Dual Awoken Lightning Mode I (Lightning)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Lightning)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Flourish of Steel (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Lightning)], removes [Dual Awoken Lightning Mode I (Lightning)]"
+    }
+  ],
   "id": "20600032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600032/20600032_256.png",
   "character": "Lightning",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Lightning)] and [Lightning Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Lightning)] and [Lightning Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Lightning)], removes [Dual Awoken Lightning Mode I (Lightning)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Lightning)] and [Lightning Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Lightning)], removes [Dual Awoken Lightning Mode I (Lightning)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Lightning)] and [Lightning Resonance +5% Boost] to the user"
 }

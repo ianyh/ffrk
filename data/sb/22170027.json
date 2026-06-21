@@ -1,20 +1,4 @@
 {
-  "id": "22170027",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170027/22170027_256.png",
-  "character": "Vincent",
-  "name": "Zenith Flame Penalty",
-  "name_jp": "究極フレイムペナルティ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single hybrid ranged attacks (0.90/3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Vincent (Fire)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Vincent",
       "text": "Causes [Imperil Fire 20% (5s)], grants [Buff Fire 20% (5s)] and [Quick Cast 2] to the user"
     }
-  ]
+  ],
+  "id": "22170027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170027/22170027_256.png",
+  "character": "Vincent",
+  "name": "Zenith Flame Penalty",
+  "name_jp": "究極フレイムペナルティ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid ranged attacks (0.90/3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Vincent (Fire)] and [Damage Cap +10000] to the user"
 }

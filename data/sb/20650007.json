@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user"
+    }
+  ],
   "id": "20650007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650007/20650007_256.png",
   "character": "Galuf",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user"
-    }
-  ]
+  "effects": "Grants [High Regen], grants [Critical Chance 50%] for 25 seconds, grants [Attach Fire] to the user"
 }

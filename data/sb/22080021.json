@@ -1,21 +1,4 @@
 {
-  "id": "22080021",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080021/22080021_256.png",
-  "character": "Exdeath",
-  "name": "Zenith Grand Cross",
-  "name_jp": "究極グランドクロス",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "V",
-  "elements": [
-    "Dark",
-    "Holy",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [50% Damange Reduction Barrier 1] to all allies, grants [Attach Dark 2 with Stacking]/[Attach Holy 2 With Stacking] to the user if the entry damage was Dark/Holy, [Zenith Mode], [Zenith Mode: Exdeath (Dark, Holy)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -59,5 +42,22 @@
       "name": "Spirit Attack: Exdeath (Holy, Dark)",
       "text": "Two single attacks (1.48/1.58), grants [50% Damage Reduction Barrier 1] to all allies"
     }
-  ]
+  ],
+  "id": "22080021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080021/22080021_256.png",
+  "character": "Exdeath",
+  "name": "Zenith Grand Cross",
+  "name_jp": "究極グランドクロス",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [50% Damange Reduction Barrier 1] to all allies, grants [Attach Dark 2 with Stacking]/[Attach Holy 2 With Stacking] to the user if the entry damage was Dark/Holy, [Zenith Mode], [Zenith Mode: Exdeath (Dark, Holy)] and [Damage Cap +10000] to the user"
 }

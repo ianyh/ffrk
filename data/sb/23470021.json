@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Genesis] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Genesis] to the user"
+    }
+  ],
   "id": "23470021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23470021/23470021_256.png",
   "character": "Genesis",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Genesis] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Genesis] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Genesis] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Genesis] to the user"
 }

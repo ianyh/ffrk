@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.50 each), [ATK -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.50 each), [ATK -50%] for 25 seconds"
+    }
+  ],
   "id": "22380001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22380001/22380001_256.png",
   "character": "Delita",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group ranged attacks (1.50 each), [ATK -50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.50 each), [ATK -50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.50 each), [ATK -50%] for 25 seconds"
-    }
-  ]
+  "effects": "Four group ranged attacks (1.50 each), [ATK -50%] for 25 seconds"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ravus], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Violet Purge (Weapon Skill)",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Lightning, Dark Damage Cap +20000 (Tactical)], [Lightning, Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [PHY +50% Boost (15s)] to user/[PHY +30% Boost (15s)] to all allies if there are 0-3/4+ Spellblade/FFXV allies in the party."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ravus], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Violet Purge (Weapon Skill)",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Lightning, Dark Damage Cap +20000 (Tactical)], [Lightning, Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [PHY +50% Boost (15s)] to user/[PHY +30% Boost (15s)] to all allies if there are 0-3/4+ Spellblade/FFXV allies in the party."
+    }
+  ],
   "id": "23530019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530019/23530019_256.png",
   "character": "Ravus",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ravus], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ravus], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Lightning, Dark Damage Cap +20000 (Tactical)], [Lightning, Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [PHY +50% Boost (15s)] to user/[PHY +30% Boost (15s)] to all allies if there are 0-3/4+ Spellblade/FFXV allies in the party."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ravus], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Lightning, Dark Damage Cap +20000 (Tactical)], [Lightning, Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [PHY +50% Boost (15s)] to user/[PHY +30% Boost (15s)] to all allies if there are 0-3/4+ Spellblade/FFXV allies in the party."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ravus], [ATK +500 (25s) (Tactical)] to user."
 }

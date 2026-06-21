@@ -1,22 +1,4 @@
 {
-  "id": "23370017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370017/23370017_256.png",
-  "character": "Cater",
-  "name": "Zenith Tri-Color Mine",
-  "name_jp": "究極三色地雷弾",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Fire/Ice/Lightning, [Zenith Mode], [Zenith Mode: Cater (Fire, Ice, Lightning)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -76,5 +58,23 @@
       "name": "Spirit Attack: Cater (Fire, Ice, Lightning)",
       "text": "Causes [Imperil Prismatic 10% (15s)] and [Machinist Ability Instant Cast 1]/[Imperil Prismatic 30% (15s)] and [Machinist Ability Instant Cast 1] if 0-3/4+ allies are machinists"
     }
-  ]
+  ],
+  "id": "23370017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370017/23370017_256.png",
+  "character": "Cater",
+  "name": "Zenith Tri-Color Mine",
+  "name_jp": "究極三色地雷弾",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Fire/Ice/Lightning, [Zenith Mode], [Zenith Mode: Cater (Fire, Ice, Lightning)] and [Damage Cap +10000] to the user"
 }

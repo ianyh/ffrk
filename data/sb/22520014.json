@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] and [HP Stock (3000)] to all allies, grants [Awoken Oracle of Light] and [Emissary of Light Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] and [HP Stock (3000)] to all allies, grants [Awoken Oracle of Light] and [Emissary of Light Mode] to the user"
+    }
+  ],
   "id": "22520014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520014/22520014_256.png",
   "character": "Minfilia",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] and [HP Stock (3000)] to all allies, grants [Awoken Oracle of Light] and [Emissary of Light Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] and [HP Stock (3000)] to all allies, grants [Awoken Oracle of Light] and [Emissary of Light Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] and [HP Stock (3000)] to all allies, grants [Awoken Oracle of Light] and [Emissary of Light Mode] to the user"
-    }
-  ]
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [ATK, DEF, MAG and RES +30% (8s)] and [HP Stock (3000)] to all allies, grants [Awoken Oracle of Light] and [Emissary of Light Mode] to the user"
 }

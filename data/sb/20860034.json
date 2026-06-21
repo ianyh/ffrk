@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Wind/NE physical attacks at Cap Break Level 1, activates Wind Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Wind ability, chases with 16 single-target Wind/NE physical attacks (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Wind/NE physical attacks at Cap Break Level 1, activates Wind Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Wind ability, chases with 16 single-target Wind/NE physical attacks (max 1 chase)"
+    }
+  ],
   "id": "20860034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860034/20860034_256.png",
   "character": "Zidane",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single-target Wind/NE physical attacks at Cap Break Level 1, activates Wind Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Wind ability, chases with 16 single-target Wind/NE physical attacks (max 1 chase)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Wind/NE physical attacks at Cap Break Level 1, activates Wind Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Wind ability, chases with 16 single-target Wind/NE physical attacks (max 1 chase)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Wind/NE physical attacks at Cap Break Level 1, activates Wind Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Wind ability, chases with 16 single-target Wind/NE physical attacks (max 1 chase)"
-    }
-  ]
+  "effects": "10 single-target Wind/NE physical attacks at Cap Break Level 1, activates Wind Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Wind ability, chases with 16 single-target Wind/NE physical attacks (max 1 chase)"
 }

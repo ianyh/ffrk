@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single hybrid ranged attacks (0.81 or 1.49 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single hybrid ranged attacks (0.81 or 1.49 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22620001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620001/22620001_256.png",
   "character": "Vayne",
@@ -14,17 +26,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single hybrid ranged attacks (0.81 or 1.49 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single hybrid ranged attacks (0.81 or 1.49 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single hybrid ranged attacks (0.81 or 1.49 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight single hybrid ranged attacks (0.81 or 1.49 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
 }

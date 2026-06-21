@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
+    }
+  ],
   "id": "23360006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360006/23360006_256.png",
   "character": "Eight",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
-    }
-  ]
+  "effects": "Grants [Attach Ice Stacking], [Attach Ice] and [Instant Cast 1]"
 }

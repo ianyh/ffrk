@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.94 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.94 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22360003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360003/22360003_256.png",
   "character": "Shantotto",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group attacks (1.94 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (1.94 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (1.94 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Six group attacks (1.94 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
 }

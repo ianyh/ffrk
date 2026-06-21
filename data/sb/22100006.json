@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged attacks (0.98 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged attacks (0.98 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22100006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100006/22100006_256.png",
   "character": "Laguna",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random ranged attacks (0.98 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random ranged attacks (0.98 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random ranged attacks (0.98 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight random ranged attacks (0.98 each), causes [Imperil Lightning 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

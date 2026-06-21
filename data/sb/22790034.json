@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ace], & MAG +500 to user\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Mega Burst (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Fire Damage Cap +20000 (Tactical)], [Fire Ability DEF and RES 30% Piercing (Tactical] to user, and Weapon Skill Blue/Gold if user has Attach Fire 0-1/2\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: Grants [Fire Ability +50% Boost (Tactical)], [Fire Quick Cast (Tactical)] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ace], & MAG +500 to user\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Mega Burst (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Fire Damage Cap +20000 (Tactical)], [Fire Ability DEF and RES 30% Piercing (Tactical] to user, and Weapon Skill Blue/Gold if user has Attach Fire 0-1/2\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: Grants [Fire Ability +50% Boost (Tactical)], [Fire Quick Cast (Tactical)] to user"
+    }
+  ],
   "id": "22790034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790034/22790034_256.png",
   "character": "Ace",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ace], & MAG +500 to user\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ace], & MAG +500 to user\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Fire Damage Cap +20000 (Tactical)], [Fire Ability DEF and RES 30% Piercing (Tactical] to user, and Weapon Skill Blue/Gold if user has Attach Fire 0-1/2\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: Grants [Fire Ability +50% Boost (Tactical)], [Fire Quick Cast (Tactical)] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ace], & MAG +500 to user\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Fire Damage Cap +20000 (Tactical)], [Fire Ability DEF and RES 30% Piercing (Tactical] to user, and Weapon Skill Blue/Gold if user has Attach Fire 0-1/2\nWS Blue: Grants [Attach Fire 2 with Stacking] to user\nWS Gold: Grants [Fire Ability +50% Boost (Tactical)], [Fire Quick Cast (Tactical)] to user"
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ace], & MAG +500 to user\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1"
 }

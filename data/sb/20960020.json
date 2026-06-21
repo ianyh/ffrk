@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates XIV Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIV] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates XIV Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIV] and [Instant Cast 1] to the user"
+    }
+  ],
   "id": "20960020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960020/20960020_256.png",
   "character": "Y'shtola",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates XIV Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIV] and [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates XIV Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIV] and [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates XIV Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIV] and [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Activates XIV Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] and [Quick Cast 1], grants [Linked Burst Mode: XIV] and [Instant Cast 1] to the user"
 }

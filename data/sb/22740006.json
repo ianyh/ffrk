@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.12 each) capped at 99999, 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.12 each) capped at 99999, 100% additional critical chance"
+    }
+  ],
   "id": "22740006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740006/22740006_256.png",
   "character": "Noctis",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single attacks (8.12 each) capped at 99999, 100% additional critical chance",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (8.12 each) capped at 99999, 100% additional critical chance"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (8.12 each) capped at 99999, 100% additional critical chance"
-    }
-  ]
+  "effects": "Three single attacks (8.12 each) capped at 99999, 100% additional critical chance"
 }

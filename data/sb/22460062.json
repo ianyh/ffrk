@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Earth with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Onion Knight] to the user, grants [Critical Damage +50% 3] to the user/[Critical Damage +50%] to all allies if there are 0-3/4+ III allies\nCrystal Force Mode: Onion Knight: Celerity/Ninja Ability Boost, Dualcast Celerity/Ninja, Zero Hone Cost to Celerity/Ninja Abilities & 25% DEF/RES Pierce"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Earth with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Onion Knight] to the user, grants [Critical Damage +50% 3] to the user/[Critical Damage +50%] to all allies if there are 0-3/4+ III allies\nCrystal Force Mode: Onion Knight: Celerity/Ninja Ability Boost, Dualcast Celerity/Ninja, Zero Hone Cost to Celerity/Ninja Abilities & 25% DEF/RES Pierce"
+    }
+  ],
   "id": "22460062",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460062/22460062_256.png",
   "character": "Onion Knight",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Earth with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Onion Knight] to the user, grants [Critical Damage +50% 3] to the user/[Critical Damage +50%] to all allies if there are 0-3/4+ III allies\nCrystal Force Mode: Onion Knight: Celerity/Ninja Ability Boost, Dualcast Celerity/Ninja, Zero Hone Cost to Celerity/Ninja Abilities & 25% DEF/RES Pierce",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Earth with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Onion Knight] to the user, grants [Critical Damage +50% 3] to the user/[Critical Damage +50%] to all allies if there are 0-3/4+ III allies\nCrystal Force Mode: Onion Knight: Celerity/Ninja Ability Boost, Dualcast Celerity/Ninja, Zero Hone Cost to Celerity/Ninja Abilities & 25% DEF/RES Pierce"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Earth with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Onion Knight] to the user, grants [Critical Damage +50% 3] to the user/[Critical Damage +50%] to all allies if there are 0-3/4+ III allies\nCrystal Force Mode: Onion Knight: Celerity/Ninja Ability Boost, Dualcast Celerity/Ninja, Zero Hone Cost to Celerity/Ninja Abilities & 25% DEF/RES Pierce"
-    }
-  ]
+  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking]/[Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Earth with Stacking] depending on entry damage, grants [Damage Cap +10000], [Crystal Force Mode], and [Crystal Force Mode: Onion Knight] to the user, grants [Critical Damage +50% 3] to the user/[Critical Damage +50%] to all allies if there are 0-3/4+ III allies\nCrystal Force Mode: Onion Knight: Celerity/Ninja Ability Boost, Dualcast Celerity/Ninja, Zero Hone Cost to Celerity/Ninja Abilities & 25% DEF/RES Pierce"
 }

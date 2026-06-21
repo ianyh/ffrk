@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3], [Critical Damage +50%] and [Haste] to all allies, Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] to the user if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Seeker Mode I (Tyro)] and [Ability Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Keeper's Tome (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Record Seeker Mode II (Tyro)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 3], [Critical Damage +50%] and [Haste] to all allies, Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] to the user if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Seeker Mode I (Tyro)] and [Ability Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Keeper's Tome (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Record Seeker Mode II (Tyro)] to the user"
+    }
+  ],
   "id": "20140034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140034/20140034_256.png",
   "character": "Tyro",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [Quick Cast 3], [Critical Damage +50%] and [Haste] to all allies, Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] to the user if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Seeker Mode I (Tyro)] and [Ability Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quick Cast 3], [Critical Damage +50%] and [Haste] to all allies, Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] to the user if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Seeker Mode I (Tyro)] and [Ability Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Record Seeker Mode II (Tyro)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quick Cast 3], [Critical Damage +50%] and [Haste] to all allies, Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] to the user if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Seeker Mode I (Tyro)] and [Ability Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Record Seeker Mode II (Tyro)] to the user"
-    }
-  ]
+  "effects": "Grants [Quick Cast 3], [Critical Damage +50%] and [Haste] to all allies, Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] to the user if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Seeker Mode I (Tyro)] and [Ability Resonance +5% Boost] to the user"
 }

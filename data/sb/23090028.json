@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 4 single-target Earth/NE physical attacks, Earth Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 4 single-target Earth/NE physical attacks, Earth Damage +10% for 5 seconds to party"
+    }
+  ],
   "id": "23090028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090028/23090028_256.png",
   "character": "Machina",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 4 single-target Earth/NE physical attacks, Earth Damage +10% for 5 seconds to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 4 single-target Earth/NE physical attacks, Earth Damage +10% for 5 seconds to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 4 single-target Earth/NE physical attacks, Earth Damage +10% for 5 seconds to party"
-    }
-  ]
+  "effects": "5 single-target Earth/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with 4 single-target Earth/NE physical attacks, Earth Damage +10% for 5 seconds to party"
 }

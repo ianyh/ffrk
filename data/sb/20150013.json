@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Zealous Fighter Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Zealous Fighter Mode] to the user"
+    }
+  ],
   "id": "20150013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150013/20150013_256.png",
   "character": "Wakka",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Zealous Fighter Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Zealous Fighter Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Zealous Fighter Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [50% Critical (25s)] to all allies, grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Zealous Fighter Mode] to the user"
 }

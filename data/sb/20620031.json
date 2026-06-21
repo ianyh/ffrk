@@ -1,21 +1,4 @@
 {
-  "id": "20620031",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620031/20620031_256.png",
-  "character": "Eiko",
-  "name": "Zenith Homing Blast",
-  "name_jp": "究極ブラストホーミング",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "IX",
-  "elements": [
-    "Wind",
-    "Holy",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Eiko (Wind, Holy)] ",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +50,22 @@
       "name": "Spirit Attack: Eiko II",
       "text": "Single attack (14.52/16.40) capped at 99999, higher multiplier if exploiting weakness"
     }
-  ]
+  ],
+  "id": "20620031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620031/20620031_256.png",
+  "character": "Eiko",
+  "name": "Zenith Homing Blast",
+  "name_jp": "究極ブラストホーミング",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Eiko (Wind, Holy)] "
 }

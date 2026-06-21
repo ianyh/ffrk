@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (? each), grants [Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Awoken Thief], and [Boost Trick] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (? each), grants [Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Awoken Thief], and [Boost Trick] to the user"
+    }
+  ],
   "id": "23140021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140021/23140021_256.png",
   "character": "Thief (I)",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (? each), grants [Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Awoken Thief], and [Boost Trick] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (? each), grants [Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Awoken Thief], and [Boost Trick] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (? each), grants [Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Awoken Thief], and [Boost Trick] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (? each), grants [Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Awoken Thief], and [Boost Trick] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire Ability +30% Boost 3] and Discarded Delinquent +1 to the user if 4+ Type-0 allies are alive, grants [High Quick Cast 1]/[200% ATB 1] to all allies if 0-3/4+ Type-0 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire Ability +30% Boost 3] and Discarded Delinquent +1 to the user if 4+ Type-0 allies are alive, grants [High Quick Cast 1]/[200% ATB 1] to all allies if 0-3/4+ Type-0 allies are alive"
+    }
+  ],
   "id": "22790019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790019/22790019_256.png",
   "character": "Ace",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire Ability +30% Boost 3] and Discarded Delinquent +1 to the user if 4+ Type-0 allies are alive, grants [High Quick Cast 1]/[200% ATB 1] to all allies if 0-3/4+ Type-0 allies are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire Ability +30% Boost 3] and Discarded Delinquent +1 to the user if 4+ Type-0 allies are alive, grants [High Quick Cast 1]/[200% ATB 1] to all allies if 0-3/4+ Type-0 allies are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire Ability +30% Boost 3] and Discarded Delinquent +1 to the user if 4+ Type-0 allies are alive, grants [High Quick Cast 1]/[200% ATB 1] to all allies if 0-3/4+ Type-0 allies are alive"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants [Fire Ability +30% Boost 3] and Discarded Delinquent +1 to the user if 4+ Type-0 allies are alive, grants [High Quick Cast 1]/[200% ATB 1] to all allies if 0-3/4+ Type-0 allies are alive"
 }

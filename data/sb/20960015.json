@@ -1,30 +1,11 @@
 {
-  "id": "20960015",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960015/20960015_256.png",
-  "character": "Y'shtola",
-  "name": "Spiritual Ray",
-  "name_jp": "スピリチュアル・レイ",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "XIV",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "Dark",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50 each) capped at 9999/29999, followed by one single attack (34.60/38.06) capped at 99999 at Spiritual Ray level 0/1, removes Arcane Dyad Empowered: Y'shtola from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/29999, followed by one single attack (34.60/38.06) capped at 99999 at Spiritual Ray level 0/1, removes Arcane Dyad Empowered: Y'shtola from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Spiritual Ray (Engaged)",
       "text": "Grants [Quad Element Mode (Fire, Ice, Lightning, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Y'shtola], [Spiritual Ray Damage Tracker] and [Spiritual Ray Level]"
     }
   ],
@@ -34,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/29999, followed by one single attack (34.60/38.06) capped at 99999 at Spiritual Ray level 0/1, removes Arcane Dyad Empowered: Y'shtola from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Spiritual Ray (Engaged)",
       "text": "Grants [Quad Element Mode (Fire, Ice, Lightning, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Y'shtola], [Spiritual Ray Damage Tracker] and [Spiritual Ray Level]"
     }
-  ]
+  ],
+  "id": "20960015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960015/20960015_256.png",
+  "character": "Y'shtola",
+  "name": "Spiritual Ray (Engaged)",
+  "name_jp": "スピリチュアル・レイ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Quad Element Mode (Fire, Ice, Lightning, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Y'shtola], [Spiritual Ray Damage Tracker] and [Spiritual Ray Level]"
 }

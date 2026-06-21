@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Regen] and [Different DEF and RES +25%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Regen] and [Different DEF and RES +25%] for 25 seconds"
+    }
+  ],
   "id": "20860006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860006/20860006_256.png",
   "character": "Zidane",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [High Regen] and [Different DEF and RES +25%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [High Regen] and [Different DEF and RES +25%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [High Regen] and [Different DEF and RES +25%] for 25 seconds"
-    }
-  ]
+  "effects": "Grants [High Regen] and [Different DEF and RES +25%] for 25 seconds"
 }

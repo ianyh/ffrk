@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [High Quick Cast 1], [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Water High Quick Cycle] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [High Quick Cast 1], [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Water High Quick Cycle] to the user"
+    }
+  ],
   "id": "22460013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460013/22460013_256.png",
   "character": "Onion Knight",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [High Quick Cast 1], [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Water High Quick Cycle] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [High Quick Cast 1], [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Water High Quick Cycle] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [High Quick Cast 1], [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Water High Quick Cycle] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [High Quick Cast 1], [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Water High Quick Cycle] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seventeen single attacks (0.37 each), grants [Haste] and [ATK, DEF, MAG, RES and MND +15%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seventeen single attacks (0.37 each), grants [Haste] and [ATK, DEF, MAG, RES and MND +15%] to all allies for 25 seconds"
+    }
+  ],
   "id": "20140010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140010/20140010_256.png",
   "character": "Tyro",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Seventeen single attacks (0.37 each), grants [Haste] and [ATK, DEF, MAG, RES and MND +15%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seventeen single attacks (0.37 each), grants [Haste] and [ATK, DEF, MAG, RES and MND +15%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seventeen single attacks (0.37 each), grants [Haste] and [ATK, DEF, MAG, RES and MND +15%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Seventeen single attacks (0.37 each), grants [Haste] and [ATK, DEF, MAG, RES and MND +15%] to all allies for 25 seconds"
 }

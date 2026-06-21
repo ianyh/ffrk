@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user"
+    }
+  ],
   "id": "20770027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770027/20770027_256.png",
   "character": "Hope",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user"
 }

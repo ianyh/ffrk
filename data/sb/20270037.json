@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1] to user"
+    }
+  ],
   "id": "20270037",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270037/20270037_256.png",
   "character": "Firion",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1] to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1] to user"
-    }
-  ]
+  "effects": "Grants [100% Critical (25s)], [200% ATB 1], and [Quick Cast 1] to user"
 }

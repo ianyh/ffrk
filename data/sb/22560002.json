@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.47 each), smart ether 1 to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.47 each), smart ether 1 to all allies"
+    }
+  ],
   "id": "22560002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22560002/22560002_256.png",
   "character": "Gaffgarion",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group ranged attacks (1.47 each), smart ether 1 to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.47 each), smart ether 1 to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.47 each), smart ether 1 to all allies"
-    }
-  ]
+  "effects": "Four group ranged attacks (1.47 each), smart ether 1 to all allies"
 }

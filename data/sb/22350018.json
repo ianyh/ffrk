@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Holy/NE magic attacks at Cap Break Level 1, activates Holy Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Bard ability, grants Instant Cast 1 to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Holy/NE magic attacks at Cap Break Level 1, activates Holy Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Bard ability, grants Instant Cast 1 to party (max 1 chase)"
+    }
+  ],
   "id": "22350018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350018/22350018_256.png",
   "character": "Edward",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single-target Holy/NE magic attacks at Cap Break Level 1, activates Holy Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Bard ability, grants Instant Cast 1 to party (max 1 chase)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Holy/NE magic attacks at Cap Break Level 1, activates Holy Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Bard ability, grants Instant Cast 1 to party (max 1 chase)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Holy/NE magic attacks at Cap Break Level 1, activates Holy Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Bard ability, grants Instant Cast 1 to party (max 1 chase)"
-    }
-  ]
+  "effects": "10 single-target Holy/NE magic attacks at Cap Break Level 1, activates Holy Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using a Bard ability, grants Instant Cast 1 to party (max 1 chase)"
 }

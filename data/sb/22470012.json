@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I (Curilla)] to the user, grants [XI Resonance +3% Boost] to all FFXI allies"
+    },
+    {
+      "name": "Awoken Intervention (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II (Curilla)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I (Curilla)] to the user, grants [XI Resonance +3% Boost] to all FFXI allies"
+    },
+    {
+      "name": "Awoken Intervention (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II (Curilla)]"
+    }
+  ],
   "id": "22470012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470012/22470012_256.png",
   "character": "Curilla",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I (Curilla)] to the user, grants [XI Resonance +3% Boost] to all FFXI allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I (Curilla)] to the user, grants [XI Resonance +3% Boost] to all FFXI allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II (Curilla)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I (Curilla)] to the user, grants [XI Resonance +3% Boost] to all FFXI allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II (Curilla)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I (Curilla)] to the user, grants [XI Resonance +3% Boost] to all FFXI allies"
 }

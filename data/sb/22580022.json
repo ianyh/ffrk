@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Instant Cast 2], [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Instant Cast 2], [Instant ATB 1] to the user"
+    }
+  ],
   "id": "22580022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580022/22580022_256.png",
   "character": "Master",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Instant Cast 2], [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Instant Cast 2], [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Instant Cast 2], [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Instant Cast 2], [Instant ATB 1] to the user"
 }

@@ -1,27 +1,11 @@
 {
-  "id": "22310014",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310014/22310014_256.png",
-  "character": "Garland",
-  "name": "Apex Soul of Chaos",
-  "name_jp": "ソウルオブカオス・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "I",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Soul of Chaos level 0/1/2, removes Arcane Dyad Empowered: Garland from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Soul of Chaos level 0/1/2, removes Arcane Dyad Empowered: Garland from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Soul of Chaos (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Garland], [Apex Soul of Chaos Damage Tracker] and [Apex Soul of Chaos Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Soul of Chaos level 0/1/2, removes Arcane Dyad Empowered: Garland from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Soul of Chaos (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Garland], [Apex Soul of Chaos Damage Tracker] and [Apex Soul of Chaos Level]"
     }
-  ]
+  ],
+  "id": "22310014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310014/22310014_256.png",
+  "character": "Garland",
+  "name": "Apex Soul of Chaos (Engaged)",
+  "name_jp": "ソウルオブカオス・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Garland], [Apex Soul of Chaos Damage Tracker] and [Apex Soul of Chaos Level]"
 }

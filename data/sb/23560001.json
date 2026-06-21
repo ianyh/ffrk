@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (?), causes Blind (?%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (?), causes Blind (?%)"
+    }
+  ],
   "id": "23560001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560001/23560001_256.png",
   "character": "Ultros",
@@ -11,17 +23,5 @@
   "type": "?",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single ranged attack (?), causes Blind (?%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (?), causes Blind (?%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (?), causes Blind (?%)"
-    }
-  ]
+  "effects": "One single ranged attack (?), causes Blind (?%)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (39.06) capped at 99999, 44.94 multiplier if exploiting elemental weakness"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (39.06) capped at 99999, 44.94 multiplier if exploiting elemental weakness"
+    }
+  ],
   "id": "23080005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080005/23080005_256.png",
   "character": "Rem",
@@ -14,17 +26,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (39.06) capped at 99999, 44.94 multiplier if exploiting elemental weakness",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (39.06) capped at 99999, 44.94 multiplier if exploiting elemental weakness"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (39.06) capped at 99999, 44.94 multiplier if exploiting elemental weakness"
-    }
-  ]
+  "effects": "One single attack (39.06) capped at 99999, 44.94 multiplier if exploiting elemental weakness"
 }

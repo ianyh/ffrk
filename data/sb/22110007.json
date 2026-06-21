@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged jump attacks (0.87 each), [ATK, DEF and MAG -70%] for 8 seconds, grants [No Air Time 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged jump attacks (0.87 each), [ATK, DEF and MAG -70%] for 8 seconds, grants [No Air Time 3] to the user"
+    }
+  ],
   "id": "22110007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110007/22110007_256.png",
   "character": "Freya",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random ranged jump attacks (0.87 each), [ATK, DEF and MAG -70%] for 8 seconds, grants [No Air Time 3] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random ranged jump attacks (0.87 each), [ATK, DEF and MAG -70%] for 8 seconds, grants [No Air Time 3] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random ranged jump attacks (0.87 each), [ATK, DEF and MAG -70%] for 8 seconds, grants [No Air Time 3] to the user"
-    }
-  ]
+  "effects": "Eight random ranged jump attacks (0.87 each), [ATK, DEF and MAG -70%] for 8 seconds, grants [No Air Time 3] to the user"
 }

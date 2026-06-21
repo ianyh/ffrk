@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.96 each), grants [Haste] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.96 each), grants [Haste] to all allies"
+    }
+  ],
   "id": "20190005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190005/20190005_256.png",
   "character": "Josef",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group attacks (0.96 each), grants [Haste] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (0.96 each), grants [Haste] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (0.96 each), grants [Haste] to all allies"
-    }
-  ]
+  "effects": "Six group attacks (0.96 each), grants [Haste] to all allies"
 }

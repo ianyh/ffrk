@@ -1,17 +1,4 @@
 {
-  "id": "22160019",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160019/22160019_256.png",
-  "character": "Relm",
-  "name": "Zenith Miraculous Potion",
-  "name_jp": "究極ミラクルポーション",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VI",
-  "elements": [],
-  "type": "NAT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "h105 heal at Cap Break Level 1, 100% Raise, Haste, Regenga, Quick Cast 3 & Ultimate Re-Cure to party, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Support Casting Speed x1.1 & chases White Magic/Support abilities with h25 heal to party\nUltimate Dexterity Mode: Dualcast White Magic, Zero Hone Cost to Hero Ability; Starlight+: 1.2s CT; Milky Way+: 2000 heal\nUltimate Vitality Mode: +1500 max HP & Astra to user\nUltimate Re-Cure: Once per battle when HP falls below 20%, grants 3000 HP Stock & Quick Cast 1 to user",
   "description": [
     {
       "name": "Entry",
@@ -39,5 +26,18 @@
       "name": "Milky Way+",
       "text": "Restores 2000 HP, grants [Critical Chance 10%/20%/30%/40%/50% (Milky Way)], grants [Drawing 1/2/3/4/4] to the user if the user has Drawing 0/1/2/3/4"
     }
-  ]
+  ],
+  "id": "22160019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160019/22160019_256.png",
+  "character": "Relm",
+  "name": "Zenith Miraculous Potion",
+  "name_jp": "究極ミラクルポーション",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "h105 heal at Cap Break Level 1, 100% Raise, Haste, Regenga, Quick Cast 3 & Ultimate Re-Cure to party, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Support Casting Speed x1.1 & chases White Magic/Support abilities with h25 heal to party\nUltimate Dexterity Mode: Dualcast White Magic, Zero Hone Cost to Hero Ability; Starlight+: 1.2s CT; Milky Way+: 2000 heal\nUltimate Vitality Mode: +1500 max HP & Astra to user\nUltimate Re-Cure: Once per battle when HP falls below 20%, grants 3000 HP Stock & Quick Cast 1 to user"
 }

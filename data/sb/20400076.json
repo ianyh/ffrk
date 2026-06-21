@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Fire/NE, Water/NE, Earth/NE or Wind/NE physical attacks (0.80 each) capped at 19999 under En-Fire, En-Water, En-Earth or En-Wind, activates V Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Fire/Water/Earth/Wind/NE physical attack (1.96) capped at 99999, multiplier increases with each chase, Quick Spellblade 2 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Fire/NE, Water/NE, Earth/NE or Wind/NE physical attacks (0.80 each) capped at 19999 under En-Fire, En-Water, En-Earth or En-Wind, activates V Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Fire/Water/Earth/Wind/NE physical attack (1.96) capped at 99999, multiplier increases with each chase, Quick Spellblade 2 to user"
+    }
+  ],
   "id": "20400076",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400076/20400076_256.png",
   "character": "Bartz",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single-target Fire/NE, Water/NE, Earth/NE or Wind/NE physical attacks (0.80 each) capped at 19999 under En-Fire, En-Water, En-Earth or En-Wind, activates V Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Fire/Water/Earth/Wind/NE physical attack (1.96) capped at 99999, multiplier increases with each chase, Quick Spellblade 2 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Fire/NE, Water/NE, Earth/NE or Wind/NE physical attacks (0.80 each) capped at 19999 under En-Fire, En-Water, En-Earth or En-Wind, activates V Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Fire/Water/Earth/Wind/NE physical attack (1.96) capped at 99999, multiplier increases with each chase, Quick Spellblade 2 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Fire/NE, Water/NE, Earth/NE or Wind/NE physical attacks (0.80 each) capped at 19999 under En-Fire, En-Water, En-Earth or En-Wind, activates V Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Fire/Water/Earth/Wind/NE physical attack (1.96) capped at 99999, multiplier increases with each chase, Quick Spellblade 2 to user"
-    }
-  ]
+  "effects": "10 single-target Fire/NE, Water/NE, Earth/NE or Wind/NE physical attacks (0.80 each) capped at 19999 under En-Fire, En-Water, En-Earth or En-Wind, activates V Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, chases with single-target Fire/Water/Earth/Wind/NE physical attack (1.96) capped at 99999, multiplier increases with each chase, Quick Spellblade 2 to user"
 }

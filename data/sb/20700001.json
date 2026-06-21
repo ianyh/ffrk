@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.20), causes [Sap] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.20), causes [Sap] (50%)"
+    }
+  ],
   "id": "20700001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700001/20700001_256.png",
   "character": "Vaan",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group ranged attack (3.20), causes [Sap] (50%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (3.20), causes [Sap] (50%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (3.20), causes [Sap] (50%)"
-    }
-  ]
+  "effects": "One group ranged attack (3.20), causes [Sap] (50%)"
 }

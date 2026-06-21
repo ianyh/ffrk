@@ -1,20 +1,4 @@
 {
-  "id": "22460044",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460044/22460044_256.png",
-  "character": "Onion Knight",
-  "name": "Zenith Grandspell Water",
-  "name_jp": "究極超越魔法・水",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "III",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Water)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -50,5 +34,21 @@
       "name": "Onion Wizardry+",
       "text": "Five single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "22460044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460044/22460044_256.png",
+  "character": "Onion Knight",
+  "name": "Zenith Grandspell Water",
+  "name_jp": "究極超越魔法・水",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "III",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Water)] to the user"
 }

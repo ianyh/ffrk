@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Thief], [Damage Cap +10000] and [Thief SB Gauge +25% Boost] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Thief], [Damage Cap +10000] and [Thief SB Gauge +25% Boost] to the user"
+    }
+  ],
   "id": "20860014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860014/20860014_256.png",
   "character": "Zidane",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Thief], [Damage Cap +10000] and [Thief SB Gauge +25% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Thief], [Damage Cap +10000] and [Thief SB Gauge +25% Boost] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Thief], [Damage Cap +10000] and [Thief SB Gauge +25% Boost] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Wind], [Awoken Thief], [Damage Cap +10000] and [Thief SB Gauge +25% Boost] to the user"
 }

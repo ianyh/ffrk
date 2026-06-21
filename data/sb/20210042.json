@@ -1,20 +1,4 @@
 {
-  "id": "20210042",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210042/20210042_256.png",
-  "character": "Celes",
-  "name": "Zenith Shimmering Icerain",
-  "name_jp": "究極氷華儚散",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "VI",
-  "elements": [
-    "Ice",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to party, grants [Attach Ice 3 with Stacking], [Zenith Mode], [Zenith Mode: Celes (Ice)], [Damage Cap +10000], and [Instant Cast 2] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spinning Edge+",
       "text": "Five group attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "20210042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210042/20210042_256.png",
+  "character": "Celes",
+  "name": "Zenith Shimmering Icerain",
+  "name_jp": "究極氷華儚散",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to party, grants [Attach Ice 3 with Stacking], [Zenith Mode], [Zenith Mode: Celes (Ice)], [Damage Cap +10000], and [Instant Cast 2] to the user"
 }

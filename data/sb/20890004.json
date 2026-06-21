@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven group ranged attacks (0.69 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven group ranged attacks (0.69 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20890004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890004/20890004_256.png",
   "character": "Shadow",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Seven group ranged attacks (0.69 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven group ranged attacks (0.69 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven group ranged attacks (0.69 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Seven group ranged attacks (0.69 each), grants [Haste], [Attach Dark] and [Burst Mode] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical +30% Boost (15s)] to party, Instant Cast, grants [Synchro Mode] & [Plaza 99 Daily Life Follow-Up] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical +30% Boost (15s)] to party, Instant Cast, grants [Synchro Mode] & [Plaza 99 Daily Life Follow-Up] to user"
+    }
+  ],
   "id": "23290014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290014/23290014_256.png",
   "character": "Tama",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical +30% Boost (15s)] to party, Instant Cast, grants [Synchro Mode] & [Plaza 99 Daily Life Follow-Up] to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical +30% Boost (15s)] to party, Instant Cast, grants [Synchro Mode] & [Plaza 99 Daily Life Follow-Up] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical +30% Boost (15s)] to party, Instant Cast, grants [Synchro Mode] & [Plaza 99 Daily Life Follow-Up] to user"
-    }
-  ]
+  "effects": "Grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical +30% Boost (15s)] to party, Instant Cast, grants [Synchro Mode] & [Plaza 99 Daily Life Follow-Up] to user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Samurai +30% Boost (15s)], [200% ATB 1] and [Stoneskin: 30%] to the user, damages the user for 99% current HP\n"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Samurai +30% Boost (15s)], [200% ATB 1] and [Stoneskin: 30%] to the user, damages the user for 99% current HP\n"
+    }
+  ],
   "id": "23500027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23500027/23500027_256.png",
   "character": "Lasswell",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Samurai +30% Boost (15s)], [200% ATB 1] and [Stoneskin: 30%] to the user, damages the user for 99% current HP\n",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Samurai +30% Boost (15s)], [200% ATB 1] and [Stoneskin: 30%] to the user, damages the user for 99% current HP\n"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Samurai +30% Boost (15s)], [200% ATB 1] and [Stoneskin: 30%] to the user, damages the user for 99% current HP\n"
-    }
-  ]
+  "effects": "Grants [Samurai +30% Boost (15s)], [200% ATB 1] and [Stoneskin: 30%] to the user, damages the user for 99% current HP\n"
 }

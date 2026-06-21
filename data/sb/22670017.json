@@ -1,28 +1,11 @@
 {
-  "id": "22670017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670017/22670017_256.png",
-  "character": "Cloud of Darkness",
-  "name": "Ultra Particle Beam",
-  "name_jp": "超波動砲",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "III",
-  "elements": [
-    "Dark",
-    "Lightning",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Ultra Particle Beam level 0/1, removes Arcane Dyad Empowered: Cloud of Darkness from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Ultra Particle Beam level 0/1, removes Arcane Dyad Empowered: Cloud of Darkness from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Ultra Particle Beam (Engaged)",
       "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
     }
   ],
@@ -32,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Ultra Particle Beam level 0/1, removes Arcane Dyad Empowered: Cloud of Darkness from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Ultra Particle Beam (Engaged)",
       "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
     }
-  ]
+  ],
+  "id": "22670017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670017/22670017_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Ultra Particle Beam (Engaged)",
+  "name_jp": "超波動砲",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/Holy/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Earth Mode I & Earth Ability Damage +5% to user\nDual Awoken Earth Mode I: Earth Ability Boost, Triplecast Earth & chases 1/2/3/4+ Earth abilities with Casting Speed x1.5/2/2.5/3 and Sorcery Damage +5/10/15/20% to Earth abilities"
+    },
+    {
+      "name": "Awoken The Planet's Rules (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with single-target DEF/RES/MND -50% and grants Earth Ability Damage +30% for 2 turns to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/Holy/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Earth Mode I & Earth Ability Damage +5% to user\nDual Awoken Earth Mode I: Earth Ability Boost, Triplecast Earth & chases 1/2/3/4+ Earth abilities with Casting Speed x1.5/2/2.5/3 and Sorcery Damage +5/10/15/20% to Earth abilities"
+    },
+    {
+      "name": "Awoken The Planet's Rules (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with single-target DEF/RES/MND -50% and grants Earth Ability Damage +30% for 2 turns to party"
+    }
+  ],
   "id": "23280024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280024/23280024_256.png",
   "character": "Enna Kros",
@@ -15,25 +35,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Earth/Holy/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Earth Mode I & Earth Ability Damage +5% to user\nDual Awoken Earth Mode I: Earth Ability Boost, Triplecast Earth & chases 1/2/3/4+ Earth abilities with Casting Speed x1.5/2/2.5/3 and Sorcery Damage +5/10/15/20% to Earth abilities",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/Holy/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Earth Mode I & Earth Ability Damage +5% to user\nDual Awoken Earth Mode I: Earth Ability Boost, Triplecast Earth & chases 1/2/3/4+ Earth abilities with Casting Speed x1.5/2/2.5/3 and Sorcery Damage +5/10/15/20% to Earth abilities"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with single-target DEF/RES/MND -50% and grants Earth Ability Damage +30% for 2 turns to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/Holy/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Earth Mode I & Earth Ability Damage +5% to user\nDual Awoken Earth Mode I: Earth Ability Boost, Triplecast Earth & chases 1/2/3/4+ Earth abilities with Casting Speed x1.5/2/2.5/3 and Sorcery Damage +5/10/15/20% to Earth abilities"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Earth Mode II to user\nDual Awoken Earth Mode II: Earth Ability Boost, Instant Earth & chases an Earth ability with single-target DEF/RES/MND -50% and grants Earth Ability Damage +30% for 2 turns to party"
-    }
-  ]
+  "effects": "7 single-target Earth/Holy/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Dual Awoken Earth Mode I & Earth Ability Damage +5% to user\nDual Awoken Earth Mode I: Earth Ability Boost, Triplecast Earth & chases 1/2/3/4+ Earth abilities with Casting Speed x1.5/2/2.5/3 and Sorcery Damage +5/10/15/20% to Earth abilities"
 }

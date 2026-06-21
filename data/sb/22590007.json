@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quartz Eye Mode (Fire, Ice, Lightning)] and [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quartz Eye Mode (Fire, Ice, Lightning)] and [Instant Cast 2]"
+    }
+  ],
   "id": "22590007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590007/22590007_256.png",
   "character": "Matoya",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Quartz Eye Mode (Fire, Ice, Lightning)] and [Instant Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quartz Eye Mode (Fire, Ice, Lightning)] and [Instant Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quartz Eye Mode (Fire, Ice, Lightning)] and [Instant Cast 2]"
-    }
-  ]
+  "effects": "Grants [Quartz Eye Mode (Fire, Ice, Lightning)] and [Instant Cast 2]"
 }

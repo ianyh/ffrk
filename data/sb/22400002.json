@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.33 each), 1.47 multiplier if the target has [Slow], causes [Slow] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.33 each), 1.47 multiplier if the target has [Slow], causes [Slow] (100%)"
+    }
+  ],
   "id": "22400002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400002/22400002_256.png",
   "character": "Mustadio",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group ranged attacks (1.33 each), 1.47 multiplier if the target has [Slow], causes [Slow] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group ranged attacks (1.33 each), 1.47 multiplier if the target has [Slow], causes [Slow] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group ranged attacks (1.33 each), 1.47 multiplier if the target has [Slow], causes [Slow] (100%)"
-    }
-  ]
+  "effects": "Three group ranged attacks (1.33 each), 1.47 multiplier if the target has [Slow], causes [Slow] (100%)"
 }

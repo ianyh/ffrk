@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Ultra Flash, [Instant ATB 1] to user, +1 LB Gauge\nUltra Flash: After using a Wind ability, grants Quick Cast 3 to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Ultra Flash, [Instant ATB 1] to user, +1 LB Gauge\nUltra Flash: After using a Wind ability, grants Quick Cast 3 to party (max 1 chase)"
+    }
+  ],
   "id": "20830031",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830031/20830031_256.png",
   "character": "Cid (VII)",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants Ultra Flash, [Instant ATB 1] to user, +1 LB Gauge\nUltra Flash: After using a Wind ability, grants Quick Cast 3 to party (max 1 chase)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants Ultra Flash, [Instant ATB 1] to user, +1 LB Gauge\nUltra Flash: After using a Wind ability, grants Quick Cast 3 to party (max 1 chase)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants Ultra Flash, [Instant ATB 1] to user, +1 LB Gauge\nUltra Flash: After using a Wind ability, grants Quick Cast 3 to party (max 1 chase)"
-    }
-  ]
+  "effects": "Grants Ultra Flash, [Instant ATB 1] to user, +1 LB Gauge\nUltra Flash: After using a Wind ability, grants Quick Cast 3 to party (max 1 chase)"
 }

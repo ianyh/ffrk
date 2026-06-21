@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [No Air Time] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [No Air Time] to the user"
+    }
+  ],
   "id": "20290012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290012/20290012_256.png",
   "character": "Luneth",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [No Air Time] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [No Air Time] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [No Air Time] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [No Air Time] to the user"
 }

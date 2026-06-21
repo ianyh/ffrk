@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.63 each), [ATK, MAG and MND +30%] to all allies for 25 seconds, grants [Mog Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.63 each), [ATK, MAG and MND +30%] to all allies for 25 seconds, grants [Mog Follow-Up] to the user"
+    }
+  ],
   "id": "23060036",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060036/23060036_256.png",
   "character": "Dr. Mog",
@@ -17,17 +29,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.63 each), [ATK, MAG and MND +30%] to all allies for 25 seconds, grants [Mog Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.63 each), [ATK, MAG and MND +30%] to all allies for 25 seconds, grants [Mog Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.63 each), [ATK, MAG and MND +30%] to all allies for 25 seconds, grants [Mog Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.63 each), [ATK, MAG and MND +30%] to all allies for 25 seconds, grants [Mog Follow-Up] to the user"
 }

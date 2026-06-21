@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and DEF +30%] for 25 seconds, grants [Critical Chance 50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and DEF +30%] for 25 seconds, grants [Critical Chance 50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22250005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250005/22250005_256.png",
   "character": "Cait Sith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK and DEF +30%] for 25 seconds, grants [Critical Chance 50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK and DEF +30%] for 25 seconds, grants [Critical Chance 50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK and DEF +30%] for 25 seconds, grants [Critical Chance 50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "[ATK and DEF +30%] for 25 seconds, grants [Critical Chance 50%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Magika Mode I: Elarra] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Magika Album (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Magika Mode II: Elarra]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Magika Mode I: Elarra] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Magika Album (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Magika Mode II: Elarra]"
+    }
+  ],
   "id": "23210024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23210024/23210024_256.png",
   "character": "Elarra",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Magika Mode I: Elarra] and [White Magic Healing Resonance Boost +5%] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Magika Mode I: Elarra] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Magika Mode II: Elarra]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Magika Mode I: Elarra] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Magika Mode II: Elarra]"
-    }
-  ]
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Magika Mode I: Elarra] and [White Magic Healing Resonance Boost +5%] to the user"
 }

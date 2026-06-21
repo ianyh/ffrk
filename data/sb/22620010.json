@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 99, field +20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 99, field +20%)"
+    }
+  ],
   "id": "22620010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620010/22620010_256.png",
   "character": "Vayne",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Dark Chain (max 99, field +20%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dark Chain (max 99, field +20%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dark Chain (max 99, field +20%)"
-    }
-  ]
+  "effects": "Activates Dark Chain (max 99, field +20%)"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Farseer Mode I: Serah - Ice] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Eternity Unpromise (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Farseer Mode II: Serah - Ice], removes [Dual Awoken Farseer Mode I: Serah - Ice]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Farseer Mode I: Serah - Ice] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Eternity Unpromise (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Farseer Mode II: Serah - Ice], removes [Dual Awoken Farseer Mode I: Serah - Ice]"
+    }
+  ],
   "id": "22260024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260024/22260024_256.png",
   "character": "Serah",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Farseer Mode I: Serah - Ice] and [Ice Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Farseer Mode I: Serah - Ice] and [Ice Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Farseer Mode II: Serah - Ice], removes [Dual Awoken Farseer Mode I: Serah - Ice]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Farseer Mode I: Serah - Ice] and [Ice Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Farseer Mode II: Serah - Ice], removes [Dual Awoken Farseer Mode I: Serah - Ice]"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Farseer Mode I: Serah - Ice] and [Ice Resonance +5% Boost] to the user"
 }

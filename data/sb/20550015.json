@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)] to all allies, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Sabin)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Raging Fist (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Sabin)] to the user, removes [Dual Awoken Fire Mode I (Sabin)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)] to all allies, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Sabin)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Raging Fist (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Sabin)] to the user, removes [Dual Awoken Fire Mode I (Sabin)] from the user"
+    }
+  ],
   "id": "20550015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550015/20550015_256.png",
   "character": "Sabin",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)] to all allies, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Sabin)] and [Fire Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)] to all allies, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Sabin)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Sabin)] to the user, removes [Dual Awoken Fire Mode I (Sabin)] from the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)] to all allies, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Sabin)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Sabin)] to the user, removes [Dual Awoken Fire Mode I (Sabin)] from the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)] to all allies, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Sabin)] and [Fire Resonance +5% Boost] to the user"
 }

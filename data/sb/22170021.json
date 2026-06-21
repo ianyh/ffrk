@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)] to the user, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Vincent)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Cerberus Shell (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Vincent)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)] to the user, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Vincent)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Cerberus Shell (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Vincent)]"
+    }
+  ],
   "id": "22170021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170021/22170021_256.png",
   "character": "Vincent",
@@ -14,25 +34,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)] to the user, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Vincent)] and [Fire Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)] to the user, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Vincent)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Vincent)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)] to the user, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Vincent)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Vincent)]"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)] to the user, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Vincent)] and [Fire Resonance +5% Boost] to the user"
 }

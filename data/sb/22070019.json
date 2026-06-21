@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Poison with Stacking], [Awoken Poison], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Poison 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Poison with Stacking], [Awoken Poison], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Poison 3] to the user"
+    }
+  ],
   "id": "22070019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070019/22070019_256.png",
   "character": "Kefka",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Poison with Stacking], [Awoken Poison], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Poison 3] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Poison with Stacking], [Awoken Poison], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Poison 3] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Poison with Stacking], [Awoken Poison], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Poison 3] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Poison with Stacking], [Awoken Poison], [Damage Cap +10000], [Instant Cast 3] and [Dualcast Poison 3] to the user"
 }

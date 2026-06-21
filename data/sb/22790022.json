@@ -1,20 +1,4 @@
 {
-  "id": "22790022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790022/22790022_256.png",
-  "character": "Ace",
-  "name": "Zenith Jackpot Triad",
-  "name_jp": "究極トライレーザー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Ace (Fire)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -54,5 +38,21 @@
       "name": "Firaga RF+",
       "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "22790022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790022/22790022_256.png",
+  "character": "Ace",
+  "name": "Zenith Jackpot Triad",
+  "name_jp": "究極トライレーザー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Ace (Fire)] and [Damage Cap +10000] to the user"
 }

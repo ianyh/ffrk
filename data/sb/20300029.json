@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Awoken Comet], [Damage Cap +10000], [Ice, Earth Ability +30% Boost (15s)] and [Switch Draw Mode II (Ice, Earth)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Awoken Comet], [Damage Cap +10000], [Ice, Earth Ability +30% Boost (15s)] and [Switch Draw Mode II (Ice, Earth)] to the user"
+    }
+  ],
   "id": "20300029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300029/20300029_256.png",
   "character": "Rinoa",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Awoken Comet], [Damage Cap +10000], [Ice, Earth Ability +30% Boost (15s)] and [Switch Draw Mode II (Ice, Earth)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Awoken Comet], [Damage Cap +10000], [Ice, Earth Ability +30% Boost (15s)] and [Switch Draw Mode II (Ice, Earth)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Awoken Comet], [Damage Cap +10000], [Ice, Earth Ability +30% Boost (15s)] and [Switch Draw Mode II (Ice, Earth)] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Awoken Comet], [Damage Cap +10000], [Ice, Earth Ability +30% Boost (15s)] and [Switch Draw Mode II (Ice, Earth)] to the user"
 }

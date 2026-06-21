@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500]"
+    }
+  ],
   "id": "23090011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090011/23090011_256.png",
   "character": "Machina",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Soul Break Gauge +500]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Break Gauge +500]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Break Gauge +500]"
-    }
-  ]
+  "effects": "Grants [Soul Break Gauge +500]"
 }

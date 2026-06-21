@@ -1,17 +1,4 @@
 {
-  "id": "23210026",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23210026/23210026_256.png",
-  "character": "Elarra",
-  "name": "Zenith Magika Orare",
-  "name_jp": "究極マギカ・オーラーレ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Core",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Elarra] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Elarra] to the user",
   "description": [
     {
       "name": "Entry",
@@ -75,5 +62,18 @@
       "name": "Spirit Attack: Elarra",
       "text": "Restores HP (25) to all allies"
     }
-  ]
+  ],
+  "id": "23210026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23210026/23210026_256.png",
+  "character": "Elarra",
+  "name": "Zenith Magika Orare",
+  "name_jp": "究極マギカ・オーラーレ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Elarra] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Elarra] to the user"
 }

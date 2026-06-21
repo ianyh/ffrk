@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.83 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user"
+    }
+  ],
   "id": "23270002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270002/23270002_256.png",
   "character": "Sice",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (0.83 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.83 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.83 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight single attacks (0.83 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Doom: 30] to all allies, grants [Burst Mode] to the user"
 }

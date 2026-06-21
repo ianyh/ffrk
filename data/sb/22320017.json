@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Forbidden Chakra & Crystal Mode to user\nCrystal Mode: Monk Ability Boost, Dualcast Monk, Zero Hone Cost to Monk Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Monk Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Forbidden Chakra: Critical Chance +100% for 3 turns/15 seconds to user/party with at least 0/4 XIV members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Forbidden Chakra & Crystal Mode to user\nCrystal Mode: Monk Ability Boost, Dualcast Monk, Zero Hone Cost to Monk Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Monk Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Forbidden Chakra: Critical Chance +100% for 3 turns/15 seconds to user/party with at least 0/4 XIV members"
+    }
+  ],
   "id": "22320017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22320017/22320017_256.png",
   "character": "Yda",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Forbidden Chakra & Crystal Mode to user\nCrystal Mode: Monk Ability Boost, Dualcast Monk, Zero Hone Cost to Monk Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Monk Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Forbidden Chakra: Critical Chance +100% for 3 turns/15 seconds to user/party with at least 0/4 XIV members",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Forbidden Chakra & Crystal Mode to user\nCrystal Mode: Monk Ability Boost, Dualcast Monk, Zero Hone Cost to Monk Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Monk Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Forbidden Chakra: Critical Chance +100% for 3 turns/15 seconds to user/party with at least 0/4 XIV members"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Forbidden Chakra & Crystal Mode to user\nCrystal Mode: Monk Ability Boost, Dualcast Monk, Zero Hone Cost to Monk Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Monk Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Forbidden Chakra: Critical Chance +100% for 3 turns/15 seconds to user/party with at least 0/4 XIV members"
-    }
-  ]
+  "effects": "7 single-target Fire/NE physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1, Radiant Forbidden Chakra & Crystal Mode to user\nCrystal Mode: Monk Ability Boost, Dualcast Monk, Zero Hone Cost to Monk Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Monk Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Forbidden Chakra: Critical Chance +100% for 3 turns/15 seconds to user/party with at least 0/4 XIV members"
 }

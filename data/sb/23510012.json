@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.50 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF14 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF14 allies are alive, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Scion Red Mage Mode I (Alisaie)], [Wind/Lightning Resonance +5% Boost] and [Dual Black Mana Ability Counter] to the user"
+    },
+    {
+      "name": "Awoken Vermage (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Scion Red Mage Mode II (Alisaie)], removes [Dual Awoken Scion Red Mage Mode I (Alisaie)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.50 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF14 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF14 allies are alive, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Scion Red Mage Mode I (Alisaie)], [Wind/Lightning Resonance +5% Boost] and [Dual Black Mana Ability Counter] to the user"
+    },
+    {
+      "name": "Awoken Vermage (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Scion Red Mage Mode II (Alisaie)], removes [Dual Awoken Scion Red Mage Mode I (Alisaie)]"
+    }
+  ],
   "id": "23510012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510012/23510012_256.png",
   "character": "Alisaie",
@@ -15,25 +35,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.50 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF14 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF14 allies are alive, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Scion Red Mage Mode I (Alisaie)], [Wind/Lightning Resonance +5% Boost] and [Dual Black Mana Ability Counter] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.50 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF14 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF14 allies are alive, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Scion Red Mage Mode I (Alisaie)], [Wind/Lightning Resonance +5% Boost] and [Dual Black Mana Ability Counter] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Scion Red Mage Mode II (Alisaie)], removes [Dual Awoken Scion Red Mage Mode I (Alisaie)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.50 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF14 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF14 allies are alive, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Scion Red Mage Mode I (Alisaie)], [Wind/Lightning Resonance +5% Boost] and [Dual Black Mana Ability Counter] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Scion Red Mage Mode II (Alisaie)], removes [Dual Awoken Scion Red Mage Mode I (Alisaie)]"
-    }
-  ]
+  "effects": "Seven single attacks (3.50 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF14 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF14 allies are alive, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Scion Red Mage Mode I (Alisaie)], [Wind/Lightning Resonance +5% Boost] and [Dual Black Mana Ability Counter] to the user"
 }

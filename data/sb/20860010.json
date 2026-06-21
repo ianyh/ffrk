@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.72 each), causes [Imperil Wind 20%] for 25 seconds, grants [Master Thief EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.72 each), causes [Imperil Wind 20%] for 25 seconds, grants [Master Thief EX Mode] to the user"
+    }
+  ],
   "id": "20860010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860010/20860010_256.png",
   "character": "Zidane",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Ten random attacks (0.72 each), causes [Imperil Wind 20%] for 25 seconds, grants [Master Thief EX Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (0.72 each), causes [Imperil Wind 20%] for 25 seconds, grants [Master Thief EX Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (0.72 each), causes [Imperil Wind 20%] for 25 seconds, grants [Master Thief EX Mode] to the user"
-    }
-  ]
+  "effects": "Ten random attacks (0.72 each), causes [Imperil Wind 20%] for 25 seconds, grants [Master Thief EX Mode] to the user"
 }

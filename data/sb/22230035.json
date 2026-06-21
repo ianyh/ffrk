@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Sorcery Damage +5%] & [Quick Cast 2], grants [Quick ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Sorcery Damage +5%] & [Quick Cast 2], grants [Quick ATB 1] to user"
+    }
+  ],
   "id": "22230035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230035/22230035_256.png",
   "character": "Desch",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [Sorcery Damage +5%] & [Quick Cast 2], grants [Quick ATB 1] to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Sorcery Damage +5%] & [Quick Cast 2], grants [Quick ATB 1] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Sorcery Damage +5%] & [Quick Cast 2], grants [Quick ATB 1] to user"
-    }
-  ]
+  "effects": "Grants [Sorcery Damage +5%] & [Quick Cast 2], grants [Quick ATB 1] to user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Doom: 60] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Doom: 60] (100%)"
+    }
+  ],
   "id": "20720001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720001/20720001_256.png",
   "character": "Strago",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [Doom: 60] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Doom: 60] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Doom: 60] (100%)"
-    }
-  ]
+  "effects": "Causes [Doom: 60] (100%)"
 }

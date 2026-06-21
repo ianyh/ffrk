@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single hybrid attacks (0.95 or 2.13 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single hybrid attacks (0.95 or 2.13 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22930001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930001/22930001_256.png",
   "character": "Gogo (VI)",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single hybrid attacks (0.95 or 2.13 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single hybrid attacks (0.95 or 2.13 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single hybrid attacks (0.95 or 2.13 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight single hybrid attacks (0.95 or 2.13 each), [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

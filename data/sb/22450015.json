@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Final Farseer Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Break Frost (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Final Farseer Mode II (Noel)], removes [Dual Awoken Final Farseer Mode I (Noel)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Final Farseer Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Break Frost (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Final Farseer Mode II (Noel)], removes [Dual Awoken Final Farseer Mode I (Noel)]"
+    }
+  ],
   "id": "22450015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450015/22450015_256.png",
   "character": "Noel",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Final Farseer Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Final Farseer Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Final Farseer Mode II (Noel)], removes [Dual Awoken Final Farseer Mode I (Noel)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Final Farseer Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Final Farseer Mode II (Noel)], removes [Dual Awoken Final Farseer Mode I (Noel)]"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Final Farseer Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user"
 }

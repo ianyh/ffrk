@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode III (Fire, Lightning, Poison)], [Synchro Mode], [Damage Cap +10000] and [Bravo Shot Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode III (Fire, Lightning, Poison)], [Synchro Mode], [Damage Cap +10000] and [Bravo Shot Follow-Up] to the user"
+    }
+  ],
   "id": "20530015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530015/20530015_256.png",
   "character": "Edgar",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode III (Fire, Lightning, Poison)], [Synchro Mode], [Damage Cap +10000] and [Bravo Shot Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode III (Fire, Lightning, Poison)], [Synchro Mode], [Damage Cap +10000] and [Bravo Shot Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode III (Fire, Lightning, Poison)], [Synchro Mode], [Damage Cap +10000] and [Bravo Shot Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode III (Fire, Lightning, Poison)], [Synchro Mode], [Damage Cap +10000] and [Bravo Shot Follow-Up] to the user"
 }

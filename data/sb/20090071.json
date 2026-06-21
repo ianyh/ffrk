@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants Lv.2 En-Water, Lv.2 Earth or Lv.2 En-Holy Stack, Cap Break Level 1, Water/Earth/Holy Damage +30%, Quick Water/Earth/Holy & Ultimate Mode to user\nUltimate Spirit Mode: En-Water/Earth/Holy Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Water/Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Law of the Eidolons+ II: 1.65s CT, 6 hits; Summoner's Band+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants Lv.2 En-Water, Lv.2 Earth or Lv.2 En-Holy Stack, Cap Break Level 1, Water/Earth/Holy Damage +30%, Quick Water/Earth/Holy & Ultimate Mode to user\nUltimate Spirit Mode: En-Water/Earth/Holy Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Water/Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Law of the Eidolons+ II: 1.65s CT, 6 hits; Summoner's Band+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
   "id": "20090071",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090071/20090071_256.png",
   "character": "Rydia",
@@ -16,17 +28,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks at Cap Break Level 1, grants Lv.2 En-Water, Lv.2 Earth or Lv.2 En-Holy Stack, Cap Break Level 1, Water/Earth/Holy Damage +30%, Quick Water/Earth/Holy & Ultimate Mode to user\nUltimate Spirit Mode: En-Water/Earth/Holy Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Water/Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Law of the Eidolons+ II: 1.65s CT, 6 hits; Summoner's Band+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks at Cap Break Level 1, grants Lv.2 En-Water, Lv.2 Earth or Lv.2 En-Holy Stack, Cap Break Level 1, Water/Earth/Holy Damage +30%, Quick Water/Earth/Holy & Ultimate Mode to user\nUltimate Spirit Mode: En-Water/Earth/Holy Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Water/Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Law of the Eidolons+ II: 1.65s CT, 6 hits; Summoner's Band+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks at Cap Break Level 1, grants Lv.2 En-Water, Lv.2 Earth or Lv.2 En-Holy Stack, Cap Break Level 1, Water/Earth/Holy Damage +30%, Quick Water/Earth/Holy & Ultimate Mode to user\nUltimate Spirit Mode: En-Water/Earth/Holy Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Water/Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Law of the Eidolons+ II: 1.65s CT, 6 hits; Summoner's Band+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ]
+  "effects": "Seven single attacks at Cap Break Level 1, grants Lv.2 En-Water, Lv.2 Earth or Lv.2 En-Holy Stack, Cap Break Level 1, Water/Earth/Holy Damage +30%, Quick Water/Earth/Holy & Ultimate Mode to user\nUltimate Spirit Mode: En-Water/Earth/Holy Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Water/Earth/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Law of the Eidolons+ II: 1.65s CT, 6 hits; Summoner's Band+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

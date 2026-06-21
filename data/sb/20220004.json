@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (2.00 each), causes [Stop] (28%) and [Stun] (28%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (2.00 each), causes [Stop] (28%) and [Stun] (28%)"
+    }
+  ],
   "id": "20220004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220004/20220004_256.png",
   "character": "Cyan",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group attacks (2.00 each), causes [Stop] (28%) and [Stun] (28%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (2.00 each), causes [Stop] (28%) and [Stun] (28%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (2.00 each), causes [Stop] (28%) and [Stun] (28%)"
-    }
-  ]
+  "effects": "Three group attacks (2.00 each), causes [Stop] (28%) and [Stun] (28%)"
 }

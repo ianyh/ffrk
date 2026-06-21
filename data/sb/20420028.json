@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +30%, RES +25% (25s)] to all allies, [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc v2)] and [Holy/Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Basilica Basiliscus (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc v2)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +30%, RES +25% (25s)] to all allies, [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc v2)] and [Holy/Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Basilica Basiliscus (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc v2)]"
+    }
+  ],
   "id": "20420028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420028/20420028_256.png",
   "character": "Arc",
@@ -15,25 +35,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +30%, RES +25% (25s)] to all allies, [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc v2)] and [Holy/Water Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +30%, RES +25% (25s)] to all allies, [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc v2)] and [Holy/Water Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc v2)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +30%, RES +25% (25s)] to all allies, [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc v2)] and [Holy/Water Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc v2)]"
-    }
-  ]
+  "effects": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +30%, RES +25% (25s)] to all allies, [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc v2)] and [Holy/Water Resonance +5% Boost] to the user"
 }

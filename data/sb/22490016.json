@@ -1,28 +1,11 @@
 {
-  "id": "22490016",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490016/22490016_256.png",
-  "character": "Leo",
-  "name": "Apex Shock",
-  "name_jp": "ショック・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VI",
-  "elements": [
-    "Earth",
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Shock level 0/1/2, removes Arcane Dyad Empowered: Leo from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Shock level 0/1/2, removes Arcane Dyad Empowered: Leo from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Shock (Engaged)",
       "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Leo], [Apex Shock Damage Tracker] and [Apex Shock Level]"
     }
   ],
@@ -32,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Shock level 0/1/2, removes Arcane Dyad Empowered: Leo from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Shock (Engaged)",
       "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Leo], [Apex Shock Damage Tracker] and [Apex Shock Level]"
     }
-  ]
+  ],
+  "id": "22490016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490016/22490016_256.png",
+  "character": "Leo",
+  "name": "Apex Shock (Engaged)",
+  "name_jp": "ショック・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Leo], [Apex Shock Damage Tracker] and [Apex Shock Level]"
 }

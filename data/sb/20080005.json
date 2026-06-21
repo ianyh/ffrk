@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.72 each), causes [Paralyze] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.72 each), causes [Paralyze] (100%)"
+    }
+  ],
   "id": "20080005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080005/20080005_256.png",
   "character": "Kain",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Three single attacks (1.72 each), causes [Paralyze] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (1.72 each), causes [Paralyze] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (1.72 each), causes [Paralyze] (100%)"
-    }
-  ]
+  "effects": "Three single attacks (1.72 each), causes [Paralyze] (100%)"
 }

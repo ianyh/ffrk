@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "War-Awoken Final Duty (Weapon Skill)",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "War-Awoken Final Duty (Weapon Skill)",
+      "text": ""
+    }
+  ],
   "id": "23460026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460026/23460026_256.png",
   "character": "Lunafreya",
@@ -11,25 +31,5 @@
   "type": "",
   "target": "",
   "lensable": false,
-  "effects": "",
-  "description": [
-    {
-      "name": "Entry",
-      "text": ""
-    },
-    {
-      "name": "Weapon Skill",
-      "text": ""
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": ""
-    },
-    {
-      "name": "Weapon Skill",
-      "text": ""
-    }
-  ]
+  "effects": ""
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick ATB 1] to Warrior I allies, grants [Master Mode], [Instant ATB 1], & Starry Ring of Trust to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Ring of Trust: [Damage +25%] or [Damage +5% & 50 SB Charge] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeProtect for 5 seconds & Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE ranged hybrid attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Job Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick ATB 1] to Warrior I allies, grants [Master Mode], [Instant ATB 1], & Starry Ring of Trust to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Ring of Trust: [Damage +25%] or [Damage +5% & 50 SB Charge] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeProtect for 5 seconds & Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE ranged hybrid attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Job Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
+    }
+  ],
   "id": "20280022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280022/20280022_256.png",
   "character": "Gordon",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Quick ATB 1] to Warrior I allies, grants [Master Mode], [Instant ATB 1], & Starry Ring of Trust to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Ring of Trust: [Damage +25%] or [Damage +5% & 50 SB Charge] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeProtect for 5 seconds & Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE ranged hybrid attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Job Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quick ATB 1] to Warrior I allies, grants [Master Mode], [Instant ATB 1], & Starry Ring of Trust to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Ring of Trust: [Damage +25%] or [Damage +5% & 50 SB Charge] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeProtect for 5 seconds & Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE ranged hybrid attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Job Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quick ATB 1] to Warrior I allies, grants [Master Mode], [Instant ATB 1], & Starry Ring of Trust to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Ring of Trust: [Damage +25%] or [Damage +5% & 50 SB Charge] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeProtect for 5 seconds & Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE ranged hybrid attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Job Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
-    }
-  ]
+  "effects": "Grants [Quick ATB 1] to Warrior I allies, grants [Master Mode], [Instant ATB 1], & Starry Ring of Trust to user\nMaster Mode: Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Ring of Trust: [Damage +25%] or [Damage +5% & 50 SB Charge] to party if user has/does not have Job Synergy\nInterval Chase: [Single-target minor DeProtect for 5 seconds & Damage +30/35/40/45/50% to party] or [10 single-target Prismatic/NE ranged hybrid attacks, 10% Stoneskin & Damage +10/15/20/25/30% to party] after 1/2/3/4/5 chases if user has/does not have Job Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE ranged hybrid attack at True Cap Break Level 1, Weakness Damage +30% for 1 turn to party, removes Master Mode"
 }

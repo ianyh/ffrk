@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999 followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: Level 1/2/4/5 with at least 1/2/3/4 party members with Attach Element"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999 followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: Level 1/2/4/5 with at least 1/2/3/4 party members with Attach Element"
+    }
+  ],
   "id": "23060149",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060149/23060149_256.png",
   "character": "Dr. Mog",
@@ -22,17 +34,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999 followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: Level 1/2/4/5 with at least 1/2/3/4 party members with Attach Element",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999 followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: Level 1/2/4/5 with at least 1/2/3/4 party members with Attach Element"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999 followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: Level 1/2/4/5 with at least 1/2/3/4 party members with Attach Element"
-    }
-  ]
+  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999 followed by three single piercing attacks (? each) capped at 99999. Multiplier/cap requirements: Level 1/2/4/5 with at least 1/2/3/4 party members with Attach Element"
 }

@@ -1,21 +1,4 @@
 {
-  "id": "23320033",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320033/23320033_256.png",
-  "character": "Wedge",
-  "name": "Zenith Smoke Flurry",
-  "name_jp": "究極れんぞくけむりだま",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "Core",
-  "elements": [
-    "Wind",
-    "Poison",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 or 457.50 each) capped at 19,999 based on ATK and MAG. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Wedge (Wind/Poison)] to user. Grants [200% ATB 1]. Grants [Attach Wind 3 with Stacking]/[Attach Poison 3 with Stacking] based on if entry damage was Wind/Poison.",
   "description": [
     {
       "name": "Entry",
@@ -83,5 +66,22 @@
       "name": "Spirit Attack: Wedge II",
       "text": "Grants [200% ATB 1], [Instant Cast 1], [Wind, Poison Ability +30% Boost 1]."
     }
-  ]
+  ],
+  "id": "23320033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320033/23320033_256.png",
+  "character": "Wedge",
+  "name": "Zenith Smoke Flurry",
+  "name_jp": "究極れんぞくけむりだま",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "Core",
+  "elements": [
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 or 457.50 each) capped at 19,999 based on ATK and MAG. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Wedge (Wind/Poison)] to user. Grants [200% ATB 1]. Grants [Attach Wind 3 with Stacking]/[Attach Poison 3 with Stacking] based on if entry damage was Wind/Poison."
 }

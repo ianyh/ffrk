@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Lightning/Wind/NE physical attacks, Accel Mode & Quick Cast & Instant ATB 1 to user\nAccel Mode: After using Support/Celerity/Dancer abilities, chases with minor Prismatic Imperil for 5 seconds to all targets & grants 10% Damage Reduction Barrier 1 to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Lightning/Wind/NE physical attacks, Accel Mode & Quick Cast & Instant ATB 1 to user\nAccel Mode: After using Support/Celerity/Dancer abilities, chases with minor Prismatic Imperil for 5 seconds to all targets & grants 10% Damage Reduction Barrier 1 to party"
+    }
+  ],
   "id": "23350013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23350013/23350013_256.png",
   "character": "Lilisette",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Lightning/Wind/NE physical attacks, Accel Mode & Quick Cast & Instant ATB 1 to user\nAccel Mode: After using Support/Celerity/Dancer abilities, chases with minor Prismatic Imperil for 5 seconds to all targets & grants 10% Damage Reduction Barrier 1 to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Lightning/Wind/NE physical attacks, Accel Mode & Quick Cast & Instant ATB 1 to user\nAccel Mode: After using Support/Celerity/Dancer abilities, chases with minor Prismatic Imperil for 5 seconds to all targets & grants 10% Damage Reduction Barrier 1 to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Lightning/Wind/NE physical attacks, Accel Mode & Quick Cast & Instant ATB 1 to user\nAccel Mode: After using Support/Celerity/Dancer abilities, chases with minor Prismatic Imperil for 5 seconds to all targets & grants 10% Damage Reduction Barrier 1 to party"
-    }
-  ]
+  "effects": "5 single-target Lightning/Wind/NE physical attacks, Accel Mode & Quick Cast & Instant ATB 1 to user\nAccel Mode: After using Support/Celerity/Dancer abilities, chases with minor Prismatic Imperil for 5 seconds to all targets & grants 10% Damage Reduction Barrier 1 to party"
 }

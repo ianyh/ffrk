@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Gladiolus)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Tempest (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Gladiolus)], removes [Dual Awoken Earth Mode I (Gladiolus)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Gladiolus)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Tempest (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Gladiolus)], removes [Dual Awoken Earth Mode I (Gladiolus)]"
+    }
+  ],
   "id": "22900015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900015/22900015_256.png",
   "character": "Gladiolus",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Gladiolus)] and [Earth Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Gladiolus)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Gladiolus)], removes [Dual Awoken Earth Mode I (Gladiolus)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Gladiolus)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Gladiolus)], removes [Dual Awoken Earth Mode I (Gladiolus)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Gladiolus)] and [Earth Resonance +5% Boost] to the user"
 }

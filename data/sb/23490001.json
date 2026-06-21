@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quick Cast], [Twin Element Mode III (Fire, Earth)] and [Vagrant Knight Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quick Cast], [Twin Element Mode III (Fire, Earth)] and [Vagrant Knight Mode] to the user"
+    }
+  ],
   "id": "23490001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490001/23490001_256.png",
   "character": "Rain",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quick Cast], [Twin Element Mode III (Fire, Earth)] and [Vagrant Knight Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quick Cast], [Twin Element Mode III (Fire, Earth)] and [Vagrant Knight Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quick Cast], [Twin Element Mode III (Fire, Earth)] and [Vagrant Knight Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Quick Cast], [Twin Element Mode III (Fire, Earth)] and [Vagrant Knight Mode] to the user"
 }

@@ -1,22 +1,4 @@
 {
-  "id": "22580019",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580019/22580019_256.png",
-  "character": "Master",
-  "name": "Zenith Fighting Frenzy",
-  "name_jp": "究極闘魂乱舞",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "I",
-  "elements": [
-    "Earth",
-    "Fire",
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] based on if entry damage was Earth/Fire/Lightning damage, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Master (Earth, Fire, Lightning)]",
   "description": [
     {
       "name": "Entry",
@@ -68,5 +50,23 @@
       "name": "Spirit Attack: Master (Fire, Lightning, Earth)",
       "text": "Grants [Instant Cast 3], [Deadly Strikes +20% 3], and [Damage Cap +10000 3] to the user if 4+ Monk allies are alive, grants [Instant Cast 3] and [Deadly Strikes +20% 3] to the user if 0-3 Monk allies are alive"
     }
-  ]
+  ],
+  "id": "22580019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580019/22580019_256.png",
+  "character": "Master",
+  "name": "Zenith Fighting Frenzy",
+  "name_jp": "究極闘魂乱舞",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "I",
+  "elements": [
+    "Earth",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] based on if entry damage was Earth/Fire/Lightning damage, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Master (Earth, Fire, Lightning)]"
 }

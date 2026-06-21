@@ -1,17 +1,4 @@
 {
-  "id": "22290014",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290014/22290014_256.png",
-  "character": "Echo",
-  "name": "Zenith Voice of Light",
-  "name_jp": "究極光の声",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "I",
-  "elements": [],
-  "type": "NAT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Grants [HP Stock (6000)], [High Quick Cast 3], [Buff Prismatic 30% (15s)] and [Natural Cure: Echo] to all allies, Grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Echo] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +54,18 @@
       "name": "Spirit Attack: Echo",
       "text": "Restores HP (25) to all allies"
     }
-  ]
+  ],
+  "id": "22290014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290014/22290014_256.png",
+  "character": "Echo",
+  "name": "Zenith Voice of Light",
+  "name_jp": "究極光の声",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (6000)], [High Quick Cast 3], [Buff Prismatic 30% (15s)] and [Natural Cure: Echo] to all allies, Grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Echo] to the user"
 }

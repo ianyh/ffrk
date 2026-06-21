@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.00)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.00)"
+    }
+  ],
   "id": "22660003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22660003/22660003_256.png",
   "character": "Reynn",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (2.00)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (2.00)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (2.00)"
-    }
-  ]
+  "effects": "One single attack (2.00)"
 }

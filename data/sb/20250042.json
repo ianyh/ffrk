@@ -1,20 +1,4 @@
 {
-  "id": "20250042",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250042/20250042_256.png",
-  "character": "Sephiroth",
-  "name": "Zenith Flame of Nibelheim",
-  "name_jp": "究極ニブルヘイムの炎",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "VII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [100% Critical (25s)], [Attach Fire 3 with Stacking], [Zenith Mode], and [Zenith Mode: Sephiroth (Fire)]",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Spirit Attack: Sephiroth (Fire)",
       "text": "Grants [Buff Fire 20% (15s)] and [Fire Ability Quick Cast 3] to the user"
     }
-  ]
+  ],
+  "id": "20250042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250042/20250042_256.png",
+  "character": "Sephiroth",
+  "name": "Zenith Flame of Nibelheim",
+  "name_jp": "究極ニブルヘイムの炎",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [100% Critical (25s)], [Attach Fire 3 with Stacking], [Zenith Mode], and [Zenith Mode: Sephiroth (Fire)]"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/NE summon magic attacks, MAG/MND +25% & DEF/RES +30% to party for 8 seconds, En-Dark, En-Dark Stack, Cap Break Level 1 & Dual Awoken Dark Mode I to user, Summoning Ability Damage +3% to party\nDual Awoken Dark Mode I: Dark Ability Boost, Triplecast Dark & Quick Dark"
+    },
+    {
+      "name": "Awoken Eternal Peace (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Dark Mode II to user\nDual Awoken Dark Mode II: Dark Ability Boost, Instant Dark & chases a Dark ability with Summoning Ability Damage +30% to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/NE summon magic attacks, MAG/MND +25% & DEF/RES +30% to party for 8 seconds, En-Dark, En-Dark Stack, Cap Break Level 1 & Dual Awoken Dark Mode I to user, Summoning Ability Damage +3% to party\nDual Awoken Dark Mode I: Dark Ability Boost, Triplecast Dark & Quick Dark"
+    },
+    {
+      "name": "Awoken Eternal Peace (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Dark Mode II to user\nDual Awoken Dark Mode II: Dark Ability Boost, Instant Dark & chases a Dark ability with Summoning Ability Damage +30% to party"
+    }
+  ],
   "id": "22540025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540025/22540025_256.png",
   "character": "Seymour",
@@ -14,25 +34,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Dark/NE summon magic attacks, MAG/MND +25% & DEF/RES +30% to party for 8 seconds, En-Dark, En-Dark Stack, Cap Break Level 1 & Dual Awoken Dark Mode I to user, Summoning Ability Damage +3% to party\nDual Awoken Dark Mode I: Dark Ability Boost, Triplecast Dark & Quick Dark",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/NE summon magic attacks, MAG/MND +25% & DEF/RES +30% to party for 8 seconds, En-Dark, En-Dark Stack, Cap Break Level 1 & Dual Awoken Dark Mode I to user, Summoning Ability Damage +3% to party\nDual Awoken Dark Mode I: Dark Ability Boost, Triplecast Dark & Quick Dark"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Dark Mode II to user\nDual Awoken Dark Mode II: Dark Ability Boost, Instant Dark & chases a Dark ability with Summoning Ability Damage +30% to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/NE summon magic attacks, MAG/MND +25% & DEF/RES +30% to party for 8 seconds, En-Dark, En-Dark Stack, Cap Break Level 1 & Dual Awoken Dark Mode I to user, Summoning Ability Damage +3% to party\nDual Awoken Dark Mode I: Dark Ability Boost, Triplecast Dark & Quick Dark"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Dark Mode II to user\nDual Awoken Dark Mode II: Dark Ability Boost, Instant Dark & chases a Dark ability with Summoning Ability Damage +30% to party"
-    }
-  ]
+  "effects": "7 single-target Dark/NE summon magic attacks, MAG/MND +25% & DEF/RES +30% to party for 8 seconds, En-Dark, En-Dark Stack, Cap Break Level 1 & Dual Awoken Dark Mode I to user, Summoning Ability Damage +3% to party\nDual Awoken Dark Mode I: Dark Ability Boost, Triplecast Dark & Quick Dark"
 }

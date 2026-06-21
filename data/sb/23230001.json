@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness"
+    }
+  ],
   "id": "23230001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230001/23230001_256.png",
   "character": "Ultimecia",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness"
-    }
-  ]
+  "effects": "One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness"
 }

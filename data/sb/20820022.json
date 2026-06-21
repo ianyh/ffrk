@@ -1,21 +1,4 @@
 {
-  "id": "20820022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820022/20820022_256.png",
-  "character": "Seifer",
-  "name": "Zenith Dragonking Cut",
-  "name_jp": "究極龍神斬り",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [
-    "Dark",
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single Enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Dark/Fire, grants [Zenith Mode], [Zenith Mode: Seifer (Dark, Fire)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -71,5 +54,22 @@
       "name": "Spirit Attack: Seifer (Fire, Dark)",
       "text": "Grants [100% critical 2], [Critical Damage +50% 2] and [Dark/Fire Ability Quick Cast 2] to the user"
     }
-  ]
+  ],
+  "id": "20820022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820022/20820022_256.png",
+  "character": "Seifer",
+  "name": "Zenith Dragonking Cut",
+  "name_jp": "究極龍神斬り",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single Enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Dark/Fire, grants [Zenith Mode], [Zenith Mode: Seifer (Dark, Fire)] and [Damage Cap +10000] to the user"
 }

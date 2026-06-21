@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), grants [Attach Water], Summoning smart ether 2, [Hydraean Protection] and [Tsunami (XV) Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.68 each), grants [Attach Water], Summoning smart ether 2, [Hydraean Protection] and [Tsunami (XV) Follow-Up] to the user"
+    }
+  ],
   "id": "23460005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460005/23460005_256.png",
   "character": "Lunafreya",
@@ -15,17 +27,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.68 each), grants [Attach Water], Summoning smart ether 2, [Hydraean Protection] and [Tsunami (XV) Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.68 each), grants [Attach Water], Summoning smart ether 2, [Hydraean Protection] and [Tsunami (XV) Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.68 each), grants [Attach Water], Summoning smart ether 2, [Hydraean Protection] and [Tsunami (XV) Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.68 each), grants [Attach Water], Summoning smart ether 2, [Hydraean Protection] and [Tsunami (XV) Follow-Up] to the user"
 }

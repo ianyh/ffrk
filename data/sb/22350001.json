@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds, grants [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +30%] for 25 seconds, grants [Haste]"
+    }
+  ],
   "id": "22350001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350001/22350001_256.png",
   "character": "Edward",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[MAG +30%] for 25 seconds, grants [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[MAG +30%] for 25 seconds, grants [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[MAG +30%] for 25 seconds, grants [Haste]"
-    }
-  ]
+  "effects": "[MAG +30%] for 25 seconds, grants [Haste]"
 }

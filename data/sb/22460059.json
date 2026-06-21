@@ -1,20 +1,4 @@
 {
-  "id": "22460059",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460059/22460059_256.png",
-  "character": "Onion Knight",
-  "name": "Zenith Grandspell Wind",
-  "name_jp": "究極超越魔法・風",
-  "tier": "ZSB",
-  "sb_version": "ZSB5",
-  "realm": "III",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Wind)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Onion Knight (Wind)",
       "text": "Four single attacks (1.50 each), grants [Damage Cap +10000 1], [Wind Ability +30% Boost 1] and [Wind Ability Quick Cast 1] to the ally who triggered Spirit Attack: Onion Knight (Wind)"
     }
-  ]
+  ],
+  "id": "22460059",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460059/22460059_256.png",
+  "character": "Onion Knight",
+  "name": "Zenith Grandspell Wind",
+  "name_jp": "究極超越魔法・風",
+  "tier": "ZSB",
+  "sb_version": "ZSB5",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Wind)] to the user"
 }

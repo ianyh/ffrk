@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Chosen One], [Damage Cap +10000], [Quick Cast 1] and [Linked Materia Mode II (Fire, Dark)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Chosen One], [Damage Cap +10000], [Quick Cast 1] and [Linked Materia Mode II (Fire, Dark)] to the user"
+    }
+  ],
   "id": "20250032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250032/20250032_256.png",
   "character": "Sephiroth",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Chosen One], [Damage Cap +10000], [Quick Cast 1] and [Linked Materia Mode II (Fire, Dark)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Chosen One], [Damage Cap +10000], [Quick Cast 1] and [Linked Materia Mode II (Fire, Dark)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Chosen One], [Damage Cap +10000], [Quick Cast 1] and [Linked Materia Mode II (Fire, Dark)] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Awoken Chosen One], [Damage Cap +10000], [Quick Cast 1] and [Linked Materia Mode II (Fire, Dark)] to the user"
 }

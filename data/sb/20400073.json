@@ -1,20 +1,4 @@
 {
-  "id": "20400073",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400073/20400073_256.png",
-  "character": "Bartz",
-  "name": "Zenith Ground Bond",
-  "name_jp": "究極土のきずな",
-  "tier": "ZSB",
-  "sb_version": "ZSB4",
-  "realm": "V",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20% & Physical Casting Speed x1.1; After an ally uses Earth abilities, chases with 2 single-target Earth/NE physical attacks (0.60 each), Deadly Strikes +10% for 1 turn to user (max 10 chases)\nUltimate Dexterity Mode: Dualcast Spellblade, Higher Multiplier & Zero Hone Cost to Hero Ability; Crystal Shimmer+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Crystal Shimmer+",
       "text": "Five single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "20400073",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400073/20400073_256.png",
+  "character": "Bartz",
+  "name": "Zenith Ground Bond",
+  "name_jp": "究極土のきずな",
+  "tier": "ZSB",
+  "sb_version": "ZSB4",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20% & Physical Casting Speed x1.1; After an ally uses Earth abilities, chases with 2 single-target Earth/NE physical attacks (0.60 each), Deadly Strikes +10% for 1 turn to user (max 10 chases)\nUltimate Dexterity Mode: Dualcast Spellblade, Higher Multiplier & Zero Hone Cost to Hero Ability; Crystal Shimmer+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

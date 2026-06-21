@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MAG/DEF/RES/MND -50% to all targets, grants ATK/MAG/DEF/RES/MND +30%, Deadly Strikes +15% & Sorcery Damage +15% to party, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with [Deadly Strikes +5%, Sorcery Damage +5% & Quick Cast] for 1 turn to party (max 5 chases)\nUltimate Dexterity Mode: Dualcast White Magic, Zero Hone Cost to Hero Ability; Chant+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MAG/DEF/RES/MND -50% to all targets, grants ATK/MAG/DEF/RES/MND +30%, Deadly Strikes +15% & Sorcery Damage +15% to party, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with [Deadly Strikes +5%, Sorcery Damage +5% & Quick Cast] for 1 turn to party (max 5 chases)\nUltimate Dexterity Mode: Dualcast White Magic, Zero Hone Cost to Hero Ability; Chant+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
   "id": "23150013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23150013/23150013_256.png",
   "character": "Alma",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "ATK/MAG/DEF/RES/MND -50% to all targets, grants ATK/MAG/DEF/RES/MND +30%, Deadly Strikes +15% & Sorcery Damage +15% to party, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with [Deadly Strikes +5%, Sorcery Damage +5% & Quick Cast] for 1 turn to party (max 5 chases)\nUltimate Dexterity Mode: Dualcast White Magic, Zero Hone Cost to Hero Ability; Chant+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "ATK/MAG/DEF/RES/MND -50% to all targets, grants ATK/MAG/DEF/RES/MND +30%, Deadly Strikes +15% & Sorcery Damage +15% to party, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with [Deadly Strikes +5%, Sorcery Damage +5% & Quick Cast] for 1 turn to party (max 5 chases)\nUltimate Dexterity Mode: Dualcast White Magic, Zero Hone Cost to Hero Ability; Chant+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "ATK/MAG/DEF/RES/MND -50% to all targets, grants ATK/MAG/DEF/RES/MND +30%, Deadly Strikes +15% & Sorcery Damage +15% to party, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with [Deadly Strikes +5%, Sorcery Damage +5% & Quick Cast] for 1 turn to party (max 5 chases)\nUltimate Dexterity Mode: Dualcast White Magic, Zero Hone Cost to Hero Ability; Chant+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ]
+  "effects": "ATK/MAG/DEF/RES/MND -50% to all targets, grants ATK/MAG/DEF/RES/MND +30%, Deadly Strikes +15% & Sorcery Damage +15% to party, grants Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with [Deadly Strikes +5%, Sorcery Damage +5% & Quick Cast] for 1 turn to party (max 5 chases)\nUltimate Dexterity Mode: Dualcast White Magic, Zero Hone Cost to Hero Ability; Chant+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user."
+    },
+    {
+      "name": "War-Awoken Spellsoul Earthsplitter (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Physical Ability Instant Cast (15s)] to user/[Physical Ability Instant Cast (15s)] to all allies if there are 0-3/4+ FFV allies in the party."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user."
+    },
+    {
+      "name": "War-Awoken Spellsoul Earthsplitter (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Physical Ability Instant Cast (15s)] to user/[Physical Ability Instant Cast (15s)] to all allies if there are 0-3/4+ FFV allies in the party."
+    }
+  ],
   "id": "23160028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160028/23160028_256.png",
   "character": "Xezat",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Physical Ability Instant Cast (15s)] to user/[Physical Ability Instant Cast (15s)] to all allies if there are 0-3/4+ FFV allies in the party."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Physical Ability Instant Cast (15s)] to user/[Physical Ability Instant Cast (15s)] to all allies if there are 0-3/4+ FFV allies in the party."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Xezat], [ATK +500 (25s) (Tactical)], [200% ATB 1] to user."
 }

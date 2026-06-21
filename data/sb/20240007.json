@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (10.00) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (10.00) capped at 99999"
+    }
+  ],
   "id": "20240007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240007/20240007_256.png",
   "character": "Locke",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single ranged attack (10.00) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (10.00) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (10.00) capped at 99999"
-    }
-  ]
+  "effects": "One single ranged attack (10.00) capped at 99999"
 }

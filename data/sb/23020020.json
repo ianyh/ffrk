@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.80 each) capped at 19999, activates VII Chain (max 150, field +0%) or adds 25 to the current VII Chain maximum limit, grants [Chain Force Mode: Elena] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.80 each) capped at 19999, activates VII Chain (max 150, field +0%) or adds 25 to the current VII Chain maximum limit, grants [Chain Force Mode: Elena] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "23020020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020020/23020020_256.png",
   "character": "Elena",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Ten single ranged attacks (0.80 each) capped at 19999, activates VII Chain (max 150, field +0%) or adds 25 to the current VII Chain maximum limit, grants [Chain Force Mode: Elena] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged attacks (0.80 each) capped at 19999, activates VII Chain (max 150, field +0%) or adds 25 to the current VII Chain maximum limit, grants [Chain Force Mode: Elena] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged attacks (0.80 each) capped at 19999, activates VII Chain (max 150, field +0%) or adds 25 to the current VII Chain maximum limit, grants [Chain Force Mode: Elena] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Ten single ranged attacks (0.80 each) capped at 19999, activates VII Chain (max 150, field +0%) or adds 25 to the current VII Chain maximum limit, grants [Chain Force Mode: Elena] and [Instant ATB 1] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Empower Healing 30%], and [120% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Aria] to the user\nCrystal Force Mode: Aria: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Empower Healing 30%], and [120% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Aria] to the user\nCrystal Force Mode: Aria: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities"
+    }
+  ],
   "id": "22960016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960016/22960016_256.png",
   "character": "Aria",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Empower Healing 30%], and [120% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Aria] to the user\nCrystal Force Mode: Aria: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Empower Healing 30%], and [120% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Aria] to the user\nCrystal Force Mode: Aria: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Empower Healing 30%], and [120% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Aria] to the user\nCrystal Force Mode: Aria: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities"
-    }
-  ]
+  "effects": "Restores HP (55), grants [ATK, MAG and MND +30% (25s)], [Empower Healing 30%], and [120% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Aria] to the user\nCrystal Force Mode: Aria: Quick White Magic/Bard & Zero Hone Cost to White Magic/Bard Abilities"
 }

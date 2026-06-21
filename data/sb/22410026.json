@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Instant ATB 1], and Accel Mode: Cid Raines (Dark/Holy) to the user\nAccel Mode: Cid Raines (Dark/Holy): Dark/Holy Ability High Boost & chases Dark/Holy abilities with 6/10 single attacks (1.50 each) without/with Doom"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Instant ATB 1], and Accel Mode: Cid Raines (Dark/Holy) to the user\nAccel Mode: Cid Raines (Dark/Holy): Dark/Holy Ability High Boost & chases Dark/Holy abilities with 6/10 single attacks (1.50 each) without/with Doom"
+    }
+  ],
   "id": "22410026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410026/22410026_256.png",
   "character": "Cid Raines",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Instant ATB 1], and Accel Mode: Cid Raines (Dark/Holy) to the user\nAccel Mode: Cid Raines (Dark/Holy): Dark/Holy Ability High Boost & chases Dark/Holy abilities with 6/10 single attacks (1.50 each) without/with Doom",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Instant ATB 1], and Accel Mode: Cid Raines (Dark/Holy) to the user\nAccel Mode: Cid Raines (Dark/Holy): Dark/Holy Ability High Boost & chases Dark/Holy abilities with 6/10 single attacks (1.50 each) without/with Doom"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Instant ATB 1], and Accel Mode: Cid Raines (Dark/Holy) to the user\nAccel Mode: Cid Raines (Dark/Holy): Dark/Holy Ability High Boost & chases Dark/Holy abilities with 6/10 single attacks (1.50 each) without/with Doom"
-    }
-  ]
+  "effects": "5 single attacks (2.60 each), grants [Damage Cap +10000], [Instant ATB 1], and Accel Mode: Cid Raines (Dark/Holy) to the user\nAccel Mode: Cid Raines (Dark/Holy): Dark/Holy Ability High Boost & chases Dark/Holy abilities with 6/10 single attacks (1.50 each) without/with Doom"
 }

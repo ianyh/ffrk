@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 2] to all allies, grants [ATK, MAG +30%, DEF, RES +25% (15s)] with 4+ XII allies alive, grants [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quick Cast 2] to all allies, grants [ATK, MAG +30%, DEF, RES +25% (15s)] with 4+ XII allies alive, grants [Instant ATB 1] to the user"
+    }
+  ],
   "id": "22060018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22060018/22060018_256.png",
   "character": "Penelo",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [Quick Cast 2] to all allies, grants [ATK, MAG +30%, DEF, RES +25% (15s)] with 4+ XII allies alive, grants [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quick Cast 2] to all allies, grants [ATK, MAG +30%, DEF, RES +25% (15s)] with 4+ XII allies alive, grants [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quick Cast 2] to all allies, grants [ATK, MAG +30%, DEF, RES +25% (15s)] with 4+ XII allies alive, grants [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Grants [Quick Cast 2] to all allies, grants [ATK, MAG +30%, DEF, RES +25% (15s)] with 4+ XII allies alive, grants [Instant ATB 1] to the user"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single target attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Poison Mode I (Kefka)] and [Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Symphony of Destruction (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Poison Mode II (Kefka)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single target attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Poison Mode I (Kefka)] and [Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Symphony of Destruction (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Poison Mode II (Kefka)]"
+    }
+  ],
   "id": "22070024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070024/22070024_256.png",
   "character": "Kefka",
@@ -15,25 +35,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single target attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Poison Mode I (Kefka)] and [Poison Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single target attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Poison Mode I (Kefka)] and [Poison Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Poison Mode II (Kefka)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single target attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Poison Mode I (Kefka)] and [Poison Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Poison Mode II (Kefka)]"
-    }
-  ]
+  "effects": "Seven single target attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Poison Mode I (Kefka)] and [Poison Resonance +5% Boost] to the user"
 }

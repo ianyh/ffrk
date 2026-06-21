@@ -1,20 +1,4 @@
 {
-  "id": "22330021",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330021/22330021_256.png",
-  "character": "Papalymo",
-  "name": "Zenith Enochian Firaja",
-  "name_jp": "究極Eファイジャ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIV",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Papalymo] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Papalymo",
       "text": "One single attack (14.52/16.40) higher multiplier if exploiting weakness to Fire, grants [Buff Fire 10% (5s)] to the user"
     }
-  ]
+  ],
+  "id": "22330021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330021/22330021_256.png",
+  "character": "Papalymo",
+  "name": "Zenith Enochian Firaja",
+  "name_jp": "究極Eファイジャ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Papalymo] to the user"
 }

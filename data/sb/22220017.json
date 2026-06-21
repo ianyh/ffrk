@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)] and [Quick Cast 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)] and [Quick Cast 1] to all allies"
+    }
+  ],
   "id": "22220017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22220017/22220017_256.png",
   "character": "Porom",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All Allies",
   "lensable": false,
-  "effects": "Grants [HP Stock (3000)] and [Quick Cast 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (3000)] and [Quick Cast 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (3000)] and [Quick Cast 1] to all allies"
-    }
-  ]
+  "effects": "Grants [HP Stock (3000)] and [Quick Cast 1] to all allies"
 }

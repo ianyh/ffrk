@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (50), grants [Reraise: 40%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (50), grants [Reraise: 40%]"
+    }
+  ],
   "id": "20200005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200005/20200005_256.png",
   "character": "Lenna",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (50), grants [Reraise: 40%]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (50), grants [Reraise: 40%]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (50), grants [Reraise: 40%]"
-    }
-  ]
+  "effects": "Restores HP (50), grants [Reraise: 40%]"
 }

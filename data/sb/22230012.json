@@ -1,27 +1,11 @@
 {
-  "id": "22230012",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230012/22230012_256.png",
-  "character": "Desch",
-  "name": "Apex Violet Flash",
-  "name_jp": "紫電召雷・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "III",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Violet Flash level 0/1/2, removes Arcane Dyad Empowered: Desch from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Violet Flash level 0/1/2, removes Arcane Dyad Empowered: Desch from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Violet Flash (Engaged)",
       "text": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Desch], [Apex Violet Flash Ability Tracker] and [Apex Violet Flash Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Violet Flash level 0/1/2, removes Arcane Dyad Empowered: Desch from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Violet Flash (Engaged)",
       "text": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Desch], [Apex Violet Flash Ability Tracker] and [Apex Violet Flash Level]"
     }
-  ]
+  ],
+  "id": "22230012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230012/22230012_256.png",
+  "character": "Desch",
+  "name": "Apex Violet Flash (Engaged)",
+  "name_jp": "紫電召雷・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Desch], [Apex Violet Flash Ability Tracker] and [Apex Violet Flash Level]"
 }

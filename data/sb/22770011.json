@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies"
+    },
+    {
+      "name": "Awoken Voltaic Slash (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies"
+    },
+    {
+      "name": "Awoken Voltaic Slash (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]"
+    }
+  ],
   "id": "22770011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770011/22770011_256.png",
   "character": "Reks",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies"
 }

@@ -1,20 +1,4 @@
 {
-  "id": "22110026",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110026/22110026_256.png",
-  "character": "Freya",
-  "name": "Roaring Six Dragon Thrust",
-  "name_jp": "轟・六竜の槍撃",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "IX",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "5 single ranged jump attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Freya (Wind)], [Instant ATB 1] to the user\nAccel Mode: Freya (Wind): Wind Ability High Boost & chases Wind abilities with 2 single ranged jump attacks (0.60 each) and [Buff Prismatic 10% (5s)] to all allies",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Freya (Wind)",
       "text": "Wind abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Freya (Wind)] after using Wind abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "22110026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110026/22110026_256.png",
+  "character": "Freya",
+  "name": "Roaring Six Dragon Thrust",
+  "name_jp": "轟・六竜の槍撃",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single ranged jump attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Freya (Wind)], [Instant ATB 1] to the user\nAccel Mode: Freya (Wind): Wind Ability High Boost & chases Wind abilities with 2 single ranged jump attacks (0.60 each) and [Buff Prismatic 10% (5s)] to all allies"
 }

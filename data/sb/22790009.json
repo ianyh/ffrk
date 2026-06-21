@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attack (1.75), 2.02 mult. if the user is in the front row, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attack (1.75), 2.02 mult. if the user is in the front row, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22790009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790009/22790009_256.png",
   "character": "Ace",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attack (1.75), 2.02 mult. if the user is in the front row, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attack (1.75), 2.02 mult. if the user is in the front row, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attack (1.75), 2.02 mult. if the user is in the front row, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight single attack (1.75), 2.02 mult. if the user is in the front row, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

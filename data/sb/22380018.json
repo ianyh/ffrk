@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Holy/Fire/Lightning/Ice/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire/Lightning/Ice Ability High Boost & chases Holy/Fire/Lightning/Ice abilities with 2 single-target Holy/Fire/Lightning/Ice/NE piercing physical attacks, Holy/Fire/Lightning/Ice Damage +10% for 5 seconds to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Holy/Fire/Lightning/Ice/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire/Lightning/Ice Ability High Boost & chases Holy/Fire/Lightning/Ice abilities with 2 single-target Holy/Fire/Lightning/Ice/NE piercing physical attacks, Holy/Fire/Lightning/Ice Damage +10% for 5 seconds to user"
+    }
+  ],
   "id": "22380018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22380018/22380018_256.png",
   "character": "Delita",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Holy/Fire/Lightning/Ice/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire/Lightning/Ice Ability High Boost & chases Holy/Fire/Lightning/Ice abilities with 2 single-target Holy/Fire/Lightning/Ice/NE piercing physical attacks, Holy/Fire/Lightning/Ice Damage +10% for 5 seconds to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Holy/Fire/Lightning/Ice/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire/Lightning/Ice Ability High Boost & chases Holy/Fire/Lightning/Ice abilities with 2 single-target Holy/Fire/Lightning/Ice/NE piercing physical attacks, Holy/Fire/Lightning/Ice Damage +10% for 5 seconds to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Holy/Fire/Lightning/Ice/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire/Lightning/Ice Ability High Boost & chases Holy/Fire/Lightning/Ice abilities with 2 single-target Holy/Fire/Lightning/Ice/NE piercing physical attacks, Holy/Fire/Lightning/Ice Damage +10% for 5 seconds to user"
-    }
-  ]
+  "effects": "5 single-target Holy/Fire/Lightning/Ice/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Holy/Fire/Lightning/Ice Ability High Boost & chases Holy/Fire/Lightning/Ice abilities with 2 single-target Holy/Fire/Lightning/Ice/NE piercing physical attacks, Holy/Fire/Lightning/Ice Damage +10% for 5 seconds to user"
 }

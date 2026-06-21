@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.78 each), causes [Stun] (100%), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.78 each), causes [Stun] (100%), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20290005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290005/20290005_256.png",
   "character": "Luneth",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single ranged attacks (0.78 each), causes [Stun] (100%), grants [Haste], [Attach Wind] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single ranged attacks (0.78 each), causes [Stun] (100%), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single ranged attacks (0.78 each), causes [Stun] (100%), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight single ranged attacks (0.78 each), causes [Stun] (100%), grants [Haste], [Attach Wind] and [Burst Mode] to the user"
 }

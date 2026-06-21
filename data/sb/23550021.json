@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Ice/Dark Ability Boost, Triplecast Ice/Dark, Unlimited Ice/Dark Hones, Cap Break Level 1 to Ice/Dark Abilities, Ice/Dark Ability Damage +30% & 20% DEF/RES Pierce to Ice/Dark Abilities; Ends after using 8 Ice/Dark abilities\nTP Max: AOE Ice/NE or Dark/NE hybrid attack at True Cap Break Level 1 under En-Ice or En-Dark"
+    },
+    {
+      "name": "War-Awoken Icy Grave (Weapon Skill)",
+      "text": "Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Dark\nWS Blue: Lv.2 En-Ice/Dark Stack to user\nWS Gold: During Tactical Awoken Mode, chases an Ice/Dark ability with Quick ATB 3 (max 1 chase) to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Ice/Dark Ability Boost, Triplecast Ice/Dark, Unlimited Ice/Dark Hones, Cap Break Level 1 to Ice/Dark Abilities, Ice/Dark Ability Damage +30% & 20% DEF/RES Pierce to Ice/Dark Abilities; Ends after using 8 Ice/Dark abilities\nTP Max: AOE Ice/NE or Dark/NE hybrid attack at True Cap Break Level 1 under En-Ice or En-Dark"
+    },
+    {
+      "name": "War-Awoken Icy Grave (Weapon Skill)",
+      "text": "Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Dark\nWS Blue: Lv.2 En-Ice/Dark Stack to user\nWS Gold: During Tactical Awoken Mode, chases an Ice/Dark ability with Quick ATB 3 (max 1 chase) to user"
+    }
+  ],
   "id": "23550021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550021/23550021_256.png",
   "character": "Kurasame",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Ice/Dark Ability Boost, Triplecast Ice/Dark, Unlimited Ice/Dark Hones, Cap Break Level 1 to Ice/Dark Abilities, Ice/Dark Ability Damage +30% & 20% DEF/RES Pierce to Ice/Dark Abilities; Ends after using 8 Ice/Dark abilities\nTP Max: AOE Ice/NE or Dark/NE hybrid attack at True Cap Break Level 1 under En-Ice or En-Dark",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Ice/Dark Ability Boost, Triplecast Ice/Dark, Unlimited Ice/Dark Hones, Cap Break Level 1 to Ice/Dark Abilities, Ice/Dark Ability Damage +30% & 20% DEF/RES Pierce to Ice/Dark Abilities; Ends after using 8 Ice/Dark abilities\nTP Max: AOE Ice/NE or Dark/NE hybrid attack at True Cap Break Level 1 under En-Ice or En-Dark"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Dark\nWS Blue: Lv.2 En-Ice/Dark Stack to user\nWS Gold: During Tactical Awoken Mode, chases an Ice/Dark ability with Quick ATB 3 (max 1 chase) to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Ice/Dark Ability Boost, Triplecast Ice/Dark, Unlimited Ice/Dark Hones, Cap Break Level 1 to Ice/Dark Abilities, Ice/Dark Ability Damage +30% & 20% DEF/RES Pierce to Ice/Dark Abilities; Ends after using 8 Ice/Dark abilities\nTP Max: AOE Ice/NE or Dark/NE hybrid attack at True Cap Break Level 1 under En-Ice or En-Dark"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Ice/Dark/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Ice/Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Ice/Dark\nWS Blue: Lv.2 En-Ice/Dark Stack to user\nWS Gold: During Tactical Awoken Mode, chases an Ice/Dark ability with Quick ATB 3 (max 1 chase) to user"
-    }
-  ]
+  "effects": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Ice/Dark Ability Boost, Triplecast Ice/Dark, Unlimited Ice/Dark Hones, Cap Break Level 1 to Ice/Dark Abilities, Ice/Dark Ability Damage +30% & 20% DEF/RES Pierce to Ice/Dark Abilities; Ends after using 8 Ice/Dark abilities\nTP Max: AOE Ice/NE or Dark/NE hybrid attack at True Cap Break Level 1 under En-Ice or En-Dark"
 }

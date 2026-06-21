@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s)], [Quick Cast 1], and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s)], [Quick Cast 1], and [200% ATB 1] to the user"
+    }
+  ],
   "id": "23000018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000018/23000018_256.png",
   "character": "Ward",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [100% Critical (25s)], [Quick Cast 1], and [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [100% Critical (25s)], [Quick Cast 1], and [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [100% Critical (25s)], [Quick Cast 1], and [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "Grants [100% Critical (25s)], [Quick Cast 1], and [200% ATB 1] to the user"
 }

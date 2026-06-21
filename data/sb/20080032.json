@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Dark)], [Damage Cap +20000], [Dual Awoken Dragoon Pride Mode I (Kain - Dark)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Dark Thrust (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Pride Mode II (Kain - Dark)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Dark)], [Damage Cap +20000], [Dual Awoken Dragoon Pride Mode I (Kain - Dark)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Dark Thrust (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Pride Mode II (Kain - Dark)]"
+    }
+  ],
   "id": "20080032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080032/20080032_256.png",
   "character": "Kain",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Dark)], [Damage Cap +20000], [Dual Awoken Dragoon Pride Mode I (Kain - Dark)] and [Dragoon Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Dark)], [Damage Cap +20000], [Dual Awoken Dragoon Pride Mode I (Kain - Dark)] and [Dragoon Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Pride Mode II (Kain - Dark)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Dark)], [Damage Cap +20000], [Dual Awoken Dragoon Pride Mode I (Kain - Dark)] and [Dragoon Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Pride Mode II (Kain - Dark)]"
-    }
-  ]
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Dark)], [Damage Cap +20000], [Dual Awoken Dragoon Pride Mode I (Kain - Dark)] and [Dragoon Resonance +5% Boost] to the user"
 }

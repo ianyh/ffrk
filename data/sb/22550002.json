@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (1.00 each), causes [Instant KO] (100%), grants [Intervention] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (1.00 each), causes [Instant KO] (100%), grants [Intervention] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22550002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550002/22550002_256.png",
   "character": "Orlandeau",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Ten random attacks (1.00 each), causes [Instant KO] (100%), grants [Intervention] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (1.00 each), causes [Instant KO] (100%), grants [Intervention] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (1.00 each), causes [Instant KO] (100%), grants [Intervention] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Ten random attacks (1.00 each), causes [Instant KO] (100%), grants [Intervention] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

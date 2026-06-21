@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.98 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.98 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
   "id": "20550004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550004/20550004_256.png",
   "character": "Sabin",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (0.98 each), grants [Physical Blink 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.98 each), grants [Physical Blink 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.98 each), grants [Physical Blink 1] to all allies"
-    }
-  ]
+  "effects": "Eight single attacks (0.98 each), grants [Physical Blink 1] to all allies"
 }

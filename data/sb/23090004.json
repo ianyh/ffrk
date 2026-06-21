@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.75 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.75 each)"
+    }
+  ],
   "id": "23090004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090004/23090004_256.png",
   "character": "Machina",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Two single attacks (0.75 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Two single attacks (0.75 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Two single attacks (0.75 each)"
-    }
-  ]
+  "effects": "Two single attacks (0.75 each)"
 }

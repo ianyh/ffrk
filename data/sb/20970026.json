@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies"
+    }
+  ],
   "id": "20970026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970026/20970026_256.png",
   "character": "Rikku",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies"
-    }
-  ]
+  "effects": "Four single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [50% Damage Reduction Barrier 2] to all allies"
 }

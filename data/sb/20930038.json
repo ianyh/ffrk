@@ -1,21 +1,4 @@
 {
-  "id": "20930038",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930038/20930038_256.png",
-  "character": "Faris",
-  "name": "Roaring Pirate Bomb",
-  "name_jp": "轟・パイレーツボム",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "V",
-  "elements": [
-    "Wind",
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Faris (Fire, Wind)] and [Instant ATB 1]",
   "description": [
     {
       "name": "Entry",
@@ -43,5 +26,22 @@
       "name": "Roaring Faris",
       "text": "Six single attacks (0.60 each),  causes [ATK and DEF -50% (15s)] every 2n+1 uses, causes [DEF -50% (15s)] every 2n uses"
     }
-  ]
+  ],
+  "id": "20930038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930038/20930038_256.png",
+  "character": "Faris",
+  "name": "Roaring Pirate Bomb",
+  "name_jp": "轟・パイレーツボム",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Faris (Fire, Wind)] and [Instant ATB 1]"
 }

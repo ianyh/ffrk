@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target ranged physical attacks (0.90 each) capped at 19999, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE ranged physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Instant Poison, Poison Ability Damage +30%, Dualcast Poison, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target ranged physical attacks (0.90 each) capped at 19999, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE ranged physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Instant Poison, Poison Ability Damage +30%, Dualcast Poison, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
   "id": "20530033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530033/20530033_256.png",
   "character": "Edgar",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target ranged physical attacks (0.90 each) capped at 19999, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE ranged physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Instant Poison, Poison Ability Damage +30%, Dualcast Poison, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target ranged physical attacks (0.90 each) capped at 19999, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE ranged physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Instant Poison, Poison Ability Damage +30%, Dualcast Poison, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target ranged physical attacks (0.90 each) capped at 19999, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE ranged physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Instant Poison, Poison Ability Damage +30%, Dualcast Poison, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ]
+  "effects": "7 single-target ranged physical attacks (0.90 each) capped at 19999, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE ranged physical attacks (2.00 each) capped at 19999, Instant Cast, [Cap Break Level 1, Instant Poison, Poison Ability Damage +30%, Dualcast Poison, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
 }

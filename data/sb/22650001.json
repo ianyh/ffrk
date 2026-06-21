@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (12.60) capped at 99999, 13.60 multiplier if Reynn is alive, causes [Instant KO] (60%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (12.60) capped at 99999, 13.60 multiplier if Reynn is alive, causes [Instant KO] (60%)"
+    }
+  ],
   "id": "22650001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650001/22650001_256.png",
   "character": "Lann",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (12.60) capped at 99999, 13.60 multiplier if Reynn is alive, causes [Instant KO] (60%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (12.60) capped at 99999, 13.60 multiplier if Reynn is alive, causes [Instant KO] (60%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (12.60) capped at 99999, 13.60 multiplier if Reynn is alive, causes [Instant KO] (60%)"
-    }
-  ]
+  "effects": "One single attack (12.60) capped at 99999, 13.60 multiplier if Reynn is alive, causes [Instant KO] (60%)"
 }

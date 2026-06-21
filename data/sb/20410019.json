@@ -1,27 +1,11 @@
 {
-  "id": "20410019",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410019/20410019_256.png",
-  "character": "Irvine",
-  "name": "Apex Quick Shot",
-  "name_jp": "クイックショット・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VIII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Quick Shot level 0/1/2, removes Arcane Dyad Empowered: Irvine from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Quick Shot level 0/1/2, removes Arcane Dyad Empowered: Irvine from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Quick Shot (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Irvine], [Apex Quick Shot Damage Tracker] and [Apex Quick Shot Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Quick Shot level 0/1/2, removes Arcane Dyad Empowered: Irvine from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Quick Shot (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Irvine], [Apex Quick Shot Damage Tracker] and [Apex Quick Shot Level]"
     }
-  ]
+  ],
+  "id": "20410019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410019/20410019_256.png",
+  "character": "Irvine",
+  "name": "Apex Quick Shot (Engaged)",
+  "name_jp": "クイックショット・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Irvine], [Apex Quick Shot Damage Tracker] and [Apex Quick Shot Level]"
 }

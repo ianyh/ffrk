@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +30%] for 25 seconds, [RES +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +30%] for 25 seconds, [RES +50%] for 25 seconds"
+    }
+  ],
   "id": "20970003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970003/20970003_256.png",
   "character": "Rikku",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK +30%] for 25 seconds, [RES +50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +30%] for 25 seconds, [RES +50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +30%] for 25 seconds, [RES +50%] for 25 seconds"
-    }
-  ]
+  "effects": "[ATK +30%] for 25 seconds, [RES +50%] for 25 seconds"
 }

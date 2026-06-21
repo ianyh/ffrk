@@ -1,20 +1,4 @@
 {
-  "id": "22450027",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450027/22450027_256.png",
-  "character": "Noel",
-  "name": "Zenith Hunter's Flow",
-  "name_jp": "究極狩人の流麗",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "XIII",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Critical Damage +50%] to all allies, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Noel (Water)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Fang Lance+",
       "text": "Four single ranged attacks (? each), grants [Sharpshooter Quick Cast 2] to the user"
     }
-  ]
+  ],
+  "id": "22450027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450027/22450027_256.png",
+  "character": "Noel",
+  "name": "Zenith Hunter's Flow",
+  "name_jp": "究極狩人の流麗",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "XIII",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Critical Damage +50%] to all allies, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Noel (Water)] to the user"
 }

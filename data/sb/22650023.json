@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow ranged hybrid attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged hybrid attacks (max 5 chases)"
+    },
+    {
+      "name": "Burst Break: Lann (Break Arte)",
+      "text": "One group Overflow ranged hybrid attack, grants Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow ranged hybrid attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged hybrid attacks (max 5 chases)"
+    },
+    {
+      "name": "Burst Break: Lann (Break Arte)",
+      "text": "One group Overflow ranged hybrid attack, grants Instant ATB 1 to user"
+    }
+  ],
   "id": "22650023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650023/22650023_256.png",
   "character": "Lann",
@@ -22,25 +42,5 @@
   "type": "?",
   "target": "",
   "lensable": false,
-  "effects": "One single Overflow ranged hybrid attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged hybrid attacks (max 5 chases)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single Overflow ranged hybrid attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged hybrid attacks (max 5 chases)"
-    },
-    {
-      "name": "Break Arte",
-      "text": "One group Overflow ranged hybrid attack, grants Instant ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single Overflow ranged hybrid attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged hybrid attacks (max 5 chases)"
-    },
-    {
-      "name": "Break Arte",
-      "text": "One group Overflow ranged hybrid attack, grants Instant ATB 1 to user"
-    }
-  ]
+  "effects": "One single Overflow ranged hybrid attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged hybrid attacks (max 5 chases)"
 }

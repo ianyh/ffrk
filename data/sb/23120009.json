@@ -1,21 +1,4 @@
 {
-  "id": "23120009",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120009/23120009_256.png",
-  "character": "Estinien",
-  "name": "Zenith Azure Successor",
-  "name_jp": "究極蒼を継ぐ者",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIV",
-  "elements": [
-    "Wind",
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Dark 2 with Stacking] if entry damage was Wind/Dark, [Zenith Mode], [Zenith Mode: Estinien] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -71,5 +54,22 @@
       "name": "Spirit Attack: Estinien",
       "text": "One single ranged jump attack (3.36), grants [Dragoon Instant Cast 3]/[Damage +50% Boost 1] and [Quick Cast 1] if 0-3/4+ FF14 allies are alive"
     }
-  ]
+  ],
+  "id": "23120009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120009/23120009_256.png",
+  "character": "Estinien",
+  "name": "Zenith Azure Successor",
+  "name_jp": "究極蒼を継ぐ者",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Dark 2 with Stacking] if entry damage was Wind/Dark, [Zenith Mode], [Zenith Mode: Estinien] and [Damage Cap +10000] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Thief Chain (max 150, +50% field), grants [ATK +50% (25s)] and [Haste] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Thief Chain (max 150, +50% field), grants [ATK +50% (25s)] and [Haste] to all allies"
+    }
+  ],
   "id": "22130033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130033/22130033_256.png",
   "character": "Leila",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Thief Chain (max 150, +50% field), grants [ATK +50% (25s)] and [Haste] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Thief Chain (max 150, +50% field), grants [ATK +50% (25s)] and [Haste] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Thief Chain (max 150, +50% field), grants [ATK +50% (25s)] and [Haste] to all allies"
-    }
-  ]
+  "effects": "Activates Thief Chain (max 150, +50% field), grants [ATK +50% (25s)] and [Haste] to all allies"
 }

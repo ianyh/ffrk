@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK +50% for 25 seconds, grants [Last Stand]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK +50% for 25 seconds, grants [Last Stand]"
+    }
+  ],
   "id": "23000002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000002/23000002_256.png",
   "character": "Ward",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All allies",
   "lensable": true,
-  "effects": "ATK +50% for 25 seconds, grants [Last Stand]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "ATK +50% for 25 seconds, grants [Last Stand]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "ATK +50% for 25 seconds, grants [Last Stand]"
-    }
-  ]
+  "effects": "ATK +50% for 25 seconds, grants [Last Stand]"
 }

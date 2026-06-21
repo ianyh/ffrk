@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (10.50~14.50 scaling with Dragoon abilities used) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (10.50~14.50 scaling with Dragoon abilities used) capped at 99999"
+    }
+  ],
   "id": "20080007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080007/20080007_256.png",
   "character": "Kain",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single ranged jump attack (10.50~14.50 scaling with Dragoon abilities used) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged jump attack (10.50~14.50 scaling with Dragoon abilities used) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged jump attack (10.50~14.50 scaling with Dragoon abilities used) capped at 99999"
-    }
-  ]
+  "effects": "One single ranged jump attack (10.50~14.50 scaling with Dragoon abilities used) capped at 99999"
 }

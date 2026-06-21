@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Josef (Break Arte)",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Josef], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Josef (Break Arte)",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Josef], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]."
+    }
+  ],
   "id": "20190039",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190039/20190039_256.png",
   "character": "Josef",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Josef], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Josef], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]."
-    }
-  ]
+  "effects": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
 }

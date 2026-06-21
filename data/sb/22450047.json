@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water."
+    }
+  ],
   "id": "22450047",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450047/22450047_256.png",
   "character": "Noel",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water."
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water."
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Holy/NE, Dark/NE or Earth/NE physical attacks at Cap Break Level 1 under En-Holy, En-Dark or En-Earth, activates T Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, grants Holy, Dark or Earth Ability Damage +30% for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Holy/NE, Dark/NE or Earth/NE physical attacks at Cap Break Level 1 under En-Holy, En-Dark or En-Earth, activates T Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, grants Holy, Dark or Earth Ability Damage +30% for 1 turn to user"
+    }
+  ],
   "id": "22550023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550023/22550023_256.png",
   "character": "Orlandeau",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single-target Holy/NE, Dark/NE or Earth/NE physical attacks at Cap Break Level 1 under En-Holy, En-Dark or En-Earth, activates T Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, grants Holy, Dark or Earth Ability Damage +30% for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Holy/NE, Dark/NE or Earth/NE physical attacks at Cap Break Level 1 under En-Holy, En-Dark or En-Earth, activates T Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, grants Holy, Dark or Earth Ability Damage +30% for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Holy/NE, Dark/NE or Earth/NE physical attacks at Cap Break Level 1 under En-Holy, En-Dark or En-Earth, activates T Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, grants Holy, Dark or Earth Ability Damage +30% for 1 turn to user"
-    }
-  ]
+  "effects": "10 single-target Holy/NE, Dark/NE or Earth/NE physical attacks at Cap Break Level 1 under En-Holy, En-Dark or En-Earth, activates T Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: At Chain Count 50 & 100, grants Holy, Dark or Earth Ability Damage +30% for 1 turn to user"
 }

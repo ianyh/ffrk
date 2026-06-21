@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged jump attacks (1.25 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged jump attacks (1.25 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20080006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080006/20080006_256.png",
   "character": "Kain",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group ranged jump attacks (1.25 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged jump attacks (1.25 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged jump attacks (1.25 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Four group ranged jump attacks (1.25 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
 }

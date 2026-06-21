@@ -1,20 +1,4 @@
 {
-  "id": "22600021",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22600021/22600021_256.png",
-  "character": "Fujin",
-  "name": "Zenith Zan",
-  "name_jp": "究極斬",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Zenith Mode], [Zenith Mode: Fujin (Wind)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Fujin (Wind)",
       "text": "Six single attacks (2.70 each), 3.05 if exploiting a weakness to wind, capped at 19999"
     }
-  ]
+  ],
+  "id": "22600021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22600021/22600021_256.png",
+  "character": "Fujin",
+  "name": "Zenith Zan",
+  "name_jp": "究極斬",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Zenith Mode], [Zenith Mode: Fujin (Wind)] and [Damage Cap +10000] to the user"
 }

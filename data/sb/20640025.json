@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants  [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants  [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking] to the user"
+    }
+  ],
   "id": "20640025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640025/20640025_256.png",
   "character": "Tellah",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants  [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants  [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants  [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking] to the user"
-    }
-  ]
+  "effects": "Grants  [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking] to the user"
 }

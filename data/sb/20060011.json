@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Dark] and [Red Wings EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Dark] and [Red Wings EX Mode] to the user"
+    }
+  ],
   "id": "20060011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060011/20060011_256.png",
   "character": "Cecil (Dark Knight)",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Dark] and [Red Wings EX Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Dark] and [Red Wings EX Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Dark] and [Red Wings EX Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.71 each), damages the user for 99% current HP, grants [Stoneskin: 100%], [Attach Dark] and [Red Wings EX Mode] to the user"
 }

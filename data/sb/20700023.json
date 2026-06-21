@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Wind 20% (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Wind 20% (15s)]"
+    }
+  ],
   "id": "20700023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700023/20700023_256.png",
   "character": "Vaan",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Wind Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Wind 20% (15s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Wind Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Wind 20% (15s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Wind Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Wind 20% (15s)]"
-    }
-  ]
+  "effects": "Activates Wind Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Wind 20% (15s)]"
 }

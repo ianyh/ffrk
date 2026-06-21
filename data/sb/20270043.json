@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Ice, Holy)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Ice, Holy)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
   "id": "20270043",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270043/20270043_256.png",
   "character": "Firion",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tri-Element Mode II (Fire, Ice, Holy)], [Instant ATB 1], and [Instant Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Mode II (Fire, Ice, Holy)], [Instant ATB 1], and [Instant Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Mode II (Fire, Ice, Holy)], [Instant ATB 1], and [Instant Cast 2]"
-    }
-  ]
+  "effects": "Grants [Tri-Element Mode II (Fire, Ice, Holy)], [Instant ATB 1], and [Instant Cast 2]"
 }

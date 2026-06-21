@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Damage +5% to X members, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Dark/NE or Fire/NE ranged physical attacks under En-Dark or En-Fire, Damage +10/15/20/25/30% to X members after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Dark/Fire/NE ranged physical attack at True Cap Break Level 1, Damage +30% for 1 turn to X members, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Damage +5% to X members, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Dark/NE or Fire/NE ranged physical attacks under En-Dark or En-Fire, Damage +10/15/20/25/30% to X members after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Dark/Fire/NE ranged physical attack at True Cap Break Level 1, Damage +30% for 1 turn to X members, removes Master Mode"
+    }
+  ],
   "id": "22090034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090034/22090034_256.png",
   "character": "Jecht",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Damage +5% to X members, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Dark/NE or Fire/NE ranged physical attacks under En-Dark or En-Fire, Damage +10/15/20/25/30% to X members after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Dark/Fire/NE ranged physical attack at True Cap Break Level 1, Damage +30% for 1 turn to X members, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Damage +5% to X members, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Dark/NE or Fire/NE ranged physical attacks under En-Dark or En-Fire, Damage +10/15/20/25/30% to X members after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Dark/Fire/NE ranged physical attack at True Cap Break Level 1, Damage +30% for 1 turn to X members, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Damage +5% to X members, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Dark/NE or Fire/NE ranged physical attacks under En-Dark or En-Fire, Damage +10/15/20/25/30% to X members after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Dark/Fire/NE ranged physical attack at True Cap Break Level 1, Damage +30% for 1 turn to X members, removes Master Mode"
-    }
-  ]
+  "effects": "Damage +5% to X members, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Dark/NE or Fire/NE ranged physical attacks under En-Dark or En-Fire, Damage +10/15/20/25/30% to X members after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Dark/Fire/NE ranged physical attack at True Cap Break Level 1, Damage +30% for 1 turn to X members, removes Master Mode"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning ability with Sorcery Damage +20% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning ability with Sorcery Damage +20% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
   "id": "20370043",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370043/20370043_256.png",
   "character": "Vivi",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning ability with Sorcery Damage +20% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning ability with Sorcery Damage +20% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning ability with Sorcery Damage +20% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ]
+  "effects": "7 single-target Ice/Lightning/NE magic attacks at Cap Break Level 1, Lv.2 En-Ice Stack or Lv.2 En-Lightning Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Ice/Lightning Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Lightning ability with Sorcery Damage +20% for 3 turns to party (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Lightning, Higher Multiplier & Zero Hone Cost to Hero Ability; Blizzard & Thunder+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.12 each), grants [No Air Time 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.12 each), grants [No Air Time 3] to the user"
+    }
+  ],
   "id": "22850002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22850002/22850002_256.png",
   "character": "Wrieg",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Five group ranged attacks (1.12 each), grants [No Air Time 3] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five group ranged attacks (1.12 each), grants [No Air Time 3] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five group ranged attacks (1.12 each), grants [No Air Time 3] to the user"
-    }
-  ]
+  "effects": "Five group ranged attacks (1.12 each), grants [No Air Time 3] to the user"
 }

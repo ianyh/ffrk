@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six random ranged attacks (0.49 each), [ATK and MAG -40%] for 15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six random ranged attacks (0.49 each), [ATK and MAG -40%] for 15 seconds"
+    }
+  ],
   "id": "23370002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370002/23370002_256.png",
   "character": "Cater",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Six random ranged attacks (0.49 each), [ATK and MAG -40%] for 15 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six random ranged attacks (0.49 each), [ATK and MAG -40%] for 15 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six random ranged attacks (0.49 each), [ATK and MAG -40%] for 15 seconds"
-    }
-  ]
+  "effects": "Six random ranged attacks (0.49 each), [ATK and MAG -40%] for 15 seconds"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode (Earth, Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode (Earth, Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
   "id": "22550024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550024/22550024_256.png",
   "character": "Orlandeau",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tri-Element Mode (Earth, Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Mode (Earth, Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Mode (Earth, Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]"
-    }
-  ]
+  "effects": "Grants [Tri-Element Mode (Earth, Holy, Dark)], [Instant ATB 1], and [Instant Cast 2]"
 }

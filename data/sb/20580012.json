@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting Dark weakness, grants [40% Damage Reduction Barrier 2] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting Dark weakness, grants [40% Damage Reduction Barrier 2] to all allies"
+    }
+  ],
   "id": "20580012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580012/20580012_256.png",
   "character": "Leon",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting Dark weakness, grants [40% Damage Reduction Barrier 2] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting Dark weakness, grants [40% Damage Reduction Barrier 2] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting Dark weakness, grants [40% Damage Reduction Barrier 2] to all allies"
-    }
-  ]
+  "effects": "One single attack (3.36) capped at 99999, 3.60 multiplier if exploiting Dark weakness, grants [40% Damage Reduction Barrier 2] to all allies"
 }

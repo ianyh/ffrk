@@ -1,20 +1,4 @@
 {
-  "id": "22120022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120022/22120022_256.png",
-  "character": "Minwu",
-  "name": "Zenith Bright Sigil",
-  "name_jp": "究極ブライトシギル",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "II",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "WHT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Zenith Mode], [Zenith Mode: Minwu (Holy)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Minwu (Holy)",
       "text": "Grants [Buff Holy 20% (15s)] and [MND +50% (8s)] to the user"
     }
-  ]
+  ],
+  "id": "22120022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120022/22120022_256.png",
+  "character": "Minwu",
+  "name": "Zenith Bright Sigil",
+  "name_jp": "究極ブライトシギル",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Zenith Mode], [Zenith Mode: Minwu (Holy)] and [Damage Cap +10000] to the user"
 }

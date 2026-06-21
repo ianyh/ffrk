@@ -1,22 +1,4 @@
 {
-  "id": "23430030",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430030/23430030_256.png",
-  "character": "Trey",
-  "name": "Zenith Tri-Raining Arrows",
-  "name_jp": "究極トライAシャワー",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "Type-0",
-  "elements": [
-    "Fire",
-    "Water",
-    "Ice",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Trey] to user. Grants [Sharpshooter +30% Boost (15s)], [100% Critical (25s) Custom Param] to all allies. Grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking] based on if entry damage was Fire/Ice/Water.",
   "description": [
     {
       "name": "Entry",
@@ -68,5 +50,23 @@
       "name": "Freezing Rain+ II",
       "text": "Five single ranged attacks (1.20/1.25 each), followed by one single ranged attack (1.20/1.25 each) with additional 20% critical damage capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "23430030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430030/23430030_256.png",
+  "character": "Trey",
+  "name": "Zenith Tri-Raining Arrows",
+  "name_jp": "究極トライAシャワー",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Water",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Trey] to user. Grants [Sharpshooter +30% Boost (15s)], [100% Critical (25s) Custom Param] to all allies. Grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking] based on if entry damage was Fire/Ice/Water."
 }

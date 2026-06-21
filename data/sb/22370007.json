@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.20~14.50 scaling with Dark attacks used) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.20~14.50 scaling with Dark attacks used) capped at 99999"
+    }
+  ],
   "id": "22370007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370007/22370007_256.png",
   "character": "Gabranth",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (11.20~14.50 scaling with Dark attacks used) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (11.20~14.50 scaling with Dark attacks used) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (11.20~14.50 scaling with Dark attacks used) capped at 99999"
-    }
-  ]
+  "effects": "One single attack (11.20~14.50 scaling with Dark attacks used) capped at 99999"
 }

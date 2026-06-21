@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Fire with Stacking], [100% Critical (25s) Custom Param] and [Scattering Blast Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [Attach Fire with Stacking], [100% Critical (25s) Custom Param] and [Scattering Blast Follow-Up] to the user"
+    }
+  ],
   "id": "20430013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430013/20430013_256.png",
   "character": "Refia",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.71 each), grants [Attach Fire with Stacking], [100% Critical (25s) Custom Param] and [Scattering Blast Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.71 each), grants [Attach Fire with Stacking], [100% Critical (25s) Custom Param] and [Scattering Blast Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.71 each), grants [Attach Fire with Stacking], [100% Critical (25s) Custom Param] and [Scattering Blast Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.71 each), grants [Attach Fire with Stacking], [100% Critical (25s) Custom Param] and [Scattering Blast Follow-Up] to the user"
 }

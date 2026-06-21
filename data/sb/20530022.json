@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Poison Chain (max 150, field +50%), grants [Buff Poison 10% (5s)]/[Buff Poison 20% (5s)]/[Buff Poison 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Poison], grants [ATK and MAG +30% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Poison Chain (max 150, field +50%), grants [Buff Poison 10% (5s)]/[Buff Poison 20% (5s)]/[Buff Poison 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Poison], grants [ATK and MAG +30% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
   "id": "20530022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530022/20530022_256.png",
   "character": "Edgar",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Poison Chain (max 150, field +50%), grants [Buff Poison 10% (5s)]/[Buff Poison 20% (5s)]/[Buff Poison 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Poison], grants [ATK and MAG +30% (25s)], grants [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Poison Chain (max 150, field +50%), grants [Buff Poison 10% (5s)]/[Buff Poison 20% (5s)]/[Buff Poison 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Poison], grants [ATK and MAG +30% (25s)], grants [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Poison Chain (max 150, field +50%), grants [Buff Poison 10% (5s)]/[Buff Poison 20% (5s)]/[Buff Poison 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Poison], grants [ATK and MAG +30% (25s)], grants [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Activates Poison Chain (max 150, field +50%), grants [Buff Poison 10% (5s)]/[Buff Poison 20% (5s)]/[Buff Poison 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Poison], grants [ATK and MAG +30% (25s)], grants [Instant Cast 1] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Confuse] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Confuse] (100%)"
+    }
+  ],
   "id": "22220002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22220002/22220002_256.png",
   "character": "Porom",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [Confuse] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Confuse] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Confuse] (100%)"
-    }
-  ]
+  "effects": "Causes [Confuse] (100%)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.20 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.20 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ],
   "id": "22240001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240001/22240001_256.png",
   "character": "Kuja",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (2.20 each), [MAG +20%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (2.20 each), [MAG +20%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (2.20 each), [MAG +20%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Eight single attacks (2.20 each), [MAG +20%] to all allies for 25 seconds"
 }

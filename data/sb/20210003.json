@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.70 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.70 each)"
+    }
+  ],
   "id": "20210003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210003/20210003_256.png",
   "character": "Celes",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single attacks (1.70 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (1.70 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (1.70 each)"
-    }
-  ]
+  "effects": "Three single attacks (1.70 each)"
 }

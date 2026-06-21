@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Shell] and [Haste]"
+    }
+  ],
   "id": "22130002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130002/22130002_256.png",
   "character": "Leila",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Shell] and [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Shell] and [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Shell] and [Haste]"
-    }
-  ]
+  "effects": "Grants [Shell] and [Haste]"
 }

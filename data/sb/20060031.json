@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Cecil (Dark Knight)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Cecil (Dark Knight)] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "20060031",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060031/20060031_256.png",
   "character": "Cecil (Dark Knight)",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Soul Drive Mode: Cecil (Dark Knight)] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Drive Mode: Cecil (Dark Knight)] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Drive Mode: Cecil (Dark Knight)] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Grants [Soul Drive Mode: Cecil (Dark Knight)] and [Instant ATB 1] to the user"
 }

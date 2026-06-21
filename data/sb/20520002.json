@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17)"
+    }
+  ],
   "id": "20520002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520002/20520002_256.png",
   "character": "Yuna",
@@ -13,17 +25,5 @@
   "type": "WHT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (7.17)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.17)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.17)"
-    }
-  ]
+  "effects": "One group attack (7.17)"
 }

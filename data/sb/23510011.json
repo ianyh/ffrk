@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 1] and [Twin Element Mode II (Lightning, Wind)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 1] and [Twin Element Mode II (Lightning, Wind)]"
+    }
+  ],
   "id": "23510011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23510011/23510011_256.png",
   "character": "Alisaie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [High Quick Cast 1] and [Twin Element Mode II (Lightning, Wind)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [High Quick Cast 1] and [Twin Element Mode II (Lightning, Wind)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [High Quick Cast 1] and [Twin Element Mode II (Lightning, Wind)]"
-    }
-  ]
+  "effects": "Grants [High Quick Cast 1] and [Twin Element Mode II (Lightning, Wind)]"
 }

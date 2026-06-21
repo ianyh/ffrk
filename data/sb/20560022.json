@@ -1,20 +1,4 @@
 {
-  "id": "20560022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560022/20560022_256.png",
-  "character": "Maria",
-  "name": "Zenith Comet Arrow CXXVIII",
-  "name_jp": "究極コメットアロー128",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "II",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Maria (Earth)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Maria (Earth)",
       "text": "Grants [Earth Ability Instant Cast 3] and [Buff Earth 20% (15s)] to the user"
     }
-  ]
+  ],
+  "id": "20560022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560022/20560022_256.png",
+  "character": "Maria",
+  "name": "Zenith Comet Arrow CXXVIII",
+  "name_jp": "究極コメットアロー128",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Maria (Earth)] to the user"
 }

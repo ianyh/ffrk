@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.60), causes [Silence] (70%) and [Stop] (70%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.60), causes [Silence] (70%) and [Stop] (70%)"
+    }
+  ],
   "id": "20920003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920003/20920003_256.png",
   "character": "Reno",
@@ -11,17 +23,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (7.60), causes [Silence] (70%) and [Stop] (70%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.60), causes [Silence] (70%) and [Stop] (70%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.60), causes [Silence] (70%) and [Stop] (70%)"
-    }
-  ]
+  "effects": "One group attack (7.60), causes [Silence] (70%) and [Stop] (70%)"
 }

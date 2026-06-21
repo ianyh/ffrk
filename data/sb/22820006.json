@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [75% Damage Reduction Barrier 1] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [75% Damage Reduction Barrier 1] and [Haste]"
+    }
+  ],
   "id": "22820006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820006/22820006_256.png",
   "character": "Shelke",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [75% Damage Reduction Barrier 1] and [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [75% Damage Reduction Barrier 1] and [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [75% Damage Reduction Barrier 1] and [Haste]"
-    }
-  ]
+  "effects": "Grants [75% Damage Reduction Barrier 1] and [Haste]"
 }

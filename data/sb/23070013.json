@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Wind 40% (5s)] and [Imperil Poison 40% (5s)], grants [Quick Cast 2] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Wind 40% (5s)] and [Imperil Poison 40% (5s)], grants [Quick Cast 2] to all allies"
+    }
+  ],
   "id": "23070013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070013/23070013_256.png",
   "character": "Marcus",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [Imperil Wind 40% (5s)] and [Imperil Poison 40% (5s)], grants [Quick Cast 2] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Wind 40% (5s)] and [Imperil Poison 40% (5s)], grants [Quick Cast 2] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Wind 40% (5s)] and [Imperil Poison 40% (5s)], grants [Quick Cast 2] to all allies"
-    }
-  ]
+  "effects": "Causes [Imperil Wind 40% (5s)] and [Imperil Poison 40% (5s)], grants [Quick Cast 2] to all allies"
 }

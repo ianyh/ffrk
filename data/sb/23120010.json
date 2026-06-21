@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Draconic Dive (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Azure Dragoon Mode II (Estinien)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Draconic Dive (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Azure Dragoon Mode II (Estinien)] to the user"
+    }
+  ],
   "id": "23120010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120010/23120010_256.png",
   "character": "Estinien",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Azure Dragoon Mode II (Estinien)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Azure Dragoon Mode II (Estinien)] to the user"
-    }
-  ]
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user"
 }

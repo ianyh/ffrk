@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party"
+    }
+  ],
   "id": "23060165",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060165/23060165_256.png",
   "character": "Dr. Mog",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party"
-    }
-  ]
+  "effects": "Activates Mage II Limit Chain (150) & 50% Mage II Field, MAG & MND +30% & Haste to party"
 }

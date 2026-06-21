@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Unyielding Fist]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Unyielding Fist]"
+    }
+  ],
   "id": "20650002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650002/20650002_256.png",
   "character": "Galuf",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Unyielding Fist]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Unyielding Fist]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Unyielding Fist]"
-    }
-  ]
+  "effects": "Grants [Unyielding Fist]"
 }

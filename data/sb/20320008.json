@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Debuff Holy 20% (15s)], restores HP (55) to all allies, grants [Last Stand] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Debuff Holy 20% (15s)], restores HP (55) to all allies, grants [Last Stand] to all allies"
+    }
+  ],
   "id": "20320008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320008/20320008_256.png",
   "character": "Vanille",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Causes [Debuff Holy 20% (15s)], restores HP (55) to all allies, grants [Last Stand] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Debuff Holy 20% (15s)], restores HP (55) to all allies, grants [Last Stand] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Debuff Holy 20% (15s)], restores HP (55) to all allies, grants [Last Stand] to all allies"
-    }
-  ]
+  "effects": "Causes [Debuff Holy 20% (15s)], restores HP (55) to all allies, grants [Last Stand] to all allies"
 }

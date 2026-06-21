@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17)"
+    }
+  ],
   "id": "20470003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470003/20470003_256.png",
   "character": "Red XIII",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (7.17)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.17)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.17)"
-    }
-  ]
+  "effects": "One group attack (7.17)"
 }

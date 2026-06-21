@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Diamond Gazer] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Diamond Gazer] to the user"
+    }
+  ],
   "id": "20310012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310012/20310012_256.png",
   "character": "Snow",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Diamond Gazer] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Diamond Gazer] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Diamond Gazer] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Ice], [Damage Cap +10000] and [Diamond Gazer] to the user"
 }

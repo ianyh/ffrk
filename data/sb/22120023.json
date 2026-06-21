@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu v2)] and [White Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Holy XVI (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken White Magic Mode II (Minwu v2)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu v2)] and [White Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Holy XVI (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken White Magic Mode II (Minwu v2)] to the user"
+    }
+  ],
   "id": "22120023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120023/22120023_256.png",
   "character": "Minwu",
@@ -14,25 +34,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu v2)] and [White Magic Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu v2)] and [White Magic Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken White Magic Mode II (Minwu v2)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu v2)] and [White Magic Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken White Magic Mode II (Minwu v2)] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu v2)] and [White Magic Resonance +5% Boost] to the user"
 }

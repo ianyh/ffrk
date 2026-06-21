@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%], grants [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%], grants [Haste]"
+    }
+  ],
   "id": "22730002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22730002/22730002_256.png",
   "character": "Gogo (V)",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK and MAG +30%], grants [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK and MAG +30%], grants [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK and MAG +30%], grants [Haste]"
-    }
-  ]
+  "effects": "[ATK and MAG +30%], grants [Haste]"
 }

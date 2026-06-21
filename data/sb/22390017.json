@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "6000 HP Stock, ATK & MND +30%, Guts, High Quick Cast 2 & Ultimate Re-Cure to party, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with 1500 heal to party, every 2 chases grant Holy Ability Damage +30% for 1 turn to party\nUltimate Dexterity Mode: Dualcast White Magic & Zero Hone Cost to Hero Ability; Princess's Prayer+: 1.2s CT; Holy Magick Curaja+: Chase after 2 uses, +Quick Cast 1 to party\nUltimate Vitality Mode: +1500 max HP & Astra to user\nUltimate Re-Cure: Once per battle when HP falls below 20%, grants 3000 HP Stock"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "6000 HP Stock, ATK & MND +30%, Guts, High Quick Cast 2 & Ultimate Re-Cure to party, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with 1500 heal to party, every 2 chases grant Holy Ability Damage +30% for 1 turn to party\nUltimate Dexterity Mode: Dualcast White Magic & Zero Hone Cost to Hero Ability; Princess's Prayer+: 1.2s CT; Holy Magick Curaja+: Chase after 2 uses, +Quick Cast 1 to party\nUltimate Vitality Mode: +1500 max HP & Astra to user\nUltimate Re-Cure: Once per battle when HP falls below 20%, grants 3000 HP Stock"
+    }
+  ],
   "id": "22390017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390017/22390017_256.png",
   "character": "Ovelia",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "6000 HP Stock, ATK & MND +30%, Guts, High Quick Cast 2 & Ultimate Re-Cure to party, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with 1500 heal to party, every 2 chases grant Holy Ability Damage +30% for 1 turn to party\nUltimate Dexterity Mode: Dualcast White Magic & Zero Hone Cost to Hero Ability; Princess's Prayer+: 1.2s CT; Holy Magick Curaja+: Chase after 2 uses, +Quick Cast 1 to party\nUltimate Vitality Mode: +1500 max HP & Astra to user\nUltimate Re-Cure: Once per battle when HP falls below 20%, grants 3000 HP Stock",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "6000 HP Stock, ATK & MND +30%, Guts, High Quick Cast 2 & Ultimate Re-Cure to party, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with 1500 heal to party, every 2 chases grant Holy Ability Damage +30% for 1 turn to party\nUltimate Dexterity Mode: Dualcast White Magic & Zero Hone Cost to Hero Ability; Princess's Prayer+: 1.2s CT; Holy Magick Curaja+: Chase after 2 uses, +Quick Cast 1 to party\nUltimate Vitality Mode: +1500 max HP & Astra to user\nUltimate Re-Cure: Once per battle when HP falls below 20%, grants 3000 HP Stock"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "6000 HP Stock, ATK & MND +30%, Guts, High Quick Cast 2 & Ultimate Re-Cure to party, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with 1500 heal to party, every 2 chases grant Holy Ability Damage +30% for 1 turn to party\nUltimate Dexterity Mode: Dualcast White Magic & Zero Hone Cost to Hero Ability; Princess's Prayer+: 1.2s CT; Holy Magick Curaja+: Chase after 2 uses, +Quick Cast 1 to party\nUltimate Vitality Mode: +1500 max HP & Astra to user\nUltimate Re-Cure: Once per battle when HP falls below 20%, grants 3000 HP Stock"
-    }
-  ]
+  "effects": "6000 HP Stock, ATK & MND +30%, Guts, High Quick Cast 2 & Ultimate Re-Cure to party, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: White Magic Casting Speed x1.1 & chases White Magic abilities with 1500 heal to party, every 2 chases grant Holy Ability Damage +30% for 1 turn to party\nUltimate Dexterity Mode: Dualcast White Magic & Zero Hone Cost to Hero Ability; Princess's Prayer+: 1.2s CT; Holy Magick Curaja+: Chase after 2 uses, +Quick Cast 1 to party\nUltimate Vitality Mode: +1500 max HP & Astra to user\nUltimate Re-Cure: Once per battle when HP falls below 20%, grants 3000 HP Stock"
 }

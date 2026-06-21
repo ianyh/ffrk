@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark Stacking], [Attach Dark] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark Stacking], [Attach Dark] and [High Quick Cast 2]"
+    }
+  ],
   "id": "22370012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370012/22370012_256.png",
   "character": "Gabranth",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Dark Stacking], [Attach Dark] and [High Quick Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Dark Stacking], [Attach Dark] and [High Quick Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Dark Stacking], [Attach Dark] and [High Quick Cast 2]"
-    }
-  ]
+  "effects": "Grants [Attach Dark Stacking], [Attach Dark] and [High Quick Cast 2]"
 }

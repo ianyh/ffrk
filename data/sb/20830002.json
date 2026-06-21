@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.20), [ATK -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.20), [ATK -50%] for 25 seconds"
+    }
+  ],
   "id": "20830002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830002/20830002_256.png",
   "character": "Cid (VII)",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (3.20), [ATK -50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (3.20), [ATK -50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (3.20), [ATK -50%] for 25 seconds"
-    }
-  ]
+  "effects": "One group attack (3.20), [ATK -50%] for 25 seconds"
 }

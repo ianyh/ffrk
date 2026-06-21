@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Poison)], [Damage Cap +10000], [Dual Awoken Tantalus Mode I (Marcus)] and [Wind/Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Tantalus Break (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Tantalus Mode II (Marcus)], removes [Dual Awoken Tantalus Mode I (Marcus)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Poison)], [Damage Cap +10000], [Dual Awoken Tantalus Mode I (Marcus)] and [Wind/Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Tantalus Break (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Tantalus Mode II (Marcus)], removes [Dual Awoken Tantalus Mode I (Marcus)]"
+    }
+  ],
   "id": "23070010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070010/23070010_256.png",
   "character": "Marcus",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Poison)], [Damage Cap +10000], [Dual Awoken Tantalus Mode I (Marcus)] and [Wind/Poison Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Poison)], [Damage Cap +10000], [Dual Awoken Tantalus Mode I (Marcus)] and [Wind/Poison Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Tantalus Mode II (Marcus)], removes [Dual Awoken Tantalus Mode I (Marcus)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Poison)], [Damage Cap +10000], [Dual Awoken Tantalus Mode I (Marcus)] and [Wind/Poison Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Tantalus Mode II (Marcus)], removes [Dual Awoken Tantalus Mode I (Marcus)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Poison)], [Damage Cap +10000], [Dual Awoken Tantalus Mode I (Marcus)] and [Wind/Poison Resonance +5% Boost] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with 8 single-target Ice/NE physical attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with 8 single-target Ice/NE physical attacks"
+    }
+  ],
   "id": "20350061",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350061/20350061_256.png",
   "character": "Squall",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with 8 single-target Ice/NE physical attacks",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with 8 single-target Ice/NE physical attacks"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with 8 single-target Ice/NE physical attacks"
-    }
-  ]
+  "effects": "5 single attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice Ability High Boost & chases Ice abilities with 8 single-target Ice/NE physical attacks"
 }

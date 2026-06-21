@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, removes KO [Raise: 100%] from all allies, grants [Haste] to all allies, grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode (Lightning, Holy)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, removes KO [Raise: 100%] from all allies, grants [Haste] to all allies, grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode (Lightning, Holy)] to the user"
+    }
+  ],
   "id": "20360019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360019/20360019_256.png",
   "character": "Garnet",
@@ -15,17 +27,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, removes KO [Raise: 100%] from all allies, grants [Haste] to all allies, grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode (Lightning, Holy)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, removes KO [Raise: 100%] from all allies, grants [Haste] to all allies, grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode (Lightning, Holy)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, removes KO [Raise: 100%] from all allies, grants [Haste] to all allies, grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode (Lightning, Holy)] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, removes KO [Raise: 100%] from all allies, grants [Haste] to all allies, grants [Awoken Ballad], [Damage Cap +10000] and [Twin Element Mode (Lightning, Holy)] to the user"
 }

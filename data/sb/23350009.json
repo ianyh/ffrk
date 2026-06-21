@@ -1,17 +1,4 @@
 {
-  "id": "23350009",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23350009/23350009_256.png",
-  "character": "Lilisette",
-  "name": "Zenith Sensual Dance",
-  "name_jp": "究極センシュアルダンス",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XI",
-  "elements": [],
-  "type": "NAT",
-  "target": "All enemies",
-  "lensable": false,
-  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [Pentabreak Damage Boost (15s)] and [Quick Cast] to all allies, grants [Zenith Mode] and [Zenith Mode: Lilisette] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +54,18 @@
       "name": "Spirit Attack: Lilisette",
       "text": "Causes [Imperil Prismatic 10% (5s)] and grants [Buff Prismatic 10% (5s)] to all allies"
     }
-  ]
+  ],
+  "id": "23350009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23350009/23350009_256.png",
+  "character": "Lilisette",
+  "name": "Zenith Sensual Dance",
+  "name_jp": "究極センシュアルダンス",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [Pentabreak Damage Boost (15s)] and [Quick Cast] to all allies, grants [Zenith Mode] and [Zenith Mode: Lilisette] to the user"
 }

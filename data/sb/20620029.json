@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Vision Mode I (Eiko)], and [White Magic and Summoning Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Guardian Mog (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Vision Mode II (Eiko)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Vision Mode I (Eiko)], and [White Magic and Summoning Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Guardian Mog (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Vision Mode II (Eiko)] to the user"
+    }
+  ],
   "id": "20620029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620029/20620029_256.png",
   "character": "Eiko",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Vision Mode I (Eiko)], and [White Magic and Summoning Healing Resonance Boost +5%] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Vision Mode I (Eiko)], and [White Magic and Summoning Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Vision Mode II (Eiko)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Vision Mode I (Eiko)], and [White Magic and Summoning Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Vision Mode II (Eiko)] to the user"
-    }
-  ]
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Vision Mode I (Eiko)], and [White Magic and Summoning Healing Resonance Boost +5%] to the user"
 }

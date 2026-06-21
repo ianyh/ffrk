@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.78 each), causes [Petrify] (13%), grants [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group attacks (2.78 each), causes [Petrify] (13%), grants [Attach Dark] to the user"
+    }
+  ],
   "id": "22540002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540002/22540002_256.png",
   "character": "Seymour",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Five group attacks (2.78 each), causes [Petrify] (13%), grants [Attach Dark] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five group attacks (2.78 each), causes [Petrify] (13%), grants [Attach Dark] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five group attacks (2.78 each), causes [Petrify] (13%), grants [Attach Dark] to the user"
-    }
-  ]
+  "effects": "Five group attacks (2.78 each), causes [Petrify] (13%), grants [Attach Dark] to the user"
 }

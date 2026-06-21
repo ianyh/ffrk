@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Evil Blade Follow-Up]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Evil Blade Follow-Up]"
+    }
+  ],
   "id": "20060014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060014/20060014_256.png",
   "character": "Cecil (Dark Knight)",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Evil Blade Follow-Up]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Evil Blade Follow-Up]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Evil Blade Follow-Up]"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Evil Blade Follow-Up]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.58 each), grants [Sentinel] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.58 each), grants [Sentinel] to the user"
+    }
+  ],
   "id": "20800003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800003/20800003_256.png",
   "character": "Ingus",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Five single attacks (1.58 each), grants [Sentinel] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (1.58 each), grants [Sentinel] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (1.58 each), grants [Sentinel] to the user"
-    }
-  ]
+  "effects": "Five single attacks (1.58 each), grants [Sentinel] to the user"
 }

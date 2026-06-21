@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (104) to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (104) to all allies"
+    }
+  ],
   "id": "20140002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140002/20140002_256.png",
   "character": "Tyro",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (104) to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (104) to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (104) to all allies"
-    }
-  ]
+  "effects": "Restores HP (104) to all allies"
 }

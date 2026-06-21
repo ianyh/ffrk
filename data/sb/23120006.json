@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode (Wind, Dark)], [Awoken Ex-Azure Dragoon], [Damage Cap +10000], [Skybreaker's Might] and [No Air Time 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode (Wind, Dark)], [Awoken Ex-Azure Dragoon], [Damage Cap +10000], [Skybreaker's Might] and [No Air Time 3] to the user"
+    }
+  ],
   "id": "23120006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120006/23120006_256.png",
   "character": "Estinien",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode (Wind, Dark)], [Awoken Ex-Azure Dragoon], [Damage Cap +10000], [Skybreaker's Might] and [No Air Time 3] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode (Wind, Dark)], [Awoken Ex-Azure Dragoon], [Damage Cap +10000], [Skybreaker's Might] and [No Air Time 3] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode (Wind, Dark)], [Awoken Ex-Azure Dragoon], [Damage Cap +10000], [Skybreaker's Might] and [No Air Time 3] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Twin Element Mode (Wind, Dark)], [Awoken Ex-Azure Dragoon], [Damage Cap +10000], [Skybreaker's Might] and [No Air Time 3] to the user"
 }

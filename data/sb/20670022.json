@@ -1,20 +1,4 @@
 {
-  "id": "20670022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670022/20670022_256.png",
-  "character": "Zell",
-  "name": "Zenith Burning Duel",
-  "name_jp": "究極バーニングデュエル",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Zell (Fire)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Zell (Fire)",
       "text": "Grants [Weakness +30% Boost 3] to the user if 0-2 Monk allies are alive, grants [Weakness +30% Boost 3] to all allies if 3 Monk allies are alive, grants [Weakness +30% Boost 3] and one single attack (3.36) capped at 99999 if 4+ Monk allies are alive"
     }
-  ]
+  ],
+  "id": "20670022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670022/20670022_256.png",
+  "character": "Zell",
+  "name": "Zenith Burning Duel",
+  "name_jp": "究極バーニングデュエル",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Zell (Fire)] to the user"
 }

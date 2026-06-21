@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (1.35 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (40%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (1.35 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (40%)"
+    }
+  ],
   "id": "20760003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760003/20760003_256.png",
   "character": "Barret",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single ranged attacks (1.35 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (40%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single ranged attacks (1.35 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (40%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single ranged attacks (1.35 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (40%)"
-    }
-  ]
+  "effects": "Three single ranged attacks (1.35 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (40%)"
 }

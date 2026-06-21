@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 2 single-target Fire/NE ranged physical attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 2 single-target Fire/NE ranged physical attacks + minor Prismatic Imperil for 5 seconds"
+    }
+  ],
   "id": "20760029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760029/20760029_256.png",
   "character": "Barret",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Fire/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 2 single-target Fire/NE ranged physical attacks + minor Prismatic Imperil for 5 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Fire/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 2 single-target Fire/NE ranged physical attacks + minor Prismatic Imperil for 5 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Fire/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 2 single-target Fire/NE ranged physical attacks + minor Prismatic Imperil for 5 seconds"
-    }
-  ]
+  "effects": "5 single-target Fire/NE ranged physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire Ability High Boost & chases Fire abilities with 2 single-target Fire/NE ranged physical attacks + minor Prismatic Imperil for 5 seconds"
 }

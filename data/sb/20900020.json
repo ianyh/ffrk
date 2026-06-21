@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85). Grants [Crystal Force Mode], [Conditional Attach Element 2 with Stacking From Party], [Damage Cap +10000], [Crystal Force Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Grants [ATK and MND +50% (25s)], [Quick Cast 3] to all allies."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85). Grants [Crystal Force Mode], [Conditional Attach Element 2 with Stacking From Party], [Damage Cap +10000], [Crystal Force Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Grants [ATK and MND +50% (25s)], [Quick Cast 3] to all allies."
+    }
+  ],
   "id": "20900020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900020/20900020_256.png",
   "character": "Mog",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (85). Grants [Crystal Force Mode], [Conditional Attach Element 2 with Stacking From Party], [Damage Cap +10000], [Crystal Force Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Grants [ATK and MND +50% (25s)], [Quick Cast 3] to all allies.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85). Grants [Crystal Force Mode], [Conditional Attach Element 2 with Stacking From Party], [Damage Cap +10000], [Crystal Force Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Grants [ATK and MND +50% (25s)], [Quick Cast 3] to all allies."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85). Grants [Crystal Force Mode], [Conditional Attach Element 2 with Stacking From Party], [Damage Cap +10000], [Crystal Force Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Grants [ATK and MND +50% (25s)], [Quick Cast 3] to all allies."
-    }
-  ]
+  "effects": "Restores HP (85). Grants [Crystal Force Mode], [Conditional Attach Element 2 with Stacking From Party], [Damage Cap +10000], [Crystal Force Mode: Mog (Dragoon)], [Nature's Warrior Mode] to user. Grants [ATK and MND +50% (25s)], [Quick Cast 3] to all allies."
 }

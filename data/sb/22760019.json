@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000], and [Darkness Gear Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000], and [Darkness Gear Follow-Up] to the user"
+    }
+  ],
   "id": "22760019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760019/22760019_256.png",
   "character": "Nabaat",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000], and [Darkness Gear Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000], and [Darkness Gear Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000], and [Darkness Gear Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark with Stacking], [Awoken Dark], [Damage Cap +10000], and [Darkness Gear Follow-Up] to the user"
 }

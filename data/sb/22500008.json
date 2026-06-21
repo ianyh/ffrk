@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Last Stand] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), grants [Last Stand] to all allies"
+    }
+  ],
   "id": "22500008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500008/22500008_256.png",
   "character": "Angeal",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single attacks (0.52 each), grants [Last Stand] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (0.52 each), grants [Last Stand] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (0.52 each), grants [Last Stand] to all allies"
-    }
-  ]
+  "effects": "Six single attacks (0.52 each), grants [Last Stand] to all allies"
 }

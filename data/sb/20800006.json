@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies"
+    }
+  ],
   "id": "20800006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800006/20800006_256.png",
   "character": "Ingus",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies"
-    }
-  ]
+  "effects": "Activates Earth Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [Last Stand] to all allies"
 }

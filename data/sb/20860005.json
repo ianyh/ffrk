@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.98 each), causes [Imperil Wind 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.98 each), causes [Imperil Wind 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20860005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860005/20860005_256.png",
   "character": "Zidane",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group ranged attacks (0.98 each), causes [Imperil Wind 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.98 each), causes [Imperil Wind 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.98 each), causes [Imperil Wind 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Six group ranged attacks (0.98 each), causes [Imperil Wind 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

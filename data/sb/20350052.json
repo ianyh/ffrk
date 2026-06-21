@@ -1,21 +1,4 @@
 {
-  "id": "20350052",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350052/20350052_256.png",
-  "character": "Squall",
-  "name": "Zenith Renzokuken (Dual)",
-  "name_jp": "究極連続剣・頂",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "VIII",
-  "elements": [
-    "Ice",
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Ice/FIre, [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Squall] to the user",
   "description": [
     {
       "name": "Entry",
@@ -63,5 +46,22 @@
       "name": "Spirit Attack: Squall",
       "text": "Grants [(Ice/Fire) Ability +30% Boost 1] to the user"
     }
-  ]
+  ],
+  "id": "20350052",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350052/20350052_256.png",
+  "character": "Squall",
+  "name": "Zenith Renzokuken (Dual)",
+  "name_jp": "究極連続剣・頂",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Ice/FIre, [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Squall] to the user"
 }

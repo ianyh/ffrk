@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Terra (Wind) (Break Arte)",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Terra (Wind)], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Terra (Wind) (Break Arte)",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Terra (Wind)], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]."
+    }
+  ],
   "id": "20100067",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100067/20100067_256.png",
   "character": "Terra",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Terra (Wind)], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Terra (Wind)], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]."
-    }
-  ]
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
 }

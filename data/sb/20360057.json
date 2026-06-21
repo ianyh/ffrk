@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Summoning/Bard ability, grants Quick Cast 3 to party (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Summoning/Bard ability, grants Quick Cast 3 to party (max 1 chase)"
+    }
+  ],
   "id": "20360057",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360057/20360057_256.png",
   "character": "Garnet",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Summoning/Bard ability, grants Quick Cast 3 to party (max 1 chase)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Summoning/Bard ability, grants Quick Cast 3 to party (max 1 chase)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Summoning/Bard ability, grants Quick Cast 3 to party (max 1 chase)"
-    }
-  ]
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Summoning/Bard ability, grants Quick Cast 3 to party (max 1 chase)"
 }

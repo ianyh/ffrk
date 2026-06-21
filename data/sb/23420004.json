@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [Attach Fire], [Instant Cast 1] and [Lion Flash Follow-up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [Attach Fire], [Instant Cast 1] and [Lion Flash Follow-up] to the user"
+    }
+  ],
   "id": "23420004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420004/23420004_256.png",
   "character": "Cor",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.63 each), grants [Attach Fire], [Instant Cast 1] and [Lion Flash Follow-up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.63 each), grants [Attach Fire], [Instant Cast 1] and [Lion Flash Follow-up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.63 each), grants [Attach Fire], [Instant Cast 1] and [Lion Flash Follow-up] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.63 each), grants [Attach Fire], [Instant Cast 1] and [Lion Flash Follow-up] to the user"
 }

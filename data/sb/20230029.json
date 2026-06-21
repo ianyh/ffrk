@@ -1,20 +1,4 @@
 {
-  "id": "20230029",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230029/20230029_256.png",
-  "character": "Tifa",
-  "name": "Zenith Beat Rush",
-  "name_jp": "究極掌打ラッシュ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VII",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Tifa (Earth)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Tifa (Earth)",
       "text": "One single attack (5.34) capped at 99999, 6.00 if exploiting Earth weakness"
     }
-  ]
+  ],
+  "id": "20230029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230029/20230029_256.png",
+  "character": "Tifa",
+  "name": "Zenith Beat Rush",
+  "name_jp": "究極掌打ラッシュ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Tifa (Earth)] and [Damage Cap +10000] to the user"
 }

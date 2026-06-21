@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.69 each), causes [Imperil Fire 20%] for 25 seconds, grants [Thief +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random attacks (0.69 each), causes [Imperil Fire 20%] for 25 seconds, grants [Thief +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
   "id": "20240016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240016/20240016_256.png",
   "character": "Locke",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Ten random attacks (0.69 each), causes [Imperil Fire 20%] for 25 seconds, grants [Thief +30% Boost (15s)] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (0.69 each), causes [Imperil Fire 20%] for 25 seconds, grants [Thief +30% Boost (15s)] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten random attacks (0.69 each), causes [Imperil Fire 20%] for 25 seconds, grants [Thief +30% Boost (15s)] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten random attacks (0.69 each), causes [Imperil Fire 20%] for 25 seconds, grants [Thief +30% Boost (15s)] and [Brave Mode] to the user"
 }

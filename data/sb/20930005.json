@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.50 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged attacks (1.50 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20930005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930005/20930005_256.png",
   "character": "Faris",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Five single ranged attacks (1.50 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five single ranged attacks (1.50 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five single ranged attacks (1.50 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Five single ranged attacks (1.50 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

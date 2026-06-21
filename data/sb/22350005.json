@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds"
+    }
+  ],
   "id": "22350005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350005/22350005_256.png",
   "character": "Edward",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds"
-    }
-  ]
+  "effects": "Activates Holy Chain (max 150, field +50%), [MAG and MND +30%] for 25 seconds"
 }

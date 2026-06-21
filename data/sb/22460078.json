@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Onion Knight (Water) (Break Arte)",
+      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Buster Mode], [Buster Chase Mode: Onion Knight (Water)], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Onion Knight (Water) (Break Arte)",
+      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Buster Mode], [Buster Chase Mode: Onion Knight (Water)], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    }
+  ],
   "id": "22460078",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460078/22460078_256.png",
   "character": "Onion Knight",
@@ -14,25 +34,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Buster Mode], [Buster Chase Mode: Onion Knight (Water)], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Buster Mode], [Buster Chase Mode: Onion Knight (Water)], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
-    }
-  ]
+  "effects": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user."
 }

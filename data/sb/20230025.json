@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Tifa)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Meteor Arts (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Tifa)], removes [Dual Awoken Monk Mode I (Tifa)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Tifa)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Meteor Arts (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Tifa)], removes [Dual Awoken Monk Mode I (Tifa)] from the user"
+    }
+  ],
   "id": "20230025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230025/20230025_256.png",
   "character": "Tifa",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Tifa)] and [Earth Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Tifa)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Tifa)], removes [Dual Awoken Monk Mode I (Tifa)] from the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Tifa)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Tifa)], removes [Dual Awoken Monk Mode I (Tifa)] from the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Tifa)] and [Earth Resonance +5% Boost] to the user"
 }

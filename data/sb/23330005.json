@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes positive effects, grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Awoken Astrologer] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes positive effects, grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Awoken Astrologer] to the user"
+    }
+  ],
   "id": "23330005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23330005/23330005_256.png",
   "character": "Orran",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Removes positive effects, grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Awoken Astrologer] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Removes positive effects, grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Awoken Astrologer] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Removes positive effects, grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Awoken Astrologer] to the user"
-    }
-  ]
+  "effects": "Removes positive effects, grants [HP Stock (6000)], [Protect], [Shell], [Haste] and [Instant Cast 1] to all allies, grants [Awoken Astrologer] to the user"
 }

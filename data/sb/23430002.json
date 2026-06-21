@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [100% Critical (25s)], [Awoken Sharpshooter], [Damage Cap +10000] and [Concentrate (Type-0) Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [100% Critical (25s)], [Awoken Sharpshooter], [Damage Cap +10000] and [Concentrate (Type-0) Follow-Up] to the user"
+    }
+  ],
   "id": "23430002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430002/23430002_256.png",
   "character": "Trey",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [100% Critical (25s)], [Awoken Sharpshooter], [Damage Cap +10000] and [Concentrate (Type-0) Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [100% Critical (25s)], [Awoken Sharpshooter], [Damage Cap +10000] and [Concentrate (Type-0) Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [100% Critical (25s)], [Awoken Sharpshooter], [Damage Cap +10000] and [Concentrate (Type-0) Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [100% Critical (25s)], [Awoken Sharpshooter], [Damage Cap +10000] and [Concentrate (Type-0) Follow-Up] to the user"
 }

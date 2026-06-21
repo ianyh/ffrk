@@ -1,22 +1,4 @@
 {
-  "id": "20610022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610022/20610022_256.png",
-  "character": "Sazh",
-  "name": "Zenith Wild Assault",
-  "name_jp": "究極ワイルドアサルト",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIII",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Zenith Mode], [Zenith Mode: Sazh (Machinist)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -68,5 +50,23 @@
       "name": "Spirit Attack: Sazh (Machinist)",
       "text": "Grants [Deadly Strikes +10% 1]/[Deadly Strikes +30% 1] if 0-3/4+ allies are Machinists"
     }
-  ]
+  ],
+  "id": "20610022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610022/20610022_256.png",
+  "character": "Sazh",
+  "name": "Zenith Wild Assault",
+  "name_jp": "究極ワイルドアサルト",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIII",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Zenith Mode], [Zenith Mode: Sazh (Machinist)] and [Damage Cap +10000] to the user"
 }

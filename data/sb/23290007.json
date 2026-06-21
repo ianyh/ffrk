@@ -1,17 +1,4 @@
 {
-  "id": "23290007",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290007/23290007_256.png",
-  "character": "Tama",
-  "name": "Zenith Bubbly Challenge",
-  "name_jp": "究極アゲアゲチャレンジ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Beyond",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (55) capped at 19999, grants [Protect], grants [Shell], grants [Haste], [Last Stand], [High Quick Cast 3] and [Natural Cure: Tama] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Tama (Heal)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +54,18 @@
       "name": "World Parade+",
       "text": "Restores HP (20) to all allies,  grants smart ether 1 to all allies every fourth cast"
     }
-  ]
+  ],
+  "id": "23290007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290007/23290007_256.png",
+  "character": "Tama",
+  "name": "Zenith Bubbly Challenge",
+  "name_jp": "究極アゲアゲチャレンジ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55) capped at 19999, grants [Protect], grants [Shell], grants [Haste], [Last Stand], [High Quick Cast 3] and [Natural Cure: Tama] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Tama (Heal)] to the user"
 }

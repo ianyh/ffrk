@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Dark 20% (25s)] to the target, grants [Instant Cast 1] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Dark 20% (25s)] to the target, grants [Instant Cast 1] and [200% ATB 1] to the user"
+    }
+  ],
   "id": "22630021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630021/22630021_256.png",
   "character": "Rufus",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Causes [Imperil Dark 20% (25s)] to the target, grants [Instant Cast 1] and [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Dark 20% (25s)] to the target, grants [Instant Cast 1] and [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Dark 20% (25s)] to the target, grants [Instant Cast 1] and [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "Causes [Imperil Dark 20% (25s)] to the target, grants [Instant Cast 1] and [200% ATB 1] to the user"
 }

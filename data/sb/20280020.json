@@ -1,17 +1,4 @@
 {
-  "id": "20280020",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280020/20280020_256.png",
-  "character": "Gordon",
-  "name": "Zenith Kashuan's Resolve",
-  "name_jp": "究極引き継いだ意志",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "II",
-  "elements": [],
-  "type": "NAT",
-  "target": "All enemies",
-  "lensable": false,
-  "effects": "Causes [Imperil Prismatic 20% (25s)], grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)] and [Quick Cast] to all allies, grants [Zenith Mode] and [Zenith Mode: Gordon] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +54,18 @@
       "name": "Spirit Attack: Gordon",
       "text": "Causes [Imperil Prismatic 10% (15s)]"
     }
-  ]
+  ],
+  "id": "20280020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280020/20280020_256.png",
+  "character": "Gordon",
+  "name": "Zenith Kashuan's Resolve",
+  "name_jp": "究極引き継いだ意志",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Causes [Imperil Prismatic 20% (25s)], grants [ATK, MAG and MND 30%, DEF and RES 25% (25s)] and [Quick Cast] to all allies, grants [Zenith Mode] and [Zenith Mode: Gordon] to the user"
 }

@@ -1,27 +1,11 @@
 {
-  "id": "20210029",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210029/20210029_256.png",
-  "character": "Celes",
-  "name": "Holy Runic Blade",
-  "name_jp": "聖なる魔封剣",
-  "tier": "ADSB",
-  "sb_version": "ADSB2",
-  "realm": "VI",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Holy Runic Blade level 0/1/2, removes Arcane Dyad Empowered: Celes (Holy) from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Holy Runic Blade level 0/1/2, removes Arcane Dyad Empowered: Celes (Holy) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Holy Runic Blade (Engaged)",
       "text": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Celes (Holy)], [Holy Runic Blade Damage Tracker] and [Holy Runic Blade Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Holy Runic Blade level 0/1/2, removes Arcane Dyad Empowered: Celes (Holy) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Holy Runic Blade (Engaged)",
       "text": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Celes (Holy)], [Holy Runic Blade Damage Tracker] and [Holy Runic Blade Level]"
     }
-  ]
+  ],
+  "id": "20210029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210029/20210029_256.png",
+  "character": "Celes",
+  "name": "Holy Runic Blade (Engaged)",
+  "name_jp": "聖なる魔封剣",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Celes (Holy)], [Holy Runic Blade Damage Tracker] and [Holy Runic Blade Level]"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Switch Draw Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Spellstrike Mode I (Ultimecia)] and [(Wind/Dark) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Apocalypse (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellstrike Mode II (Ultimecia)], removes [Dual Awoken Spellstrike Mode I (Ultimecia)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Switch Draw Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Spellstrike Mode I (Ultimecia)] and [(Wind/Dark) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Apocalypse (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellstrike Mode II (Ultimecia)], removes [Dual Awoken Spellstrike Mode I (Ultimecia)]"
+    }
+  ],
   "id": "23230020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230020/23230020_256.png",
   "character": "Ultimecia",
@@ -15,25 +35,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Switch Draw Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Spellstrike Mode I (Ultimecia)] and [(Wind/Dark) Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Switch Draw Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Spellstrike Mode I (Ultimecia)] and [(Wind/Dark) Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellstrike Mode II (Ultimecia)], removes [Dual Awoken Spellstrike Mode I (Ultimecia)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Switch Draw Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Spellstrike Mode I (Ultimecia)] and [(Wind/Dark) Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellstrike Mode II (Ultimecia)], removes [Dual Awoken Spellstrike Mode I (Ultimecia)]"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Switch Draw Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Spellstrike Mode I (Ultimecia)] and [(Wind/Dark) Resonance +5% Boost] to the user"
 }

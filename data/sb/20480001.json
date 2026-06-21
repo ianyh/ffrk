@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1] for 30 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1] for 30 seconds"
+    }
+  ],
   "id": "20480001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20480001/20480001_256.png",
   "character": "Ninja",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Physical Blink 1] for 30 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Physical Blink 1] for 30 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Physical Blink 1] for 30 seconds"
-    }
-  ]
+  "effects": "Grants [Physical Blink 1] for 30 seconds"
 }

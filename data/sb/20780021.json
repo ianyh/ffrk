@@ -1,20 +1,4 @@
 {
-  "id": "20780021",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780021/20780021_256.png",
-  "character": "Setzer",
-  "name": "Zenith Spare Darts",
-  "name_jp": "究極エクストラダーツ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VI",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [100% Critical] and [200% ATB 1] to allies with Dark infusion, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Setzer (Support)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Spirit Attack: Setzer (Support)",
       "text": "Randomly deals one single ranged attack (0.80 each) and causes [DEF -30% (8s), or deals two single ranged attacks (0.80 each) and causes [DEF and RES -30% (8s)], or deals six single ranged attacks (0.80 each) and causes [ATK, DEF, MAG and RES -30% (8s)]"
     }
-  ]
+  ],
+  "id": "20780021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780021/20780021_256.png",
+  "character": "Setzer",
+  "name": "Zenith Spare Darts",
+  "name_jp": "究極エクストラダーツ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [100% Critical] and [200% ATB 1] to allies with Dark infusion, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Setzer (Support)] to the user"
 }

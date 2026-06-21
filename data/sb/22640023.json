@@ -1,22 +1,4 @@
 {
-  "id": "22640023",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640023/22640023_256.png",
-  "character": "Emperor",
-  "name": "Zenith Dark Geyser",
-  "name_jp": "究極ダークゲイザー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "II",
-  "elements": [
-    "Dark",
-    "Earth",
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark 2 with Stacking], [Attach Earth 2 with Stacking] or [Attach Wind 2 with Stacking] if the entry damage was Dark/Earth/Wind, grants [Zenith Mode], [Zenith Mode: Emperor (Dark)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -76,5 +58,23 @@
       "name": "Spirit Attack: Emperor (Dark)",
       "text": "Causes [Imperil Dark 10% (15s)], [Imperil Earth 10% (15s)] and [Imperil Wind 10% (15s)]"
     }
-  ]
+  ],
+  "id": "22640023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640023/22640023_256.png",
+  "character": "Emperor",
+  "name": "Zenith Dark Geyser",
+  "name_jp": "究極ダークゲイザー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark 2 with Stacking], [Attach Earth 2 with Stacking] or [Attach Wind 2 with Stacking] if the entry damage was Dark/Earth/Wind, grants [Zenith Mode], [Zenith Mode: Emperor (Dark)] and [Damage Cap +10000] to the user"
 }

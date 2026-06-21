@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Magical Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Magical Blink 1]"
+    }
+  ],
   "id": "20990008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990008/20990008_256.png",
   "character": "Rosa",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Haste] and [Magical Blink 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Haste] and [Magical Blink 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Haste] and [Magical Blink 1]"
-    }
-  ]
+  "effects": "Grants [Haste] and [Magical Blink 1]"
 }

@@ -1,20 +1,4 @@
 {
-  "id": "22100026",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100026/22100026_256.png",
-  "character": "Laguna",
-  "name": "Zenith Glacial High",
-  "name_jp": "究極グレイシャルハイ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [
-    "Ice",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single ranged attacks (? each) capped at 19999, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Laguna (Ice)]",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Laguna",
       "text": "Three single ranged physical attacks (0.80/0.90 each) capped at 19999, higher multiplier if exploiting weakness"
     }
-  ]
+  ],
+  "id": "22100026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100026/22100026_256.png",
+  "character": "Laguna",
+  "name": "Zenith Glacial High",
+  "name_jp": "究極グレイシャルハイ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (? each) capped at 19999, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Laguna (Ice)]"
 }

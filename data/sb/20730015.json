@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking] and [Moonblossom Purity Follow-Up]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy with Stacking] and [Moonblossom Purity Follow-Up]"
+    }
+  ],
   "id": "20730015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730015/20730015_256.png",
   "character": "Fusoya",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Holy with Stacking] and [Moonblossom Purity Follow-Up]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Holy with Stacking] and [Moonblossom Purity Follow-Up]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Holy with Stacking] and [Moonblossom Purity Follow-Up]"
-    }
-  ]
+  "effects": "Grants [Attach Holy with Stacking] and [Moonblossom Purity Follow-Up]"
 }

@@ -1,28 +1,11 @@
 {
-  "id": "20520036",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520036/20520036_256.png",
-  "character": "Yuna",
-  "name": "Invoke Bahamut",
-  "name_jp": "召喚・バハムート",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "X",
-  "elements": [
-    "Holy",
-    "Wind",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Ultima Fury level 0/1, removes Arcane Dyad Empowered: Yuna from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Ultima Fury level 0/1, removes Arcane Dyad Empowered: Yuna from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Invoke Bahamut (Engaged)",
       "text": "Restores HP (55), grants [Last Stand] and [Haste], grants [Arcane Dyad Empowered: Yuna], [Invoke Bahamut Ability Tracker], [Invoke Bahamut Level] and [Damage Cap +10000] to the user"
     }
   ],
@@ -32,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Ultima Fury level 0/1, removes Arcane Dyad Empowered: Yuna from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Invoke Bahamut (Engaged)",
       "text": "Restores HP (55), grants [Last Stand] and [Haste], grants [Arcane Dyad Empowered: Yuna], [Invoke Bahamut Ability Tracker], [Invoke Bahamut Level] and [Damage Cap +10000] to the user"
     }
-  ]
+  ],
+  "id": "20520036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520036/20520036_256.png",
+  "character": "Yuna",
+  "name": "Invoke Bahamut (Engaged)",
+  "name_jp": "召喚・バハムート",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "X",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (55), grants [Last Stand] and [Haste], grants [Arcane Dyad Empowered: Yuna], [Invoke Bahamut Ability Tracker], [Invoke Bahamut Level] and [Damage Cap +10000] to the user"
 }

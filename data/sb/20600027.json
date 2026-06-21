@@ -1,27 +1,11 @@
 {
-  "id": "20600027",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600027/20600027_256.png",
-  "character": "Lightning",
-  "name": "Zantetsuken",
-  "name_jp": "斬鉄剣",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "XIII",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Zantetsuken level 0/1/2, removes Arcane Dyad Empowered: Lightning from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Zantetsuken level 0/1/2, removes Arcane Dyad Empowered: Lightning from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Zantetsuken (Engaged)",
       "text": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Lightning], [Zantetsuken Ability Tracker] and [Zantetsuken Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Zantetsuken level 0/1/2, removes Arcane Dyad Empowered: Lightning from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Zantetsuken (Engaged)",
       "text": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Lightning], [Zantetsuken Ability Tracker] and [Zantetsuken Level]"
     }
-  ]
+  ],
+  "id": "20600027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600027/20600027_256.png",
+  "character": "Lightning",
+  "name": "Zantetsuken (Engaged)",
+  "name_jp": "斬鉄剣",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Lightning], [Zantetsuken Ability Tracker] and [Zantetsuken Level]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.95 each), causes [Sap] (10%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.95 each), causes [Sap] (10%)"
+    }
+  ],
   "id": "22260003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260003/22260003_256.png",
   "character": "Serah",
@@ -11,17 +23,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Two single attacks (0.95 each), causes [Sap] (10%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Two single attacks (0.95 each), causes [Sap] (10%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Two single attacks (0.95 each), causes [Sap] (10%)"
-    }
-  ]
+  "effects": "Two single attacks (0.95 each), causes [Sap] (10%)"
 }

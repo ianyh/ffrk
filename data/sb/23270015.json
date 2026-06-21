@@ -1,20 +1,4 @@
 {
-  "id": "23270015",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270015/23270015_256.png",
-  "character": "Sice",
-  "name": "Zenith Black Hole (Type-0)",
-  "name_jp": "究極Bホール【零式】",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Sice (Dark)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Sice (Dark)",
       "text": "One single attack (3.36) capped at 99999, grants [Quick Cast 3] to the user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ Type-0 allies are alive"
     }
-  ]
+  ],
+  "id": "23270015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270015/23270015_256.png",
+  "character": "Sice",
+  "name": "Zenith Black Hole (Type-0)",
+  "name_jp": "究極Bホール【零式】",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Sice (Dark)] and [Damage Cap +10000] to the user"
 }

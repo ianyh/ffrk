@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.00), 100% hit rate"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (2.00), 100% hit rate"
+    }
+  ],
   "id": "20040002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20040002/20040002_256.png",
   "character": "Ranger",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single ranged attack (2.00), 100% hit rate",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (2.00), 100% hit rate"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (2.00), 100% hit rate"
-    }
-  ]
+  "effects": "One single ranged attack (2.00), 100% hit rate"
 }

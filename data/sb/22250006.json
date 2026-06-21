@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [Protect], [Shell] and [Haste] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [Protect], [Shell] and [Haste] to all allies"
+    }
+  ],
   "id": "22250006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250006/22250006_256.png",
   "character": "Cait Sith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [Protect], [Shell] and [Haste] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [Protect], [Shell] and [Haste] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [Protect], [Shell] and [Haste] to all allies"
-    }
-  ]
+  "effects": "Causes [ATK, DEF, MAG and RES -40% (25s)] to the target, grants [Protect], [Shell] and [Haste] to all allies"
 }

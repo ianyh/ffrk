@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Lightning/NE ranged physical attacks, Quick Lightning to party, Lv.3 En-Lightning, En-Lightning Stack, Sync Mode, Cap Break Level 1 & Rock'n roll! to user\nAttack (Lightning): 6 single-target Lightning/NE ranged physical attacks\nDefend (Lightning): 3 single-target Lightning/NE ranged physical attacks, every 2 uses grant Lightning Damage +10% to user\nRock'n roll!: When an ally uses Lightning abilities, chases with 4 single-target Lightning/NE ranged physical attacks, Lightning Damage +10% for 5 seconds to that ally"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Lightning/NE ranged physical attacks, Quick Lightning to party, Lv.3 En-Lightning, En-Lightning Stack, Sync Mode, Cap Break Level 1 & Rock'n roll! to user\nAttack (Lightning): 6 single-target Lightning/NE ranged physical attacks\nDefend (Lightning): 3 single-target Lightning/NE ranged physical attacks, every 2 uses grant Lightning Damage +10% to user\nRock'n roll!: When an ally uses Lightning abilities, chases with 4 single-target Lightning/NE ranged physical attacks, Lightning Damage +10% for 5 seconds to that ally"
+    }
+  ],
   "id": "23180021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180021/23180021_256.png",
   "character": "King",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "15 single-target Lightning/NE ranged physical attacks, Quick Lightning to party, Lv.3 En-Lightning, En-Lightning Stack, Sync Mode, Cap Break Level 1 & Rock'n roll! to user\nAttack (Lightning): 6 single-target Lightning/NE ranged physical attacks\nDefend (Lightning): 3 single-target Lightning/NE ranged physical attacks, every 2 uses grant Lightning Damage +10% to user\nRock'n roll!: When an ally uses Lightning abilities, chases with 4 single-target Lightning/NE ranged physical attacks, Lightning Damage +10% for 5 seconds to that ally",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Lightning/NE ranged physical attacks, Quick Lightning to party, Lv.3 En-Lightning, En-Lightning Stack, Sync Mode, Cap Break Level 1 & Rock'n roll! to user\nAttack (Lightning): 6 single-target Lightning/NE ranged physical attacks\nDefend (Lightning): 3 single-target Lightning/NE ranged physical attacks, every 2 uses grant Lightning Damage +10% to user\nRock'n roll!: When an ally uses Lightning abilities, chases with 4 single-target Lightning/NE ranged physical attacks, Lightning Damage +10% for 5 seconds to that ally"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Lightning/NE ranged physical attacks, Quick Lightning to party, Lv.3 En-Lightning, En-Lightning Stack, Sync Mode, Cap Break Level 1 & Rock'n roll! to user\nAttack (Lightning): 6 single-target Lightning/NE ranged physical attacks\nDefend (Lightning): 3 single-target Lightning/NE ranged physical attacks, every 2 uses grant Lightning Damage +10% to user\nRock'n roll!: When an ally uses Lightning abilities, chases with 4 single-target Lightning/NE ranged physical attacks, Lightning Damage +10% for 5 seconds to that ally"
-    }
-  ]
+  "effects": "15 single-target Lightning/NE ranged physical attacks, Quick Lightning to party, Lv.3 En-Lightning, En-Lightning Stack, Sync Mode, Cap Break Level 1 & Rock'n roll! to user\nAttack (Lightning): 6 single-target Lightning/NE ranged physical attacks\nDefend (Lightning): 3 single-target Lightning/NE ranged physical attacks, every 2 uses grant Lightning Damage +10% to user\nRock'n roll!: When an ally uses Lightning abilities, chases with 4 single-target Lightning/NE ranged physical attacks, Lightning Damage +10% for 5 seconds to that ally"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Buff Water 20% (15s)], [Buff Earth 20% (15s)], [Buff Holy 20% (15s)], [Awoken Instacast], [Damage Cap +20000], [Tri-Element Mode II (Earth, Water, Holy)] and [Facing Destiny] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Buff Water 20% (15s)], [Buff Earth 20% (15s)], [Buff Holy 20% (15s)], [Awoken Instacast], [Damage Cap +20000], [Tri-Element Mode II (Earth, Water, Holy)] and [Facing Destiny] to the user"
+    }
+  ],
   "id": "20090042",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090042/20090042_256.png",
   "character": "Rydia",
@@ -16,17 +28,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Buff Water 20% (15s)], [Buff Earth 20% (15s)], [Buff Holy 20% (15s)], [Awoken Instacast], [Damage Cap +20000], [Tri-Element Mode II (Earth, Water, Holy)] and [Facing Destiny] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Buff Water 20% (15s)], [Buff Earth 20% (15s)], [Buff Holy 20% (15s)], [Awoken Instacast], [Damage Cap +20000], [Tri-Element Mode II (Earth, Water, Holy)] and [Facing Destiny] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Buff Water 20% (15s)], [Buff Earth 20% (15s)], [Buff Holy 20% (15s)], [Awoken Instacast], [Damage Cap +20000], [Tri-Element Mode II (Earth, Water, Holy)] and [Facing Destiny] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Buff Water 20% (15s)], [Buff Earth 20% (15s)], [Buff Holy 20% (15s)], [Awoken Instacast], [Damage Cap +20000], [Tri-Element Mode II (Earth, Water, Holy)] and [Facing Destiny] to the user"
 }

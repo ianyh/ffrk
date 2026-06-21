@@ -1,17 +1,4 @@
 {
-  "id": "22960011",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960011/22960011_256.png",
-  "character": "Aria",
-  "name": "Zenith Prismatic Light",
-  "name_jp": "究極虹の光",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "III",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Regenga], [Haste], [Last Stand], [High Quick Cast 2] and [Natural Cure: Aria] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Aria] to the user",
   "description": [
     {
       "name": "Entry",
@@ -75,5 +62,18 @@
       "name": "Prismatic Light+",
       "text": "Grants [HP Stock (1500)], grants [High Quick Cast 1] every second activation"
     }
-  ]
+  ],
+  "id": "22960011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960011/22960011_256.png",
+  "character": "Aria",
+  "name": "Zenith Prismatic Light",
+  "name_jp": "究極虹の光",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Regenga], [Haste], [Last Stand], [High Quick Cast 2] and [Natural Cure: Aria] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Aria] to the user"
 }

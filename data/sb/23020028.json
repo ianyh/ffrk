@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Damage +5% to Sharpshooters, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE or Lightning/NE ranged physical attacks under En-Fire or En-Lightning, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Lightning/NE ranged physical attack at True Cap Break Level 1, Damage +30% to Sharpshooters, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Damage +5% to Sharpshooters, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE or Lightning/NE ranged physical attacks under En-Fire or En-Lightning, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Lightning/NE ranged physical attack at True Cap Break Level 1, Damage +30% to Sharpshooters, removes Master Mode"
+    }
+  ],
   "id": "23020028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020028/23020028_256.png",
   "character": "Elena",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Damage +5% to Sharpshooters, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE or Lightning/NE ranged physical attacks under En-Fire or En-Lightning, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Lightning/NE ranged physical attack at True Cap Break Level 1, Damage +30% to Sharpshooters, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Damage +5% to Sharpshooters, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE or Lightning/NE ranged physical attacks under En-Fire or En-Lightning, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Lightning/NE ranged physical attack at True Cap Break Level 1, Damage +30% to Sharpshooters, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Damage +5% to Sharpshooters, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE or Lightning/NE ranged physical attacks under En-Fire or En-Lightning, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Lightning/NE ranged physical attack at True Cap Break Level 1, Damage +30% to Sharpshooters, removes Master Mode"
-    }
-  ]
+  "effects": "Damage +5% to Sharpshooters, Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 4, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Fire/NE or Lightning/NE ranged physical attacks under En-Fire or En-Lightning, Damage +10/15/20/25/30% to party after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Fire/Lightning/NE ranged physical attack at True Cap Break Level 1, Damage +30% to Sharpshooters, removes Master Mode"
 }

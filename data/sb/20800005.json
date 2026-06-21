@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.96 each), [ATK and MAG -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.96 each), [ATK and MAG -50%] for 25 seconds"
+    }
+  ],
   "id": "20800005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800005/20800005_256.png",
   "character": "Ingus",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (0.96 each), [ATK and MAG -50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.96 each), [ATK and MAG -50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.96 each), [ATK and MAG -50%] for 25 seconds"
-    }
-  ]
+  "effects": "Eight single attacks (0.96 each), [ATK and MAG -50%] for 25 seconds"
 }

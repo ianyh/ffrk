@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Lightning/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Dual Awoken Turks Recruit Mode I to user, Sharpshooter Damage +3% to party\nDual Awoken Turks Recruit Mode I: Fire/Lightning Ability Boost, Triplecast Fire/Lightning & Quick Fire/Lightning"
+    },
+    {
+      "name": "Awoken Endless Fascination (Dual Shift)",
+      "text": "Instant ATB 1, Linked Materia Mode II & Dual Awoken Turks Recruit Mode II to user\nDual Awoken Turks Recruit Mode II: Fire/Lightning Ability Boost, Instant Fire/Lightning & chases a Fire/Lightning ability with Ranged PHY Damage +30% for 3 turns/15 seconds to party with at least 0/4 Sharpshooters in party\nLinked Materia Mode II: En-Fire Stack or En-Lightning Stack"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Lightning/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Dual Awoken Turks Recruit Mode I to user, Sharpshooter Damage +3% to party\nDual Awoken Turks Recruit Mode I: Fire/Lightning Ability Boost, Triplecast Fire/Lightning & Quick Fire/Lightning"
+    },
+    {
+      "name": "Awoken Endless Fascination (Dual Shift)",
+      "text": "Instant ATB 1, Linked Materia Mode II & Dual Awoken Turks Recruit Mode II to user\nDual Awoken Turks Recruit Mode II: Fire/Lightning Ability Boost, Instant Fire/Lightning & chases a Fire/Lightning ability with Ranged PHY Damage +30% for 3 turns/15 seconds to party with at least 0/4 Sharpshooters in party\nLinked Materia Mode II: En-Fire Stack or En-Lightning Stack"
+    }
+  ],
   "id": "23020023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020023/23020023_256.png",
   "character": "Elena",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/Lightning/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Dual Awoken Turks Recruit Mode I to user, Sharpshooter Damage +3% to party\nDual Awoken Turks Recruit Mode I: Fire/Lightning Ability Boost, Triplecast Fire/Lightning & Quick Fire/Lightning",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Lightning/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Dual Awoken Turks Recruit Mode I to user, Sharpshooter Damage +3% to party\nDual Awoken Turks Recruit Mode I: Fire/Lightning Ability Boost, Triplecast Fire/Lightning & Quick Fire/Lightning"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1, Linked Materia Mode II & Dual Awoken Turks Recruit Mode II to user\nDual Awoken Turks Recruit Mode II: Fire/Lightning Ability Boost, Instant Fire/Lightning & chases a Fire/Lightning ability with Ranged PHY Damage +30% for 3 turns/15 seconds to party with at least 0/4 Sharpshooters in party\nLinked Materia Mode II: En-Fire Stack or En-Lightning Stack"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Lightning/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Dual Awoken Turks Recruit Mode I to user, Sharpshooter Damage +3% to party\nDual Awoken Turks Recruit Mode I: Fire/Lightning Ability Boost, Triplecast Fire/Lightning & Quick Fire/Lightning"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1, Linked Materia Mode II & Dual Awoken Turks Recruit Mode II to user\nDual Awoken Turks Recruit Mode II: Fire/Lightning Ability Boost, Instant Fire/Lightning & chases a Fire/Lightning ability with Ranged PHY Damage +30% for 3 turns/15 seconds to party with at least 0/4 Sharpshooters in party\nLinked Materia Mode II: En-Fire Stack or En-Lightning Stack"
-    }
-  ]
+  "effects": "7 single-target Fire/Lightning/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Dual Awoken Turks Recruit Mode I to user, Sharpshooter Damage +3% to party\nDual Awoken Turks Recruit Mode I: Fire/Lightning Ability Boost, Triplecast Fire/Lightning & Quick Fire/Lightning"
 }

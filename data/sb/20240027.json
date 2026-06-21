@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB (Synchro)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB (Synchro)] to the user"
+    }
+  ],
   "id": "20240027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240027/20240027_256.png",
   "character": "Locke",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB (Synchro)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB (Synchro)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB (Synchro)] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [200% ATB (Synchro)] to the user"
 }

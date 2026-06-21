@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE ranged physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Earth/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Ninja Damage +50%, Dualcast Ninja, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE ranged physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Earth/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Ninja Damage +50%, Dualcast Ninja, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
   "id": "22040048",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040048/22040048_256.png",
   "character": "Yuffie",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Earth/NE ranged physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Earth/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Ninja Damage +50%, Dualcast Ninja, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/NE ranged physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Earth/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Ninja Damage +50%, Dualcast Ninja, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/NE ranged physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Earth/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Ninja Damage +50%, Dualcast Ninja, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ]
+  "effects": "7 single-target Earth/NE ranged physical attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1, Instant ATB 1 & Crystal Mode to user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Earth/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Ninja Damage +50%, Dualcast Ninja, Instant ATB & 50% DEF/RES Pierce] for 1 turn to user"
 }

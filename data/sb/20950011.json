@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode (Earth, Wind, Poison)], [Awoken Ninja], [Damage Cap +10000] and [Twin Destruction Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode (Earth, Wind, Poison)], [Awoken Ninja], [Damage Cap +10000] and [Twin Destruction Follow-Up] to the user"
+    }
+  ],
   "id": "20950011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950011/20950011_256.png",
   "character": "Thancred",
@@ -16,17 +28,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode (Earth, Wind, Poison)], [Awoken Ninja], [Damage Cap +10000] and [Twin Destruction Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode (Earth, Wind, Poison)], [Awoken Ninja], [Damage Cap +10000] and [Twin Destruction Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode (Earth, Wind, Poison)], [Awoken Ninja], [Damage Cap +10000] and [Twin Destruction Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode (Earth, Wind, Poison)], [Awoken Ninja], [Damage Cap +10000] and [Twin Destruction Follow-Up] to the user"
 }

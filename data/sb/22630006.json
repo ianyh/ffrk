@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.44 each), [MAG -50%] for 15 seconds, removes positive effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.44 each), [MAG -50%] for 15 seconds, removes positive effects"
+    }
+  ],
   "id": "22630006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630006/22630006_256.png",
   "character": "Rufus",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group ranged attacks (0.44 each), [MAG -50%] for 15 seconds, removes positive effects",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.44 each), [MAG -50%] for 15 seconds, removes positive effects"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.44 each), [MAG -50%] for 15 seconds, removes positive effects"
-    }
-  ]
+  "effects": "Six group ranged attacks (0.44 each), [MAG -50%] for 15 seconds, removes positive effects"
 }

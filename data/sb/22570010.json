@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF4 allies are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] to the user, grants [Airship Tech's Forte Follow-Up] to the user if 4+ FF4 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF4 allies are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] to the user, grants [Airship Tech's Forte Follow-Up] to the user if 4+ FF4 allies are alive"
+    }
+  ],
   "id": "22570010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570010/22570010_256.png",
   "character": "Cid (IV)",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF4 allies are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] to the user, grants [Airship Tech's Forte Follow-Up] to the user if 4+ FF4 allies are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF4 allies are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] to the user, grants [Airship Tech's Forte Follow-Up] to the user if 4+ FF4 allies are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF4 allies are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] to the user, grants [Airship Tech's Forte Follow-Up] to the user if 4+ FF4 allies are alive"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF4 allies are alive, grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] to the user, grants [Airship Tech's Forte Follow-Up] to the user if 4+ FF4 allies are alive"
 }

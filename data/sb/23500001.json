@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and [Icemoon Flash Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and [Icemoon Flash Follow-Up] to the user"
+    }
+  ],
   "id": "23500001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23500001/23500001_256.png",
   "character": "Lasswell",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "FIfteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and [Icemoon Flash Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "FIfteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and [Icemoon Flash Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "FIfteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and [Icemoon Flash Follow-Up] to the user"
-    }
-  ]
+  "effects": "FIfteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [High Retaliate] and [Icemoon Flash Follow-Up] to the user"
 }

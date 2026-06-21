@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants all allies [Buff Earth 20% (15s)], grants [Soul Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants all allies [Buff Earth 20% (15s)], grants [Soul Break Gauge +250] to the user"
+    }
+  ],
   "id": "23280018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280018/23280018_256.png",
   "character": "Enna Kros",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants all allies [Buff Earth 20% (15s)], grants [Soul Break Gauge +250] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants all allies [Buff Earth 20% (15s)], grants [Soul Break Gauge +250] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants all allies [Buff Earth 20% (15s)], grants [Soul Break Gauge +250] to the user"
-    }
-  ]
+  "effects": "Grants all allies [Buff Earth 20% (15s)], grants [Soul Break Gauge +250] to the user"
 }

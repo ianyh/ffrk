@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 2] and [Tri-Element Mode (Fire, Ice, Water)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 2] and [Tri-Element Mode (Fire, Ice, Water)]"
+    }
+  ],
   "id": "23430006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430006/23430006_256.png",
   "character": "Trey",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Instant Cast 2] and [Tri-Element Mode (Fire, Ice, Water)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Instant Cast 2] and [Tri-Element Mode (Fire, Ice, Water)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Instant Cast 2] and [Tri-Element Mode (Fire, Ice, Water)]"
-    }
-  ]
+  "effects": "Grants [Instant Cast 2] and [Tri-Element Mode (Fire, Ice, Water)]"
 }

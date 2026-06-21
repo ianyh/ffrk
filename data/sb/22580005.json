@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (8.00 each) capped at 99999"
+    }
+  ],
   "id": "22580005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580005/22580005_256.png",
   "character": "Master",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single attacks (8.00 each) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (8.00 each) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (8.00 each) capped at 99999"
-    }
-  ]
+  "effects": "Three single attacks (8.00 each) capped at 99999"
 }

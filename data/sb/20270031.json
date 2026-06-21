@@ -1,21 +1,4 @@
 {
-  "id": "20270031",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270031/20270031_256.png",
-  "character": "Firion",
-  "name": "Zenith Wild Rose Vow",
-  "name_jp": "究極のばらの誓い",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "II",
-  "elements": [
-    "Holy",
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Holy/Fire, grants [Zenith Mode], [Zenith Mode: Firion (Holy)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -79,5 +62,22 @@
       "name": "Lord of Arms+ II",
       "text": "Six single attacks (1.20 each) "
     }
-  ]
+  ],
+  "id": "20270031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270031/20270031_256.png",
+  "character": "Firion",
+  "name": "Zenith Wild Rose Vow",
+  "name_jp": "究極のばらの誓い",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Holy/Fire, grants [Zenith Mode], [Zenith Mode: Firion (Holy)] and [Damage Cap +10000] to the user"
 }

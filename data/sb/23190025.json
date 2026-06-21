@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE physical attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20%, Physical Casting Speed x1.1 & chases an Earth ability with Weakness Damage +30% for 3 turns to user/party with at least 0/3 Warrior II members; Weakness Damage +30% for 15 seconds to party with at least 4 Warrior II members under Fate Synergy (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Full Swing+: 1.6s CT; Gaia Pulse+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE physical attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20%, Physical Casting Speed x1.1 & chases an Earth ability with Weakness Damage +30% for 3 turns to user/party with at least 0/3 Warrior II members; Weakness Damage +30% for 15 seconds to party with at least 4 Warrior II members under Fate Synergy (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Full Swing+: 1.6s CT; Gaia Pulse+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
   "id": "23190025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190025/23190025_256.png",
   "character": "Cinque",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Earth/NE physical attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20%, Physical Casting Speed x1.1 & chases an Earth ability with Weakness Damage +30% for 3 turns to user/party with at least 0/3 Warrior II members; Weakness Damage +30% for 15 seconds to party with at least 4 Warrior II members under Fate Synergy (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Full Swing+: 1.6s CT; Gaia Pulse+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/NE physical attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20%, Physical Casting Speed x1.1 & chases an Earth ability with Weakness Damage +30% for 3 turns to user/party with at least 0/3 Warrior II members; Weakness Damage +30% for 15 seconds to party with at least 4 Warrior II members under Fate Synergy (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Full Swing+: 1.6s CT; Gaia Pulse+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/NE physical attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20%, Physical Casting Speed x1.1 & chases an Earth ability with Weakness Damage +30% for 3 turns to user/party with at least 0/3 Warrior II members; Weakness Damage +30% for 15 seconds to party with at least 4 Warrior II members under Fate Synergy (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Full Swing+: 1.6s CT; Gaia Pulse+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ]
+  "effects": "7 single-target Earth/NE physical attacks at Cap Break Level 1, Lv.3 En-Earth, En-Earth Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Earth Damage +20%, Physical Casting Speed x1.1 & chases an Earth ability with Weakness Damage +30% for 3 turns to user/party with at least 0/3 Warrior II members; Weakness Damage +30% for 15 seconds to party with at least 4 Warrior II members under Fate Synergy (max 1 chase)\nUltimate Dexterity Mode: Dualcast Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Full Swing+: 1.6s CT; Gaia Pulse+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.50 each), causes [Paralyze] (15%) and [Silence] (15%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.50 each), causes [Paralyze] (15%) and [Silence] (15%)"
+    }
+  ],
   "id": "22150002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22150002/22150002_256.png",
   "character": "Agrias",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group ranged attacks (1.50 each), causes [Paralyze] (15%) and [Silence] (15%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.50 each), causes [Paralyze] (15%) and [Silence] (15%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.50 each), causes [Paralyze] (15%) and [Silence] (15%)"
-    }
-  ]
+  "effects": "Four group ranged attacks (1.50 each), causes [Paralyze] (15%) and [Silence] (15%)"
 }

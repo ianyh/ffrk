@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.87 each), 50% additional critical damage, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.87 each), 50% additional critical damage, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22380005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22380005/22380005_256.png",
   "character": "Delita",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random attacks (0.87 each), 50% additional critical damage, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (0.87 each), 50% additional critical damage, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (0.87 each), 50% additional critical damage, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight random attacks (0.87 each), 50% additional critical damage, grants [Haste] and [Burst Mode] to the user"
 }

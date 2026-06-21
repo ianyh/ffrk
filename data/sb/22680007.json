@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [High Quick Cast 1]/[Weakness +15% Boost (15s)] and [High Quick Cast 1]/[Weakness +30% Boost (15s)] and [High Quick Cast 1] to the user/all allies/all allies if 0-1/2-3/4+ FF11 allies are alive, grants [Awoken Talent], [Damage Cap +10000] and [Raging Flurry] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [High Quick Cast 1]/[Weakness +15% Boost (15s)] and [High Quick Cast 1]/[Weakness +30% Boost (15s)] and [High Quick Cast 1] to the user/all allies/all allies if 0-1/2-3/4+ FF11 allies are alive, grants [Awoken Talent], [Damage Cap +10000] and [Raging Flurry] to the user"
+    }
+  ],
   "id": "22680007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680007/22680007_256.png",
   "character": "Prishe",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [High Quick Cast 1]/[Weakness +15% Boost (15s)] and [High Quick Cast 1]/[Weakness +30% Boost (15s)] and [High Quick Cast 1] to the user/all allies/all allies if 0-1/2-3/4+ FF11 allies are alive, grants [Awoken Talent], [Damage Cap +10000] and [Raging Flurry] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [High Quick Cast 1]/[Weakness +15% Boost (15s)] and [High Quick Cast 1]/[Weakness +30% Boost (15s)] and [High Quick Cast 1] to the user/all allies/all allies if 0-1/2-3/4+ FF11 allies are alive, grants [Awoken Talent], [Damage Cap +10000] and [Raging Flurry] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [High Quick Cast 1]/[Weakness +15% Boost (15s)] and [High Quick Cast 1]/[Weakness +30% Boost (15s)] and [High Quick Cast 1] to the user/all allies/all allies if 0-1/2-3/4+ FF11 allies are alive, grants [Awoken Talent], [Damage Cap +10000] and [Raging Flurry] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [High Quick Cast 1]/[Weakness +15% Boost (15s)] and [High Quick Cast 1]/[Weakness +30% Boost (15s)] and [High Quick Cast 1] to the user/all allies/all allies if 0-1/2-3/4+ FF11 allies are alive, grants [Awoken Talent], [Damage Cap +10000] and [Raging Flurry] to the user"
 }

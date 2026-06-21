@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attacks (7.50) capped at 99999, 8.03 multiplier if Galuf is alive, grants [Twin Element Mode II (Fire, Earth)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attacks (7.50) capped at 99999, 8.03 multiplier if Galuf is alive, grants [Twin Element Mode II (Fire, Earth)] to the user"
+    }
+  ],
   "id": "20940020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940020/20940020_256.png",
   "character": "Krile",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attacks (7.50) capped at 99999, 8.03 multiplier if Galuf is alive, grants [Twin Element Mode II (Fire, Earth)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attacks (7.50) capped at 99999, 8.03 multiplier if Galuf is alive, grants [Twin Element Mode II (Fire, Earth)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attacks (7.50) capped at 99999, 8.03 multiplier if Galuf is alive, grants [Twin Element Mode II (Fire, Earth)] to the user"
-    }
-  ]
+  "effects": "One single attacks (7.50) capped at 99999, 8.03 multiplier if Galuf is alive, grants [Twin Element Mode II (Fire, Earth)] to the user"
 }

@@ -1,27 +1,11 @@
 {
-  "id": "23180012",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180012/23180012_256.png",
-  "character": "King",
-  "name": "Apex Point-Blank Shot",
-  "name_jp": "パワードバレット・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Point-Blank Shot level 0/1/2, removes Arcane Dyad Empowered: King from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Point-Blank Shot level 0/1/2, removes Arcane Dyad Empowered: King from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Point-Blank Shot (Engaged)",
       "text": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: King], [Apex Point-Blank Shot Damage Tracker] and [Apex Point-Blank Shot Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Point-Blank Shot level 0/1/2, removes Arcane Dyad Empowered: King from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Point-Blank Shot (Engaged)",
       "text": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: King], [Apex Point-Blank Shot Damage Tracker] and [Apex Point-Blank Shot Level]"
     }
-  ]
+  ],
+  "id": "23180012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180012/23180012_256.png",
+  "character": "King",
+  "name": "Apex Point-Blank Shot (Engaged)",
+  "name_jp": "パワードバレット・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Lightning with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: King], [Apex Point-Blank Shot Damage Tracker] and [Apex Point-Blank Shot Level]"
 }

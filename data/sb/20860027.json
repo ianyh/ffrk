@@ -1,20 +1,4 @@
 {
-  "id": "20860027",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860027/20860027_256.png",
-  "character": "Zidane",
-  "name": "Zenith Gale Impulse",
-  "name_jp": "究極ゲイルインパルス",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IX",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Zidane (Wind)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Zidane (Wind)",
       "text": "Grants [100% Critical 3] and [Deadly Strikes +30% 3] to the user"
     }
-  ]
+  ],
+  "id": "20860027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860027/20860027_256.png",
+  "character": "Zidane",
+  "name": "Zenith Gale Impulse",
+  "name_jp": "究極ゲイルインパルス",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Zidane (Wind)] to the user"
 }

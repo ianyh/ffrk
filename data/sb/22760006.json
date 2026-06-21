@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six random attacks (1.25 each), [ATK and MAG -40%] for 15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six random attacks (1.25 each), [ATK and MAG -40%] for 15 seconds"
+    }
+  ],
   "id": "22760006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760006/22760006_256.png",
   "character": "Nabaat",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Six random attacks (1.25 each), [ATK and MAG -40%] for 15 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six random attacks (1.25 each), [ATK and MAG -40%] for 15 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six random attacks (1.25 each), [ATK and MAG -40%] for 15 seconds"
-    }
-  ]
+  "effects": "Six random attacks (1.25 each), [ATK and MAG -40%] for 15 seconds"
 }

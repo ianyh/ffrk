@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [ATK and MND +30%, DEF +25% (25s)], [100% Critical (25s)], and [Empower Healing 30%] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Hilda] to the user\nCrystal Mode: Hilda: Quick White Magic/Bard/Dancer & Zero Hone Cost to White Magic/Bard/Dancer Abilities"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [ATK and MND +30%, DEF +25% (25s)], [100% Critical (25s)], and [Empower Healing 30%] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Hilda] to the user\nCrystal Mode: Hilda: Quick White Magic/Bard/Dancer & Zero Hone Cost to White Magic/Bard/Dancer Abilities"
+    }
+  ],
   "id": "23300016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300016/23300016_256.png",
   "character": "Hilda",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (55), grants [ATK and MND +30%, DEF +25% (25s)], [100% Critical (25s)], and [Empower Healing 30%] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Hilda] to the user\nCrystal Mode: Hilda: Quick White Magic/Bard/Dancer & Zero Hone Cost to White Magic/Bard/Dancer Abilities",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [ATK and MND +30%, DEF +25% (25s)], [100% Critical (25s)], and [Empower Healing 30%] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Hilda] to the user\nCrystal Mode: Hilda: Quick White Magic/Bard/Dancer & Zero Hone Cost to White Magic/Bard/Dancer Abilities"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [ATK and MND +30%, DEF +25% (25s)], [100% Critical (25s)], and [Empower Healing 30%] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Hilda] to the user\nCrystal Mode: Hilda: Quick White Magic/Bard/Dancer & Zero Hone Cost to White Magic/Bard/Dancer Abilities"
-    }
-  ]
+  "effects": "Restores HP (55), grants [ATK and MND +30%, DEF +25% (25s)], [100% Critical (25s)], and [Empower Healing 30%] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Hilda] to the user\nCrystal Mode: Hilda: Quick White Magic/Bard/Dancer & Zero Hone Cost to White Magic/Bard/Dancer Abilities"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack"
+    }
+  ],
   "id": "23490027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490027/23490027_256.png",
   "character": "Rain",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack"
-    }
-  ]
+  "effects": "Twin Element Mode II, 250 SB Points & Quick ATB 1 to user\nTwin Element Mode II: En-Fire Stack or En-Earth Stack"
 }

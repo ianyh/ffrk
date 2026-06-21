@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cid (VII))] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Dragon Dive (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cid (VII))], removes [Dual Awoken Wind Mode I (Cid (VII))]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cid (VII))] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Dragon Dive (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cid (VII))], removes [Dual Awoken Wind Mode I (Cid (VII))]"
+    }
+  ],
   "id": "20830009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830009/20830009_256.png",
   "character": "Cid (VII)",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cid (VII))] and [Wind Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cid (VII))] and [Wind Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cid (VII))], removes [Dual Awoken Wind Mode I (Cid (VII))]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cid (VII))] and [Wind Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cid (VII))], removes [Dual Awoken Wind Mode I (Cid (VII))]"
-    }
-  ]
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cid (VII))] and [Wind Resonance +5% Boost] to the user"
 }

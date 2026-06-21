@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [100% Critical], [Synchro Mode], [Damage Cap +10000] and [Switch Draw Mode III (Ice, Dark)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [100% Critical], [Synchro Mode], [Damage Cap +10000] and [Switch Draw Mode III (Ice, Dark)] to the user"
+    }
+  ],
   "id": "22990014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990014/22990014_256.png",
   "character": "Kiros",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [100% Critical], [Synchro Mode], [Damage Cap +10000] and [Switch Draw Mode III (Ice, Dark)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [100% Critical], [Synchro Mode], [Damage Cap +10000] and [Switch Draw Mode III (Ice, Dark)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [100% Critical], [Synchro Mode], [Damage Cap +10000] and [Switch Draw Mode III (Ice, Dark)] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [100% Critical], [Synchro Mode], [Damage Cap +10000] and [Switch Draw Mode III (Ice, Dark)] to the user"
 }

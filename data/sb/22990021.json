@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fiften single attacks (? each), grants [ATK and MND +25%, DEF and RES +30%], [Awoken Laguna Mania Mode], [Damage Cap +10000], and [Fringe Power Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fiften single attacks (? each), grants [ATK and MND +25%, DEF and RES +30%], [Awoken Laguna Mania Mode], [Damage Cap +10000], and [Fringe Power Follow-Up] to the user"
+    }
+  ],
   "id": "22990021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990021/22990021_256.png",
   "character": "Kiros",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fiften single attacks (? each), grants [ATK and MND +25%, DEF and RES +30%], [Awoken Laguna Mania Mode], [Damage Cap +10000], and [Fringe Power Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fiften single attacks (? each), grants [ATK and MND +25%, DEF and RES +30%], [Awoken Laguna Mania Mode], [Damage Cap +10000], and [Fringe Power Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fiften single attacks (? each), grants [ATK and MND +25%, DEF and RES +30%], [Awoken Laguna Mania Mode], [Damage Cap +10000], and [Fringe Power Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fiften single attacks (? each), grants [ATK and MND +25%, DEF and RES +30%], [Awoken Laguna Mania Mode], [Damage Cap +10000], and [Fringe Power Follow-Up] to the user"
 }

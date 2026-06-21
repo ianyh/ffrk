@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.20 each), [ATK +30%] for 25 seconds to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (1.20 each), [ATK +30%] for 25 seconds to all allies"
+    }
+  ],
   "id": "20610003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610003/20610003_256.png",
   "character": "Sazh",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group ranged attacks (1.20 each), [ATK +30%] for 25 seconds to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group ranged attacks (1.20 each), [ATK +30%] for 25 seconds to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group ranged attacks (1.20 each), [ATK +30%] for 25 seconds to all allies"
-    }
-  ]
+  "effects": "Three group ranged attacks (1.20 each), [ATK +30%] for 25 seconds to all allies"
 }

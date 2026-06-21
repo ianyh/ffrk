@@ -1,21 +1,4 @@
 {
-  "id": "22070023",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070023/22070023_256.png",
-  "character": "Kefka",
-  "name": "Zenith Forsaken Null",
-  "name_jp": "究極ミッシング・ゼロ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VI",
-  "elements": [
-    "Dark",
-    "Poison",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Kefka (Poison)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -59,5 +42,22 @@
       "name": "Spirit Attack: Kefka (Poison)",
       "text": "Eight single attacks (2.66/3.01 each), higher multiplier if exploiting Poison weakness, capped at 19999, grants [Quick Cast 2] to the user"
     }
-  ]
+  ],
+  "id": "22070023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070023/22070023_256.png",
+  "character": "Kefka",
+  "name": "Zenith Forsaken Null",
+  "name_jp": "究極ミッシング・ゼロ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Poison 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Kefka (Poison)] to the user"
 }

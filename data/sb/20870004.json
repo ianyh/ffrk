@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.93 each), 50% additional critical damage, [ATK and DEF +30%] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.93 each), 50% additional critical damage, [ATK and DEF +30%] to the user for 25 seconds"
+    }
+  ],
   "id": "20870004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870004/20870004_256.png",
   "character": "Amarant",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single ranged attacks (0.93 each), 50% additional critical damage, [ATK and DEF +30%] to the user for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single ranged attacks (0.93 each), 50% additional critical damage, [ATK and DEF +30%] to the user for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single ranged attacks (0.93 each), 50% additional critical damage, [ATK and DEF +30%] to the user for 25 seconds"
-    }
-  ]
+  "effects": "Eight single ranged attacks (0.93 each), 50% additional critical damage, [ATK and DEF +30%] to the user for 25 seconds"
 }

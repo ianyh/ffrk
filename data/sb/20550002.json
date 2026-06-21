@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (3.10)"
+    }
+  ],
   "id": "20550002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550002/20550002_256.png",
   "character": "Sabin",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group ranged attack (3.10)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (3.10)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (3.10)"
-    }
-  ]
+  "effects": "One group ranged attack (3.10)"
 }

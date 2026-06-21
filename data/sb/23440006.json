@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.79 each) capped at 19999, causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [PHY +30% Boost (15s)] to all allies, grants [Dual Awoken President Salaheem Mode I] and [XI Resonance +3% Boost] to the user"
+    },
+    {
+      "name": "Awoken True Strike (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken President Salaheem Mode II], removes [Dual Awoken President Salaheem Mode I]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.79 each) capped at 19999, causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [PHY +30% Boost (15s)] to all allies, grants [Dual Awoken President Salaheem Mode I] and [XI Resonance +3% Boost] to the user"
+    },
+    {
+      "name": "Awoken True Strike (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken President Salaheem Mode II], removes [Dual Awoken President Salaheem Mode I]"
+    }
+  ],
   "id": "23440006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23440006/23440006_256.png",
   "character": "Naja",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.79 each) capped at 19999, causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [PHY +30% Boost (15s)] to all allies, grants [Dual Awoken President Salaheem Mode I] and [XI Resonance +3% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.79 each) capped at 19999, causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [PHY +30% Boost (15s)] to all allies, grants [Dual Awoken President Salaheem Mode I] and [XI Resonance +3% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken President Salaheem Mode II], removes [Dual Awoken President Salaheem Mode I]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.79 each) capped at 19999, causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [PHY +30% Boost (15s)] to all allies, grants [Dual Awoken President Salaheem Mode I] and [XI Resonance +3% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken President Salaheem Mode II], removes [Dual Awoken President Salaheem Mode I]"
-    }
-  ]
+  "effects": "Seven single attacks (0.79 each) capped at 19999, causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [PHY +30% Boost (15s)] to all allies, grants [Dual Awoken President Salaheem Mode I] and [XI Resonance +3% Boost] to the user"
 }

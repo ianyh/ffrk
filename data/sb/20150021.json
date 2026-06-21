@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Critical Damage +50%] to all allies, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Sharpshooter Mode I (Wakka)] and [Sharpshooter Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Ace Lesson (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka)], removes [Dual Awoken Sharpshooter Mode I (Wakka)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Critical Damage +50%] to all allies, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Sharpshooter Mode I (Wakka)] and [Sharpshooter Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Ace Lesson (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka)], removes [Dual Awoken Sharpshooter Mode I (Wakka)]"
+    }
+  ],
   "id": "20150021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150021/20150021_256.png",
   "character": "Wakka",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Critical Damage +50%] to all allies, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Sharpshooter Mode I (Wakka)] and [Sharpshooter Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Critical Damage +50%] to all allies, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Sharpshooter Mode I (Wakka)] and [Sharpshooter Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka)], removes [Dual Awoken Sharpshooter Mode I (Wakka)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Critical Damage +50%] to all allies, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Sharpshooter Mode I (Wakka)] and [Sharpshooter Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Sharpshooter Mode II (Wakka)], removes [Dual Awoken Sharpshooter Mode I (Wakka)]"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Critical Damage +50%] to all allies, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Sharpshooter Mode I (Wakka)] and [Sharpshooter Resonance +5% Boost] to the user"
 }

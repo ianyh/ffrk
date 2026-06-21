@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (37)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (37)"
+    }
+  ],
   "id": "23460001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460001/23460001_256.png",
   "character": "Lunafreya",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (37)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (37)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (37)"
-    }
-  ]
+  "effects": "Restores HP (37)"
 }

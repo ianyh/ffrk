@@ -1,27 +1,11 @@
 {
-  "id": "22690011",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690011/22690011_256.png",
-  "character": "Lion",
-  "name": "Apex Walk the Plank",
-  "name_jp": "ウォークザープランク極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "XI",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Walk the Plank level 0/1/2, removes Arcane Dyad Empowered: Lion from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Walk the Plank level 0/1/2, removes Arcane Dyad Empowered: Lion from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Walk the Plank (Engaged)",
       "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Lion], [Apex Walk the Plank Ability Tracker] and [Apex Walk the Plank Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Walk the Plank level 0/1/2, removes Arcane Dyad Empowered: Lion from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Walk the Plank (Engaged)",
       "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Lion], [Apex Walk the Plank Ability Tracker] and [Apex Walk the Plank Level]"
     }
-  ]
+  ],
+  "id": "22690011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690011/22690011_256.png",
+  "character": "Lion",
+  "name": "Apex Walk the Plank (Engaged)",
+  "name_jp": "ウォークザープランク極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Lion], [Apex Walk the Plank Ability Tracker] and [Apex Walk the Plank Level]"
 }

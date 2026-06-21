@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores 3000 HP, grants [Last Stand] and [Instant Cast 1], grants [Attach Earth with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores 3000 HP, grants [Last Stand] and [Instant Cast 1], grants [Attach Earth with Stacking] to the user"
+    }
+  ],
   "id": "23030008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23030008/23030008_256.png",
   "character": "Ursula",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores 3000 HP, grants [Last Stand] and [Instant Cast 1], grants [Attach Earth with Stacking] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores 3000 HP, grants [Last Stand] and [Instant Cast 1], grants [Attach Earth with Stacking] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores 3000 HP, grants [Last Stand] and [Instant Cast 1], grants [Attach Earth with Stacking] to the user"
-    }
-  ]
+  "effects": "Restores 3000 HP, grants [Last Stand] and [Instant Cast 1], grants [Attach Earth with Stacking] to the user"
 }

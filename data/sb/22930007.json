@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10% (25s)]/[ATK, DEF, MAG, RES and MND +20% (25s)]/[ATK, DEF, MAG, RES and MND +30% (25s)]/[ATK, DEF, MAG, RES and MND +40% (25s)]/[ATK, DEF, MAG, RES and MND +50% (25s)] if 1/2/3/4/5+ allies are alive, grants [Protean Mode III (Fire, Ice, Earth, Wind)], [Synchro Mode], [Damage Cap +10000] and Mysterious Mimic +1"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10% (25s)]/[ATK, DEF, MAG, RES and MND +20% (25s)]/[ATK, DEF, MAG, RES and MND +30% (25s)]/[ATK, DEF, MAG, RES and MND +40% (25s)]/[ATK, DEF, MAG, RES and MND +50% (25s)] if 1/2/3/4/5+ allies are alive, grants [Protean Mode III (Fire, Ice, Earth, Wind)], [Synchro Mode], [Damage Cap +10000] and Mysterious Mimic +1"
+    }
+  ],
   "id": "22930007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930007/22930007_256.png",
   "character": "Gogo (VI)",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [ATK, DEF, MAG, RES and MND +10% (25s)]/[ATK, DEF, MAG, RES and MND +20% (25s)]/[ATK, DEF, MAG, RES and MND +30% (25s)]/[ATK, DEF, MAG, RES and MND +40% (25s)]/[ATK, DEF, MAG, RES and MND +50% (25s)] if 1/2/3/4/5+ allies are alive, grants [Protean Mode III (Fire, Ice, Earth, Wind)], [Synchro Mode], [Damage Cap +10000] and Mysterious Mimic +1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [ATK, DEF, MAG, RES and MND +10% (25s)]/[ATK, DEF, MAG, RES and MND +20% (25s)]/[ATK, DEF, MAG, RES and MND +30% (25s)]/[ATK, DEF, MAG, RES and MND +40% (25s)]/[ATK, DEF, MAG, RES and MND +50% (25s)] if 1/2/3/4/5+ allies are alive, grants [Protean Mode III (Fire, Ice, Earth, Wind)], [Synchro Mode], [Damage Cap +10000] and Mysterious Mimic +1"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [ATK, DEF, MAG, RES and MND +10% (25s)]/[ATK, DEF, MAG, RES and MND +20% (25s)]/[ATK, DEF, MAG, RES and MND +30% (25s)]/[ATK, DEF, MAG, RES and MND +40% (25s)]/[ATK, DEF, MAG, RES and MND +50% (25s)] if 1/2/3/4/5+ allies are alive, grants [Protean Mode III (Fire, Ice, Earth, Wind)], [Synchro Mode], [Damage Cap +10000] and Mysterious Mimic +1"
-    }
-  ]
+  "effects": "Grants [ATK, DEF, MAG, RES and MND +10% (25s)]/[ATK, DEF, MAG, RES and MND +20% (25s)]/[ATK, DEF, MAG, RES and MND +30% (25s)]/[ATK, DEF, MAG, RES and MND +40% (25s)]/[ATK, DEF, MAG, RES and MND +50% (25s)] if 1/2/3/4/5+ allies are alive, grants [Protean Mode III (Fire, Ice, Earth, Wind)], [Synchro Mode], [Damage Cap +10000] and Mysterious Mimic +1"
 }

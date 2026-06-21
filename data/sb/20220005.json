@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
   "id": "20220005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220005/20220005_256.png",
   "character": "Cyan",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies"
-    }
-  ]
+  "effects": "Four single attacks (1.90 each), grants [Magical Blink 1] to all allies"
 }

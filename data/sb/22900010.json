@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [50% Damage Reduction Barrier 1], grants [Attach Earth with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [50% Damage Reduction Barrier 1], grants [Attach Earth with Stacking] to the user"
+    }
+  ],
   "id": "22900010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900010/22900010_256.png",
   "character": "Gladiolus",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [50% Damage Reduction Barrier 1], grants [Attach Earth with Stacking] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [50% Damage Reduction Barrier 1], grants [Attach Earth with Stacking] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [50% Damage Reduction Barrier 1], grants [Attach Earth with Stacking] to the user"
-    }
-  ]
+  "effects": "Grants [50% Damage Reduction Barrier 1], grants [Attach Earth with Stacking] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Holy/NE summon magic attacks at Cap Break Level 1, activates X Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Summoning abilities, grants Quick Cast 1 to party (max 2 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Holy/NE summon magic attacks at Cap Break Level 1, activates X Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Summoning abilities, grants Quick Cast 1 to party (max 2 chases)"
+    }
+  ],
   "id": "20520042",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520042/20520042_256.png",
   "character": "Yuna",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single-target Holy/NE summon magic attacks at Cap Break Level 1, activates X Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Summoning abilities, grants Quick Cast 1 to party (max 2 chases)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Holy/NE summon magic attacks at Cap Break Level 1, activates X Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Summoning abilities, grants Quick Cast 1 to party (max 2 chases)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Holy/NE summon magic attacks at Cap Break Level 1, activates X Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Summoning abilities, grants Quick Cast 1 to party (max 2 chases)"
-    }
-  ]
+  "effects": "10 single-target Holy/NE summon magic attacks at Cap Break Level 1, activates X Chain (150 or +25) & +10 Chain Count to all targets, Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using White Magic/Summoning abilities, grants Quick Cast 1 to party (max 2 chases)"
 }

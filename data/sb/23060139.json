@@ -1,28 +1,4 @@
 {
-  "id": "23060139",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060139/23060139_256.png",
-  "character": "Dr. Mog",
-  "name": "Zenith Archival Brilliance",
-  "name_jp": "究極歴史省奥義「昇華」",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Core",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "Earth",
-    "Wind",
-    "Water",
-    "Holy",
-    "Dark",
-    "Poison",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Conditional Attach Element 2 with Stacking From Party], [Zenith Mode], [Zenith Mode: Dr. Mog (Prismatic)], [Wisdom of Creation Mode] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -82,5 +58,29 @@
       "name": "Dr. Mog's Water Vortex+",
       "text": "Six single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "23060139",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060139/23060139_256.png",
+  "character": "Dr. Mog",
+  "name": "Zenith Archival Brilliance",
+  "name_jp": "究極歴史省奥義「昇華」",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Conditional Attach Element 2 with Stacking From Party], [Zenith Mode], [Zenith Mode: Dr. Mog (Prismatic)], [Wisdom of Creation Mode] and [Damage Cap +10000] to the user"
 }

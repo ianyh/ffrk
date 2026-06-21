@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Attach Ice], [Buff Ice 30% (15s)], [50% Critical (15s)] and [Branding Ice Blade Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Attach Ice], [Buff Ice 30% (15s)], [50% Critical (15s)] and [Branding Ice Blade Follow-Up] to the user"
+    }
+  ],
   "id": "23500004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23500004/23500004_256.png",
   "character": "Lasswell",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.70 each), grants [Attach Ice], [Buff Ice 30% (15s)], [50% Critical (15s)] and [Branding Ice Blade Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.70 each), grants [Attach Ice], [Buff Ice 30% (15s)], [50% Critical (15s)] and [Branding Ice Blade Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.70 each), grants [Attach Ice], [Buff Ice 30% (15s)], [50% Critical (15s)] and [Branding Ice Blade Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.70 each), grants [Attach Ice], [Buff Ice 30% (15s)], [50% Critical (15s)] and [Branding Ice Blade Follow-Up] to the user"
 }

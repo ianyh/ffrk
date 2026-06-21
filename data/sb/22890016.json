@@ -1,20 +1,4 @@
 {
-  "id": "22890016",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890016/22890016_256.png",
-  "character": "Zeid",
-  "name": "Zenith Sickle Moon",
-  "name_jp": "究極シックルムーン",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XI",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 3 with Stacking], [Zenith Mode], and [Zenith Mode: Zeid (Dark)]",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Zeid",
       "text": "Grants [Damage Cap +10000 2] and [Dark Ability +30% Boost 2] to the user and damages the user for 25% max HP"
     }
-  ]
+  ],
+  "id": "22890016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890016/22890016_256.png",
+  "character": "Zeid",
+  "name": "Zenith Sickle Moon",
+  "name_jp": "究極シックルムーン",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Dark 3 with Stacking], [Zenith Mode], and [Zenith Mode: Zeid (Dark)]"
 }

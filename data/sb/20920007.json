@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user"
+    }
+  ],
   "id": "20920007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920007/20920007_256.png",
   "character": "Reno",
@@ -13,17 +25,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten single hybrid ranged attacks (0.72 or 1.73 each), grants [Attach Lightning], [Black Magic, Machinist +30% Boost (15s)] and [Brave Mode] to the user"
 }

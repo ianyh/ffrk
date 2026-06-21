@@ -1,27 +1,11 @@
 {
-  "id": "20250024",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250024/20250024_256.png",
-  "character": "Sephiroth",
-  "name": "Sunburst",
-  "name_jp": "スーパーノヴァ",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VII",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Sunburst level 0/1/2, removes Arcane Dyad Empowered: Sephiroth (Dark) from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Sunburst level 0/1/2, removes Arcane Dyad Empowered: Sephiroth (Dark) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Sunburst (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Sephiroth (Dark)], [Sunburst Damage Tracker] and [Sunburst Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Sunburst level 0/1/2, removes Arcane Dyad Empowered: Sephiroth (Dark) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Sunburst (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Sephiroth (Dark)], [Sunburst Damage Tracker] and [Sunburst Level]"
     }
-  ]
+  ],
+  "id": "20250024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250024/20250024_256.png",
+  "character": "Sephiroth",
+  "name": "Sunburst (Engaged)",
+  "name_jp": "スーパーノヴァ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Sephiroth (Dark)], [Sunburst Damage Tracker] and [Sunburst Level]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.58 each), [DEF +50%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.58 each), [DEF +50%] to all allies for 25 seconds"
+    }
+  ],
   "id": "20400004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400004/20400004_256.png",
   "character": "Bartz",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Five single attacks (1.58 each), [DEF +50%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (1.58 each), [DEF +50%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (1.58 each), [DEF +50%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Five single attacks (1.58 each), [DEF +50%] to all allies for 25 seconds"
 }

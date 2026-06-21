@@ -1,20 +1,4 @@
 {
-  "id": "22340018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340018/22340018_256.png",
-  "character": "Yang",
-  "name": "Zenith Seven-Star Earth Palm",
-  "name_jp": "究極七星地天掌",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IV",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Yang (Earth)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Yang (Earth)",
       "text": "Grants [Earth Ability +30% Boost 3] to user/[Prismatic Ability +30% Boost 3] to all allies if 0-3/4+ FF4 allies are alive"
     }
-  ]
+  ],
+  "id": "22340018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340018/22340018_256.png",
+  "character": "Yang",
+  "name": "Zenith Seven-Star Earth Palm",
+  "name_jp": "究極七星地天掌",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Yang (Earth)] and [Damage Cap +10000] to the user"
 }

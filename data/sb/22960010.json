@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Fire Stoneskin: 100%] and [Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Fire Stoneskin: 100%] and [Quick Cast 1]"
+    }
+  ],
   "id": "22960010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960010/22960010_256.png",
   "character": "Aria",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Fire Stoneskin: 100%] and [Quick Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Fire Stoneskin: 100%] and [Quick Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Fire Stoneskin: 100%] and [Quick Cast 1]"
-    }
-  ]
+  "effects": "Grants [Fire Stoneskin: 100%] and [Quick Cast 1]"
 }

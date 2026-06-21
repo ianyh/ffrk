@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Improvised Camouflage (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Yuffie)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Improvised Camouflage (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Yuffie)]"
+    }
+  ],
   "id": "22040041",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040041/22040041_256.png",
   "character": "Yuffie",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Yuffie)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Yuffie)]"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Earth/NE jump attacks (? each), grants [Attach Earth Heavy], [Awoken Earth], [Damage Cap +10000] and [Brotherly Adventurer Mode] to the user\nBrotherly Adventurer Mode: Instant Earth, Earth Ability +50% and Dualcast Earth (max 3 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Earth/NE jump attacks (? each), grants [Attach Earth Heavy], [Awoken Earth], [Damage Cap +10000] and [Brotherly Adventurer Mode] to the user\nBrotherly Adventurer Mode: Instant Earth, Earth Ability +50% and Dualcast Earth (max 3 chases)"
+    }
+  ],
   "id": "22850010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22850010/22850010_256.png",
   "character": "Wrieg",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "15 single-target Earth/NE jump attacks (? each), grants [Attach Earth Heavy], [Awoken Earth], [Damage Cap +10000] and [Brotherly Adventurer Mode] to the user\nBrotherly Adventurer Mode: Instant Earth, Earth Ability +50% and Dualcast Earth (max 3 chases)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Earth/NE jump attacks (? each), grants [Attach Earth Heavy], [Awoken Earth], [Damage Cap +10000] and [Brotherly Adventurer Mode] to the user\nBrotherly Adventurer Mode: Instant Earth, Earth Ability +50% and Dualcast Earth (max 3 chases)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Earth/NE jump attacks (? each), grants [Attach Earth Heavy], [Awoken Earth], [Damage Cap +10000] and [Brotherly Adventurer Mode] to the user\nBrotherly Adventurer Mode: Instant Earth, Earth Ability +50% and Dualcast Earth (max 3 chases)"
-    }
-  ]
+  "effects": "15 single-target Earth/NE jump attacks (? each), grants [Attach Earth Heavy], [Awoken Earth], [Damage Cap +10000] and [Brotherly Adventurer Mode] to the user\nBrotherly Adventurer Mode: Instant Earth, Earth Ability +50% and Dualcast Earth (max 3 chases)"
 }

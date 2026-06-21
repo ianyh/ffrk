@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Weakness Damage +30% to party, Cap Break Level 1, Zenith Mimicry Dance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Wind/Earth Damage +20%, Physical/Magic Casting Speed x1.1 & chases a Fire/Ice/Wind/Earth ability with Lv.2 En-Fire/Ice/Wind/Earth Stack; After ally uses Fire, Ice, Wind or Earth abilities, grants Fire, Ice, Wind or Earth Ability Damage +30% for 1 turn to that ally, +Quick ATB 1 under Mystery Mode (max 3 chases)\nUltimate Dexterity Mode: Dualcast Fire/Ice/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Magical Mimicry+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Mimicry Dance: [Single-target DEF/RES/MND -70%] or [MAG/MND +25% & DEF/RES +30% to party and Mystery Mode to user] with at least 0/4 Fate Synergy members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Weakness Damage +30% to party, Cap Break Level 1, Zenith Mimicry Dance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Wind/Earth Damage +20%, Physical/Magic Casting Speed x1.1 & chases a Fire/Ice/Wind/Earth ability with Lv.2 En-Fire/Ice/Wind/Earth Stack; After ally uses Fire, Ice, Wind or Earth abilities, grants Fire, Ice, Wind or Earth Ability Damage +30% for 1 turn to that ally, +Quick ATB 1 under Mystery Mode (max 3 chases)\nUltimate Dexterity Mode: Dualcast Fire/Ice/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Magical Mimicry+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Mimicry Dance: [Single-target DEF/RES/MND -70%] or [MAG/MND +25% & DEF/RES +30% to party and Mystery Mode to user] with at least 0/4 Fate Synergy members"
+    }
+  ],
   "id": "22930016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930016/22930016_256.png",
   "character": "Gogo (VI)",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Weakness Damage +30% to party, Cap Break Level 1, Zenith Mimicry Dance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Wind/Earth Damage +20%, Physical/Magic Casting Speed x1.1 & chases a Fire/Ice/Wind/Earth ability with Lv.2 En-Fire/Ice/Wind/Earth Stack; After ally uses Fire, Ice, Wind or Earth abilities, grants Fire, Ice, Wind or Earth Ability Damage +30% for 1 turn to that ally, +Quick ATB 1 under Mystery Mode (max 3 chases)\nUltimate Dexterity Mode: Dualcast Fire/Ice/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Magical Mimicry+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Mimicry Dance: [Single-target DEF/RES/MND -70%] or [MAG/MND +25% & DEF/RES +30% to party and Mystery Mode to user] with at least 0/4 Fate Synergy members",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Weakness Damage +30% to party, Cap Break Level 1, Zenith Mimicry Dance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Wind/Earth Damage +20%, Physical/Magic Casting Speed x1.1 & chases a Fire/Ice/Wind/Earth ability with Lv.2 En-Fire/Ice/Wind/Earth Stack; After ally uses Fire, Ice, Wind or Earth abilities, grants Fire, Ice, Wind or Earth Ability Damage +30% for 1 turn to that ally, +Quick ATB 1 under Mystery Mode (max 3 chases)\nUltimate Dexterity Mode: Dualcast Fire/Ice/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Magical Mimicry+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Mimicry Dance: [Single-target DEF/RES/MND -70%] or [MAG/MND +25% & DEF/RES +30% to party and Mystery Mode to user] with at least 0/4 Fate Synergy members"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Weakness Damage +30% to party, Cap Break Level 1, Zenith Mimicry Dance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Wind/Earth Damage +20%, Physical/Magic Casting Speed x1.1 & chases a Fire/Ice/Wind/Earth ability with Lv.2 En-Fire/Ice/Wind/Earth Stack; After ally uses Fire, Ice, Wind or Earth abilities, grants Fire, Ice, Wind or Earth Ability Damage +30% for 1 turn to that ally, +Quick ATB 1 under Mystery Mode (max 3 chases)\nUltimate Dexterity Mode: Dualcast Fire/Ice/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Magical Mimicry+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Mimicry Dance: [Single-target DEF/RES/MND -70%] or [MAG/MND +25% & DEF/RES +30% to party and Mystery Mode to user] with at least 0/4 Fate Synergy members"
-    }
-  ]
+  "effects": "Weakness Damage +30% to party, Cap Break Level 1, Zenith Mimicry Dance & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Ice/Wind/Earth Damage +20%, Physical/Magic Casting Speed x1.1 & chases a Fire/Ice/Wind/Earth ability with Lv.2 En-Fire/Ice/Wind/Earth Stack; After ally uses Fire, Ice, Wind or Earth abilities, grants Fire, Ice, Wind or Earth Ability Damage +30% for 1 turn to that ally, +Quick ATB 1 under Mystery Mode (max 3 chases)\nUltimate Dexterity Mode: Dualcast Fire/Ice/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Magical Mimicry+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user\nZenith Mimicry Dance: [Single-target DEF/RES/MND -70%] or [MAG/MND +25% & DEF/RES +30% to party and Mystery Mode to user] with at least 0/4 Fate Synergy members"
 }

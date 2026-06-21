@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 3] to the user"
+    }
+  ],
   "id": "23320007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320007/23320007_256.png",
   "character": "Wedge",
@@ -13,17 +25,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 3] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 3] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 3] to the user"
-    }
-  ]
+  "effects": "Three single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, grants [Instant Cast 3] to the user"
 }

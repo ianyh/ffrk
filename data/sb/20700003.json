@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (1.70 each), causes [Blind] (21%) and [Silence] (21%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (1.70 each), causes [Blind] (21%) and [Silence] (21%)"
+    }
+  ],
   "id": "20700003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20700003/20700003_256.png",
   "character": "Vaan",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single ranged attacks (1.70 each), causes [Blind] (21%) and [Silence] (21%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single ranged attacks (1.70 each), causes [Blind] (21%) and [Silence] (21%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single ranged attacks (1.70 each), causes [Blind] (21%) and [Silence] (21%)"
-    }
-  ]
+  "effects": "Three single ranged attacks (1.70 each), causes [Blind] (21%) and [Silence] (21%)"
 }

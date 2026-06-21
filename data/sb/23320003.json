@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
+    }
+  ],
   "id": "23320003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320003/23320003_256.png",
   "character": "Wedge",
@@ -14,17 +26,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Wind Stacking] and [Attach Wind] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
-    }
-  ]
+  "effects": "Six single hybrid ranged attacks (0.52 or 1.25 each), grants [Attach Wind Stacking] and [Attach Wind] to the user"
 }

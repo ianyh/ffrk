@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (38.00~44.00 scaling with Fire attacks used) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (38.00~44.00 scaling with Fire attacks used) capped at 99999"
+    }
+  ],
   "id": "20940007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940007/20940007_256.png",
   "character": "Krile",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (38.00~44.00 scaling with Fire attacks used) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (38.00~44.00 scaling with Fire attacks used) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (38.00~44.00 scaling with Fire attacks used) capped at 99999"
-    }
-  ]
+  "effects": "One single attack (38.00~44.00 scaling with Fire attacks used) capped at 99999"
 }

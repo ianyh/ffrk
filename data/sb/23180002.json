@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twelve single ranged attacks (0.53 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twelve single ranged attacks (0.53 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
   "id": "23180002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180002/23180002_256.png",
   "character": "King",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Twelve single ranged attacks (0.53 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Twelve single ranged attacks (0.53 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Twelve single ranged attacks (0.53 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Twelve single ranged attacks (0.53 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
 }

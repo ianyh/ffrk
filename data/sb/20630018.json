@@ -1,27 +1,11 @@
 {
-  "id": "20630018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630018/20630018_256.png",
-  "character": "Golbez",
-  "name": "Apex Shadow Dragon",
-  "name_jp": "黒竜召喚・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "IV",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Shadow Dragon level 0/1/2, removes Arcane Dyad Empowered: Golbez from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Shadow Dragon level 0/1/2, removes Arcane Dyad Empowered: Golbez from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Shadow Dragon (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Golbez], [Apex Shadow Dragon Damage Tracker] and [Apex Shadow Dragon Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Shadow Dragon level 0/1/2, removes Arcane Dyad Empowered: Golbez from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Shadow Dragon (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Golbez], [Apex Shadow Dragon Damage Tracker] and [Apex Shadow Dragon Level]"
     }
-  ]
+  ],
+  "id": "20630018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630018/20630018_256.png",
+  "character": "Golbez",
+  "name": "Apex Shadow Dragon (Engaged)",
+  "name_jp": "黒竜召喚・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Golbez], [Apex Shadow Dragon Damage Tracker] and [Apex Shadow Dragon Level]"
 }

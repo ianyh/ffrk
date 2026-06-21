@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "23180020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180020/23180020_256.png",
   "character": "King",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

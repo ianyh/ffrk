@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 150, field +50%), grants [Buff Dark 10% (5s)]/[Buff Dark 20% (5s)]/[Buff Dark 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Dark], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 150, field +50%), grants [Buff Dark 10% (5s)]/[Buff Dark 20% (5s)]/[Buff Dark 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Dark], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
   "id": "22410017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410017/22410017_256.png",
   "character": "Cid Raines",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Dark Chain (max 150, field +50%), grants [Buff Dark 10% (5s)]/[Buff Dark 20% (5s)]/[Buff Dark 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Dark], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dark Chain (max 150, field +50%), grants [Buff Dark 10% (5s)]/[Buff Dark 20% (5s)]/[Buff Dark 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Dark], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dark Chain (max 150, field +50%), grants [Buff Dark 10% (5s)]/[Buff Dark 20% (5s)]/[Buff Dark 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Dark], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Activates Dark Chain (max 150, field +50%), grants [Buff Dark 10% (5s)]/[Buff Dark 20% (5s)]/[Buff Dark 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Dark], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
 }

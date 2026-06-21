@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.48 each), [ATK and MAG -70%] for 8 seconds, grants [Attach Water] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.48 each), [ATK and MAG -70%] for 8 seconds, grants [Attach Water] to the user"
+    }
+  ],
   "id": "20150007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20150007/20150007_256.png",
   "character": "Wakka",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single ranged attacks (0.48 each), [ATK and MAG -70%] for 8 seconds, grants [Attach Water] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.48 each), [ATK and MAG -70%] for 8 seconds, grants [Attach Water] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.48 each), [ATK and MAG -70%] for 8 seconds, grants [Attach Water] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.48 each), [ATK and MAG -70%] for 8 seconds, grants [Attach Water] to the user"
 }

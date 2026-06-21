@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Wind 20% (15s)], grants [Soul Break Gauge +250] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Wind 20% (15s)], grants [Soul Break Gauge +250] to the user"
+    }
+  ],
   "id": "22810018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810018/22810018_256.png",
   "character": "Nine",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [Imperil Wind 20% (15s)], grants [Soul Break Gauge +250] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Wind 20% (15s)], grants [Soul Break Gauge +250] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Wind 20% (15s)], grants [Soul Break Gauge +250] to the user"
-    }
-  ]
+  "effects": "Causes [Imperil Wind 20% (15s)], grants [Soul Break Gauge +250] to the user"
 }

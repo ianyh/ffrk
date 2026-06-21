@@ -1,27 +1,11 @@
 {
-  "id": "22740048",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740048/22740048_256.png",
-  "character": "Noctis",
-  "name": "Heavy Hand",
-  "name_jp": "シフトインパクト・E",
-  "tier": "ADSB",
-  "sb_version": "ADSB3",
-  "realm": "XV",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "20 single-target Earth/NE physical attacks & single-target Earth/NE Overflow physical attack, removes True Arcane Augment Mode",
   "description": [
     {
       "name": "Entry",
       "text": "20 single-target Earth/NE physical attacks & single-target Earth/NE Overflow physical attack, removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Heavy Hand (Engaged)",
       "text": "En-Earth, En-Earth Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Warp Impact E if at least 100001/300001 damage is dealt"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "20 single-target Earth/NE physical attacks & single-target Earth/NE Overflow physical attack, removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Heavy Hand (Engaged)",
       "text": "En-Earth, En-Earth Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Warp Impact E if at least 100001/300001 damage is dealt"
     }
-  ]
+  ],
+  "id": "22740048",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740048/22740048_256.png",
+  "character": "Noctis",
+  "name": "Heavy Hand (Engaged)",
+  "name_jp": "シフトインパクト・E",
+  "tier": "ADSB",
+  "sb_version": "ADSB3",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "En-Earth, En-Earth Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Warp Impact E if at least 100001/300001 damage is dealt"
 }

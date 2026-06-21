@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.05 each), grants [Sentinel] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.05 each), grants [Sentinel] to the user for 25 seconds"
+    }
+  ],
   "id": "20690005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20690005/20690005_256.png",
   "character": "Auron",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group ranged attacks (1.05 each), grants [Sentinel] to the user for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.05 each), grants [Sentinel] to the user for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.05 each), grants [Sentinel] to the user for 25 seconds"
-    }
-  ]
+  "effects": "Four group ranged attacks (1.05 each), grants [Sentinel] to the user for 25 seconds"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven random attacks (2.54 each), grants [Magical Quick Cast 3] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven random attacks (2.54 each), grants [Magical Quick Cast 3] to all allies"
+    }
+  ],
   "id": "22070004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070004/22070004_256.png",
   "character": "Kefka",
@@ -11,17 +23,5 @@
   "type": "BLK",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Seven random attacks (2.54 each), grants [Magical Quick Cast 3] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven random attacks (2.54 each), grants [Magical Quick Cast 3] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven random attacks (2.54 each), grants [Magical Quick Cast 3] to all allies"
-    }
-  ]
+  "effects": "Seven random attacks (2.54 each), grants [Magical Quick Cast 3] to all allies"
 }

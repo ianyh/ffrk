@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +30%, RES +25% (25s)] and [Quick Cast 2] to all allies, grants [200% ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +30%, RES +25% (25s)] and [Quick Cast 2] to all allies, grants [200% ATB 1] to user"
+    }
+  ],
   "id": "22220020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22220020/22220020_256.png",
   "character": "Porom",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All Allies",
   "lensable": false,
-  "effects": "Grants [MAG and MND +30%, RES +25% (25s)] and [Quick Cast 2] to all allies, grants [200% ATB 1] to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [MAG and MND +30%, RES +25% (25s)] and [Quick Cast 2] to all allies, grants [200% ATB 1] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [MAG and MND +30%, RES +25% (25s)] and [Quick Cast 2] to all allies, grants [200% ATB 1] to user"
-    }
-  ]
+  "effects": "Grants [MAG and MND +30%, RES +25% (25s)] and [Quick Cast 2] to all allies, grants [200% ATB 1] to user"
 }

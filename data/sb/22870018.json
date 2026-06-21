@@ -1,20 +1,4 @@
 {
-  "id": "22870018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870018/22870018_256.png",
-  "character": "Rubicante",
-  "name": "Zenith Wild Inferno",
-  "name_jp": "究極まえんりゅう",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IV",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Rubicante (Fire)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Rubicante",
       "text": "Grants [Buff Fire 10% (15s)] to all allies"
     }
-  ]
+  ],
+  "id": "22870018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870018/22870018_256.png",
+  "character": "Rubicante",
+  "name": "Zenith Wild Inferno",
+  "name_jp": "究極まえんりゅう",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Rubicante (Fire)] and [Damage Cap +10000] to the user"
 }

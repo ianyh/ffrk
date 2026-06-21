@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (4.50 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (4.50 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ],
   "id": "20360003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360003/20360003_256.png",
   "character": "Garnet",
@@ -13,17 +25,5 @@
   "type": "SUM",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Two group attacks (4.50 each), [MAG +20%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Two group attacks (4.50 each), [MAG +20%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Two group attacks (4.50 each), [MAG +20%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Two group attacks (4.50 each), [MAG +20%] to all allies for 25 seconds"
 }

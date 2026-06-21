@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra], [Protect], [Shell] and [HP Stock (2000)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra], [Protect], [Shell] and [HP Stock (2000)]"
+    }
+  ],
   "id": "20320006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320006/20320006_256.png",
   "character": "Vanille",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Astra], [Protect], [Shell] and [HP Stock (2000)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Astra], [Protect], [Shell] and [HP Stock (2000)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Astra], [Protect], [Shell] and [HP Stock (2000)]"
-    }
-  ]
+  "effects": "Grants [Astra], [Protect], [Shell] and [HP Stock (2000)]"
 }

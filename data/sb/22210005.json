@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Black Magic Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Black Magic Double] to the user"
+    }
+  ],
   "id": "22210005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210005/22210005_256.png",
   "character": "Palom",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Black Magic Double] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Black Magic Double] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Black Magic Double] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.70 each), [MAG and RES +30%] to the user for 25 seconds, grants [Attach Lightning] and [Black Magic Double] to the user"
 }

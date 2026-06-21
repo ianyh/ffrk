@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
   "id": "22600020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22600020/22600020_256.png",
   "character": "Fujin",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
-    }
-  ]
+  "effects": "Five single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
 }

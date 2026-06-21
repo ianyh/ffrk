@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (8.00 each) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single ranged attacks (8.00 each) capped at 99999"
+    }
+  ],
   "id": "23240001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23240001/23240001_256.png",
   "character": "Sora",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Three single ranged attacks (8.00 each) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single ranged attacks (8.00 each) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single ranged attacks (8.00 each) capped at 99999"
-    }
-  ]
+  "effects": "Three single ranged attacks (8.00 each) capped at 99999"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.19 each), [MAG and RES +30%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.19 each), [MAG and RES +30%] to all allies for 25 seconds"
+    }
+  ],
   "id": "22360002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360002/22360002_256.png",
   "character": "Shantotto",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random attacks (2.19 each), [MAG and RES +30%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (2.19 each), [MAG and RES +30%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (2.19 each), [MAG and RES +30%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Eight random attacks (2.19 each), [MAG and RES +30%] to all allies for 25 seconds"
 }

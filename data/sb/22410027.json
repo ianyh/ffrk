@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user."
+    },
+    {
+      "name": "Awoken Wings of Despair (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ambitious Commander Mode II (Cid Raines)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user."
+    },
+    {
+      "name": "Awoken Wings of Despair (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ambitious Commander Mode II (Cid Raines)] to the user"
+    }
+  ],
   "id": "22410027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410027/22410027_256.png",
   "character": "Cid Raines",
@@ -15,25 +35,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user."
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Ambitious Commander Mode II (Cid Raines)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user."
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Ambitious Commander Mode II (Cid Raines)] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user."
 }

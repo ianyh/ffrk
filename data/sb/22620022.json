@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dark Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)]"
+    }
+  ],
   "id": "22620022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620022/22620022_256.png",
   "character": "Vayne",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Dark Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dark Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dark Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)]"
-    }
-  ]
+  "effects": "Activates Dark Chain (max 150, field +30%), grants [MAG +50% (25s)] or [ATK +50% (25s)]"
 }

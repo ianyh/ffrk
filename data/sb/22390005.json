@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (2.34 each), restores HP (55) to all allies, [MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (2.34 each), restores HP (55) to all allies, [MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22390005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390005/22390005_256.png",
   "character": "Ovelia",
@@ -14,17 +26,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Five single attacks (2.34 each), restores HP (55) to all allies, [MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (2.34 each), restores HP (55) to all allies, [MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (2.34 each), restores HP (55) to all allies, [MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Five single attacks (2.34 each), restores HP (55) to all allies, [MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

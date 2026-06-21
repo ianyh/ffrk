@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.80 each)"
+    }
+  ],
   "id": "20100004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100004/20100004_256.png",
   "character": "Terra",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.80 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.80 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.80 each)"
-    }
-  ]
+  "effects": "Ten single attacks (1.80 each)"
 }

@@ -1,22 +1,4 @@
 {
-  "id": "20270045",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270045/20270045_256.png",
-  "character": "Firion",
-  "name": "Zenith Weapon Master",
-  "name_jp": "究極ウェポンマスター",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "II",
-  "elements": [
-    "Holy",
-    "Ice",
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single Enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Holy/Ice/Fire, grants [Zenith Mode], [Zenith Mode: Firion] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -60,5 +42,23 @@
       "name": "Spirit Attack: Firion",
       "text": "Grants [Instant ATB 2], [Instant Cast 2] to the user"
     }
-  ]
+  ],
+  "id": "20270045",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270045/20270045_256.png",
+  "character": "Firion",
+  "name": "Zenith Weapon Master",
+  "name_jp": "究極ウェポンマスター",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "II",
+  "elements": [
+    "Holy",
+    "Ice",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single Enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Holy/Ice/Fire, grants [Zenith Mode], [Zenith Mode: Firion] and [Damage Cap +10000] to the user"
 }

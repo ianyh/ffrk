@@ -1,20 +1,4 @@
 {
-  "id": "22460047",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460047/22460047_256.png",
-  "character": "Onion Knight",
-  "name": "Zenith Grandspell Fire",
-  "name_jp": "究極超越魔法・炎",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "III",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Fire)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Onion Knight (Fire)",
       "text": "Two single attacks (1.50 each), causes [RES -50% (8s)] to the target, grants [Quick Cast 2] to all allies"
     }
-  ]
+  ],
+  "id": "22460047",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460047/22460047_256.png",
+  "character": "Onion Knight",
+  "name": "Zenith Grandspell Fire",
+  "name_jp": "究極超越魔法・炎",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "III",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Onion Knight (Fire)] to the user"
 }

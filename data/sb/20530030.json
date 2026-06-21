@@ -1,22 +1,4 @@
 {
-  "id": "20530030",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530030/20530030_256.png",
-  "character": "Edgar",
-  "name": "Zenith Chainsaw",
-  "name_jp": "究極回転のこぎり",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VI",
-  "elements": [
-    "Poison",
-    "Fire",
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Poison/Fire/Lightning, [Zenith Mode], [Zenith Mode: Edgar (Poison, Fire, Lightning)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -76,5 +58,23 @@
       "name": "Spirit Attack: Edgar",
       "text": "Grants [Machinist +30% Boost 2] and [Machinist Instant Cast 2] to the user"
     }
-  ]
+  ],
+  "id": "20530030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530030/20530030_256.png",
+  "character": "Edgar",
+  "name": "Zenith Chainsaw",
+  "name_jp": "究極回転のこぎり",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Poison 2 with Stacking]/[Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Poison/Fire/Lightning, [Zenith Mode], [Zenith Mode: Edgar (Poison, Fire, Lightning)] and [Damage Cap +10000] to the user"
 }

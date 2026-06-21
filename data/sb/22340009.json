@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [PHY +15% Boost 3]/[PHY +30% Boost 3]/[PHY +30% Boost 3] and [Critical Damage +50%] to all allies if 0-1/2-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Frying Pan +2 to the user if 4+ FF4 allies and Ursula are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [PHY +15% Boost 3]/[PHY +30% Boost 3]/[PHY +30% Boost 3] and [Critical Damage +50%] to all allies if 0-1/2-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Frying Pan +2 to the user if 4+ FF4 allies and Ursula are alive"
+    }
+  ],
   "id": "22340009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340009/22340009_256.png",
   "character": "Yang",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [PHY +15% Boost 3]/[PHY +30% Boost 3]/[PHY +30% Boost 3] and [Critical Damage +50%] to all allies if 0-1/2-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Frying Pan +2 to the user if 4+ FF4 allies and Ursula are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [PHY +15% Boost 3]/[PHY +30% Boost 3]/[PHY +30% Boost 3] and [Critical Damage +50%] to all allies if 0-1/2-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Frying Pan +2 to the user if 4+ FF4 allies and Ursula are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [PHY +15% Boost 3]/[PHY +30% Boost 3]/[PHY +30% Boost 3] and [Critical Damage +50%] to all allies if 0-1/2-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Frying Pan +2 to the user if 4+ FF4 allies and Ursula are alive"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [PHY +15% Boost 3]/[PHY +30% Boost 3]/[PHY +30% Boost 3] and [Critical Damage +50%] to all allies if 0-1/2-3/4+ FF4 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user, grants Frying Pan +2 to the user if 4+ FF4 allies and Ursula are alive"
 }

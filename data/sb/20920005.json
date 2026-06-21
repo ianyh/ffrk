@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20920005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920005/20920005_256.png",
   "character": "Reno",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Six group ranged attacks (0.82 each), grants [Haste], [Attach Lightning] and [Burst Mode] to the user"
 }

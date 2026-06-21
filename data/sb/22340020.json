@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth physical attacks at Conditional Cap Break & 3 single-target Earth Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Earth Abilities in party, Level 5 with at least 5 Earth Abilities & Ursula in party; Multiplier increases with each tier"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth physical attacks at Conditional Cap Break & 3 single-target Earth Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Earth Abilities in party, Level 5 with at least 5 Earth Abilities & Ursula in party; Multiplier increases with each tier"
+    }
+  ],
   "id": "22340020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340020/22340020_256.png",
   "character": "Yang",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Earth physical attacks at Conditional Cap Break & 3 single-target Earth Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Earth Abilities in party, Level 5 with at least 5 Earth Abilities & Ursula in party; Multiplier increases with each tier",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth physical attacks at Conditional Cap Break & 3 single-target Earth Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Earth Abilities in party, Level 5 with at least 5 Earth Abilities & Ursula in party; Multiplier increases with each tier"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth physical attacks at Conditional Cap Break & 3 single-target Earth Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Earth Abilities in party, Level 5 with at least 5 Earth Abilities & Ursula in party; Multiplier increases with each tier"
-    }
-  ]
+  "effects": "7 single-target Earth physical attacks at Conditional Cap Break & 3 single-target Earth Overflow piercing physical attacks\nConditional Cap Break: Level 1/2/4 with at least 2/3/5 Earth Abilities in party, Level 5 with at least 5 Earth Abilities & Ursula in party; Multiplier increases with each tier"
 }

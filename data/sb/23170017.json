@@ -1,20 +1,4 @@
 {
-  "id": "23170017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170017/23170017_256.png",
-  "character": "Kelger",
-  "name": "Zenith Lupine Force",
-  "name_jp": "究極ルパインフォース",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "V",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Kelger (Earth)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Kelger (Earth)",
       "text": "4/6/8 single attacks (0.80/0.90 each) if user has Physical Blink 0/1/2, higher multiplier if exploiting Earth weakness "
     }
-  ]
+  ],
+  "id": "23170017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170017/23170017_256.png",
+  "character": "Kelger",
+  "name": "Zenith Lupine Force",
+  "name_jp": "究極ルパインフォース",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Kelger (Earth)] and [Damage Cap +10000] to the user"
 }

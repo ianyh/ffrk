@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Serah] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode: Serah] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "22260046",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260046/22260046_256.png",
   "character": "Serah",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "",
   "lensable": false,
-  "effects": "Grants [Soul Drive Mode: Serah] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Drive Mode: Serah] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Drive Mode: Serah] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Grants [Soul Drive Mode: Serah] and [Instant ATB 1] to the user"
 }

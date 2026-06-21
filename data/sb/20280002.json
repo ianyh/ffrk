@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.00)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.00)"
+    }
+  ],
   "id": "20280002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280002/20280002_256.png",
   "character": "Gordon",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (7.00)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.00)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.00)"
-    }
-  ]
+  "effects": "One group attack (7.00)"
 }

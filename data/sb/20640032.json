@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Cliff Prison (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Earth Damage;\nWS Blue: Grants [Dualcast Earth 3, Instant Earth 3 & Weakness Damage +30% 3] to user\nWS Gold: Grants [Earth Damage +50%] to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Cliff Prison (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Earth Damage;\nWS Blue: Grants [Dualcast Earth 3, Instant Earth 3 & Weakness Damage +30% 3] to user\nWS Gold: Grants [Earth Damage +50%] to party"
+    }
+  ],
   "id": "20640032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640032/20640032_256.png",
   "character": "Tellah",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE magic attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE magic attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Earth Damage;\nWS Blue: Grants [Dualcast Earth 3, Instant Earth 3 & Weakness Damage +30% 3] to user\nWS Gold: Grants [Earth Damage +50%] to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE magic attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Earth Damage;\nWS Blue: Grants [Dualcast Earth 3, Instant Earth 3 & Weakness Damage +30% 3] to user\nWS Gold: Grants [Earth Damage +50%] to party"
-    }
-  ]
+  "effects": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE magic attack at True Cap Break Level 1"
 }

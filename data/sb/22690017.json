@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user"
+    }
+  ],
   "id": "22690017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690017/22690017_256.png",
   "character": "Lion",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user"
-    }
-  ]
+  "effects": "Causes [Imperil Water 20% (15s)], grants [Buff Water 20% (15s)] to the user"
 }

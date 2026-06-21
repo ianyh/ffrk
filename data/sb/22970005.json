@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
+    }
+  ],
   "id": "22970005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970005/22970005_256.png",
   "character": "Prompto",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Lightning Chain (max 150, field +50%), [ATK +50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Lightning Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Lightning Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
-    }
-  ]
+  "effects": "Activates Lightning Chain (max 150, field +50%), [ATK +50%] for 25 seconds"
 }

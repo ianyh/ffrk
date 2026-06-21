@@ -1,27 +1,11 @@
 {
-  "id": "22170016",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170016/22170016_256.png",
-  "character": "Vincent",
-  "name": "Satan Slam",
-  "name_jp": "サタンインパクト",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single hybrid ranged attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single hybrid ranged attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Satan Slam level 0/1/2, removes Arcane Dyad Empowered: Vincent from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single hybrid ranged attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single hybrid ranged attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Satan Slam level 0/1/2, removes Arcane Dyad Empowered: Vincent from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Satan Slam (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Vincent], [Satan Slam Damage Tracker] and [Satan Slam Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single hybrid ranged attacks (1.00/1.10/1.20 or 3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single hybrid ranged attack (10.00/11.00/12.00 or 34.60/38.06/41.52) capped at 99999 at Satan Slam level 0/1/2, removes Arcane Dyad Empowered: Vincent from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Satan Slam (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Vincent], [Satan Slam Damage Tracker] and [Satan Slam Level]"
     }
-  ]
+  ],
+  "id": "22170016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170016/22170016_256.png",
+  "character": "Vincent",
+  "name": "Satan Slam (Engaged)",
+  "name_jp": "サタンインパクト",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Vincent], [Satan Slam Damage Tracker] and [Satan Slam Level]"
 }

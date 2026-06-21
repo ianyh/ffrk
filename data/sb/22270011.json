@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken High Summoner], and [Damage Cap +10000] to the user, grants [High Summoner's Locus Mode]/[High Summoner's Coterie Mode] to the user if 0/1+ of Auron or Jecht are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken High Summoner], and [Damage Cap +10000] to the user, grants [High Summoner's Locus Mode]/[High Summoner's Coterie Mode] to the user if 0/1+ of Auron or Jecht are alive"
+    }
+  ],
   "id": "22270011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270011/22270011_256.png",
   "character": "Braska",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken High Summoner], and [Damage Cap +10000] to the user, grants [High Summoner's Locus Mode]/[High Summoner's Coterie Mode] to the user if 0/1+ of Auron or Jecht are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken High Summoner], and [Damage Cap +10000] to the user, grants [High Summoner's Locus Mode]/[High Summoner's Coterie Mode] to the user if 0/1+ of Auron or Jecht are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken High Summoner], and [Damage Cap +10000] to the user, grants [High Summoner's Locus Mode]/[High Summoner's Coterie Mode] to the user if 0/1+ of Auron or Jecht are alive"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken High Summoner], and [Damage Cap +10000] to the user, grants [High Summoner's Locus Mode]/[High Summoner's Coterie Mode] to the user if 0/1+ of Auron or Jecht are alive"
 }

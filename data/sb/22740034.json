@@ -1,20 +1,4 @@
 {
-  "id": "22740034",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740034/22740034_256.png",
-  "character": "Noctis",
-  "name": "Zenith Royal Cleave Inferno",
-  "name_jp": "究極煌炎ラストソード",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "XV",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Noctis (Fire)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Noctis (Fire)",
       "text": "Grants [Fire Instant Cast 1] to the user, grants [Buff Fire 10% (5s)] every 2 uses"
     }
-  ]
+  ],
+  "id": "22740034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740034/22740034_256.png",
+  "character": "Noctis",
+  "name": "Zenith Royal Cleave Inferno",
+  "name_jp": "究極煌炎ラストソード",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Noctis (Fire)] and [Damage Cap +10000] to the user"
 }

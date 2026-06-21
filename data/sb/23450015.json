@@ -1,20 +1,4 @@
 {
-  "id": "23450015",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450015/23450015_256.png",
-  "character": "Serafie",
-  "name": "Zenith Misdirection",
-  "name_jp": "究極ミスディレクション",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Beyond",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "7 single attacks (3.05 each) capped at 19999, grants [Attach Wind 3], [Damage Cap +10000], [Zenith Mode], and Zenith Mode: Serafie (Wind) to the user\nZenith Mode: Serafie (Wind): En-Wind Damage +20%, Magic Casting Speed x1.1 & chases 2 Wind abilities with Wind Damage +10% to party (max 2 chases)\nZenith Mode: Serafie (Wind): Dualcast Wind, Higher Multiplier & Zero Hone Cost to Hero Ability; Wind Rhapsody+: Higher multiplier & Cap Break Level 1 after 3 uses\nZenith Mode: Serafie (Wind): +1500 max HP & Astra to user",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Entry",
       "text": "7 single attacks (3.05 each) capped at 19999, grants [Attach Wind 3], [Damage Cap +10000], [Zenith Mode], and Zenith Mode: Serafie (Wind) to the user\nZenith Mode: Serafie (Wind): En-Wind Damage +20%, Magic Casting Speed x1.1 & chases 2 Wind abilities with Wind Damage +10% to party (max 2 chases)\nZenith Mode: Serafie (Wind): Dualcast Wind, Higher Multiplier & Zero Hone Cost to Hero Ability; Wind Rhapsody+: Higher multiplier & Cap Break Level 1 after 3 uses\nZenith Mode: Serafie (Wind): +1500 max HP & Astra to user"
     }
-  ]
+  ],
+  "id": "23450015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450015/23450015_256.png",
+  "character": "Serafie",
+  "name": "Zenith Misdirection",
+  "name_jp": "究極ミスディレクション",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single attacks (3.05 each) capped at 19999, grants [Attach Wind 3], [Damage Cap +10000], [Zenith Mode], and Zenith Mode: Serafie (Wind) to the user\nZenith Mode: Serafie (Wind): En-Wind Damage +20%, Magic Casting Speed x1.1 & chases 2 Wind abilities with Wind Damage +10% to party (max 2 chases)\nZenith Mode: Serafie (Wind): Dualcast Wind, Higher Multiplier & Zero Hone Cost to Hero Ability; Wind Rhapsody+: Higher multiplier & Cap Break Level 1 after 3 uses\nZenith Mode: Serafie (Wind): +1500 max HP & Astra to user"
 }

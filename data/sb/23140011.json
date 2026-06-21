@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven ranged attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Rogue Mode I (Thief (I))], [Twin Element Mode II (Wind, Poison)] and [Thief/Celerity Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Scourge Edge (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Rogue Mode II (Thief (I))] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven ranged attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Rogue Mode I (Thief (I))], [Twin Element Mode II (Wind, Poison)] and [Thief/Celerity Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Scourge Edge (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Rogue Mode II (Thief (I))] to the user"
+    }
+  ],
   "id": "23140011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140011/23140011_256.png",
   "character": "Thief (I)",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven ranged attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Rogue Mode I (Thief (I))], [Twin Element Mode II (Wind, Poison)] and [Thief/Celerity Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven ranged attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Rogue Mode I (Thief (I))], [Twin Element Mode II (Wind, Poison)] and [Thief/Celerity Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Rogue Mode II (Thief (I))] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven ranged attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Rogue Mode I (Thief (I))], [Twin Element Mode II (Wind, Poison)] and [Thief/Celerity Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Rogue Mode II (Thief (I))] to the user"
-    }
-  ]
+  "effects": "Seven ranged attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Rogue Mode I (Thief (I))], [Twin Element Mode II (Wind, Poison)] and [Thief/Celerity Resonance +5% Boost] to the user"
 }

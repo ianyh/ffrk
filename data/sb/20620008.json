@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Summon's Cure Follow-Up] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), grants [Summon's Cure Follow-Up] and [Brave Mode] to the user"
+    }
+  ],
   "id": "20620008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620008/20620008_256.png",
   "character": "Eiko",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.70 each), grants [Summon's Cure Follow-Up] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.70 each), grants [Summon's Cure Follow-Up] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.70 each), grants [Summon's Cure Follow-Up] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.70 each), grants [Summon's Cure Follow-Up] and [Brave Mode] to the user"
 }

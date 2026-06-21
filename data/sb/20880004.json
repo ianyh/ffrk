@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.24 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (2.24 each)"
+    }
+  ],
   "id": "20880004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880004/20880004_256.png",
   "character": "Lulu",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random attacks (2.24 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (2.24 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (2.24 each)"
-    }
-  ]
+  "effects": "Eight random attacks (2.24 each)"
 }

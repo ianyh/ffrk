@@ -1,17 +1,4 @@
 {
-  "id": "20200023",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200023/20200023_256.png",
-  "character": "Lenna",
-  "name": "Zenith Princesses's Prayer",
-  "name_jp": "究極二姫の祈り",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "V",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Lenna] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Lenna (White Magic, Dancer)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +54,18 @@
       "name": "Spirit Attack: Lenna",
       "text": "Restores HP (25) to all allies"
     }
-  ]
+  ],
+  "id": "20200023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200023/20200023_256.png",
+  "character": "Lenna",
+  "name": "Zenith Princesses's Prayer",
+  "name_jp": "究極二姫の祈り",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "V",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Lenna] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Lenna (White Magic, Dancer)] to the user"
 }

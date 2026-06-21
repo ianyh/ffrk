@@ -1,29 +1,11 @@
 {
-  "id": "23430013",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430013/23430013_256.png",
-  "character": "Trey",
-  "name": "Apex Freezing Rain",
-  "name_jp": "フリーズショット・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Water",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Freezing Rain level 0/1, removes Arcane Dyad Empowered: Trey from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Freezing Rain level 0/1, removes Arcane Dyad Empowered: Trey from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Freezing Rain (Engaged)",
       "text": "Grants [Tri-Element Mode (Fire, Ice, Water)], [Damage Cap +10000], [Arcane Dyad Empowered: Trey], [Apex Freezing Rain Damage Tracker] and [Apex Freezing Rain Level]"
     }
   ],
@@ -33,8 +15,21 @@
       "text": "Twenty single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Freezing Rain level 0/1, removes Arcane Dyad Empowered: Trey from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Freezing Rain (Engaged)",
       "text": "Grants [Tri-Element Mode (Fire, Ice, Water)], [Damage Cap +10000], [Arcane Dyad Empowered: Trey], [Apex Freezing Rain Damage Tracker] and [Apex Freezing Rain Level]"
     }
-  ]
+  ],
+  "id": "23430013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430013/23430013_256.png",
+  "character": "Trey",
+  "name": "Apex Freezing Rain (Engaged)",
+  "name_jp": "フリーズショット・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Tri-Element Mode (Fire, Ice, Water)], [Damage Cap +10000], [Arcane Dyad Empowered: Trey], [Apex Freezing Rain Damage Tracker] and [Apex Freezing Rain Level]"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Dorgann)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Brotherhood of the Dawn (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Dorgann)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Dorgann)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Brotherhood of the Dawn (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Dorgann)]"
+    }
+  ],
   "id": "22510015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22510015/22510015_256.png",
   "character": "Dorgann",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Dorgann)] and [Earth Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Dorgann)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Dorgann)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Dorgann)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Dorgann)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Dorgann)] and [Earth Resonance +5% Boost] to the user"
 }

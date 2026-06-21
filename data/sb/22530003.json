@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.90), heals the user for 25% of the damage dealt"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.90), heals the user for 25% of the damage dealt"
+    }
+  ],
   "id": "22530003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22530003/22530003_256.png",
   "character": "Alphinaud",
@@ -11,17 +23,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.90), heals the user for 25% of the damage dealt",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.90), heals the user for 25% of the damage dealt"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.90), heals the user for 25% of the damage dealt"
-    }
-  ]
+  "effects": "One single attack (1.90), heals the user for 25% of the damage dealt"
 }

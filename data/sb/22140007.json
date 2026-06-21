@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, DEF and MAG +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, DEF and MAG +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
   "id": "22140007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22140007/22140007_256.png",
   "character": "Ramza",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK, DEF and MAG +30%] for 25 seconds, grants [Instant Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, DEF and MAG +30%] for 25 seconds, grants [Instant Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, DEF and MAG +30%] for 25 seconds, grants [Instant Cast 1]"
-    }
-  ]
+  "effects": "[ATK, DEF and MAG +30%] for 25 seconds, grants [Instant Cast 1]"
 }

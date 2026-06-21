@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Quad Element Mode II, Dual Awoken Engineer Mode I, Awoken Relics of Heritage & Machinist Damage +5% to user\nDual Awoken Engineer Mode I: Machinist Ability Boost, Triplecast Machinist & chases 2 Machinist abilities with 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, higher multiplier if exploiting weakness\nAwoken Relics of Heritage: Quick Physical to user/party with at least 0/4 T members"
+    },
+    {
+      "name": "Awoken Lost Legacy (Dual Shift)",
+      "text": "Dual Shift: ATK/MAG/DEF/RES +15% for 8 seconds to party, Instant Cast & Zero SB Cost, Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Machinist Ability Boost, Instant Machinist & chases a Machinist ability with Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Quad Element Mode II, Dual Awoken Engineer Mode I, Awoken Relics of Heritage & Machinist Damage +5% to user\nDual Awoken Engineer Mode I: Machinist Ability Boost, Triplecast Machinist & chases 2 Machinist abilities with 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, higher multiplier if exploiting weakness\nAwoken Relics of Heritage: Quick Physical to user/party with at least 0/4 T members"
+    },
+    {
+      "name": "Awoken Lost Legacy (Dual Shift)",
+      "text": "Dual Shift: ATK/MAG/DEF/RES +15% for 8 seconds to party, Instant Cast & Zero SB Cost, Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Machinist Ability Boost, Instant Machinist & chases a Machinist ability with Instant Cast 1 to user"
+    }
+  ],
   "id": "22400009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400009/22400009_256.png",
   "character": "Mustadio",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Quad Element Mode II, Dual Awoken Engineer Mode I, Awoken Relics of Heritage & Machinist Damage +5% to user\nDual Awoken Engineer Mode I: Machinist Ability Boost, Triplecast Machinist & chases 2 Machinist abilities with 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, higher multiplier if exploiting weakness\nAwoken Relics of Heritage: Quick Physical to user/party with at least 0/4 T members",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Quad Element Mode II, Dual Awoken Engineer Mode I, Awoken Relics of Heritage & Machinist Damage +5% to user\nDual Awoken Engineer Mode I: Machinist Ability Boost, Triplecast Machinist & chases 2 Machinist abilities with 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, higher multiplier if exploiting weakness\nAwoken Relics of Heritage: Quick Physical to user/party with at least 0/4 T members"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Dual Shift: ATK/MAG/DEF/RES +15% for 8 seconds to party, Instant Cast & Zero SB Cost, Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Machinist Ability Boost, Instant Machinist & chases a Machinist ability with Instant Cast 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Quad Element Mode II, Dual Awoken Engineer Mode I, Awoken Relics of Heritage & Machinist Damage +5% to user\nDual Awoken Engineer Mode I: Machinist Ability Boost, Triplecast Machinist & chases 2 Machinist abilities with 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, higher multiplier if exploiting weakness\nAwoken Relics of Heritage: Quick Physical to user/party with at least 0/4 T members"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Dual Shift: ATK/MAG/DEF/RES +15% for 8 seconds to party, Instant Cast & Zero SB Cost, Instant ATB 1 & Dual Awoken Engineer Mode II to user\nDual Awoken Engineer Mode II: Machinist Ability Boost, Instant Machinist & chases a Machinist ability with Instant Cast 1 to user"
-    }
-  ]
+  "effects": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, Cap Break Level 1, Quad Element Mode II, Dual Awoken Engineer Mode I, Awoken Relics of Heritage & Machinist Damage +5% to user\nDual Awoken Engineer Mode I: Machinist Ability Boost, Triplecast Machinist & chases 2 Machinist abilities with 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks, higher multiplier if exploiting weakness\nAwoken Relics of Heritage: Quick Physical to user/party with at least 0/4 T members"
 }

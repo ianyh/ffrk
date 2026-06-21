@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
+    }
+  ],
   "id": "20520015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520015/20520015_256.png",
   "character": "Yuna",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [HP Stock (2000)], grants [Attach Holy] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
-    }
-  ]
+  "effects": "Grants [HP Stock (2000)], grants [Attach Holy] to the user"
 }

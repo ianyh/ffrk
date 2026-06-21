@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven random ranged attacks (1.11 each), causes [Imperil Fire 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven random ranged attacks (1.11 each), causes [Imperil Fire 20%] for 25 seconds"
+    }
+  ],
   "id": "22780002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780002/22780002_256.png",
   "character": "Cid (XIV)",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Seven random ranged attacks (1.11 each), causes [Imperil Fire 20%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven random ranged attacks (1.11 each), causes [Imperil Fire 20%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven random ranged attacks (1.11 each), causes [Imperil Fire 20%] for 25 seconds"
-    }
-  ]
+  "effects": "Seven random ranged attacks (1.11 each), causes [Imperil Fire 20%] for 25 seconds"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.37 each), 1.53 multiplier if all allies are alive, causes [Imperil Holy 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.37 each), 1.53 multiplier if all allies are alive, causes [Imperil Holy 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22050005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050005/22050005_256.png",
   "character": "Beatrix",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group attacks (1.37 each), 1.53 multiplier if all allies are alive, causes [Imperil Holy 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (1.37 each), 1.53 multiplier if all allies are alive, causes [Imperil Holy 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (1.37 each), 1.53 multiplier if all allies are alive, causes [Imperil Holy 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Four group attacks (1.37 each), 1.53 multiplier if all allies are alive, causes [Imperil Holy 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

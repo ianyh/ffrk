@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "MAG +20% for 25 seconds, grants [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "MAG +20% for 25 seconds, grants [Haste]"
+    }
+  ],
   "id": "22070002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070002/22070002_256.png",
   "character": "Kefka",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "MAG +20% for 25 seconds, grants [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "MAG +20% for 25 seconds, grants [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "MAG +20% for 25 seconds, grants [Haste]"
-    }
-  ]
+  "effects": "MAG +20% for 25 seconds, grants [Haste]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (1.05)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (1.05)"
+    }
+  ],
   "id": "20010003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20010003/20010003_256.png",
   "character": "Monk",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One group attack (1.05)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (1.05)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (1.05)"
-    }
-  ]
+  "effects": "One group attack (1.05)"
 }

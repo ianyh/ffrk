@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [Physical High Quick Cast 3] to all allies, Grants [Damage Cap +10000], [Dual Awoken Support Mode I: Iris] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Moogle Cheer (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Support Mode II: Iris]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [Physical High Quick Cast 3] to all allies, Grants [Damage Cap +10000], [Dual Awoken Support Mode I: Iris] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Moogle Cheer (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Support Mode II: Iris]"
+    }
+  ],
   "id": "22910010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22910010/22910010_256.png",
   "character": "Iris",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [Physical High Quick Cast 3] to all allies, Grants [Damage Cap +10000], [Dual Awoken Support Mode I: Iris] and [White Magic Healing Resonance Boost +5%] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [Physical High Quick Cast 3] to all allies, Grants [Damage Cap +10000], [Dual Awoken Support Mode I: Iris] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Support Mode II: Iris]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [Physical High Quick Cast 3] to all allies, Grants [Damage Cap +10000], [Dual Awoken Support Mode I: Iris] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Support Mode II: Iris]"
-    }
-  ]
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [Physical High Quick Cast 3] to all allies, Grants [Damage Cap +10000], [Dual Awoken Support Mode I: Iris] and [White Magic Healing Resonance Boost +5%] to the user"
 }

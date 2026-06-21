@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged jump attacks (0.80 each). Grants [Accel Mode], [Accel Mode: Mog (Dragoon)], [Quick Cast], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Accel Mode: Mog (Dragoon)",
+      "text": "Casts [Roaring Mog] after using Dragoon or Dancer abilities (max 4), removed if the character hasn't [Accel Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single ranged jump attacks (0.80 each). Grants [Accel Mode], [Accel Mode: Mog (Dragoon)], [Quick Cast], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Accel Mode: Mog (Dragoon)",
+      "text": "Casts [Roaring Mog] after using Dragoon or Dancer abilities (max 4), removed if the character hasn't [Accel Mode]"
+    }
+  ],
   "id": "20900022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900022/20900022_256.png",
   "character": "Mog",
@@ -22,25 +42,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Five single ranged jump attacks (0.80 each). Grants [Accel Mode], [Accel Mode: Mog (Dragoon)], [Quick Cast], [Instant ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five single ranged jump attacks (0.80 each). Grants [Accel Mode], [Accel Mode: Mog (Dragoon)], [Quick Cast], [Instant ATB 1] to user."
-    },
-    {
-      "name": "Accel Mode: Mog (Dragoon)",
-      "text": "Casts [Roaring Mog] after using Dragoon or Dancer abilities (max 4), removed if the character hasn't [Accel Mode]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five single ranged jump attacks (0.80 each). Grants [Accel Mode], [Accel Mode: Mog (Dragoon)], [Quick Cast], [Instant ATB 1] to user."
-    },
-    {
-      "name": "Accel Mode: Mog (Dragoon)",
-      "text": "Casts [Roaring Mog] after using Dragoon or Dancer abilities (max 4), removed if the character hasn't [Accel Mode]"
-    }
-  ]
+  "effects": "Five single ranged jump attacks (0.80 each). Grants [Accel Mode], [Accel Mode: Mog (Dragoon)], [Quick Cast], [Instant ATB 1] to user."
 }

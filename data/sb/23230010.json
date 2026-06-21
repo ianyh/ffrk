@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]"
+    }
+  ],
   "id": "23230010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230010/23230010_256.png",
   "character": "Ultimecia",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]"
-    }
-  ]
+  "effects": "Grants [Attach Wind Stacking], [Attach Wind] and [Instant Cast 1]"
 }

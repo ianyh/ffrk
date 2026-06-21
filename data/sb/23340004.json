@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), damages the user for 99% current HP, grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], [Stoneskin: 100%] and [Unmatched Fury Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), damages the user for 99% current HP, grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], [Stoneskin: 100%] and [Unmatched Fury Mode] to the user"
+    }
+  ],
   "id": "23340004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23340004/23340004_256.png",
   "character": "Jack",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), damages the user for 99% current HP, grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], [Stoneskin: 100%] and [Unmatched Fury Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), damages the user for 99% current HP, grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], [Stoneskin: 100%] and [Unmatched Fury Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), damages the user for 99% current HP, grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], [Stoneskin: 100%] and [Unmatched Fury Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), damages the user for 99% current HP, grants [Attach Fire], [Awoken Samurai], [Damage Cap +10000], [Stoneskin: 100%] and [Unmatched Fury Mode] to the user"
 }

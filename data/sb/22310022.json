@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Chaos Bringer (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II: Garland], removes [Dual Awoken Dark Mode I: Garland]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Chaos Bringer (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II: Garland], removes [Dual Awoken Dark Mode I: Garland]"
+    }
+  ],
   "id": "22310022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310022/22310022_256.png",
   "character": "Garland",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II: Garland], removes [Dual Awoken Dark Mode I: Garland]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II: Garland], removes [Dual Awoken Dark Mode I: Garland]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user"
 }

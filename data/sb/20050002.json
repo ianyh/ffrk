@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +40%] for 20 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +40%] for 20 seconds"
+    }
+  ],
   "id": "20050002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20050002/20050002_256.png",
   "character": "Bard",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "[ATK +40%] for 20 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +40%] for 20 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +40%] for 20 seconds"
-    }
-  ]
+  "effects": "[ATK +40%] for 20 seconds"
 }

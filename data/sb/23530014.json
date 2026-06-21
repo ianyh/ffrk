@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and Crystal Mode to the user, grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] to the user depending on entry damage\nCrystal Mode: Lightning/Dark Ability Boost, Dualcast Lightning/Dark, Zero Hone Cost to Lightning/Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single Lightning/Dark/NE physical attacks (2.00 each) capped at 19999, Instant Cast, grants [Damage +30% Boost 2] to all allies with [Attach Lightning] or [Attach Dark], grants [Quick Cast 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and Crystal Mode to the user, grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] to the user depending on entry damage\nCrystal Mode: Lightning/Dark Ability Boost, Dualcast Lightning/Dark, Zero Hone Cost to Lightning/Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single Lightning/Dark/NE physical attacks (2.00 each) capped at 19999, Instant Cast, grants [Damage +30% Boost 2] to all allies with [Attach Lightning] or [Attach Dark], grants [Quick Cast 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
+    }
+  ],
   "id": "23530014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530014/23530014_256.png",
   "character": "Ravus",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and Crystal Mode to the user, grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] to the user depending on entry damage\nCrystal Mode: Lightning/Dark Ability Boost, Dualcast Lightning/Dark, Zero Hone Cost to Lightning/Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single Lightning/Dark/NE physical attacks (2.00 each) capped at 19999, Instant Cast, grants [Damage +30% Boost 2] to all allies with [Attach Lightning] or [Attach Dark], grants [Quick Cast 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and Crystal Mode to the user, grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] to the user depending on entry damage\nCrystal Mode: Lightning/Dark Ability Boost, Dualcast Lightning/Dark, Zero Hone Cost to Lightning/Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single Lightning/Dark/NE physical attacks (2.00 each) capped at 19999, Instant Cast, grants [Damage +30% Boost 2] to all allies with [Attach Lightning] or [Attach Dark], grants [Quick Cast 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and Crystal Mode to the user, grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] to the user depending on entry damage\nCrystal Mode: Lightning/Dark Ability Boost, Dualcast Lightning/Dark, Zero Hone Cost to Lightning/Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single Lightning/Dark/NE physical attacks (2.00 each) capped at 19999, Instant Cast, grants [Damage +30% Boost 2] to all allies with [Attach Lightning] or [Attach Dark], grants [Quick Cast 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and Crystal Mode to the user, grants [Attach Lightning with Stacking]/[Attach Dark with Stacking] to the user depending on entry damage\nCrystal Mode: Lightning/Dark Ability Boost, Dualcast Lightning/Dark, Zero Hone Cost to Lightning/Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single Lightning/Dark/NE physical attacks (2.00 each) capped at 19999, Instant Cast, grants [Damage +30% Boost 2] to all allies with [Attach Lightning] or [Attach Dark], grants [Quick Cast 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
 }

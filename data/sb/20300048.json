@@ -1,21 +1,4 @@
 {
-  "id": "20300048",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300048/20300048_256.png",
-  "character": "Rinoa",
-  "name": "Zenith Sorceress's Awakening",
-  "name_jp": "究極魔女の覚醒",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "VIII",
-  "elements": [
-    "Ice",
-    "Earth",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single-target Ice/Earth/NE magical attacks (? each) capped at 19999, [Attach Ice 2 with Stacking] or [Attach Earth 2 with Stacking], [Damage Cap +20000], and Zenith Mode: Rinoa (Ice/Earth) to the user\nUltimate Spirit Mode: En-Ice/Earth Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Earth ability with 250 SB Points to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Angel Wing+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
   "description": [
     {
       "name": "Entry",
@@ -47,5 +30,22 @@
       "name": "Angel Wing+",
       "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "20300048",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300048/20300048_256.png",
+  "character": "Rinoa",
+  "name": "Zenith Sorceress's Awakening",
+  "name_jp": "究極魔女の覚醒",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single-target Ice/Earth/NE magical attacks (? each) capped at 19999, [Attach Ice 2 with Stacking] or [Attach Earth 2 with Stacking], [Damage Cap +20000], and Zenith Mode: Rinoa (Ice/Earth) to the user\nUltimate Spirit Mode: En-Ice/Earth Damage +20%, Magic Casting Speed x1.1 & chases an Ice/Earth ability with 250 SB Points to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Ice/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Angel Wing+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

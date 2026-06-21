@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.80), causes [Sleep] (30%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.80), causes [Sleep] (30%)"
+    }
+  ],
   "id": "22540003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540003/22540003_256.png",
   "character": "Seymour",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single ranged attack (1.80), causes [Sleep] (30%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (1.80), causes [Sleep] (30%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (1.80), causes [Sleep] (30%)"
-    }
-  ]
+  "effects": "One single ranged attack (1.80), causes [Sleep] (30%)"
 }

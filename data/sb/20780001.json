@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (0.90 each), causes [Blind] (11%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (0.90 each), causes [Blind] (11%)"
+    }
+  ],
   "id": "20780001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780001/20780001_256.png",
   "character": "Setzer",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group ranged attacks (0.90 each), causes [Blind] (11%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (0.90 each), causes [Blind] (11%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (0.90 each), causes [Blind] (11%)"
-    }
-  ]
+  "effects": "Four group ranged attacks (0.90 each), causes [Blind] (11%)"
 }

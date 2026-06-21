@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Fire/Lightning/NE ranged physical attacks, Quick Cast to back-row members, Sync Mode, Cap Break Level 1 & Linked Materia Mode III to user\nAttack (Fire/Lightning): 6 single-target Fire/Lightning/NE ranged physical attacks, high SB charge\nDefend (Fire/Lightning): 3 single-target Fire/Lightning/NE ranged physical attacks, Fire/Lightning Ability Damage +30% for 3 turns to user\nLinked Materia Mode III: Lv.2 En-Fire Stack or Lv.2 En-Lightning Stack"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Fire/Lightning/NE ranged physical attacks, Quick Cast to back-row members, Sync Mode, Cap Break Level 1 & Linked Materia Mode III to user\nAttack (Fire/Lightning): 6 single-target Fire/Lightning/NE ranged physical attacks, high SB charge\nDefend (Fire/Lightning): 3 single-target Fire/Lightning/NE ranged physical attacks, Fire/Lightning Ability Damage +30% for 3 turns to user\nLinked Materia Mode III: Lv.2 En-Fire Stack or Lv.2 En-Lightning Stack"
+    }
+  ],
   "id": "23020025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020025/23020025_256.png",
   "character": "Elena",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "15 single-target Fire/Lightning/NE ranged physical attacks, Quick Cast to back-row members, Sync Mode, Cap Break Level 1 & Linked Materia Mode III to user\nAttack (Fire/Lightning): 6 single-target Fire/Lightning/NE ranged physical attacks, high SB charge\nDefend (Fire/Lightning): 3 single-target Fire/Lightning/NE ranged physical attacks, Fire/Lightning Ability Damage +30% for 3 turns to user\nLinked Materia Mode III: Lv.2 En-Fire Stack or Lv.2 En-Lightning Stack",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Fire/Lightning/NE ranged physical attacks, Quick Cast to back-row members, Sync Mode, Cap Break Level 1 & Linked Materia Mode III to user\nAttack (Fire/Lightning): 6 single-target Fire/Lightning/NE ranged physical attacks, high SB charge\nDefend (Fire/Lightning): 3 single-target Fire/Lightning/NE ranged physical attacks, Fire/Lightning Ability Damage +30% for 3 turns to user\nLinked Materia Mode III: Lv.2 En-Fire Stack or Lv.2 En-Lightning Stack"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Fire/Lightning/NE ranged physical attacks, Quick Cast to back-row members, Sync Mode, Cap Break Level 1 & Linked Materia Mode III to user\nAttack (Fire/Lightning): 6 single-target Fire/Lightning/NE ranged physical attacks, high SB charge\nDefend (Fire/Lightning): 3 single-target Fire/Lightning/NE ranged physical attacks, Fire/Lightning Ability Damage +30% for 3 turns to user\nLinked Materia Mode III: Lv.2 En-Fire Stack or Lv.2 En-Lightning Stack"
-    }
-  ]
+  "effects": "15 single-target Fire/Lightning/NE ranged physical attacks, Quick Cast to back-row members, Sync Mode, Cap Break Level 1 & Linked Materia Mode III to user\nAttack (Fire/Lightning): 6 single-target Fire/Lightning/NE ranged physical attacks, high SB charge\nDefend (Fire/Lightning): 3 single-target Fire/Lightning/NE ranged physical attacks, Fire/Lightning Ability Damage +30% for 3 turns to user\nLinked Materia Mode III: Lv.2 En-Fire Stack or Lv.2 En-Lightning Stack"
 }

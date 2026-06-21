@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.44 each), [ATK and MAG -40%] for 15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.44 each), [ATK and MAG -40%] for 15 seconds"
+    }
+  ],
   "id": "20930012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930012/20930012_256.png",
   "character": "Faris",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group ranged attacks (0.44 each), [ATK and MAG -40%] for 15 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.44 each), [ATK and MAG -40%] for 15 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.44 each), [ATK and MAG -40%] for 15 seconds"
-    }
-  ]
+  "effects": "Six group ranged attacks (0.44 each), [ATK and MAG -40%] for 15 seconds"
 }

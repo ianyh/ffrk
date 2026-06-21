@@ -1,22 +1,4 @@
 {
-  "id": "23000015",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000015/23000015_256.png",
-  "character": "Ward",
-  "name": "Zenith Tri-Anchor",
-  "name_jp": "究極トライアンカー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [
-    "Water",
-    "Ice",
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Water 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Earth 2 with Stacking] depending on if entry damage was Water/Ice/Earth, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Ward (Water, Ice, Earth)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -72,5 +54,23 @@
       "name": "Anchor Rain+",
       "text": "Five single ranged attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "23000015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000015/23000015_256.png",
+  "character": "Ward",
+  "name": "Zenith Tri-Anchor",
+  "name_jp": "究極トライアンカー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [
+    "Water",
+    "Ice",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Water 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Earth 2 with Stacking] depending on if entry damage was Water/Ice/Earth, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Ward (Water, Ice, Earth)] to the user"
 }

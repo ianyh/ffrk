@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (2.00 each), grants [High Regen] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (2.00 each), grants [High Regen] to all allies"
+    }
+  ],
   "id": "20810004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20810004/20810004_256.png",
   "character": "Gilgamesh",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group attacks (2.00 each), grants [High Regen] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (2.00 each), grants [High Regen] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (2.00 each), grants [High Regen] to all allies"
-    }
-  ]
+  "effects": "Three group attacks (2.00 each), grants [High Regen] to all allies"
 }

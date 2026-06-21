@@ -1,27 +1,11 @@
 {
-  "id": "20080043",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080043/20080043_256.png",
-  "character": "Kain",
-  "name": "Apex Evil Tornado Dive",
-  "name_jp": "Eトルネードダイブ・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB2",
-  "realm": "IV",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "20 single-target jump attacks (1.00/1.10/1.20) capped at 9999/19999/29999 & single-target jump attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode",
   "description": [
     {
       "name": "Entry",
       "text": "20 single-target jump attacks (1.00/1.10/1.20) capped at 9999/19999/29999 & single-target jump attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Evil Tornado Dive (Engaged)",
       "text": "En-Dark, En-Dark Stack, Cap Break Level 1 & True Arcane Augment Mode to user, Instant Cast & Zero SB Cost\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Evil Tornado Dive if at least 100001/300001 damage is dealt"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "20 single-target jump attacks (1.00/1.10/1.20) capped at 9999/19999/29999 & single-target jump attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Evil Tornado Dive (Engaged)",
       "text": "En-Dark, En-Dark Stack, Cap Break Level 1 & True Arcane Augment Mode to user, Instant Cast & Zero SB Cost\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Evil Tornado Dive if at least 100001/300001 damage is dealt"
     }
-  ]
+  ],
+  "id": "20080043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080043/20080043_256.png",
+  "character": "Kain",
+  "name": "Apex Evil Tornado Dive (Engaged)",
+  "name_jp": "Eトルネードダイブ・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "En-Dark, En-Dark Stack, Cap Break Level 1 & True Arcane Augment Mode to user, Instant Cast & Zero SB Cost\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Evil Tornado Dive if at least 100001/300001 damage is dealt"
 }

@@ -1,27 +1,11 @@
 {
-  "id": "20310022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310022/20310022_256.png",
-  "character": "Snow",
-  "name": "Frost Sanction",
-  "name_jp": "フロストサンクション",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "XIII",
-  "elements": [
-    "Ice",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Frost Sanction level 0/1/2, removes Arcane Dyad Empowered: Snow from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Frost Sanction level 0/1/2, removes Arcane Dyad Empowered: Snow from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Frost Sanction (Engaged)",
       "text": "Grants [Attach Ice with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Snow], [Frost Sanction Damage Tracker] and [Frost Sanction Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Frost Sanction level 0/1/2, removes Arcane Dyad Empowered: Snow from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Frost Sanction (Engaged)",
       "text": "Grants [Attach Ice with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Snow], [Frost Sanction Damage Tracker] and [Frost Sanction Level]"
     }
-  ]
+  ],
+  "id": "20310022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310022/20310022_256.png",
+  "character": "Snow",
+  "name": "Frost Sanction (Engaged)",
+  "name_jp": "フロストサンクション",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Ice with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Snow], [Frost Sanction Damage Tracker] and [Frost Sanction Level]"
 }

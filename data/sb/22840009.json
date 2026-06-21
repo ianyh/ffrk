@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants h85 heal, 40% Raise, Haste, ATK/MND +50% & Critical Chance +100%, grants Awoken Time Traveler Mode to user\nAwoken Time Traveler Mode: Unlimited White Magic/Bard Hones, White Magic/Bard Rank Quick Cast & chases every 2 White Magic/Bard abilities with Prismatic Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants h85 heal, 40% Raise, Haste, ATK/MND +50% & Critical Chance +100%, grants Awoken Time Traveler Mode to user\nAwoken Time Traveler Mode: Unlimited White Magic/Bard Hones, White Magic/Bard Rank Quick Cast & chases every 2 White Magic/Bard abilities with Prismatic Damage +10% for 5 seconds to party"
+    }
+  ],
   "id": "22840009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22840009/22840009_256.png",
   "character": "Aemo",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants h85 heal, 40% Raise, Haste, ATK/MND +50% & Critical Chance +100%, grants Awoken Time Traveler Mode to user\nAwoken Time Traveler Mode: Unlimited White Magic/Bard Hones, White Magic/Bard Rank Quick Cast & chases every 2 White Magic/Bard abilities with Prismatic Damage +10% for 5 seconds to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants h85 heal, 40% Raise, Haste, ATK/MND +50% & Critical Chance +100%, grants Awoken Time Traveler Mode to user\nAwoken Time Traveler Mode: Unlimited White Magic/Bard Hones, White Magic/Bard Rank Quick Cast & chases every 2 White Magic/Bard abilities with Prismatic Damage +10% for 5 seconds to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants h85 heal, 40% Raise, Haste, ATK/MND +50% & Critical Chance +100%, grants Awoken Time Traveler Mode to user\nAwoken Time Traveler Mode: Unlimited White Magic/Bard Hones, White Magic/Bard Rank Quick Cast & chases every 2 White Magic/Bard abilities with Prismatic Damage +10% for 5 seconds to party"
-    }
-  ]
+  "effects": "Grants h85 heal, 40% Raise, Haste, ATK/MND +50% & Critical Chance +100%, grants Awoken Time Traveler Mode to user\nAwoken Time Traveler Mode: Unlimited White Magic/Bard Hones, White Magic/Bard Rank Quick Cast & chases every 2 White Magic/Bard abilities with Prismatic Damage +10% for 5 seconds to party"
 }

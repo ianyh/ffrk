@@ -1,20 +1,4 @@
 {
-  "id": "23080021",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080021/23080021_256.png",
-  "character": "Rem",
-  "name": "Zenith Seraphim Strike",
-  "name_jp": "究極マジックサテライト",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "WHT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rem] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Rem",
       "text": "Five single attacks (1.60 each) and grants [Holy Ability +30% Boost 3] to the user"
     }
-  ]
+  ],
+  "id": "23080021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080021/23080021_256.png",
+  "character": "Rem",
+  "name": "Zenith Seraphim Strike",
+  "name_jp": "究極マジックサテライト",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rem] to the user"
 }

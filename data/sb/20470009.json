@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
+    }
+  ],
   "id": "20470009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470009/20470009_256.png",
   "character": "Red XIII",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Earth Chain (max 150, field +50%), [MAG +50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Earth Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Earth Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
-    }
-  ]
+  "effects": "Activates Earth Chain (max 150, field +50%), [MAG +50%] for 25 seconds"
 }

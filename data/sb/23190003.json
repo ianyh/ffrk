@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.11 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.11 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ],
   "id": "23190003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190003/23190003_256.png",
   "character": "Cinque",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group attacks (1.11 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (1.11 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (1.11 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
-    }
-  ]
+  "effects": "Six group attacks (1.11 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
 }

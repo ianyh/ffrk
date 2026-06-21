@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.51 each), grants [Physical Blink 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.51 each), grants [Physical Blink 2] to the user"
+    }
+  ],
   "id": "20440003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440003/20440003_256.png",
   "character": "Balthier",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Ten random ranged attacks (0.51 each), grants [Physical Blink 2] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten random ranged attacks (0.51 each), grants [Physical Blink 2] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten random ranged attacks (0.51 each), grants [Physical Blink 2] to the user"
-    }
-  ]
+  "effects": "Ten random ranged attacks (0.51 each), grants [Physical Blink 2] to the user"
 }

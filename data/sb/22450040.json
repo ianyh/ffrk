@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Quick Cast 1 to party, Deadly Strikes +15% to En-Ice or En-Water members under En-Ice or En-Water, Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Quick Cast 1 to party, Deadly Strikes +15% to En-Ice or En-Water members under En-Ice or En-Water, Instant ATB 1 to user"
+    }
+  ],
   "id": "22450040",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450040/22450040_256.png",
   "character": "Noel",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Quick Cast 1 to party, Deadly Strikes +15% to En-Ice or En-Water members under En-Ice or En-Water, Instant ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Quick Cast 1 to party, Deadly Strikes +15% to En-Ice or En-Water members under En-Ice or En-Water, Instant ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Quick Cast 1 to party, Deadly Strikes +15% to En-Ice or En-Water members under En-Ice or En-Water, Instant ATB 1 to user"
-    }
-  ]
+  "effects": "Quick Cast 1 to party, Deadly Strikes +15% to En-Ice or En-Water members under En-Ice or En-Water, Instant ATB 1 to user"
 }

@@ -1,20 +1,4 @@
 {
-  "id": "22900017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900017/22900017_256.png",
-  "character": "Gladiolus",
-  "name": "Zenith Cyclone",
-  "name_jp": "究極サイクロン",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XV",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Gladiolus (Earth)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Gladiolus (Earth)",
       "text": "Six single attacks (0.80/0.90 each) with a higher multiplier if hitting Earth weakness, grants [Earth Ability Instant Cast 3] to the user"
     }
-  ]
+  ],
+  "id": "22900017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900017/22900017_256.png",
+  "character": "Gladiolus",
+  "name": "Zenith Cyclone",
+  "name_jp": "究極サイクロン",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Gladiolus (Earth)] and [Damage Cap +10000] to the user"
 }

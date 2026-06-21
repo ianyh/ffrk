@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Balthier)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Element of Treachery (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Balthier)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Balthier)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Element of Treachery (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Balthier)]"
+    }
+  ],
   "id": "20440025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440025/20440025_256.png",
   "character": "Balthier",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Balthier)] and [Fire Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Balthier)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Balthier)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Balthier)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Balthier)]"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Balthier)] and [Fire Resonance +5% Boost] to the user"
 }

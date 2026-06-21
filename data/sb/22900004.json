@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 25% of the target's maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 25% of the target's maximum HP"
+    }
+  ],
   "id": "22900004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900004/22900004_256.png",
   "character": "Gladiolus",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Restores HP for 25% of the target's maximum HP",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP for 25% of the target's maximum HP"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP for 25% of the target's maximum HP"
-    }
-  ]
+  "effects": "Restores HP for 25% of the target's maximum HP"
 }

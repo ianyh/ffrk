@@ -1,20 +1,4 @@
 {
-  "id": "20070041",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070041/20070041_256.png",
-  "character": "Cecil (Paladin)",
-  "name": "Zenith Paladin Force",
-  "name_jp": "究極パラディンフォース",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "IV",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single Enemy",
-  "lensable": false,
-  "effects": "Seven single hybrid attacks (0.90/3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Zenith Mode], [Zenith Mode: Cecil (Paladin)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Spirit Attack: Cecil (Paladin)",
       "text": "Grants [50% Damage Reduction Barrier 1] to all allies, grants [Holy Ability Quick Cast 3], [MND +50% (15s)] if the user's ATK is less than or equal to their MND, [100% Critical 3] if the user's ATK is greater than their MND, to the user (max 1)"
     }
-  ]
+  ],
+  "id": "20070041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070041/20070041_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Zenith Paladin Force",
+  "name_jp": "究極パラディンフォース",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single Enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks (0.90/3.10 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Zenith Mode], [Zenith Mode: Cecil (Paladin)] and [Damage Cap +10000] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (3.60), [ATK and MAG -40%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (3.60), [ATK and MAG -40%] for 25 seconds"
+    }
+  ],
   "id": "20040003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20040003/20040003_256.png",
   "character": "Ranger",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single ranged attack (3.60), [ATK and MAG -40%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (3.60), [ATK and MAG -40%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (3.60), [ATK and MAG -40%] for 25 seconds"
-    }
-  ]
+  "effects": "One single ranged attack (3.60), [ATK and MAG -40%] for 25 seconds"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Darksheen Blade (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Zeid)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Darksheen Blade (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Zeid)]"
+    }
+  ],
   "id": "22890013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890013/22890013_256.png",
   "character": "Zeid",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Zeid)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Zeid)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user"
 }

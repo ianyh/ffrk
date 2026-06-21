@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.25), [MAG +20%] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.25), [MAG +20%] to the user for 25 seconds"
+    }
+  ],
   "id": "20100003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100003/20100003_256.png",
   "character": "Terra",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (7.25), [MAG +20%] to the user for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.25), [MAG +20%] to the user for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.25), [MAG +20%] to the user for 25 seconds"
-    }
-  ]
+  "effects": "One group attack (7.25), [MAG +20%] to the user for 25 seconds"
 }

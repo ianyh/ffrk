@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE summon magic attacks, 10% Stoneskin to party, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/Wind/NE summon magic attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE summon magic attacks, 10% Stoneskin to party, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/Wind/NE summon magic attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode"
+    }
+  ],
   "id": "20520043",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520043/20520043_256.png",
   "character": "Yuna",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE summon magic attacks, 10% Stoneskin to party, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/Wind/NE summon magic attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE summon magic attacks, 10% Stoneskin to party, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/Wind/NE summon magic attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE summon magic attacks, 10% Stoneskin to party, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/Wind/NE summon magic attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode"
-    }
-  ]
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Holy/NE summon magic attacks, 10% Stoneskin to party, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Holy/Wind/NE summon magic attack at True Cap Break Level 1, [True Cap Break Level 1, Instant Cast & Hero Boost +50%] for 1 turn to user, removes Master Mode"
 }

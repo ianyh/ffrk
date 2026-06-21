@@ -1,22 +1,4 @@
 {
-  "id": "23160018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160018/23160018_256.png",
-  "character": "Xezat",
-  "name": "Zenith Spellstrike Icecrusher",
-  "name_jp": "究極魔法剣絶技・氷砕鳴",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "V",
-  "elements": [
-    "Earth",
-    "Ice",
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "",
-  "lensable": false,
-  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Xezat]",
   "description": [
     {
       "name": "Entry",
@@ -68,5 +50,23 @@
       "name": "Spirit Attack: Xezat",
       "text": "Grants [Deadly Strikes +10% 3] to all allies"
     }
-  ]
+  ],
+  "id": "23160018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160018/23160018_256.png",
+  "character": "Xezat",
+  "name": "Zenith Spellstrike Icecrusher",
+  "name_jp": "究極魔法剣絶技・氷砕鳴",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Xezat]"
 }

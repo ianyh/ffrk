@@ -1,23 +1,4 @@
 {
-  "id": "22780015",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780015/22780015_256.png",
-  "character": "Cid (XIV)",
-  "name": "Zenith Flamethrower",
-  "name_jp": "究極フレイムスロアー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIV",
-  "elements": [
-    "Fire",
-    "Earth",
-    "Wind",
-    "Poison",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "7 single-target ranged physical attacks (0.90 each) capped at 19999, Lv.2 En-Fire Stack, Lv.2 En-Earth Stack, Lv.2 En-Wind Stack or Lv.2 En-Poison Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Earth/Wind/Poison Damage +20%, Physical Casting Speed x1.1 & chases a Machinist ability with [Imperil Fire/Earth/Wind/Poison to all targets & Fire/Earth/Wind/Poison Ability Damage +30% for 2 turns to party] or [Prismatic Damage +20% & Machinist Damage +30% for 2 turns to party] with at least 0/4 Machinists (max 1 chase)\nUltimate Dexterity Mode: Dualcast Machinist, Higher Multiplier & Zero Hone Cost to Hero Ability; Chain Saw+: Higher multiplier & Cap Break Level 1 after 3 uses; Equalizer+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
   "description": [
     {
       "name": "Entry",
@@ -45,5 +26,24 @@
       "name": "Chain Saw (XIV)+",
       "text": "Five single ranged attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "22780015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780015/22780015_256.png",
+  "character": "Cid (XIV)",
+  "name": "Zenith Flamethrower",
+  "name_jp": "究極フレイムスロアー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target ranged physical attacks (0.90 each) capped at 19999, Lv.2 En-Fire Stack, Lv.2 En-Earth Stack, Lv.2 En-Wind Stack or Lv.2 En-Poison Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Earth/Wind/Poison Damage +20%, Physical Casting Speed x1.1 & chases a Machinist ability with [Imperil Fire/Earth/Wind/Poison to all targets & Fire/Earth/Wind/Poison Ability Damage +30% for 2 turns to party] or [Prismatic Damage +20% & Machinist Damage +30% for 2 turns to party] with at least 0/4 Machinists (max 1 chase)\nUltimate Dexterity Mode: Dualcast Machinist, Higher Multiplier & Zero Hone Cost to Hero Ability; Chain Saw+: Higher multiplier & Cap Break Level 1 after 3 uses; Equalizer+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

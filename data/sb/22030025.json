@@ -1,20 +1,4 @@
 {
-  "id": "22030025",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030025/22030025_256.png",
-  "character": "Fang",
-  "name": "Zenith Bahamut Dive",
-  "name_jp": "究極バハムートダイブ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIII",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Fang (Dragoon)]",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Fang (Dragoon)",
       "text": "Grants [Dragoon Instant Cast 2] and [Dragoon +30% Boost 2] to the user"
     }
-  ]
+  ],
+  "id": "22030025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030025/22030025_256.png",
+  "character": "Fang",
+  "name": "Zenith Bahamut Dive",
+  "name_jp": "究極バハムートダイブ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Fang (Dragoon)]"
 }

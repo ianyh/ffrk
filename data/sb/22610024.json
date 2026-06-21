@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, Lightning Ability Damage +30% for 2 turns to En-Lightning members, [Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, Lightning Ability Damage +30% for 2 turns to En-Lightning members, [Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "22610024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610024/22610024_256.png",
   "character": "Raijin",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, Lightning Ability Damage +30% for 2 turns to En-Lightning members, [Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, Lightning Ability Damage +30% for 2 turns to En-Lightning members, [Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, Lightning Ability Damage +30% for 2 turns to En-Lightning members, [Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Lightning Ability Boost, Dualcast Lightning, Zero Hone Cost to Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE physical attacks (2.00 each) capped at 19999, Instant Cast, Lightning Ability Damage +30% for 2 turns to En-Lightning members, [Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

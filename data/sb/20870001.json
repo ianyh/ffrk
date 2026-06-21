@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.50)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.50)"
+    }
+  ],
   "id": "20870001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870001/20870001_256.png",
   "character": "Amarant",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single ranged attack (1.50)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (1.50)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (1.50)"
-    }
-  ]
+  "effects": "One single ranged attack (1.50)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [HP Stock (2000)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [HP Stock (2000)] to all allies"
+    }
+  ],
   "id": "20310009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310009/20310009_256.png",
   "character": "Snow",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Activates Ice Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [HP Stock (2000)] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ice Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [HP Stock (2000)] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ice Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [HP Stock (2000)] to all allies"
-    }
-  ]
+  "effects": "Activates Ice Chain (max 99, field +20%), eleven single attacks (0.72 each), grants [HP Stock (2000)] to all allies"
 }

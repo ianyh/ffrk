@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Nine random ranged attacks (0.82 each), causes [Imperil Wind 20%] for 25 seconds, [ATK, MAG and MND -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Nine random ranged attacks (0.82 each), causes [Imperil Wind 20%] for 25 seconds, [ATK, MAG and MND -50%] for 25 seconds"
+    }
+  ],
   "id": "20930008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930008/20930008_256.png",
   "character": "Faris",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Nine random ranged attacks (0.82 each), causes [Imperil Wind 20%] for 25 seconds, [ATK, MAG and MND -50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Nine random ranged attacks (0.82 each), causes [Imperil Wind 20%] for 25 seconds, [ATK, MAG and MND -50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Nine random ranged attacks (0.82 each), causes [Imperil Wind 20%] for 25 seconds, [ATK, MAG and MND -50%] for 25 seconds"
-    }
-  ]
+  "effects": "Nine random ranged attacks (0.82 each), causes [Imperil Wind 20%] for 25 seconds, [ATK, MAG and MND -50%] for 25 seconds"
 }

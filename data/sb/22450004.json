@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.66 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.66 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
+    }
+  ],
   "id": "22450004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450004/22450004_256.png",
   "character": "Noel",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single ranged attacks (0.66 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged attacks (0.66 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged attacks (0.66 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
-    }
-  ]
+  "effects": "Ten single ranged attacks (0.66 each), [ATK, MAG and RES -50%] for 25 seconds, causes [Imperil Ice 20%] for 25 seconds"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (? or ? each), grants [Attach Lightning with Stacking], [Damage Cap +10000], [Awoken Lightning Mode], and [Electromagnetic Rush Follow-Up] to the user\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning\nElectromagnetic Rush: After using Lightning abilities, chases with 6 single-target Lightning/NE ranged hybrid attacks, every 2 chases inflict single-target minor Imperil Lightning & grants Lightning Ability Damage +30% for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (? or ? each), grants [Attach Lightning with Stacking], [Damage Cap +10000], [Awoken Lightning Mode], and [Electromagnetic Rush Follow-Up] to the user\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning\nElectromagnetic Rush: After using Lightning abilities, chases with 6 single-target Lightning/NE ranged hybrid attacks, every 2 chases inflict single-target minor Imperil Lightning & grants Lightning Ability Damage +30% for 1 turn to user"
+    }
+  ],
   "id": "20920023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920023/20920023_256.png",
   "character": "Reno",
@@ -14,17 +26,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single hybrid ranged attacks (? or ? each), grants [Attach Lightning with Stacking], [Damage Cap +10000], [Awoken Lightning Mode], and [Electromagnetic Rush Follow-Up] to the user\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning\nElectromagnetic Rush: After using Lightning abilities, chases with 6 single-target Lightning/NE ranged hybrid attacks, every 2 chases inflict single-target minor Imperil Lightning & grants Lightning Ability Damage +30% for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid ranged attacks (? or ? each), grants [Attach Lightning with Stacking], [Damage Cap +10000], [Awoken Lightning Mode], and [Electromagnetic Rush Follow-Up] to the user\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning\nElectromagnetic Rush: After using Lightning abilities, chases with 6 single-target Lightning/NE ranged hybrid attacks, every 2 chases inflict single-target minor Imperil Lightning & grants Lightning Ability Damage +30% for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid ranged attacks (? or ? each), grants [Attach Lightning with Stacking], [Damage Cap +10000], [Awoken Lightning Mode], and [Electromagnetic Rush Follow-Up] to the user\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning\nElectromagnetic Rush: After using Lightning abilities, chases with 6 single-target Lightning/NE ranged hybrid attacks, every 2 chases inflict single-target minor Imperil Lightning & grants Lightning Ability Damage +30% for 1 turn to user"
-    }
-  ]
+  "effects": "Fifteen single hybrid ranged attacks (? or ? each), grants [Attach Lightning with Stacking], [Damage Cap +10000], [Awoken Lightning Mode], and [Electromagnetic Rush Follow-Up] to the user\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning\nElectromagnetic Rush: After using Lightning abilities, chases with 6 single-target Lightning/NE ranged hybrid attacks, every 2 chases inflict single-target minor Imperil Lightning & grants Lightning Ability Damage +30% for 1 turn to user"
 }

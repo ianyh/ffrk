@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK -30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK -30%] for 25 seconds"
+    }
+  ],
   "id": "23450001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450001/23450001_256.png",
   "character": "Serafie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [ATK -30%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [ATK -30%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [ATK -30%] for 25 seconds"
-    }
-  ]
+  "effects": "Causes [ATK -30%] for 25 seconds"
 }

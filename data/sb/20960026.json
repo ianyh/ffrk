@@ -1,17 +1,4 @@
 {
-  "id": "20960026",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960026/20960026_256.png",
-  "character": "Y'shtola",
-  "name": "Zenith Secret of the Lily",
-  "name_jp": "究極シークレットリリー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIV",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Y'shtola] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Y'shtola] to the user",
   "description": [
     {
       "name": "Entry",
@@ -71,5 +58,18 @@
       "name": "Spirit Attack: Y'shtola",
       "text": "Grants [HP Stock (2000)] to all allies"
     }
-  ]
+  ],
+  "id": "20960026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960026/20960026_256.png",
+  "character": "Y'shtola",
+  "name": "Zenith Secret of the Lily",
+  "name_jp": "究極シークレットリリー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Y'shtola] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Y'shtola] to the user"
 }

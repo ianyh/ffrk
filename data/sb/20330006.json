@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999"
+    }
+  ],
   "id": "20330006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330006/20330006_256.png",
   "character": "Warrior of Light",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999"
-    }
-  ]
+  "effects": "One single attack (11.44~12.93 scaling with hits taken) capped at 99999"
 }

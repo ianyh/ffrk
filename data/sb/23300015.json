@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)] and [Quick Cast 1] to all allies, grants [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)] and [Quick Cast 1] to all allies, grants [200% ATB 1] to the user"
+    }
+  ],
   "id": "23300015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300015/23300015_256.png",
   "character": "Hilda",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [ATK, MAG and MND +30% (25s)] and [Quick Cast 1] to all allies, grants [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [ATK, MAG and MND +30% (25s)] and [Quick Cast 1] to all allies, grants [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [ATK, MAG and MND +30% (25s)] and [Quick Cast 1] to all allies, grants [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "Grants [ATK, MAG and MND +30% (25s)] and [Quick Cast 1] to all allies, grants [200% ATB 1] to the user"
 }

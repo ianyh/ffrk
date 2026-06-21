@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 99, field +20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Earth Chain (max 99, field +20%)"
+    }
+  ],
   "id": "23010006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010006/23010006_256.png",
   "character": "Rude",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Earth Chain (max 99, field +20%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Earth Chain (max 99, field +20%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Earth Chain (max 99, field +20%)"
-    }
-  ]
+  "effects": "Activates Earth Chain (max 99, field +20%)"
 }

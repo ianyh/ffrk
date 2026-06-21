@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), [ATK and MAG -70%] for 8 seconds, grants [Quick Cast] and [Old Man's Hammer Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), [ATK and MAG -70%] for 8 seconds, grants [Quick Cast] and [Old Man's Hammer Follow-Up] to the user"
+    }
+  ],
   "id": "22570005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570005/22570005_256.png",
   "character": "Cid (IV)",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.72 each), [ATK and MAG -70%] for 8 seconds, grants [Quick Cast] and [Old Man's Hammer Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), [ATK and MAG -70%] for 8 seconds, grants [Quick Cast] and [Old Man's Hammer Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), [ATK and MAG -70%] for 8 seconds, grants [Quick Cast] and [Old Man's Hammer Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.72 each), [ATK and MAG -70%] for 8 seconds, grants [Quick Cast] and [Old Man's Hammer Follow-Up] to the user"
 }

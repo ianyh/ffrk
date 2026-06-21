@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (5.20 each), causes [Poison] (25%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (5.20 each), causes [Poison] (25%)"
+    }
+  ],
   "id": "20370002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370002/20370002_256.png",
   "character": "Vivi",
@@ -13,17 +25,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Two single attacks (5.20 each), causes [Poison] (25%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Two single attacks (5.20 each), causes [Poison] (25%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Two single attacks (5.20 each), causes [Poison] (25%)"
-    }
-  ]
+  "effects": "Two single attacks (5.20 each), causes [Poison] (25%)"
 }

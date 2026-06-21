@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Umaro to the user\nCrystal Force Mode: Umaro: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Ice/NE physical attack (10.00) capped at 199999, Instant Cast, grants [Damage Cap +20000 1], [Ice Ability +50% Boost 1], [Dualcast Ice 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Umaro to the user\nCrystal Force Mode: Umaro: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Ice/NE physical attack (10.00) capped at 199999, Instant Cast, grants [Damage Cap +20000 1], [Ice Ability +50% Boost 1], [Dualcast Ice 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
+    }
+  ],
   "id": "22920015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920015/22920015_256.png",
   "character": "Umaro",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Umaro to the user\nCrystal Force Mode: Umaro: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Ice/NE physical attack (10.00) capped at 199999, Instant Cast, grants [Damage Cap +20000 1], [Ice Ability +50% Boost 1], [Dualcast Ice 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Umaro to the user\nCrystal Force Mode: Umaro: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Ice/NE physical attack (10.00) capped at 199999, Instant Cast, grants [Damage Cap +20000 1], [Ice Ability +50% Boost 1], [Dualcast Ice 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Umaro to the user\nCrystal Force Mode: Umaro: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Ice/NE physical attack (10.00) capped at 199999, Instant Cast, grants [Damage Cap +20000 1], [Ice Ability +50% Boost 1], [Dualcast Ice 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Umaro to the user\nCrystal Force Mode: Umaro: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: Single-target Ice/NE physical attack (10.00) capped at 199999, Instant Cast, grants [Damage Cap +20000 1], [Ice Ability +50% Boost 1], [Dualcast Ice 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
 }

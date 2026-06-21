@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [100% Critical (25s)] and [Physical Quick Cast 2] to all allies, grants [Awoken Shadow Ninja] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [100% Critical (25s)] and [Physical Quick Cast 2] to all allies, grants [Awoken Shadow Ninja] and [Damage Cap +10000] to the user"
+    }
+  ],
   "id": "22460015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460015/22460015_256.png",
   "character": "Onion Knight",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [100% Critical (25s)] and [Physical Quick Cast 2] to all allies, grants [Awoken Shadow Ninja] and [Damage Cap +10000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [100% Critical (25s)] and [Physical Quick Cast 2] to all allies, grants [Awoken Shadow Ninja] and [Damage Cap +10000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [100% Critical (25s)] and [Physical Quick Cast 2] to all allies, grants [Awoken Shadow Ninja] and [Damage Cap +10000] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [100% Critical (25s)] and [Physical Quick Cast 2] to all allies, grants [Awoken Shadow Ninja] and [Damage Cap +10000] to the user"
 }

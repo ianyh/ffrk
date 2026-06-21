@@ -1,27 +1,11 @@
 {
-  "id": "23450010",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450010/23450010_256.png",
-  "character": "Serafie",
-  "name": "Apex Rumor Radar",
-  "name_jp": "ゴシップギャザー・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "Beyond",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Rumor Radar level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Serafie from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Rumor Radar level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Serafie from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Rumor Radar (Engaged)",
       "text": "Causes [Imperil Wind 20% (15s)], grants [Buff Wind 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Serafie], [Apex Rumor Radar Damage Tracker] and [Apex Rumor Radar Level] to the user"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Ten single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Apex Rumor Radar level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Serafie from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Rumor Radar (Engaged)",
       "text": "Causes [Imperil Wind 20% (15s)], grants [Buff Wind 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Serafie], [Apex Rumor Radar Damage Tracker] and [Apex Rumor Radar Level] to the user"
     }
-  ]
+  ],
+  "id": "23450010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450010/23450010_256.png",
+  "character": "Serafie",
+  "name": "Apex Rumor Radar (Engaged)",
+  "name_jp": "ゴシップギャザー・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Imperil Wind 20% (15s)], grants [Buff Wind 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Serafie], [Apex Rumor Radar Damage Tracker] and [Apex Rumor Radar Level] to the user"
 }

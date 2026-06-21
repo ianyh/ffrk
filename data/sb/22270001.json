@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "6/7/8/9 group attacks (2.40 each) at 562/681/723 MAG, minimum damage 800"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "6/7/8/9 group attacks (2.40 each) at 562/681/723 MAG, minimum damage 800"
+    }
+  ],
   "id": "22270001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270001/22270001_256.png",
   "character": "Braska",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "All enemies",
   "lensable": true,
-  "effects": "6/7/8/9 group attacks (2.40 each) at 562/681/723 MAG, minimum damage 800",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "6/7/8/9 group attacks (2.40 each) at 562/681/723 MAG, minimum damage 800"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "6/7/8/9 group attacks (2.40 each) at 562/681/723 MAG, minimum damage 800"
-    }
-  ]
+  "effects": "6/7/8/9 group attacks (2.40 each) at 562/681/723 MAG, minimum damage 800"
 }

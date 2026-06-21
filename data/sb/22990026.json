@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Switch Draw Mode II (Ice, Dark)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Switch Draw Mode II (Ice, Dark)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
   "id": "22990026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990026/22990026_256.png",
   "character": "Kiros",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Switch Draw Mode II (Ice, Dark)], [Instant ATB 1], and [Instant Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Switch Draw Mode II (Ice, Dark)], [Instant ATB 1], and [Instant Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Switch Draw Mode II (Ice, Dark)], [Instant ATB 1], and [Instant Cast 2]"
-    }
-  ]
+  "effects": "Grants [Switch Draw Mode II (Ice, Dark)], [Instant ATB 1], and [Instant Cast 2]"
 }

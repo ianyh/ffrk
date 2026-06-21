@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Rydia] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (2.60 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Rydia] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "20090048",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090048/20090048_256.png",
   "character": "Rydia",
@@ -15,17 +27,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Ten single attacks (2.60 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Rydia] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (2.60 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Rydia] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (2.60 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Rydia] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (2.60 each) capped at 19999, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Rydia] and [Instant ATB 1] to the user"
 }

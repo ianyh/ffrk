@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Removes positive effects, grants [Attach Ice with Stacking] and [High Quick Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Removes positive effects, grants [Attach Ice with Stacking] and [High Quick Cast 1] to the user"
+    }
+  ],
   "id": "23260007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260007/23260007_256.png",
   "character": "Seven",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Removes positive effects, grants [Attach Ice with Stacking] and [High Quick Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Removes positive effects, grants [Attach Ice with Stacking] and [High Quick Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Removes positive effects, grants [Attach Ice with Stacking] and [High Quick Cast 1] to the user"
-    }
-  ]
+  "effects": "Removes positive effects, grants [Attach Ice with Stacking] and [High Quick Cast 1] to the user"
 }

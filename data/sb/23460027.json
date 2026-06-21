@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Burst Break: Lunafreya (Break Arte)",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Burst Break: Lunafreya (Break Arte)",
+      "text": ""
+    }
+  ],
   "id": "23460027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460027/23460027_256.png",
   "character": "Lunafreya",
@@ -11,25 +31,5 @@
   "type": "",
   "target": "",
   "lensable": false,
-  "effects": "",
-  "description": [
-    {
-      "name": "Entry",
-      "text": ""
-    },
-    {
-      "name": "Break Arte",
-      "text": ""
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": ""
-    },
-    {
-      "name": "Break Arte",
-      "text": ""
-    }
-  ]
+  "effects": ""
 }

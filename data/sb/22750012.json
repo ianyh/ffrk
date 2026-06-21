@@ -1,27 +1,11 @@
 {
-  "id": "22750012",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22750012/22750012_256.png",
-  "character": "Meia",
-  "name": "Fanatical Dance",
-  "name_jp": "ファナティックダンス",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "I",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Fanatical Dance level 0/1/2, removes Arcane Dyad Empowered: Meia from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Fanatical Dance level 0/1/2, removes Arcane Dyad Empowered: Meia from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Fanatical Dance (Engaged)",
       "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Meia], [Fanatical Dance Ability Tracker] and [Fanatical Dance Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Fanatical Dance level 0/1/2, removes Arcane Dyad Empowered: Meia from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Fanatical Dance (Engaged)",
       "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Meia], [Fanatical Dance Ability Tracker] and [Fanatical Dance Level]"
     }
-  ]
+  ],
+  "id": "22750012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22750012/22750012_256.png",
+  "character": "Meia",
+  "name": "Fanatical Dance (Engaged)",
+  "name_jp": "ファナティックダンス",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "I",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Meia], [Fanatical Dance Ability Tracker] and [Fanatical Dance Level]"
 }

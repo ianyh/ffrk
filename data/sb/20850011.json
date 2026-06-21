@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user"
+    }
+  ],
   "id": "20850011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850011/20850011_256.png",
   "character": "Gau",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user"
 }

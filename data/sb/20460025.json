@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking]."
+    },
+    {
+      "name": "Burst Break: Ricard (Break Arte)",
+      "text": "One Lightning/NE or Water/NE or Dark/NE or Wind/NE group attack (8.00) capped at 99,999 based on EnLightning or EnWater or EnDark or EnWind. Grants [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking]."
+    },
+    {
+      "name": "Burst Break: Ricard (Break Arte)",
+      "text": "One Lightning/NE or Water/NE or Dark/NE or Wind/NE group attack (8.00) capped at 99,999 based on EnLightning or EnWater or EnDark or EnWind. Grants [Instant ATB 1] to user."
+    }
+  ],
   "id": "20460025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460025/20460025_256.png",
   "character": "Ricard",
@@ -22,25 +42,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking].",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking]."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One Lightning/NE or Water/NE or Dark/NE or Wind/NE group attack (8.00) capped at 99,999 based on EnLightning or EnWater or EnDark or EnWind. Grants [Instant ATB 1] to user."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking]."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One Lightning/NE or Water/NE or Dark/NE or Wind/NE group attack (8.00) capped at 99,999 based on EnLightning or EnWater or EnDark or EnWind. Grants [Instant ATB 1] to user."
-    }
-  ]
+  "effects": "One single attack (8.00) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Ricard], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]/[Attach Lightning with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Dark with Secondary Stacking]."
 }

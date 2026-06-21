@@ -1,28 +1,11 @@
 {
-  "id": "23550005",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550005/23550005_256.png",
-  "character": "Kurasame",
-  "name": "Ice Reaper",
-  "name_jp": "氷剣の死神",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Ice",
-    "Dark",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Ice Reaper level 0/1, removes Arcane Dyad Empowered: Kurasame from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Ice Reaper level 0/1, removes Arcane Dyad Empowered: Kurasame from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Ice Reaper (Engaged)",
       "text": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
     }
   ],
@@ -32,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Ice Reaper level 0/1, removes Arcane Dyad Empowered: Kurasame from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Ice Reaper (Engaged)",
       "text": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
     }
-  ]
+  ],
+  "id": "23550005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550005/23550005_256.png",
+  "character": "Kurasame",
+  "name": "Ice Reaper (Engaged)",
+  "name_jp": "氷剣の死神",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
 }

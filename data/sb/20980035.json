@@ -1,27 +1,11 @@
 {
-  "id": "20980035",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980035/20980035_256.png",
-  "character": "Edge",
-  "name": "Poison Veil Slashing Vortex",
-  "name_jp": "毒遁・斬渦",
-  "tier": "ADSB",
-  "sb_version": "ADSB2",
-  "realm": "IV",
-  "elements": [
-    "Poison",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "20 single-target Poison/NE hybrid attacks & single-target Poison/NE Overflow hybrid attack, removes True Arcane Augment Mode",
   "description": [
     {
       "name": "Entry",
       "text": "20 single-target Poison/NE hybrid attacks & single-target Poison/NE Overflow hybrid attack, removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Poison Veil Slashing Vortex (Engaged)",
       "text": "En-Poison, En-Poison Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Venom Vortex if at least 100001/300001 damage is dealt"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "20 single-target Poison/NE hybrid attacks & single-target Poison/NE Overflow hybrid attack, removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Poison Veil Slashing Vortex (Engaged)",
       "text": "En-Poison, En-Poison Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Venom Vortex if at least 100001/300001 damage is dealt"
     }
-  ]
+  ],
+  "id": "20980035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980035/20980035_256.png",
+  "character": "Edge",
+  "name": "Poison Veil Slashing Vortex (Engaged)",
+  "name_jp": "毒遁・斬渦",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "En-Poison, En-Poison Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Venom Vortex if at least 100001/300001 damage is dealt"
 }

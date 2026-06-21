@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken 100 Gs (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken 100 Gs (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]"
+    }
+  ],
   "id": "22080022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080022/22080022_256.png",
   "character": "Exdeath",
@@ -15,25 +35,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]"
-    }
-  ]
+  "effects": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user"
 }

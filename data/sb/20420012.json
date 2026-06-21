@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Summoning High Quick Cast] and Summoning smart ether 2 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Summoning High Quick Cast] and Summoning smart ether 2 to the user"
+    }
+  ],
   "id": "20420012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420012/20420012_256.png",
   "character": "Arc",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Summoning High Quick Cast] and Summoning smart ether 2 to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Summoning High Quick Cast] and Summoning smart ether 2 to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Summoning High Quick Cast] and Summoning smart ether 2 to the user"
-    }
-  ]
+  "effects": "Grants [Summoning High Quick Cast] and Summoning smart ether 2 to the user"
 }

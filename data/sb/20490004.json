@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies"
+    }
+  ],
   "id": "20490004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20490004/20490004_256.png",
   "character": "Kimahri",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies"
-    }
-  ]
+  "effects": "Five single attacks (1.56 each), grants [Magical Blink 1] to all allies"
 }

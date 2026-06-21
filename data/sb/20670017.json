@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Zell)] and [Monk Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Burning Rave (Dual Shift)",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Zell)] to the user, removes [Dual Awoken Monk Mode I (Zell)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Zell)] and [Monk Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Burning Rave (Dual Shift)",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Zell)] to the user, removes [Dual Awoken Monk Mode I (Zell)] from the user"
+    }
+  ],
   "id": "20670017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670017/20670017_256.png",
   "character": "Zell",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Zell)] and [Monk Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Zell)] and [Monk Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Zell)] to the user, removes [Dual Awoken Monk Mode I (Zell)] from the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Zell)] and [Monk Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Zell)] to the user, removes [Dual Awoken Monk Mode I (Zell)] from the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Monk Mode I (Zell)] and [Monk Resonance +5% Boost] to the user"
 }

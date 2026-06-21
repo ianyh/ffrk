@@ -1,17 +1,4 @@
 {
-  "id": "23300013",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300013/23300013_256.png",
-  "character": "Hilda",
-  "name": "Zenith Road to Victory",
-  "name_jp": "究極勝利への歩み",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "II",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Hilda] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Hilda] to the user",
   "description": [
     {
       "name": "Entry",
@@ -71,5 +58,18 @@
       "name": "Spirit Attack: Hilda",
       "text": "Restores HP (25) to all allies"
     }
-  ]
+  ],
+  "id": "23300013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300013/23300013_256.png",
+  "character": "Hilda",
+  "name": "Zenith Road to Victory",
+  "name_jp": "究極勝利への歩み",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "II",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Hilda] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Hilda] to the user"
 }

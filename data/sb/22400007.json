@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, En-Fire/Ice/Lightning/Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Lightning/Poison Ability Boost, Dualcast Fire/Ice/Lightning/Poison, Zero Hone Cost to Fire/Ice/Lightning/Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1 + ATK/DEF/RES -70%, Instant Cast, [Cap Break Level 1, Instant Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, En-Fire/Ice/Lightning/Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Lightning/Poison Ability Boost, Dualcast Fire/Ice/Lightning/Poison, Zero Hone Cost to Fire/Ice/Lightning/Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1 + ATK/DEF/RES -70%, Instant Cast, [Cap Break Level 1, Instant Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "22400007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400007/22400007_256.png",
   "character": "Mustadio",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, En-Fire/Ice/Lightning/Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Lightning/Poison Ability Boost, Dualcast Fire/Ice/Lightning/Poison, Zero Hone Cost to Fire/Ice/Lightning/Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1 + ATK/DEF/RES -70%, Instant Cast, [Cap Break Level 1, Instant Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, En-Fire/Ice/Lightning/Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Lightning/Poison Ability Boost, Dualcast Fire/Ice/Lightning/Poison, Zero Hone Cost to Fire/Ice/Lightning/Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1 + ATK/DEF/RES -70%, Instant Cast, [Cap Break Level 1, Instant Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, En-Fire/Ice/Lightning/Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Lightning/Poison Ability Boost, Dualcast Fire/Ice/Lightning/Poison, Zero Hone Cost to Fire/Ice/Lightning/Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1 + ATK/DEF/RES -70%, Instant Cast, [Cap Break Level 1, Instant Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1, En-Fire/Ice/Lightning/Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire/Ice/Lightning/Poison Ability Boost, Dualcast Fire/Ice/Lightning/Poison, Zero Hone Cost to Fire/Ice/Lightning/Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/Poison/NE ranged physical attacks at Cap Break Level 1 + ATK/DEF/RES -70%, Instant Cast, [Cap Break Level 1, Instant Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

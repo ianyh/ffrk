@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
+    }
+  ],
   "id": "22260032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260032/22260032_256.png",
   "character": "Serah",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
-    }
-  ]
+  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES"
 }

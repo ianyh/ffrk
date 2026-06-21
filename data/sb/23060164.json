@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives MAG/MND/DEF/RES debuff, grants MAG/MND/DEF/RES +15% for 8 seconds to party (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives MAG/MND/DEF/RES debuff, grants MAG/MND/DEF/RES +15% for 8 seconds to party (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, removes Master Mode"
+    }
+  ],
   "id": "23060164",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060164/23060164_256.png",
   "character": "Dr. Mog",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives MAG/MND/DEF/RES debuff, grants MAG/MND/DEF/RES +15% for 8 seconds to party (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives MAG/MND/DEF/RES debuff, grants MAG/MND/DEF/RES +15% for 8 seconds to party (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives MAG/MND/DEF/RES debuff, grants MAG/MND/DEF/RES +15% for 8 seconds to party (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, removes Master Mode"
-    }
-  ]
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast; If user receives MAG/MND/DEF/RES debuff, grants MAG/MND/DEF/RES +15% for 8 seconds to party (max 1 chase)\nInterval Chase: 10 single-target Prismatic/NE magic attacks, 50 SB Charge, Hero Boost +30/35/40/45/50% to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing magic attack at True Cap Break Level 1, removes Master Mode"
 }

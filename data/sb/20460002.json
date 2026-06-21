@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.10)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.10)"
+    }
+  ],
   "id": "20460002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460002/20460002_256.png",
   "character": "Ricard",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (3.10)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (3.10)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (3.10)"
-    }
-  ]
+  "effects": "One group attack (3.10)"
 }

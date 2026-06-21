@@ -1,21 +1,4 @@
 {
-  "id": "23100020",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100020/23100020_256.png",
-  "character": "Queen",
-  "name": "Zenith Mana Sphere",
-  "name_jp": "究極エナジーコンボ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Lightning",
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Queen (Lightning)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -59,5 +42,22 @@
       "name": "Spirit Attack: Queen (Lightning)",
       "text": "Grants [Buff Lightning 20% (15s)] and [Lightning Ability Instant Cast 3] to the user"
     }
-  ]
+  ],
+  "id": "23100020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100020/23100020_256.png",
+  "character": "Queen",
+  "name": "Zenith Mana Sphere",
+  "name_jp": "究極エナジーコンボ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Queen (Lightning)] and [Damage Cap +10000] to the user"
 }

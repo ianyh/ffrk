@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quartz Eye Mode II (Fire, Ice, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Quartz Eye Mode II (Fire, Ice, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user"
+    }
+  ],
   "id": "22590019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590019/22590019_256.png",
   "character": "Matoya",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Quartz Eye Mode II (Fire, Ice, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quartz Eye Mode II (Fire, Ice, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Quartz Eye Mode II (Fire, Ice, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "Grants [Quartz Eye Mode II (Fire, Ice, Lightning)], [Soul Break Gauge +250] and [200% ATB 1] to the user"
 }

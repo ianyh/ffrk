@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] to all allies for 25 seconds, grants [Last Stand]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] to all allies for 25 seconds, grants [Last Stand]"
+    }
+  ],
   "id": "22900003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900003/22900003_256.png",
   "character": "Gladiolus",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK +50%] to all allies for 25 seconds, grants [Last Stand]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +50%] to all allies for 25 seconds, grants [Last Stand]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +50%] to all allies for 25 seconds, grants [Last Stand]"
-    }
-  ]
+  "effects": "[ATK +50%] to all allies for 25 seconds, grants [Last Stand]"
 }

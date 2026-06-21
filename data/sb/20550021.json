@@ -1,20 +1,4 @@
 {
-  "id": "20550021",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550021/20550021_256.png",
-  "character": "Sabin",
-  "name": "Zenith Phoenix Form",
-  "name_jp": "究極鳳凰輪廻",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VI",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Critical Chance +50% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Sabin (Fire)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -54,5 +38,21 @@
       "name": "Spirit Attack: Sabin (Fire)",
       "text": "Grants [Quick Cast 3], [Physical Blink Stacking 2], and [Phyiscal Blink 2] to the user"
     }
-  ]
+  ],
+  "id": "20550021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550021/20550021_256.png",
+  "character": "Sabin",
+  "name": "Zenith Phoenix Form",
+  "name_jp": "究極鳳凰輪廻",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Critical Chance +50% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Sabin (Fire)] to the user"
 }

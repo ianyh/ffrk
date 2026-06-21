@@ -1,20 +1,4 @@
 {
-  "id": "22690018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690018/22690018_256.png",
-  "character": "Lion",
-  "name": "Zenith Scatter Shot ",
-  "name_jp": "究極グレープショット",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XI",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Zenith Mode], [Zenith Mode: Lion (Water)], and [Damage Cap +10000]",
   "description": [
     {
       "name": "Entry",
@@ -50,5 +34,21 @@
       "name": "Spirit Attack: Lion",
       "text": "Causes [ATK and DEF -70%]/[ATK, DEF, RES -70%] and grants [Water Damage +10%]/[Prismatic Damage +10%] to party with 0/4+ XI members in party"
     }
-  ]
+  ],
+  "id": "22690018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690018/22690018_256.png",
+  "character": "Lion",
+  "name": "Zenith Scatter Shot ",
+  "name_jp": "究極グレープショット",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XI",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Zenith Mode], [Zenith Mode: Lion (Water)], and [Damage Cap +10000]"
 }

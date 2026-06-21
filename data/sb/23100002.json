@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.83 each), grants [Critical Chance 50%] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single ranged attacks (0.83 each), grants [Critical Chance 50%] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "23100002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100002/23100002_256.png",
   "character": "Queen",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single ranged attacks (0.83 each), grants [Critical Chance 50%] to all allies, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single ranged attacks (0.83 each), grants [Critical Chance 50%] to all allies, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single ranged attacks (0.83 each), grants [Critical Chance 50%] to all allies, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight single ranged attacks (0.83 each), grants [Critical Chance 50%] to all allies, grants [Haste] and [Burst Mode] to the user"
 }

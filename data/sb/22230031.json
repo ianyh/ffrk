@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Instant Cast 1 to party, Sorcery Damage +15% to En-Lightning members, Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Instant Cast 1 to party, Sorcery Damage +15% to En-Lightning members, Instant ATB 1 to user"
+    }
+  ],
   "id": "22230031",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230031/22230031_256.png",
   "character": "Desch",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Instant Cast 1 to party, Sorcery Damage +15% to En-Lightning members, Instant ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Instant Cast 1 to party, Sorcery Damage +15% to En-Lightning members, Instant ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Instant Cast 1 to party, Sorcery Damage +15% to En-Lightning members, Instant ATB 1 to user"
-    }
-  ]
+  "effects": "Instant Cast 1 to party, Sorcery Damage +15% to En-Lightning members, Instant ATB 1 to user"
 }

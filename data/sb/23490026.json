@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user, Quick ATB 3 to user if Fina/Lasswell is in party\nTactical Awoken Mode: Fire/Earth Ability Boost, Triplecast Fire/Earth, Unlimited Fire/Earth Hones, Cap Break Level 1 to Fire/Earth Abilities, Fire/Earth Ability Damage +30% & ATB Speed x1.1 to Fire/Earth Abilities; Ends after using 8 Fire/Earth abilities\nTP Max: AOE Fire/NE or Earth/NE physical attack at True Cap Break Level 1 under En-Fire or En-Earth"
+    },
+    {
+      "name": "War-Awoken Blazing Nova (Weapon Skill)",
+      "text": "Single-target Fire/Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Fire/Earth\nWS Blue: Lv.3 En-Fire/Earth Stack to user\nWS Gold: Instant Physical to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user, Quick ATB 3 to user if Fina/Lasswell is in party\nTactical Awoken Mode: Fire/Earth Ability Boost, Triplecast Fire/Earth, Unlimited Fire/Earth Hones, Cap Break Level 1 to Fire/Earth Abilities, Fire/Earth Ability Damage +30% & ATB Speed x1.1 to Fire/Earth Abilities; Ends after using 8 Fire/Earth abilities\nTP Max: AOE Fire/NE or Earth/NE physical attack at True Cap Break Level 1 under En-Fire or En-Earth"
+    },
+    {
+      "name": "War-Awoken Blazing Nova (Weapon Skill)",
+      "text": "Single-target Fire/Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Fire/Earth\nWS Blue: Lv.3 En-Fire/Earth Stack to user\nWS Gold: Instant Physical to all allies"
+    }
+  ],
   "id": "23490026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490026/23490026_256.png",
   "character": "Rain",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Tactical Awoken Mode & +500 ATK to user, Quick ATB 3 to user if Fina/Lasswell is in party\nTactical Awoken Mode: Fire/Earth Ability Boost, Triplecast Fire/Earth, Unlimited Fire/Earth Hones, Cap Break Level 1 to Fire/Earth Abilities, Fire/Earth Ability Damage +30% & ATB Speed x1.1 to Fire/Earth Abilities; Ends after using 8 Fire/Earth abilities\nTP Max: AOE Fire/NE or Earth/NE physical attack at True Cap Break Level 1 under En-Fire or En-Earth",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user, Quick ATB 3 to user if Fina/Lasswell is in party\nTactical Awoken Mode: Fire/Earth Ability Boost, Triplecast Fire/Earth, Unlimited Fire/Earth Hones, Cap Break Level 1 to Fire/Earth Abilities, Fire/Earth Ability Damage +30% & ATB Speed x1.1 to Fire/Earth Abilities; Ends after using 8 Fire/Earth abilities\nTP Max: AOE Fire/NE or Earth/NE physical attack at True Cap Break Level 1 under En-Fire or En-Earth"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Fire/Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Fire/Earth\nWS Blue: Lv.3 En-Fire/Earth Stack to user\nWS Gold: Instant Physical to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user, Quick ATB 3 to user if Fina/Lasswell is in party\nTactical Awoken Mode: Fire/Earth Ability Boost, Triplecast Fire/Earth, Unlimited Fire/Earth Hones, Cap Break Level 1 to Fire/Earth Abilities, Fire/Earth Ability Damage +30% & ATB Speed x1.1 to Fire/Earth Abilities; Ends after using 8 Fire/Earth abilities\nTP Max: AOE Fire/NE or Earth/NE physical attack at True Cap Break Level 1 under En-Fire or En-Earth"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Fire/Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Earth Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Fire/Earth\nWS Blue: Lv.3 En-Fire/Earth Stack to user\nWS Gold: Instant Physical to all allies"
-    }
-  ]
+  "effects": "Tactical Awoken Mode & +500 ATK to user, Quick ATB 3 to user if Fina/Lasswell is in party\nTactical Awoken Mode: Fire/Earth Ability Boost, Triplecast Fire/Earth, Unlimited Fire/Earth Hones, Cap Break Level 1 to Fire/Earth Abilities, Fire/Earth Ability Damage +30% & ATB Speed x1.1 to Fire/Earth Abilities; Ends after using 8 Fire/Earth abilities\nTP Max: AOE Fire/NE or Earth/NE physical attack at True Cap Break Level 1 under En-Fire or En-Earth"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Fire/NE, Ice/NE or Water/NE if the user has any Attach Fire, Attach Ice or Attach Water, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Trey] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Fire/NE, Ice/NE or Water/NE if the user has any Attach Fire, Attach Ice or Attach Water, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Trey] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "23430018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430018/23430018_256.png",
   "character": "Trey",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Fire/NE, Ice/NE or Water/NE if the user has any Attach Fire, Attach Ice or Attach Water, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Trey] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Fire/NE, Ice/NE or Water/NE if the user has any Attach Fire, Attach Ice or Attach Water, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Trey] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Fire/NE, Ice/NE or Water/NE if the user has any Attach Fire, Attach Ice or Attach Water, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Trey] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes from Fire/NE, Ice/NE or Water/NE if the user has any Attach Fire, Attach Ice or Attach Water, activates Type-0 Chain (max 150, field +0%) or adds 25 to the current Type-0 Chain maximum limit, grants [Chain Force Mode: Trey] and [Instant ATB 1] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +50%] for 30 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MAG +50%] for 30 seconds"
+    }
+  ],
   "id": "20020002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20020002/20020002_256.png",
   "character": "Black Mage",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "[MAG +50%] for 30 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[MAG +50%] for 30 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[MAG +50%] for 30 seconds"
-    }
-  ]
+  "effects": "[MAG +50%] for 30 seconds"
 }

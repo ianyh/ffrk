@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user"
+    }
+  ],
   "id": "22330012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330012/22330012_256.png",
   "character": "Papalymo",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user"
 }

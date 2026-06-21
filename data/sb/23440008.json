@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hits (0.52 each), grants [Physical Quick Cast] to all allies, grants [Synchro Mode], [Peacebreaker Chase Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hits (0.52 each), grants [Physical Quick Cast] to all allies, grants [Synchro Mode], [Peacebreaker Chase Mode] to the user"
+    }
+  ],
   "id": "23440008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23440008/23440008_256.png",
   "character": "Naja",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single hits (0.52 each), grants [Physical Quick Cast] to all allies, grants [Synchro Mode], [Peacebreaker Chase Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hits (0.52 each), grants [Physical Quick Cast] to all allies, grants [Synchro Mode], [Peacebreaker Chase Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hits (0.52 each), grants [Physical Quick Cast] to all allies, grants [Synchro Mode], [Peacebreaker Chase Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single hits (0.52 each), grants [Physical Quick Cast] to all allies, grants [Synchro Mode], [Peacebreaker Chase Mode] to the user"
 }

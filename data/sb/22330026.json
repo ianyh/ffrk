@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target magic attacks (3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE magic attacks (6.60 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Fire, Fire Ability Damage +50% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target magic attacks (3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE magic attacks (6.60 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Fire, Fire Ability Damage +50% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "22330026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330026/22330026_256.png",
   "character": "Papalymo",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target magic attacks (3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE magic attacks (6.60 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Fire, Fire Ability Damage +50% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target magic attacks (3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE magic attacks (6.60 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Fire, Fire Ability Damage +50% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target magic attacks (3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE magic attacks (6.60 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Fire, Fire Ability Damage +50% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target magic attacks (3.05 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Fire/NE magic attacks (6.60 each) capped at 19999, Instant Cast, [Cap Break Level 1, Quick Fire, Fire Ability Damage +50% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

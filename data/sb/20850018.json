@@ -1,21 +1,4 @@
 {
-  "id": "20850018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850018/20850018_256.png",
-  "character": "Gau",
-  "name": "Zenith Savory Treat",
-  "name_jp": "究極ほしにくブースト",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VI",
-  "elements": [
-    "Wind",
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Wind/Lightning, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Gau] to the user",
   "description": [
     {
       "name": "Entry",
@@ -63,5 +46,22 @@
       "name": "Spirit Attack: Gau",
       "text": "Damages the user for 25% of max HP, grants [PHY +30% Boost 3], [Quick Cast 3] to the user"
     }
-  ]
+  ],
+  "id": "20850018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850018/20850018_256.png",
+  "character": "Gau",
+  "name": "Zenith Savory Treat",
+  "name_jp": "究極ほしにくブースト",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Lightning 2 with Stacking] if entry damage was Wind/Lightning, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Gau] to the user"
 }

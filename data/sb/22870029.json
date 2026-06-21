@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ],
   "id": "22870029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22870029/22870029_256.png",
   "character": "Rubicante",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)"
-    }
-  ]
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Fire ability, grants Fire Ability Damage +30% for 3 turns to user (max 1 chase)"
 }

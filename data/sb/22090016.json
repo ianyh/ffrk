@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Double Sphere Mode III (Fire, Dark)] and [Fumbling Sentiment Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Double Sphere Mode III (Fire, Dark)] and [Fumbling Sentiment Mode] to the user"
+    }
+  ],
   "id": "22090016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090016/22090016_256.png",
   "character": "Jecht",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Double Sphere Mode III (Fire, Dark)] and [Fumbling Sentiment Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Double Sphere Mode III (Fire, Dark)] and [Fumbling Sentiment Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Double Sphere Mode III (Fire, Dark)] and [Fumbling Sentiment Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Double Sphere Mode III (Fire, Dark)] and [Fumbling Sentiment Mode] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 2] and [Regenga] to all allies, grants 100% Critical to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 2] and [Regenga] to all allies, grants 100% Critical to the user"
+    }
+  ],
   "id": "22500004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500004/22500004_256.png",
   "character": "Angeal",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 2] and [Regenga] to all allies, grants 100% Critical to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 2] and [Regenga] to all allies, grants 100% Critical to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 2] and [Regenga] to all allies, grants 100% Critical to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.71 each), grants [50% Damage Reduction Barrier 2] and [Regenga] to all allies, grants 100% Critical to the user"
 }

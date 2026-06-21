@@ -1,20 +1,4 @@
 {
-  "id": "22720021",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720021/22720021_256.png",
-  "character": "Ceodore",
-  "name": "Zenith Gleam Thruster",
-  "name_jp": "究極グリームスラスター",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IV",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ceodore] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Ceodore",
       "text": "Grants [Damage Cap +10000 1], [Holy Instant Cast 1] and [Holy Ability +50% Boost 1] to the user"
     }
-  ]
+  ],
+  "id": "22720021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22720021/22720021_256.png",
+  "character": "Ceodore",
+  "name": "Zenith Gleam Thruster",
+  "name_jp": "究極グリームスラスター",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ceodore] to the user"
 }

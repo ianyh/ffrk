@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds"
+    }
+  ],
   "id": "22170003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170003/22170003_256.png",
   "character": "Vincent",
@@ -11,17 +23,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Four group attacks (3.60 each), [MAG +20%] to all allies for 25 seconds"
 }

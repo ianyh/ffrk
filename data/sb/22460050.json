@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing piercing physical attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind, Water, Fire, or Earth abilities equipped on allies/5+ Wind, Water, Fire, or Earth abilities equipped on allies and 2+ allies with Attach Wind, Attach Water, Attach Fire, or Attach Earth"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing piercing physical attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind, Water, Fire, or Earth abilities equipped on allies/5+ Wind, Water, Fire, or Earth abilities equipped on allies and 2+ allies with Attach Wind, Attach Water, Attach Fire, or Attach Earth"
+    }
+  ],
   "id": "22460050",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460050/22460050_256.png",
   "character": "Onion Knight",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing piercing physical attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind, Water, Fire, or Earth abilities equipped on allies/5+ Wind, Water, Fire, or Earth abilities equipped on allies and 2+ allies with Attach Wind, Attach Water, Attach Fire, or Attach Earth",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing piercing physical attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind, Water, Fire, or Earth abilities equipped on allies/5+ Wind, Water, Fire, or Earth abilities equipped on allies and 2+ allies with Attach Wind, Attach Water, Attach Fire, or Attach Earth"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing piercing physical attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind, Water, Fire, or Earth abilities equipped on allies/5+ Wind, Water, Fire, or Earth abilities equipped on allies and 2+ allies with Attach Wind, Attach Water, Attach Fire, or Attach Earth"
-    }
-  ]
+  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing piercing physical attacks (? each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Wind, Water, Fire, or Earth abilities equipped on allies/5+ Wind, Water, Fire, or Earth abilities equipped on allies and 2+ allies with Attach Wind, Attach Water, Attach Fire, or Attach Earth"
 }

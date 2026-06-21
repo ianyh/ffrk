@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user"
+    }
+  ],
   "id": "20310008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310008/20310008_256.png",
   "character": "Snow",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Grants [Haste], [ATK and MAG +30%] for 25 seconds, grants [Burst Mode] to the user"
 }

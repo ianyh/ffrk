@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Machinist Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Machinist Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]"
+    }
+  ],
   "id": "20610024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610024/20610024_256.png",
   "character": "Sazh",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Machinist Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Machinist Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Machinist Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]"
-    }
-  ]
+  "effects": "Activates Machinist Chain (max 150, field +50%), grants [ATK +50% (25s)] and [Haste]"
 }

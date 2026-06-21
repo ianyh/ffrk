@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] depending on entry damage, [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities, 25% DEF/RES Pierce & chases Ninja abilities with 2 single-target Water/Fire/Lightning/NE piercing hybrid attacks (0.60 or 225.00 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] depending on entry damage, [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities, 25% DEF/RES Pierce & chases Ninja abilities with 2 single-target Water/Fire/Lightning/NE piercing hybrid attacks (0.60 or 225.00 each)"
+    }
+  ],
   "id": "20980039",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980039/20980039_256.png",
   "character": "Edge",
@@ -16,17 +28,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] depending on entry damage, [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities, 25% DEF/RES Pierce & chases Ninja abilities with 2 single-target Water/Fire/Lightning/NE piercing hybrid attacks (0.60 or 225.00 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] depending on entry damage, [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities, 25% DEF/RES Pierce & chases Ninja abilities with 2 single-target Water/Fire/Lightning/NE piercing hybrid attacks (0.60 or 225.00 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] depending on entry damage, [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities, 25% DEF/RES Pierce & chases Ninja abilities with 2 single-target Water/Fire/Lightning/NE piercing hybrid attacks (0.60 or 225.00 each)"
-    }
-  ]
+  "effects": "7 single hybrid attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Water with Stacking]/[Attach Fire with Stacking]/[Attach Lightning with Stacking] depending on entry damage, [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Ninja Ability Boost, Dualcast Ninja, Zero Hone Cost to Ninja Abilities, 25% DEF/RES Pierce & chases Ninja abilities with 2 single-target Water/Fire/Lightning/NE piercing hybrid attacks (0.60 or 225.00 each)"
 }

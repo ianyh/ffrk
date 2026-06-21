@@ -1,20 +1,4 @@
 {
-  "id": "22070038",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070038/22070038_256.png",
-  "character": "Kefka",
-  "name": "Roaring Acid Rain",
-  "name_jp": "轟・アシッドレイン",
-  "tier": "ASB",
-  "sb_version": "ASB2",
-  "realm": "VI",
-  "elements": [
-    "Poison",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single attacks at Cap Break Level 1, [Accel Mode: Kefka (Poison)], [Instant ATB 1] to user\nAccel Mode: Poison Ability High Boost & chases Poison abilities with 8 single-target Poison/NE magic attacks",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Kefka (Poison)",
       "text": "Poison abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Kefka (Poison)] after using Poison abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "22070038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070038/22070038_256.png",
+  "character": "Kefka",
+  "name": "Roaring Acid Rain",
+  "name_jp": "轟・アシッドレイン",
+  "tier": "ASB",
+  "sb_version": "ASB2",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks at Cap Break Level 1, [Accel Mode: Kefka (Poison)], [Instant ATB 1] to user\nAccel Mode: Poison Ability High Boost & chases Poison abilities with 8 single-target Poison/NE magic attacks"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.96 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group ranged attacks (0.96 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20490005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20490005/20490005_256.png",
   "character": "Kimahri",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group ranged attacks (0.96 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.96 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group ranged attacks (0.96 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Six group ranged attacks (0.96 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

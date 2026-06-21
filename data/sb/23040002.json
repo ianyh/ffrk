@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.94 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.94 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "23040002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23040002/23040002_256.png",
   "character": "Marche",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (0.94 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.94 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.94 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight single attacks (0.94 each), [ATK and MND +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

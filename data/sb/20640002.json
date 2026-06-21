@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores 1 consumed ability use"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores 1 consumed ability use"
+    }
+  ],
   "id": "20640002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640002/20640002_256.png",
   "character": "Tellah",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores 1 consumed ability use",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores 1 consumed ability use"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores 1 consumed ability use"
-    }
-  ]
+  "effects": "Restores 1 consumed ability use"
 }

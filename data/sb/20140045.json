@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user"
+    }
+  ],
   "id": "20140045",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140045/20140045_256.png",
   "character": "Tyro",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user"
-    }
-  ]
+  "effects": "Restores HP (105), grants [ATK, MAG and MND +30%], grants [Awoken Final Winner Mode], [Damage Cap +10000] and [Voting Grimoire Follow-Up] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, ATK +50% and DEF/RES +15%, Prismatic Damage +20% & Instant Cast 1 to party, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, ATK +50% and DEF/RES +15%, Prismatic Damage +20% & Instant Cast 1 to party, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
   "id": "23440011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23440011/23440011_256.png",
   "character": "Naja",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single attacks at Cap Break Level 1, ATK +50% and DEF/RES +15%, Prismatic Damage +20% & Instant Cast 1 to party, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks at Cap Break Level 1, ATK +50% and DEF/RES +15%, Prismatic Damage +20% & Instant Cast 1 to party, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks at Cap Break Level 1, ATK +50% and DEF/RES +15%, Prismatic Damage +20% & Instant Cast 1 to party, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single attacks at Cap Break Level 1, ATK +50% and DEF/RES +15%, Prismatic Damage +20% & Instant Cast 1 to party, Crystal Mode to user\nCrystal Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: [Cap Break Level 1 & Weakness Damage +50%] for 1 turn to party, Instant Cast, Quick ATB 1 to user"
 }

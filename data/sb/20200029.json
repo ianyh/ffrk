@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Fire Damage +30% for 1 turn & Quick ATB 1 to En-Fire members after casting SB, removes Soul Drive Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Fire Damage +30% for 1 turn & Quick ATB 1 to En-Fire members after casting SB, removes Soul Drive Mode"
+    }
+  ],
   "id": "20200029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200029/20200029_256.png",
   "character": "Lenna",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Fire Damage +30% for 1 turn & Quick ATB 1 to En-Fire members after casting SB, removes Soul Drive Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Fire Damage +30% for 1 turn & Quick ATB 1 to En-Fire members after casting SB, removes Soul Drive Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Fire Damage +30% for 1 turn & Quick ATB 1 to En-Fire members after casting SB, removes Soul Drive Mode"
-    }
-  ]
+  "effects": "Soul Drive Mode & Instant ATB 1 to user, Instant Cast\nSoul Drive Mode: -1 SB Gauge Cost & Instant SB Cast; Grants Fire Damage +30% for 1 turn & Quick ATB 1 to En-Fire members after casting SB, removes Soul Drive Mode"
 }

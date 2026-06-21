@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/Water/Earth/Wind/NE physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Water/Earth/Wind Ability High Boost & chases Fire/Water/Earth/Wind abilities with 8 single-target Fire/Water/Earth/Wind/NE physical attacks (0.60 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Fire/Water/Earth/Wind/NE physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Water/Earth/Wind Ability High Boost & chases Fire/Water/Earth/Wind abilities with 8 single-target Fire/Water/Earth/Wind/NE physical attacks (0.60 each)"
+    }
+  ],
   "id": "20400074",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400074/20400074_256.png",
   "character": "Bartz",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Fire/Water/Earth/Wind/NE physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Water/Earth/Wind Ability High Boost & chases Fire/Water/Earth/Wind abilities with 8 single-target Fire/Water/Earth/Wind/NE physical attacks (0.60 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Fire/Water/Earth/Wind/NE physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Water/Earth/Wind Ability High Boost & chases Fire/Water/Earth/Wind abilities with 8 single-target Fire/Water/Earth/Wind/NE physical attacks (0.60 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Fire/Water/Earth/Wind/NE physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Water/Earth/Wind Ability High Boost & chases Fire/Water/Earth/Wind abilities with 8 single-target Fire/Water/Earth/Wind/NE physical attacks (0.60 each)"
-    }
-  ]
+  "effects": "5 single-target Fire/Water/Earth/Wind/NE physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Fire/Water/Earth/Wind Ability High Boost & chases Fire/Water/Earth/Wind abilities with 8 single-target Fire/Water/Earth/Wind/NE physical attacks (0.60 each)"
 }

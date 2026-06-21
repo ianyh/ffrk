@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Tantalus], [Damage Cap +10000] and [Twin Element Mode (Wind, Poison) v2] to the user, causes [Imperil Wind 10% (15s)] and [Imperil Poison 10% (15s)]/[Imperil Wind 20% (25s)] and [Imperil Poison 20% (25s)] if 1/2+ IX characters are alive, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to all allies if 3/4+ IX characters are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Tantalus], [Damage Cap +10000] and [Twin Element Mode (Wind, Poison) v2] to the user, causes [Imperil Wind 10% (15s)] and [Imperil Poison 10% (15s)]/[Imperil Wind 20% (25s)] and [Imperil Poison 20% (25s)] if 1/2+ IX characters are alive, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to all allies if 3/4+ IX characters are alive"
+    }
+  ],
   "id": "23070005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070005/23070005_256.png",
   "character": "Marcus",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Awoken Tantalus], [Damage Cap +10000] and [Twin Element Mode (Wind, Poison) v2] to the user, causes [Imperil Wind 10% (15s)] and [Imperil Poison 10% (15s)]/[Imperil Wind 20% (25s)] and [Imperil Poison 20% (25s)] if 1/2+ IX characters are alive, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to all allies if 3/4+ IX characters are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Awoken Tantalus], [Damage Cap +10000] and [Twin Element Mode (Wind, Poison) v2] to the user, causes [Imperil Wind 10% (15s)] and [Imperil Poison 10% (15s)]/[Imperil Wind 20% (25s)] and [Imperil Poison 20% (25s)] if 1/2+ IX characters are alive, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to all allies if 3/4+ IX characters are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Awoken Tantalus], [Damage Cap +10000] and [Twin Element Mode (Wind, Poison) v2] to the user, causes [Imperil Wind 10% (15s)] and [Imperil Poison 10% (15s)]/[Imperil Wind 20% (25s)] and [Imperil Poison 20% (25s)] if 1/2+ IX characters are alive, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to all allies if 3/4+ IX characters are alive"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Awoken Tantalus], [Damage Cap +10000] and [Twin Element Mode (Wind, Poison) v2] to the user, causes [Imperil Wind 10% (15s)] and [Imperil Poison 10% (15s)]/[Imperil Wind 20% (25s)] and [Imperil Poison 20% (25s)] if 1/2+ IX characters are alive, grants [Instant Cast 1]/[Instant Cast 1] and [Weakness +30% Boost (15s)] to all allies if 3/4+ IX characters are alive"
 }

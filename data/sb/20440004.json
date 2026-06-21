@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six random ranged attacks (1.32 each), causes [Imperil Fire 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six random ranged attacks (1.32 each), causes [Imperil Fire 20%] for 25 seconds"
+    }
+  ],
   "id": "20440004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440004/20440004_256.png",
   "character": "Balthier",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Six random ranged attacks (1.32 each), causes [Imperil Fire 20%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six random ranged attacks (1.32 each), causes [Imperil Fire 20%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six random ranged attacks (1.32 each), causes [Imperil Fire 20%] for 25 seconds"
-    }
-  ]
+  "effects": "Six random ranged attacks (1.32 each), causes [Imperil Fire 20%] for 25 seconds"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Prismatic Ability Boost, Triplecast Prismatic, Unlimited Prismatic Hones, Cap Break Level 1 to Prismatic Abilities, Prismatic Ability Damage +30% & 20% DEF/RES Pierce to Prismatic Abilities; Ends after using 8 Prismatic abilities\nTP Max: AOE Prismatic/NE ranged hybrid attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Nemesis Code (Weapon Skill)",
+      "text": "Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Prismatic Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Prismatic\nWS Blue: Lv.2 En-Prismatic Stack to user\nWS Gold: During Tactical Awoken Mode, Prismatic Ability Damage +50% & Quick Prismatic to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Prismatic Ability Boost, Triplecast Prismatic, Unlimited Prismatic Hones, Cap Break Level 1 to Prismatic Abilities, Prismatic Ability Damage +30% & 20% DEF/RES Pierce to Prismatic Abilities; Ends after using 8 Prismatic abilities\nTP Max: AOE Prismatic/NE ranged hybrid attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Nemesis Code (Weapon Skill)",
+      "text": "Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Prismatic Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Prismatic\nWS Blue: Lv.2 En-Prismatic Stack to user\nWS Gold: During Tactical Awoken Mode, Prismatic Ability Damage +50% & Quick Prismatic to user"
+    }
+  ],
   "id": "23580012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580012/23580012_256.png",
   "character": "Shadowsmith",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Prismatic Ability Boost, Triplecast Prismatic, Unlimited Prismatic Hones, Cap Break Level 1 to Prismatic Abilities, Prismatic Ability Damage +30% & 20% DEF/RES Pierce to Prismatic Abilities; Ends after using 8 Prismatic abilities\nTP Max: AOE Prismatic/NE ranged hybrid attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Prismatic Ability Boost, Triplecast Prismatic, Unlimited Prismatic Hones, Cap Break Level 1 to Prismatic Abilities, Prismatic Ability Damage +30% & 20% DEF/RES Pierce to Prismatic Abilities; Ends after using 8 Prismatic abilities\nTP Max: AOE Prismatic/NE ranged hybrid attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Prismatic Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Prismatic\nWS Blue: Lv.2 En-Prismatic Stack to user\nWS Gold: During Tactical Awoken Mode, Prismatic Ability Damage +50% & Quick Prismatic to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Prismatic Ability Boost, Triplecast Prismatic, Unlimited Prismatic Hones, Cap Break Level 1 to Prismatic Abilities, Prismatic Ability Damage +30% & 20% DEF/RES Pierce to Prismatic Abilities; Ends after using 8 Prismatic abilities\nTP Max: AOE Prismatic/NE ranged hybrid attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Prismatic/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Prismatic Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Prismatic\nWS Blue: Lv.2 En-Prismatic Stack to user\nWS Gold: During Tactical Awoken Mode, Prismatic Ability Damage +50% & Quick Prismatic to user"
-    }
-  ]
+  "effects": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Prismatic Ability Boost, Triplecast Prismatic, Unlimited Prismatic Hones, Cap Break Level 1 to Prismatic Abilities, Prismatic Ability Damage +30% & 20% DEF/RES Pierce to Prismatic Abilities; Ends after using 8 Prismatic abilities\nTP Max: AOE Prismatic/NE ranged hybrid attack at True Cap Break Level 1"
 }

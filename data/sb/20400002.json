@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.40), [DEF +30%] to the user for 20 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.40), [DEF +30%] to the user for 20 seconds"
+    }
+  ],
   "id": "20400002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400002/20400002_256.png",
   "character": "Bartz",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.40), [DEF +30%] to the user for 20 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.40), [DEF +30%] to the user for 20 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.40), [DEF +30%] to the user for 20 seconds"
-    }
-  ]
+  "effects": "One single attack (1.40), [DEF +30%] to the user for 20 seconds"
 }

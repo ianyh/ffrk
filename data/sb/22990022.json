@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
+    }
+  ],
   "id": "22990022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990022/22990022_256.png",
   "character": "Kiros",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
-    }
-  ]
+  "effects": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
 }

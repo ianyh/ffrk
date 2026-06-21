@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1, En-Dark Stack or En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1 + minor Imperil Dark/Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1, En-Dark Stack or En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1 + minor Imperil Dark/Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "22080025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080025/22080025_256.png",
   "character": "Exdeath",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1, En-Dark Stack or En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1 + minor Imperil Dark/Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1, En-Dark Stack or En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1 + minor Imperil Dark/Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1, En-Dark Stack or En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1 + minor Imperil Dark/Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1, En-Dark Stack or En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Holy Ability Boost, Dualcast Dark/Holy, Zero Hone Cost to Dark/Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/Holy/NE hybrid attacks at Cap Break Level 1 + minor Imperil Dark/Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

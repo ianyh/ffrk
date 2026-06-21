@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user, grants [Dark Radiant Shield: 75%] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user, grants [Dark Radiant Shield: 75%] to all allies"
+    }
+  ],
   "id": "22670009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670009/22670009_256.png",
   "character": "Cloud of Darkness",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user, grants [Dark Radiant Shield: 75%] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user, grants [Dark Radiant Shield: 75%] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user, grants [Dark Radiant Shield: 75%] to all allies"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Dark] and [Damage Cap +10000] to the user, grants [Dark Radiant Shield: 75%] to all allies"
 }

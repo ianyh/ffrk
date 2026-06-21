@@ -1,20 +1,4 @@
 {
-  "id": "22130031",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130031/22130031_256.png",
-  "character": "Leila",
-  "name": "Zenith Pirate's Knives",
-  "name_jp": "究極パイレーツナイブス",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "II",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Leila (Water)] to the user, grants [Buff Water 20% (15s)] to the user/grants [ATK and MND +30%, DEF and RES +25% (8s)] and [Thief Quick Cast 1] to all allies if there are 0-3/4+ Thief allies",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Spirit Attack: Leila (Water)",
       "text": "Four single physical attacks (0.60 each)"
     }
-  ]
+  ],
+  "id": "22130031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130031/22130031_256.png",
+  "character": "Leila",
+  "name": "Zenith Pirate's Knives",
+  "name_jp": "究極パイレーツナイブス",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "II",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Leila (Water)] to the user, grants [Buff Water 20% (15s)] to the user/grants [ATK and MND +30%, DEF and RES +25% (8s)] and [Thief Quick Cast 1] to all allies if there are 0-3/4+ Thief allies"
 }

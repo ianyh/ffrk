@@ -1,20 +1,4 @@
 {
-  "id": "23200013",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200013/23200013_256.png",
-  "character": "Ignis",
-  "name": "Zenith Flameboost Bite",
-  "name_jp": "究極Bエンハンスバイト",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XV",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ignis (Fire)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Quick Recipe+",
       "text": "Transfers the user's Soul Break points to the target (maximum of 500 Soul Break points), grants [Instant Cast 1] to the user"
     }
-  ]
+  ],
+  "id": "23200013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200013/23200013_256.png",
+  "character": "Ignis",
+  "name": "Zenith Flameboost Bite",
+  "name_jp": "究極Bエンハンスバイト",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Ignis (Fire)] to the user"
 }

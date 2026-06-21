@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MAG/DEF/RES -50% to all targets; grants [ATK/MND +50%, DEF +30%] and [Instant Cast 2] to party; grants [Crystal Force Mode] to user\nCrystal Force Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Grants [Deadly Strikes +30% 2] & [40% Damage Reduction Barrier 2] to party, Instant Cast, grants [200% ATB 1] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK/MAG/DEF/RES -50% to all targets; grants [ATK/MND +50%, DEF +30%] and [Instant Cast 2] to party; grants [Crystal Force Mode] to user\nCrystal Force Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Grants [Deadly Strikes +30% 2] & [40% Damage Reduction Barrier 2] to party, Instant Cast, grants [200% ATB 1] to user"
+    }
+  ],
   "id": "20840020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840020/20840020_256.png",
   "character": "Quina",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "ATK/MAG/DEF/RES -50% to all targets; grants [ATK/MND +50%, DEF +30%] and [Instant Cast 2] to party; grants [Crystal Force Mode] to user\nCrystal Force Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Grants [Deadly Strikes +30% 2] & [40% Damage Reduction Barrier 2] to party, Instant Cast, grants [200% ATB 1] to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "ATK/MAG/DEF/RES -50% to all targets; grants [ATK/MND +50%, DEF +30%] and [Instant Cast 2] to party; grants [Crystal Force Mode] to user\nCrystal Force Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Grants [Deadly Strikes +30% 2] & [40% Damage Reduction Barrier 2] to party, Instant Cast, grants [200% ATB 1] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "ATK/MAG/DEF/RES -50% to all targets; grants [ATK/MND +50%, DEF +30%] and [Instant Cast 2] to party; grants [Crystal Force Mode] to user\nCrystal Force Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Grants [Deadly Strikes +30% 2] & [40% Damage Reduction Barrier 2] to party, Instant Cast, grants [200% ATB 1] to user"
-    }
-  ]
+  "effects": "ATK/MAG/DEF/RES -50% to all targets; grants [ATK/MND +50%, DEF +30%] and [Instant Cast 2] to party; grants [Crystal Force Mode] to user\nCrystal Force Mode: Quick Support & Zero Hone Cost to Support Abilities\nCrystal Force I/II: Grants [Deadly Strikes +30% 2] & [40% Damage Reduction Barrier 2] to party, Instant Cast, grants [200% ATB 1] to user"
 }

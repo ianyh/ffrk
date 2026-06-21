@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Magical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Magical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20140006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140006/20140006_256.png",
   "character": "Tyro",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Protect], [Shell] and [Magical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect], [Shell] and [Magical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect], [Shell] and [Magical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Grants [Protect], [Shell] and [Magical Blink 1] to all allies, grants [Haste] and [Burst Mode] to the user"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Dual Awoken Lightning Mode I to user, Lightning Ability Damage +3% to party\nDual Awoken Lightning Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to equipped Lightning abilities"
+    },
+    {
+      "name": "Awoken Stormcall (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick Lightning to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Dual Awoken Lightning Mode I to user, Lightning Ability Damage +3% to party\nDual Awoken Lightning Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to equipped Lightning abilities"
+    },
+    {
+      "name": "Awoken Stormcall (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick Lightning to party"
+    }
+  ],
   "id": "22610026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610026/22610026_256.png",
   "character": "Raijin",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Dual Awoken Lightning Mode I to user, Lightning Ability Damage +3% to party\nDual Awoken Lightning Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to equipped Lightning abilities",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Dual Awoken Lightning Mode I to user, Lightning Ability Damage +3% to party\nDual Awoken Lightning Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to equipped Lightning abilities"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick Lightning to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Dual Awoken Lightning Mode I to user, Lightning Ability Damage +3% to party\nDual Awoken Lightning Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to equipped Lightning abilities"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Lightning Mode II to user\nDual Awoken Lightning Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick Lightning to party"
-    }
-  ]
+  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Lightning, En-Lightning Stack, Cap Break Level 1 & Dual Awoken Lightning Mode I to user, Lightning Ability Damage +3% to party\nDual Awoken Lightning Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to equipped Lightning abilities"
 }

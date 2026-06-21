@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [Instant Cast 1] to all allies, grants [Steiner Rush] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.69 each), grants [Instant Cast 1] to all allies, grants [Steiner Rush] to the user"
+    }
+  ],
   "id": "20570012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570012/20570012_256.png",
   "character": "Steiner",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.69 each), grants [Instant Cast 1] to all allies, grants [Steiner Rush] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.69 each), grants [Instant Cast 1] to all allies, grants [Steiner Rush] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.69 each), grants [Instant Cast 1] to all allies, grants [Steiner Rush] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.69 each), grants [Instant Cast 1] to all allies, grants [Steiner Rush] to the user"
 }

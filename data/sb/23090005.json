@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (10.50~14.50 scaling with Spellblade abilities used) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (10.50~14.50 scaling with Spellblade abilities used) capped at 99999"
+    }
+  ],
   "id": "23090005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090005/23090005_256.png",
   "character": "Machina",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (10.50~14.50 scaling with Spellblade abilities used) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (10.50~14.50 scaling with Spellblade abilities used) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (10.50~14.50 scaling with Spellblade abilities used) capped at 99999"
-    }
-  ]
+  "effects": "One single attack (10.50~14.50 scaling with Spellblade abilities used) capped at 99999"
 }

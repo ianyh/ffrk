@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Quick Cast] to the user/ [Physical Quick Cast] to all allies with 0-2/3+ Knight allies in the party, grants [Attach Earth with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I: Leo v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
+    },
+    {
+      "name": "Awoken Shocking Glory (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II: Leo v2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Quick Cast] to the user/ [Physical Quick Cast] to all allies with 0-2/3+ Knight allies in the party, grants [Attach Earth with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I: Leo v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
+    },
+    {
+      "name": "Awoken Shocking Glory (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II: Leo v2] to the user"
+    }
+  ],
   "id": "22490022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490022/22490022_256.png",
   "character": "Leo",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Quick Cast] to the user/ [Physical Quick Cast] to all allies with 0-2/3+ Knight allies in the party, grants [Attach Earth with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I: Leo v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Quick Cast] to the user/ [Physical Quick Cast] to all allies with 0-2/3+ Knight allies in the party, grants [Attach Earth with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I: Leo v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II: Leo v2] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Quick Cast] to the user/ [Physical Quick Cast] to all allies with 0-2/3+ Knight allies in the party, grants [Attach Earth with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I: Leo v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II: Leo v2] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Quick Cast] to the user/ [Physical Quick Cast] to all allies with 0-2/3+ Knight allies in the party, grants [Attach Earth with Stacking], [Damage Cap +10000] and [Dual Awoken Knight Mode I: Leo v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
 }

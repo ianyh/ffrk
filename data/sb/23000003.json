@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.70)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.70)"
+    }
+  ],
   "id": "23000003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000003/23000003_256.png",
   "character": "Ward",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.70)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.70)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.70)"
-    }
-  ]
+  "effects": "One single attack (1.70)"
 }

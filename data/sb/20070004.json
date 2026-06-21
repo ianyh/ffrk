@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.60 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.60 each)"
+    }
+  ],
   "id": "20070004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070004/20070004_256.png",
   "character": "Cecil (Paladin)",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single attacks (1.60 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (1.60 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (1.60 each)"
-    }
-  ]
+  "effects": "Three single attacks (1.60 each)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single jump attacks (8.00 each) capped at 99999, causes [KO] (100%) to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single jump attacks (8.00 each) capped at 99999, causes [KO] (100%) to the user"
+    }
+  ],
   "id": "24490008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490008/24490008_256.png",
   "character": "Kimahri",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single jump attacks (8.00 each) capped at 99999, causes [KO] (100%) to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single jump attacks (8.00 each) capped at 99999, causes [KO] (100%) to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single jump attacks (8.00 each) capped at 99999, causes [KO] (100%) to the user"
-    }
-  ]
+  "effects": "Three single jump attacks (8.00 each) capped at 99999, causes [KO] (100%) to the user"
 }

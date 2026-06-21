@@ -1,21 +1,4 @@
 {
-  "id": "23100033",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100033/23100033_256.png",
-  "character": "Queen",
-  "name": "Zenith Energy Blaster",
-  "name_jp": "究極エナジーブラスター",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "Type-0",
-  "elements": [
-    "Lightning",
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Queen], [Instant Cast 1] to user. Grants [Attach Lightning 3 with Stacking].",
   "description": [
     {
       "name": "Entry",
@@ -71,5 +54,22 @@
       "name": "Spirit Attack: Queen II",
       "text": "Grants [Instant ATB 2], [Lightning Instant Cast 2] to user."
     }
-  ]
+  ],
+  "id": "23100033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100033/23100033_256.png",
+  "character": "Queen",
+  "name": "Zenith Energy Blaster",
+  "name_jp": "究極エナジーブラスター",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Queen], [Instant Cast 1] to user. Grants [Attach Lightning 3 with Stacking]."
 }

@@ -1,20 +1,4 @@
 {
-  "id": "20210048",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210048/20210048_256.png",
-  "character": "Celes",
-  "name": "Roaring Icy Blossoming",
-  "name_jp": "轟・氷華絢爛",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "VI",
-  "elements": [
-    "Ice",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single attacks (0.80 each), grants [Instant ATB 1], [Damage Cap +10000], [Accel Mode], and [Accel Mode: Celes (Ice)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -42,5 +26,21 @@
       "name": "Roaring Celes (Ice)",
       "text": "Six single (0.60 each), grants [Buff Ice 10% (5s)] to all allies"
     }
-  ]
+  ],
+  "id": "20210048",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210048/20210048_256.png",
+  "character": "Celes",
+  "name": "Roaring Icy Blossoming",
+  "name_jp": "轟・氷華絢爛",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (0.80 each), grants [Instant ATB 1], [Damage Cap +10000], [Accel Mode], and [Accel Mode: Celes (Ice)] to the user"
 }

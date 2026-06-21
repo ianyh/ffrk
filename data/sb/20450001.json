@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.50), always deals a critical hit, 50% hit rate"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (2.50), always deals a critical hit, 50% hit rate"
+    }
+  ],
   "id": "20450001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20450001/20450001_256.png",
   "character": "Gladiator",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single",
   "lensable": false,
-  "effects": "One single attack (2.50), always deals a critical hit, 50% hit rate",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (2.50), always deals a critical hit, 50% hit rate"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (2.50), always deals a critical hit, 50% hit rate"
-    }
-  ]
+  "effects": "One single attack (2.50), always deals a critical hit, 50% hit rate"
 }

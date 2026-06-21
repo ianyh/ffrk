@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Echo's Prize (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fickle Faerie Mode II (Echo)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Echo's Prize (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fickle Faerie Mode II (Echo)] to the user"
+    }
+  ],
   "id": "22290012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290012/22290012_256.png",
   "character": "Echo",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fickle Faerie Mode II (Echo)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fickle Faerie Mode II (Echo)] to the user"
-    }
-  ]
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user"
 }

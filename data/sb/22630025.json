@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "En-Dark, En-Dark Stack, 250 SB Points & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "En-Dark, En-Dark Stack, 250 SB Points & Quick ATB 1 to user"
+    }
+  ],
   "id": "22630025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630025/22630025_256.png",
   "character": "Rufus",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "En-Dark, En-Dark Stack, 250 SB Points & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "En-Dark, En-Dark Stack, 250 SB Points & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "En-Dark, En-Dark Stack, 250 SB Points & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "En-Dark, En-Dark Stack, 250 SB Points & Quick ATB 1 to user"
 }

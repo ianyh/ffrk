@@ -1,21 +1,4 @@
 {
-  "id": "22280020",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280020/22280020_256.png",
-  "character": "Wol",
-  "name": "Zenith Canyon Break",
-  "name_jp": "究極キャニオンブレイク",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "I",
-  "elements": [
-    "Earth",
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 2 with Stacking]/[Attach Holy 2 with Stacking] based on if entry damage was Earth/Holy damage, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Wol (Earth, Holy)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -59,5 +42,22 @@
       "name": "Dancing Edge+",
       "text": "Five single attacks (1.20 each) capped at 9999/19999 after 0-2/3+ uses, causes [Imperil Earth 10% (5s)] and [Imperil Holy 10% (5s)]"
     }
-  ]
+  ],
+  "id": "22280020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280020/22280020_256.png",
+  "character": "Wol",
+  "name": "Zenith Canyon Break",
+  "name_jp": "究極キャニオンブレイク",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "I",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 2 with Stacking]/[Attach Holy 2 with Stacking] based on if entry damage was Earth/Holy damage, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Wol (Earth, Holy)] to the user"
 }

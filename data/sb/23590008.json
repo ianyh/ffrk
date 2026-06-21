@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Semi Prime Mode, [Soul Break Gauge +250], [Quick ATB 1] to user\nSemi-Prime Mode: [MAG/DEF/RES +50%, Weakness Damage +30% & Instant Cast] for 5 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Semi Prime Mode, [Soul Break Gauge +250], [Quick ATB 1] to user\nSemi-Prime Mode: [MAG/DEF/RES +50%, Weakness Damage +30% & Instant Cast] for 5 seconds"
+    }
+  ],
   "id": "23590008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23590008/23590008_256.png",
   "character": "Jill",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants Semi Prime Mode, [Soul Break Gauge +250], [Quick ATB 1] to user\nSemi-Prime Mode: [MAG/DEF/RES +50%, Weakness Damage +30% & Instant Cast] for 5 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants Semi Prime Mode, [Soul Break Gauge +250], [Quick ATB 1] to user\nSemi-Prime Mode: [MAG/DEF/RES +50%, Weakness Damage +30% & Instant Cast] for 5 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants Semi Prime Mode, [Soul Break Gauge +250], [Quick ATB 1] to user\nSemi-Prime Mode: [MAG/DEF/RES +50%, Weakness Damage +30% & Instant Cast] for 5 seconds"
-    }
-  ]
+  "effects": "Grants Semi Prime Mode, [Soul Break Gauge +250], [Quick ATB 1] to user\nSemi-Prime Mode: [MAG/DEF/RES +50%, Weakness Damage +30% & Instant Cast] for 5 seconds"
 }

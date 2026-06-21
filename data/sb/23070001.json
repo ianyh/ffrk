@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.00 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (1.00 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "23070001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070001/23070001_256.png",
   "character": "Marcus",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group attacks (1.00 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (1.00 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (1.00 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Six group attacks (1.00 each), [DEF and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

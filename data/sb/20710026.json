@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lightning Instant Cast] and [Fierce Twinbolt] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lightning Instant Cast] and [Fierce Twinbolt] to the user"
+    }
+  ],
   "id": "20710026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710026/20710026_256.png",
   "character": "Ashe",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lightning Instant Cast] and [Fierce Twinbolt] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lightning Instant Cast] and [Fierce Twinbolt] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lightning Instant Cast] and [Fierce Twinbolt] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [MAG and RES +30% (25s)], [Attach Lightning], [Awoken Lightning], [Damage Cap +10000], [Lightning Instant Cast] and [Fierce Twinbolt] to the user"
 }

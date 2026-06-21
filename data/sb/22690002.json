@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5/6/7 group attacks (0.99 each) at 174/205 SPD, [DEF and RES -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5/6/7 group attacks (0.99 each) at 174/205 SPD, [DEF and RES -50%] for 25 seconds"
+    }
+  ],
   "id": "22690002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22690002/22690002_256.png",
   "character": "Lion",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "5/6/7 group attacks (0.99 each) at 174/205 SPD, [DEF and RES -50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5/6/7 group attacks (0.99 each) at 174/205 SPD, [DEF and RES -50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5/6/7 group attacks (0.99 each) at 174/205 SPD, [DEF and RES -50%] for 25 seconds"
-    }
-  ]
+  "effects": "5/6/7 group attacks (0.99 each) at 174/205 SPD, [DEF and RES -50%] for 25 seconds"
 }

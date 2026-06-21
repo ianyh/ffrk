@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water, Fire, Lightning or Poison ability, grants Water, Fire, Lightning or Poison Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water, Fire, Lightning or Poison ability, grants Water, Fire, Lightning or Poison Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ],
   "id": "20980048",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980048/20980048_256.png",
   "character": "Edge",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water, Fire, Lightning or Poison ability, grants Water, Fire, Lightning or Poison Ability Damage +30% for 3 turns to user (max 1 chase)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water, Fire, Lightning or Poison ability, grants Water, Fire, Lightning or Poison Ability Damage +30% for 3 turns to user (max 1 chase)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water, Fire, Lightning or Poison ability, grants Water, Fire, Lightning or Poison Ability Damage +30% for 3 turns to user (max 1 chase)"
-    }
-  ]
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water, Fire, Lightning or Poison ability, grants Water, Fire, Lightning or Poison Ability Damage +30% for 3 turns to user (max 1 chase)"
 }

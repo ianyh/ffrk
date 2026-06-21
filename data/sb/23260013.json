@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
   "id": "23260013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23260013/23260013_256.png",
   "character": "Seven",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Activates Ice Chain (max 150, field +50%), grants [Buff Ice 10% (5s)]/[Buff Ice 20% (5s)]/[Buff Ice 30% (5s)] if 0-1/2-3/4+ allies have any [Attach Ice], grants [MAG +50% (25s)], grants [Instant Cast 1] to the user"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cyan], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Bushido Dragonflash (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [PHY +30% Boost (15s)] to all allies if there are at least 4 Samurai or VI allies, grants [Fire Ability +50% Boost (Tactical)] and [Fire 142% ATB Quick Cycle (Tactical)] to user if not"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cyan], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Bushido Dragonflash (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [PHY +30% Boost (15s)] to all allies if there are at least 4 Samurai or VI allies, grants [Fire Ability +50% Boost (Tactical)] and [Fire 142% ATB Quick Cycle (Tactical)] to user if not"
+    }
+  ],
   "id": "20220029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220029/20220029_256.png",
   "character": "Cyan",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cyan], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cyan], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [PHY +30% Boost (15s)] to all allies if there are at least 4 Samurai or VI allies, grants [Fire Ability +50% Boost (Tactical)] and [Fire 142% ATB Quick Cycle (Tactical)] to user if not"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cyan], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [PHY +30% Boost (15s)] to all allies if there are at least 4 Samurai or VI allies, grants [Fire Ability +50% Boost (Tactical)] and [Fire 142% ATB Quick Cycle (Tactical)] to user if not"
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Cyan], [ATK +500 (25s) (Tactical)] to user."
 }

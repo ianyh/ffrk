@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect] and [Shell]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect] and [Shell]"
+    }
+  ],
   "id": "20840002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840002/20840002_256.png",
   "character": "Quina",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Protect] and [Shell]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect] and [Shell]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect] and [Shell]"
-    }
-  ]
+  "effects": "Grants [Protect] and [Shell]"
 }

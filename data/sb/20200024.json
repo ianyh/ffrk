@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "h55 heal, ATK/MAG/MND +30% & En-Heal +30% to party, Crystal Mode & Radiant Pride of Tycoon to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h55 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Pride of Tycoon: Prismatic Damage +20/30% to party with at least 0/3 V members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "h55 heal, ATK/MAG/MND +30% & En-Heal +30% to party, Crystal Mode & Radiant Pride of Tycoon to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h55 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Pride of Tycoon: Prismatic Damage +20/30% to party with at least 0/3 V members"
+    }
+  ],
   "id": "20200024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200024/20200024_256.png",
   "character": "Lenna",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "h55 heal, ATK/MAG/MND +30% & En-Heal +30% to party, Crystal Mode & Radiant Pride of Tycoon to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h55 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Pride of Tycoon: Prismatic Damage +20/30% to party with at least 0/3 V members",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "h55 heal, ATK/MAG/MND +30% & En-Heal +30% to party, Crystal Mode & Radiant Pride of Tycoon to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h55 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Pride of Tycoon: Prismatic Damage +20/30% to party with at least 0/3 V members"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "h55 heal, ATK/MAG/MND +30% & En-Heal +30% to party, Crystal Mode & Radiant Pride of Tycoon to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h55 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Pride of Tycoon: Prismatic Damage +20/30% to party with at least 0/3 V members"
-    }
-  ]
+  "effects": "h55 heal, ATK/MAG/MND +30% & En-Heal +30% to party, Crystal Mode & Radiant Pride of Tycoon to user\nCrystal Mode: Quick White Magic/Dancer & Zero Hone Cost to White Magic/Dancer Abilities\nCrystal Force I/II: h55 heal & Instant Cast 1 to party, Instant Cast, Quick ATB 1 to user\nRadiant Pride of Tycoon: Prismatic Damage +20/30% to party with at least 0/3 V members"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores 1 consumed ability use, grants [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores 1 consumed ability use, grants [Haste]"
+    }
+  ],
   "id": "20130005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20130005/20130005_256.png",
   "character": "Tidus",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores 1 consumed ability use, grants [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores 1 consumed ability use, grants [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores 1 consumed ability use, grants [Haste]"
-    }
-  ]
+  "effects": "Restores 1 consumed ability use, grants [Haste]"
 }

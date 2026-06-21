@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Jade Veil to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Jade Veil: [Damage] or [Water Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeShell for 5 seconds] & [Damage] or [Water Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Water members, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Jade Veil to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Jade Veil: [Damage] or [Water Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeShell for 5 seconds] & [Damage] or [Water Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Water members, removes Master Mode"
+    }
+  ],
   "id": "22960018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960018/22960018_256.png",
   "character": "Aria",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Jade Veil to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Jade Veil: [Damage] or [Water Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeShell for 5 seconds] & [Damage] or [Water Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Water members, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Jade Veil to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Jade Veil: [Damage] or [Water Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeShell for 5 seconds] & [Damage] or [Water Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Water members, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Jade Veil to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Jade Veil: [Damage] or [Water Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeShell for 5 seconds] & [Damage] or [Water Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Water members, removes Master Mode"
-    }
-  ]
+  "effects": "Max HP +2000 to party, Master Mode, Instant ATB 1 & Starry Jade Veil to user\nMaster Mode: Cap Break Level 1, Zero SB Cost 1 & Instant SB/LB Cast 1\nStarry Jade Veil: [Damage] or [Water Damage] +5% to party if user has/does not have Realm Synergy\nInterval Chase: [10 single-target Prismatic/NE white magic attacks] or [Single-target minor DeShell for 5 seconds] & [Damage] or [Water Damage] +10/15/20/25/30% to party after 1/2/3/4/5 chases if user has/does not have Realm Synergy (max 5 chases)\nMaster Chase: Single-target Prismatic/NE piercing white magic attack at True Cap Break Level 1, Instant Cast 1 to party & Quick ATB 1 to En-Water members, removes Master Mode"
 }

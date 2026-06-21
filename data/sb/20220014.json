@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking] and [Fleet Blade Follow-Up]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking] and [Fleet Blade Follow-Up]"
+    }
+  ],
   "id": "20220014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220014/20220014_256.png",
   "character": "Cyan",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Fire with Stacking] and [Fleet Blade Follow-Up]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Fire with Stacking] and [Fleet Blade Follow-Up]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Fire with Stacking] and [Fleet Blade Follow-Up]"
-    }
-  ]
+  "effects": "Grants [Attach Fire with Stacking] and [Fleet Blade Follow-Up]"
 }

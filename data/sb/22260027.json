@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Serah)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Water Strike (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Serah)], removes [Dual Awoken Water Mode I (Serah)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Serah)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Water Strike (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Serah)], removes [Dual Awoken Water Mode I (Serah)]"
+    }
+  ],
   "id": "22260027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260027/22260027_256.png",
   "character": "Serah",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Serah)] and [Water Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Serah)] and [Water Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Serah)], removes [Dual Awoken Water Mode I (Serah)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Serah)] and [Water Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Serah)], removes [Dual Awoken Water Mode I (Serah)]"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Serah)] and [Water Resonance +5% Boost] to the user"
 }

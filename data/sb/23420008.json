@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [ATK, DEF, MAG and RES +30% (8s)] to party, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cor)] to the user, grants [XV Resonance +3% Boost] to all XV allies"
+    },
+    {
+      "name": "Awoken Immortal Blade (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cor)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [ATK, DEF, MAG and RES +30% (8s)] to party, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cor)] to the user, grants [XV Resonance +3% Boost] to all XV allies"
+    },
+    {
+      "name": "Awoken Immortal Blade (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cor)]"
+    }
+  ],
   "id": "23420008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420008/23420008_256.png",
   "character": "Cor",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [ATK, DEF, MAG and RES +30% (8s)] to party, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cor)] to the user, grants [XV Resonance +3% Boost] to all XV allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [ATK, DEF, MAG and RES +30% (8s)] to party, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cor)] to the user, grants [XV Resonance +3% Boost] to all XV allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cor)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [ATK, DEF, MAG and RES +30% (8s)] to party, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cor)] to the user, grants [XV Resonance +3% Boost] to all XV allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cor)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [ATK, DEF, MAG and RES +30% (8s)] to party, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cor)] to the user, grants [XV Resonance +3% Boost] to all XV allies"
 }

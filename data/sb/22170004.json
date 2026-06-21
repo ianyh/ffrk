@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.21 each), grants [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.21 each), grants [Attach Fire] to the user"
+    }
+  ],
   "id": "22170004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170004/22170004_256.png",
   "character": "Vincent",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (2.21 each), grants [Attach Fire] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (2.21 each), grants [Attach Fire] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (2.21 each), grants [Attach Fire] to the user"
-    }
-  ]
+  "effects": "Eight single attacks (2.21 each), grants [Attach Fire] to the user"
 }

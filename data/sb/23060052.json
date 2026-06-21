@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water Stacking], [Attach Water] and [Water Quick Cast]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Water Stacking], [Attach Water] and [Water Quick Cast]"
+    }
+  ],
   "id": "23060052",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060052/23060052_256.png",
   "character": "Dr. Mog",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Water Stacking], [Attach Water] and [Water Quick Cast]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Water Stacking], [Attach Water] and [Water Quick Cast]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Water Stacking], [Attach Water] and [Water Quick Cast]"
-    }
-  ]
+  "effects": "Grants [Attach Water Stacking], [Attach Water] and [Water Quick Cast]"
 }

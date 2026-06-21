@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.24 each), [DEF +100%] to all allies for 25 seconds, grants [High Regen] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.24 each), [DEF +100%] to all allies for 25 seconds, grants [High Regen] to all allies"
+    }
+  ],
   "id": "22500001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500001/22500001_256.png",
   "character": "Angeal",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single attacks (1.24 each), [DEF +100%] to all allies for 25 seconds, grants [High Regen] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (1.24 each), [DEF +100%] to all allies for 25 seconds, grants [High Regen] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (1.24 each), [DEF +100%] to all allies for 25 seconds, grants [High Regen] to all allies"
-    }
-  ]
+  "effects": "Six single attacks (1.24 each), [DEF +100%] to all allies for 25 seconds, grants [High Regen] to all allies"
 }

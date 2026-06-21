@@ -1,20 +1,4 @@
 {
-  "id": "23220017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220017/23220017_256.png",
-  "character": "Barbariccia",
-  "name": "Zenith Gale Warning",
-  "name_jp": "究極ゲールワーニング",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IV",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode: Barbariccia (Wind)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Spirit Attack: Barbariccia (Wind)",
       "text": "Four single attacks (2.70/3.05 each) capped at 19999, higher multiplier if exploiting Wind weakness, grants [Buff Wind 10% (5s)] to the user"
     }
-  ]
+  ],
+  "id": "23220017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220017/23220017_256.png",
+  "character": "Barbariccia",
+  "name": "Zenith Gale Warning",
+  "name_jp": "究極ゲールワーニング",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Wind 3 with Stacking], [Damage Cap +10000], [Zenith Mode: Barbariccia (Wind)] to the user"
 }

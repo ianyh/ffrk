@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.49 each), grants [Haste] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.49 each), grants [Haste] to all allies"
+    }
+  ],
   "id": "20950004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950004/20950004_256.png",
   "character": "Thancred",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group attacks (1.49 each), grants [Haste] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (1.49 each), grants [Haste] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (1.49 each), grants [Haste] to all allies"
-    }
-  ]
+  "effects": "Four group attacks (1.49 each), grants [Haste] to all allies"
 }

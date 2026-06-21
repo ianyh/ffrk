@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, causes [ATK and MAG -15%, DEF -70% (25s)], grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Gambler Mode I (Setzer)] and [Sharpshooter Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Highest Stakes (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Gambler Mode II (Setzer)], removes [Dual Awoken Gambler Mode I (Setzer)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, causes [ATK and MAG -15%, DEF -70% (25s)], grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Gambler Mode I (Setzer)] and [Sharpshooter Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Highest Stakes (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Gambler Mode II (Setzer)], removes [Dual Awoken Gambler Mode I (Setzer)]"
+    }
+  ],
   "id": "20780015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780015/20780015_256.png",
   "character": "Setzer",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, causes [ATK and MAG -15%, DEF -70% (25s)], grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Gambler Mode I (Setzer)] and [Sharpshooter Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, causes [ATK and MAG -15%, DEF -70% (25s)], grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Gambler Mode I (Setzer)] and [Sharpshooter Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Gambler Mode II (Setzer)], removes [Dual Awoken Gambler Mode I (Setzer)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, causes [ATK and MAG -15%, DEF -70% (25s)], grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Gambler Mode I (Setzer)] and [Sharpshooter Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Gambler Mode II (Setzer)], removes [Dual Awoken Gambler Mode I (Setzer)]"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, causes [ATK and MAG -15%, DEF -70% (25s)], grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Gambler Mode I (Setzer)] and [Sharpshooter Resonance +5% Boost] to the user"
 }

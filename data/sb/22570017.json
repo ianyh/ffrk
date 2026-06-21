@@ -1,20 +1,4 @@
 {
-  "id": "22570017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570017/22570017_256.png",
-  "character": "Cid (IV)",
-  "name": "Zenith Engineer's Trial",
-  "name_jp": "究極技術屋の試行錯誤",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IV",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Cid (IV)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -70,5 +54,21 @@
       "name": "Spirit Attack: Cid (IV)",
       "text": "Grants [Deadly Strikes +15% 2] to the user/all allies with 0-3/4+ Machinists or IV members in party"
     }
-  ]
+  ],
+  "id": "22570017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570017/22570017_256.png",
+  "character": "Cid (IV)",
+  "name": "Zenith Engineer's Trial",
+  "name_jp": "究極技術屋の試行錯誤",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [100% Critical (25s)] to all allies, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Cid (IV)] to the user"
 }

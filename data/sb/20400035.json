@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user"
+    }
+  ],
   "id": "20400035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400035/20400035_256.png",
   "character": "Bartz",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user"
 }

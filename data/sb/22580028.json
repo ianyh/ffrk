@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants En-Earth, En-Fire or En-Lightning Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Earth/Fire/Lightning abilities, chases with 6 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning (max 5 chases)"
+    },
+    {
+      "name": "Burst Break: Master (Break Arte)",
+      "text": "One group Earth/NE, Fire/NE, or Lightning/NE Overflow attack under En-Earth, En-Fire, or En-Lightning; grants Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single Overflow attack, grants En-Earth, En-Fire or En-Lightning Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Earth/Fire/Lightning abilities, chases with 6 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning (max 5 chases)"
+    },
+    {
+      "name": "Burst Break: Master (Break Arte)",
+      "text": "One group Earth/NE, Fire/NE, or Lightning/NE Overflow attack under En-Earth, En-Fire, or En-Lightning; grants Instant ATB 1 to user"
+    }
+  ],
   "id": "22580028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580028/22580028_256.png",
   "character": "Master",
@@ -22,25 +42,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single Overflow attack, grants En-Earth, En-Fire or En-Lightning Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Earth/Fire/Lightning abilities, chases with 6 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning (max 5 chases)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single Overflow attack, grants En-Earth, En-Fire or En-Lightning Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Earth/Fire/Lightning abilities, chases with 6 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning (max 5 chases)"
-    },
-    {
-      "name": "Break Arte",
-      "text": "One group Earth/NE, Fire/NE, or Lightning/NE Overflow attack under En-Earth, En-Fire, or En-Lightning; grants Instant ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single Overflow attack, grants En-Earth, En-Fire or En-Lightning Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Earth/Fire/Lightning abilities, chases with 6 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning (max 5 chases)"
-    },
-    {
-      "name": "Break Arte",
-      "text": "One group Earth/NE, Fire/NE, or Lightning/NE Overflow attack under En-Earth, En-Fire, or En-Lightning; grants Instant ATB 1 to user"
-    }
-  ]
+  "effects": "One single Overflow attack, grants En-Earth, En-Fire or En-Lightning Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Earth/Fire/Lightning abilities, chases with 6 single-target Earth/NE, Fire/NE or Lightning/NE physical attacks under En-Earth, En-Fire or En-Lightning (max 5 chases)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]"
+    }
+  ],
   "id": "22130016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130016/22130016_256.png",
   "character": "Leila",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]"
-    }
-  ]
+  "effects": "Grants [Twin Element Mode II (Water, Poison)] and [Aqua Venom Follow-Up]"
 }

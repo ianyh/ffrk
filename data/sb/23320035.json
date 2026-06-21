@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Poison Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] to all allies, grants [Instant Cast 1] to user, causes [Imperil Poison 30% (5s)]/[Imperil Poison 20% (5s)]/[Imperil Poison 10% (5s)] to all enemies if there are at least 4/2/0 allies with EnPoison"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Poison Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] to all allies, grants [Instant Cast 1] to user, causes [Imperil Poison 30% (5s)]/[Imperil Poison 20% (5s)]/[Imperil Poison 10% (5s)] to all enemies if there are at least 4/2/0 allies with EnPoison"
+    }
+  ],
   "id": "23320035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320035/23320035_256.png",
   "character": "Wedge",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Poison Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] to all allies, grants [Instant Cast 1] to user, causes [Imperil Poison 30% (5s)]/[Imperil Poison 20% (5s)]/[Imperil Poison 10% (5s)] to all enemies if there are at least 4/2/0 allies with EnPoison",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Poison Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] to all allies, grants [Instant Cast 1] to user, causes [Imperil Poison 30% (5s)]/[Imperil Poison 20% (5s)]/[Imperil Poison 10% (5s)] to all enemies if there are at least 4/2/0 allies with EnPoison"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Poison Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] to all allies, grants [Instant Cast 1] to user, causes [Imperil Poison 30% (5s)]/[Imperil Poison 20% (5s)]/[Imperil Poison 10% (5s)] to all enemies if there are at least 4/2/0 allies with EnPoison"
-    }
-  ]
+  "effects": "Activates Poison Chain (max 150, field +50%), grants [ATK and MAG +30% (25s)] to all allies, grants [Instant Cast 1] to user, causes [Imperil Poison 30% (5s)]/[Imperil Poison 20% (5s)]/[Imperil Poison 10% (5s)] to all enemies if there are at least 4/2/0 allies with EnPoison"
 }

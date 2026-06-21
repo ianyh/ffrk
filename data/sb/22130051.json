@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Leila], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking]."
+    },
+    {
+      "name": "Burst Break: Leila (Break Arte)",
+      "text": "One Poison/NE or Water/NE group attack (8.00) capped at 99,999 based on EnPoison or EnWater. Grants [Instant ATB 1] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Leila], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking]."
+    },
+    {
+      "name": "Burst Break: Leila (Break Arte)",
+      "text": "One Poison/NE or Water/NE group attack (8.00) capped at 99,999 based on EnPoison or EnWater. Grants [Instant ATB 1] to user."
+    }
+  ],
   "id": "22130051",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130051/22130051_256.png",
   "character": "Leila",
@@ -22,25 +42,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Leila], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking].",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Leila], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking]."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One Poison/NE or Water/NE group attack (8.00) capped at 99,999 based on EnPoison or EnWater. Grants [Instant ATB 1] to user."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Leila], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking]."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One Poison/NE or Water/NE group attack (8.00) capped at 99,999 based on EnPoison or EnWater. Grants [Instant ATB 1] to user."
-    }
-  ]
+  "effects": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Leila], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking]."
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.27 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.27 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds"
+    }
+  ],
   "id": "22130003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130003/22130003_256.png",
   "character": "Leila",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single attacks (1.27 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (1.27 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (1.27 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds"
-    }
-  ]
+  "effects": "Six single attacks (1.27 each), [ATK and RES -50%] for 25 seconds, [ATK and RES +30%] to the user for 25 seconds"
 }

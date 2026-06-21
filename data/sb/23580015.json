@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF and RES -50% (25s)], grants [ATK, MAG and MND +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Instant ATB 2], [Instant Cast 2] and Omni-Element Mode III to user.\nOmni-Element Mode III: Lv.2 En-Prismatic Stack"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF and RES -50% (25s)], grants [ATK, MAG and MND +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Instant ATB 2], [Instant Cast 2] and Omni-Element Mode III to user.\nOmni-Element Mode III: Lv.2 En-Prismatic Stack"
+    }
+  ],
   "id": "23580015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580015/23580015_256.png",
   "character": "Shadowsmith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "Causes [DEF and RES -50% (25s)], grants [ATK, MAG and MND +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Instant ATB 2], [Instant Cast 2] and Omni-Element Mode III to user.\nOmni-Element Mode III: Lv.2 En-Prismatic Stack",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [DEF and RES -50% (25s)], grants [ATK, MAG and MND +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Instant ATB 2], [Instant Cast 2] and Omni-Element Mode III to user.\nOmni-Element Mode III: Lv.2 En-Prismatic Stack"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [DEF and RES -50% (25s)], grants [ATK, MAG and MND +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Instant ATB 2], [Instant Cast 2] and Omni-Element Mode III to user.\nOmni-Element Mode III: Lv.2 En-Prismatic Stack"
-    }
-  ]
+  "effects": "Causes [DEF and RES -50% (25s)], grants [ATK, MAG and MND +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Instant ATB 2], [Instant Cast 2] and Omni-Element Mode III to user.\nOmni-Element Mode III: Lv.2 En-Prismatic Stack"
 }

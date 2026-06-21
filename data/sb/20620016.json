@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Protect], [Shell] and [Haste]"
+    }
+  ],
   "id": "20620016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620016/20620016_256.png",
   "character": "Eiko",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Protect], [Shell] and [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect], [Shell] and [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Protect], [Shell] and [Haste]"
-    }
-  ]
+  "effects": "Grants [Protect], [Shell] and [Haste]"
 }

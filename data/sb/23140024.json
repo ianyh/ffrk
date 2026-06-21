@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Wind/Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Poison Ability High Boost & chases Wind/Poison abilities 6 single-target Wind/Poison/NE physical magic attacks, Wind/Poison Damage +10% for 5 seconds to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Wind/Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Poison Ability High Boost & chases Wind/Poison abilities 6 single-target Wind/Poison/NE physical magic attacks, Wind/Poison Damage +10% for 5 seconds to user"
+    }
+  ],
   "id": "23140024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140024/23140024_256.png",
   "character": "Thief (I)",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Wind/Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Poison Ability High Boost & chases Wind/Poison abilities 6 single-target Wind/Poison/NE physical magic attacks, Wind/Poison Damage +10% for 5 seconds to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Wind/Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Poison Ability High Boost & chases Wind/Poison abilities 6 single-target Wind/Poison/NE physical magic attacks, Wind/Poison Damage +10% for 5 seconds to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Wind/Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Poison Ability High Boost & chases Wind/Poison abilities 6 single-target Wind/Poison/NE physical magic attacks, Wind/Poison Damage +10% for 5 seconds to user"
-    }
-  ]
+  "effects": "5 single-target Wind/Poison/NE physical attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Wind/Poison Ability High Boost & chases Wind/Poison abilities 6 single-target Wind/Poison/NE physical magic attacks, Wind/Poison Damage +10% for 5 seconds to user"
 }

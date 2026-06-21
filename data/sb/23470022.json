@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 150, field +50%), causes [Imperil Fire 10% (5s)]/[Imperil Fire 20% (5s)]/[Imperil Fire 30% (5s)] to all targets with 0-1/2-3/4+ allies with Attach Fire, grants [ATK +50% (25s)] to all allies, grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 150, field +50%), causes [Imperil Fire 10% (5s)]/[Imperil Fire 20% (5s)]/[Imperil Fire 30% (5s)] to all targets with 0-1/2-3/4+ allies with Attach Fire, grants [ATK +50% (25s)] to all allies, grants [Instant Cast 1] to the user"
+    }
+  ],
   "id": "23470022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23470022/23470022_256.png",
   "character": "Genesis",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "Activates Fire Chain (max 150, field +50%), causes [Imperil Fire 10% (5s)]/[Imperil Fire 20% (5s)]/[Imperil Fire 30% (5s)] to all targets with 0-1/2-3/4+ allies with Attach Fire, grants [ATK +50% (25s)] to all allies, grants [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Fire Chain (max 150, field +50%), causes [Imperil Fire 10% (5s)]/[Imperil Fire 20% (5s)]/[Imperil Fire 30% (5s)] to all targets with 0-1/2-3/4+ allies with Attach Fire, grants [ATK +50% (25s)] to all allies, grants [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Fire Chain (max 150, field +50%), causes [Imperil Fire 10% (5s)]/[Imperil Fire 20% (5s)]/[Imperil Fire 30% (5s)] to all targets with 0-1/2-3/4+ allies with Attach Fire, grants [ATK +50% (25s)] to all allies, grants [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Activates Fire Chain (max 150, field +50%), causes [Imperil Fire 10% (5s)]/[Imperil Fire 20% (5s)]/[Imperil Fire 30% (5s)] to all targets with 0-1/2-3/4+ allies with Attach Fire, grants [ATK +50% (25s)] to all allies, grants [Instant Cast 1] to the user"
 }

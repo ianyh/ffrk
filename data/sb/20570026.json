@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Ice/NE or Lightning/NE if the user has any Attach Ice or Attach Lightning, activates IX Chain (max 150, field +0%) or adds 25 to the current IX Chain maximum limit, grants [Chain Force Mode: Steiner] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Ice/NE or Lightning/NE if the user has any Attach Ice or Attach Lightning, activates IX Chain (max 150, field +0%) or adds 25 to the current IX Chain maximum limit, grants [Chain Force Mode: Steiner] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "20570026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570026/20570026_256.png",
   "character": "Steiner",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Ice/NE or Lightning/NE if the user has any Attach Ice or Attach Lightning, activates IX Chain (max 150, field +0%) or adds 25 to the current IX Chain maximum limit, grants [Chain Force Mode: Steiner] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Ice/NE or Lightning/NE if the user has any Attach Ice or Attach Lightning, activates IX Chain (max 150, field +0%) or adds 25 to the current IX Chain maximum limit, grants [Chain Force Mode: Steiner] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Ice/NE or Lightning/NE if the user has any Attach Ice or Attach Lightning, activates IX Chain (max 150, field +0%) or adds 25 to the current IX Chain maximum limit, grants [Chain Force Mode: Steiner] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.80 each) capped at 19999, element of entry damage changes to Ice/NE or Lightning/NE if the user has any Attach Ice or Attach Lightning, activates IX Chain (max 150, field +0%) or adds 25 to the current IX Chain maximum limit, grants [Chain Force Mode: Steiner] and [Instant ATB 1] to the user"
 }

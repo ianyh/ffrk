@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Water/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases 1/2/3+ Water abilities with Water Ability Damage +10/20/30% to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Water/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases 1/2/3+ Water abilities with Water Ability Damage +10/20/30% to user"
+    }
+  ],
   "id": "22260044",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260044/22260044_256.png",
   "character": "Serah",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Water/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases 1/2/3+ Water abilities with Water Ability Damage +10/20/30% to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Water/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases 1/2/3+ Water abilities with Water Ability Damage +10/20/30% to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Water/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases 1/2/3+ Water abilities with Water Ability Damage +10/20/30% to user"
-    }
-  ]
+  "effects": "5 single-target Water/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Water Ability High Boost & chases 1/2/3+ Water abilities with Water Ability Damage +10/20/30% to user"
 }

@@ -1,27 +1,11 @@
 {
-  "id": "23230011",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230011/23230011_256.png",
-  "character": "Ultimecia",
-  "name": "Apex Maelstrom",
-  "name_jp": "メイルシュトローム・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VIII",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom level 0/1/2, removes Arcane Dyad Empowered: Ultimecia (Dark) from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom level 0/1/2, removes Arcane Dyad Empowered: Ultimecia (Dark) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Maelstrom (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Ultimecia (Dark)], [Apex Maelstrom Damage Tracker] and [Apex Maelstrom Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Maelstrom level 0/1/2, removes Arcane Dyad Empowered: Ultimecia (Dark) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Maelstrom (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Ultimecia (Dark)], [Apex Maelstrom Damage Tracker] and [Apex Maelstrom Level]"
     }
-  ]
+  ],
+  "id": "23230011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230011/23230011_256.png",
+  "character": "Ultimecia",
+  "name": "Apex Maelstrom (Engaged)",
+  "name_jp": "メイルシュトローム・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Ultimecia (Dark)], [Apex Maelstrom Damage Tracker] and [Apex Maelstrom Level]"
 }

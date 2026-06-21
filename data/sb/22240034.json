@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Kuja (Break Arte)",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kuja], [Instant ATB 1] to user. Grants [Attach Dark with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Kuja (Break Arte)",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kuja], [Instant ATB 1] to user. Grants [Attach Dark with Secondary Stacking]."
+    }
+  ],
   "id": "22240034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240034/22240034_256.png",
   "character": "Kuja",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kuja], [Instant ATB 1] to user. Grants [Attach Dark with Secondary Stacking]."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kuja], [Instant ATB 1] to user. Grants [Attach Dark with Secondary Stacking]."
-    }
-  ]
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
 }

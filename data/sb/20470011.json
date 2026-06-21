@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Earth Radiant Shield: 75%] and [Instant Cast 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Earth Radiant Shield: 75%] and [Instant Cast 1] to all allies"
+    }
+  ],
   "id": "20470011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20470011/20470011_256.png",
   "character": "Red XIII",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.73 each), grants [Earth Radiant Shield: 75%] and [Instant Cast 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), grants [Earth Radiant Shield: 75%] and [Instant Cast 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), grants [Earth Radiant Shield: 75%] and [Instant Cast 1] to all allies"
-    }
-  ]
+  "effects": "Ten single attacks (1.73 each), grants [Earth Radiant Shield: 75%] and [Instant Cast 1] to all allies"
 }

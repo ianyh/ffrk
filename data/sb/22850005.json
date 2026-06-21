@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 5, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth.NE jump attacks, multiplier increases with each chase\nMaster Chase: Single-target Earth/NE piercing jump attack at True Cap Break Level 1, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 5, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth.NE jump attacks, multiplier increases with each chase\nMaster Chase: Single-target Earth/NE piercing jump attack at True Cap Break Level 1, removes Master Mode"
+    }
+  ],
   "id": "22850005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22850005/22850005_256.png",
   "character": "Wrieg",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 5, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth.NE jump attacks, multiplier increases with each chase\nMaster Chase: Single-target Earth/NE piercing jump attack at True Cap Break Level 1, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 5, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth.NE jump attacks, multiplier increases with each chase\nMaster Chase: Single-target Earth/NE piercing jump attack at True Cap Break Level 1, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 5, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth.NE jump attacks, multiplier increases with each chase\nMaster Chase: Single-target Earth/NE piercing jump attack at True Cap Break Level 1, removes Master Mode"
-    }
-  ]
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 5, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Earth.NE jump attacks, multiplier increases with each chase\nMaster Chase: Single-target Earth/NE piercing jump attack at True Cap Break Level 1, removes Master Mode"
 }

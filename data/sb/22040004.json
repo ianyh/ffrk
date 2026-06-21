@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.66 each), causes [Sap] (9%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (0.66 each), causes [Sap] (9%)"
+    }
+  ],
   "id": "22040004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040004/22040004_256.png",
   "character": "Yuffie",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (0.66 each), causes [Sap] (9%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.66 each), causes [Sap] (9%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (0.66 each), causes [Sap] (9%)"
-    }
-  ]
+  "effects": "Eight single attacks (0.66 each), causes [Sap] (9%)"
 }

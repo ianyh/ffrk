@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.54 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.54 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20350005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350005/20350005_256.png",
   "character": "Squall",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group ranged attacks (1.54 each), grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.54 each), grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.54 each), grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Four group ranged attacks (1.54 each), grants [Haste] and [Burst Mode] to the user"
 }

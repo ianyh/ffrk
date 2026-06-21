@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [40% Damage Reduction Barrier 2]/[40% Damage Reduction Barrier 2] and [Weakness +15% Boost (15s)]/[40% Damage Reduction Barrier 3] and [Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF1 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [40% Damage Reduction Barrier 2]/[40% Damage Reduction Barrier 2] and [Weakness +15% Boost (15s)]/[40% Damage Reduction Barrier 3] and [Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF1 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user"
+    }
+  ],
   "id": "23140008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140008/23140008_256.png",
   "character": "Thief (I)",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [40% Damage Reduction Barrier 2]/[40% Damage Reduction Barrier 2] and [Weakness +15% Boost (15s)]/[40% Damage Reduction Barrier 3] and [Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF1 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [40% Damage Reduction Barrier 2]/[40% Damage Reduction Barrier 2] and [Weakness +15% Boost (15s)]/[40% Damage Reduction Barrier 3] and [Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF1 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [40% Damage Reduction Barrier 2]/[40% Damage Reduction Barrier 2] and [Weakness +15% Boost (15s)]/[40% Damage Reduction Barrier 3] and [Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF1 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [40% Damage Reduction Barrier 2]/[40% Damage Reduction Barrier 2] and [Weakness +15% Boost (15s)]/[40% Damage Reduction Barrier 3] and [Weakness +30% Boost (15s)] to all allies if 0-1/2-3/4+ FF1 allies are alive, grants [Awoken Thief] and [Damage Cap +10000] to the user"
 }

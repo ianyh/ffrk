@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), causes [ATK and MAG -40%] for 15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), causes [ATK and MAG -40%] for 15 seconds"
+    }
+  ],
   "id": "20280008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280008/20280008_256.png",
   "character": "Gordon",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single attacks (0.52 each), causes [ATK and MAG -40%] for 15 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (0.52 each), causes [ATK and MAG -40%] for 15 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (0.52 each), causes [ATK and MAG -40%] for 15 seconds"
-    }
-  ]
+  "effects": "Six single attacks (0.52 each), causes [ATK and MAG -40%] for 15 seconds"
 }

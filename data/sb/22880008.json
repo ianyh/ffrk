@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Regenga] and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and [Royal Puppeteer Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Regenga] and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and [Royal Puppeteer Mode] to the user"
+    }
+  ],
   "id": "22880008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880008/22880008_256.png",
   "character": "Aphmau",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (105), grants [Regenga] and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and [Royal Puppeteer Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), grants [Regenga] and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and [Royal Puppeteer Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), grants [Regenga] and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and [Royal Puppeteer Mode] to the user"
-    }
-  ]
+  "effects": "Restores HP (105), grants [Regenga] and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and [Royal Puppeteer Mode] to the user"
 }

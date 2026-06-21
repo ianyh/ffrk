@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.90), grants [Physical Blink 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.90), grants [Physical Blink 1] to the user"
+    }
+  ],
   "id": "22910003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22910003/22910003_256.png",
   "character": "Iris",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.90), grants [Physical Blink 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.90), grants [Physical Blink 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.90), grants [Physical Blink 1] to the user"
-    }
-  ]
+  "effects": "One single attack (1.90), grants [Physical Blink 1] to the user"
 }

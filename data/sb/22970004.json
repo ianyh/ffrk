@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.30)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (1.30)"
+    }
+  ],
   "id": "22970004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970004/22970004_256.png",
   "character": "Prompto",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single ranged attack (1.30)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (1.30)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (1.30)"
-    }
-  ]
+  "effects": "One single ranged attack (1.30)"
 }

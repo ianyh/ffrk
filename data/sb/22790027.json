@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Buff Fire 30% (15s)], [Damage Cap +10000], [Dual Awoken Fire Mode I: Ace II] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Cut Cards (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II: Ace II]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Buff Fire 30% (15s)], [Damage Cap +10000], [Dual Awoken Fire Mode I: Ace II] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Cut Cards (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II: Ace II]"
+    }
+  ],
   "id": "22790027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790027/22790027_256.png",
   "character": "Ace",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Buff Fire 30% (15s)], [Damage Cap +10000], [Dual Awoken Fire Mode I: Ace II] and [Fire Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Buff Fire 30% (15s)], [Damage Cap +10000], [Dual Awoken Fire Mode I: Ace II] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II: Ace II]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Buff Fire 30% (15s)], [Damage Cap +10000], [Dual Awoken Fire Mode I: Ace II] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II: Ace II]"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Buff Fire 30% (15s)], [Damage Cap +10000], [Dual Awoken Fire Mode I: Ace II] and [Fire Resonance +5% Boost] to the user"
 }

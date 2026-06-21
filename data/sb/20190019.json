@@ -1,27 +1,11 @@
 {
-  "id": "20190019",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190019/20190019_256.png",
-  "character": "Josef",
-  "name": "Snowfield Survivor",
-  "name_jp": "雪原の漢",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "II",
-  "elements": [
-    "Ice",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Snowfield Survivor level 0/1, grants [Instant Cast 1] to all allies removes Arcane Dyad Empowered: Josef from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Snowfield Survivor level 0/1, grants [Instant Cast 1] to all allies removes Arcane Dyad Empowered: Josef from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Snowfield Survivor (Engaged)",
       "text": "Causes [Imperil Ice 20% (15s)], grants [Buff Ice 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Josef], [Snowfield Survivor Ability Tracker] and [Snowfield Survivor Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Ten single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Snowfield Survivor level 0/1, grants [Instant Cast 1] to all allies removes Arcane Dyad Empowered: Josef from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Snowfield Survivor (Engaged)",
       "text": "Causes [Imperil Ice 20% (15s)], grants [Buff Ice 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Josef], [Snowfield Survivor Ability Tracker] and [Snowfield Survivor Level]"
     }
-  ]
+  ],
+  "id": "20190019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190019/20190019_256.png",
+  "character": "Josef",
+  "name": "Snowfield Survivor (Engaged)",
+  "name_jp": "雪原の漢",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Causes [Imperil Ice 20% (15s)], grants [Buff Ice 20% (15s)] to all allies, grants [Arcane Dyad Empowered: Josef], [Snowfield Survivor Ability Tracker] and [Snowfield Survivor Level]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds, grants [Haste], grants [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds, grants [Haste], grants [Burst Mode] to the user"
+    }
+  ],
   "id": "22280007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280007/22280007_256.png",
   "character": "Wol",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK +50%] for 25 seconds, grants [Haste], grants [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +50%] for 25 seconds, grants [Haste], grants [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +50%] for 25 seconds, grants [Haste], grants [Burst Mode] to the user"
-    }
-  ]
+  "effects": "[ATK +50%] for 25 seconds, grants [Haste], grants [Burst Mode] to the user"
 }

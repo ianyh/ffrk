@@ -1,21 +1,4 @@
 {
-  "id": "20520039",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520039/20520039_256.png",
-  "character": "Yuna",
-  "name": "Zenith Dragon's Roar",
-  "name_jp": "究極竜の咆哮",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "X",
-  "elements": [
-    "Holy",
-    "Wind",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Yuna (Holy)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +50,22 @@
       "name": "Spirit Attack: Yuna",
       "text": "One single attack (14.30) capped at 99999, 16.15 if exploiting weakness"
     }
-  ]
+  ],
+  "id": "20520039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520039/20520039_256.png",
+  "character": "Yuna",
+  "name": "Zenith Dragon's Roar",
+  "name_jp": "究極竜の咆哮",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "X",
+  "elements": [
+    "Holy",
+    "Wind",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Yuna (Holy)] to the user"
 }

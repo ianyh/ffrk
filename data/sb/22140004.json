@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.89 each), causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.89 each), causes [Stun] (100%)"
+    }
+  ],
   "id": "22140004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22140004/22140004_256.png",
   "character": "Ramza",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single ranged attacks (0.89 each), causes [Stun] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single ranged attacks (0.89 each), causes [Stun] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single ranged attacks (0.89 each), causes [Stun] (100%)"
-    }
-  ]
+  "effects": "Six single ranged attacks (0.89 each), causes [Stun] (100%)"
 }

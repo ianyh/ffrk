@@ -1,20 +1,4 @@
 {
-  "id": "22630018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630018/22630018_256.png",
-  "character": "Rufus",
-  "name": "Zenith Reign of Terror",
-  "name_jp": "究極レインオブテラー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VII",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "SIngle enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Rufus (Dark)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Rufus (Dark)",
       "text": "Grants [Buff Dark 10% (15s)] to all allies"
     }
-  ]
+  ],
+  "id": "22630018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630018/22630018_256.png",
+  "character": "Rufus",
+  "name": "Zenith Reign of Terror",
+  "name_jp": "究極レインオブテラー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "SIngle enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Zenith Mode], [Zenith Mode: Rufus (Dark)] and [Damage Cap +10000] to the user"
 }

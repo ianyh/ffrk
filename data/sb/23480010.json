@@ -1,17 +1,4 @@
 {
-  "id": "23480010",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23480010/23480010_256.png",
-  "character": "Fina",
-  "name": "Zenith Brilliant Heal",
-  "name_jp": "究極ブリリアンスヒール",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Beyond",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Last Stand], [High Quick Cast 2], and [Natural Cure: Fina] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Fina] to the user",
   "description": [
     {
       "name": "Entry",
@@ -79,5 +66,18 @@
       "name": "Spirit Attack: Fina",
       "text": "Grants [HP Stock (2000)] to all allies, and grants [Quick Cast 1] to all allies every other cast"
     }
-  ]
+  ],
+  "id": "23480010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23480010/23480010_256.png",
+  "character": "Fina",
+  "name": "Zenith Brilliant Heal",
+  "name_jp": "究極ブリリアンスヒール",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Last Stand], [High Quick Cast 2], and [Natural Cure: Fina] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Fina] to the user"
 }

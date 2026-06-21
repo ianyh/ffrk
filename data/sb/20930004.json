@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six random ranged attacks (1.30 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six random ranged attacks (1.30 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
   "id": "20930004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930004/20930004_256.png",
   "character": "Faris",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": false,
-  "effects": "Six random ranged attacks (1.30 each), grants [Physical Blink 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six random ranged attacks (1.30 each), grants [Physical Blink 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six random ranged attacks (1.30 each), grants [Physical Blink 1] to all allies"
-    }
-  ]
+  "effects": "Six random ranged attacks (1.30 each), grants [Physical Blink 1] to all allies"
 }

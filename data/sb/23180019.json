@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (? each), grants [Damage Cap +10000] and [Awoken Determination Mode] to the user, grants [Lightning Damage +20%] and [Physical Quick Cast 3] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (? each), grants [Damage Cap +10000] and [Awoken Determination Mode] to the user, grants [Lightning Damage +20%] and [Physical Quick Cast 3] to all allies"
+    }
+  ],
   "id": "23180019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180019/23180019_256.png",
   "character": "King",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single ranged attacks (? each), grants [Damage Cap +10000] and [Awoken Determination Mode] to the user, grants [Lightning Damage +20%] and [Physical Quick Cast 3] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (? each), grants [Damage Cap +10000] and [Awoken Determination Mode] to the user, grants [Lightning Damage +20%] and [Physical Quick Cast 3] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (? each), grants [Damage Cap +10000] and [Awoken Determination Mode] to the user, grants [Lightning Damage +20%] and [Physical Quick Cast 3] to all allies"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (? each), grants [Damage Cap +10000] and [Awoken Determination Mode] to the user, grants [Lightning Damage +20%] and [Physical Quick Cast 3] to all allies"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and MAG +30%] for 25 seconds, grants [HP Stock (3000)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and MAG +30%] for 25 seconds, grants [HP Stock (3000)]"
+    }
+  ],
   "id": "20360006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360006/20360006_256.png",
   "character": "Garnet",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[DEF and MAG +30%] for 25 seconds, grants [HP Stock (3000)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[DEF and MAG +30%] for 25 seconds, grants [HP Stock (3000)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[DEF and MAG +30%] for 25 seconds, grants [HP Stock (3000)]"
-    }
-  ]
+  "effects": "[DEF and MAG +30%] for 25 seconds, grants [HP Stock (3000)]"
 }

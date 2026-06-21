@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK and DEF +30% (25s)] to all allies, grants [Awoken Forbidden Power], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Water)] and [Chosen Ninja Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK and DEF +30% (25s)] to all allies, grants [Awoken Forbidden Power], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Water)] and [Chosen Ninja Mode] to the user"
+    }
+  ],
   "id": "22460031",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460031/22460031_256.png",
   "character": "Onion Knight",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [ATK and DEF +30% (25s)] to all allies, grants [Awoken Forbidden Power], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Water)] and [Chosen Ninja Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK and DEF +30% (25s)] to all allies, grants [Awoken Forbidden Power], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Water)] and [Chosen Ninja Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK and DEF +30% (25s)] to all allies, grants [Awoken Forbidden Power], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Water)] and [Chosen Ninja Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK and DEF +30% (25s)] to all allies, grants [Awoken Forbidden Power], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Water)] and [Chosen Ninja Mode] to the user"
 }

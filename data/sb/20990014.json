@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Love Mode I (Rosa)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Sacred Healing (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Love Mode II (Rosa)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Love Mode I (Rosa)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Sacred Healing (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Love Mode II (Rosa)]"
+    }
+  ],
   "id": "20990014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990014/20990014_256.png",
   "character": "Rosa",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Love Mode I (Rosa)] and [White Magic Healing Resonance Boost +5%] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Love Mode I (Rosa)] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Love Mode II (Rosa)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Love Mode I (Rosa)] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Love Mode II (Rosa)]"
-    }
-  ]
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Love Mode I (Rosa)] and [White Magic Healing Resonance Boost +5%] to the user"
 }

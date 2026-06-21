@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Holy] and [Auto Chain of Destruction] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Holy] and [Auto Chain of Destruction] to the user"
+    }
+  ],
   "id": "20770008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770008/20770008_256.png",
   "character": "Hope",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Holy] and [Auto Chain of Destruction] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Holy] and [Auto Chain of Destruction] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Holy] and [Auto Chain of Destruction] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.70 each), [DEF and MAG +30%] to the user for 25 seconds, grants [Attach Holy] and [Auto Chain of Destruction] to the user"
 }

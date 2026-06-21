@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Prismatic/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Prismatic Ability High Boost & Instant Prismatic"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Prismatic/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Prismatic Ability High Boost & Instant Prismatic"
+    }
+  ],
   "id": "23580003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580003/23580003_256.png",
   "character": "Shadowsmith",
@@ -22,17 +34,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Prismatic/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Prismatic Ability High Boost & Instant Prismatic",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Prismatic/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Prismatic Ability High Boost & Instant Prismatic"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Prismatic/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Prismatic Ability High Boost & Instant Prismatic"
-    }
-  ]
+  "effects": "5 single-target Prismatic/NE ranged hybrid attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Prismatic Ability High Boost & Instant Prismatic"
 }

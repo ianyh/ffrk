@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [High Quick Cast 2] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Holy Cleric Mode] and Sacred Souls +2 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [High Quick Cast 2] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Holy Cleric Mode] and Sacred Souls +2 to the user"
+    }
+  ],
   "id": "23150008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23150008/23150008_256.png",
   "character": "Alma",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [High Quick Cast 2] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Holy Cleric Mode] and Sacred Souls +2 to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), removes KO [Raise: 100%], grants [High Quick Cast 2] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Holy Cleric Mode] and Sacred Souls +2 to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), removes KO [Raise: 100%], grants [High Quick Cast 2] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Holy Cleric Mode] and Sacred Souls +2 to the user"
-    }
-  ]
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [High Quick Cast 2] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Holy Cleric Mode] and Sacred Souls +2 to the user"
 }

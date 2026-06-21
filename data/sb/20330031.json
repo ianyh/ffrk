@@ -1,20 +1,4 @@
 {
-  "id": "20330031",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330031/20330031_256.png",
-  "character": "Warrior of Light",
-  "name": "Zenith Bitter End",
-  "name_jp": "究極エンドオール",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "I",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Buff Holy 20% (15s)], [Zenith Mode], and [Zenith Mode: Warrior of Light (Holy)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Crossover+",
       "text": "Six single attacks (1.05/1.10 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "20330031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330031/20330031_256.png",
+  "character": "Warrior of Light",
+  "name": "Zenith Bitter End",
+  "name_jp": "究極エンドオール",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "I",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 3 with Stacking], [Damage Cap +10000], [Buff Holy 20% (15s)], [Zenith Mode], and [Zenith Mode: Warrior of Light (Holy)] to the user"
 }

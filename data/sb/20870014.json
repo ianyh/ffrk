@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Amarant)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Scarlet Elan (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Amarant)], removes [Dual Awoken Fire Mode I (Amarant)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Amarant)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Scarlet Elan (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Amarant)], removes [Dual Awoken Fire Mode I (Amarant)]"
+    }
+  ],
   "id": "20870014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870014/20870014_256.png",
   "character": "Amarant",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Amarant)] and [Fire Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Amarant)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Amarant)], removes [Dual Awoken Fire Mode I (Amarant)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Amarant)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Amarant)], removes [Dual Awoken Fire Mode I (Amarant)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ FF9 allies are alive, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Amarant)] and [Fire Resonance +5% Boost] to the user"
 }

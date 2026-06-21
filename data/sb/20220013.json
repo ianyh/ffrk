@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s)] to the user, grants [Instant Cast 3], [Damage Cap +10000 3] and [Faithful Samurai Mode] to the user if 4+ FF6 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s)] to the user, grants [Instant Cast 3], [Damage Cap +10000 3] and [Faithful Samurai Mode] to the user if 4+ FF6 allies are alive"
+    }
+  ],
   "id": "20220013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220013/20220013_256.png",
   "character": "Cyan",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s)] to the user, grants [Instant Cast 3], [Damage Cap +10000 3] and [Faithful Samurai Mode] to the user if 4+ FF6 allies are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s)] to the user, grants [Instant Cast 3], [Damage Cap +10000 3] and [Faithful Samurai Mode] to the user if 4+ FF6 allies are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s)] to the user, grants [Instant Cast 3], [Damage Cap +10000 3] and [Faithful Samurai Mode] to the user if 4+ FF6 allies are alive"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [100% Critical (25s)] to the user, grants [Instant Cast 3], [Damage Cap +10000 3] and [Faithful Samurai Mode] to the user if 4+ FF6 allies are alive"
 }

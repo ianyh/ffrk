@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Lightning Stoneskin: 50%]/[50% Critical] to all allies if 0-3/4+ Type-0 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Quick Cast 1] to the user, grants [Siphon Sword Follow-Up 1]/[Siphon Sword Follow-Up 2]  and AG Down +1 to the user if 0-3/4+ Type-0 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Lightning Stoneskin: 50%]/[50% Critical] to all allies if 0-3/4+ Type-0 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Quick Cast 1] to the user, grants [Siphon Sword Follow-Up 1]/[Siphon Sword Follow-Up 2]  and AG Down +1 to the user if 0-3/4+ Type-0 allies are alive"
+    }
+  ],
   "id": "23090017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090017/23090017_256.png",
   "character": "Machina",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [Lightning Stoneskin: 50%]/[50% Critical] to all allies if 0-3/4+ Type-0 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Quick Cast 1] to the user, grants [Siphon Sword Follow-Up 1]/[Siphon Sword Follow-Up 2]  and AG Down +1 to the user if 0-3/4+ Type-0 allies are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Lightning Stoneskin: 50%]/[50% Critical] to all allies if 0-3/4+ Type-0 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Quick Cast 1] to the user, grants [Siphon Sword Follow-Up 1]/[Siphon Sword Follow-Up 2]  and AG Down +1 to the user if 0-3/4+ Type-0 allies are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Lightning Stoneskin: 50%]/[50% Critical] to all allies if 0-3/4+ Type-0 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Quick Cast 1] to the user, grants [Siphon Sword Follow-Up 1]/[Siphon Sword Follow-Up 2]  and AG Down +1 to the user if 0-3/4+ Type-0 allies are alive"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Lightning Stoneskin: 50%]/[50% Critical] to all allies if 0-3/4+ Type-0 allies are alive, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Quick Cast 1] to the user, grants [Siphon Sword Follow-Up 1]/[Siphon Sword Follow-Up 2]  and AG Down +1 to the user if 0-3/4+ Type-0 allies are alive"
 }

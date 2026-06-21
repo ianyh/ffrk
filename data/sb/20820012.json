@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), causes [Imperil Dark 10%] for 15 seconds, grants [Buff Dark 10% (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (0.52 each), causes [Imperil Dark 10%] for 15 seconds, grants [Buff Dark 10% (15s)] to the user"
+    }
+  ],
   "id": "20820012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820012/20820012_256.png",
   "character": "Seifer",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single attacks (0.52 each), causes [Imperil Dark 10%] for 15 seconds, grants [Buff Dark 10% (15s)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (0.52 each), causes [Imperil Dark 10%] for 15 seconds, grants [Buff Dark 10% (15s)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (0.52 each), causes [Imperil Dark 10%] for 15 seconds, grants [Buff Dark 10% (15s)] to the user"
-    }
-  ]
+  "effects": "Six single attacks (0.52 each), causes [Imperil Dark 10%] for 15 seconds, grants [Buff Dark 10% (15s)] to the user"
 }

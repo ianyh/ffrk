@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Slow] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Slow] (20%)"
+    }
+  ],
   "id": "22640003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640003/22640003_256.png",
   "character": "Emperor",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "Causes [Slow] (20%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Slow] (20%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Slow] (20%)"
-    }
-  ]
+  "effects": "Causes [Slow] (20%)"
 }

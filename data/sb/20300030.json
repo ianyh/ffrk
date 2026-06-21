@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I: Rinoa], [Ice Resonance +5% Boost] and [Instant Cast 2] to the user"
+    },
+    {
+      "name": "Awoken Cherubim Shot (Dual Shift)",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II: Rinoa] to the user, removes [Dual Awoken Ice Mode I: Rinoa] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I: Rinoa], [Ice Resonance +5% Boost] and [Instant Cast 2] to the user"
+    },
+    {
+      "name": "Awoken Cherubim Shot (Dual Shift)",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II: Rinoa] to the user, removes [Dual Awoken Ice Mode I: Rinoa] from the user"
+    }
+  ],
   "id": "20300030",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300030/20300030_256.png",
   "character": "Rinoa",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I: Rinoa], [Ice Resonance +5% Boost] and [Instant Cast 2] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I: Rinoa], [Ice Resonance +5% Boost] and [Instant Cast 2] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II: Rinoa] to the user, removes [Dual Awoken Ice Mode I: Rinoa] from the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I: Rinoa], [Ice Resonance +5% Boost] and [Instant Cast 2] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II: Rinoa] to the user, removes [Dual Awoken Ice Mode I: Rinoa] from the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I: Rinoa], [Ice Resonance +5% Boost] and [Instant Cast 2] to the user"
 }

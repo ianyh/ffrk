@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with [5 > 15] single-target Earth/NE magic attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Earth/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with [5 > 15] single-target Earth/NE magic attacks"
+    }
+  ],
   "id": "23280023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280023/23280023_256.png",
   "character": "Enna Kros",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Earth/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with [5 > 15] single-target Earth/NE magic attacks",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Earth/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with [5 > 15] single-target Earth/NE magic attacks"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Earth/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with [5 > 15] single-target Earth/NE magic attacks"
-    }
-  ]
+  "effects": "5 single-target Earth/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & chases Earth abilities with [5 > 15] single-target Earth/NE magic attacks"
 }

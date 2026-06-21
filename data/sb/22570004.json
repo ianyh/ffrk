@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22570004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570004/22570004_256.png",
   "character": "Cid (IV)",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight random attacks (0.92 each), causes [ATK, DEF, MAG and RES -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

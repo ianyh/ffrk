@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG +30%, RES +25% (25s)], [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Earth Ability Instant Cast (15s)], and [Rockslide VIII Finisher] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG +30%, RES +25% (25s)], [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Earth Ability Instant Cast (15s)], and [Rockslide VIII Finisher] to the user"
+    }
+  ],
   "id": "20560024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560024/20560024_256.png",
   "character": "Maria",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [MAG +30%, RES +25% (25s)], [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Earth Ability Instant Cast (15s)], and [Rockslide VIII Finisher] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG +30%, RES +25% (25s)], [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Earth Ability Instant Cast (15s)], and [Rockslide VIII Finisher] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG +30%, RES +25% (25s)], [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Earth Ability Instant Cast (15s)], and [Rockslide VIII Finisher] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [MAG +30%, RES +25% (25s)], [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Earth Ability Instant Cast (15s)], and [Rockslide VIII Finisher] to the user"
 }

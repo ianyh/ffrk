@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical Quick Cast] to all allies, grants [Awoken Archive Master], [Damage Cap +10000] and [Arcane Teachings] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical Quick Cast] to all allies, grants [Awoken Archive Master], [Damage Cap +10000] and [Arcane Teachings] to the user"
+    }
+  ],
   "id": "23060138",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060138/23060138_256.png",
   "character": "Dr. Mog",
@@ -22,17 +34,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical Quick Cast] to all allies, grants [Awoken Archive Master], [Damage Cap +10000] and [Arcane Teachings] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical Quick Cast] to all allies, grants [Awoken Archive Master], [Damage Cap +10000] and [Arcane Teachings] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical Quick Cast] to all allies, grants [Awoken Archive Master], [Damage Cap +10000] and [Arcane Teachings] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [MAG and MND +30%, DEF and RES +25% (25s)] and [Magical Quick Cast] to all allies, grants [Awoken Archive Master], [Damage Cap +10000] and [Arcane Teachings] to the user"
 }

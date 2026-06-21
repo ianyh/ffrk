@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [Last Stand] to all allies, grants [Attach Ice] and [Shard Smasher Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.63 each), grants [Last Stand] to all allies, grants [Attach Ice] and [Shard Smasher Follow-Up] to the user"
+    }
+  ],
   "id": "23360003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360003/23360003_256.png",
   "character": "Eight",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.63 each), grants [Last Stand] to all allies, grants [Attach Ice] and [Shard Smasher Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.63 each), grants [Last Stand] to all allies, grants [Attach Ice] and [Shard Smasher Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.63 each), grants [Last Stand] to all allies, grants [Attach Ice] and [Shard Smasher Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.63 each), grants [Last Stand] to all allies, grants [Attach Ice] and [Shard Smasher Follow-Up] to the user"
 }

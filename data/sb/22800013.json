@@ -1,17 +1,4 @@
 {
-  "id": "22800013",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22800013/22800013_256.png",
-  "character": "Deuce",
-  "name": "Zenith Prelude",
-  "name_jp": "究極プレリュード",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Grants [HP Stock (6000)], [Regenga], [ATK, MAG and MND +30%], [Last Stand], [High Quick Cast 2], and [Natural Cure: Deuce] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Deuce] to the user",
   "description": [
     {
       "name": "Entry",
@@ -83,5 +70,18 @@
       "name": "Spirit Attack: Deuce",
       "text": "Grants [Stoneskin: 20%] to all allies"
     }
-  ]
+  ],
+  "id": "22800013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22800013/22800013_256.png",
+  "character": "Deuce",
+  "name": "Zenith Prelude",
+  "name_jp": "究極プレリュード",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (6000)], [Regenga], [ATK, MAG and MND +30%], [Last Stand], [High Quick Cast 2], and [Natural Cure: Deuce] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Deuce] to the user"
 }

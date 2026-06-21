@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Celes (Ice)], & ATK +500 to user.\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Brilliant Snow (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Ice Damage Cap +20000 (Tactical)], [Ice 125% ATB (Tactical)] to user, and Weapon Skill Blue/Gold if user has Attach Ice 0-1/2\nWS Blue: Grants [Attach Ice 2 with Stacking] to user\nWS Gold: Grants [Ice Ability +50% Boost (Tactical)], [Ice Quick Cast (Tactical)] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Celes (Ice)], & ATK +500 to user.\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Brilliant Snow (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Ice Damage Cap +20000 (Tactical)], [Ice 125% ATB (Tactical)] to user, and Weapon Skill Blue/Gold if user has Attach Ice 0-1/2\nWS Blue: Grants [Attach Ice 2 with Stacking] to user\nWS Gold: Grants [Ice Ability +50% Boost (Tactical)], [Ice Quick Cast (Tactical)] to user"
+    }
+  ],
   "id": "20210056",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210056/20210056_256.png",
   "character": "Celes",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Celes (Ice)], & ATK +500 to user.\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Celes (Ice)], & ATK +500 to user.\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Ice Damage Cap +20000 (Tactical)], [Ice 125% ATB (Tactical)] to user, and Weapon Skill Blue/Gold if user has Attach Ice 0-1/2\nWS Blue: Grants [Attach Ice 2 with Stacking] to user\nWS Gold: Grants [Ice Ability +50% Boost (Tactical)], [Ice Quick Cast (Tactical)] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Celes (Ice)], & ATK +500 to user.\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user.\nGrants [Ice Damage Cap +20000 (Tactical)], [Ice 125% ATB (Tactical)] to user, and Weapon Skill Blue/Gold if user has Attach Ice 0-1/2\nWS Blue: Grants [Attach Ice 2 with Stacking] to user\nWS Gold: Grants [Ice Ability +50% Boost (Tactical)], [Ice Quick Cast (Tactical)] to user"
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Celes (Ice)], & ATK +500 to user.\nTP Max: AOE Ice/NE physical attack at True Cap Break Level 1"
 }

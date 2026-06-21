@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Ice, Lightning, Dark)] and Enochian +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Ice, Lightning, Dark)] and Enochian +1 to the user"
+    }
+  ],
   "id": "20960012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960012/20960012_256.png",
   "character": "Y'shtola",
@@ -17,17 +29,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Ice, Lightning, Dark)] and Enochian +1 to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Ice, Lightning, Dark)] and Enochian +1 to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Ice, Lightning, Dark)] and Enochian +1 to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Synchro Mode], [Damage Cap +10000], [Quad Element Mode III (Fire, Ice, Lightning, Dark)] and Enochian +1 to the user"
 }

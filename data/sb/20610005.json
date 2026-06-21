@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds, grants [Magical Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +50%] for 25 seconds, grants [Magical Blink 1]"
+    }
+  ],
   "id": "20610005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610005/20610005_256.png",
   "character": "Sazh",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK +50%] for 25 seconds, grants [Magical Blink 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +50%] for 25 seconds, grants [Magical Blink 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +50%] for 25 seconds, grants [Magical Blink 1]"
-    }
-  ]
+  "effects": "[ATK +50%] for 25 seconds, grants [Magical Blink 1]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)"
+    }
+  ],
   "id": "20720003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720003/20720003_256.png",
   "character": "Strago",
@@ -11,17 +23,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)"
-    }
-  ]
+  "effects": "Two group attacks (4.74 each), [DEF and RES -50%] for 25 seconds, causes [Instant KO] (60%)"
 }

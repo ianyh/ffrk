@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "h55 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Monk & Zero Hone Cost to White Magic/Monk Abilities\nCrystal Force I/II: Dual Blink 1 & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "h55 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Monk & Zero Hone Cost to White Magic/Monk Abilities\nCrystal Force I/II: Dual Blink 1 & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
   "id": "22880013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880013/22880013_256.png",
   "character": "Aphmau",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "h55 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Monk & Zero Hone Cost to White Magic/Monk Abilities\nCrystal Force I/II: Dual Blink 1 & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "h55 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Monk & Zero Hone Cost to White Magic/Monk Abilities\nCrystal Force I/II: Dual Blink 1 & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "h55 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Monk & Zero Hone Cost to White Magic/Monk Abilities\nCrystal Force I/II: Dual Blink 1 & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user"
-    }
-  ]
+  "effects": "h55 heal, ATK/MAG/MND +30%, En-Heal +30% & Casting Speed x1.2 to party, Crystal Mode to user\nCrystal Mode: Quick White Magic/Monk & Zero Hone Cost to White Magic/Monk Abilities\nCrystal Force I/II: Dual Blink 1 & Quick Cast 2 to party, Instant Cast, Quick ATB 1 to user"
 }

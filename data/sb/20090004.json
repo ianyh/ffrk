@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.37 each), minimum damage 525, causes [Instant KO] (100%), [DEF +50%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.37 each), minimum damage 525, causes [Instant KO] (100%), [DEF +50%] to all allies for 25 seconds"
+    }
+  ],
   "id": "20090004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090004/20090004_256.png",
   "character": "Rydia",
@@ -11,17 +23,5 @@
   "type": "SUM",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group attacks (2.37 each), minimum damage 525, causes [Instant KO] (100%), [DEF +50%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (2.37 each), minimum damage 525, causes [Instant KO] (100%), [DEF +50%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (2.37 each), minimum damage 525, causes [Instant KO] (100%), [DEF +50%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Six group attacks (2.37 each), minimum damage 525, causes [Instant KO] (100%), [DEF +50%] to all allies for 25 seconds"
 }

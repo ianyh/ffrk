@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & 20% DEF/RES Pierce to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Dolphin Drive (Weapon Skill)",
+      "text": "Single-target Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Earth Abilities, and Weapon Skill Blue/Gold with at least Level 0/2 Attach Earth\nWS Blue: [Lv.2 En-Earth Stack] to user\nWS Gold: [During Tactical Awoken Mode, chases an Earth ability with Quick ATB 3 (max 1 chase)] to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & 20% DEF/RES Pierce to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Dolphin Drive (Weapon Skill)",
+      "text": "Single-target Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Earth Abilities, and Weapon Skill Blue/Gold with at least Level 0/2 Attach Earth\nWS Blue: [Lv.2 En-Earth Stack] to user\nWS Gold: [During Tactical Awoken Mode, chases an Earth ability with Quick ATB 3 (max 1 chase)] to user"
+    }
+  ],
   "id": "20230040",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230040/20230040_256.png",
   "character": "Tifa",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & 20% DEF/RES Pierce to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & 20% DEF/RES Pierce to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Earth Abilities, and Weapon Skill Blue/Gold with at least Level 0/2 Attach Earth\nWS Blue: [Lv.2 En-Earth Stack] to user\nWS Gold: [During Tactical Awoken Mode, chases an Earth ability with Quick ATB 3 (max 1 chase)] to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & 20% DEF/RES Pierce to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Earth/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Earth Abilities, and Weapon Skill Blue/Gold with at least Level 0/2 Attach Earth\nWS Blue: [Lv.2 En-Earth Stack] to user\nWS Gold: [During Tactical Awoken Mode, chases an Earth ability with Quick ATB 3 (max 1 chase)] to user"
-    }
-  ]
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & 20% DEF/RES Pierce to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
 }

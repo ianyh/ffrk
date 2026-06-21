@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Refia)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Battering Heat (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Refia)], grants [Damage Cap +10000 3], [100% Critical 3] and [Critical Damage +50% 3] if the combined number of FF3 allies and non-FF3 allies with any Attach Fire is 4+"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Refia)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Battering Heat (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Refia)], grants [Damage Cap +10000 3], [100% Critical 3] and [Critical Damage +50% 3] if the combined number of FF3 allies and non-FF3 allies with any Attach Fire is 4+"
+    }
+  ],
   "id": "20430014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430014/20430014_256.png",
   "character": "Refia",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Refia)] and [Fire Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Refia)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Refia)], grants [Damage Cap +10000 3], [100% Critical 3] and [Critical Damage +50% 3] if the combined number of FF3 allies and non-FF3 allies with any Attach Fire is 4+"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Refia)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Refia)], grants [Damage Cap +10000 3], [100% Critical 3] and [Critical Damage +50% 3] if the combined number of FF3 allies and non-FF3 allies with any Attach Fire is 4+"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Refia)] and [Fire Resonance +5% Boost] to the user"
 }

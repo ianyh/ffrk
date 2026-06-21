@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (3.16 each), causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (3.16 each), causes [Stun] (100%)"
+    }
+  ],
   "id": "22120003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120003/22120003_256.png",
   "character": "Minwu",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group attacks (3.16 each), causes [Stun] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (3.16 each), causes [Stun] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (3.16 each), causes [Stun] (100%)"
-    }
-  ]
+  "effects": "Three group attacks (3.16 each), causes [Stun] (100%)"
 }

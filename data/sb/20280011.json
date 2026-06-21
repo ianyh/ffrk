@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
+    }
+  ],
   "id": "20280011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280011/20280011_256.png",
   "character": "Gordon",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
-    }
-  ]
+  "effects": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
 }

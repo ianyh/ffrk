@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six random ranged jump attacks (1.29 each), -10/-5/2/10/15/20% more damage with 0/1/2/3/4/5 other Dragoon users, grants [Attach Wind] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six random ranged jump attacks (1.29 each), -10/-5/2/10/15/20% more damage with 0/1/2/3/4/5 other Dragoon users, grants [Attach Wind] to the user"
+    }
+  ],
   "id": "20460003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460003/20460003_256.png",
   "character": "Ricard",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Six random ranged jump attacks (1.29 each), -10/-5/2/10/15/20% more damage with 0/1/2/3/4/5 other Dragoon users, grants [Attach Wind] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six random ranged jump attacks (1.29 each), -10/-5/2/10/15/20% more damage with 0/1/2/3/4/5 other Dragoon users, grants [Attach Wind] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six random ranged jump attacks (1.29 each), -10/-5/2/10/15/20% more damage with 0/1/2/3/4/5 other Dragoon users, grants [Attach Wind] to the user"
-    }
-  ]
+  "effects": "Six random ranged jump attacks (1.29 each), -10/-5/2/10/15/20% more damage with 0/1/2/3/4/5 other Dragoon users, grants [Attach Wind] to the user"
 }

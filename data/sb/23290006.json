@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra], [Regenga] and [High Quick Cast 1], grants [Sky Dream] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Astra], [Regenga] and [High Quick Cast 1], grants [Sky Dream] to the user"
+    }
+  ],
   "id": "23290006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290006/23290006_256.png",
   "character": "Tama",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Astra], [Regenga] and [High Quick Cast 1], grants [Sky Dream] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Astra], [Regenga] and [High Quick Cast 1], grants [Sky Dream] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Astra], [Regenga] and [High Quick Cast 1], grants [Sky Dream] to the user"
-    }
-  ]
+  "effects": "Grants [Astra], [Regenga] and [High Quick Cast 1], grants [Sky Dream] to the user"
 }

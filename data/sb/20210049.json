@@ -1,21 +1,4 @@
 {
-  "id": "20210049",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210049/20210049_256.png",
-  "character": "Celes",
-  "name": "Zenith Spellblade Unleashed",
-  "name_jp": "究極魔封剣・解放",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "VI",
-  "elements": [
-    "Ice",
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 2 with Stacking] or [Attach Holy 2 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Celes (Ice/Holy)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -63,5 +46,22 @@
       "name": "Spirit Attack: Celes",
       "text": "Grants [Weakness +30% Boost 2] and [Quick Cast 2] to all allies"
     }
-  ]
+  ],
+  "id": "20210049",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210049/20210049_256.png",
+  "character": "Celes",
+  "name": "Zenith Spellblade Unleashed",
+  "name_jp": "究極魔封剣・解放",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice 2 with Stacking] or [Attach Holy 2 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Celes (Ice/Holy)] to the user"
 }

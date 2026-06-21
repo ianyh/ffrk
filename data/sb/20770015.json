@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
+    }
+  ],
   "id": "20770015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770015/20770015_256.png",
   "character": "Hope",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attack (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attack (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attack (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
-    }
-  ]
+  "effects": "Fifteen single attack (1.50 each), grants [Attach Holy 3 with Stacking], [Synchro Mode] and [Damage Cap +10000]"
 }

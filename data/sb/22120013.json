@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Holy]"
+    }
+  ],
   "id": "22120013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120013/22120013_256.png",
   "character": "Minwu",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Attach Holy]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Holy]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Holy]"
-    }
-  ]
+  "effects": "Grants [Attach Holy]"
 }

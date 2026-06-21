@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Kefka (Poison) (Break Arte)",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kefka (Poison)], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Kefka (Poison) (Break Arte)",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kefka (Poison)], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking]."
+    }
+  ],
   "id": "22070042",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070042/22070042_256.png",
   "character": "Kefka",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kefka (Poison)], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking]."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kefka (Poison)], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking]."
-    }
-  ]
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
 }

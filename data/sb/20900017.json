@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK & MAG -15% and RES -70% to all targets, MAG & MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Dancer & Zero Hone Cost to Dancer Abilities\nCrystal Force I/II: Sorcery Damage +30% for 2 turns & 20% Stoneskin to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK & MAG -15% and RES -70% to all targets, MAG & MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Dancer & Zero Hone Cost to Dancer Abilities\nCrystal Force I/II: Sorcery Damage +30% for 2 turns & 20% Stoneskin to party, Instant Cast, Quick ATB 1 to user"
+    }
+  ],
   "id": "20900017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900017/20900017_256.png",
   "character": "Mog",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "ATK & MAG -15% and RES -70% to all targets, MAG & MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Dancer & Zero Hone Cost to Dancer Abilities\nCrystal Force I/II: Sorcery Damage +30% for 2 turns & 20% Stoneskin to party, Instant Cast, Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "ATK & MAG -15% and RES -70% to all targets, MAG & MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Dancer & Zero Hone Cost to Dancer Abilities\nCrystal Force I/II: Sorcery Damage +30% for 2 turns & 20% Stoneskin to party, Instant Cast, Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "ATK & MAG -15% and RES -70% to all targets, MAG & MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Dancer & Zero Hone Cost to Dancer Abilities\nCrystal Force I/II: Sorcery Damage +30% for 2 turns & 20% Stoneskin to party, Instant Cast, Quick ATB 1 to user"
-    }
-  ]
+  "effects": "ATK & MAG -15% and RES -70% to all targets, MAG & MND +50% and RES +30% & Quick Cast 3 to party, Crystal Mode to user\nCrystal Mode: Quick Dancer & Zero Hone Cost to Dancer Abilities\nCrystal Force I/II: Sorcery Damage +30% for 2 turns & 20% Stoneskin to party, Instant Cast, Quick ATB 1 to user"
 }

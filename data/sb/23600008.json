@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks, grants h85 heal, 40% Raise, Haste, 100% Reraise, & Quick Cast to party, grants Awoken Phoenix Mode, Cap Break Level 1, En-Fire & En-Fire Stack to user\nAwoken Phoenix Mode: Unlimited Black Magic/White Magic Hones, Black Magic/White Magic Ability Boost & Dualcast Black Magic/White Magic"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks, grants h85 heal, 40% Raise, Haste, 100% Reraise, & Quick Cast to party, grants Awoken Phoenix Mode, Cap Break Level 1, En-Fire & En-Fire Stack to user\nAwoken Phoenix Mode: Unlimited Black Magic/White Magic Hones, Black Magic/White Magic Ability Boost & Dualcast Black Magic/White Magic"
+    }
+  ],
   "id": "23600008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23600008/23600008_256.png",
   "character": "Joshua",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks, grants h85 heal, 40% Raise, Haste, 100% Reraise, & Quick Cast to party, grants Awoken Phoenix Mode, Cap Break Level 1, En-Fire & En-Fire Stack to user\nAwoken Phoenix Mode: Unlimited Black Magic/White Magic Hones, Black Magic/White Magic Ability Boost & Dualcast Black Magic/White Magic",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks, grants h85 heal, 40% Raise, Haste, 100% Reraise, & Quick Cast to party, grants Awoken Phoenix Mode, Cap Break Level 1, En-Fire & En-Fire Stack to user\nAwoken Phoenix Mode: Unlimited Black Magic/White Magic Hones, Black Magic/White Magic Ability Boost & Dualcast Black Magic/White Magic"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks, grants h85 heal, 40% Raise, Haste, 100% Reraise, & Quick Cast to party, grants Awoken Phoenix Mode, Cap Break Level 1, En-Fire & En-Fire Stack to user\nAwoken Phoenix Mode: Unlimited Black Magic/White Magic Hones, Black Magic/White Magic Ability Boost & Dualcast Black Magic/White Magic"
-    }
-  ]
+  "effects": "Fifteen single attacks, grants h85 heal, 40% Raise, Haste, 100% Reraise, & Quick Cast to party, grants Awoken Phoenix Mode, Cap Break Level 1, En-Fire & En-Fire Stack to user\nAwoken Phoenix Mode: Unlimited Black Magic/White Magic Hones, Black Magic/White Magic Ability Boost & Dualcast Black Magic/White Magic"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Haste] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), grants [Haste] and [Instant Cast 1]"
+    }
+  ],
   "id": "22880001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880001/22880001_256.png",
   "character": "Aphmau",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (85), grants [Haste] and [Instant Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85), grants [Haste] and [Instant Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85), grants [Haste] and [Instant Cast 1]"
-    }
-  ]
+  "effects": "Restores HP (85), grants [Haste] and [Instant Cast 1]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Instant Cast (15s)] and [Scion's Firaja] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Instant Cast (15s)] and [Scion's Firaja] to the user"
+    }
+  ],
   "id": "22330022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330022/22330022_256.png",
   "character": "Papalymo",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Instant Cast (15s)] and [Scion's Firaja] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Instant Cast (15s)] and [Scion's Firaja] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Instant Cast (15s)] and [Scion's Firaja] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Instant Cast (15s)] and [Scion's Firaja] to the user"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Prompto], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Moment Trigger (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Lightning Ability +40% Boost (Tactical)], [Lightning Quick Cast (Tactical)] to user if Level 2+ EnLightning, grants [Attach Lightning 2 with Stacking] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Prompto], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Moment Trigger (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Lightning Ability +40% Boost (Tactical)], [Lightning Quick Cast (Tactical)] to user if Level 2+ EnLightning, grants [Attach Lightning 2 with Stacking] to user if not."
+    }
+  ],
   "id": "22970025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970025/22970025_256.png",
   "character": "Prompto",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Prompto], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Prompto], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Lightning Ability +40% Boost (Tactical)], [Lightning Quick Cast (Tactical)] to user if Level 2+ EnLightning, grants [Attach Lightning 2 with Stacking] to user if not."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Prompto], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Lightning Ability +40% Boost (Tactical)], [Lightning Quick Cast (Tactical)] to user if Level 2+ EnLightning, grants [Attach Lightning 2 with Stacking] to user if not."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Prompto], [ATK +500 (25s) (Tactical)] to user."
 }

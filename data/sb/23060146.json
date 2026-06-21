@@ -1,20 +1,4 @@
 {
-  "id": "23060146",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060146/23060146_256.png",
-  "character": "Dr. Mog",
-  "name": "Zenith Marine Expanse",
-  "name_jp": "究極マリンフィールド",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "Core",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single-target Water/NE magic attacks (? each) capped at 19999, grants [Quick Water] to party, [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] & [Zenith Mode: Dr. Mog (Water)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Dr. Mog's Water Vortex+",
       "text": "Six single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "23060146",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060146/23060146_256.png",
+  "character": "Dr. Mog",
+  "name": "Zenith Marine Expanse",
+  "name_jp": "究極マリンフィールド",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "Core",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single-target Water/NE magic attacks (? each) capped at 19999, grants [Quick Water] to party, [Attach Water 3 with Stacking], [Damage Cap +10000], [Zenith Mode] & [Zenith Mode: Dr. Mog (Water)] to the user"
 }

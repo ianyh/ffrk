@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +15%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +15%] for 25 seconds"
+    }
+  ],
   "id": "20360001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360001/20360001_256.png",
   "character": "Garnet",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "[ATK +15%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +15%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +15%] for 25 seconds"
-    }
-  ]
+  "effects": "[ATK +15%] for 25 seconds"
 }

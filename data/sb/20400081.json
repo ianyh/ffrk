@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Water/Wind/Earth/NE physical attacks at Cap Break Level 1, Lv.2 En-Fire, Lv.2 En-Water, Lv.2 En-Wind or Lv.2 En-Earth Stack, Cap Break Level 1, Fire/Water/Wind/Earth Damage +30%, Quick Fire/Water/Wind/Earth & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Water/Wind/Earth +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Fire/Water/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Crystal Shimmer+ II: 6 hits\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Water/Wind/Earth/NE physical attacks at Cap Break Level 1, Lv.2 En-Fire, Lv.2 En-Water, Lv.2 En-Wind or Lv.2 En-Earth Stack, Cap Break Level 1, Fire/Water/Wind/Earth Damage +30%, Quick Fire/Water/Wind/Earth & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Water/Wind/Earth +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Fire/Water/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Crystal Shimmer+ II: 6 hits\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
   "id": "20400081",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400081/20400081_256.png",
   "character": "Bartz",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/Water/Wind/Earth/NE physical attacks at Cap Break Level 1, Lv.2 En-Fire, Lv.2 En-Water, Lv.2 En-Wind or Lv.2 En-Earth Stack, Cap Break Level 1, Fire/Water/Wind/Earth Damage +30%, Quick Fire/Water/Wind/Earth & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Water/Wind/Earth +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Fire/Water/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Crystal Shimmer+ II: 6 hits\nUltimate Vitality Mode: +1500 max HP & Astra to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Water/Wind/Earth/NE physical attacks at Cap Break Level 1, Lv.2 En-Fire, Lv.2 En-Water, Lv.2 En-Wind or Lv.2 En-Earth Stack, Cap Break Level 1, Fire/Water/Wind/Earth Damage +30%, Quick Fire/Water/Wind/Earth & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Water/Wind/Earth +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Fire/Water/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Crystal Shimmer+ II: 6 hits\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Water/Wind/Earth/NE physical attacks at Cap Break Level 1, Lv.2 En-Fire, Lv.2 En-Water, Lv.2 En-Wind or Lv.2 En-Earth Stack, Cap Break Level 1, Fire/Water/Wind/Earth Damage +30%, Quick Fire/Water/Wind/Earth & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Water/Wind/Earth +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Fire/Water/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Crystal Shimmer+ II: 6 hits\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ]
+  "effects": "7 single-target Fire/Water/Wind/Earth/NE physical attacks at Cap Break Level 1, Lv.2 En-Fire, Lv.2 En-Water, Lv.2 En-Wind or Lv.2 En-Earth Stack, Cap Break Level 1, Fire/Water/Wind/Earth Damage +30%, Quick Fire/Water/Wind/Earth & Ultimate Mode to user\nUltimate Spirit Mode: En-Fire/Water/Wind/Earth +20% & Physical Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Fire/Water/Wind/Earth, Higher Multiplier & Zero Hone Cost to Hero Ability; Crystal Shimmer+ II: 6 hits\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

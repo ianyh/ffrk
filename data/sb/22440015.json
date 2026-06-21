@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Manufacted Marvel (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Potion Prince Mode II (Larsa)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Manufacted Marvel (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Potion Prince Mode II (Larsa)] to the user"
+    }
+  ],
   "id": "22440015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440015/22440015_256.png",
   "character": "Larsa",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Potion Prince Mode II (Larsa)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Potion Prince Mode II (Larsa)] to the user"
-    }
-  ]
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user"
 }

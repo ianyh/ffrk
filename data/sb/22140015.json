@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Tactics Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Tactics Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
+    }
+  ],
   "id": "22140015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22140015/22140015_256.png",
   "character": "Ramza",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Tactics Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Tactics Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Tactics Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
-    }
-  ]
+  "effects": "Activates Tactics Chain (max 150, field +50%), grants [Haste], [ATK and MAG +30%] for 25 seconds"
 }

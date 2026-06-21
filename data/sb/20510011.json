@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga], [Last Stand] and [Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga], [Last Stand] and [Quick Cast 2]"
+    }
+  ],
   "id": "20510011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510011/20510011_256.png",
   "character": "Selphie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Regenga], [Last Stand] and [Quick Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Regenga], [Last Stand] and [Quick Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Regenga], [Last Stand] and [Quick Cast 2]"
-    }
-  ]
+  "effects": "Grants [Regenga], [Last Stand] and [Quick Cast 2]"
 }

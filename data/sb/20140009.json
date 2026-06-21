@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [Astra] and [HP Stock (2000)] to all allies, grants [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste], [Astra] and [HP Stock (2000)] to all allies, grants [Instant Cast 2] to the user"
+    }
+  ],
   "id": "20140009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140009/20140009_256.png",
   "character": "Tyro",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Haste], [Astra] and [HP Stock (2000)] to all allies, grants [Instant Cast 2] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Haste], [Astra] and [HP Stock (2000)] to all allies, grants [Instant Cast 2] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Haste], [Astra] and [HP Stock (2000)] to all allies, grants [Instant Cast 2] to the user"
-    }
-  ]
+  "effects": "Grants [Haste], [Astra] and [HP Stock (2000)] to all allies, grants [Instant Cast 2] to the user"
 }

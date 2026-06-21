@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Nine single attacks (1.95 each), grants [Magical Quick Cast 4] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Nine single attacks (1.95 each), grants [Magical Quick Cast 4] to the user"
+    }
+  ],
   "id": "22750002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22750002/22750002_256.png",
   "character": "Meia",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Nine single attacks (1.95 each), grants [Magical Quick Cast 4] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Nine single attacks (1.95 each), grants [Magical Quick Cast 4] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Nine single attacks (1.95 each), grants [Magical Quick Cast 4] to the user"
-    }
-  ]
+  "effects": "Nine single attacks (1.95 each), grants [Magical Quick Cast 4] to the user"
 }

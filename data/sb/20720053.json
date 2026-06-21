@@ -1,21 +1,4 @@
 {
-  "id": "20720053",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720053/20720053_256.png",
-  "character": "Strago",
-  "name": "Zenith Raging Tempest",
-  "name_jp": "究極レイジテンペスト",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "VI",
-  "elements": [
-    "Water",
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Strago], [Soul Break Gauge +250], [Instant ATB 1], [Instant Cast 1] to user. Grants [Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] based on if entry damage was Water/Wind.",
   "description": [
     {
       "name": "Entry",
@@ -75,5 +58,22 @@
       "name": "Aqua Breath+",
       "text": "Six single attacks (3.80/3.95 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "20720053",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720053/20720053_256.png",
+  "character": "Strago",
+  "name": "Zenith Raging Tempest",
+  "name_jp": "究極レイジテンペスト",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "VI",
+  "elements": [
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Strago], [Soul Break Gauge +250], [Instant ATB 1], [Instant Cast 1] to user. Grants [Attach Water 2 with Stacking]/[Attach Wind 2 with Stacking] based on if entry damage was Water/Wind."
 }

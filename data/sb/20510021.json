@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to all enemies, grants [Quick Cast 3] to all allies, grants [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to all enemies, grants [Quick Cast 3] to all allies, grants [200% ATB 1] to the user"
+    }
+  ],
   "id": "20510021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510021/20510021_256.png",
   "character": "Selphie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to all enemies, grants [Quick Cast 3] to all allies, grants [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to all enemies, grants [Quick Cast 3] to all allies, grants [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to all enemies, grants [Quick Cast 3] to all allies, grants [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (8s)] to all enemies, grants [Quick Cast 3] to all allies, grants [200% ATB 1] to the user"
 }

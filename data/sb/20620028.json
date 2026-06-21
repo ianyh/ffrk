@@ -1,17 +1,4 @@
 {
-  "id": "20620028",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620028/20620028_256.png",
-  "character": "Eiko",
-  "name": "Zenith Healing Melody",
-  "name_jp": "究極癒しの旋律",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IX",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [High Quick Cast 3], and [Ultimate Re-Cure] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Eiko (White Magic)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -75,5 +62,18 @@
       "name": "Spirit Attack: Eiko (White Magic)",
       "text": "Grants [HP Stock (2000)] to all allies"
     }
-  ]
+  ],
+  "id": "20620028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620028/20620028_256.png",
+  "character": "Eiko",
+  "name": "Zenith Healing Melody",
+  "name_jp": "究極癒しの旋律",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [High Quick Cast 3], and [Ultimate Re-Cure] to all allies, grants [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Eiko (White Magic)] to the user"
 }

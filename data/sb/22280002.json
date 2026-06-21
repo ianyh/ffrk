@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twelve single attacks (0.44 each), causes [Stun] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twelve single attacks (0.44 each), causes [Stun] (100%)"
+    }
+  ],
   "id": "22280002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280002/22280002_256.png",
   "character": "Wol",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Twelve single attacks (0.44 each), causes [Stun] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Twelve single attacks (0.44 each), causes [Stun] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Twelve single attacks (0.44 each), causes [Stun] (100%)"
-    }
-  ]
+  "effects": "Twelve single attacks (0.44 each), causes [Stun] (100%)"
 }

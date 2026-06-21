@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.33 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single attacks (1.33 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20400006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400006/20400006_256.png",
   "character": "Bartz",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single attacks (1.33 each), grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (1.33 each), grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single attacks (1.33 each), grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Six single attacks (1.33 each), grants [Haste] and [Burst Mode] to the user"
 }

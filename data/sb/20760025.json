@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE ranged physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist/Support Ability Boost, Quick Machinist/Support, Zero Hone Cost to Machinist/Support Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Fire/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Weakness Damage +50% & Instant Cast] for 1 turn to party, [Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/NE ranged physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist/Support Ability Boost, Quick Machinist/Support, Zero Hone Cost to Machinist/Support Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Fire/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Weakness Damage +50% & Instant Cast] for 1 turn to party, [Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
   "id": "20760025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760025/20760025_256.png",
   "character": "Barret",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/NE ranged physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist/Support Ability Boost, Quick Machinist/Support, Zero Hone Cost to Machinist/Support Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Fire/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Weakness Damage +50% & Instant Cast] for 1 turn to party, [Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/NE ranged physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist/Support Ability Boost, Quick Machinist/Support, Zero Hone Cost to Machinist/Support Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Fire/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Weakness Damage +50% & Instant Cast] for 1 turn to party, [Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/NE ranged physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist/Support Ability Boost, Quick Machinist/Support, Zero Hone Cost to Machinist/Support Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Fire/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Weakness Damage +50% & Instant Cast] for 1 turn to party, [Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ]
+  "effects": "7 single-target Fire/NE ranged physical attacks at Cap Break Level 1, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist/Support Ability Boost, Quick Machinist/Support, Zero Hone Cost to Machinist/Support Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Fire/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Weakness Damage +50% & Instant Cast] for 1 turn to party, [Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
 }

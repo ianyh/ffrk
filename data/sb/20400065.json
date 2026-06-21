@@ -1,20 +1,4 @@
 {
-  "id": "20400065",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400065/20400065_256.png",
-  "character": "Bartz",
-  "name": "Zenith Aqueous Bond",
-  "name_jp": "究極水のきずな",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "V",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Zenith Mode], [Zenith Mode: Bartz (Water)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Bartz (Water)",
       "text": "Grants [100% Critical 5] and [Spellblade Instant Cast 5] to the user"
     }
-  ]
+  ],
+  "id": "20400065",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400065/20400065_256.png",
+  "character": "Bartz",
+  "name": "Zenith Aqueous Bond",
+  "name_jp": "究極水のきずな",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "V",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water 3 with Stacking], [Zenith Mode], [Zenith Mode: Bartz (Water)] and [Damage Cap +10000] to the user"
 }

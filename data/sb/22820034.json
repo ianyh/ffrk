@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Transparent Frenzy (Weapon Skill)",
+      "text": "Single-target Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% critical rate\nWS Blue: [During Tactical Awoken Mode, Damage +50% & ATB Speed x1.3 to Lightning Abilities] to user\nWS Gold: [Deadly Strikes +20% to party]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Transparent Frenzy (Weapon Skill)",
+      "text": "Single-target Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% critical rate\nWS Blue: [During Tactical Awoken Mode, Damage +50% & ATB Speed x1.3 to Lightning Abilities] to user\nWS Gold: [Deadly Strikes +20% to party]"
+    }
+  ],
   "id": "22820034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820034/22820034_256.png",
   "character": "Shelke",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE physical attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% critical rate\nWS Blue: [During Tactical Awoken Mode, Damage +50% & ATB Speed x1.3 to Lightning Abilities] to user\nWS Gold: [Deadly Strikes +20% to party]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least 0/100% critical rate\nWS Blue: [During Tactical Awoken Mode, Damage +50% & ATB Speed x1.3 to Lightning Abilities] to user\nWS Gold: [Deadly Strikes +20% to party]"
-    }
-  ]
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE physical attack at True Cap Break Level 1"
 }

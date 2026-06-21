@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Brave Mode] to the user"
+    }
+  ],
   "id": "20420009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420009/20420009_256.png",
   "character": "Arc",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (85), [RES +100%] for 25 seconds, grants [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (85), [RES +100%] for 25 seconds, grants [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Restores HP (85), [RES +100%] for 25 seconds, grants [Brave Mode] to the user"
 }

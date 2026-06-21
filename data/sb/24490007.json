@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single jump attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [No Air Time] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single jump attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [No Air Time] to the user"
+    }
+  ],
   "id": "24490007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490007/24490007_256.png",
   "character": "Kimahri",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single jump attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [No Air Time] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single jump attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [No Air Time] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single jump attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [No Air Time] to the user"
-    }
-  ]
+  "effects": "Fifteen single jump attacks (0.60 each), grants [Attach Water], [Awoken Water], [Damage Cap +10000] and [No Air Time] to the user"
 }

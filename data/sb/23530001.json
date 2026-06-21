@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.30)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.30)"
+    }
+  ],
   "id": "23530001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530001/23530001_256.png",
   "character": "Ravus",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.30)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.30)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.30)"
-    }
-  ]
+  "effects": "One single attack (1.30)"
 }

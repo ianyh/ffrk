@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Attach Earth with Stacking] or [Attach Wind with Stacking] if the entry damage was Dark/Earth/Wind, grants [Crystal Force Mode], [Crystal Force Mode: Emperor] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Attach Earth with Stacking] or [Attach Wind with Stacking] if the entry damage was Dark/Earth/Wind, grants [Crystal Force Mode], [Crystal Force Mode: Emperor] and [Damage Cap +10000] to the user"
+    }
+  ],
   "id": "22640026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640026/22640026_256.png",
   "character": "Emperor",
@@ -16,17 +28,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Attach Earth with Stacking] or [Attach Wind with Stacking] if the entry damage was Dark/Earth/Wind, grants [Crystal Force Mode], [Crystal Force Mode: Emperor] and [Damage Cap +10000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Attach Earth with Stacking] or [Attach Wind with Stacking] if the entry damage was Dark/Earth/Wind, grants [Crystal Force Mode], [Crystal Force Mode: Emperor] and [Damage Cap +10000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Attach Earth with Stacking] or [Attach Wind with Stacking] if the entry damage was Dark/Earth/Wind, grants [Crystal Force Mode], [Crystal Force Mode: Emperor] and [Damage Cap +10000] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Attach Earth with Stacking] or [Attach Wind with Stacking] if the entry damage was Dark/Earth/Wind, grants [Crystal Force Mode], [Crystal Force Mode: Emperor] and [Damage Cap +10000] to the user"
 }

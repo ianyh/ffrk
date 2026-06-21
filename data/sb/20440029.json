@@ -1,20 +1,4 @@
 {
-  "id": "20440029",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440029/20440029_256.png",
-  "character": "Balthier",
-  "name": "Zenith Gatling Gun",
-  "name_jp": "究極魔審銃",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Balthier (Fire)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Balthier",
       "text": "Causes [Imperil Fire 10% (5s)]/[Fire Ability +30% Boost 1] and [Quick Cast 1] to the user if target's Fire Weakness is 0%-40%/50%+"
     }
-  ]
+  ],
+  "id": "20440029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440029/20440029_256.png",
+  "character": "Balthier",
+  "name": "Zenith Gatling Gun",
+  "name_jp": "究極魔審銃",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Balthier (Fire)] to the user"
 }

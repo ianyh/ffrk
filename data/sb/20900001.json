@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +30%] for 25 seconds, grants [High Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +30%] for 25 seconds, grants [High Regen]"
+    }
+  ],
   "id": "20900001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900001/20900001_256.png",
   "character": "Mog",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK +30%] for 25 seconds, grants [High Regen]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +30%] for 25 seconds, grants [High Regen]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +30%] for 25 seconds, grants [High Regen]"
-    }
-  ]
+  "effects": "[ATK +30%] for 25 seconds, grants [High Regen]"
 }

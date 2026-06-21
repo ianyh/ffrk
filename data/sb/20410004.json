@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six random attacks (1.32 each), 1.43 multiplier if the target has [Blind] or [Slow], causes [Blind] (100%) and [Slow] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six random attacks (1.32 each), 1.43 multiplier if the target has [Blind] or [Slow], causes [Blind] (100%) and [Slow] (100%)"
+    }
+  ],
   "id": "20410004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20410004/20410004_256.png",
   "character": "Irvine",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Six random attacks (1.32 each), 1.43 multiplier if the target has [Blind] or [Slow], causes [Blind] (100%) and [Slow] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six random attacks (1.32 each), 1.43 multiplier if the target has [Blind] or [Slow], causes [Blind] (100%) and [Slow] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six random attacks (1.32 each), 1.43 multiplier if the target has [Blind] or [Slow], causes [Blind] (100%) and [Slow] (100%)"
-    }
-  ]
+  "effects": "Six random attacks (1.32 each), 1.43 multiplier if the target has [Blind] or [Slow], causes [Blind] (100%) and [Slow] (100%)"
 }

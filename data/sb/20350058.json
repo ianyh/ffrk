@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Switch Draw Mode II (Fire, Ice)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Switch Draw Mode II (Fire, Ice)], [Instant ATB 1], and [Instant Cast 2]"
+    }
+  ],
   "id": "20350058",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350058/20350058_256.png",
   "character": "Squall",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Switch Draw Mode II (Fire, Ice)], [Instant ATB 1], and [Instant Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Switch Draw Mode II (Fire, Ice)], [Instant ATB 1], and [Instant Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Switch Draw Mode II (Fire, Ice)], [Instant ATB 1], and [Instant Cast 2]"
-    }
-  ]
+  "effects": "Grants [Switch Draw Mode II (Fire, Ice)], [Instant ATB 1], and [Instant Cast 2]"
 }

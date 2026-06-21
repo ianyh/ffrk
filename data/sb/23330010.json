@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Cause [ATK, MAG, DEF and RES -70% (8s)] to all targets, Quick Cast, Weakness Damage +30% & Quick ATB 1 to party, Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases 3 White Magic/Bard abilities with [ATK, MAG, DEF and RES -70% (8s)] to all targets (max 1 chase)\nUltimate Dexterity Mode: Zero Hone Cost to Hero Ability; Celestial Stasis+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Cause [ATK, MAG, DEF and RES -70% (8s)] to all targets, Quick Cast, Weakness Damage +30% & Quick ATB 1 to party, Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases 3 White Magic/Bard abilities with [ATK, MAG, DEF and RES -70% (8s)] to all targets (max 1 chase)\nUltimate Dexterity Mode: Zero Hone Cost to Hero Ability; Celestial Stasis+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
   "id": "23330010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23330010/23330010_256.png",
   "character": "Orran",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "Cause [ATK, MAG, DEF and RES -70% (8s)] to all targets, Quick Cast, Weakness Damage +30% & Quick ATB 1 to party, Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases 3 White Magic/Bard abilities with [ATK, MAG, DEF and RES -70% (8s)] to all targets (max 1 chase)\nUltimate Dexterity Mode: Zero Hone Cost to Hero Ability; Celestial Stasis+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Cause [ATK, MAG, DEF and RES -70% (8s)] to all targets, Quick Cast, Weakness Damage +30% & Quick ATB 1 to party, Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases 3 White Magic/Bard abilities with [ATK, MAG, DEF and RES -70% (8s)] to all targets (max 1 chase)\nUltimate Dexterity Mode: Zero Hone Cost to Hero Ability; Celestial Stasis+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Cause [ATK, MAG, DEF and RES -70% (8s)] to all targets, Quick Cast, Weakness Damage +30% & Quick ATB 1 to party, Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases 3 White Magic/Bard abilities with [ATK, MAG, DEF and RES -70% (8s)] to all targets (max 1 chase)\nUltimate Dexterity Mode: Zero Hone Cost to Hero Ability; Celestial Stasis+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ]
+  "effects": "Cause [ATK, MAG, DEF and RES -70% (8s)] to all targets, Quick Cast, Weakness Damage +30% & Quick ATB 1 to party, Ultimate Mode to user\nUltimate Spirit Mode: White Magic/Bard Casting Speed x1.1 & chases 3 White Magic/Bard abilities with [ATK, MAG, DEF and RES -70% (8s)] to all targets (max 1 chase)\nUltimate Dexterity Mode: Zero Hone Cost to Hero Ability; Celestial Stasis+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

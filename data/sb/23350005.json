@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga]"
+    }
+  ],
   "id": "23350005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23350005/23350005_256.png",
   "character": "Lilisette",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Regenga]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Regenga]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Regenga]"
-    }
-  ]
+  "effects": "Grants [Regenga]"
 }

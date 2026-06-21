@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Mass Mimicry (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Mass Mimicry (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]"
+    }
+  ],
   "id": "22930009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930009/22930009_256.png",
   "character": "Gogo (VI)",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]"
-    }
-  ]
+  "effects": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user"
 }

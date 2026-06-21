@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 ATK to user, grants Quick ATB 2 to user & Ursula if Ursula is in party\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Rock-Breaking Fist (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Earth;\nWS Blue: Grants [Lv.2 En-Earth Stack] to user\nWS Gold: Grants [Dualcast Monk 4 & Weakness Damage +30% for 4 turns to user & Ursula]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 ATK to user, grants Quick ATB 2 to user & Ursula if Ursula is in party\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Rock-Breaking Fist (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Earth;\nWS Blue: Grants [Lv.2 En-Earth Stack] to user\nWS Gold: Grants [Dualcast Monk 4 & Weakness Damage +30% for 4 turns to user & Ursula]"
+    }
+  ],
   "id": "22340026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22340026/22340026_256.png",
   "character": "Yang",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants Tactical Awoken Mode & +500 ATK to user, grants Quick ATB 2 to user & Ursula if Ursula is in party\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants Tactical Awoken Mode & +500 ATK to user, grants Quick ATB 2 to user & Ursula if Ursula is in party\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Earth;\nWS Blue: Grants [Lv.2 En-Earth Stack] to user\nWS Gold: Grants [Dualcast Monk 4 & Weakness Damage +30% for 4 turns to user & Ursula]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants Tactical Awoken Mode & +500 ATK to user, grants Quick ATB 2 to user & Ursula if Ursula is in party\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Earth Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Earth;\nWS Blue: Grants [Lv.2 En-Earth Stack] to user\nWS Gold: Grants [Dualcast Monk 4 & Weakness Damage +30% for 4 turns to user & Ursula]"
-    }
-  ]
+  "effects": "Grants Tactical Awoken Mode & +500 ATK to user, grants Quick ATB 2 to user & Ursula if Ursula is in party\nTactical Awoken Mode: Earth Ability Boost, Triplecast Earth, Unlimited Earth Hones, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities\nTP Max: AOE Earth/NE physical attack at True Cap Break Level 1"
 }

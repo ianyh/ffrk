@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Reraise: 40%], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Reraise: 40%], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20200007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200007/20200007_256.png",
   "character": "Lenna",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (55), grants [Reraise: 40%], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [Reraise: 40%], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [Reraise: 40%], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Restores HP (55), grants [Reraise: 40%], [RES and MND +30%] to the user for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

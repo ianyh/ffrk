@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 150, field +30%), [ATK +30% (25s)] or [MAG +30% (25s)] depending on whether the user's ATK or MAG is higher"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 150, field +30%), [ATK +30% (25s)] or [MAG +30% (25s)] depending on whether the user's ATK or MAG is higher"
+    }
+  ],
   "id": "20920024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920024/20920024_256.png",
   "character": "Reno",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Lightning Chain (max 150, field +30%), [ATK +30% (25s)] or [MAG +30% (25s)] depending on whether the user's ATK or MAG is higher",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Lightning Chain (max 150, field +30%), [ATK +30% (25s)] or [MAG +30% (25s)] depending on whether the user's ATK or MAG is higher"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Lightning Chain (max 150, field +30%), [ATK +30% (25s)] or [MAG +30% (25s)] depending on whether the user's ATK or MAG is higher"
-    }
-  ]
+  "effects": "Activates Lightning Chain (max 150, field +30%), [ATK +30% (25s)] or [MAG +30% (25s)] depending on whether the user's ATK or MAG is higher"
 }

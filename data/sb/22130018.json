@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Captain's Fury Mode I (Leila - Poison)], [Awoken Poison Cloud XVI] and [Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Poison Cloud XVI (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Captain's Fury Mode II (Leila - Poison)], removes [Dual Awoken Captain's Fury Mode I (Leila - Poison)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Captain's Fury Mode I (Leila - Poison)], [Awoken Poison Cloud XVI] and [Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Poison Cloud XVI (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Captain's Fury Mode II (Leila - Poison)], removes [Dual Awoken Captain's Fury Mode I (Leila - Poison)]"
+    }
+  ],
   "id": "22130018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130018/22130018_256.png",
   "character": "Leila",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Captain's Fury Mode I (Leila - Poison)], [Awoken Poison Cloud XVI] and [Poison Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Captain's Fury Mode I (Leila - Poison)], [Awoken Poison Cloud XVI] and [Poison Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Captain's Fury Mode II (Leila - Poison)], removes [Dual Awoken Captain's Fury Mode I (Leila - Poison)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Captain's Fury Mode I (Leila - Poison)], [Awoken Poison Cloud XVI] and [Poison Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Captain's Fury Mode II (Leila - Poison)], removes [Dual Awoken Captain's Fury Mode I (Leila - Poison)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [50% Critical (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Captain's Fury Mode I (Leila - Poison)], [Awoken Poison Cloud XVI] and [Poison Resonance +5% Boost] to the user"
 }

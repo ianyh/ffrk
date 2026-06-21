@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark Stacking], [Attach Dark] and [HP Stock (6000)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark Stacking], [Attach Dark] and [HP Stock (6000)]"
+    }
+  ],
   "id": "20580008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580008/20580008_256.png",
   "character": "Leon",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Dark Stacking], [Attach Dark] and [HP Stock (6000)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Dark Stacking], [Attach Dark] and [HP Stock (6000)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Dark Stacking], [Attach Dark] and [HP Stock (6000)]"
-    }
-  ]
+  "effects": "Grants [Attach Dark Stacking], [Attach Dark] and [HP Stock (6000)]"
 }

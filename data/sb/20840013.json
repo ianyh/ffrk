@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Instant Cast 3], damages the user for 99% current HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Haste] and [Instant Cast 3], damages the user for 99% current HP"
+    }
+  ],
   "id": "20840013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840013/20840013_256.png",
   "character": "Quina",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Haste] and [Instant Cast 3], damages the user for 99% current HP",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Haste] and [Instant Cast 3], damages the user for 99% current HP"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Haste] and [Instant Cast 3], damages the user for 99% current HP"
-    }
-  ]
+  "effects": "Grants [Haste] and [Instant Cast 3], damages the user for 99% current HP"
 }

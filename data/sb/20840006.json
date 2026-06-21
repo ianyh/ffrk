@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "ATK +50% for 25 seconds, grants [Protect], [Shell] and [Haste]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "ATK +50% for 25 seconds, grants [Protect], [Shell] and [Haste]"
+    }
+  ],
   "id": "20840006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840006/20840006_256.png",
   "character": "Quina",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "ATK +50% for 25 seconds, grants [Protect], [Shell] and [Haste]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "ATK +50% for 25 seconds, grants [Protect], [Shell] and [Haste]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "ATK +50% for 25 seconds, grants [Protect], [Shell] and [Haste]"
-    }
-  ]
+  "effects": "ATK +50% for 25 seconds, grants [Protect], [Shell] and [Haste]"
 }

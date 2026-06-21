@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (4.80)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged attack (4.80)"
+    }
+  ],
   "id": "20330002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330002/20330002_256.png",
   "character": "Warrior of Light",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single ranged attack (4.80)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (4.80)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged attack (4.80)"
-    }
-  ]
+  "effects": "One single ranged attack (4.80)"
 }

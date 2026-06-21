@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (1.15 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (1.15 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20600005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600005/20600005_256.png",
   "character": "Lightning",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Seven single attacks (1.15 each), grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (1.15 each), grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (1.15 each), grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (1.15 each), grants [Haste] and [Burst Mode] to the user"
 }

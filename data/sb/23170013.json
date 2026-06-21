@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Alpha Wolf], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Quick Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Alpha Wolf], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Quick Cast 2] to the user"
+    }
+  ],
   "id": "23170013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170013/23170013_256.png",
   "character": "Kelger",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Alpha Wolf], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Quick Cast 2] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Alpha Wolf], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Quick Cast 2] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Alpha Wolf], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Quick Cast 2] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth with Stacking], [Awoken Alpha Wolf], [Damage Cap +10000], [Physical Blink Stacking 2], [Physical Blink 2] and [Quick Cast 2] to the user"
 }

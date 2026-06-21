@@ -1,24 +1,11 @@
 {
-  "id": "20460013",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460013/20460013_256.png",
-  "character": "Ricard",
-  "name": "Apex Last Dragoon",
-  "name_jp": "ラストドラグーン・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "II",
-  "elements": [],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Last Dragoon level 0/1, removes Arcane Dyad Empowered: Ricard from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Last Dragoon level 0/1, removes Arcane Dyad Empowered: Ricard from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Last Dragoon (Engaged)",
       "text": "Grants [Damage Cap +10000], [Quad Element Mode (Wind/Lightning/Water/Dark], [Arcane Dyad Empowered: Ricard], [Apex Last Dragoon Damage Tracker], [Apex Last Dragoon Level] "
     }
   ],
@@ -28,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Apex Last Dragoon level 0/1, removes Arcane Dyad Empowered: Ricard from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Last Dragoon (Engaged)",
       "text": "Grants [Damage Cap +10000], [Quad Element Mode (Wind/Lightning/Water/Dark], [Arcane Dyad Empowered: Ricard], [Apex Last Dragoon Damage Tracker], [Apex Last Dragoon Level] "
     }
-  ]
+  ],
+  "id": "20460013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460013/20460013_256.png",
+  "character": "Ricard",
+  "name": "Apex Last Dragoon (Engaged)",
+  "name_jp": "ラストドラグーン・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Damage Cap +10000], [Quad Element Mode (Wind/Lightning/Water/Dark], [Arcane Dyad Empowered: Ricard], [Apex Last Dragoon Damage Tracker], [Apex Last Dragoon Level] "
 }

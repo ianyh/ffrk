@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Lightning/NE magic attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Lightning abilities, chases with 6 single-target Lightning/NE magic attacks (max 2 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single-target Lightning/NE magic attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Lightning abilities, chases with 6 single-target Lightning/NE magic attacks (max 2 chases)"
+    }
+  ],
   "id": "22670035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670035/22670035_256.png",
   "character": "Cloud of Darkness",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single-target Lightning/NE magic attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Lightning abilities, chases with 6 single-target Lightning/NE magic attacks (max 2 chases)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Lightning/NE magic attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Lightning abilities, chases with 6 single-target Lightning/NE magic attacks (max 2 chases)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single-target Lightning/NE magic attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Lightning abilities, chases with 6 single-target Lightning/NE magic attacks (max 2 chases)"
-    }
-  ]
+  "effects": "10 single-target Lightning/NE magic attacks at Cap Break Level 1, activates Lightning Chain (150 or +25), Chain Force Mode & Instant ATB 1 to user\nChain Force Mode: After using Lightning abilities, chases with 6 single-target Lightning/NE magic attacks (max 2 chases)"
 }

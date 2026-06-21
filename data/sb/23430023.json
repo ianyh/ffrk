@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [200% ATB 1], [Soul Break Gauge +250], and [Tri-Element Mode II (Fire, Ice, Water)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [200% ATB 1], [Soul Break Gauge +250], and [Tri-Element Mode II (Fire, Ice, Water)] to the user"
+    }
+  ],
   "id": "23430023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430023/23430023_256.png",
   "character": "Trey",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [200% ATB 1], [Soul Break Gauge +250], and [Tri-Element Mode II (Fire, Ice, Water)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [200% ATB 1], [Soul Break Gauge +250], and [Tri-Element Mode II (Fire, Ice, Water)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [200% ATB 1], [Soul Break Gauge +250], and [Tri-Element Mode II (Fire, Ice, Water)] to the user"
-    }
-  ]
+  "effects": "Grants [200% ATB 1], [Soul Break Gauge +250], and [Tri-Element Mode II (Fire, Ice, Water)] to the user"
 }

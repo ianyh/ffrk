@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Soul Break Gauge +500] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Soul Break Gauge +500] to the user"
+    }
+  ],
   "id": "22820016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820016/22820016_256.png",
   "character": "Shelke",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Soul Break Gauge +500] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Soul Break Gauge +500] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Soul Break Gauge +500] to the user"
-    }
-  ]
+  "effects": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Soul Break Gauge +500] to the user"
 }

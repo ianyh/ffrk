@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Josef], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Masterly Icefist (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Ice Damage Cap +20000 (Tactical)], [Ice Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Buff Ice 30% (15s)] to all allies/[Deadly Strikes +20% (15s)] to all allies if there are 0-3/4+ Monk/FFII allies in the party."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Josef], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Masterly Icefist (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [Ice Damage Cap +20000 (Tactical)], [Ice Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Buff Ice 30% (15s)] to all allies/[Deadly Strikes +20% (15s)] to all allies if there are 0-3/4+ Monk/FFII allies in the party."
+    }
+  ],
   "id": "20190038",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190038/20190038_256.png",
   "character": "Josef",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Josef], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Josef], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999. Grants [Ice Damage Cap +20000 (Tactical)], [Ice Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Buff Ice 30% (15s)] to all allies/[Deadly Strikes +20% (15s)] to all allies if there are 0-3/4+ Monk/FFII allies in the party."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Josef], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999. Grants [Ice Damage Cap +20000 (Tactical)], [Ice Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Buff Ice 30% (15s)] to all allies/[Deadly Strikes +20% (15s)] to all allies if there are 0-3/4+ Monk/FFII allies in the party."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Josef], [ATK +500 (25s) (Tactical)] to user."
 }

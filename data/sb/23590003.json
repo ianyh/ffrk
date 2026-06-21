@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants [Attach Ice with Stacking], Cap Break Level 1, [200% ATB], Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Ice, Ice Ability Damage +30% & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants [Attach Ice with Stacking], Cap Break Level 1, [200% ATB], Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Ice, Ice Ability Damage +30% & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
   "id": "23590003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23590003/23590003_256.png",
   "character": "Jill",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks at Cap Break Level 1, grants [Attach Ice with Stacking], Cap Break Level 1, [200% ATB], Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Ice, Ice Ability Damage +30% & 50% DEF/RES Pierce] for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks at Cap Break Level 1, grants [Attach Ice with Stacking], Cap Break Level 1, [200% ATB], Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Ice, Ice Ability Damage +30% & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks at Cap Break Level 1, grants [Attach Ice with Stacking], Cap Break Level 1, [200% ATB], Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Ice, Ice Ability Damage +30% & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ]
+  "effects": "Seven single attacks at Cap Break Level 1, grants [Attach Ice with Stacking], Cap Break Level 1, [200% ATB], Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Ice/NE magic attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Ice, Ice Ability Damage +30% & 50% DEF/RES Pierce] for 1 turn to user"
 }

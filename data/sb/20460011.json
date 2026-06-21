@@ -1,23 +1,4 @@
 {
-  "id": "20460011",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460011/20460011_256.png",
-  "character": "Ricard",
-  "name": "Zenith Dragoon Rising",
-  "name_jp": "究極リベリオンダイブ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "II",
-  "elements": [
-    "Wind",
-    "Lightning",
-    "Water",
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single ranged jump attacks (0.60 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Dark 2 with Stacking] to the user if entry damage was Wind/Lightning/Water/Dark, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Ricard (Wind, Lightning, Water, Dark)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -81,5 +62,24 @@
       "name": "Spirit Attack: Ricard (Lightning, Wind, Water, Dark)",
       "text": "Grants [Dragoon Dualcast 1], [Dragoon +30% Boost 1], [Dragoon Instant Cast 1], [No Air Time 1] to all allies if 4+ Dragoon members alive, Grants [Dragoon Dualcast 1], [Dragoon +30% Boost 1], [Dragoon Instant Cast 1] to the user if 0-3 Dragoon members alive"
     }
-  ]
+  ],
+  "id": "20460011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460011/20460011_256.png",
+  "character": "Ricard",
+  "name": "Zenith Dragoon Rising",
+  "name_jp": "究極リベリオンダイブ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "II",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "Water",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged jump attacks (0.60 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Dark 2 with Stacking] to the user if entry damage was Wind/Lightning/Water/Dark, grants [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Ricard (Wind, Lightning, Water, Dark)] to the user"
 }

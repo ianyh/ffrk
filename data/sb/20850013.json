@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Bestial Power Mode I (Gau)], [Dual Wildling Life Mode] and [Celerity/Combat Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken On the Rampage (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Bestial Power Mode II (Gau)], removes [Dual Awoken Bestial Power Mode I (Gau)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Bestial Power Mode I (Gau)], [Dual Wildling Life Mode] and [Celerity/Combat Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken On the Rampage (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Bestial Power Mode II (Gau)], removes [Dual Awoken Bestial Power Mode I (Gau)]"
+    }
+  ],
   "id": "20850013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850013/20850013_256.png",
   "character": "Gau",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Bestial Power Mode I (Gau)], [Dual Wildling Life Mode] and [Celerity/Combat Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Bestial Power Mode I (Gau)], [Dual Wildling Life Mode] and [Celerity/Combat Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Bestial Power Mode II (Gau)], removes [Dual Awoken Bestial Power Mode I (Gau)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Bestial Power Mode I (Gau)], [Dual Wildling Life Mode] and [Celerity/Combat Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Bestial Power Mode II (Gau)], removes [Dual Awoken Bestial Power Mode I (Gau)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Lightning, Wind)], [Damage Cap +10000], [Dual Awoken Bestial Power Mode I (Gau)], [Dual Wildling Life Mode] and [Celerity/Combat Resonance +5% Boost] to the user"
 }

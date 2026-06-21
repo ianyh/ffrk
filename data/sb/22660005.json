@@ -1,20 +1,4 @@
 {
-  "id": "22660005",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22660005/22660005_256.png",
-  "character": "Reynn",
-  "name": "Zenith Diamond Dust",
-  "name_jp": "究極ダイヤモンドダスト",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Beyond",
-  "elements": [
-    "Ice",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and RES +30% (25s)] to all allies, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Reynn (Ice)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Spirit Attack: Reynn (Ice)",
       "text": "Grants [Dualcast Ice 1] to the user"
     }
-  ]
+  ],
+  "id": "22660005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22660005/22660005_256.png",
+  "character": "Reynn",
+  "name": "Zenith Diamond Dust",
+  "name_jp": "究極ダイヤモンドダスト",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Beyond",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and RES +30% (25s)] to all allies, grants [Attach Ice 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Reynn (Ice)] to the user"
 }

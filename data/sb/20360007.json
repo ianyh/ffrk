@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Lightning 20%] for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Lightning 20%] for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20360007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360007/20360007_256.png",
   "character": "Garnet",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Causes [Imperil Lightning 20%] for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Lightning 20%] for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Lightning 20%] for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Causes [Imperil Lightning 20%] for 25 seconds, [ATK and MAG +30%] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

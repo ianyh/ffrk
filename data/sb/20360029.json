@@ -1,27 +1,11 @@
 {
-  "id": "20360029",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360029/20360029_256.png",
-  "character": "Garnet",
-  "name": "Journey's End",
-  "name_jp": "長き旅の果てに",
-  "tier": "ADSB",
-  "sb_version": "ADSB2",
-  "realm": "IX",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Journey's End level 0/1/2, removes Arcane Dyad Empowered: Garnet from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Journey's End level 0/1/2, removes Arcane Dyad Empowered: Garnet from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Journey's End (Engaged)",
       "text": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Garnet], [Journey's End Damage Tracker] and [Journey's End Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Journey's End level 0/1/2, removes Arcane Dyad Empowered: Garnet from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Journey's End (Engaged)",
       "text": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Garnet], [Journey's End Damage Tracker] and [Journey's End Level]"
     }
-  ]
+  ],
+  "id": "20360029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360029/20360029_256.png",
+  "character": "Garnet",
+  "name": "Journey's End (Engaged)",
+  "name_jp": "長き旅の果てに",
+  "tier": "ADSB",
+  "sb_version": "ADSB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Garnet], [Journey's End Damage Tracker] and [Journey's End Level]"
 }

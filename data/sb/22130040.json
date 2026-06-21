@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Poison/NE physical attacks at Cap Break Level 1, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Poison Ability Boost, Dualcast Poison, Zero Hone Cost to Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE physical attacks at Cap Break Level 1, Instant Cast, [Instant Poison, Dualcast Poison & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Poison/NE physical attacks at Cap Break Level 1, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Poison Ability Boost, Dualcast Poison, Zero Hone Cost to Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE physical attacks at Cap Break Level 1, Instant Cast, [Instant Poison, Dualcast Poison & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "22130040",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130040/22130040_256.png",
   "character": "Leila",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Poison/NE physical attacks at Cap Break Level 1, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Poison Ability Boost, Dualcast Poison, Zero Hone Cost to Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE physical attacks at Cap Break Level 1, Instant Cast, [Instant Poison, Dualcast Poison & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Poison/NE physical attacks at Cap Break Level 1, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Poison Ability Boost, Dualcast Poison, Zero Hone Cost to Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE physical attacks at Cap Break Level 1, Instant Cast, [Instant Poison, Dualcast Poison & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Poison/NE physical attacks at Cap Break Level 1, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Poison Ability Boost, Dualcast Poison, Zero Hone Cost to Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE physical attacks at Cap Break Level 1, Instant Cast, [Instant Poison, Dualcast Poison & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Poison/NE physical attacks at Cap Break Level 1, En-Poison, En-Poison Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Poison Ability Boost, Dualcast Poison, Zero Hone Cost to Poison Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Poison/NE physical attacks at Cap Break Level 1, Instant Cast, [Instant Poison, Dualcast Poison & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

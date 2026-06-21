@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Monk Mode I (Master)] and [Monk Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Moment of Clarity (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Master)], removes [Dual Awoken Monk Mode I (Master)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Monk Mode I (Master)] and [Monk Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Moment of Clarity (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Master)], removes [Dual Awoken Monk Mode I (Master)]"
+    }
+  ],
   "id": "22580012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580012/22580012_256.png",
   "character": "Master",
@@ -16,25 +36,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Monk Mode I (Master)] and [Monk Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Monk Mode I (Master)] and [Monk Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Master)], removes [Dual Awoken Monk Mode I (Master)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Monk Mode I (Master)] and [Monk Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Monk Mode II (Master)], removes [Dual Awoken Monk Mode I (Master)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Rousing Charge Mode II (Fire, Lightning, Earth)], [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Monk Mode I (Master)] and [Monk Resonance +5% Boost] to the user"
 }

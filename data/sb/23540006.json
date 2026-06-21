@@ -1,30 +1,11 @@
 {
-  "id": "23540006",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540006/23540006_256.png",
-  "character": "Arciela",
-  "name": "Naakual's Vengeance",
-  "name_jp": "Nヴェンジャンス",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "XI",
-  "elements": [
-    "Ice",
-    "Lightning",
-    "Water",
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Naakual's Vengeance level 0/1, removes Arcane Dyad Empowered: Arciela from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Naakual's Vengeance level 0/1, removes Arcane Dyad Empowered: Arciela from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Naakual's Vengeance (Engaged)",
       "text": "Grants [Quad Element Mode (Ice, Lightning, Wind, Water)], [Damage Cap +10000], [Arcane Dyad Empowered: Arciela], [Naakual's Vengeance Damage Tracker] and [Naakual's Vengeance Level]"
     }
   ],
@@ -34,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Naakual's Vengeance level 0/1, removes Arcane Dyad Empowered: Arciela from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Naakual's Vengeance (Engaged)",
       "text": "Grants [Quad Element Mode (Ice, Lightning, Wind, Water)], [Damage Cap +10000], [Arcane Dyad Empowered: Arciela], [Naakual's Vengeance Damage Tracker] and [Naakual's Vengeance Level]"
     }
-  ]
+  ],
+  "id": "23540006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540006/23540006_256.png",
+  "character": "Arciela",
+  "name": "Naakual's Vengeance (Engaged)",
+  "name_jp": "Nヴェンジャンス",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Quad Element Mode (Ice, Lightning, Wind, Water)], [Damage Cap +10000], [Arcane Dyad Empowered: Arciela], [Naakual's Vengeance Damage Tracker] and [Naakual's Vengeance Level]"
 }

@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Water/NE ranged physical attacks at Cap Break Level 1, ATK/MND +25% & DEF/RES +30% to party, Cap Break Level 1, Dual Awoken Sharpshooter Mode I & Sharpshooter Damage +5% to user\nDual Awoken Sharpshooter Mode I: Sharpshooter Ability Boost, Triplecast Sharpshooter & Quick Sharpshooter"
+    },
+    {
+      "name": "Awoken Charged Arrow Shot (Dual Shift)",
+      "text": "Instant ATB 1, Tri-Element Mode II & Dual Awoken Sharpshooter Mode II to user\nDual Awoken Sharpshooter Mode II: Sharpshooter Ability Boost, Instant Sharpshooter & chases a Sharpshooter ability with Sharpshooter Damage +30% for 2 turns and ATB 100/200/999% 2 to user with at least 0/3/4 Sharpshooters in party\nTri-Element Mode II: En-Fire Stack, En-Ice Stack or En-Water Stack"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Water/NE ranged physical attacks at Cap Break Level 1, ATK/MND +25% & DEF/RES +30% to party, Cap Break Level 1, Dual Awoken Sharpshooter Mode I & Sharpshooter Damage +5% to user\nDual Awoken Sharpshooter Mode I: Sharpshooter Ability Boost, Triplecast Sharpshooter & Quick Sharpshooter"
+    },
+    {
+      "name": "Awoken Charged Arrow Shot (Dual Shift)",
+      "text": "Instant ATB 1, Tri-Element Mode II & Dual Awoken Sharpshooter Mode II to user\nDual Awoken Sharpshooter Mode II: Sharpshooter Ability Boost, Instant Sharpshooter & chases a Sharpshooter ability with Sharpshooter Damage +30% for 2 turns and ATB 100/200/999% 2 to user with at least 0/3/4 Sharpshooters in party\nTri-Element Mode II: En-Fire Stack, En-Ice Stack or En-Water Stack"
+    }
+  ],
   "id": "23430021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430021/23430021_256.png",
   "character": "Trey",
@@ -16,25 +36,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/Ice/Water/NE ranged physical attacks at Cap Break Level 1, ATK/MND +25% & DEF/RES +30% to party, Cap Break Level 1, Dual Awoken Sharpshooter Mode I & Sharpshooter Damage +5% to user\nDual Awoken Sharpshooter Mode I: Sharpshooter Ability Boost, Triplecast Sharpshooter & Quick Sharpshooter",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Water/NE ranged physical attacks at Cap Break Level 1, ATK/MND +25% & DEF/RES +30% to party, Cap Break Level 1, Dual Awoken Sharpshooter Mode I & Sharpshooter Damage +5% to user\nDual Awoken Sharpshooter Mode I: Sharpshooter Ability Boost, Triplecast Sharpshooter & Quick Sharpshooter"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1, Tri-Element Mode II & Dual Awoken Sharpshooter Mode II to user\nDual Awoken Sharpshooter Mode II: Sharpshooter Ability Boost, Instant Sharpshooter & chases a Sharpshooter ability with Sharpshooter Damage +30% for 2 turns and ATB 100/200/999% 2 to user with at least 0/3/4 Sharpshooters in party\nTri-Element Mode II: En-Fire Stack, En-Ice Stack or En-Water Stack"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Water/NE ranged physical attacks at Cap Break Level 1, ATK/MND +25% & DEF/RES +30% to party, Cap Break Level 1, Dual Awoken Sharpshooter Mode I & Sharpshooter Damage +5% to user\nDual Awoken Sharpshooter Mode I: Sharpshooter Ability Boost, Triplecast Sharpshooter & Quick Sharpshooter"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1, Tri-Element Mode II & Dual Awoken Sharpshooter Mode II to user\nDual Awoken Sharpshooter Mode II: Sharpshooter Ability Boost, Instant Sharpshooter & chases a Sharpshooter ability with Sharpshooter Damage +30% for 2 turns and ATB 100/200/999% 2 to user with at least 0/3/4 Sharpshooters in party\nTri-Element Mode II: En-Fire Stack, En-Ice Stack or En-Water Stack"
-    }
-  ]
+  "effects": "7 single-target Fire/Ice/Water/NE ranged physical attacks at Cap Break Level 1, ATK/MND +25% & DEF/RES +30% to party, Cap Break Level 1, Dual Awoken Sharpshooter Mode I & Sharpshooter Damage +5% to user\nDual Awoken Sharpshooter Mode I: Sharpshooter Ability Boost, Triplecast Sharpshooter & Quick Sharpshooter"
 }

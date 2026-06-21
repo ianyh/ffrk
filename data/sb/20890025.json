@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Shadow (Dark) to the user\nCrystal Force Mode: Shadow (Dark): Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Shadow (Dark) to the user\nCrystal Force Mode: Shadow (Dark): Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce"
+    }
+  ],
   "id": "20890025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890025/20890025_256.png",
   "character": "Shadow",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Shadow (Dark) to the user\nCrystal Force Mode: Shadow (Dark): Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Shadow (Dark) to the user\nCrystal Force Mode: Shadow (Dark): Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Shadow (Dark) to the user\nCrystal Force Mode: Shadow (Dark): Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce"
-    }
-  ]
+  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode], and Crystal Force Mode: Shadow (Dark) to the user\nCrystal Force Mode: Shadow (Dark): Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce"
 }

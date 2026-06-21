@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Radiant Machine Break & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Machinist Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Machine Break: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Machinist/IV members"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Radiant Machine Break & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Machinist Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Machine Break: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Machinist/IV members"
+    }
+  ],
   "id": "22570024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22570024/22570024_256.png",
   "character": "Cid (IV)",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Radiant Machine Break & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Machinist Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Machine Break: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Machinist/IV members",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Radiant Machine Break & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Machinist Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Machine Break: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Machinist/IV members"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Radiant Machine Break & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Machinist Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Machine Break: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Machinist/IV members"
-    }
-  ]
+  "effects": "7 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Radiant Machine Break & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Machinist Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user\nRadiant Machine Break: Deadly Strikes +20% to user/party for 3 turns/15 seconds with at least 0/4 Machinist/IV members"
 }

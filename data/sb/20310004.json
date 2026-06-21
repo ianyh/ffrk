@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.50 each), [DEF +50%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (1.50 each), [DEF +50%] to all allies for 25 seconds"
+    }
+  ],
   "id": "20310004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310004/20310004_256.png",
   "character": "Snow",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group attacks (1.50 each), [DEF +50%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (1.50 each), [DEF +50%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (1.50 each), [DEF +50%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Four group attacks (1.50 each), [DEF +50%] to all allies for 25 seconds"
 }

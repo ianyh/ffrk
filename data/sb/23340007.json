@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I (Jack)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Transience (Dual Shift)",
+      "text": "Grants [Instant ATB 1], [10% Damage Reduction Barrier 1] and [Dual Awoken Samurai Mode II (Jack)], removes [Dual Awoken Samurai Mode I (Jack)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I (Jack)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Transience (Dual Shift)",
+      "text": "Grants [Instant ATB 1], [10% Damage Reduction Barrier 1] and [Dual Awoken Samurai Mode II (Jack)], removes [Dual Awoken Samurai Mode I (Jack)]"
+    }
+  ],
   "id": "23340007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23340007/23340007_256.png",
   "character": "Jack",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I (Jack)] and [Fire Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I (Jack)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], [10% Damage Reduction Barrier 1] and [Dual Awoken Samurai Mode II (Jack)], removes [Dual Awoken Samurai Mode I (Jack)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I (Jack)] and [Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], [10% Damage Reduction Barrier 1] and [Dual Awoken Samurai Mode II (Jack)], removes [Dual Awoken Samurai Mode I (Jack)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I (Jack)] and [Fire Resonance +5% Boost] to the user"
 }

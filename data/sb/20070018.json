@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 99, field +20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Holy Chain (max 99, field +20%)"
+    }
+  ],
   "id": "20070018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070018/20070018_256.png",
   "character": "Cecil (Paladin)",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Holy Chain (max 99, field +20%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Holy Chain (max 99, field +20%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Holy Chain (max 99, field +20%)"
-    }
-  ]
+  "effects": "Activates Holy Chain (max 99, field +20%)"
 }

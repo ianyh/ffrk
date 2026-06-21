@@ -1,17 +1,4 @@
 {
-  "id": "20990017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990017/20990017_256.png",
-  "character": "Rosa",
-  "name": "Zenith Benediction",
-  "name_jp": "究極女神の祝福",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IV",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Rosa] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rosa] to the user",
   "description": [
     {
       "name": "Entry",
@@ -75,5 +62,18 @@
       "name": "Spirit Attack: Rosa",
       "text": "Restores HP (25)"
     }
-  ]
+  ],
+  "id": "20990017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990017/20990017_256.png",
+  "character": "Rosa",
+  "name": "Zenith Benediction",
+  "name_jp": "究極女神の祝福",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Regenga], [High Quick Cast 2] and [Natural Cure: Rosa] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Rosa] to the user"
 }

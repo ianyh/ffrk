@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Bio Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Bio Ability Boost, Dualcast Dark/Bio, Zero Hone Cost to Dark/Bio Abilities & 25% DEF/RES Pierce\nCrystal Force I: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, En-Dark Stack or En-Bio Stack, 250 SB Points & Instant ATB 1 to user\nCrystal Force II: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 3 turns & Instant ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Bio Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Bio Ability Boost, Dualcast Dark/Bio, Zero Hone Cost to Dark/Bio Abilities & 25% DEF/RES Pierce\nCrystal Force I: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, En-Dark Stack or En-Bio Stack, 250 SB Points & Instant ATB 1 to user\nCrystal Force II: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 3 turns & Instant ATB 1 to user"
+    }
+  ],
   "id": "23270022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270022/23270022_256.png",
   "character": "Sice",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Bio Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Bio Ability Boost, Dualcast Dark/Bio, Zero Hone Cost to Dark/Bio Abilities & 25% DEF/RES Pierce\nCrystal Force I: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, En-Dark Stack or En-Bio Stack, 250 SB Points & Instant ATB 1 to user\nCrystal Force II: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 3 turns & Instant ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Bio Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Bio Ability Boost, Dualcast Dark/Bio, Zero Hone Cost to Dark/Bio Abilities & 25% DEF/RES Pierce\nCrystal Force I: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, En-Dark Stack or En-Bio Stack, 250 SB Points & Instant ATB 1 to user\nCrystal Force II: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 3 turns & Instant ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Bio Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Bio Ability Boost, Dualcast Dark/Bio, Zero Hone Cost to Dark/Bio Abilities & 25% DEF/RES Pierce\nCrystal Force I: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, En-Dark Stack or En-Bio Stack, 250 SB Points & Instant ATB 1 to user\nCrystal Force II: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 3 turns & Instant ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, En-Dark Stack or En-Bio Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark/Bio Ability Boost, Dualcast Dark/Bio, Zero Hone Cost to Dark/Bio Abilities & 25% DEF/RES Pierce\nCrystal Force I: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, En-Dark Stack or En-Bio Stack, 250 SB Points & Instant ATB 1 to user\nCrystal Force II: 8 single-target Dark/Bio/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 3 turns & Instant ATB 1 to user"
 }

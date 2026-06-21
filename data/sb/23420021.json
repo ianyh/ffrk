@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode"
+    }
+  ],
   "id": "23420021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420021/23420021_256.png",
   "character": "Cor",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode"
-    }
-  ]
+  "effects": "Soul Drive Mode & Instant ATB 1 to user\nSoul Drive Mode: -1 SB Gauge Cost, Instant SB Cast, Cap Break Level 1 to SB & SB Damage +50%; Grants Instant ATB 1 to user after casting SB, removes Soul Drive Mode"
 }

@@ -1,22 +1,4 @@
 {
-  "id": "22180023",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180023/22180023_256.png",
-  "character": "Basch",
-  "name": "Zenith Unbroken Steel",
-  "name_jp": "究極強靭なる修羅の剣",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XII",
-  "elements": [
-    "Holy",
-    "Fire",
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Holy/Fire, grants [Zenith Mode], [Zenith Mode: Basch (Holy)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -72,5 +54,23 @@
       "name": "Spirit Attack: Basch (Holy)",
       "text": "One single attack (3.31) capped at 99999, grants [100% Critical 3] to all allies"
     }
-  ]
+  ],
+  "id": "22180023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22180023/22180023_256.png",
+  "character": "Basch",
+  "name": "Zenith Unbroken Steel",
+  "name_jp": "究極強靭なる修羅の剣",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XII",
+  "elements": [
+    "Holy",
+    "Fire",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy 2 with Stacking]/[Attach Fire 2 with Stacking] to the user if the entry damage was Holy/Fire, grants [Zenith Mode], [Zenith Mode: Basch (Holy)] and [Damage Cap +10000] to the user"
 }

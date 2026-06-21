@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "8/9/10/11 single attacks (0.81 each) at 140/175/190 SPD, [DEF and MAG -40%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "8/9/10/11 single attacks (0.81 each) at 140/175/190 SPD, [DEF and MAG -40%] for 25 seconds"
+    }
+  ],
   "id": "23140002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140002/23140002_256.png",
   "character": "Thief (I)",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "8/9/10/11 single attacks (0.81 each) at 140/175/190 SPD, [DEF and MAG -40%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "8/9/10/11 single attacks (0.81 each) at 140/175/190 SPD, [DEF and MAG -40%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "8/9/10/11 single attacks (0.81 each) at 140/175/190 SPD, [DEF and MAG -40%] for 25 seconds"
-    }
-  ]
+  "effects": "8/9/10/11 single attacks (0.81 each) at 140/175/190 SPD, [DEF and MAG -40%] for 25 seconds"
 }

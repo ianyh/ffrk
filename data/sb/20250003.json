@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.50), causes [Blind] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (3.50), causes [Blind] (50%)"
+    }
+  ],
   "id": "20250003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250003/20250003_256.png",
   "character": "Sephiroth",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (3.50), causes [Blind] (50%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (3.50), causes [Blind] (50%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (3.50), causes [Blind] (50%)"
-    }
-  ]
+  "effects": "One group attack (3.50), causes [Blind] (50%)"
 }

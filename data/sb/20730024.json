@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE white magic attacks at Cap Break Level 1 + minor Imperil Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE white magic attacks at Cap Break Level 1 + minor Imperil Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "20730024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730024/20730024_256.png",
   "character": "Fusoya",
@@ -14,17 +26,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE white magic attacks at Cap Break Level 1 + minor Imperil Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE white magic attacks at Cap Break Level 1 + minor Imperil Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE white magic attacks at Cap Break Level 1 + minor Imperil Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Holy/NE white magic attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Holy Ability Boost, Dualcast Holy, Zero Hone Cost to Holy Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Holy/NE white magic attacks at Cap Break Level 1 + minor Imperil Holy, Instant Cast, [Cap Break Level 1, Quick Cast & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

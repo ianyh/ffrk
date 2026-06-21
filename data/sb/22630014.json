@@ -1,27 +1,11 @@
 {
-  "id": "22630014",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630014/22630014_256.png",
-  "character": "Rufus",
-  "name": "Apex Mako Cannon",
-  "name_jp": "魔晄キャノン・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VII",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Mako Cannon level 0/1/2, removes Arcane Dyad Empowered: Rufus from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Mako Cannon level 0/1/2, removes Arcane Dyad Empowered: Rufus from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Mako Cannon (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Rufus], [Apex Mako Cannon Damage Tracker] and [Apex Mako Cannon Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Apex Mako Cannon level 0/1/2, removes Arcane Dyad Empowered: Rufus from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Mako Cannon (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Rufus], [Apex Mako Cannon Damage Tracker] and [Apex Mako Cannon Level]"
     }
-  ]
+  ],
+  "id": "22630014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630014/22630014_256.png",
+  "character": "Rufus",
+  "name": "Apex Mako Cannon (Engaged)",
+  "name_jp": "魔晄キャノン・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Rufus], [Apex Mako Cannon Damage Tracker] and [Apex Mako Cannon Level]"
 }

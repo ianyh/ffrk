@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]"
+    }
+  ],
   "id": "23230015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230015/23230015_256.png",
   "character": "Ultimecia",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]"
-    }
-  ]
+  "effects": "Grants [Attach Dark with Stacking] and [Unerring Pikes Follow-Up]"
 }

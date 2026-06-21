@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing hybrid attacks (11.0 or 31.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Dark abilities on allies/5+ Ice or Dark abilities on allies and 2+ allies with Attach Ice or Dark"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing hybrid attacks (11.0 or 31.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Dark abilities on allies/5+ Ice or Dark abilities on allies and 2+ allies with Attach Ice or Dark"
+    }
+  ],
   "id": "23550013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550013/23550013_256.png",
   "character": "Kurasame",
@@ -14,17 +26,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing hybrid attacks (11.0 or 31.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Dark abilities on allies/5+ Ice or Dark abilities on allies and 2+ allies with Attach Ice or Dark",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing hybrid attacks (11.0 or 31.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Dark abilities on allies/5+ Ice or Dark abilities on allies and 2+ allies with Attach Ice or Dark"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing hybrid attacks (11.0 or 31.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Dark abilities on allies/5+ Ice or Dark abilities on allies and 2+ allies with Attach Ice or Dark"
-    }
-  ]
+  "effects": "Seven single hybrid attacks (2.6/2.8/2.9/3.0 or 8.60/9.30/9.65/10.00 each) capped at 19999/29999/49999/59999, followed by three single piercing hybrid attacks (11.0 or 31.0 each) capped at 99999. Multiplier/cap requirements: 0-2/3-4/5+ Ice or Dark abilities on allies/5+ Ice or Dark abilities on allies and 2+ allies with Attach Ice or Dark"
 }

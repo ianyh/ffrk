@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang v2)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Megaflare (Dual Shift)",
+      "text": "Grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Dragoon Mode II (Fang v2)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang v2)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Megaflare (Dual Shift)",
+      "text": "Grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Dragoon Mode II (Fang v2)] to the user"
+    }
+  ],
   "id": "22030026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030026/22030026_256.png",
   "character": "Fang",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang v2)] and [Dragoon Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang v2)] and [Dragoon Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Dragoon Mode II (Fang v2)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang v2)] and [Dragoon Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Dragoon Mode II (Fang v2)] to the user"
-    }
-  ]
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang v2)] and [Dragoon Resonance +5% Boost] to the user"
 }

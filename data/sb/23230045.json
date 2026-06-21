@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants [Attach Wind with Stacking], Cap Break Level 1, [Instant ATB 1], Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Wind/NE magic attacks at Cap Break Level 1, Instant Cast, [Quick Cast, Wind Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II, chases a Wind ability with Instant ATB 1 to user (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants [Attach Wind with Stacking], Cap Break Level 1, [Instant ATB 1], Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Wind/NE magic attacks at Cap Break Level 1, Instant Cast, [Quick Cast, Wind Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II, chases a Wind ability with Instant ATB 1 to user (max 1 chase)"
+    }
+  ],
   "id": "23230045",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230045/23230045_256.png",
   "character": "Ultimecia",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks at Cap Break Level 1, grants [Attach Wind with Stacking], Cap Break Level 1, [Instant ATB 1], Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Wind/NE magic attacks at Cap Break Level 1, Instant Cast, [Quick Cast, Wind Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II, chases a Wind ability with Instant ATB 1 to user (max 1 chase)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks at Cap Break Level 1, grants [Attach Wind with Stacking], Cap Break Level 1, [Instant ATB 1], Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Wind/NE magic attacks at Cap Break Level 1, Instant Cast, [Quick Cast, Wind Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II, chases a Wind ability with Instant ATB 1 to user (max 1 chase)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks at Cap Break Level 1, grants [Attach Wind with Stacking], Cap Break Level 1, [Instant ATB 1], Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Wind/NE magic attacks at Cap Break Level 1, Instant Cast, [Quick Cast, Wind Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II, chases a Wind ability with Instant ATB 1 to user (max 1 chase)"
-    }
-  ]
+  "effects": "Seven single attacks at Cap Break Level 1, grants [Attach Wind with Stacking], Cap Break Level 1, [Instant ATB 1], Crystal Mode to user\nCrystal Mode: Wind Ability Boost, Dualcast Wind, Zero Hone Cost to Wind Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 8 single-target Wind/NE magic attacks at Cap Break Level 1, Instant Cast, [Quick Cast, Wind Ability Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using Crystal Force II, chases a Wind ability with Instant ATB 1 to user (max 1 chase)"
 }

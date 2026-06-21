@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds, grants [High Regen]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK and MAG +30%] for 25 seconds, grants [High Regen]"
+    }
+  ],
   "id": "22590002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590002/22590002_256.png",
   "character": "Matoya",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK and MAG +30%] for 25 seconds, grants [High Regen]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK and MAG +30%] for 25 seconds, grants [High Regen]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK and MAG +30%] for 25 seconds, grants [High Regen]"
-    }
-  ]
+  "effects": "[ATK and MAG +30%] for 25 seconds, grants [High Regen]"
 }

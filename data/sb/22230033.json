@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Thundercall Blade (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Lightning;\nWS Blue: Grants [Lv.2 En-Lightning Stack] to user\nWS Gold: Grants [Surging Power +30%] to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "War-Awoken Thundercall Blade (Weapon Skill)",
+      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Lightning;\nWS Blue: Grants [Lv.2 En-Lightning Stack] to user\nWS Gold: Grants [Surging Power +30%] to party"
+    }
+  ],
   "id": "22230033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230033/22230033_256.png",
   "character": "Desch",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE magic attack at True Cap Break Level 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE magic attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Lightning;\nWS Blue: Grants [Lv.2 En-Lightning Stack] to user\nWS Gold: Grants [Surging Power +30%] to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE magic attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Lightning;\nWS Blue: Grants [Lv.2 En-Lightning Stack] to user\nWS Gold: Grants [Surging Power +30%] to party"
-    }
-  ]
+  "effects": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE magic attack at True Cap Break Level 1"
 }

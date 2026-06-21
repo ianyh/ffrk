@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Sketch Mode I (Relm)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Star Prism (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sketch Mode II (Relm)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Sketch Mode I (Relm)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Star Prism (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sketch Mode II (Relm)]"
+    }
+  ],
   "id": "22160016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160016/22160016_256.png",
   "character": "Relm",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "",
   "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Sketch Mode I (Relm)] and [White Magic Healing Resonance Boost +5%] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Sketch Mode I (Relm)] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Sketch Mode II (Relm)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Sketch Mode I (Relm)] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Sketch Mode II (Relm)]"
-    }
-  ]
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Sketch Mode I (Relm)] and [White Magic Healing Resonance Boost +5%] to the user"
 }

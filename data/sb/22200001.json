@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.37 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (2.37 each)"
+    }
+  ],
   "id": "22200001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200001/22200001_256.png",
   "character": "Edea",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group attacks (2.37 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (2.37 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (2.37 each)"
-    }
-  ]
+  "effects": "Six group attacks (2.37 each)"
 }

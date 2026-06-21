@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven group ranged attacks (0.85 each), causes [Imperil Ice 20%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven group ranged attacks (0.85 each), causes [Imperil Ice 20%] for 25 seconds"
+    }
+  ],
   "id": "22100004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100004/22100004_256.png",
   "character": "Laguna",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Seven group ranged attacks (0.85 each), causes [Imperil Ice 20%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven group ranged attacks (0.85 each), causes [Imperil Ice 20%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven group ranged attacks (0.85 each), causes [Imperil Ice 20%] for 25 seconds"
-    }
-  ]
+  "effects": "Seven group ranged attacks (0.85 each), causes [Imperil Ice 20%] for 25 seconds"
 }

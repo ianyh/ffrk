@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Safety Barrier] and [Cross Spiral Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Safety Barrier] and [Cross Spiral Follow-Up] to the user"
+    }
+  ],
   "id": "22810008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810008/22810008_256.png",
   "character": "Nine",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Safety Barrier] and [Cross Spiral Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Safety Barrier] and [Cross Spiral Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Safety Barrier] and [Cross Spiral Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Safety Barrier] and [Cross Spiral Follow-Up] to the user"
 }

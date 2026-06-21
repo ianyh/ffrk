@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (37.00) capped at 99999, minimum damage 1100"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (37.00) capped at 99999, minimum damage 1100"
+    }
+  ],
   "id": "20090006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090006/20090006_256.png",
   "character": "Rydia",
@@ -15,17 +27,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (37.00) capped at 99999, minimum damage 1100",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (37.00) capped at 99999, minimum damage 1100"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (37.00) capped at 99999, minimum damage 1100"
-    }
-  ]
+  "effects": "One single attack (37.00) capped at 99999, minimum damage 1100"
 }

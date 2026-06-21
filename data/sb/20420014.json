@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid attacks (1.82 or 1.92 each), followed by one single hybrid attack (26.50 or 28.00) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Twenty single hybrid attacks (1.82 or 1.92 each), followed by one single hybrid attack (26.50 or 28.00) capped at 99999"
+    }
+  ],
   "id": "20420014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420014/20420014_256.png",
   "character": "Arc",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Twenty single hybrid attacks (1.82 or 1.92 each), followed by one single hybrid attack (26.50 or 28.00) capped at 99999",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Twenty single hybrid attacks (1.82 or 1.92 each), followed by one single hybrid attack (26.50 or 28.00) capped at 99999"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Twenty single hybrid attacks (1.82 or 1.92 each), followed by one single hybrid attack (26.50 or 28.00) capped at 99999"
-    }
-  ]
+  "effects": "Twenty single hybrid attacks (1.82 or 1.92 each), followed by one single hybrid attack (26.50 or 28.00) capped at 99999"
 }

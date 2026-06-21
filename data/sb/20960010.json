@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and RES +200%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF and RES +200%] for 25 seconds"
+    }
+  ],
   "id": "20960010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960010/20960010_256.png",
   "character": "Y'shtola",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[DEF and RES +200%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[DEF and RES +200%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[DEF and RES +200%] for 25 seconds"
-    }
-  ]
+  "effects": "[DEF and RES +200%] for 25 seconds"
 }

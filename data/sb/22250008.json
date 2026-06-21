@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], [Haste], [Magical High Quick Cast 2] and [Magical +30% Boost (15s)], grants [Awoken Fortune-Teller] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], [Haste], [Magical High Quick Cast 2] and [Magical +30% Boost (15s)], grants [Awoken Fortune-Teller] to the user"
+    }
+  ],
   "id": "22250008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250008/22250008_256.png",
   "character": "Cait Sith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Grants [MAG and MND +50% (25s)], [Haste], [Magical High Quick Cast 2] and [Magical +30% Boost (15s)], grants [Awoken Fortune-Teller] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [MAG and MND +50% (25s)], [Haste], [Magical High Quick Cast 2] and [Magical +30% Boost (15s)], grants [Awoken Fortune-Teller] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [MAG and MND +50% (25s)], [Haste], [Magical High Quick Cast 2] and [Magical +30% Boost (15s)], grants [Awoken Fortune-Teller] to the user"
-    }
-  ]
+  "effects": "Grants [MAG and MND +50% (25s)], [Haste], [Magical High Quick Cast 2] and [Magical +30% Boost (15s)], grants [Awoken Fortune-Teller] to the user"
 }

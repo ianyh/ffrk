@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Flash Attack: Tifa Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant ATB 1] and [Flash Attack: Tifa Follow-Up] to the user"
+    }
+  ],
   "id": "20230036",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230036/20230036_256.png",
   "character": "Tifa",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Flash Attack: Tifa Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Instant ATB 1] and [Flash Attack: Tifa Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Instant ATB 1] and [Flash Attack: Tifa Follow-Up] to the user"
-    }
-  ]
+  "effects": "Grants [Instant ATB 1] and [Flash Attack: Tifa Follow-Up] to the user"
 }

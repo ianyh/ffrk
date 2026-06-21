@@ -1,20 +1,4 @@
 {
-  "id": "22740039",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740039/22740039_256.png",
-  "character": "Noctis",
-  "name": "Zenith Phantom Circus",
-  "name_jp": "究極F・サーカス",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "XV",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Noctis (Earth)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Noctis (Earth)",
       "text": "Grants [Damage Cap +10000 2] and [Weakness +30% Boost 2] to the user and Gladiolus"
     }
-  ]
+  ],
+  "id": "22740039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740039/22740039_256.png",
+  "character": "Noctis",
+  "name": "Zenith Phantom Circus",
+  "name_jp": "究極F・サーカス",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "XV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Noctis (Earth)] to the user"
 }

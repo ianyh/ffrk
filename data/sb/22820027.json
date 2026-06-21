@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target physical attacks (0.60 each), ATK/MND +25% & DEF/RES +30% to party, Awoken Lightning Mode, Cap Break Level 1 to the user, grants Prismatic Damage +10/30% to all allies with at least 0/4 Warrior I members\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target physical attacks (0.60 each), ATK/MND +25% & DEF/RES +30% to party, Awoken Lightning Mode, Cap Break Level 1 to the user, grants Prismatic Damage +10/30% to all allies with at least 0/4 Warrior I members\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning"
+    }
+  ],
   "id": "22820027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820027/22820027_256.png",
   "character": "Shelke",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "15 single-target physical attacks (0.60 each), ATK/MND +25% & DEF/RES +30% to party, Awoken Lightning Mode, Cap Break Level 1 to the user, grants Prismatic Damage +10/30% to all allies with at least 0/4 Warrior I members\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target physical attacks (0.60 each), ATK/MND +25% & DEF/RES +30% to party, Awoken Lightning Mode, Cap Break Level 1 to the user, grants Prismatic Damage +10/30% to all allies with at least 0/4 Warrior I members\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target physical attacks (0.60 each), ATK/MND +25% & DEF/RES +30% to party, Awoken Lightning Mode, Cap Break Level 1 to the user, grants Prismatic Damage +10/30% to all allies with at least 0/4 Warrior I members\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning"
-    }
-  ]
+  "effects": "15 single-target physical attacks (0.60 each), ATK/MND +25% & DEF/RES +30% to party, Awoken Lightning Mode, Cap Break Level 1 to the user, grants Prismatic Damage +10/30% to all allies with at least 0/4 Warrior I members\nAwoken Lightning Mode: Unlimited Lightning Hones, Lightning Ability Boost & Dualcast Lightning"
 }

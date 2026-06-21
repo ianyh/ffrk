@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (50), removes negative effects"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (50), removes negative effects"
+    }
+  ],
   "id": "20960003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960003/20960003_256.png",
   "character": "Y'shtola",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (50), removes negative effects",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (50), removes negative effects"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (50), removes negative effects"
-    }
-  ]
+  "effects": "Restores HP (50), removes negative effects"
 }

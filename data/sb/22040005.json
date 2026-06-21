@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.00 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group ranged attacks (2.00 each), grants [Physical Blink 1] to all allies"
+    }
+  ],
   "id": "22040005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040005/22040005_256.png",
   "character": "Yuffie",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group ranged attacks (2.00 each), grants [Physical Blink 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group ranged attacks (2.00 each), grants [Physical Blink 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group ranged attacks (2.00 each), grants [Physical Blink 1] to all allies"
-    }
-  ]
+  "effects": "Three group ranged attacks (2.00 each), grants [Physical Blink 1] to all allies"
 }

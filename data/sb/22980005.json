@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Lightning] and [Dragon Boost Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Lightning] and [Dragon Boost Follow-Up] to the user"
+    }
+  ],
   "id": "22980005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980005/22980005_256.png",
   "character": "Aranea",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Lightning] and [Dragon Boost Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Lightning] and [Dragon Boost Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Lightning] and [Dragon Boost Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single ranged jump attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Lightning] and [Dragon Boost Follow-Up] to the user"
 }

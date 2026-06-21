@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Locke (Break Arte)",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Locke], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Burst Break: Locke (Break Arte)",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Locke], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]."
+    }
+  ],
   "id": "20240044",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240044/20240044_256.png",
   "character": "Locke",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Locke], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
-    },
-    {
-      "name": "Break Arte",
-      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Locke], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]."
-    }
-  ]
+  "effects": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Warrior I Chain (150) & 50% Warrior I Field, ATK +50% & Quick Cast 1 to party, Link Assist Mode & Instant Cast 1 to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (max 3 chases, 1 per element)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Warrior I Chain (150) & 50% Warrior I Field, ATK +50% & Quick Cast 1 to party, Link Assist Mode & Instant Cast 1 to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (max 3 chases, 1 per element)"
+    }
+  ],
   "id": "22820036",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820036/22820036_256.png",
   "character": "Shelke",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Warrior I Chain (150) & 50% Warrior I Field, ATK +50% & Quick Cast 1 to party, Link Assist Mode & Instant Cast 1 to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (max 3 chases, 1 per element)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Warrior I Chain (150) & 50% Warrior I Field, ATK +50% & Quick Cast 1 to party, Link Assist Mode & Instant Cast 1 to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (max 3 chases, 1 per element)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Warrior I Chain (150) & 50% Warrior I Field, ATK +50% & Quick Cast 1 to party, Link Assist Mode & Instant Cast 1 to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (max 3 chases, 1 per element)"
-    }
-  ]
+  "effects": "Activates Warrior I Chain (150) & 50% Warrior I Field, ATK +50% & Quick Cast 1 to party, Link Assist Mode & Instant Cast 1 to user\nLink Assist Mode: After an ally uses [Element] ability, chases with minor Prismatic Imperil to all targets (max 3 chases, 1 per element)"
 }

@@ -1,20 +1,4 @@
 {
-  "id": "23090022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090022/23090022_256.png",
-  "character": "Machina",
-  "name": "Zenith Grand Cascade",
-  "name_jp": "究極グランドカスケード",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Machina] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Machina",
       "text": "Grants all allies [100% Critical 3] and [Deadly Strikes +10% 3]"
     }
-  ]
+  ],
+  "id": "23090022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090022/23090022_256.png",
+  "character": "Machina",
+  "name": "Zenith Grand Cascade",
+  "name_jp": "究極グランドカスケード",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Machina] to the user"
 }

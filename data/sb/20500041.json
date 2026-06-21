@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Water/NE magic attacks, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Water/NE magic attack at True Cap Break Level 1, [Cap Break Level 9, Dualcast Water & Hero Boost +50%] for 1 turn to user, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Water/NE magic attacks, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Water/NE magic attack at True Cap Break Level 1, [Cap Break Level 9, Dualcast Water & Hero Boost +50%] for 1 turn to user, removes Master Mode"
+    }
+  ],
   "id": "20500041",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500041/20500041_256.png",
   "character": "Quistis",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Water/NE magic attacks, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Water/NE magic attack at True Cap Break Level 1, [Cap Break Level 9, Dualcast Water & Hero Boost +50%] for 1 turn to user, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Water/NE magic attacks, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Water/NE magic attack at True Cap Break Level 1, [Cap Break Level 9, Dualcast Water & Hero Boost +50%] for 1 turn to user, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Water/NE magic attacks, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Water/NE magic attack at True Cap Break Level 1, [Cap Break Level 9, Dualcast Water & Hero Boost +50%] for 1 turn to user, removes Master Mode"
-    }
-  ]
+  "effects": "Master Mode, Instant ATB 1 & Diffusion Barrier 1 to user\nMaster Mode: Cap Break Level 2, Hero Boost +25%, Zero SB Cost 1 & Instant SB/LB Cast 1\nInterval Chase: 10 single-target Water/NE magic attacks, Hero Boost +30/35/40/45/50% & Cap Break Level 3/4/5/6/7 to user after 1/2/3/4/5 chases (max 5 chases)\nMaster Chase: Single-target Water/NE magic attack at True Cap Break Level 1, [Cap Break Level 9, Dualcast Water & Hero Boost +50%] for 1 turn to user, removes Master Mode"
 }

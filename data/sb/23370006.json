@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Transition Mode (Fire, Ice, Lightning)] and [Instant Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Transition Mode (Fire, Ice, Lightning)] and [Instant Cast 2] to the user"
+    }
+  ],
   "id": "23370006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370006/23370006_256.png",
   "character": "Cater",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Tri-Element Transition Mode (Fire, Ice, Lightning)] and [Instant Cast 2] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Transition Mode (Fire, Ice, Lightning)] and [Instant Cast 2] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Transition Mode (Fire, Ice, Lightning)] and [Instant Cast 2] to the user"
-    }
-  ]
+  "effects": "Grants [Tri-Element Transition Mode (Fire, Ice, Lightning)] and [Instant Cast 2] to the user"
 }

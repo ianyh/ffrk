@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50), grants [Rage] to the user for 2 turns"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50), grants [Rage] to the user for 2 turns"
+    }
+  ],
   "id": "22010001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22010001/22010001_256.png",
   "character": "Berserker",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.50), grants [Rage] to the user for 2 turns",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.50), grants [Rage] to the user for 2 turns"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.50), grants [Rage] to the user for 2 turns"
-    }
-  ]
+  "effects": "One single attack (1.50), grants [Rage] to the user for 2 turns"
 }

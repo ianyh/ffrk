@@ -1,20 +1,4 @@
 {
-  "id": "20310038",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310038/20310038_256.png",
-  "character": "Snow",
-  "name": "Roaring Heroic Spirit",
-  "name_jp": "轟・ヒーロースピリット",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "XIII",
-  "elements": [
-    "Ice",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Snow (Ice)], and [Instant ATB 1] to the user\n",
   "description": [
     {
       "name": "Entry",
@@ -42,5 +26,21 @@
       "name": "Roaring Snow",
       "text": "Six single attacks (0.60 each), grants [20% Damage Reduction Barrier 1] to the user"
     }
-  ]
+  ],
+  "id": "20310038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310038/20310038_256.png",
+  "character": "Snow",
+  "name": "Roaring Heroic Spirit",
+  "name_jp": "轟・ヒーロースピリット",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single attacks (0.80 each), grants [Damage Cap +10000], [Accel Mode: Snow (Ice)], and [Instant ATB 1] to the user\n"
 }

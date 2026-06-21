@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two single ranged attacks (2.50 each), [ATK +35%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two single ranged attacks (2.50 each), [ATK +35%] to all allies for 25 seconds"
+    }
+  ],
   "id": "20230004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230004/20230004_256.png",
   "character": "Tifa",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Two single ranged attacks (2.50 each), [ATK +35%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Two single ranged attacks (2.50 each), [ATK +35%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Two single ranged attacks (2.50 each), [ATK +35%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Two single ranged attacks (2.50 each), [ATK +35%] to all allies for 25 seconds"
 }

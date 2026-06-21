@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Critical Damage +50%] and [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Critical Damage +50%] and [Instant Cast 1]"
+    }
+  ],
   "id": "22550008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550008/22550008_256.png",
   "character": "Orlandeau",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Critical Damage +50%] and [Instant Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Critical Damage +50%] and [Instant Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Critical Damage +50%] and [Instant Cast 1]"
-    }
-  ]
+  "effects": "Grants [Critical Damage +50%] and [Instant Cast 1]"
 }

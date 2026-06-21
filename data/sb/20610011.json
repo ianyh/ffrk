@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates XIII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates XIII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
+    }
+  ],
   "id": "20610011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610011/20610011_256.png",
   "character": "Sazh",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates XIII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates XIII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates XIII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
-    }
-  ]
+  "effects": "Activates XIII Chain (max 99, field +50%), grants [ATK, DEF, MAG and RES +30%] for 25 seconds, grants [Instant Cast 1]"
 }

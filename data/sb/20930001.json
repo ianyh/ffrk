@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (1.00)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (1.00)"
+    }
+  ],
   "id": "20930001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930001/20930001_256.png",
   "character": "Faris",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": false,
-  "effects": "One group ranged attack (1.00)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (1.00)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (1.00)"
-    }
-  ]
+  "effects": "One group ranged attack (1.00)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Cause [ATK, DEF, MAG and RES -30% (25s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Cause [ATK, DEF, MAG and RES -30% (25s)]"
+    }
+  ],
   "id": "23580001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580001/23580001_256.png",
   "character": "Shadowsmith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Cause [ATK, DEF, MAG and RES -30% (25s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Cause [ATK, DEF, MAG and RES -30% (25s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Cause [ATK, DEF, MAG and RES -30% (25s)]"
-    }
-  ]
+  "effects": "Cause [ATK, DEF, MAG and RES -30% (25s)]"
 }

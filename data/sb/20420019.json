@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (1.50 or 1.60 each), grants [Twin Element Mode III (Water, Holy)], [Synchro Mode], [Damage Cap +10000] and [Wisdom of Ur Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (1.50 or 1.60 each), grants [Twin Element Mode III (Water, Holy)], [Synchro Mode], [Damage Cap +10000] and [Wisdom of Ur Follow-Up] to the user"
+    }
+  ],
   "id": "20420019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420019/20420019_256.png",
   "character": "Arc",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single hybrid attacks (1.50 or 1.60 each), grants [Twin Element Mode III (Water, Holy)], [Synchro Mode], [Damage Cap +10000] and [Wisdom of Ur Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (1.50 or 1.60 each), grants [Twin Element Mode III (Water, Holy)], [Synchro Mode], [Damage Cap +10000] and [Wisdom of Ur Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single hybrid attacks (1.50 or 1.60 each), grants [Twin Element Mode III (Water, Holy)], [Synchro Mode], [Damage Cap +10000] and [Wisdom of Ur Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single hybrid attacks (1.50 or 1.60 each), grants [Twin Element Mode III (Water, Holy)], [Synchro Mode], [Damage Cap +10000] and [Wisdom of Ur Follow-Up] to the user"
 }

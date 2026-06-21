@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Life], [Damage Cap +10000], [Twin Element Mode (Ice, Lightning)] and [Vivi Trance] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Life], [Damage Cap +10000], [Twin Element Mode (Ice, Lightning)] and [Vivi Trance] to the user"
+    }
+  ],
   "id": "20370014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370014/20370014_256.png",
   "character": "Vivi",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Life], [Damage Cap +10000], [Twin Element Mode (Ice, Lightning)] and [Vivi Trance] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Awoken Life], [Damage Cap +10000], [Twin Element Mode (Ice, Lightning)] and [Vivi Trance] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Awoken Life], [Damage Cap +10000], [Twin Element Mode (Ice, Lightning)] and [Vivi Trance] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Life], [Damage Cap +10000], [Twin Element Mode (Ice, Lightning)] and [Vivi Trance] to the user"
 }

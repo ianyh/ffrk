@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and RES +30%] for 25 seconds, grants [Water Radiant Shield: 75%]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and RES +30%] for 25 seconds, grants [Water Radiant Shield: 75%]"
+    }
+  ],
   "id": "22490006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22490006/22490006_256.png",
   "character": "Kimahri",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK, MAG and RES +30%] for 25 seconds, grants [Water Radiant Shield: 75%]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, MAG and RES +30%] for 25 seconds, grants [Water Radiant Shield: 75%]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, MAG and RES +30%] for 25 seconds, grants [Water Radiant Shield: 75%]"
-    }
-  ]
+  "effects": "[ATK, MAG and RES +30%] for 25 seconds, grants [Water Radiant Shield: 75%]"
 }

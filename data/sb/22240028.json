@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kuja (Dark)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kuja (Dark)] to the user"
+    }
+  ],
   "id": "22240028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240028/22240028_256.png",
   "character": "Kuja",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kuja (Dark)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kuja (Dark)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kuja (Dark)] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Kuja (Dark)] to the user"
 }

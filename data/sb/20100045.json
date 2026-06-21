@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Wind) v2], [Damage Cap +10000], [Dual Awoken Amnesiac Mode I (Terra)] and [Wind/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Cross Meltdown (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Amnesiac Mode II (Terra)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Wind) v2], [Damage Cap +10000], [Dual Awoken Amnesiac Mode I (Terra)] and [Wind/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Cross Meltdown (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Amnesiac Mode II (Terra)] to the user"
+    }
+  ],
   "id": "20100045",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100045/20100045_256.png",
   "character": "Terra",
@@ -15,25 +35,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Wind) v2], [Damage Cap +10000], [Dual Awoken Amnesiac Mode I (Terra)] and [Wind/Fire Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Wind) v2], [Damage Cap +10000], [Dual Awoken Amnesiac Mode I (Terra)] and [Wind/Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Amnesiac Mode II (Terra)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Wind) v2], [Damage Cap +10000], [Dual Awoken Amnesiac Mode I (Terra)] and [Wind/Fire Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Amnesiac Mode II (Terra)] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Wind) v2], [Damage Cap +10000], [Dual Awoken Amnesiac Mode I (Terra)] and [Wind/Fire Resonance +5% Boost] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF -15%] for 25 seconds, [ATK +15%] to the user for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF -15%] for 25 seconds, [ATK +15%] to the user for 25 seconds"
+    }
+  ],
   "id": "22510002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22510002/22510002_256.png",
   "character": "Dorgann",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "[DEF -15%] for 25 seconds, [ATK +15%] to the user for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[DEF -15%] for 25 seconds, [ATK +15%] to the user for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[DEF -15%] for 25 seconds, [ATK +15%] to the user for 25 seconds"
-    }
-  ]
+  "effects": "[DEF -15%] for 25 seconds, [ATK +15%] to the user for 25 seconds"
 }

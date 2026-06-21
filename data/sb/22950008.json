@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Earth, Holy) v2] and [(Earth/Holy) Ability Quick Cast (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Earth, Holy) v2] and [(Earth/Holy) Ability Quick Cast (15s)]"
+    }
+  ],
   "id": "22950008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22950008/22950008_256.png",
   "character": "Meliadoul",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Twin Element Mode II (Earth, Holy) v2] and [(Earth/Holy) Ability Quick Cast (15s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Twin Element Mode II (Earth, Holy) v2] and [(Earth/Holy) Ability Quick Cast (15s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Twin Element Mode II (Earth, Holy) v2] and [(Earth/Holy) Ability Quick Cast (15s)]"
-    }
-  ]
+  "effects": "Grants [Twin Element Mode II (Earth, Holy) v2] and [(Earth/Holy) Ability Quick Cast (15s)]"
 }

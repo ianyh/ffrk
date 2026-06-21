@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), causes [Imperil Lightning 20%] for 15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged attacks (0.52 each), causes [Imperil Lightning 20%] for 15 seconds"
+    }
+  ],
   "id": "22970008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970008/22970008_256.png",
   "character": "Prompto",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Six single ranged attacks (0.52 each), causes [Imperil Lightning 20%] for 15 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single ranged attacks (0.52 each), causes [Imperil Lightning 20%] for 15 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single ranged attacks (0.52 each), causes [Imperil Lightning 20%] for 15 seconds"
-    }
-  ]
+  "effects": "Six single ranged attacks (0.52 each), causes [Imperil Lightning 20%] for 15 seconds"
 }

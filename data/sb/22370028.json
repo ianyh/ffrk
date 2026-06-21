@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "22370028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370028/22370028_256.png",
   "character": "Gabranth",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Dark/NE physical attacks at Cap Break Level 1, En-Dark, En-Dark Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Dark Ability Boost, Dualcast Dark, Zero Hone Cost to Dark Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Dark/NE physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

@@ -1,20 +1,4 @@
 {
-  "id": "23170024",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170024/23170024_256.png",
-  "character": "Kelger",
-  "name": "Roaring Lupine Pulse",
-  "name_jp": "轟・ルパインパルス",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "V",
-  "elements": [
-    "Earth",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single attacks (0.80 each). Grants [Accel Mode], [Damage Cap +10000], [Accel Mode: Kelger], [Instant ATB 1] to user.",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Kelger",
       "text": "Earth abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring Kelger] after using Earth abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "23170024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170024/23170024_256.png",
+  "character": "Kelger",
+  "name": "Roaring Lupine Pulse",
+  "name_jp": "轟・ルパインパルス",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (0.80 each). Grants [Accel Mode], [Damage Cap +10000], [Accel Mode: Kelger], [Instant ATB 1] to user."
 }

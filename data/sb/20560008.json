@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Buff Earth 20% (15s)] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Buff Earth 20% (15s)] and [High Quick Cast 2]"
+    }
+  ],
   "id": "20560008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560008/20560008_256.png",
   "character": "Maria",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Buff Earth 20% (15s)] and [High Quick Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Buff Earth 20% (15s)] and [High Quick Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Buff Earth 20% (15s)] and [High Quick Cast 2]"
-    }
-  ]
+  "effects": "Grants [Buff Earth 20% (15s)] and [High Quick Cast 2]"
 }

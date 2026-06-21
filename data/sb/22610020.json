@@ -1,20 +1,4 @@
 {
-  "id": "22610020",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610020/22610020_256.png",
-  "character": "Raijin",
-  "name": "Zenith Raijin Special",
-  "name_jp": "究極秘技「雷神飛竜昇」",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Raijin (Lightning)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Lightning Hammer Flurry+",
       "text": "Six single attacks (1.20/1.25 each) capped at 9999/19999 after 0-2/3+ uses"
     }
-  ]
+  ],
+  "id": "22610020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22610020/22610020_256.png",
+  "character": "Raijin",
+  "name": "Zenith Raijin Special",
+  "name_jp": "究極秘技「雷神飛竜昇」",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Raijin (Lightning)] to the user"
 }

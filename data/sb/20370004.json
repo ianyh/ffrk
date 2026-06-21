@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.56 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (3.56 each)"
+    }
+  ],
   "id": "20370004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370004/20370004_256.png",
   "character": "Vivi",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group attacks (3.56 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (3.56 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (3.56 each)"
-    }
-  ]
+  "effects": "Four group attacks (3.56 each)"
 }

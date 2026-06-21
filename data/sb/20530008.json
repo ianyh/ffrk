@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.70 each), grants [Machinist Rank Boost] and [Machinist EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.70 each), grants [Machinist Rank Boost] and [Machinist EX Mode] to the user"
+    }
+  ],
   "id": "20530008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530008/20530008_256.png",
   "character": "Edgar",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single ranged attacks (0.70 each), grants [Machinist Rank Boost] and [Machinist EX Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged attacks (0.70 each), grants [Machinist Rank Boost] and [Machinist EX Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged attacks (0.70 each), grants [Machinist Rank Boost] and [Machinist EX Mode] to the user"
-    }
-  ]
+  "effects": "Ten single ranged attacks (0.70 each), grants [Machinist Rank Boost] and [Machinist EX Mode] to the user"
 }

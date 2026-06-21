@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Guy)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Gigantbreak (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Guy)], grants [Dual Blessing of Gaia Mode] if any enemy has Imperil Earth 60% or is at 200% Earth weakness, removes [Dual Awoken Earth Mode I (Guy)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Guy)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Gigantbreak (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Guy)], grants [Dual Blessing of Gaia Mode] if any enemy has Imperil Earth 60% or is at 200% Earth weakness, removes [Dual Awoken Earth Mode I (Guy)]"
+    }
+  ],
   "id": "22430014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430014/22430014_256.png",
   "character": "Guy",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Guy)] and [Earth Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Guy)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Guy)], grants [Dual Blessing of Gaia Mode] if any enemy has Imperil Earth 60% or is at 200% Earth weakness, removes [Dual Awoken Earth Mode I (Guy)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Guy)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Guy)], grants [Dual Blessing of Gaia Mode] if any enemy has Imperil Earth 60% or is at 200% Earth weakness, removes [Dual Awoken Earth Mode I (Guy)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Guy)] and [Earth Resonance +5% Boost] to the user"
 }

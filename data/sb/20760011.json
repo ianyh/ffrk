@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
+    }
+  ],
   "id": "20760011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760011/20760011_256.png",
   "character": "Barret",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
-    }
-  ]
+  "effects": "Grants [Attach Fire Stacking], [Attach Fire] and [High Quick Cast 2]"
 }

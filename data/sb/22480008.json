@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Critical Damage +50%], [Awoken Samurai], [Damage Cap +10000], [Samurai High Quick Cast] and [High Retaliate] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Critical Damage +50%], [Awoken Samurai], [Damage Cap +10000], [Samurai High Quick Cast] and [High Retaliate] to the user"
+    }
+  ],
   "id": "22480008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22480008/22480008_256.png",
   "character": "Ayame",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Critical Damage +50%], [Awoken Samurai], [Damage Cap +10000], [Samurai High Quick Cast] and [High Retaliate] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Critical Damage +50%], [Awoken Samurai], [Damage Cap +10000], [Samurai High Quick Cast] and [High Retaliate] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Critical Damage +50%], [Awoken Samurai], [Damage Cap +10000], [Samurai High Quick Cast] and [High Retaliate] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Critical Damage +50%], [Awoken Samurai], [Damage Cap +10000], [Samurai High Quick Cast] and [High Retaliate] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Attach Wind], [Awoken Kindred] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Attach Wind], [Awoken Kindred] and [Damage Cap +10000] to the user"
+    }
+  ],
   "id": "20620011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620011/20620011_256.png",
   "character": "Eiko",
@@ -15,17 +27,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Attach Wind], [Awoken Kindred] and [Damage Cap +10000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Attach Wind], [Awoken Kindred] and [Damage Cap +10000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Attach Wind], [Awoken Kindred] and [Damage Cap +10000] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.32 each), restores HP (85) to all allies, grants [Attach Wind], [Awoken Kindred] and [Damage Cap +10000] to the user"
 }

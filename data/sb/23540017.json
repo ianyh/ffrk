@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Ice/Lightning/Water/Wind/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Lightning/Water/Wind Ability High Boost & chases Ice/Lightning/Water/Wind abilities with 4 single-target Ice/Lightning/Water/Wind/NE magic attacks, Ice/Lightning/Water/Wind Damage +10% for 5 seconds to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target Ice/Lightning/Water/Wind/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Lightning/Water/Wind Ability High Boost & chases Ice/Lightning/Water/Wind abilities with 4 single-target Ice/Lightning/Water/Wind/NE magic attacks, Ice/Lightning/Water/Wind Damage +10% for 5 seconds to party"
+    }
+  ],
   "id": "23540017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540017/23540017_256.png",
   "character": "Arciela",
@@ -17,17 +29,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target Ice/Lightning/Water/Wind/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Lightning/Water/Wind Ability High Boost & chases Ice/Lightning/Water/Wind abilities with 4 single-target Ice/Lightning/Water/Wind/NE magic attacks, Ice/Lightning/Water/Wind Damage +10% for 5 seconds to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Ice/Lightning/Water/Wind/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Lightning/Water/Wind Ability High Boost & chases Ice/Lightning/Water/Wind abilities with 4 single-target Ice/Lightning/Water/Wind/NE magic attacks, Ice/Lightning/Water/Wind Damage +10% for 5 seconds to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target Ice/Lightning/Water/Wind/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Lightning/Water/Wind Ability High Boost & chases Ice/Lightning/Water/Wind abilities with 4 single-target Ice/Lightning/Water/Wind/NE magic attacks, Ice/Lightning/Water/Wind Damage +10% for 5 seconds to party"
-    }
-  ]
+  "effects": "5 single-target Ice/Lightning/Water/Wind/NE magic attacks, Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Ice/Lightning/Water/Wind Ability High Boost & chases Ice/Lightning/Water/Wind abilities with 4 single-target Ice/Lightning/Water/Wind/NE magic attacks, Ice/Lightning/Water/Wind Damage +10% for 5 seconds to party"
 }

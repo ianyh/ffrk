@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga], [Last Stand] and [75% Damage Reduction Barrier 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Regenga], [Last Stand] and [75% Damage Reduction Barrier 1]"
+    }
+  ],
   "id": "22250009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250009/22250009_256.png",
   "character": "Cait Sith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Regenga], [Last Stand] and [75% Damage Reduction Barrier 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Regenga], [Last Stand] and [75% Damage Reduction Barrier 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Regenga], [Last Stand] and [75% Damage Reduction Barrier 1]"
-    }
-  ]
+  "effects": "Grants [Regenga], [Last Stand] and [75% Damage Reduction Barrier 1]"
 }

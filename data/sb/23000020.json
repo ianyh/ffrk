@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Water/Ice/Earth/NE ranged physical attacks, Awoken Galbadian Giant Mode, Cap Break Level 1, Water/Ice/Earth Ability Damage +30%, Instant Cast 1 & 250 SB Points to user\nAwoken Galbadian Giant Mode: Unlimited Water/Ice/Earth Hones, Water/Ice/Earth Rank Quick Cast & chases Water/Ice/Earth abilities with 6 single-target Water/Ice/Earth/NE ranged physical attacks"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target Water/Ice/Earth/NE ranged physical attacks, Awoken Galbadian Giant Mode, Cap Break Level 1, Water/Ice/Earth Ability Damage +30%, Instant Cast 1 & 250 SB Points to user\nAwoken Galbadian Giant Mode: Unlimited Water/Ice/Earth Hones, Water/Ice/Earth Rank Quick Cast & chases Water/Ice/Earth abilities with 6 single-target Water/Ice/Earth/NE ranged physical attacks"
+    }
+  ],
   "id": "23000020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000020/23000020_256.png",
   "character": "Ward",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "15 single-target Water/Ice/Earth/NE ranged physical attacks, Awoken Galbadian Giant Mode, Cap Break Level 1, Water/Ice/Earth Ability Damage +30%, Instant Cast 1 & 250 SB Points to user\nAwoken Galbadian Giant Mode: Unlimited Water/Ice/Earth Hones, Water/Ice/Earth Rank Quick Cast & chases Water/Ice/Earth abilities with 6 single-target Water/Ice/Earth/NE ranged physical attacks",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Water/Ice/Earth/NE ranged physical attacks, Awoken Galbadian Giant Mode, Cap Break Level 1, Water/Ice/Earth Ability Damage +30%, Instant Cast 1 & 250 SB Points to user\nAwoken Galbadian Giant Mode: Unlimited Water/Ice/Earth Hones, Water/Ice/Earth Rank Quick Cast & chases Water/Ice/Earth abilities with 6 single-target Water/Ice/Earth/NE ranged physical attacks"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "15 single-target Water/Ice/Earth/NE ranged physical attacks, Awoken Galbadian Giant Mode, Cap Break Level 1, Water/Ice/Earth Ability Damage +30%, Instant Cast 1 & 250 SB Points to user\nAwoken Galbadian Giant Mode: Unlimited Water/Ice/Earth Hones, Water/Ice/Earth Rank Quick Cast & chases Water/Ice/Earth abilities with 6 single-target Water/Ice/Earth/NE ranged physical attacks"
-    }
-  ]
+  "effects": "15 single-target Water/Ice/Earth/NE ranged physical attacks, Awoken Galbadian Giant Mode, Cap Break Level 1, Water/Ice/Earth Ability Damage +30%, Instant Cast 1 & 250 SB Points to user\nAwoken Galbadian Giant Mode: Unlimited Water/Ice/Earth Hones, Water/Ice/Earth Rank Quick Cast & chases Water/Ice/Earth abilities with 6 single-target Water/Ice/Earth/NE ranged physical attacks"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes Imperil Holy 20%, restores HP (85) to all allies, grants [Imperial Heal] and [Glimpse of Divinity Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes Imperil Holy 20%, restores HP (85) to all allies, grants [Imperial Heal] and [Glimpse of Divinity Follow-Up] to the user"
+    }
+  ],
   "id": "22880006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880006/22880006_256.png",
   "character": "Aphmau",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Causes Imperil Holy 20%, restores HP (85) to all allies, grants [Imperial Heal] and [Glimpse of Divinity Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes Imperil Holy 20%, restores HP (85) to all allies, grants [Imperial Heal] and [Glimpse of Divinity Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes Imperil Holy 20%, restores HP (85) to all allies, grants [Imperial Heal] and [Glimpse of Divinity Follow-Up] to the user"
-    }
-  ]
+  "effects": "Causes Imperil Holy 20%, restores HP (85) to all allies, grants [Imperial Heal] and [Glimpse of Divinity Follow-Up] to the user"
 }

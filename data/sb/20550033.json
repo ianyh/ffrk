@@ -1,20 +1,4 @@
 {
-  "id": "20550033",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550033/20550033_256.png",
-  "character": "Sabin",
-  "name": "Zenith Firewyrm Form",
-  "name_jp": "究極炎竜輪廻",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "VI",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Sabin II], [Attach Fire 3 with Stacking] to user.",
   "description": [
     {
       "name": "Entry",
@@ -50,5 +34,21 @@
       "name": "Spirit Attack: Sabin II",
       "text": "Grants [Fire Ability Quick Cast 3], [Instant ATB 3] to user."
     }
-  ]
+  ],
+  "id": "20550033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550033/20550033_256.png",
+  "character": "Sabin",
+  "name": "Zenith Firewyrm Form",
+  "name_jp": "究極炎竜輪廻",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999. Grants [Zenith Mode], [Damage Cap +10000], [Zenith Mode: Sabin II], [Attach Fire 3 with Stacking] to user."
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
   "id": "23460028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460028/23460028_256.png",
   "character": "Lunafreya",
@@ -11,17 +23,5 @@
   "type": "",
   "target": "",
   "lensable": false,
-  "effects": "",
-  "description": [
-    {
-      "name": "Entry",
-      "text": ""
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": ""
-    }
-  ]
+  "effects": ""
 }

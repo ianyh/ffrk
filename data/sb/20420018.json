@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Water, Holy)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Water, Holy)] and [High Quick Cast 1]"
+    }
+  ],
   "id": "20420018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420018/20420018_256.png",
   "character": "Arc",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Twin Element Mode II (Water, Holy)] and [High Quick Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Twin Element Mode II (Water, Holy)] and [High Quick Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Twin Element Mode II (Water, Holy)] and [High Quick Cast 1]"
-    }
-  ]
+  "effects": "Grants [Twin Element Mode II (Water, Holy)] and [High Quick Cast 1]"
 }

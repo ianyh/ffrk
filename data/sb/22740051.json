@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Lightning, Earth)], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode II (Fire, Lightning, Earth)], [Soul Break Gauge +250], and [200% ATB 1]"
+    }
+  ],
   "id": "22740051",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740051/22740051_256.png",
   "character": "Noctis",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tri-Element Mode II (Fire, Lightning, Earth)], [Soul Break Gauge +250], and [200% ATB 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Mode II (Fire, Lightning, Earth)], [Soul Break Gauge +250], and [200% ATB 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tri-Element Mode II (Fire, Lightning, Earth)], [Soul Break Gauge +250], and [200% ATB 1]"
-    }
-  ]
+  "effects": "Grants [Tri-Element Mode II (Fire, Lightning, Earth)], [Soul Break Gauge +250], and [200% ATB 1]"
 }

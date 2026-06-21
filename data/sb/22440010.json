@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user"
+    }
+  ],
   "id": "22440010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440010/22440010_256.png",
   "character": "Larsa",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user"
-    }
-  ]
+  "effects": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user"
 }

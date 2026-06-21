@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Twin Element Mode II (Fire, Earth)], [Dual Awoken Spellblade Mode I (Rain)], [Spellblade Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Soul Prominence (Dual Shift)",
+      "text": "Grants [Dual Awoken Spellblade Mode II (Rain)] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Twin Element Mode II (Fire, Earth)], [Dual Awoken Spellblade Mode I (Rain)], [Spellblade Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Soul Prominence (Dual Shift)",
+      "text": "Grants [Dual Awoken Spellblade Mode II (Rain)] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "23490013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23490013/23490013_256.png",
   "character": "Rain",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Twin Element Mode II (Fire, Earth)], [Dual Awoken Spellblade Mode I (Rain)], [Spellblade Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Twin Element Mode II (Fire, Earth)], [Dual Awoken Spellblade Mode I (Rain)], [Spellblade Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Dual Awoken Spellblade Mode II (Rain)] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Twin Element Mode II (Fire, Earth)], [Dual Awoken Spellblade Mode I (Rain)], [Spellblade Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Dual Awoken Spellblade Mode II (Rain)] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Twin Element Mode II (Fire, Earth)], [Dual Awoken Spellblade Mode I (Rain)], [Spellblade Resonance +5% Boost] to the user"
 }

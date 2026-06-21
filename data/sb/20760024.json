@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
+    }
+  ],
   "id": "20760024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760024/20760024_256.png",
   "character": "Barret",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Attach Fire with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Fire with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Grants [Attach Fire with Stacking], [Instant ATB 1], and [Instant Cast 1] to the user"
 }

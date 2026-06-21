@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP"
+    }
+  ],
   "id": "22040002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040002/22040002_256.png",
   "character": "Yuffie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP for 40% of the target's maximum HP",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP for 40% of the target's maximum HP"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP for 40% of the target's maximum HP"
-    }
-  ]
+  "effects": "Restores HP for 40% of the target's maximum HP"
 }

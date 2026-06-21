@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Blink 1] and [High Regen], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Blink 1] and [High Regen], grants [Instant Cast 1] to the user"
+    }
+  ],
   "id": "20960006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960006/20960006_256.png",
   "character": "Y'shtola",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Dual Blink 1] and [High Regen], grants [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Dual Blink 1] and [High Regen], grants [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Dual Blink 1] and [High Regen], grants [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Grants [Dual Blink 1] and [High Regen], grants [Instant Cast 1] to the user"
 }

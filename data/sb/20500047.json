@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water or Bio ability, grants Water or Bio Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water or Bio ability, grants Water or Bio Ability Damage +30% for 3 turns to user (max 1 chase)"
+    }
+  ],
   "id": "20500047",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500047/20500047_256.png",
   "character": "Quistis",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water or Bio ability, grants Water or Bio Ability Damage +30% for 3 turns to user (max 1 chase)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water or Bio ability, grants Water or Bio Ability Damage +30% for 3 turns to user (max 1 chase)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water or Bio ability, grants Water or Bio Ability Damage +30% for 3 turns to user (max 1 chase)"
-    }
-  ]
+  "effects": "Ultra Flash & Instant ATB 1 to user, +1 LB Gauge\nUltra Flash: After using a Water or Bio ability, grants Water or Bio Ability Damage +30% for 3 turns to user (max 1 chase)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17), minimum damage 1050"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group attack (7.17), minimum damage 1050"
+    }
+  ],
   "id": "20090002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090002/20090002_256.png",
   "character": "Rydia",
@@ -13,17 +25,5 @@
   "type": "SUM",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group attack (7.17), minimum damage 1050",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.17), minimum damage 1050"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group attack (7.17), minimum damage 1050"
-    }
-  ]
+  "effects": "One group attack (7.17), minimum damage 1050"
 }

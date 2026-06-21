@@ -1,29 +1,11 @@
 {
-  "id": "22210018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210018/22210018_256.png",
-  "character": "Palom",
-  "name": "Infinity",
-  "name_jp": "インフィニティ",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "IV",
-  "elements": [
-    "Lightning",
-    "Fire",
-    "Ice",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Infinity level 0/1, removes Arcane Dyad Empowered: Palom from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Infinity level 0/1, removes Arcane Dyad Empowered: Palom from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Infinity (Engaged)",
       "text": "Grants [Tri-Element Mode (Fire, Ice, Lightning)], [Damage Cap +10000], [Arcane Dyad Empowered: Palom], [Infinity Damage Tracker] and [Infinity Level]"
     }
   ],
@@ -33,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Infinity level 0/1, removes Arcane Dyad Empowered: Palom from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Infinity (Engaged)",
       "text": "Grants [Tri-Element Mode (Fire, Ice, Lightning)], [Damage Cap +10000], [Arcane Dyad Empowered: Palom], [Infinity Damage Tracker] and [Infinity Level]"
     }
-  ]
+  ],
+  "id": "22210018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210018/22210018_256.png",
+  "character": "Palom",
+  "name": "Infinity (Engaged)",
+  "name_jp": "インフィニティ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Tri-Element Mode (Fire, Ice, Lightning)], [Damage Cap +10000], [Arcane Dyad Empowered: Palom], [Infinity Damage Tracker] and [Infinity Level]"
 }

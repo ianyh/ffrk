@@ -1,27 +1,11 @@
 {
-  "id": "20830020",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830020/20830020_256.png",
-  "character": "Cid (VII)",
-  "name": "Dragon Tempest",
-  "name_jp": "ドラゴンテンペスト",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VII",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "20 single-target Wind/NE jump attacks (1.20 each) & single-target Wind/NE Overflow jump attack (12.0), removes True Arcane Augment Mode",
   "description": [
     {
       "name": "Entry",
       "text": "20 single-target Wind/NE jump attacks (1.20 each) & single-target Wind/NE Overflow jump attack (12.0), removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Dragon Tempest (Engaged)",
       "text": "En- Wind, En-Wind Stack, Cap Break Level 1 & True Arcane Augment Mode to user, Instant Cast & Zero SB Cost\nTrue Arcane Augment Mode: Cap Break 1/2 for Dragon Tempest if at least 100001/300001 damage is dealt"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "20 single-target Wind/NE jump attacks (1.20 each) & single-target Wind/NE Overflow jump attack (12.0), removes True Arcane Augment Mode"
     },
     {
-      "name": "Engaged",
+      "name": "Dragon Tempest (Engaged)",
       "text": "En- Wind, En-Wind Stack, Cap Break Level 1 & True Arcane Augment Mode to user, Instant Cast & Zero SB Cost\nTrue Arcane Augment Mode: Cap Break 1/2 for Dragon Tempest if at least 100001/300001 damage is dealt"
     }
-  ]
+  ],
+  "id": "20830020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20830020/20830020_256.png",
+  "character": "Cid (VII)",
+  "name": "Dragon Tempest (Engaged)",
+  "name_jp": "ドラゴンテンペスト",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "En- Wind, En-Wind Stack, Cap Break Level 1 & True Arcane Augment Mode to user, Instant Cast & Zero SB Cost\nTrue Arcane Augment Mode: Cap Break 1/2 for Dragon Tempest if at least 100001/300001 damage is dealt"
 }

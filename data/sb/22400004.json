@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.17 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five group ranged attacks (1.17 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
+    }
+  ],
   "id": "22400004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400004/22400004_256.png",
   "character": "Mustadio",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Five group ranged attacks (1.17 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five group ranged attacks (1.17 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five group ranged attacks (1.17 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
-    }
-  ]
+  "effects": "Five group ranged attacks (1.17 each), [ATK, DEF, MAG, RES and MND -30%] for 25 seconds"
 }

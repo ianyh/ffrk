@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Lightning Stack or Lv.3 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Ice Damage +20%, Physical Casting Speed x1.1 & chases 2 Lightning/Ice abilities with single-target Lightning/Ice/NE Overflow physical attack, [Quick Cast 3 to user] or [Weakness Damage +30% for 3 turns to party] with at least 0/4 XI members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Nullifying Dropkick+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Lightning/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Lightning Stack or Lv.3 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Ice Damage +20%, Physical Casting Speed x1.1 & chases 2 Lightning/Ice abilities with single-target Lightning/Ice/NE Overflow physical attack, [Quick Cast 3 to user] or [Weakness Damage +30% for 3 turns to party] with at least 0/4 XI members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Nullifying Dropkick+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
+    }
+  ],
   "id": "22680020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680020/22680020_256.png",
   "character": "Prishe",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Lightning/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Lightning Stack or Lv.3 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Ice Damage +20%, Physical Casting Speed x1.1 & chases 2 Lightning/Ice abilities with single-target Lightning/Ice/NE Overflow physical attack, [Quick Cast 3 to user] or [Weakness Damage +30% for 3 turns to party] with at least 0/4 XI members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Nullifying Dropkick+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Lightning/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Lightning Stack or Lv.3 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Ice Damage +20%, Physical Casting Speed x1.1 & chases 2 Lightning/Ice abilities with single-target Lightning/Ice/NE Overflow physical attack, [Quick Cast 3 to user] or [Weakness Damage +30% for 3 turns to party] with at least 0/4 XI members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Nullifying Dropkick+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Lightning/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Lightning Stack or Lv.3 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Ice Damage +20%, Physical Casting Speed x1.1 & chases 2 Lightning/Ice abilities with single-target Lightning/Ice/NE Overflow physical attack, [Quick Cast 3 to user] or [Weakness Damage +30% for 3 turns to party] with at least 0/4 XI members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Nullifying Dropkick+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
-    }
-  ]
+  "effects": "7 single-target Lightning/Ice/NE physical attacks at Cap Break Level 1, Lv.3 En-Lightning Stack or Lv.3 En-Ice Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Lightning/Ice Damage +20%, Physical Casting Speed x1.1 & chases 2 Lightning/Ice abilities with single-target Lightning/Ice/NE Overflow physical attack, [Quick Cast 3 to user] or [Weakness Damage +30% for 3 turns to party] with at least 0/4 XI members (max 1 chase)\nUltimate Dexterity Mode: Dualcast Lightning/Ice, Higher Multiplier & Zero Hone Cost to Hero Ability; Nullifying Dropkick+: Higher multiplier & Cap Break Level 1 after 3 uses\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

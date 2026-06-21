@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Physical Blink 1]"
+    }
+  ],
   "id": "20120005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20120005/20120005_256.png",
   "character": "Aerith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Physical Blink 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Physical Blink 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Physical Blink 1]"
-    }
-  ]
+  "effects": "Grants [Physical Blink 1]"
 }

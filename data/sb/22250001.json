@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (randomly 2.37/3.16/3.95 each), [ATK and MAG -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (randomly 2.37/3.16/3.95 each), [ATK and MAG -50%] for 25 seconds"
+    }
+  ],
   "id": "22250001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250001/22250001_256.png",
   "character": "Cait Sith",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group attacks (randomly 2.37/3.16/3.95 each), [ATK and MAG -50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (randomly 2.37/3.16/3.95 each), [ATK and MAG -50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (randomly 2.37/3.16/3.95 each), [ATK and MAG -50%] for 25 seconds"
-    }
-  ]
+  "effects": "Three group attacks (randomly 2.37/3.16/3.95 each), [ATK and MAG -50%] for 25 seconds"
 }

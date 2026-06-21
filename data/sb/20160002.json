@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +100%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[DEF +100%] for 25 seconds"
+    }
+  ],
   "id": "20160002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20160002/20160002_256.png",
   "character": "Knight",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "[DEF +100%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[DEF +100%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[DEF +100%] for 25 seconds"
-    }
-  ]
+  "effects": "[DEF +100%] for 25 seconds"
 }

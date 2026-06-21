@@ -1,28 +1,4 @@
 {
-  "id": "20140036",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140036/20140036_256.png",
-  "character": "Tyro",
-  "name": "Zenith Seeker's Testament",
-  "name_jp": "究極神伝「探究者」",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Core",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "Earth",
-    "Wind",
-    "Water",
-    "Holy",
-    "Dark",
-    "Poison",
-    "NE"
-  ],
-  "type": "NAT",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [Conditional Attach Element] based on entry element damage, [Damage Cap +10000], [Wisdom of Creation Mode], [Zenith Mode] and [Zenith Mode: Tyro] to the user",
   "description": [
     {
       "name": "Entry",
@@ -78,5 +54,29 @@
       "name": "Spirit Attack: Tyro",
       "text": "Four single hybrid ranged attacks (0.75 or 2.41 each), grants [Quick Cast 1] to all allies, [Prismatic +30% Boost 1] to all allies ELEMENT IS SELECTED BASED ON if the user has Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison"
     }
-  ]
+  ],
+  "id": "20140036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140036/20140036_256.png",
+  "character": "Tyro",
+  "name": "Zenith Seeker's Testament",
+  "name_jp": "究極神伝「探究者」",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [Conditional Attach Element] based on entry element damage, [Damage Cap +10000], [Wisdom of Creation Mode], [Zenith Mode] and [Zenith Mode: Tyro] to the user"
 }

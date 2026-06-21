@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 02-/3-4/5+ Earth abilities on allies/5+ Earth abilities on allies and 2+ V realm allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 02-/3-4/5+ Earth abilities on allies/5+ Earth abilities on allies and 2+ V realm allies"
+    }
+  ],
   "id": "23160019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160019/23160019_256.png",
   "character": "Xezat",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "",
   "lensable": false,
-  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 02-/3-4/5+ Earth abilities on allies/5+ Earth abilities on allies and 2+ V realm allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 02-/3-4/5+ Earth abilities on allies/5+ Earth abilities on allies and 2+ V realm allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 02-/3-4/5+ Earth abilities on allies/5+ Earth abilities on allies and 2+ V realm allies"
-    }
-  ]
+  "effects": "Seven single attacks (?/?/?/? each) capped at 19999/29999/49999/59999, followed by three piercing attacks (? each) capped at 99999. Multiplier/cap requirements: 02-/3-4/5+ Earth abilities on allies/5+ Earth abilities on allies and 2+ V realm allies"
 }

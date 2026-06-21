@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Fire] and [Samurai Double] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Fire] and [Samurai Double] to the user"
+    }
+  ],
   "id": "20220009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220009/20220009_256.png",
   "character": "Cyan",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Fire] and [Samurai Double] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Fire] and [Samurai Double] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Fire] and [Samurai Double] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.71 each), [ATK and DEF +30%] to the user for 25 seconds, grants [Attach Fire] and [Samurai Double] to the user"
 }

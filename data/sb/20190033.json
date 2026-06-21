@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Limit Chain (150) & 50% Ice Field, Instant Cast & Zero SB Cost, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, ATK +50% to party, Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ice Limit Chain (150) & 50% Ice Field, Instant Cast & Zero SB Cost, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, ATK +50% to party, Instant Cast 1 to user"
+    }
+  ],
   "id": "20190033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190033/20190033_256.png",
   "character": "Josef",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": false,
-  "effects": "Activates Ice Limit Chain (150) & 50% Ice Field, Instant Cast & Zero SB Cost, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, ATK +50% to party, Instant Cast 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ice Limit Chain (150) & 50% Ice Field, Instant Cast & Zero SB Cost, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, ATK +50% to party, Instant Cast 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ice Limit Chain (150) & 50% Ice Field, Instant Cast & Zero SB Cost, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, ATK +50% to party, Instant Cast 1 to user"
-    }
-  ]
+  "effects": "Activates Ice Limit Chain (150) & 50% Ice Field, Instant Cast & Zero SB Cost, Imperil Ice 10/20/30% for 5 seconds to all targets with 0/2/4 En-Ice members, ATK +50% to party, Instant Cast 1 to user"
 }

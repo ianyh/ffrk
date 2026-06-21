@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.53 each), grants [Synchro Mode], [Damage Cap +10000], [Instant Cast] and [Linked Materia Mode III (Fire, Dark)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.53 each), grants [Synchro Mode], [Damage Cap +10000], [Instant Cast] and [Linked Materia Mode III (Fire, Dark)]"
+    }
+  ],
   "id": "20250036",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250036/20250036_256.png",
   "character": "Sephiroth",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.53 each), grants [Synchro Mode], [Damage Cap +10000], [Instant Cast] and [Linked Materia Mode III (Fire, Dark)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.53 each), grants [Synchro Mode], [Damage Cap +10000], [Instant Cast] and [Linked Materia Mode III (Fire, Dark)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.53 each), grants [Synchro Mode], [Damage Cap +10000], [Instant Cast] and [Linked Materia Mode III (Fire, Dark)]"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.53 each), grants [Synchro Mode], [Damage Cap +10000], [Instant Cast] and [Linked Materia Mode III (Fire, Dark)]"
 }

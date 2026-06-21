@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Doll Embrace (Weapon Skill)",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Ice, Lightning, Water Damage Cap +20000 (Tactical)], [Ice, Lightning, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice, Lightning, Water Ability +60% Boost (Tactical)] to user if Level 2+ EnIce or EnWater or EnLightning, grants [Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Doll Embrace (Weapon Skill)",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Ice, Lightning, Water Damage Cap +20000 (Tactical)], [Ice, Lightning, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice, Lightning, Water Ability +60% Boost (Tactical)] to user if Level 2+ EnIce or EnWater or EnLightning, grants [Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not."
+    }
+  ],
   "id": "20880033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880033/20880033_256.png",
   "character": "Lulu",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (31.00 each) capped at 199,999. Grants [Ice, Lightning, Water Damage Cap +20000 (Tactical)], [Ice, Lightning, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice, Lightning, Water Ability +60% Boost (Tactical)] to user if Level 2+ EnIce or EnWater or EnLightning, grants [Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (31.00 each) capped at 199,999. Grants [Ice, Lightning, Water Damage Cap +20000 (Tactical)], [Ice, Lightning, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice, Lightning, Water Ability +60% Boost (Tactical)] to user if Level 2+ EnIce or EnWater or EnLightning, grants [Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking]/[Attach Lightning 2 with Stacking] to user if not."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Lulu], [MAG +500 (25s) (Tactical)] to user."
 }

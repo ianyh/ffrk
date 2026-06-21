@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Empath Mode I (Vanille)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Miracle Prayer (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Empath Mode II (Vanille)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Empath Mode I (Vanille)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Miracle Prayer (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Empath Mode II (Vanille)]"
+    }
+  ],
   "id": "20320019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20320019/20320019_256.png",
   "character": "Vanille",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "",
   "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Empath Mode I (Vanille)] and [White Magic Healing Resonance Boost +5%] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Empath Mode I (Vanille)] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Empath Mode II (Vanille)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Empath Mode I (Vanille)] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Empath Mode II (Vanille)]"
-    }
-  ]
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Empath Mode I (Vanille)] and [White Magic Healing Resonance Boost +5%] to the user"
 }

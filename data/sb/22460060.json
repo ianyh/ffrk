@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Black Magic Ability Boost, Dualcast Black Magic, Zero Hone Cost to Black Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE magic attacks at Cap Break Level 1, Instant Cast, Quick Cast 2 to party, [Cap Break Level 1, Magic Damage +30%, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Earth/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Black Magic Ability Boost, Dualcast Black Magic, Zero Hone Cost to Black Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE magic attacks at Cap Break Level 1, Instant Cast, Quick Cast 2 to party, [Cap Break Level 1, Magic Damage +30%, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
   "id": "22460060",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460060/22460060_256.png",
   "character": "Onion Knight",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Earth/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Black Magic Ability Boost, Dualcast Black Magic, Zero Hone Cost to Black Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE magic attacks at Cap Break Level 1, Instant Cast, Quick Cast 2 to party, [Cap Break Level 1, Magic Damage +30%, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Black Magic Ability Boost, Dualcast Black Magic, Zero Hone Cost to Black Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE magic attacks at Cap Break Level 1, Instant Cast, Quick Cast 2 to party, [Cap Break Level 1, Magic Damage +30%, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Earth/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Black Magic Ability Boost, Dualcast Black Magic, Zero Hone Cost to Black Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE magic attacks at Cap Break Level 1, Instant Cast, Quick Cast 2 to party, [Cap Break Level 1, Magic Damage +30%, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ]
+  "effects": "7 single-target Earth/NE magic attacks at Cap Break Level 1, En-Earth, En-Earth Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Black Magic Ability Boost, Dualcast Black Magic, Zero Hone Cost to Black Magic Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Earth/NE magic attacks at Cap Break Level 1, Instant Cast, Quick Cast 2 to party, [Cap Break Level 1, Magic Damage +30%, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
 }

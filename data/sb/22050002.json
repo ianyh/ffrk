@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (1.34 each), causes [Sap] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three group attacks (1.34 each), causes [Sap] (20%)"
+    }
+  ],
   "id": "22050002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050002/22050002_256.png",
   "character": "Beatrix",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Three group attacks (1.34 each), causes [Sap] (20%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (1.34 each), causes [Sap] (20%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three group attacks (1.34 each), causes [Sap] (20%)"
-    }
-  ]
+  "effects": "Three group attacks (1.34 each), causes [Sap] (20%)"
 }

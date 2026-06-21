@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (2.00), Restores HP (35) to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One group ranged attack (2.00), Restores HP (35) to all allies"
+    }
+  ],
   "id": "20140007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140007/20140007_256.png",
   "character": "Tyro",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "One group ranged attack (2.00), Restores HP (35) to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (2.00), Restores HP (35) to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One group ranged attack (2.00), Restores HP (35) to all allies"
-    }
-  ]
+  "effects": "One group ranged attack (2.00), Restores HP (35) to all allies"
 }

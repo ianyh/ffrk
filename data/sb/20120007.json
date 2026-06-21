@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Blink 1] and [Critical Chance 50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Blink 1] and [Critical Chance 50%] for 25 seconds"
+    }
+  ],
   "id": "20120007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20120007/20120007_256.png",
   "character": "Aerith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Magical Blink 1] and [Critical Chance 50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Magical Blink 1] and [Critical Chance 50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Magical Blink 1] and [Critical Chance 50%] for 25 seconds"
-    }
-  ]
+  "effects": "Grants [Magical Blink 1] and [Critical Chance 50%] for 25 seconds"
 }

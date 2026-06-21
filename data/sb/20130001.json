@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.30), causes [Slow] (50%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.30), causes [Slow] (50%)"
+    }
+  ],
   "id": "20130001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20130001/20130001_256.png",
   "character": "Tidus",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.30), causes [Slow] (50%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.30), causes [Slow] (50%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.30), causes [Slow] (50%)"
-    }
-  ]
+  "effects": "One single attack (1.30), causes [Slow] (50%)"
 }

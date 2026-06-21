@@ -1,22 +1,4 @@
 {
-  "id": "23430017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430017/23430017_256.png",
-  "character": "Trey",
-  "name": "Zenith Precise Shot",
-  "name_jp": "究極アキュレートアロー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Type-0",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Water",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking] to the user if the entry damage was Fire/Ice/Water, [Zenith Mode], [Zenith Mode: Trey (Fire, Ice, Water)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -68,5 +50,23 @@
       "name": "Spirit Attack: Trey",
       "text": "One single attack (5.19) capped at 99999, 5.83 if exploiting Fire/Ice/Water weakness"
     }
-  ]
+  ],
+  "id": "23430017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430017/23430017_256.png",
+  "character": "Trey",
+  "name": "Zenith Precise Shot",
+  "name_jp": "究極アキュレートアロー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Water 2 with Stacking] to the user if the entry damage was Fire/Ice/Water, [Zenith Mode], [Zenith Mode: Trey (Fire, Ice, Water)] and [Damage Cap +10000] to the user"
 }

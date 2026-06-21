@@ -1,20 +1,4 @@
 {
-  "id": "22110022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110022/22110022_256.png",
-  "character": "Freya",
-  "name": "Zenith Cherry Blossom",
-  "name_jp": "究極桜華狂咲",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IX",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single jump attacks (? each) capped at 19999, grants [Damage Cap +10000], [Attach Window 3 with Stacking], [Zenith Mode], and [Zenith Mode: Freya (Wind)]",
   "description": [
     {
       "name": "Entry",
@@ -62,5 +46,21 @@
       "name": "Spirit Attack: Freya",
       "text": "Grants [Weakness +30% Boost 3] to the user/party if there are 0-3/4+ Dragoon or IX members in the party"
     }
-  ]
+  ],
+  "id": "22110022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110022/22110022_256.png",
+  "character": "Freya",
+  "name": "Zenith Cherry Blossom",
+  "name_jp": "究極桜華狂咲",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single jump attacks (? each) capped at 19999, grants [Damage Cap +10000], [Attach Window 3 with Stacking], [Zenith Mode], and [Zenith Mode: Freya (Wind)]"
 }

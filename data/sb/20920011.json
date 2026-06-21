@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, causes [ATK and MAG -50% (8s)], grants [50% Damage Reduction Barrier 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, causes [ATK and MAG -50% (8s)], grants [50% Damage Reduction Barrier 1] to all allies"
+    }
+  ],
   "id": "20920011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920011/20920011_256.png",
   "character": "Reno",
@@ -13,17 +25,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Four single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, causes [ATK and MAG -50% (8s)], grants [50% Damage Reduction Barrier 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, causes [ATK and MAG -50% (8s)], grants [50% Damage Reduction Barrier 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, causes [ATK and MAG -50% (8s)], grants [50% Damage Reduction Barrier 1] to all allies"
-    }
-  ]
+  "effects": "Four single hybrid ranged attacks (1.00 or 3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF and RES, 100% additional critical chance, causes [ATK and MAG -50% (8s)], grants [50% Damage Reduction Barrier 1] to all allies"
 }

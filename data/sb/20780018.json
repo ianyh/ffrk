@@ -1,27 +1,11 @@
 {
-  "id": "20780018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780018/20780018_256.png",
-  "character": "Setzer",
-  "name": "Apex Red Card",
-  "name_jp": "ブラッディカード・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "VI",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one ranged single attack (10.00/11.00) capped at 99999 at Apex Red Card level 0/1, removes Arcane Dyad Empowered: Setzer from the user, grants [Instant Cast 1] to all allies",
   "description": [
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one ranged single attack (10.00/11.00) capped at 99999 at Apex Red Card level 0/1, removes Arcane Dyad Empowered: Setzer from the user, grants [Instant Cast 1] to all allies"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Red Card (Engaged)",
       "text": "Grants [Attach Dark], [Quick Cast 3], [SB Gauge +25% Boost 3], [Arcane Dyad Empowered: Setzer], [Apex Red Card Ability Tracker] and [Apex Red Card Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one ranged single attack (10.00/11.00) capped at 99999 at Apex Red Card level 0/1, removes Arcane Dyad Empowered: Setzer from the user, grants [Instant Cast 1] to all allies"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Red Card (Engaged)",
       "text": "Grants [Attach Dark], [Quick Cast 3], [SB Gauge +25% Boost 3], [Arcane Dyad Empowered: Setzer], [Apex Red Card Ability Tracker] and [Apex Red Card Level]"
     }
-  ]
+  ],
+  "id": "20780018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780018/20780018_256.png",
+  "character": "Setzer",
+  "name": "Apex Red Card (Engaged)",
+  "name_jp": "ブラッディカード・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Dark], [Quick Cast 3], [SB Gauge +25% Boost 3], [Arcane Dyad Empowered: Setzer], [Apex Red Card Ability Tracker] and [Apex Red Card Level]"
 }

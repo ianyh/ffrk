@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +15%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK +15%] for 25 seconds"
+    }
+  ],
   "id": "23300003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300003/23300003_256.png",
   "character": "Hilda",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "[ATK +15%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +15%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK +15%] for 25 seconds"
-    }
-  ]
+  "effects": "[ATK +15%] for 25 seconds"
 }

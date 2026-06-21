@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using critical Crystal Force, grants [Cap Break Level 2 & Deadly Strikes +50%] for 2 turns to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using critical Crystal Force, grants [Cap Break Level 2 & Deadly Strikes +50%] for 2 turns to user"
+    }
+  ],
   "id": "20670025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670025/20670025_256.png",
   "character": "Zell",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using critical Crystal Force, grants [Cap Break Level 2 & Deadly Strikes +50%] for 2 turns to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using critical Crystal Force, grants [Cap Break Level 2 & Deadly Strikes +50%] for 2 turns to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target physical attacks (0.90 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using critical Crystal Force, grants [Cap Break Level 2 & Deadly Strikes +50%] for 2 turns to user"
-    }
-  ]
+  "effects": "7 single-target physical attacks (0.90 each) capped at 19999, En-Fire, En-Fire Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Fire Ability Boost, Dualcast Fire, Zero Hone Cost to Fire Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (2.00 each) capped at 19999, Instant Cast, [Quick Cast, PHY Damage +30% & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user; After using critical Crystal Force, grants [Cap Break Level 2 & Deadly Strikes +50%] for 2 turns to user"
 }

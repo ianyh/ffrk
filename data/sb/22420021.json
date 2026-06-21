@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Full Throttle Water], [Damage Cap +10000] and [Sardonic Swordfighter Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Full Throttle Water], [Damage Cap +10000] and [Sardonic Swordfighter Mode] to the user"
+    }
+  ],
   "id": "22420021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22420021/22420021_256.png",
   "character": "Paine",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Full Throttle Water], [Damage Cap +10000] and [Sardonic Swordfighter Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Full Throttle Water], [Damage Cap +10000] and [Sardonic Swordfighter Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Full Throttle Water], [Damage Cap +10000] and [Sardonic Swordfighter Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water with Stacking], [Awoken Full Throttle Water], [Damage Cap +10000] and [Sardonic Swordfighter Mode] to the user"
 }

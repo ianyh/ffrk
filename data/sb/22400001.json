@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)"
+    }
+  ],
   "id": "22400001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22400001/22400001_256.png",
   "character": "Mustadio",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)"
-    }
-  ]
+  "effects": "Eight random attacks (0.99 each), 1.07 multiplier if the target has [Stop], [Silence] or [Paralyze], causes [Stop] (100%), [Silence] (100%) and [Paralyze] (100%)"
 }

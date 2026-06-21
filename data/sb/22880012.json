@@ -1,17 +1,4 @@
 {
-  "id": "22880012",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880012/22880012_256.png",
-  "character": "Aphmau",
-  "name": "Zenith Imperial Heal",
-  "name_jp": "究極インペリアルヒール",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XI",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Natural Cure: Aphmau] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Aphmau] to the user",
   "description": [
     {
       "name": "Entry",
@@ -55,5 +42,18 @@
       "name": "Entry",
       "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Natural Cure: Aphmau] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Aphmau] to the user"
     }
-  ]
+  ],
+  "id": "22880012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880012/22880012_256.png",
+  "character": "Aphmau",
+  "name": "Zenith Imperial Heal",
+  "name_jp": "究極インペリアルヒール",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Natural Cure: Aphmau] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Aphmau] to the user"
 }

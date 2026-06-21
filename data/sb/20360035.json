@@ -1,20 +1,4 @@
 {
-  "id": "20360035",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360035/20360035_256.png",
-  "character": "Garnet",
-  "name": "Zenith Maiden's Mettle",
-  "name_jp": "究極美姫の決意",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "IX",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Garnet (Summoning, Bard)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Garnet (Lightning)",
       "text": "Four single attacks (1.50 each), causes [Imperil Lightning (5s)]"
     }
-  ]
+  ],
+  "id": "20360035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360035/20360035_256.png",
+  "character": "Garnet",
+  "name": "Zenith Maiden's Mettle",
+  "name_jp": "究極美姫の決意",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Garnet (Summoning, Bard)] and [Damage Cap +10000] to the user"
 }

@@ -1,21 +1,4 @@
 {
-  "id": "20360044",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360044/20360044_256.png",
-  "character": "Garnet",
-  "name": "Zenith Summoner's Legacy",
-  "name_jp": "究極残されし召喚士の力",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "IX",
-  "elements": [
-    "Lightning",
-    "Holy",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single-target Lightning/Holy/NE summon magical attacks (3.05 each) capped at 19999, grants [Attach Lightning 2 with Stacking] or [Attach Holy 2 with Stacking], [Damage Cap +10000], [Garnet Trance], [Zenith Mode] & Zenith Mode: Garnet (Lightning/Holy) to user\nUltimate Spirit Mode: En-Lightning/Holy Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Lightning/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Divine Guardian+ II: 6 hits\nUltimate Vitality Mode: +1500 max HP & Astra to user",
   "description": [
     {
       "name": "Entry",
@@ -55,5 +38,22 @@
       "name": "Divine Guardian+ II",
       "text": "Five single attacks (? each), minimum damage ?, restores 1000 HP to all allies"
     }
-  ]
+  ],
+  "id": "20360044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360044/20360044_256.png",
+  "character": "Garnet",
+  "name": "Zenith Summoner's Legacy",
+  "name_jp": "究極残されし召喚士の力",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single-target Lightning/Holy/NE summon magical attacks (3.05 each) capped at 19999, grants [Attach Lightning 2 with Stacking] or [Attach Holy 2 with Stacking], [Damage Cap +10000], [Garnet Trance], [Zenith Mode] & Zenith Mode: Garnet (Lightning/Holy) to user\nUltimate Spirit Mode: En-Lightning/Holy Damage +20% & Magic Casting Speed x1.1\nUltimate Dexterity Mode: Dualcast Lightning/Holy, Higher Multiplier & Zero Hone Cost to Hero Ability; Divine Guardian+ II: 6 hits\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

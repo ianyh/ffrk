@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group ranged attacks (0.49~0.97 each scaling with targets), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group ranged attacks (0.49~0.97 each scaling with targets), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22630003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630003/22630003_256.png",
   "character": "Rufus",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Eight group ranged attacks (0.49~0.97 each scaling with targets), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight group ranged attacks (0.49~0.97 each scaling with targets), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight group ranged attacks (0.49~0.97 each scaling with targets), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight group ranged attacks (0.49~0.97 each scaling with targets), causes [Imperil Dark 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

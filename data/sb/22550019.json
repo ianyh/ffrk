@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Holy with Stacking], [Damage Cap +10000], [Thunder God's Might], [Dual Awoken Thunder God Mode I (Orlandeau)], and [Knight/Darkness Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Sword Saint (Dual Shift)",
+      "text": "Grants [Instant ATB 1], [Dual Awoken Thunder God Mode II (Orlandeau)], and Smart Ether 3 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Holy with Stacking], [Damage Cap +10000], [Thunder God's Might], [Dual Awoken Thunder God Mode I (Orlandeau)], and [Knight/Darkness Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Sword Saint (Dual Shift)",
+      "text": "Grants [Instant ATB 1], [Dual Awoken Thunder God Mode II (Orlandeau)], and Smart Ether 3 to the user"
+    }
+  ],
   "id": "22550019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22550019/22550019_256.png",
   "character": "Orlandeau",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Holy with Stacking], [Damage Cap +10000], [Thunder God's Might], [Dual Awoken Thunder God Mode I (Orlandeau)], and [Knight/Darkness Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Holy with Stacking], [Damage Cap +10000], [Thunder God's Might], [Dual Awoken Thunder God Mode I (Orlandeau)], and [Knight/Darkness Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], [Dual Awoken Thunder God Mode II (Orlandeau)], and Smart Ether 3 to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Holy with Stacking], [Damage Cap +10000], [Thunder God's Might], [Dual Awoken Thunder God Mode I (Orlandeau)], and [Knight/Darkness Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1], [Dual Awoken Thunder God Mode II (Orlandeau)], and Smart Ether 3 to the user"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Holy with Stacking], [Damage Cap +10000], [Thunder God's Might], [Dual Awoken Thunder God Mode I (Orlandeau)], and [Knight/Darkness Resonance +5% Boost] to the user"
 }

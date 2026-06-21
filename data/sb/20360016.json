@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user"
+    }
+  ],
   "id": "20360016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360016/20360016_256.png",
   "character": "Garnet",
@@ -14,17 +26,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user"
 }

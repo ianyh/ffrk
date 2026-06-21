@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), [ATK and MAG -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.72 each), [ATK and MAG -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user"
+    }
+  ],
   "id": "20580007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20580007/20580007_256.png",
   "character": "Leon",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.72 each), [ATK and MAG -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), [ATK and MAG -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.72 each), [ATK and MAG -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.72 each), [ATK and MAG -40%] for 25 seconds, grants [Quick Cast] and [Brave Mode] to the user"
 }

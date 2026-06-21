@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Lunarian Prayer (Dual Shift)",
+      "text": "Grants [Regenga], grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (Fusoya)] to the user, removes [Dual Awoken Highborn Mode I (Fusoya)] from the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Lunarian Prayer (Dual Shift)",
+      "text": "Grants [Regenga], grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (Fusoya)] to the user, removes [Dual Awoken Highborn Mode I (Fusoya)] from the user"
+    }
+  ],
   "id": "20730016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730016/20730016_256.png",
   "character": "Fusoya",
@@ -14,25 +34,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Regenga], grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (Fusoya)] to the user, removes [Dual Awoken Highborn Mode I (Fusoya)] from the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Regenga], grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (Fusoya)] to the user, removes [Dual Awoken Highborn Mode I (Fusoya)] from the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user"
 }

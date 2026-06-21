@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Five random attacks (3.54 each), grants [Attach Ice] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Five random attacks (3.54 each), grants [Attach Ice] to the user"
+    }
+  ],
   "id": "22330001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330001/22330001_256.png",
   "character": "Papalymo",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Five random attacks (3.54 each), grants [Attach Ice] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Five random attacks (3.54 each), grants [Attach Ice] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Five random attacks (3.54 each), grants [Attach Ice] to the user"
-    }
-  ]
+  "effects": "Five random attacks (3.54 each), grants [Attach Ice] to the user"
 }

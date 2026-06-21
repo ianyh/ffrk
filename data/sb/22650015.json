@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500] and [200% ATB 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Break Gauge +500] and [200% ATB 1]"
+    }
+  ],
   "id": "22650015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22650015/22650015_256.png",
   "character": "Lann",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Soul Break Gauge +500] and [200% ATB 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Break Gauge +500] and [200% ATB 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Soul Break Gauge +500] and [200% ATB 1]"
-    }
-  ]
+  "effects": "Grants [Soul Break Gauge +500] and [200% ATB 1]"
 }

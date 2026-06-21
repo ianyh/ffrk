@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Storm of Darkness Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Storm of Darkness Follow-Up] to the user"
+    }
+  ],
   "id": "23220004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220004/23220004_256.png",
   "character": "Barbariccia",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Storm of Darkness Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Storm of Darkness Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Storm of Darkness Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Wind], [Awoken Wind], [Damage Cap +10000] and [Storm of Darkness Follow-Up] to the user"
 }

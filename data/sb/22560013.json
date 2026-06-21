@@ -1,20 +1,4 @@
 {
-  "id": "22560013",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22560013/22560013_256.png",
-  "character": "Gaffgarion",
-  "name": "Zenith Fellsword Dance",
-  "name_jp": "究極暗黒剣舞",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "FFT",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "7 single-target Dark/NE physical attacks at Cap Break Level 1, ATK/MAG/DEF/RES +30% for 8 seconds to party, Lv.3 En-Dark, En-Dark Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark Damage +20%, Physical Casting Speed x1.1 & chases a Dark ability with 70% maxHP recoil and [Cap Break Level 1 & Dark Ability Damage +30%] for 3 turns to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Dark, Higher Multiplier & Zero Hone Cost to Hero Ability; Duskblade+: Higher multiplier & Cap Break Level 1 after 3 uses; Shadowblade+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user",
   "description": [
     {
       "name": "Entry",
@@ -42,5 +26,21 @@
       "name": "Duskblade+",
       "text": "Seven single attacks (?/? each) capped at 9999/19999 after 0-2/3+ uses, smart ether 1 to the user every second activation"
     }
-  ]
+  ],
+  "id": "22560013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22560013/22560013_256.png",
+  "character": "Gaffgarion",
+  "name": "Zenith Fellsword Dance",
+  "name_jp": "究極暗黒剣舞",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "FFT",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single-target Dark/NE physical attacks at Cap Break Level 1, ATK/MAG/DEF/RES +30% for 8 seconds to party, Lv.3 En-Dark, En-Dark Stack, Cap Break Level 1 & Ultimate Mode to user\nUltimate Spirit Mode: En-Dark Damage +20%, Physical Casting Speed x1.1 & chases a Dark ability with 70% maxHP recoil and [Cap Break Level 1 & Dark Ability Damage +30%] for 3 turns to user (max 1 chase)\nUltimate Dexterity Mode: Dualcast Dark, Higher Multiplier & Zero Hone Cost to Hero Ability; Duskblade+: Higher multiplier & Cap Break Level 1 after 3 uses; Shadowblade+: 1.2s CT\nUltimate Vitality Mode: +1500 max HP & Astra to user"
 }

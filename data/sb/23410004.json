@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged hybrid attacks (0.52 or 1.24 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six single ranged hybrid attacks (0.52 or 1.24 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
+    }
+  ],
   "id": "23410004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23410004/23410004_256.png",
   "character": "Axel",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Six single ranged hybrid attacks (0.52 or 1.24 each), grants [Attach Fire Stacking] and [Attach Fire] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six single ranged hybrid attacks (0.52 or 1.24 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six single ranged hybrid attacks (0.52 or 1.24 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
-    }
-  ]
+  "effects": "Six single ranged hybrid attacks (0.52 or 1.24 each), grants [Attach Fire Stacking] and [Attach Fire] to the user"
 }

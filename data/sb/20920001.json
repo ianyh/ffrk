@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.40), causes [Stop] (16%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.40), causes [Stop] (16%)"
+    }
+  ],
   "id": "20920001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920001/20920001_256.png",
   "character": "Reno",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.40), causes [Stop] (16%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.40), causes [Stop] (16%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.40), causes [Stop] (16%)"
-    }
-  ]
+  "effects": "One single attack (1.40), causes [Stop] (16%)"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Astra], [ATK, MAG and MND +30%], [Empower Healing 30%] and [125% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Larsa] to self"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (55), grants [Astra], [ATK, MAG and MND +30%], [Empower Healing 30%] and [125% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Larsa] to self"
+    }
+  ],
   "id": "22440018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440018/22440018_256.png",
   "character": "Larsa",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (55), grants [Astra], [ATK, MAG and MND +30%], [Empower Healing 30%] and [125% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Larsa] to self",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [Astra], [ATK, MAG and MND +30%], [Empower Healing 30%] and [125% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Larsa] to self"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (55), grants [Astra], [ATK, MAG and MND +30%], [Empower Healing 30%] and [125% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Larsa] to self"
-    }
-  ]
+  "effects": "Restores HP (55), grants [Astra], [ATK, MAG and MND +30%], [Empower Healing 30%] and [125% Quick Cast] to all allies, grants [Crystal Force Mode] and [Crystal Force Mode: Larsa] to self"
 }

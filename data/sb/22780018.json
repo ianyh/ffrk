@@ -1,30 +1,11 @@
 {
-  "id": "22780018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780018/22780018_256.png",
-  "character": "Cid (XIV)",
-  "name": "Chain Saw",
-  "name_jp": "回転のこぎり【XIV】",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "XIV",
-  "elements": [
-    "Fire",
-    "Earth",
-    "Wind",
-    "Poison",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10/ each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Chain Saw level 0/1, removes Arcane Dyad Empowered: Cid (XIV) from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/ each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Chain Saw level 0/1, removes Arcane Dyad Empowered: Cid (XIV) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Chain Saw (Engaged)",
       "text": "[Imperil Fire 10% (15s)], [Imperil Earth 10% (15s)], [Imperil Wind 10% (15s)], [Imperil Poison 10% (15s)], grants [Buff Fire 10% (15s)], [Buff Earth 10% (15s)], [Buff Wind 10% (15s)], [Buff Poison 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Cid (XIV)], [Chain Saw Damage Tracker], and [Chain Saw Level] to the user"
     }
   ],
@@ -34,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/ each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Chain Saw level 0/1, removes Arcane Dyad Empowered: Cid (XIV) from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Chain Saw (Engaged)",
       "text": "[Imperil Fire 10% (15s)], [Imperil Earth 10% (15s)], [Imperil Wind 10% (15s)], [Imperil Poison 10% (15s)], grants [Buff Fire 10% (15s)], [Buff Earth 10% (15s)], [Buff Wind 10% (15s)], [Buff Poison 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Cid (XIV)], [Chain Saw Damage Tracker], and [Chain Saw Level] to the user"
     }
-  ]
+  ],
+  "id": "22780018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780018/22780018_256.png",
+  "character": "Cid (XIV)",
+  "name": "Chain Saw (Engaged)",
+  "name_jp": "回転のこぎり【XIV】",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "[Imperil Fire 10% (15s)], [Imperil Earth 10% (15s)], [Imperil Wind 10% (15s)], [Imperil Poison 10% (15s)], grants [Buff Fire 10% (15s)], [Buff Earth 10% (15s)], [Buff Wind 10% (15s)], [Buff Poison 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Cid (XIV)], [Chain Saw Damage Tracker], and [Chain Saw Level] to the user"
 }

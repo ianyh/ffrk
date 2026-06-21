@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20880006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880006/20880006_256.png",
   "character": "Lulu",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.77 each), grants [Haste] and [Burst Mode] to the user"
 }

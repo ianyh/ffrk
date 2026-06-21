@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Awoken Turks Recruit], [Damage Cap +10000], [Instant Cast 1], [Linked Materia Mode (Fire, Lightning)] and [Rookie Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Awoken Turks Recruit], [Damage Cap +10000], [Instant Cast 1], [Linked Materia Mode (Fire, Lightning)] and [Rookie Mode] to the user"
+    }
+  ],
   "id": "23020007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020007/23020007_256.png",
   "character": "Elena",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [Awoken Turks Recruit], [Damage Cap +10000], [Instant Cast 1], [Linked Materia Mode (Fire, Lightning)] and [Rookie Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Awoken Turks Recruit], [Damage Cap +10000], [Instant Cast 1], [Linked Materia Mode (Fire, Lightning)] and [Rookie Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Awoken Turks Recruit], [Damage Cap +10000], [Instant Cast 1], [Linked Materia Mode (Fire, Lightning)] and [Rookie Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Awoken Turks Recruit], [Damage Cap +10000], [Instant Cast 1], [Linked Materia Mode (Fire, Lightning)] and [Rookie Mode] to the user"
 }

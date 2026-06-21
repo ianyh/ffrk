@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.16) capped at 99999, 12.84 multiplier if exploiting elemental weakness"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (11.16) capped at 99999, 12.84 multiplier if exploiting elemental weakness"
+    }
+  ],
   "id": "23100005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100005/23100005_256.png",
   "character": "Queen",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (11.16) capped at 99999, 12.84 multiplier if exploiting elemental weakness",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (11.16) capped at 99999, 12.84 multiplier if exploiting elemental weakness"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (11.16) capped at 99999, 12.84 multiplier if exploiting elemental weakness"
-    }
-  ]
+  "effects": "One single attack (11.16) capped at 99999, 12.84 multiplier if exploiting elemental weakness"
 }

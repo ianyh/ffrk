@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 99, field +20%), twenty-two single ranged jump attacks (0.36 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Lightning Chain (max 99, field +20%), twenty-two single ranged jump attacks (0.36 each)"
+    }
+  ],
   "id": "20080009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20080009/20080009_256.png",
   "character": "Kain",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Activates Lightning Chain (max 99, field +20%), twenty-two single ranged jump attacks (0.36 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Lightning Chain (max 99, field +20%), twenty-two single ranged jump attacks (0.36 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Lightning Chain (max 99, field +20%), twenty-two single ranged jump attacks (0.36 each)"
-    }
-  ]
+  "effects": "Activates Lightning Chain (max 99, field +20%), twenty-two single ranged jump attacks (0.36 each)"
 }

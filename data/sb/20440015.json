@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Fire 20% (15s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Fire 20% (15s)]"
+    }
+  ],
   "id": "20440015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440015/20440015_256.png",
   "character": "Balthier",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Fire Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Fire 20% (15s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Fire Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Fire 20% (15s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Fire Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Fire 20% (15s)]"
-    }
-  ]
+  "effects": "Activates Fire Chain (max 99, field +50%), grants [ATK +50%] for 25 seconds, grants [Buff Fire 20% (15s)]"
 }

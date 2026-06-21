@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party"
+    }
+  ],
   "id": "23580002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23580002/23580002_256.png",
   "character": "Shadowsmith",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party"
-    }
-  ]
+  "effects": "Activates Core/Beyond Chain (99) & 50% Core/Beyond Field, ATK/MAG/DEF/RES +30% & Instant Cast 1 to party"
 }

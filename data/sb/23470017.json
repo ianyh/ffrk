@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Quick Cast (15s)] and [Flames of Doom Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Quick Cast (15s)] and [Flames of Doom Follow-Up] to the user"
+    }
+  ],
   "id": "23470017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23470017/23470017_256.png",
   "character": "Genesis",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Quick Cast (15s)] and [Flames of Doom Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Quick Cast (15s)] and [Flames of Doom Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Quick Cast (15s)] and [Flames of Doom Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Critical Damage +50%], [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000], [Fire Ability Quick Cast (15s)] and [Flames of Doom Follow-Up] to the user"
 }

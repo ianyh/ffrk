@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 99, field +20%), eleven single attacks (0.72 each), [DEF and RES -50%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 99, field +20%), eleven single attacks (0.72 each), [DEF and RES -50%] for 25 seconds"
+    }
+  ],
   "id": "20240009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20240009/20240009_256.png",
   "character": "Locke",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Activates Fire Chain (max 99, field +20%), eleven single attacks (0.72 each), [DEF and RES -50%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Fire Chain (max 99, field +20%), eleven single attacks (0.72 each), [DEF and RES -50%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Fire Chain (max 99, field +20%), eleven single attacks (0.72 each), [DEF and RES -50%] for 25 seconds"
-    }
-  ]
+  "effects": "Activates Fire Chain (max 99, field +20%), eleven single attacks (0.72 each), [DEF and RES -50%] for 25 seconds"
 }

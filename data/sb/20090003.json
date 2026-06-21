@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (3.75 each), grants [Physical Blink 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two group attacks (3.75 each), grants [Physical Blink 2] to the user"
+    }
+  ],
   "id": "20090003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090003/20090003_256.png",
   "character": "Rydia",
@@ -13,17 +25,5 @@
   "type": "SUM",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Two group attacks (3.75 each), grants [Physical Blink 2] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Two group attacks (3.75 each), grants [Physical Blink 2] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Two group attacks (3.75 each), grants [Physical Blink 2] to the user"
-    }
-  ]
+  "effects": "Two group attacks (3.75 each), grants [Physical Blink 2] to the user"
 }

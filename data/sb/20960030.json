@@ -1,23 +1,4 @@
 {
-  "id": "20960030",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960030/20960030_256.png",
-  "character": "Y'shtola",
-  "name": "Zenith Sorceress's Secret",
-  "name_jp": "究極魔女の奥義",
-  "tier": "ZSB",
-  "sb_version": "ZSB2",
-  "realm": "XIV",
-  "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "Dark",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Y'shtola II] to the user",
   "description": [
     {
       "name": "Entry",
@@ -73,5 +54,24 @@
       "name": "Spirit Attack: Y'shtola II",
       "text": "Grants [HP Stock (3000)] to all allies, and grants [Soul Break Gauge +250] to the user after 3 chases"
     }
-  ]
+  ],
+  "id": "20960030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960030/20960030_256.png",
+  "character": "Y'shtola",
+  "name": "Zenith Sorceress's Secret",
+  "name_jp": "究極魔女の奥義",
+  "tier": "ZSB",
+  "sb_version": "ZSB2",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], [Zenith Mode: Y'shtola II] to the user"
 }

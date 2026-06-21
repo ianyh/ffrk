@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ricard], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Downward Swirl (Weapon Skill)",
+      "text": "One single piercing attack (11.00) capped at 199,999, ranged, jump. Grants [Wind, Lightning, Water, Dark Damage Cap +20000 (Tactical)], [Wind, Lightning, Water, Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Wind, Lightning, Water, Dark Ability +50% Boost (Tactical)], [Wind, Lightning, Water, Dark 142% ATB Quick Cycle (Tactical)] to user/[Dragoon +30% Boost (15s)] to all allies if there are 0-3/4+ Dragoon allies in the party."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ricard], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Downward Swirl (Weapon Skill)",
+      "text": "One single piercing attack (11.00) capped at 199,999, ranged, jump. Grants [Wind, Lightning, Water, Dark Damage Cap +20000 (Tactical)], [Wind, Lightning, Water, Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Wind, Lightning, Water, Dark Ability +50% Boost (Tactical)], [Wind, Lightning, Water, Dark 142% ATB Quick Cycle (Tactical)] to user/[Dragoon +30% Boost (15s)] to all allies if there are 0-3/4+ Dragoon allies in the party."
+    }
+  ],
   "id": "20460024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460024/20460024_256.png",
   "character": "Ricard",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ricard], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ricard], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack (11.00) capped at 199,999, ranged, jump. Grants [Wind, Lightning, Water, Dark Damage Cap +20000 (Tactical)], [Wind, Lightning, Water, Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Wind, Lightning, Water, Dark Ability +50% Boost (Tactical)], [Wind, Lightning, Water, Dark 142% ATB Quick Cycle (Tactical)] to user/[Dragoon +30% Boost (15s)] to all allies if there are 0-3/4+ Dragoon allies in the party."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ricard], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack (11.00) capped at 199,999, ranged, jump. Grants [Wind, Lightning, Water, Dark Damage Cap +20000 (Tactical)], [Wind, Lightning, Water, Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Wind, Lightning, Water, Dark Ability +50% Boost (Tactical)], [Wind, Lightning, Water, Dark 142% ATB Quick Cycle (Tactical)] to user/[Dragoon +30% Boost (15s)] to all allies if there are 0-3/4+ Dragoon allies in the party."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ricard], [ATK +500 (25s) (Tactical)] to user."
 }

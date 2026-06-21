@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning"
+    }
+  ],
   "id": "20880027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880027/20880027_256.png",
   "character": "Lulu",
@@ -16,17 +28,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning"
-    }
-  ]
+  "effects": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user"
+    }
+  ],
   "id": "22780008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780008/22780008_256.png",
   "character": "Cid (VII)",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user"
-    }
-  ]
+  "effects": "One single ranged jump attack (3.36) capped at 99999, grants [Attach Wind with Stacking] to the user"
 }

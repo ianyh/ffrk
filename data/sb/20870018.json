@@ -1,27 +1,11 @@
 {
-  "id": "20870018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870018/20870018_256.png",
-  "character": "Amarant",
-  "name": "Apex Counter",
-  "name_jp": "秘孔拳・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "IX",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Counter level 0/1/2, removes Arcane Dyad Empowered: Amarant from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Counter level 0/1/2, removes Arcane Dyad Empowered: Amarant from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Counter (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Amarant], [Apex Counter Damage Tracker] and [Apex Counter Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Apex Counter level 0/1/2, removes Arcane Dyad Empowered: Amarant from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Counter (Engaged)",
       "text": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Amarant], [Apex Counter Damage Tracker] and [Apex Counter Level]"
     }
-  ]
+  ],
+  "id": "20870018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870018/20870018_256.png",
+  "character": "Amarant",
+  "name": "Apex Counter (Engaged)",
+  "name_jp": "秘孔拳・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Fire with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Amarant], [Apex Counter Damage Tracker] and [Apex Counter Level]"
 }

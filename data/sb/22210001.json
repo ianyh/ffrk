@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.20 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.20 each)"
+    }
+  ],
   "id": "22210001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22210001/22210001_256.png",
   "character": "Palom",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (2.20 each)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (2.20 each)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (2.20 each)"
-    }
-  ]
+  "effects": "Eight single attacks (2.20 each)"
 }

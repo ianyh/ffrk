@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (3.93 each), grants [Attach Dark] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (3.93 each), grants [Attach Dark] to the user"
+    }
+  ],
   "id": "22080003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080003/22080003_256.png",
   "character": "Exdeath",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single attacks (3.93 each), grants [Attach Dark] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (3.93 each), grants [Attach Dark] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (3.93 each), grants [Attach Dark] to the user"
-    }
-  ]
+  "effects": "Three single attacks (3.93 each), grants [Attach Dark] to the user"
 }

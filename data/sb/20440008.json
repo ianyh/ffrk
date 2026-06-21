@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged attacks (0.96 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight random ranged attacks (0.96 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20440008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20440008/20440008_256.png",
   "character": "Balthier",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Eight random ranged attacks (0.96 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight random ranged attacks (0.96 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight random ranged attacks (0.96 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight random ranged attacks (0.96 each), causes [Imperil Fire 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

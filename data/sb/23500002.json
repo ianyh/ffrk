@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Samurai], [Damage Cap +10000] and [Azure Oblivion Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Samurai], [Damage Cap +10000] and [Azure Oblivion Follow-Up] to the user"
+    }
+  ],
   "id": "23500002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23500002/23500002_256.png",
   "character": "Lasswell",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Samurai], [Damage Cap +10000] and [Azure Oblivion Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Samurai], [Damage Cap +10000] and [Azure Oblivion Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Samurai], [Damage Cap +10000] and [Azure Oblivion Follow-Up] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice], [Awoken Samurai], [Damage Cap +10000] and [Azure Oblivion Follow-Up] to the user"
 }

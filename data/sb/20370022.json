@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.65 each), grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Quick Cast 2] and [Magical +30% Boost (15s)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.65 each), grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Quick Cast 2] and [Magical +30% Boost (15s)] to the user"
+    }
+  ],
   "id": "20370022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370022/20370022_256.png",
   "character": "Vivi",
@@ -16,17 +28,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.65 each), grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Quick Cast 2] and [Magical +30% Boost (15s)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.65 each), grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Quick Cast 2] and [Magical +30% Boost (15s)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.65 each), grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Quick Cast 2] and [Magical +30% Boost (15s)] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.65 each), grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Quick Cast 2] and [Magical +30% Boost (15s)] to the user"
 }

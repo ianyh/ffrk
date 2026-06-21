@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Hero's Barrage Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Hero's Barrage Follow-Up] to the user"
+    }
+  ],
   "id": "20190010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20190010/20190010_256.png",
   "character": "Josef",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Ice Stacking], [Attach Ice] and [Hero's Barrage Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Hero's Barrage Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Ice Stacking], [Attach Ice] and [Hero's Barrage Follow-Up] to the user"
-    }
-  ]
+  "effects": "Grants [Attach Ice Stacking], [Attach Ice] and [Hero's Barrage Follow-Up] to the user"
 }

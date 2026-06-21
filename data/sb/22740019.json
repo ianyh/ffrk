@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Lightning Ability +30% Boost (15s)] to the user, grants [Lightning Ability +30% Boost (15s)] to Prompto"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attack (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Lightning Ability +30% Boost (15s)] to the user, grants [Lightning Ability +30% Boost (15s)] to Prompto"
+    }
+  ],
   "id": "22740019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740019/22740019_256.png",
   "character": "Noctis",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attack (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Lightning Ability +30% Boost (15s)] to the user, grants [Lightning Ability +30% Boost (15s)] to Prompto",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attack (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Lightning Ability +30% Boost (15s)] to the user, grants [Lightning Ability +30% Boost (15s)] to Prompto"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attack (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Lightning Ability +30% Boost (15s)] to the user, grants [Lightning Ability +30% Boost (15s)] to Prompto"
-    }
-  ]
+  "effects": "Fifteen single attack (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant Cast 1] and [Lightning Ability +30% Boost (15s)] to the user, grants [Lightning Ability +30% Boost (15s)] to Prompto"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce"
+    }
+  ],
   "id": "20640026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640026/20640026_256.png",
   "character": "Tellah",
@@ -14,17 +26,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce"
-    }
-  ]
+  "effects": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce"
 }

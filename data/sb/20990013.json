@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Holy Quick Cast 4] to all allies, grants [Attach Holy], [Synchro Mode], [Damage Cap +10000] and [Bow Master Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Holy Quick Cast 4] to all allies, grants [Attach Holy], [Synchro Mode], [Damage Cap +10000] and [Bow Master Mode] to the user"
+    }
+  ],
   "id": "20990013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20990013/20990013_256.png",
   "character": "Rosa",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Holy Quick Cast 4] to all allies, grants [Attach Holy], [Synchro Mode], [Damage Cap +10000] and [Bow Master Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Holy Quick Cast 4] to all allies, grants [Attach Holy], [Synchro Mode], [Damage Cap +10000] and [Bow Master Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Holy Quick Cast 4] to all allies, grants [Attach Holy], [Synchro Mode], [Damage Cap +10000] and [Bow Master Mode] to the user"
-    }
-  ]
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Holy Quick Cast 4] to all allies, grants [Attach Holy], [Synchro Mode], [Damage Cap +10000] and [Bow Master Mode] to the user"
 }

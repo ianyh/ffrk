@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user"
+    }
+  ],
   "id": "22200026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200026/22200026_256.png",
   "character": "Edea",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user"
 }

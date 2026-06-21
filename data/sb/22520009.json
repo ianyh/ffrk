@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to all allies"
+    }
+  ],
   "id": "22520009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22520009/22520009_256.png",
   "character": "Minfilia",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [DEF, RES and MND -70% (8s)], grants [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [DEF, RES and MND -70% (8s)], grants [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to all allies"
-    }
-  ]
+  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [High Quick Cast 2] and [50% Damage Reduction Barrier 1] to all allies"
 }

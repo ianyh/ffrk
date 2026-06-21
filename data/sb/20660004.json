@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.50 each), grants [Haste] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group ranged attacks (1.50 each), grants [Haste] to all allies"
+    }
+  ],
   "id": "20660004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20660004/20660004_256.png",
   "character": "Zack",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group ranged attacks (1.50 each), grants [Haste] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.50 each), grants [Haste] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group ranged attacks (1.50 each), grants [Haste] to all allies"
-    }
-  ]
+  "effects": "Four group ranged attacks (1.50 each), grants [Haste] to all allies"
 }

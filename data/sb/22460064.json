@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "10 single attacks (0.80 each, element depending on current attached element) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Onion Knight] and [Instant ATB 1] to the user\nChain Force Mode: Onion Knight: After using Wind/Water/Fire/Earth abilities, chases with 4 single attacks (0.31 each) (max 3 chases)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "10 single attacks (0.80 each, element depending on current attached element) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Onion Knight] and [Instant ATB 1] to the user\nChain Force Mode: Onion Knight: After using Wind/Water/Fire/Earth abilities, chases with 4 single attacks (0.31 each) (max 3 chases)"
+    }
+  ],
   "id": "22460064",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460064/22460064_256.png",
   "character": "Onion Knight",
@@ -17,17 +29,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "10 single attacks (0.80 each, element depending on current attached element) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Onion Knight] and [Instant ATB 1] to the user\nChain Force Mode: Onion Knight: After using Wind/Water/Fire/Earth abilities, chases with 4 single attacks (0.31 each) (max 3 chases)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "10 single attacks (0.80 each, element depending on current attached element) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Onion Knight] and [Instant ATB 1] to the user\nChain Force Mode: Onion Knight: After using Wind/Water/Fire/Earth abilities, chases with 4 single attacks (0.31 each) (max 3 chases)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "10 single attacks (0.80 each, element depending on current attached element) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Onion Knight] and [Instant ATB 1] to the user\nChain Force Mode: Onion Knight: After using Wind/Water/Fire/Earth abilities, chases with 4 single attacks (0.31 each) (max 3 chases)"
-    }
-  ]
+  "effects": "10 single attacks (0.80 each, element depending on current attached element) capped at 19999, activates III Chain (max 150, field +0%) or adds 25 to the current III Chain maximum limit, grants [Chain Force Mode: Onion Knight] and [Instant ATB 1] to the user\nChain Force Mode: Onion Knight: After using Wind/Water/Fire/Earth abilities, chases with 4 single attacks (0.31 each) (max 3 chases)"
 }

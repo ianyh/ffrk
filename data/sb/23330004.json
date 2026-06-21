@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    }
+  ],
   "id": "23330004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23330004/23330004_256.png",
   "character": "Orran",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
-    }
-  ]
+  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)], grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and [Damage Cap +10000] to the user"
 }

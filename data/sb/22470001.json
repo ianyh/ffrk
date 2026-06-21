@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.96 each), grants [Intervention] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Six group attacks (0.96 each), grants [Intervention] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22470001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470001/22470001_256.png",
   "character": "Curilla",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Six group attacks (0.96 each), grants [Intervention] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (0.96 each), grants [Intervention] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Six group attacks (0.96 each), grants [Intervention] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Six group attacks (0.96 each), grants [Intervention] to all allies for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

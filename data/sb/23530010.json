@@ -1,21 +1,4 @@
 {
-  "id": "23530010",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530010/23530010_256.png",
-  "character": "Ravus",
-  "name": "Zenith Zantetsuken",
-  "name_jp": "究極斬鉄剣",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XV",
-  "elements": [
-    "Lightning",
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Instant Cast 1] to all allies with Attach Lightning or Attach Dark, grants [Attach Lightning 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Ravus (Lightning, Dark)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -75,5 +58,22 @@
       "name": "Spirit Attack: Ravus",
       "text": "Grants [Damage Cap +10000 2]/[Damage Cap +10000 2] and [(Lightning/Dark) Ability +30% Boost 2] to the user/all allies if there are 0-2/3+ allies with Attach Lightning or Dark in the party"
     }
-  ]
+  ],
+  "id": "23530010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530010/23530010_256.png",
+  "character": "Ravus",
+  "name": "Zenith Zantetsuken",
+  "name_jp": "究極斬鉄剣",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Instant Cast 1] to all allies with Attach Lightning or Attach Dark, grants [Attach Lightning 2 with Stacking]/[Attach Dark 2 with Stacking] based on element of entry damage, [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Ravus (Lightning, Dark)] to the user"
 }

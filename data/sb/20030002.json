@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[MND +50%] for 30 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[MND +50%] for 30 seconds"
+    }
+  ],
   "id": "20030002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20030002/20030002_256.png",
   "character": "White Mage",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "[MND +50%] for 30 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[MND +50%] for 30 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[MND +50%] for 30 seconds"
-    }
-  ]
+  "effects": "[MND +50%] for 30 seconds"
 }

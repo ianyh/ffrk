@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.80/390.00 each) capped at 19999, element of entry damage changes from Water/NE to Fire/NE or Lightning/NE if the user has any Attach Fire or Attach Lightning, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Edge] and [Instant ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single hybrid attacks (0.80/390.00 each) capped at 19999, element of entry damage changes from Water/NE to Fire/NE or Lightning/NE if the user has any Attach Fire or Attach Lightning, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Edge] and [Instant ATB 1] to the user"
+    }
+  ],
   "id": "20980023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980023/20980023_256.png",
   "character": "Edge",
@@ -14,17 +26,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Ten single hybrid attacks (0.80/390.00 each) capped at 19999, element of entry damage changes from Water/NE to Fire/NE or Lightning/NE if the user has any Attach Fire or Attach Lightning, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Edge] and [Instant ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single hybrid attacks (0.80/390.00 each) capped at 19999, element of entry damage changes from Water/NE to Fire/NE or Lightning/NE if the user has any Attach Fire or Attach Lightning, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Edge] and [Instant ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single hybrid attacks (0.80/390.00 each) capped at 19999, element of entry damage changes from Water/NE to Fire/NE or Lightning/NE if the user has any Attach Fire or Attach Lightning, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Edge] and [Instant ATB 1] to the user"
-    }
-  ]
+  "effects": "Ten single hybrid attacks (0.80/390.00 each) capped at 19999, element of entry damage changes from Water/NE to Fire/NE or Lightning/NE if the user has any Attach Fire or Attach Lightning, activates IV Chain (max 150, field +0%) or adds 25 to the current IV Chain maximum limit, grants [Chain Force Mode: Edge] and [Instant ATB 1] to the user"
 }

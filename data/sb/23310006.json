@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [100% Critical 2] and [High Quick Cast 2] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [100% Critical 2] and [High Quick Cast 2] to the user"
+    }
+  ],
   "id": "23310006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310006/23310006_256.png",
   "character": "Biggs",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Three single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [100% Critical 2] and [High Quick Cast 2] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [100% Critical 2] and [High Quick Cast 2] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [100% Critical 2] and [High Quick Cast 2] to the user"
-    }
-  ]
+  "effects": "Three single attacks (1.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores DEF, 100% additional critical chance, grants [100% Critical 2] and [High Quick Cast 2] to the user"
 }

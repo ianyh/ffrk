@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Samurai of Doma] and [Damage Cap +10000] to the user, grants [Instant Cast 1] and [Dualcast Samurai 1]/[Instant Cast 2] and [Dualcast Samurai 2]/[Instant Cast 3] and [Dualcast Samurai 3] to the user if 0-1/2-3/4+ FF6 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Samurai of Doma] and [Damage Cap +10000] to the user, grants [Instant Cast 1] and [Dualcast Samurai 1]/[Instant Cast 2] and [Dualcast Samurai 2]/[Instant Cast 3] and [Dualcast Samurai 3] to the user if 0-1/2-3/4+ FF6 allies are alive"
+    }
+  ],
   "id": "20220020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220020/20220020_256.png",
   "character": "Cyan",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Samurai of Doma] and [Damage Cap +10000] to the user, grants [Instant Cast 1] and [Dualcast Samurai 1]/[Instant Cast 2] and [Dualcast Samurai 2]/[Instant Cast 3] and [Dualcast Samurai 3] to the user if 0-1/2-3/4+ FF6 allies are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Samurai of Doma] and [Damage Cap +10000] to the user, grants [Instant Cast 1] and [Dualcast Samurai 1]/[Instant Cast 2] and [Dualcast Samurai 2]/[Instant Cast 3] and [Dualcast Samurai 3] to the user if 0-1/2-3/4+ FF6 allies are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Samurai of Doma] and [Damage Cap +10000] to the user, grants [Instant Cast 1] and [Dualcast Samurai 1]/[Instant Cast 2] and [Dualcast Samurai 2]/[Instant Cast 3] and [Dualcast Samurai 3] to the user if 0-1/2-3/4+ FF6 allies are alive"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Samurai of Doma] and [Damage Cap +10000] to the user, grants [Instant Cast 1] and [Dualcast Samurai 1]/[Instant Cast 2] and [Dualcast Samurai 2]/[Instant Cast 3] and [Dualcast Samurai 3] to the user if 0-1/2-3/4+ FF6 allies are alive"
 }

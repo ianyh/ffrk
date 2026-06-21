@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Laguna], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Galaxy Beam (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Ice Damage Cap +20000 (Tactical)], [Ice Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, causes [Deprotect 20% (15s)] to all enemies if a target has at least 40% imperil ice, causes [Imperil Ice 30% (15s)] to all enemies if not"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Laguna], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Galaxy Beam (Weapon Skill)",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Ice Damage Cap +20000 (Tactical)], [Ice Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, causes [Deprotect 20% (15s)] to all enemies if a target has at least 40% imperil ice, causes [Imperil Ice 30% (15s)] to all enemies if not"
+    }
+  ],
   "id": "22100034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100034/22100034_256.png",
   "character": "Laguna",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Laguna], [ATK +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Laguna], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Ice Damage Cap +20000 (Tactical)], [Ice Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, causes [Deprotect 20% (15s)] to all enemies if a target has at least 40% imperil ice, causes [Imperil Ice 30% (15s)] to all enemies if not"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Laguna], [ATK +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Ice Damage Cap +20000 (Tactical)], [Ice Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, causes [Deprotect 20% (15s)] to all enemies if a target has at least 40% imperil ice, causes [Imperil Ice 30% (15s)] to all enemies if not"
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Laguna], [ATK +500 (25s) (Tactical)] to user."
 }

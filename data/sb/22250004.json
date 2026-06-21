@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.23 each), grants [Critical Chance 50%] to all allies for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight single attacks (2.23 each), grants [Critical Chance 50%] to all allies for 25 seconds"
+    }
+  ],
   "id": "22250004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250004/22250004_256.png",
   "character": "Cait Sith",
@@ -11,17 +23,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Eight single attacks (2.23 each), grants [Critical Chance 50%] to all allies for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (2.23 each), grants [Critical Chance 50%] to all allies for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight single attacks (2.23 each), grants [Critical Chance 50%] to all allies for 25 seconds"
-    }
-  ]
+  "effects": "Eight single attacks (2.23 each), grants [Critical Chance 50%] to all allies for 25 seconds"
 }

@@ -1,17 +1,4 @@
 {
-  "id": "20510017",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510017/20510017_256.png",
-  "character": "Selphie",
-  "name": "Zenith Dreamstage",
-  "name_jp": "究極夢のステージ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Selphie], grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Selphie] to the user",
   "description": [
     {
       "name": "Entry",
@@ -79,5 +66,18 @@
       "name": "Spirit Attack: Selphie",
       "text": "Restores HP (25) to all allies"
     }
-  ]
+  ],
+  "id": "20510017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510017/20510017_256.png",
+  "character": "Selphie",
+  "name": "Zenith Dreamstage",
+  "name_jp": "究極夢のステージ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga], [High Quick Cast 3] and [Natural Cure: Selphie], grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Selphie] to the user"
 }

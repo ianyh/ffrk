@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Earth 20% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Earth 20% (25s)], grants [Instant Cast 1] to the user"
+    }
+  ],
   "id": "20650020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650020/20650020_256.png",
   "character": "Galuf",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "",
   "lensable": true,
-  "effects": "Causes [Imperil Earth 20% (25s)], grants [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Earth 20% (25s)], grants [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Causes [Imperil Earth 20% (25s)], grants [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Causes [Imperil Earth 20% (25s)], grants [Instant Cast 1] to the user"
 }

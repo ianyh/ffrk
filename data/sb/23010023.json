@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single ranged hybrid attacks (0.80 or 2.60 each), grants [Damage Cap +10000], Accel Mode, and [Instant ATB 1] to the user\nAccel Mode: Earth/Lightning Ability High Boost & chases Earth/Lightning abilities with 2 single-target Earth/Lightning/NE ranged hybrid attacks (0.60 or 1.50 each) + [Imperil Prismatic 10% (5s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single ranged hybrid attacks (0.80 or 2.60 each), grants [Damage Cap +10000], Accel Mode, and [Instant ATB 1] to the user\nAccel Mode: Earth/Lightning Ability High Boost & chases Earth/Lightning abilities with 2 single-target Earth/Lightning/NE ranged hybrid attacks (0.60 or 1.50 each) + [Imperil Prismatic 10% (5s)]"
+    }
+  ],
   "id": "23010023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010023/23010023_256.png",
   "character": "Rude",
@@ -15,17 +27,5 @@
   "type": "NAT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single ranged hybrid attacks (0.80 or 2.60 each), grants [Damage Cap +10000], Accel Mode, and [Instant ATB 1] to the user\nAccel Mode: Earth/Lightning Ability High Boost & chases Earth/Lightning abilities with 2 single-target Earth/Lightning/NE ranged hybrid attacks (0.60 or 1.50 each) + [Imperil Prismatic 10% (5s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single ranged hybrid attacks (0.80 or 2.60 each), grants [Damage Cap +10000], Accel Mode, and [Instant ATB 1] to the user\nAccel Mode: Earth/Lightning Ability High Boost & chases Earth/Lightning abilities with 2 single-target Earth/Lightning/NE ranged hybrid attacks (0.60 or 1.50 each) + [Imperil Prismatic 10% (5s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single ranged hybrid attacks (0.80 or 2.60 each), grants [Damage Cap +10000], Accel Mode, and [Instant ATB 1] to the user\nAccel Mode: Earth/Lightning Ability High Boost & chases Earth/Lightning abilities with 2 single-target Earth/Lightning/NE ranged hybrid attacks (0.60 or 1.50 each) + [Imperil Prismatic 10% (5s)]"
-    }
-  ]
+  "effects": "5 single ranged hybrid attacks (0.80 or 2.60 each), grants [Damage Cap +10000], Accel Mode, and [Instant ATB 1] to the user\nAccel Mode: Earth/Lightning Ability High Boost & chases Earth/Lightning abilities with 2 single-target Earth/Lightning/NE ranged hybrid attacks (0.60 or 1.50 each) + [Imperil Prismatic 10% (5s)]"
 }

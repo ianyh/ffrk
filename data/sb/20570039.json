@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Fire/Ice/Lightning Ability Boost, Triplecast Fire/Ice/Lightning, Unlimited Fire/Ice/Lightning Hones, Cap Break Level 1 to Fire/Ice/Lightning Abilities, Fire/Ice/Lightning Ability Damage +30% & ATB Speed x1.1 to Fire/Ice/Lightning Abilities; Ends after using 8 Fire/Ice/Lightning abilities\nTP Max: AOE Fire/NE, Ice/NE or Lightning/NE physical attack at True Cap Break Level 1 under En-Fire, En-Ice or En-Lightning"
+    },
+    {
+      "name": "War-Awoken Shocking Blade (Weapon Skill)",
+      "text": "Single-target Fire/Ice/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire/Ice/Lightning\nWS Blue: Lv.2 En-Fire/Ice/Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Fire/Ice/Lightning Ability Damage +50% & Quadcast Fire/Ice Lightning 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Fire/Ice/Lightning Ability Boost, Triplecast Fire/Ice/Lightning, Unlimited Fire/Ice/Lightning Hones, Cap Break Level 1 to Fire/Ice/Lightning Abilities, Fire/Ice/Lightning Ability Damage +30% & ATB Speed x1.1 to Fire/Ice/Lightning Abilities; Ends after using 8 Fire/Ice/Lightning abilities\nTP Max: AOE Fire/NE, Ice/NE or Lightning/NE physical attack at True Cap Break Level 1 under En-Fire, En-Ice or En-Lightning"
+    },
+    {
+      "name": "War-Awoken Shocking Blade (Weapon Skill)",
+      "text": "Single-target Fire/Ice/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire/Ice/Lightning\nWS Blue: Lv.2 En-Fire/Ice/Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Fire/Ice/Lightning Ability Damage +50% & Quadcast Fire/Ice Lightning 1 to user"
+    }
+  ],
   "id": "20570039",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570039/20570039_256.png",
   "character": "Steiner",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Fire/Ice/Lightning Ability Boost, Triplecast Fire/Ice/Lightning, Unlimited Fire/Ice/Lightning Hones, Cap Break Level 1 to Fire/Ice/Lightning Abilities, Fire/Ice/Lightning Ability Damage +30% & ATB Speed x1.1 to Fire/Ice/Lightning Abilities; Ends after using 8 Fire/Ice/Lightning abilities\nTP Max: AOE Fire/NE, Ice/NE or Lightning/NE physical attack at True Cap Break Level 1 under En-Fire, En-Ice or En-Lightning",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Fire/Ice/Lightning Ability Boost, Triplecast Fire/Ice/Lightning, Unlimited Fire/Ice/Lightning Hones, Cap Break Level 1 to Fire/Ice/Lightning Abilities, Fire/Ice/Lightning Ability Damage +30% & ATB Speed x1.1 to Fire/Ice/Lightning Abilities; Ends after using 8 Fire/Ice/Lightning abilities\nTP Max: AOE Fire/NE, Ice/NE or Lightning/NE physical attack at True Cap Break Level 1 under En-Fire, En-Ice or En-Lightning"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Fire/Ice/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire/Ice/Lightning\nWS Blue: Lv.2 En-Fire/Ice/Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Fire/Ice/Lightning Ability Damage +50% & Quadcast Fire/Ice Lightning 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Fire/Ice/Lightning Ability Boost, Triplecast Fire/Ice/Lightning, Unlimited Fire/Ice/Lightning Hones, Cap Break Level 1 to Fire/Ice/Lightning Abilities, Fire/Ice/Lightning Ability Damage +30% & ATB Speed x1.1 to Fire/Ice/Lightning Abilities; Ends after using 8 Fire/Ice/Lightning abilities\nTP Max: AOE Fire/NE, Ice/NE or Lightning/NE physical attack at True Cap Break Level 1 under En-Fire, En-Ice or En-Lightning"
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "Single-target Fire/Ice/Lightning/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Fire/Ice/Lightning Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire/Ice/Lightning\nWS Blue: Lv.2 En-Fire/Ice/Lightning Stack to user\nWS Gold: During Tactical Awoken Mode, Fire/Ice/Lightning Ability Damage +50% & Quadcast Fire/Ice Lightning 1 to user"
-    }
-  ]
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Fire/Ice/Lightning Ability Boost, Triplecast Fire/Ice/Lightning, Unlimited Fire/Ice/Lightning Hones, Cap Break Level 1 to Fire/Ice/Lightning Abilities, Fire/Ice/Lightning Ability Damage +30% & ATB Speed x1.1 to Fire/Ice/Lightning Abilities; Ends after using 8 Fire/Ice/Lightning abilities\nTP Max: AOE Fire/NE, Ice/NE or Lightning/NE physical attack at True Cap Break Level 1 under En-Fire, En-Ice or En-Lightning"
 }

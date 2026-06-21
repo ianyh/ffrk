@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[RES +30%] for 25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[RES +30%] for 25 seconds"
+    }
+  ],
   "id": "20680001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20680001/20680001_256.png",
   "character": "Spellblade",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "[RES +30%] for 25 seconds",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[RES +30%] for 25 seconds"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[RES +30%] for 25 seconds"
-    }
-  ]
+  "effects": "[RES +30%] for 25 seconds"
 }

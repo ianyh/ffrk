@@ -1,27 +1,11 @@
 {
-  "id": "22110018",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110018/22110018_256.png",
-  "character": "Freya",
-  "name": "Apex Dragon's Crest",
-  "name_jp": "竜の紋章・極",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "IX",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single ranged jump attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged jump attack (10.00/11.00/12.00) capped at 99999 at Apex Dragon's Crest level 0/1/2, removes Arcane Dyad Empowered: Freya from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single ranged jump attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged jump attack (10.00/11.00/12.00) capped at 99999 at Apex Dragon's Crest level 0/1/2, removes Arcane Dyad Empowered: Freya from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Dragon's Crest (Engaged)",
       "text": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Freya], [Apex Dragon's Crest Ability Tracker] and [Apex Dragon's Crest Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single ranged jump attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged jump attack (10.00/11.00/12.00) capped at 99999 at Apex Dragon's Crest level 0/1/2, removes Arcane Dyad Empowered: Freya from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Apex Dragon's Crest (Engaged)",
       "text": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Freya], [Apex Dragon's Crest Ability Tracker] and [Apex Dragon's Crest Level]"
     }
-  ]
+  ],
+  "id": "22110018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110018/22110018_256.png",
+  "character": "Freya",
+  "name": "Apex Dragon's Crest (Engaged)",
+  "name_jp": "竜の紋章・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Freya], [Apex Dragon's Crest Ability Tracker] and [Apex Dragon's Crest Level]"
 }

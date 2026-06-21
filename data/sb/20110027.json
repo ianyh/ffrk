@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Three random attacks (0.69 each), 100% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Three random attacks (0.69 each), 100% additional critical chance"
+    }
+  ],
   "id": "20110027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110027/20110027_256.png",
   "character": "Cloud",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Three random attacks (0.69 each), 100% additional critical chance",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Three random attacks (0.69 each), 100% additional critical chance"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Three random attacks (0.69 each), 100% additional critical chance"
-    }
-  ]
+  "effects": "Three random attacks (0.69 each), 100% additional critical chance"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.37 each), minimum damage 600, causes [Blind] (100%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four group attacks (2.37 each), minimum damage 600, causes [Blind] (100%)"
+    }
+  ],
   "id": "22160002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160002/22160002_256.png",
   "character": "Relm",
@@ -11,17 +23,5 @@
   "type": "SUM",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Four group attacks (2.37 each), minimum damage 600, causes [Blind] (100%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (2.37 each), minimum damage 600, causes [Blind] (100%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four group attacks (2.37 each), minimum damage 600, causes [Blind] (100%)"
-    }
-  ]
+  "effects": "Four group attacks (2.37 each), minimum damage 600, causes [Blind] (100%)"
 }

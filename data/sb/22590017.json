@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Matoya] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Matoya] to the user"
+    }
+  ],
   "id": "22590017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590017/22590017_256.png",
   "character": "Matoya",
@@ -16,17 +28,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Matoya] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Matoya] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Matoya] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Matoya] to the user"
 }

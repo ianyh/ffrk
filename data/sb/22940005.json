@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive"
+    }
+  ],
   "id": "22940005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22940005/22940005_256.png",
   "character": "Scott",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive"
-    }
-  ]
+  "effects": "[ATK, MAG and MND +30%] for 25 seconds, grants [Haste] and [Astra], grants [Attach Fire] to the user if Hilda is alive"
 }

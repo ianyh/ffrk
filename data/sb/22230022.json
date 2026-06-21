@@ -1,20 +1,4 @@
 {
-  "id": "22230022",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230022/22230022_256.png",
-  "character": "Desch",
-  "name": "Zenith Roar of Duty",
-  "name_jp": "究極使命の雷霆",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "III",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Desch (Lightning)], and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Desch (Lightning)",
       "text": "Causes [Imperil Lightning 10% (5s)], grants [Buff Lightning 10% (5s)] to ally that triggered the chase if they are female"
     }
-  ]
+  ],
+  "id": "22230022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230022/22230022_256.png",
+  "character": "Desch",
+  "name": "Zenith Roar of Duty",
+  "name_jp": "究極使命の雷霆",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "III",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Desch (Lightning)], and [Damage Cap +10000] to the user"
 }

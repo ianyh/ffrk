@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken White Magic], [Damage Cap +10000] and [Divine Will Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken White Magic], [Damage Cap +10000] and [Divine Will Mode] to the user"
+    }
+  ],
   "id": "22120011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120011/22120011_256.png",
   "character": "Minwu",
@@ -14,17 +26,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken White Magic], [Damage Cap +10000] and [Divine Will Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken White Magic], [Damage Cap +10000] and [Divine Will Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken White Magic], [Damage Cap +10000] and [Divine Will Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken White Magic], [Damage Cap +10000] and [Divine Will Mode] to the user"
 }

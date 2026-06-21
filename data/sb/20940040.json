@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Earth with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Krile] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Earth with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Krile] to the user"
+    }
+  ],
   "id": "20940040",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940040/20940040_256.png",
   "character": "Krile",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Earth with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Krile] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Earth with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Krile] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Earth with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Krile] to the user"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Fire with Stacking]/[Attach Earth with Stacking] based on entry element damage, [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Krile] to the user"
 }

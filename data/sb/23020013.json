@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode III (Fire, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants Rookie Ringer +1/2 to the user if 0/1+ of Reno or Rude are alive, grants [Buff Prismatic 10% (15s)]/[Buff Prismatic 20% (15s)]/[Buff Prismatic 30% (15s)] to all allies if 0-1/2/3+ FF7 allies are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode III (Fire, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants Rookie Ringer +1/2 to the user if 0/1+ of Reno or Rude are alive, grants [Buff Prismatic 10% (15s)]/[Buff Prismatic 20% (15s)]/[Buff Prismatic 30% (15s)] to all allies if 0-1/2/3+ FF7 allies are alive"
+    }
+  ],
   "id": "23020013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23020013/23020013_256.png",
   "character": "Elena",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode III (Fire, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants Rookie Ringer +1/2 to the user if 0/1+ of Reno or Rude are alive, grants [Buff Prismatic 10% (15s)]/[Buff Prismatic 20% (15s)]/[Buff Prismatic 30% (15s)] to all allies if 0-1/2/3+ FF7 allies are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode III (Fire, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants Rookie Ringer +1/2 to the user if 0/1+ of Reno or Rude are alive, grants [Buff Prismatic 10% (15s)]/[Buff Prismatic 20% (15s)]/[Buff Prismatic 30% (15s)] to all allies if 0-1/2/3+ FF7 allies are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode III (Fire, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants Rookie Ringer +1/2 to the user if 0/1+ of Reno or Rude are alive, grants [Buff Prismatic 10% (15s)]/[Buff Prismatic 20% (15s)]/[Buff Prismatic 30% (15s)] to all allies if 0-1/2/3+ FF7 allies are alive"
-    }
-  ]
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Linked Materia Mode III (Fire, Lightning)], [Synchro Mode] and [Damage Cap +10000] to the user, grants Rookie Ringer +1/2 to the user if 0/1+ of Reno or Rude are alive, grants [Buff Prismatic 10% (15s)]/[Buff Prismatic 20% (15s)]/[Buff Prismatic 30% (15s)] to all allies if 0-1/2/3+ FF7 allies are alive"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
+    }
+  ],
   "id": "22540013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540013/22540013_256.png",
   "character": "Seymour",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
-    }
-  ]
+  "effects": "One single attack (7.50) capped at 99999, 8.03 multiplier if exploiting elemental weakness, grants [Attach Dark with Stacking] to the user"
 }

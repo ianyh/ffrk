@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.48 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode II (Wind, Water)] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.48 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode II (Wind, Water)] to the user"
+    }
+  ],
   "id": "20720017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720017/20720017_256.png",
   "character": "Strago",
@@ -15,17 +27,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.48 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode II (Wind, Water)] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.48 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode II (Wind, Water)] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.48 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode II (Wind, Water)] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.48 each), causes [DEF, RES and MND -70% (8s)], grants [Twin Element Mode II (Wind, Water)] to the user"
 }

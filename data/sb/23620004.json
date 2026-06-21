@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each). Causes [Imperil Prismatic 30% (15s)] on enemy. Grants [Synchro Mode], [Fenrir's Howl] to user."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each). Causes [Imperil Prismatic 30% (15s)] on enemy. Grants [Synchro Mode], [Fenrir's Howl] to user."
+    }
+  ],
   "id": "23620004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23620004/23620004_256.png",
   "character": "Torgal",
@@ -22,17 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each). Causes [Imperil Prismatic 30% (15s)] on enemy. Grants [Synchro Mode], [Fenrir's Howl] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each). Causes [Imperil Prismatic 30% (15s)] on enemy. Grants [Synchro Mode], [Fenrir's Howl] to user."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each). Causes [Imperil Prismatic 30% (15s)] on enemy. Grants [Synchro Mode], [Fenrir's Howl] to user."
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each). Causes [Imperil Prismatic 30% (15s)] on enemy. Grants [Synchro Mode], [Fenrir's Howl] to user."
 }

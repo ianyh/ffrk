@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), restores HP (85) to all allies, grants [Last Stand] to all allies, grants [Attach Holy with Stacking], [Awoken Holy] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), restores HP (85) to all allies, grants [Last Stand] to all allies, grants [Attach Holy with Stacking], [Awoken Holy] and [Damage Cap +10000] to the user"
+    }
+  ],
   "id": "23080016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080016/23080016_256.png",
   "character": "Rem",
@@ -15,17 +27,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (1.60 each), restores HP (85) to all allies, grants [Last Stand] to all allies, grants [Attach Holy with Stacking], [Awoken Holy] and [Damage Cap +10000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.60 each), restores HP (85) to all allies, grants [Last Stand] to all allies, grants [Attach Holy with Stacking], [Awoken Holy] and [Damage Cap +10000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.60 each), restores HP (85) to all allies, grants [Last Stand] to all allies, grants [Attach Holy with Stacking], [Awoken Holy] and [Damage Cap +10000] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.60 each), restores HP (85) to all allies, grants [Last Stand] to all allies, grants [Attach Holy with Stacking], [Awoken Holy] and [Damage Cap +10000] to the user"
 }

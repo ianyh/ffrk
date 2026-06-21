@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Blink 1] and [Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Dual Blink 1] and [Quick Cast 1]"
+    }
+  ],
   "id": "22880011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880011/22880011_256.png",
   "character": "Aphmau",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Grants [Dual Blink 1] and [Quick Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Dual Blink 1] and [Quick Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Dual Blink 1] and [Quick Cast 1]"
-    }
-  ]
+  "effects": "Grants [Dual Blink 1] and [Quick Cast 1]"
 }

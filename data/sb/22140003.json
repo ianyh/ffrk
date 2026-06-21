@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP, grants [Protect]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP for 40% of the target's maximum HP, grants [Protect]"
+    }
+  ],
   "id": "22140003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22140003/22140003_256.png",
   "character": "Ramza",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Restores HP for 40% of the target's maximum HP, grants [Protect]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP for 40% of the target's maximum HP, grants [Protect]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP for 40% of the target's maximum HP, grants [Protect]"
-    }
-  ]
+  "effects": "Restores HP for 40% of the target's maximum HP, grants [Protect]"
 }

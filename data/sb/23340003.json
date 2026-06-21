@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50), 20% additional critical chance"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.50), 20% additional critical chance"
+    }
+  ],
   "id": "23340003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23340003/23340003_256.png",
   "character": "Jack",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.50), 20% additional critical chance",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.50), 20% additional critical chance"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.50), 20% additional critical chance"
-    }
-  ]
+  "effects": "One single attack (1.50), 20% additional critical chance"
 }

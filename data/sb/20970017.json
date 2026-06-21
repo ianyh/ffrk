@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user"
+    }
+  ],
   "id": "20970017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970017/20970017_256.png",
   "character": "Rikku",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user"
 }

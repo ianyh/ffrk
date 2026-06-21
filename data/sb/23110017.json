@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Knight Ability Boost, Dualcast Knight, Zero Hone Cost to Knight Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Knight/XIV members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Knight Ability Boost, Dualcast Knight, Zero Hone Cost to Knight Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Knight/XIV members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
   "id": "23110017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23110017/23110017_256.png",
   "character": "Haurchefant",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Knight Ability Boost, Dualcast Knight, Zero Hone Cost to Knight Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Knight/XIV members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Knight Ability Boost, Dualcast Knight, Zero Hone Cost to Knight Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Knight/XIV members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Knight Ability Boost, Dualcast Knight, Zero Hone Cost to Knight Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Knight/XIV members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ]
+  "effects": "7 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Knight Ability Boost, Dualcast Knight, Zero Hone Cost to Knight Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 4 single-target Holy/Ice/NE physical attacks at Cap Break Level 1, Instant Cast, Damage +30% for 1 turn to Knight/XIV members, [Cap Break Level 1, Instant Cast, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
 }

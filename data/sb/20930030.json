@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven ranged single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Thief Mode I (Faris) 2], [Twin Element Mode II (Fire, Wind)] and [Thief Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Pirate Storm (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Thief Mode II (Faris) 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven ranged single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Thief Mode I (Faris) 2], [Twin Element Mode II (Fire, Wind)] and [Thief Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Pirate Storm (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Thief Mode II (Faris) 2]"
+    }
+  ],
   "id": "20930030",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930030/20930030_256.png",
   "character": "Faris",
@@ -15,25 +35,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven ranged single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Thief Mode I (Faris) 2], [Twin Element Mode II (Fire, Wind)] and [Thief Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven ranged single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Thief Mode I (Faris) 2], [Twin Element Mode II (Fire, Wind)] and [Thief Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Thief Mode II (Faris) 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven ranged single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Thief Mode I (Faris) 2], [Twin Element Mode II (Fire, Wind)] and [Thief Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Thief Mode II (Faris) 2]"
-    }
-  ]
+  "effects": "Seven ranged single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Thief Mode I (Faris) 2], [Twin Element Mode II (Fire, Wind)] and [Thief Resonance +5% Boost] to the user"
 }

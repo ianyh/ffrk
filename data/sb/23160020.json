@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (? each) capped at 19999, activates V Chain (max 150, field +0%) or adds 25 to the current V Chain maximum limit, grants [Chain Force Mode: Xezat] and [Instant Cast 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (? each) capped at 19999, activates V Chain (max 150, field +0%) or adds 25 to the current V Chain maximum limit, grants [Chain Force Mode: Xezat] and [Instant Cast 1] to the user"
+    }
+  ],
   "id": "23160020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160020/23160020_256.png",
   "character": "Xezat",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Ten single attacks (? each) capped at 19999, activates V Chain (max 150, field +0%) or adds 25 to the current V Chain maximum limit, grants [Chain Force Mode: Xezat] and [Instant Cast 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (? each) capped at 19999, activates V Chain (max 150, field +0%) or adds 25 to the current V Chain maximum limit, grants [Chain Force Mode: Xezat] and [Instant Cast 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (? each) capped at 19999, activates V Chain (max 150, field +0%) or adds 25 to the current V Chain maximum limit, grants [Chain Force Mode: Xezat] and [Instant Cast 1] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (? each) capped at 19999, activates V Chain (max 150, field +0%) or adds 25 to the current V Chain maximum limit, grants [Chain Force Mode: Xezat] and [Instant Cast 1] to the user"
 }

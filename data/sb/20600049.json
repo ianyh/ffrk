@@ -1,20 +1,4 @@
 {
-  "id": "20600049",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600049/20600049_256.png",
-  "character": "Lightning",
-  "name": "Roaring Lightning Flash",
-  "name_jp": "轟・雷光閃",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "XIII",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single-target Lightning/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lightning (Lightning)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Lightning (Lightning)",
       "text": "Lightning abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, casts [Roaring  Lightning (Lightning)] after using Lightning abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "20600049",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600049/20600049_256.png",
+  "character": "Lightning",
+  "name": "Roaring Lightning Flash",
+  "name_jp": "轟・雷光閃",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single-target Lightning/NE physical attacks (0.8 each), grants [Damage Cap +10000], [Instant ATB 1], & [Accel Mode: Lightning (Lightning)] to the user"
 }

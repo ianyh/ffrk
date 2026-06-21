@@ -1,20 +1,4 @@
 {
-  "id": "20110053",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110053/20110053_256.png",
-  "character": "Cloud",
-  "name": "Zenith Darkside Braver",
-  "name_jp": "究極Dサイドブレイバー",
-  "tier": "ZSB",
-  "sb_version": "ZSB3",
-  "realm": "VII",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Dark 2 with Stacking], [Zenith Mode], [Zenith Mode: Cloud] and [Damage Cap +50000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -46,5 +30,21 @@
       "name": "Entry",
       "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Dark 2 with Stacking], [Zenith Mode], [Zenith Mode: Cloud] and [Damage Cap +50000] to the user"
     }
-  ]
+  ],
+  "id": "20110053",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110053/20110053_256.png",
+  "character": "Cloud",
+  "name": "Zenith Darkside Braver",
+  "name_jp": "究極Dサイドブレイバー",
+  "tier": "ZSB",
+  "sb_version": "ZSB3",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind 2 with Stacking]/[Attach Dark 2 with Stacking], [Zenith Mode], [Zenith Mode: Cloud] and [Damage Cap +50000] to the user"
 }

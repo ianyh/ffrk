@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], and Crystal Mode to the user, grants [Critical Damage +50% 3]/[Critical Damage +50%] to the user/all allies with 0-3/4+ XV allies\nCrystal Mode: Samurai Ability Boost, Dualcast Samurai, Zero Hone Cost to Samurai Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (0.90 each) capped at 19999, Instant Cast, grants [Damage Cap +10000 2], [Samurai +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], and Crystal Mode to the user, grants [Critical Damage +50% 3]/[Critical Damage +50%] to the user/all allies with 0-3/4+ XV allies\nCrystal Mode: Samurai Ability Boost, Dualcast Samurai, Zero Hone Cost to Samurai Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (0.90 each) capped at 19999, Instant Cast, grants [Damage Cap +10000 2], [Samurai +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
+    }
+  ],
   "id": "23420017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420017/23420017_256.png",
   "character": "Cor",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], and Crystal Mode to the user, grants [Critical Damage +50% 3]/[Critical Damage +50%] to the user/all allies with 0-3/4+ XV allies\nCrystal Mode: Samurai Ability Boost, Dualcast Samurai, Zero Hone Cost to Samurai Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (0.90 each) capped at 19999, Instant Cast, grants [Damage Cap +10000 2], [Samurai +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], and Crystal Mode to the user, grants [Critical Damage +50% 3]/[Critical Damage +50%] to the user/all allies with 0-3/4+ XV allies\nCrystal Mode: Samurai Ability Boost, Dualcast Samurai, Zero Hone Cost to Samurai Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (0.90 each) capped at 19999, Instant Cast, grants [Damage Cap +10000 2], [Samurai +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], and Crystal Mode to the user, grants [Critical Damage +50% 3]/[Critical Damage +50%] to the user/all allies with 0-3/4+ XV allies\nCrystal Mode: Samurai Ability Boost, Dualcast Samurai, Zero Hone Cost to Samurai Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (0.90 each) capped at 19999, Instant Cast, grants [Damage Cap +10000 2], [Samurai +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
-    }
-  ]
+  "effects": "7 single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], and Crystal Mode to the user, grants [Critical Damage +50% 3]/[Critical Damage +50%] to the user/all allies with 0-3/4+ XV allies\nCrystal Mode: Samurai Ability Boost, Dualcast Samurai, Zero Hone Cost to Samurai Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/NE physical attacks (0.90 each) capped at 19999, Instant Cast, grants [Damage Cap +10000 2], [Samurai +30% Boost 2], [DEF and RES 50% Piercing 2], and [200% ATB 1] to the user"
 }

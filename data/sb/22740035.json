@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Lucian King Mode I (Noctis)] and [Fire/Earth/Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Regal Flair (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lucian King Mode II (Noctis)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Lucian King Mode I (Noctis)] and [Fire/Earth/Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Regal Flair (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lucian King Mode II (Noctis)]"
+    }
+  ],
   "id": "22740035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740035/22740035_256.png",
   "character": "Noctis",
@@ -16,25 +36,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Lucian King Mode I (Noctis)] and [Fire/Earth/Lightning Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Lucian King Mode I (Noctis)] and [Fire/Earth/Lightning Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Lucian King Mode II (Noctis)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Lucian King Mode I (Noctis)] and [Fire/Earth/Lightning Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Lucian King Mode II (Noctis)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, [Damage Cap +10000], [100% Critical (25s)], [Dual Awoken Lucian King Mode I (Noctis)] and [Fire/Earth/Lightning Resonance +5% Boost] to the user"
 }

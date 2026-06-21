@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies"
+    },
+    {
+      "name": "Awoken Dragon Breath (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Leap Mode II (Freya)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies"
+    },
+    {
+      "name": "Awoken Dragon Breath (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Leap Mode II (Freya)]"
+    }
+  ],
   "id": "22110016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110016/22110016_256.png",
   "character": "Freya",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Leap Mode II (Freya)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Leap Mode II (Freya)]"
-    }
-  ]
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies"
 }

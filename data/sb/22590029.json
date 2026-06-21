@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Matoya], [MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Magic Fusion (Weapon Skill)",
+      "text": "One single piercing attack (31.00) capped at 199,999. Grants [Fire, Ice, Lightning Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Ice, Lightning Ability +50% Boost (Tactical)], [Fire, Ice, Lightning 142% ATB Quick Cycle (Tactical)] to user/[Magical +30% Boost (15s)] to all allies if there are 0-2/3+ Witch allies in the party."
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Matoya], [MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "War-Awoken Magic Fusion (Weapon Skill)",
+      "text": "One single piercing attack (31.00) capped at 199,999. Grants [Fire, Ice, Lightning Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Ice, Lightning Ability +50% Boost (Tactical)], [Fire, Ice, Lightning 142% ATB Quick Cycle (Tactical)] to user/[Magical +30% Boost (15s)] to all allies if there are 0-2/3+ Witch allies in the party."
+    }
+  ],
   "id": "22590029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590029/22590029_256.png",
   "character": "Matoya",
@@ -11,25 +31,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Matoya], [MAG +500 (25s) (Tactical)] to user.",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Matoya], [MAG +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack (31.00) capped at 199,999. Grants [Fire, Ice, Lightning Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Ice, Lightning Ability +50% Boost (Tactical)], [Fire, Ice, Lightning 142% ATB Quick Cycle (Tactical)] to user/[Magical +30% Boost (15s)] to all allies if there are 0-2/3+ Witch allies in the party."
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Matoya], [MAG +500 (25s) (Tactical)] to user."
-    },
-    {
-      "name": "Weapon Skill",
-      "text": "One single piercing attack (31.00) capped at 199,999. Grants [Fire, Ice, Lightning Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Ice, Lightning Ability +50% Boost (Tactical)], [Fire, Ice, Lightning 142% ATB Quick Cycle (Tactical)] to user/[Magical +30% Boost (15s)] to all allies if there are 0-2/3+ Witch allies in the party."
-    }
-  ]
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Matoya], [MAG +500 (25s) (Tactical)] to user."
 }

@@ -1,21 +1,4 @@
 {
-  "id": "23310014",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310014/23310014_256.png",
-  "character": "Biggs",
-  "name": "Zenith Brave Slash",
-  "name_jp": "究極オレ様流ブレイバー",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "Core",
-  "elements": [
-    "Earth",
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Biggs (Dark, Earth)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -67,5 +50,22 @@
       "name": "Spirit Attack: Biggs (Earth, Dark)",
       "text": "Grants [100% Critical 3],[Quick Cast 3]/[100% Critical 3],[Damage Cap +10000 3],[Instant Cast 3] to the user if 0-3/4+ Core/Beyond allies are alive\n"
     }
-  ]
+  ],
+  "id": "23310014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23310014/23310014_256.png",
+  "character": "Biggs",
+  "name": "Zenith Brave Slash",
+  "name_jp": "究極オレ様流ブレイバー",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "Core",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth 3 with Stacking], [Zenith Mode], [Zenith Mode: Biggs (Dark, Earth)] and [Damage Cap +10000] to the user"
 }

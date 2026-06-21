@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 150, field +30%), [ATK +50% (25s)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Fire Chain (max 150, field +30%), [ATK +50% (25s)] to all allies"
+    }
+  ],
   "id": "20550024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550024/20550024_256.png",
   "character": "Sabin",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Fire Chain (max 150, field +30%), [ATK +50% (25s)] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Fire Chain (max 150, field +30%), [ATK +50% (25s)] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Fire Chain (max 150, field +30%), [ATK +50% (25s)] to all allies"
-    }
-  ]
+  "effects": "Activates Fire Chain (max 150, field +30%), [ATK +50% (25s)] to all allies"
 }

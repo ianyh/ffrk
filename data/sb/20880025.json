@@ -1,22 +1,4 @@
 {
-  "id": "20880025",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880025/20880025_256.png",
-  "character": "Lulu",
-  "name": "Zenith The Future Waits",
-  "name_jp": "究極未来への歩み",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "X",
-  "elements": [
-    "Ice",
-    "Water",
-    "Lightning",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (? each) capped at 19999, grants either [Attach Ice 2 with Stacking], [Attach Water 2 with Stacking], or [Attach Lightning 2 with Stacking], grants [Damage Cap +10000], [Zenith Mode], and Zenith Mode: Lulu to user, grants [Ice/Water/Lightning Damage +20% to user] or [MAG/MND +25% & DEF/RES +30% for 8 seconds and Quick Witch 1 to party] with at least 0/4 Witches\nZenith Mode: Lulu (Witch): Increases [Ice/Water/Lightning Infusion] damage bonus by 20%, cast speed x1.10 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage, Ice, Water, or Lightning abilities trigger 1 additional time, casts Spirit Attack: Lulu (Witch) after Ice, Water, or Lightning abilities (max 2), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]",
   "description": [
     {
       "name": "Entry",
@@ -68,5 +50,23 @@
       "name": "Triple Trick+",
       "text": "Four single attacks (? each), grants [Magical Quick Cast 2] to the user"
     }
-  ]
+  ],
+  "id": "20880025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880025/20880025_256.png",
+  "character": "Lulu",
+  "name": "Zenith The Future Waits",
+  "name_jp": "究極未来への歩み",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Water",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (? each) capped at 19999, grants either [Attach Ice 2 with Stacking], [Attach Water 2 with Stacking], or [Attach Lightning 2 with Stacking], grants [Damage Cap +10000], [Zenith Mode], and Zenith Mode: Lulu to user, grants [Ice/Water/Lightning Damage +20% to user] or [MAG/MND +25% & DEF/RES +30% for 8 seconds and Quick Witch 1 to party] with at least 0/4 Witches\nZenith Mode: Lulu (Witch): Increases [Ice/Water/Lightning Infusion] damage bonus by 20%, cast speed x1.10 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage, Ice, Water, or Lightning abilities trigger 1 additional time, casts Spirit Attack: Lulu (Witch) after Ice, Water, or Lightning abilities (max 2), maximum HP +1500, grants [Astra] after taking the next action, removed if the character hasn't [Zenith Mode]"
 }

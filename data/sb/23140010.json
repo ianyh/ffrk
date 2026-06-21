@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [50% Critical]/[100% Critical (25s)] to all allies if 0-2/3+ allies have any Attach Poison, grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Wind, Poison)], [Poisoner Thieves Follow-Up] and [Crescent Gale] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [50% Critical]/[100% Critical (25s)] to all allies if 0-2/3+ allies have any Attach Poison, grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Wind, Poison)], [Poisoner Thieves Follow-Up] and [Crescent Gale] to the user"
+    }
+  ],
   "id": "23140010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23140010/23140010_256.png",
   "character": "Thief (I)",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [50% Critical]/[100% Critical (25s)] to all allies if 0-2/3+ allies have any Attach Poison, grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Wind, Poison)], [Poisoner Thieves Follow-Up] and [Crescent Gale] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [50% Critical]/[100% Critical (25s)] to all allies if 0-2/3+ allies have any Attach Poison, grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Wind, Poison)], [Poisoner Thieves Follow-Up] and [Crescent Gale] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [50% Critical]/[100% Critical (25s)] to all allies if 0-2/3+ allies have any Attach Poison, grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Wind, Poison)], [Poisoner Thieves Follow-Up] and [Crescent Gale] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [50% Critical]/[100% Critical (25s)] to all allies if 0-2/3+ allies have any Attach Poison, grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Wind, Poison)], [Poisoner Thieves Follow-Up] and [Crescent Gale] to the user"
 }

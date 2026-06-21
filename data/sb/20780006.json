@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.95 each), [ATK and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.95 each), [ATK and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20780006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780006/20780006_256.png",
   "character": "Setzer",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.95 each), [ATK and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.95 each), [ATK and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.95 each), [ATK and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Randomly deals seven (80%) or fourteen (20%) random ranged attacks (0.95 each), [ATK and MAG -40%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

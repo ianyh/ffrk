@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "6000 HP Stock, Guts, Haste, 50% Damage Reduction Barrier 1 & Quick Cast 3 to party, Awoken Committee Leader Mode to user\nAwoken Committee Leader Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "6000 HP Stock, Guts, Haste, 50% Damage Reduction Barrier 1 & Quick Cast 3 to party, Awoken Committee Leader Mode to user\nAwoken Committee Leader Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to party"
+    }
+  ],
   "id": "20510023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510023/20510023_256.png",
   "character": "Selphie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "6000 HP Stock, Guts, Haste, 50% Damage Reduction Barrier 1 & Quick Cast 3 to party, Awoken Committee Leader Mode to user\nAwoken Committee Leader Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "6000 HP Stock, Guts, Haste, 50% Damage Reduction Barrier 1 & Quick Cast 3 to party, Awoken Committee Leader Mode to user\nAwoken Committee Leader Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "6000 HP Stock, Guts, Haste, 50% Damage Reduction Barrier 1 & Quick Cast 3 to party, Awoken Committee Leader Mode to user\nAwoken Committee Leader Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to party"
-    }
-  ]
+  "effects": "6000 HP Stock, Guts, Haste, 50% Damage Reduction Barrier 1 & Quick Cast 3 to party, Awoken Committee Leader Mode to user\nAwoken Committee Leader Mode: Unlimited White Magic/Dancer Hones, Quick White Magic/Dancer & chases R1/2/3/4/5 White Magic/Dancer abilities with h10/15/25/35/45 heal to party"
 }

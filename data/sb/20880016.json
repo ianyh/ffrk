@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Triple Sphere Mode II (Ice, Lightning, Water)] and [High Quick Cast 1]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Triple Sphere Mode II (Ice, Lightning, Water)] and [High Quick Cast 1]"
+    }
+  ],
   "id": "20880016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880016/20880016_256.png",
   "character": "Lulu",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Triple Sphere Mode II (Ice, Lightning, Water)] and [High Quick Cast 1]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Triple Sphere Mode II (Ice, Lightning, Water)] and [High Quick Cast 1]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Triple Sphere Mode II (Ice, Lightning, Water)] and [High Quick Cast 1]"
-    }
-  ]
+  "effects": "Grants [Triple Sphere Mode II (Ice, Lightning, Water)] and [High Quick Cast 1]"
 }

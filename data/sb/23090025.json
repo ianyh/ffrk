@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking]"
+    }
+  ],
   "id": "23090025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23090025/23090025_256.png",
   "character": "Machina",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking]"
-    }
-  ]
+  "effects": "Grants [Instant Cast 1], [Instant ATB 1] and [Attach Earth with Stacking]"
 }

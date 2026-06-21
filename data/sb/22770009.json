@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[Weakness +15% Boost (15s)] and [50% Damage Reduction Barrier 1]/[Weakness +30% Boost (15s)] and [75% Damage Reduction Barrier 1] to all allies if 0-1/2-3/4+ FF12 allies are alive, grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[Weakness +15% Boost (15s)] and [50% Damage Reduction Barrier 1]/[Weakness +30% Boost (15s)] and [75% Damage Reduction Barrier 1] to all allies if 0-1/2-3/4+ FF12 allies are alive, grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user"
+    }
+  ],
   "id": "22770009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770009/22770009_256.png",
   "character": "Reks",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[Weakness +15% Boost (15s)] and [50% Damage Reduction Barrier 1]/[Weakness +30% Boost (15s)] and [75% Damage Reduction Barrier 1] to all allies if 0-1/2-3/4+ FF12 allies are alive, grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[Weakness +15% Boost (15s)] and [50% Damage Reduction Barrier 1]/[Weakness +30% Boost (15s)] and [75% Damage Reduction Barrier 1] to all allies if 0-1/2-3/4+ FF12 allies are alive, grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[Weakness +15% Boost (15s)] and [50% Damage Reduction Barrier 1]/[Weakness +30% Boost (15s)] and [75% Damage Reduction Barrier 1] to all allies if 0-1/2-3/4+ FF12 allies are alive, grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[Weakness +15% Boost (15s)] and [50% Damage Reduction Barrier 1]/[Weakness +30% Boost (15s)] and [75% Damage Reduction Barrier 1] to all allies if 0-1/2-3/4+ FF12 allies are alive, grants [Attach Lightning], [Awoken Lightning] and [Damage Cap +10000] to the user"
 }

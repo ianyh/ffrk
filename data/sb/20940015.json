@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
+    }
+  ],
   "id": "20940015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940015/20940015_256.png",
   "character": "Krile",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
-    }
-  ]
+  "effects": "Grants [Attach Earth Stacking], [Attach Earth] and [High Quick Cast 2]"
 }

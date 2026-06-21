@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dragoon Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Dragoon Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
+    }
+  ],
   "id": "20460016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460016/20460016_256.png",
   "character": "Ricard",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": true,
-  "effects": "Activates Dragoon Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dragoon Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Dragoon Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
-    }
-  ]
+  "effects": "Activates Dragoon Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)]"
 }

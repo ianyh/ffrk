@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Realignment (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Automaton Mode II (Aphmau)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Awoken Realignment (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Automaton Mode II (Aphmau)]"
+    }
+  ],
   "id": "22880009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880009/22880009_256.png",
   "character": "Aphmau",
@@ -11,25 +31,5 @@
   "type": "WHT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Automaton Mode II (Aphmau)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Automaton Mode II (Aphmau)]"
-    }
-  ]
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user"
 }

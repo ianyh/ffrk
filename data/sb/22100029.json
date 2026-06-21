@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/NE ranged physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Ice, Ice Ability Damage +30%, Dualcast Ice, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Ice/NE ranged physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Ice, Ice Ability Damage +30%, Dualcast Ice, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
+    }
+  ],
   "id": "22100029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22100029/22100029_256.png",
   "character": "Laguna",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Ice/NE ranged physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Ice, Ice Ability Damage +30%, Dualcast Ice, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Ice/NE ranged physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Ice, Ice Ability Damage +30%, Dualcast Ice, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Ice/NE ranged physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Ice, Ice Ability Damage +30%, Dualcast Ice, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
-    }
-  ]
+  "effects": "7 single-target Ice/NE ranged physical attacks at Cap Break Level 1, En-Ice, En-Ice Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Ice Ability Boost, Dualcast Ice, Zero Hone Cost to Ice Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Ice/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Cap Break Level 1, Instant Ice, Ice Ability Damage +30%, Dualcast Ice, Quick ATB & 50% DEF/RES Pierce] for 1 turn to user"
 }

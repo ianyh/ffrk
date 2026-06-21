@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [High Quick Cast 1] and [Holy High Quick Cycle] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [High Quick Cast 1] and [Holy High Quick Cycle] to the user"
+    }
+  ],
   "id": "23080007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23080007/23080007_256.png",
   "character": "Rem",
@@ -15,17 +27,5 @@
   "type": "WHT",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [High Quick Cast 1] and [Holy High Quick Cycle] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [High Quick Cast 1] and [Holy High Quick Cycle] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [High Quick Cast 1] and [Holy High Quick Cycle] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (1.60 each), grants [Attach Holy], [Awoken Holy], [Damage Cap +10000], [High Quick Cast 1] and [Holy High Quick Cycle] to the user"
 }

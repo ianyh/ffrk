@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "MAG/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "MAG/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
+    }
+  ],
   "id": "22590027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590027/22590027_256.png",
   "character": "Matoya",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "MAG/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "MAG/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "MAG/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
-    }
-  ]
+  "effects": "MAG/MND/DEF/RES +15% for 8 seconds to party, Quick ATB 1 & Instant Cast 1 to user"
 }

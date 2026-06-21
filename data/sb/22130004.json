@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (0.62 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Eight group attacks (0.62 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user"
+    }
+  ],
   "id": "22130004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130004/22130004_256.png",
   "character": "Leila",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "All enemies",
   "lensable": true,
-  "effects": "Eight group attacks (0.62 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Eight group attacks (0.62 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Eight group attacks (0.62 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Eight group attacks (0.62 each), grants [Haste], [Attach Poison] and [Burst Mode] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user"
+    }
+  ],
   "id": "23100015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100015/23100015_256.png",
   "character": "Queen",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.70 each), grants [Instant Cast 1], [Attach Lightning with Stacking] and [Critical Damage +50%] to the user"
 }

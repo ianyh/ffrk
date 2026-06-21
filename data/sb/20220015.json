@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies"
+    },
+    {
+      "name": "Awoken Bushido Sky (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cyan)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies"
+    },
+    {
+      "name": "Awoken Bushido Sky (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cyan)]"
+    }
+  ],
   "id": "20220015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220015/20220015_256.png",
   "character": "Cyan",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cyan)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cyan)]"
-    }
-  ]
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies"
 }

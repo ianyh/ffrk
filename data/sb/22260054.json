@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Instant ATB 1] & [Diffusion Barrier 1] to user\nMaster Mode: Cap Break Level 4, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Ice/NE or Water/NE magic attacks under En-Ice or En-Water\nMaster Chase: Single-target Ice/Water/NE large% piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user, removes Master Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Master Mode], [Instant ATB 1] & [Diffusion Barrier 1] to user\nMaster Mode: Cap Break Level 4, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Ice/NE or Water/NE magic attacks under En-Ice or En-Water\nMaster Chase: Single-target Ice/Water/NE large% piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user, removes Master Mode"
+    }
+  ],
   "id": "22260054",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260054/22260054_256.png",
   "character": "Serah",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Master Mode], [Instant ATB 1] & [Diffusion Barrier 1] to user\nMaster Mode: Cap Break Level 4, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Ice/NE or Water/NE magic attacks under En-Ice or En-Water\nMaster Chase: Single-target Ice/Water/NE large% piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user, removes Master Mode",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Master Mode], [Instant ATB 1] & [Diffusion Barrier 1] to user\nMaster Mode: Cap Break Level 4, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Ice/NE or Water/NE magic attacks under En-Ice or En-Water\nMaster Chase: Single-target Ice/Water/NE large% piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user, removes Master Mode"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Master Mode], [Instant ATB 1] & [Diffusion Barrier 1] to user\nMaster Mode: Cap Break Level 4, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Ice/NE or Water/NE magic attacks under En-Ice or En-Water\nMaster Chase: Single-target Ice/Water/NE large% piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user, removes Master Mode"
-    }
-  ]
+  "effects": "Grants [Master Mode], [Instant ATB 1] & [Diffusion Barrier 1] to user\nMaster Mode: Cap Break Level 4, Hero Boost +50%, Zero SB Cost 1 & Instant SB/LB Cast\nInterval Chase: 10 single-target Ice/NE or Water/NE magic attacks under En-Ice or En-Water\nMaster Chase: Single-target Ice/Water/NE large% piercing magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user, removes Master Mode"
 }

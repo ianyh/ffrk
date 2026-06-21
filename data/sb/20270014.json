@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [PHY +30% Boost (15s)] and [Military Prowess EX Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (0.70 each), grants [PHY +30% Boost (15s)] and [Military Prowess EX Mode] to the user"
+    }
+  ],
   "id": "20270014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270014/20270014_256.png",
   "character": "Firion",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (0.70 each), grants [PHY +30% Boost (15s)] and [Military Prowess EX Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.70 each), grants [PHY +30% Boost (15s)] and [Military Prowess EX Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (0.70 each), grants [PHY +30% Boost (15s)] and [Military Prowess EX Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (0.70 each), grants [PHY +30% Boost (15s)] and [Military Prowess EX Mode] to the user"
 }

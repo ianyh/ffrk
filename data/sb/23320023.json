@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Limit Chain (150) & 30% Wind Field, ATK +50% or MAG +50% to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Wind Limit Chain (150) & 30% Wind Field, ATK +50% or MAG +50% to party"
+    }
+  ],
   "id": "23320023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320023/23320023_256.png",
   "character": "Wedge",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Wind Limit Chain (150) & 30% Wind Field, ATK +50% or MAG +50% to party",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Wind Limit Chain (150) & 30% Wind Field, ATK +50% or MAG +50% to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Wind Limit Chain (150) & 30% Wind Field, ATK +50% or MAG +50% to party"
-    }
-  ]
+  "effects": "Activates Wind Limit Chain (150) & 30% Wind Field, ATK +50% or MAG +50% to party"
 }

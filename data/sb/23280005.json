@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Smart ether 1"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Smart ether 1"
+    }
+  ],
   "id": "23280005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280005/23280005_256.png",
   "character": "Enna Kros",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Smart ether 1",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Smart ether 1"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Smart ether 1"
-    }
-  ]
+  "effects": "Smart ether 1"
 }

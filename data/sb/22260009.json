@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Ice Radiant Shield: 75%] to all allies, grants [High Quick Cast 1] and [Ice High Quick Cycle] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Ice Radiant Shield: 75%] to all allies, grants [High Quick Cast 1] and [Ice High Quick Cycle] to the user"
+    }
+  ],
   "id": "22260009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260009/22260009_256.png",
   "character": "Serah",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.73 each), grants [Ice Radiant Shield: 75%] to all allies, grants [High Quick Cast 1] and [Ice High Quick Cycle] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), grants [Ice Radiant Shield: 75%] to all allies, grants [High Quick Cast 1] and [Ice High Quick Cycle] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), grants [Ice Radiant Shield: 75%] to all allies, grants [High Quick Cast 1] and [Ice High Quick Cycle] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.73 each), grants [Ice Radiant Shield: 75%] to all allies, grants [High Quick Cast 1] and [Ice High Quick Cycle] to the user"
 }

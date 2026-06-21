@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Rufus)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken President's Scorn (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Rufus)], removes [Dual Awoken Dark Mode I (Rufus)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Rufus)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken President's Scorn (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Rufus)], removes [Dual Awoken Dark Mode I (Rufus)]"
+    }
+  ],
   "id": "22630011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22630011/22630011_256.png",
   "character": "Rufus",
@@ -14,25 +34,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Rufus)] and [Dark Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Rufus)] and [Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Rufus)], removes [Dual Awoken Dark Mode I (Rufus)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Rufus)] and [Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Rufus)], removes [Dual Awoken Dark Mode I (Rufus)]"
-    }
-  ]
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Rufus)] and [Dark Resonance +5% Boost] to the user"
 }

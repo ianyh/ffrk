@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Instant Cast 3]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Magical Instant Cast 3]"
+    }
+  ],
   "id": "22330009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330009/22330009_256.png",
   "character": "Papalymo",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Magical Instant Cast 3]",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Magical Instant Cast 3]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Magical Instant Cast 3]"
-    }
-  ]
+  "effects": "Grants [Magical Instant Cast 3]"
 }

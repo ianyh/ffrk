@@ -1,17 +1,4 @@
 {
-  "id": "22910009",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22910009/22910009_256.png",
-  "character": "Iris",
-  "name": "Zenith Amicitia's Cheer",
-  "name_jp": "究極アミシティアエール",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XV",
-  "elements": [],
-  "type": "WHT",
-  "target": "All allies",
-  "lensable": false,
-  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Physical Instant Cast 2] and [Natural Cure: Iris] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Iris (White Magic, Monk)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -63,5 +50,18 @@
       "name": "Pocket Potion+",
       "text": "Restores HP (20) to all allies"
     }
-  ]
+  ],
+  "id": "22910009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22910009/22910009_256.png",
+  "character": "Iris",
+  "name": "Zenith Amicitia's Cheer",
+  "name_jp": "究極アミシティアエール",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Last Stand], [Physical Instant Cast 2] and [Natural Cure: Iris] to all allies, grants [Damage Cap +10000], [Zenith Mode] and [Zenith Mode: Iris (White Magic, Monk)] to the user"
 }

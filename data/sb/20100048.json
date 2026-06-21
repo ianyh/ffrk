@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Black Magic +30% Boost (15s)], [200% ATB 1], and [Quick Cast 1] to the user, damages the user for 99% current HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Black Magic +30% Boost (15s)], [200% ATB 1], and [Quick Cast 1] to the user, damages the user for 99% current HP"
+    }
+  ],
   "id": "20100048",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100048/20100048_256.png",
   "character": "Terra",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": false,
-  "effects": "Grants [Black Magic +30% Boost (15s)], [200% ATB 1], and [Quick Cast 1] to the user, damages the user for 99% current HP",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Black Magic +30% Boost (15s)], [200% ATB 1], and [Quick Cast 1] to the user, damages the user for 99% current HP"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Black Magic +30% Boost (15s)], [200% ATB 1], and [Quick Cast 1] to the user, damages the user for 99% current HP"
-    }
-  ]
+  "effects": "Grants [Black Magic +30% Boost (15s)], [200% ATB 1], and [Quick Cast 1] to the user, damages the user for 99% current HP"
 }

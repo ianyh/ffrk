@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.64 each), grants [Physical Blink 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Two single attacks (0.64 each), grants [Physical Blink 1] to the user"
+    }
+  ],
   "id": "23170004",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170004/23170004_256.png",
   "character": "Kelger",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Two single attacks (0.64 each), grants [Physical Blink 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Two single attacks (0.64 each), grants [Physical Blink 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Two single attacks (0.64 each), grants [Physical Blink 1] to the user"
-    }
-  ]
+  "effects": "Two single attacks (0.64 each), grants [Physical Blink 1] to the user"
 }

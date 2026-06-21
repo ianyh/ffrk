@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)] to all allies"
+    }
+  ],
   "id": "22040037",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040037/22040037_256.png",
   "character": "Yuffie",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "All allies",
   "lensable": false,
-  "effects": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)] to all allies"
-    }
-  ]
+  "effects": "Activates Ninja Chain (max 150, field +50%), grants [Haste] and [ATK +50% (25s)] to all allies"
 }

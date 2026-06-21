@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, MAG/MND/RES +30% to party, Dark/Lightning Damage +30%, Cap Break Level 1, Dual Awoken Apparition Mode I & Dark/Lightning Ability Damage +5% to user\nDual Awoken Apparition Mode I: Dark/Lightning Ability Boost, Triplecast Dark/Lightning & Quick Dark/Lightning"
+    },
+    {
+      "name": "Awoken Obstruction Particle Beam (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Apparition Mode II to user\nDual Awoken Apparition Mode II: Instant Cast; When mode ends, chases with 6 single-target Dark/Lightning/NE magic attacks, higher multiplier if exploiting weakness, Instant Cast 1 to party"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, MAG/MND/RES +30% to party, Dark/Lightning Damage +30%, Cap Break Level 1, Dual Awoken Apparition Mode I & Dark/Lightning Ability Damage +5% to user\nDual Awoken Apparition Mode I: Dark/Lightning Ability Boost, Triplecast Dark/Lightning & Quick Dark/Lightning"
+    },
+    {
+      "name": "Awoken Obstruction Particle Beam (Dual Shift)",
+      "text": "Instant ATB 1 & Dual Awoken Apparition Mode II to user\nDual Awoken Apparition Mode II: Instant Cast; When mode ends, chases with 6 single-target Dark/Lightning/NE magic attacks, higher multiplier if exploiting weakness, Instant Cast 1 to party"
+    }
+  ],
   "id": "22670033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670033/22670033_256.png",
   "character": "Cloud of Darkness",
@@ -15,25 +35,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, MAG/MND/RES +30% to party, Dark/Lightning Damage +30%, Cap Break Level 1, Dual Awoken Apparition Mode I & Dark/Lightning Ability Damage +5% to user\nDual Awoken Apparition Mode I: Dark/Lightning Ability Boost, Triplecast Dark/Lightning & Quick Dark/Lightning",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, MAG/MND/RES +30% to party, Dark/Lightning Damage +30%, Cap Break Level 1, Dual Awoken Apparition Mode I & Dark/Lightning Ability Damage +5% to user\nDual Awoken Apparition Mode I: Dark/Lightning Ability Boost, Triplecast Dark/Lightning & Quick Dark/Lightning"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Apparition Mode II to user\nDual Awoken Apparition Mode II: Instant Cast; When mode ends, chases with 6 single-target Dark/Lightning/NE magic attacks, higher multiplier if exploiting weakness, Instant Cast 1 to party"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, MAG/MND/RES +30% to party, Dark/Lightning Damage +30%, Cap Break Level 1, Dual Awoken Apparition Mode I & Dark/Lightning Ability Damage +5% to user\nDual Awoken Apparition Mode I: Dark/Lightning Ability Boost, Triplecast Dark/Lightning & Quick Dark/Lightning"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Instant ATB 1 & Dual Awoken Apparition Mode II to user\nDual Awoken Apparition Mode II: Instant Cast; When mode ends, chases with 6 single-target Dark/Lightning/NE magic attacks, higher multiplier if exploiting weakness, Instant Cast 1 to party"
-    }
-  ]
+  "effects": "7 single-target Dark/Lightning/NE magic attacks at Cap Break Level 1, MAG/MND/RES +30% to party, Dark/Lightning Damage +30%, Cap Break Level 1, Dual Awoken Apparition Mode I & Dark/Lightning Ability Damage +5% to user\nDual Awoken Apparition Mode I: Dark/Lightning Ability Boost, Triplecast Dark/Lightning & Quick Dark/Lightning"
 }

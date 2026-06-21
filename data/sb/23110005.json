@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[50% Damage Reduction Barrier 1] and [Weakness +15% Boost (15s)]/[75% Damage Reduction Barrier 1] and [Weakness +30% Boost (15s)] to all allies if 1/2/4+ FF14 allies are alive, grants [Attach Holy], [Awoken Knight] and [Damage Cap +10000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[50% Damage Reduction Barrier 1] and [Weakness +15% Boost (15s)]/[75% Damage Reduction Barrier 1] and [Weakness +30% Boost (15s)] to all allies if 1/2/4+ FF14 allies are alive, grants [Attach Holy], [Awoken Knight] and [Damage Cap +10000] to the user"
+    }
+  ],
   "id": "23110005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23110005/23110005_256.png",
   "character": "Haurchefant",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[50% Damage Reduction Barrier 1] and [Weakness +15% Boost (15s)]/[75% Damage Reduction Barrier 1] and [Weakness +30% Boost (15s)] to all allies if 1/2/4+ FF14 allies are alive, grants [Attach Holy], [Awoken Knight] and [Damage Cap +10000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[50% Damage Reduction Barrier 1] and [Weakness +15% Boost (15s)]/[75% Damage Reduction Barrier 1] and [Weakness +30% Boost (15s)] to all allies if 1/2/4+ FF14 allies are alive, grants [Attach Holy], [Awoken Knight] and [Damage Cap +10000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[50% Damage Reduction Barrier 1] and [Weakness +15% Boost (15s)]/[75% Damage Reduction Barrier 1] and [Weakness +30% Boost (15s)] to all allies if 1/2/4+ FF14 allies are alive, grants [Attach Holy], [Awoken Knight] and [Damage Cap +10000] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [50% Damage Reduction Barrier 1]/[50% Damage Reduction Barrier 1] and [Weakness +15% Boost (15s)]/[75% Damage Reduction Barrier 1] and [Weakness +30% Boost (15s)] to all allies if 1/2/4+ FF14 allies are alive, grants [Attach Holy], [Awoken Knight] and [Damage Cap +10000] to the user"
 }

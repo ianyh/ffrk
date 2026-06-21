@@ -1,20 +1,4 @@
 {
-  "id": "20210051",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210051/20210051_256.png",
-  "character": "Celes",
-  "name": "Roaring Spellblade Divinity",
-  "name_jp": "轟・聖なる魔導の剣",
-  "tier": "ASB",
-  "sb_version": "ASB2",
-  "realm": "VI",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "5 single attacks, grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Celes (Holy)], and [Instant ATB 1] to the user",
   "description": [
     {
       "name": "Entry",
@@ -34,5 +18,21 @@
       "name": "Accel Mode: Celes (Holy)",
       "text": "Holy abilities deal 15/20/25/30/50% more damage at ability rank 1/2/3/4/5, and instant cast speed for Holy abilities, removed if the character hasn't [Accel Mode]"
     }
-  ]
+  ],
+  "id": "20210051",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210051/20210051_256.png",
+  "character": "Celes",
+  "name": "Roaring Spellblade Divinity",
+  "name_jp": "轟・聖なる魔導の剣",
+  "tier": "ASB",
+  "sb_version": "ASB2",
+  "realm": "VI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "5 single attacks, grants [Damage Cap +10000], [Accel Mode], [Accel Mode: Celes (Holy)], and [Instant ATB 1] to the user"
 }

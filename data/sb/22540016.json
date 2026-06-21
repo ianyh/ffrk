@@ -1,27 +1,11 @@
 {
-  "id": "22540016",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540016/22540016_256.png",
-  "character": "Seymour",
-  "name": "Dark Deliverance",
-  "name_jp": "漆黒の救済",
-  "tier": "ADSB",
-  "sb_version": "ADSB1",
-  "realm": "X",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Twenty single attacks (3.15/3.50/3.91 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/42.18) capped at 99999 at Dark Deliverance level 0/1/2, removes Arcane Dyad Empowered: Seymour from the user",
   "description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.91 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/42.18) capped at 99999 at Dark Deliverance level 0/1/2, removes Arcane Dyad Empowered: Seymour from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Dark Deliverance (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Seymour], [Dark Deliverance Damage Tracker] and [Dark Deliverance Level]"
     }
   ],
@@ -31,8 +15,21 @@
       "text": "Twenty single attacks (3.15/3.50/3.91 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/42.18) capped at 99999 at Dark Deliverance level 0/1/2, removes Arcane Dyad Empowered: Seymour from the user"
     },
     {
-      "name": "Engaged",
+      "name": "Dark Deliverance (Engaged)",
       "text": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Seymour], [Dark Deliverance Damage Tracker] and [Dark Deliverance Level]"
     }
-  ]
+  ],
+  "id": "22540016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22540016/22540016_256.png",
+  "character": "Seymour",
+  "name": "Dark Deliverance (Engaged)",
+  "name_jp": "漆黒の救済",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "X",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Attach Dark with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Seymour], [Dark Deliverance Damage Tracker] and [Dark Deliverance Level]"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
+    }
+  ],
   "id": "23450007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23450007/23450007_256.png",
   "character": "Serafie",
@@ -13,17 +25,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
-    }
-  ]
+  "effects": "Four single attacks (3.00 each scaling with LB gauge and LB honing level) capped at 99999, ignores RES, grants [HP Stock (3000)] to all allies"
 }

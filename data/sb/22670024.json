@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Cloud of Darkness)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Anti-air Particle Beam (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Cloud of Darkness)], removes [Dual Awoken Dark Mode I (Cloud of Darkness)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Cloud of Darkness)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Anti-air Particle Beam (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Cloud of Darkness)], removes [Dual Awoken Dark Mode I (Cloud of Darkness)]"
+    }
+  ],
   "id": "22670024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670024/22670024_256.png",
   "character": "Cloud of Darkness",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Cloud of Darkness)] and [Dark Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Cloud of Darkness)] and [Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Cloud of Darkness)], removes [Dual Awoken Dark Mode I (Cloud of Darkness)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Cloud of Darkness)] and [Dark Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Cloud of Darkness)], removes [Dual Awoken Dark Mode I (Cloud of Darkness)]"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Cloud of Darkness)] and [Dark Resonance +5% Boost] to the user"
 }

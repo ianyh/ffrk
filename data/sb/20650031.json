@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & Quick Earth"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & Quick Earth"
+    }
+  ],
   "id": "20650031",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650031/20650031_256.png",
   "character": "Galuf",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & Quick Earth",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & Quick Earth"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & Quick Earth"
-    }
-  ]
+  "effects": "5 single-target physical attacks (0.80 each), Cap Break Level 1, Accel Mode & Instant ATB 1 to user\nAccel Mode: Earth Ability High Boost & Quick Earth"
 }

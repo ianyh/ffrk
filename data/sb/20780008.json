@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), [DEF and MAG -70%] for 8 seconds, grants [Instant Cast 1] to all allies, grants [Darkness Card Follow-Up] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single ranged attacks (0.71 each), [DEF and MAG -70%] for 8 seconds, grants [Instant Cast 1] to all allies, grants [Darkness Card Follow-Up] to the user"
+    }
+  ],
   "id": "20780008",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780008/20780008_256.png",
   "character": "Setzer",
@@ -14,17 +26,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single ranged attacks (0.71 each), [DEF and MAG -70%] for 8 seconds, grants [Instant Cast 1] to all allies, grants [Darkness Card Follow-Up] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged attacks (0.71 each), [DEF and MAG -70%] for 8 seconds, grants [Instant Cast 1] to all allies, grants [Darkness Card Follow-Up] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single ranged attacks (0.71 each), [DEF and MAG -70%] for 8 seconds, grants [Instant Cast 1] to all allies, grants [Darkness Card Follow-Up] to the user"
-    }
-  ]
+  "effects": "Ten single ranged attacks (0.71 each), [DEF and MAG -70%] for 8 seconds, grants [Instant Cast 1] to all allies, grants [Darkness Card Follow-Up] to the user"
 }

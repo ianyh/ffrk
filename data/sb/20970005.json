@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.77 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten random ranged attacks (0.77 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
+    }
+  ],
   "id": "20970005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970005/20970005_256.png",
   "character": "Rikku",
@@ -13,17 +25,5 @@
   "type": "PHY",
   "target": "Random enemies",
   "lensable": true,
-  "effects": "Ten random ranged attacks (0.77 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten random ranged attacks (0.77 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten random ranged attacks (0.77 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
-    }
-  ]
+  "effects": "Ten random ranged attacks (0.77 each), causes [Imperil Water 20%] for 25 seconds, grants [Haste] and [Burst Mode] to the user"
 }

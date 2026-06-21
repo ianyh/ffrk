@@ -1,20 +1,4 @@
 {
-  "id": "20350043",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350043/20350043_256.png",
-  "character": "Squall",
-  "name": "Zenith Renzokuken (Fire)",
-  "name_jp": "究極連続剣・炎",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "VIII",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Squall (Fire)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Squall (Fire)",
       "text": "Six single attacks (0.80), 0.90 if exploiting Fire weakness, capped at 19999"
     }
-  ]
+  ],
+  "id": "20350043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350043/20350043_256.png",
+  "character": "Squall",
+  "name": "Zenith Renzokuken (Fire)",
+  "name_jp": "究極連続剣・炎",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire 3 with Stacking], [Zenith Mode], [Zenith Mode: Squall (Fire)] and [Damage Cap +10000] to the user"
 }

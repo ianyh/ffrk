@@ -1,4 +1,24 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Tellah)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Grand Astron (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Tellah)]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Tellah)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Awoken Grand Astron (Dual Shift)",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Tellah)]"
+    }
+  ],
   "id": "20640016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640016/20640016_256.png",
   "character": "Tellah",
@@ -14,25 +34,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Tellah)] and [Earth Resonance +5% Boost] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Tellah)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Tellah)]"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Tellah)] and [Earth Resonance +5% Boost] to the user"
-    },
-    {
-      "name": "Dual Shift",
-      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Tellah)]"
-    }
-  ]
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Tellah)] and [Earth Resonance +5% Boost] to the user"
 }

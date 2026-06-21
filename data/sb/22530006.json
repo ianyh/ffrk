@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Wind Radiant Shield: 75%] to all allies, grants [High Quick Cast 2] and [Brave Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Ten single attacks (1.73 each), grants [Wind Radiant Shield: 75%] to all allies, grants [High Quick Cast 2] and [Brave Mode] to the user"
+    }
+  ],
   "id": "22530006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22530006/22530006_256.png",
   "character": "Alphinaud",
@@ -13,17 +25,5 @@
   "type": "SUM",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Ten single attacks (1.73 each), grants [Wind Radiant Shield: 75%] to all allies, grants [High Quick Cast 2] and [Brave Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), grants [Wind Radiant Shield: 75%] to all allies, grants [High Quick Cast 2] and [Brave Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Ten single attacks (1.73 each), grants [Wind Radiant Shield: 75%] to all allies, grants [High Quick Cast 2] and [Brave Mode] to the user"
-    }
-  ]
+  "effects": "Ten single attacks (1.73 each), grants [Wind Radiant Shield: 75%] to all allies, grants [High Quick Cast 2] and [Brave Mode] to the user"
 }

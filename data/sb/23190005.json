@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -50%] for 25 seconds, grants [Attach Earth], [Awoken Heavy Physical] and [Damage Cap +20000] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -50%] for 25 seconds, grants [Attach Earth], [Awoken Heavy Physical] and [Damage Cap +20000] to the user"
+    }
+  ],
   "id": "23190005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190005/23190005_256.png",
   "character": "Cinque",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -50%] for 25 seconds, grants [Attach Earth], [Awoken Heavy Physical] and [Damage Cap +20000] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -50%] for 25 seconds, grants [Attach Earth], [Awoken Heavy Physical] and [Damage Cap +20000] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -50%] for 25 seconds, grants [Attach Earth], [Awoken Heavy Physical] and [Damage Cap +20000] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), causes [DEF, RES and MND -50%] for 25 seconds, grants [Attach Earth], [Awoken Heavy Physical] and [Damage Cap +20000] to the user"
 }

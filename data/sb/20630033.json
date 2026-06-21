@@ -1,20 +1,4 @@
 {
-  "id": "20630033",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630033/20630033_256.png",
-  "character": "Golbez",
-  "name": "Roaring Black Quasar",
-  "name_jp": "轟・ブラッククエーサー",
-  "tier": "ASB",
-  "sb_version": "ASB1",
-  "realm": "IV",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Five single attacks (2.60 each), grants [Damage Cap +10000], [Accel Mode: Golbez], and [Instant ATB 1] to the user",
   "description": [
     {
       "name": "Entry",
@@ -42,5 +26,21 @@
       "name": "Roaring Golbez",
       "text": "Four single attacks (1.50 each), grants [Buff Dark 10% (5s)] to all allies"
     }
-  ]
+  ],
+  "id": "20630033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630033/20630033_256.png",
+  "character": "Golbez",
+  "name": "Roaring Black Quasar",
+  "name_jp": "轟・ブラッククエーサー",
+  "tier": "ASB",
+  "sb_version": "ASB1",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Five single attacks (2.60 each), grants [Damage Cap +10000], [Accel Mode: Golbez], and [Instant ATB 1] to the user"
 }

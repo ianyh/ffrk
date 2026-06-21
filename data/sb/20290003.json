@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.28 each), causes [Stun] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Four single attacks (1.28 each), causes [Stun] (20%)"
+    }
+  ],
   "id": "20290003",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290003/20290003_256.png",
   "character": "Luneth",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": true,
-  "effects": "Four single attacks (1.28 each), causes [Stun] (20%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (1.28 each), causes [Stun] (20%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Four single attacks (1.28 each), causes [Stun] (20%)"
-    }
-  ]
+  "effects": "Four single attacks (1.28 each), causes [Stun] (20%)"
 }

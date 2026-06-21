@@ -1,20 +1,4 @@
 {
-  "id": "22740028",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740028/22740028_256.png",
-  "character": "Noctis",
-  "name": "Zenith Armiger Storm",
-  "name_jp": "究極F・バラージュ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XV",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Noctis (Lightning, Lightning)] and [Damage Cap +10000] to the user",
   "description": [
     {
       "name": "Entry",
@@ -58,5 +42,21 @@
       "name": "Spirit Attack: Noctis (Lightning)",
       "text": "Six single attacks (0.8 each), 0.9 if exploiting Lightning weakness"
     }
-  ]
+  ],
+  "id": "22740028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22740028/22740028_256.png",
+  "character": "Noctis",
+  "name": "Zenith Armiger Storm",
+  "name_jp": "究極F・バラージュ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning 3 with Stacking], [Zenith Mode], [Zenith Mode: Noctis (Lightning, Lightning)] and [Damage Cap +10000] to the user"
 }

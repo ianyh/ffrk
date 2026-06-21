@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, En-Fire Stack or En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Instant Machinist, Dualcast Machinist & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, En-Fire Stack or En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Instant Machinist, Dualcast Machinist & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
+    }
+  ],
   "id": "23370020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370020/23370020_256.png",
   "character": "Cater",
@@ -16,17 +28,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "7 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, En-Fire Stack or En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Instant Machinist, Dualcast Machinist & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, En-Fire Stack or En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Instant Machinist, Dualcast Machinist & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "7 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, En-Fire Stack or En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Instant Machinist, Dualcast Machinist & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
-    }
-  ]
+  "effects": "7 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, En-Fire Stack or En-Ice Stack or En-Lightning Stack, Cap Break Level 1 & Crystal Mode to user\nCrystal Mode: Machinist Ability Boost, Dualcast Machinist, Zero Hone Cost to Machinist Abilities & 25% DEF/RES Pierce\nCrystal Force I/II: 6 single-target Fire/Ice/Lightning/NE ranged physical attacks at Cap Break Level 1, Instant Cast, [Instant Machinist, Dualcast Machinist & 50% DEF/RES Pierce] for 2 turns & Quick ATB 1 to user"
 }

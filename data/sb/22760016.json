@@ -1,20 +1,4 @@
 {
-  "id": "22760016",
-  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760016/22760016_256.png",
-  "character": "Nabaat",
-  "name": "Zenith Fatal Refrain",
-  "name_jp": "究極優雅なる死の調べ",
-  "tier": "ZSB",
-  "sb_version": "ZSB1",
-  "realm": "XIII",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
-  "lensable": false,
-  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Nabaat (Dark)] to the user",
   "description": [
     {
       "name": "Entry",
@@ -66,5 +50,21 @@
       "name": "Spirit Attack: Nabaat (Dark)",
       "text": "Damages the user for 25% max HP, grants [Magical +30% Boost 3] and [Quick Cast 3] to the user"
     }
-  ]
+  ],
+  "id": "22760016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22760016/22760016_256.png",
+  "character": "Nabaat",
+  "name": "Zenith Fatal Refrain",
+  "name_jp": "究極優雅なる死の調べ",
+  "tier": "ZSB",
+  "sb_version": "ZSB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Attach Dark 3 with Stacking], [Damage Cap +10000], [Zenith Mode], and [Zenith Mode: Nabaat (Dark)] to the user"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking] and [High Quick Cast 1], grants [Last Stand] to all allies if two or more of Galuf, Kelger and Xezat are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Attach Earth with Stacking] and [High Quick Cast 1], grants [Last Stand] to all allies if two or more of Galuf, Kelger and Xezat are alive"
+    }
+  ],
   "id": "22510011",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22510011/22510011_256.png",
   "character": "Dorgann",
@@ -11,17 +23,5 @@
   "type": "NAT",
   "target": "Self",
   "lensable": true,
-  "effects": "Grants [Attach Earth with Stacking] and [High Quick Cast 1], grants [Last Stand] to all allies if two or more of Galuf, Kelger and Xezat are alive",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Earth with Stacking] and [High Quick Cast 1], grants [Last Stand] to all allies if two or more of Galuf, Kelger and Xezat are alive"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Grants [Attach Earth with Stacking] and [High Quick Cast 1], grants [Last Stand] to all allies if two or more of Galuf, Kelger and Xezat are alive"
-    }
-  ]
+  "effects": "Grants [Attach Earth with Stacking] and [High Quick Cast 1], grants [Last Stand] to all allies if two or more of Galuf, Kelger and Xezat are alive"
 }

@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Ice/Water/Lightning/NE magical attacks (? each) capped at 19999, grants either [Attach Ice with Stacking], [Attach Water with Stacking], or [Attach Lightning with Stacking], grants [Damage Cap +10000] & Crystal Force Mode: Lulu to the user\nCrystal Force Mode: Lulu: Ice/Water/Lightning Ability Boost, Dualcast Ice/Water/Lightning, Zero Hone Cost to Ice/Water/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I: Instant cast single-target Ice/Water/Lightning/NE magic attack (?) at True Cap Break Level 1, [Magic Damage +30% 1] for 1 turn to party; Crystal Force II: Grants [Instant Cast 1], [Quick ATB 1] & [50% DEF/RES Pierce 1] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single-target Ice/Water/Lightning/NE magical attacks (? each) capped at 19999, grants either [Attach Ice with Stacking], [Attach Water with Stacking], or [Attach Lightning with Stacking], grants [Damage Cap +10000] & Crystal Force Mode: Lulu to the user\nCrystal Force Mode: Lulu: Ice/Water/Lightning Ability Boost, Dualcast Ice/Water/Lightning, Zero Hone Cost to Ice/Water/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I: Instant cast single-target Ice/Water/Lightning/NE magic attack (?) at True Cap Break Level 1, [Magic Damage +30% 1] for 1 turn to party; Crystal Force II: Grants [Instant Cast 1], [Quick ATB 1] & [50% DEF/RES Pierce 1] to the user"
+    }
+  ],
   "id": "20880024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880024/20880024_256.png",
   "character": "Lulu",
@@ -16,17 +28,5 @@
   "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Seven single-target Ice/Water/Lightning/NE magical attacks (? each) capped at 19999, grants either [Attach Ice with Stacking], [Attach Water with Stacking], or [Attach Lightning with Stacking], grants [Damage Cap +10000] & Crystal Force Mode: Lulu to the user\nCrystal Force Mode: Lulu: Ice/Water/Lightning Ability Boost, Dualcast Ice/Water/Lightning, Zero Hone Cost to Ice/Water/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I: Instant cast single-target Ice/Water/Lightning/NE magic attack (?) at True Cap Break Level 1, [Magic Damage +30% 1] for 1 turn to party; Crystal Force II: Grants [Instant Cast 1], [Quick ATB 1] & [50% DEF/RES Pierce 1] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Seven single-target Ice/Water/Lightning/NE magical attacks (? each) capped at 19999, grants either [Attach Ice with Stacking], [Attach Water with Stacking], or [Attach Lightning with Stacking], grants [Damage Cap +10000] & Crystal Force Mode: Lulu to the user\nCrystal Force Mode: Lulu: Ice/Water/Lightning Ability Boost, Dualcast Ice/Water/Lightning, Zero Hone Cost to Ice/Water/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I: Instant cast single-target Ice/Water/Lightning/NE magic attack (?) at True Cap Break Level 1, [Magic Damage +30% 1] for 1 turn to party; Crystal Force II: Grants [Instant Cast 1], [Quick ATB 1] & [50% DEF/RES Pierce 1] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Seven single-target Ice/Water/Lightning/NE magical attacks (? each) capped at 19999, grants either [Attach Ice with Stacking], [Attach Water with Stacking], or [Attach Lightning with Stacking], grants [Damage Cap +10000] & Crystal Force Mode: Lulu to the user\nCrystal Force Mode: Lulu: Ice/Water/Lightning Ability Boost, Dualcast Ice/Water/Lightning, Zero Hone Cost to Ice/Water/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I: Instant cast single-target Ice/Water/Lightning/NE magic attack (?) at True Cap Break Level 1, [Magic Damage +30% 1] for 1 turn to party; Crystal Force II: Grants [Instant Cast 1], [Quick ATB 1] & [50% DEF/RES Pierce 1] to the user"
-    }
-  ]
+  "effects": "Seven single-target Ice/Water/Lightning/NE magical attacks (? each) capped at 19999, grants either [Attach Ice with Stacking], [Attach Water with Stacking], or [Attach Lightning with Stacking], grants [Damage Cap +10000] & Crystal Force Mode: Lulu to the user\nCrystal Force Mode: Lulu: Ice/Water/Lightning Ability Boost, Dualcast Ice/Water/Lightning, Zero Hone Cost to Ice/Water/Lightning Abilities & 25% DEF/RES Pierce\nCrystal Force I: Instant cast single-target Ice/Water/Lightning/NE magic attack (?) at True Cap Break Level 1, [Magic Damage +30% 1] for 1 turn to party; Crystal Force II: Grants [Instant Cast 1], [Quick ATB 1] & [50% DEF/RES Pierce 1] to the user"
 }

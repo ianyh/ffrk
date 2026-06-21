@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user"
+    }
+  ],
   "id": "20820027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820027/20820027_256.png",
   "character": "Seifer",
@@ -15,17 +27,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user"
-    }
-  ]
+  "effects": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user"
 }

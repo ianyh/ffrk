@@ -1,4 +1,16 @@
 {
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.20), causes [Instant KO] (20%)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (1.20), causes [Instant KO] (20%)"
+    }
+  ],
   "id": "20840001",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840001/20840001_256.png",
   "character": "Quina",
@@ -11,17 +23,5 @@
   "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (1.20), causes [Instant KO] (20%)",
-  "description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.20), causes [Instant KO] (20%)"
-    }
-  ],
-  "card_description": [
-    {
-      "name": "Entry",
-      "text": "One single attack (1.20), causes [Instant KO] (20%)"
-    }
-  ]
+  "effects": "One single attack (1.20), causes [Instant KO] (20%)"
 }
