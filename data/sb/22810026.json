@@ -2,7 +2,7 @@
   "id": "22810026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810026/22810026_256.png",
   "character": "Nine",
-  "name": "Burst Break: Nine (Break Arte)",
+  "name": "Burst Break: Nine (Break Glint)",
   "name_jp": "烈破・ナイン",
   "tier": "Buster",
   "sb_version": "Buster1",
@@ -16,11 +16,19 @@
     {
       "name": "Entry",
       "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
       "text": ""
     }
   ]

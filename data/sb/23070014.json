@@ -20,12 +20,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Tantalus Blade level 0/1, removes Arcane Dyad Empowered: Marcus from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Wind, Poison) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Marcus], [Tantalus Blade Damage Tracker] and [Tantalus Blade Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Tantalus Blade level 0/1, removes Arcane Dyad Empowered: Marcus from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Wind, Poison) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Marcus], [Tantalus Blade Damage Tracker] and [Tantalus Blade Level]"
     }
   ]
 }

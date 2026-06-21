@@ -2,25 +2,37 @@
   "id": "20520027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520027/20520027_256.png",
   "character": "Yuna",
-  "name": "Awoken Grand Summon Overdrive (Dual Shift)",
+  "name": "Awoken Grand Summon Overdrive",
   "name_jp": "覚醒マスター召喚・OD",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "X",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Holy",
+    "Wind",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants Summoning smart ether 2, [Instant ATB 1] and [Dual Awoken Kindred Mode II (Yuna)]",
+  "effects": "Seven single attacks (2.69 each) capped at 19999, restores HP (55) to all allies, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Kindred Mode I (Yuna)] and [Holy Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (2.69 each) capped at 19999, restores HP (55) to all allies, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Kindred Mode I (Yuna)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants Summoning smart ether 2, [Instant ATB 1] and [Dual Awoken Kindred Mode II (Yuna)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (2.69 each) capped at 19999, restores HP (55) to all allies, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Kindred Mode I (Yuna)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants Summoning smart ether 2, [Instant ATB 1] and [Dual Awoken Kindred Mode II (Yuna)]"
     }
   ]

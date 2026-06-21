@@ -16,12 +16,20 @@
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Vivi (Fire)], [MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (31.00) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire Ability +50% Boost (Tactical)], [Fire 142% ATB Quick Cycle (Tactical)] to user if Level 2+ EnFire, grants [Attach Fire 2 with Stacking] to user if not."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Vivi (Fire)], [MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (31.00) capped at 199,999. Grants [Fire Damage Cap +20000 (Tactical)], [Fire 125% ATB Quick Cycle (Tactical) V2], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire Ability +50% Boost (Tactical)], [Fire 142% ATB Quick Cycle (Tactical)] to user if Level 2+ EnFire, grants [Attach Fire 2 with Stacking] to user if not."
     }
   ]
 }

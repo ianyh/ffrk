@@ -2,25 +2,33 @@
   "id": "22800010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22800010/22800010_256.png",
   "character": "Deuce",
-  "name": "Awoken Concerto (Dual Shift)",
+  "name": "Awoken Concerto",
   "name_jp": "覚醒コンチェルト",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "Type-0",
   "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "type": "WHT",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Soother Mode II (Deuce)], removes [Dual Awoken Soother Mode I (Deuce)]",
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Soother Mode I (Deuce)] and [White Magic Healing Resonance Boost +5%] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Soother Mode I (Deuce)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Soother Mode II (Deuce)], removes [Dual Awoken Soother Mode I (Deuce)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Soother Mode I (Deuce)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Soother Mode II (Deuce)], removes [Dual Awoken Soother Mode I (Deuce)]"
     }
   ]

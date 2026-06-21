@@ -2,25 +2,36 @@
   "id": "22230019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230019/22230019_256.png",
   "character": "Desch",
-  "name": "Awoken Owen's Rage (Dual Shift)",
+  "name": "Awoken Owen's Rage",
   "name_jp": "覚醒オーエンの怒り",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "III",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Desch)], removes [Dual Awoken Lightning Mode I (Desch)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Desch)] and [Lightning Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Desch)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Desch)], removes [Dual Awoken Lightning Mode I (Desch)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, causes [DEF, RES and MND -70% (8s)], grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Desch)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Desch)], removes [Dual Awoken Lightning Mode I (Desch)]"
     }
   ]

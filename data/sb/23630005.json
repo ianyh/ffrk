@@ -2,36 +2,36 @@
   "id": "23630005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23630005/23630005_256.png",
   "character": "Dion",
-  "name": "Burst Break: Dion (Break Arte)",
+  "name": "Burst Break: Dion (Break Glint)",
   "name_jp": "烈破・ディオン",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "XVI",
   "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "Earth",
-    "Wind",
-    "Water",
     "Holy",
-    "Dark",
-    "Poison",
     "NE"
   ],
   "type": "PHY",
-  "target": "Single enemy",
+  "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Dion], [Instant ATB 1] to user. Grants [Attach Holy with Secondary Stacking].",
+  "effects": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Instant ATB 1] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Dion], [Instant ATB 1] to user. Grants [Attach Holy with Secondary Stacking]."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Dion], [Instant ATB 1] to user. Grants [Attach Holy with Secondary Stacking]."
     }
   ]

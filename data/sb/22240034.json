@@ -2,36 +2,36 @@
   "id": "22240034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240034/22240034_256.png",
   "character": "Kuja",
-  "name": "Burst Break: Kuja (Break Arte)",
+  "name": "Burst Break: Kuja (Break Glint)",
   "name_jp": "烈破・クジャ",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "IX",
   "elements": [
-    "Fire",
-    "Ice",
-    "Lightning",
-    "Earth",
-    "Wind",
-    "Water",
-    "Holy",
     "Dark",
-    "Poison",
     "NE"
   ],
   "type": "BLK",
-  "target": "Single enemy",
+  "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kuja], [Instant ATB 1] to user. Grants [Attach Dark with Secondary Stacking].",
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kuja], [Instant ATB 1] to user. Grants [Attach Dark with Secondary Stacking]."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Kuja], [Instant ATB 1] to user. Grants [Attach Dark with Secondary Stacking]."
     }
   ]

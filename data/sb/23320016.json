@@ -2,25 +2,36 @@
   "id": "23320016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320016/23320016_256.png",
   "character": "Wedge",
-  "name": "Awoken Mach Star (Dual Shift)",
+  "name": "Awoken Mach Star",
   "name_jp": "覚醒マッハスター",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "Core",
-  "elements": [],
+  "elements": [
+    "Wind",
+    "NE"
+  ],
   "type": "NAT",
-  "target": "Self",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [ATK +50%, MND -50%], [Instant ATB 1], and [Dual Awoken Wind Mode II (Wedge II)] to the user",
+  "effects": "Seven single hybrid attacks (? or ? each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Wedge II)] and [Wind Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single hybrid attacks (? or ? each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Wedge II)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [ATK +50%, MND -50%], [Instant ATB 1], and [Dual Awoken Wind Mode II (Wedge II)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single hybrid attacks (? or ? each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Wedge II)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [ATK +50%, MND -50%], [Instant ATB 1], and [Dual Awoken Wind Mode II (Wedge II)] to the user"
     }
   ]

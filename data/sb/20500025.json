@@ -2,25 +2,36 @@
   "id": "20500025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500025/20500025_256.png",
   "character": "Quistis",
-  "name": "Awoken Hail to the Queen (Dual Shift)",
+  "name": "Awoken Hail to the Queen",
   "name_jp": "覚醒コールミーキング",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "VIII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Instructor Mode II (Quistis - Poison)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Instructor Mode I (Quistis - Poison)] and [Poison Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Instructor Mode I (Quistis - Poison)] and [Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Instructor Mode II (Quistis - Poison)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Instructor Mode I (Quistis - Poison)] and [Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Instructor Mode II (Quistis - Poison)]"
     }
   ]

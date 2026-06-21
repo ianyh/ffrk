@@ -19,12 +19,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (35.15/38.67/42.18) capped at 99999 at Apex Ultima level 0/1/2, removes Arcane Dyad Empowered: Minwu from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Minwu], [Apex Ultima Damage Tracker] and [Apex Ultima Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.20/3.55/3.91 each) capped at 9999/19999/29999, followed by one single attack (35.15/38.67/42.18) capped at 99999 at Apex Ultima level 0/1/2, removes Arcane Dyad Empowered: Minwu from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Holy with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Minwu], [Apex Ultima Damage Tracker] and [Apex Ultima Level]"
     }
   ]
 }

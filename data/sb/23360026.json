@@ -2,28 +2,44 @@
   "id": "23360026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360026/23360026_256.png",
   "character": "Eight",
-  "name": "Burst Break: Eight (Break Arte)",
+  "name": "Burst Break: Eight (Break Glint)",
   "name_jp": "烈破・エイト",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "Type-0",
   "elements": [
+    "Fire",
     "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
     "NE"
   ],
   "type": "PHY",
-  "target": "All enemies",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "One single attack (8.00) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "effects": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Eight], [Instant ATB 1], [Attach Ice with Secondary Stacking] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Eight], [Instant ATB 1], [Attach Ice with Secondary Stacking] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (8.00) capped at 99,999. Grants [Instant ATB 1] to user."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Eight], [Instant ATB 1], [Attach Ice with Secondary Stacking] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (8.00) capped at 99,999. Grants [Instant ATB 1] to user."
     }
   ]

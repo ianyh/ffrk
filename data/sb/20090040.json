@@ -2,25 +2,36 @@
   "id": "20090040",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090040/20090040_256.png",
   "character": "Rydia",
-  "name": "Awoken Radiant Breath (Dual Shift)",
+  "name": "Awoken Radiant Breath",
   "name_jp": "覚醒レディアントブレス",
   "tier": "DASB",
   "sb_version": "DASB3",
   "realm": "IV",
-  "elements": [],
-  "type": "NAT",
-  "target": "All allies",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [MAG and MND +30%, DEF and RES +25% (8s)], grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II (Rydia - Holy)] to the user",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Rydia - Holy)] and [Holy Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Rydia - Holy)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [MAG and MND +30%, DEF and RES +25% (8s)], grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II (Rydia - Holy)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Rydia - Holy)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [MAG and MND +30%, DEF and RES +25% (8s)], grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II (Rydia - Holy)] to the user"
     }
   ]

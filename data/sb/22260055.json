@@ -2,28 +2,44 @@
   "id": "22260055",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22260055/22260055_256.png",
   "character": "Serah",
-  "name": "Burst Break: Serah (Ice) (Break Arte)",
+  "name": "Burst Break: Serah (Ice) (Break Glint)",
   "name_jp": "烈破・セラ氷",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "XIII",
   "elements": [
+    "Fire",
     "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
     "NE"
   ],
   "type": "BLK",
-  "target": "All enemies",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "effects": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Serah (Ice)], [Attach Ice with Secondary Stacking], [Instant ATB 1] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Serah (Ice)], [Attach Ice with Secondary Stacking], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Serah (Ice)], [Attach Ice with Secondary Stacking], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user."
     }
   ]

@@ -2,25 +2,36 @@
   "id": "20980029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980029/20980029_256.png",
   "character": "Edge",
-  "name": "Awoken Poison Mist Jutsu (Dual Shift)",
+  "name": "Awoken Poison Mist Jutsu",
   "name_jp": "覚醒毒霧の術",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "IV",
-  "elements": [],
+  "elements": [
+    "Poison",
+    "NE"
+  ],
   "type": "NAT",
-  "target": "Self",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Edge - Poison)] to the user",
+  "effects": "Seven single attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Edge - Poison)] and [Ninja Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Edge - Poison)] and [Ninja Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Edge - Poison)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 or 457.50 each) capped at 19999, grants [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Edge - Poison)] and [Ninja Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Edge - Poison)] to the user"
     }
   ]

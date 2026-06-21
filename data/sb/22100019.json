@@ -19,12 +19,20 @@
     {
       "name": "Entry",
       "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Ultimate Ragnarok Cannon level 0/1/2, removes Arcane Dyad Empowered: Laguna from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Ice with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Laguna], [Ultimate Ragnarok Cannon Damage Tracker] and [Ultimate Ragnarok Cannon Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single ranged attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single ranged attack (10.00/11.00/12.00) capped at 99999 at Ultimate Ragnarok Cannon level 0/1/2, removes Arcane Dyad Empowered: Laguna from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Ice with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Laguna], [Ultimate Ragnarok Cannon Damage Tracker] and [Ultimate Ragnarok Cannon Level]"
     }
   ]
 }

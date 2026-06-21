@@ -2,28 +2,33 @@
   "id": "20920032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920032/20920032_256.png",
   "character": "Reno",
-  "name": "War-Awoken Turks's Wonderbomb (Weapon Skill)",
+  "name": "War-Awoken Turks's Wonderbomb",
   "name_jp": "戦醒タークス豪華爆弾",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "VII",
-  "elements": [
-    "Lightning",
-    "NE"
-  ],
+  "elements": [],
   "type": "NAT",
-  "target": "Single enemy",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Lightning/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Lightning\nWS Blue: Imperil Lightning 30% to all targets\nWS Gold: DeProtect or DeShell 20% to all targets",
+  "effects": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE ranged hybrid attack at True Cap Break Level 1",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE ranged hybrid attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Lightning/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Lightning\nWS Blue: Imperil Lightning 30% to all targets\nWS Gold: DeProtect or DeShell 20% to all targets"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Lightning Ability Boost, Triplecast Lightning, Unlimited Lightning Hones, Cap Break Level 1 to Lightning Abilities, Lightning Ability Damage +30% & ATB Speed x1.1 to Lightning Abilities; Ends after using 8 Lightning abilities\nTP Max: AOE Lightning/NE ranged hybrid attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Lightning/NE piercing ranged hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Lightning Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Lightning\nWS Blue: Imperil Lightning 30% to all targets\nWS Gold: DeProtect or DeShell 20% to all targets"
     }
   ]

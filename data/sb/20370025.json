@@ -20,12 +20,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Doomsday Icebolt level 0/1, removes Arcane Dyad Empowered: Vivi (Ice/Lightning) from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Ice, Lightning)], [Damage Cap +10000], [Arcane Dyad Empowered: Vivi (Ice/Lightning)], [Doomsday Icebolt Damage Tracker] and [Doomsday Icebolt Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Doomsday Icebolt level 0/1, removes Arcane Dyad Empowered: Vivi (Ice/Lightning) from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Ice, Lightning)], [Damage Cap +10000], [Arcane Dyad Empowered: Vivi (Ice/Lightning)], [Doomsday Icebolt Damage Tracker] and [Doomsday Icebolt Level]"
     }
   ]
 }

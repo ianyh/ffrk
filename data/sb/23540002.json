@@ -2,25 +2,39 @@
   "id": "23540002",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540002/23540002_256.png",
   "character": "Arciela",
-  "name": "Awoken Unceasing Dread (Dual Shift)",
+  "name": "Awoken Unceasing Dread",
   "name_jp": "覚醒Aドレッド",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XI",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Magic Princess Mode II (Arciela)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quad Element Mode II (Ice, Lightning, Wind, Water)], [Dual Awoken Magic Princess Mode I (Arciela)] and [Ice/Lightning/Water/Wind Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quad Element Mode II (Ice, Lightning, Wind, Water)], [Dual Awoken Magic Princess Mode I (Arciela)] and [Ice/Lightning/Water/Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Magic Princess Mode II (Arciela)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quad Element Mode II (Ice, Lightning, Wind, Water)], [Dual Awoken Magic Princess Mode I (Arciela)] and [Ice/Lightning/Water/Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Magic Princess Mode II (Arciela)]"
     }
   ]

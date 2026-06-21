@@ -2,25 +2,36 @@
   "id": "20800021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800021/20800021_256.png",
   "character": "Ingus",
-  "name": "Awoken Solid Titan (Dual Shift)",
+  "name": "Awoken Solid Titan",
   "name_jp": "覚醒ティターンソリッド",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "III",
-  "elements": [],
-  "type": "NAT",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Ingus)] to the user, removes [Dual Awoken Earth Mode I (Ingus)] and [Solid Guardian] from the user",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Ingus)], [Earth Resonance +5% Boost] and [Solid Guardian] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Ingus)], [Earth Resonance +5% Boost] and [Solid Guardian] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Ingus)] to the user, removes [Dual Awoken Earth Mode I (Ingus)] and [Solid Guardian] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Ingus)], [Earth Resonance +5% Boost] and [Solid Guardian] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Ingus)] to the user, removes [Dual Awoken Earth Mode I (Ingus)] and [Solid Guardian] from the user"
     }
   ]

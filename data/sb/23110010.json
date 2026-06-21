@@ -2,25 +2,37 @@
   "id": "23110010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23110010/23110010_256.png",
   "character": "Haurchefant",
-  "name": "Awoken Circle of Scorn (Dual Shift)",
+  "name": "Awoken Circle of Scorn",
   "name_jp": "覚醒Cオブドゥーム",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XIV",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Holy",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II (Haurchefant)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Knight Mode I (Haurchefant)] and [Knight Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Knight Mode I (Haurchefant)] and [Knight Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II (Haurchefant)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [50% Damage Reduction Barrier 1] to all allies, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Knight Mode I (Haurchefant)] and [Knight Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Knight Mode II (Haurchefant)]"
     }
   ]

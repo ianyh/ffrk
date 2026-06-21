@@ -2,25 +2,37 @@
   "id": "20820020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820020/20820020_256.png",
   "character": "Seifer",
-  "name": "Awoken Carnage Cut (Dual Shift)",
+  "name": "Awoken Carnage Cut",
   "name_jp": "覚醒修羅斬り",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "VIII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Sorceress's Knight Mode II (Seifer)], removes [Dual Awoken Sorceress's Knight Mode I (Seifer)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer)] and [Dark/Fire Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer)] and [Dark/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Sorceress's Knight Mode II (Seifer)], removes [Dual Awoken Sorceress's Knight Mode I (Seifer)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer)] and [Dark/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Sorceress's Knight Mode II (Seifer)], removes [Dual Awoken Sorceress's Knight Mode I (Seifer)]"
     }
   ]

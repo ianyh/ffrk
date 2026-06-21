@@ -2,25 +2,36 @@
   "id": "23570005",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23570005/23570005_256.png",
   "character": "Clive",
-  "name": "Awoken Scarlet Cyclone (Dual Shift)",
+  "name": "Awoken Scarlet Cyclone",
   "name_jp": "覚醒Sサイクロン",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XVI",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Clive)]\nDual Awoken Fire Mode II (Clive): Instant Cast & Zero SB Cost 1; After using a SB/LB, grants [Instant ATB 1] and [Instant Cast 1] to the user",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Clive)], and [Fire Resonance +5% Boost] to the user\nDual Awoken Fire Mode I (Clive): Fire Ability Boost, Triplecast Fire & chases 1/2/3/4+ Fire abilities with Casting Speed x1.5/2/2.5/3 and Deadly Strikes +5/10/15/20% to Fire abilities",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Clive)], and [Fire Resonance +5% Boost] to the user\nDual Awoken Fire Mode I (Clive): Fire Ability Boost, Triplecast Fire & chases 1/2/3/4+ Fire abilities with Casting Speed x1.5/2/2.5/3 and Deadly Strikes +5/10/15/20% to Fire abilities"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Clive)]\nDual Awoken Fire Mode II (Clive): Instant Cast & Zero SB Cost 1; After using a SB/LB, grants [Instant ATB 1] and [Instant Cast 1] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Clive)], and [Fire Resonance +5% Boost] to the user\nDual Awoken Fire Mode I (Clive): Fire Ability Boost, Triplecast Fire & chases 1/2/3/4+ Fire abilities with Casting Speed x1.5/2/2.5/3 and Deadly Strikes +5/10/15/20% to Fire abilities"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Clive)]\nDual Awoken Fire Mode II (Clive): Instant Cast & Zero SB Cost 1; After using a SB/LB, grants [Instant ATB 1] and [Instant Cast 1] to the user"
     }
   ]

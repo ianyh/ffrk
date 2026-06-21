@@ -16,12 +16,20 @@
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Onion Knight (Water)], [ATK and MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 or 31.00 each) capped at 199,999 based on ATK and MAG. Grants [Water Damage Cap +20000 (Tactical)], [Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Buff Water 50% (15s)] to all allies if user has Water Damage buff, grants [Dualcast Water 3], [Water Ability Instant Cast 3], [Weakness +30% Boost 3] to user if not."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Onion Knight (Water)], [ATK and MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 or 31.00 each) capped at 199,999 based on ATK and MAG. Grants [Water Damage Cap +20000 (Tactical)], [Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Buff Water 50% (15s)] to all allies if user has Water Damage buff, grants [Dualcast Water 3], [Water Ability Instant Cast 3], [Weakness +30% Boost 3] to user if not."
     }
   ]
 }

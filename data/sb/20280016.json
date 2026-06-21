@@ -2,25 +2,33 @@
   "id": "20280016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280016/20280016_256.png",
   "character": "Gordon",
-  "name": "Awoken Kashuan Royal Shield (Dual Shift)",
+  "name": "Awoken Kashuan Royal Shield",
   "name_jp": "覚醒カシュオーンの王盾",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "II",
   "elements": [],
   "type": "NAT",
-  "target": "",
+  "target": "All allies",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Sovereign Mode II (Gordon)]",
+  "effects": "Grants [ATK, MAG and MND +30% (25s)], [Quick Cast 3] and [Fire/Earth/Ice Resonance +3% Boost], grants [Dual Awoken Sovereign Mode I (Gordon)] to the user, grants [100% Critical (25s)] to all allies with any Attach Fire, Attach Earth or Attach Ice",
   "description": [
     {
       "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)], [Quick Cast 3] and [Fire/Earth/Ice Resonance +3% Boost], grants [Dual Awoken Sovereign Mode I (Gordon)] to the user, grants [100% Critical (25s)] to all allies with any Attach Fire, Attach Earth or Attach Ice"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Sovereign Mode II (Gordon)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)], [Quick Cast 3] and [Fire/Earth/Ice Resonance +3% Boost], grants [Dual Awoken Sovereign Mode I (Gordon)] to the user, grants [100% Critical (25s)] to all allies with any Attach Fire, Attach Earth or Attach Ice"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Sovereign Mode II (Gordon)]"
     }
   ]

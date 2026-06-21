@@ -2,25 +2,36 @@
   "id": "22050028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22050028/22050028_256.png",
   "character": "Beatrix",
-  "name": "Awoken Seiken Climcross (Dual Shift)",
+  "name": "Awoken Seiken Climcross",
   "name_jp": "覚醒聖剣技Cクロス",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "IX",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with Quick ATB 2 & Instant Knight 2 to user",
+  "effects": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1, Dual Awoken Knight Mode I & Knight Damage +5% to user\nDual Awoken Knight Mode I: Knight Ability Boost, Triplecast Knight & chases 1/2/3/4 Knight abilities with Deadly Strikes +5/10/15/20% to user",
   "description": [
     {
       "name": "Entry",
+      "text": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1, Dual Awoken Knight Mode I & Knight Damage +5% to user\nDual Awoken Knight Mode I: Knight Ability Boost, Triplecast Knight & chases 1/2/3/4 Knight abilities with Deadly Strikes +5/10/15/20% to user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with Quick ATB 2 & Instant Knight 2 to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "7 single-target Holy/NE physical attacks at Cap Break Level 1, En-Holy, En-Holy Stack, Cap Break Level 1, Dual Awoken Knight Mode I & Knight Damage +5% to user\nDual Awoken Knight Mode I: Knight Ability Boost, Triplecast Knight & chases 1/2/3/4 Knight abilities with Deadly Strikes +5/10/15/20% to user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Knight Mode II to user\nDual Awoken Knight Mode II: Knight Ability Boost, Instant Knight & chases a Knight ability with Quick ATB 2 & Instant Knight 2 to user"
     }
   ]

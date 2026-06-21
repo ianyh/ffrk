@@ -2,25 +2,33 @@
   "id": "23330007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23330007/23330007_256.png",
   "character": "Orran",
-  "name": "Awoken Celestial River (Dual Shift)",
+  "name": "Awoken Celestial River",
   "name_jp": "覚醒星河一天",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "FFT",
   "elements": [],
   "type": "NAT",
-  "target": "Self",
+  "target": "All allies",
   "lensable": false,
-  "effects": "Instant ATB 1 & Dual Awoken Astrologer Mode II to user\nDual Awoken Astrologer Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with [single-target ATK/MAG -15% & DEF -50%, Quick Cast 1 to party] or [single-target ATK/MAG -15% & DEF -70%, Instant Cast 1 to party] with at least 0/4 T members",
+  "effects": "Critical Damage +50%, Quick ATB 1 & Instant Cast 1 to party, Dual Awoken Astrologer Mode I to user, Damage +3% to T members\nDual Awoken Astrologer Mode I: Quick White Magic/Bard & chases White Magic/Bard abilities with 20% Damage Reduction Barrier 1 and 1000 HP Stock to party",
   "description": [
     {
       "name": "Entry",
+      "text": "Critical Damage +50%, Quick ATB 1 & Instant Cast 1 to party, Dual Awoken Astrologer Mode I to user, Damage +3% to T members\nDual Awoken Astrologer Mode I: Quick White Magic/Bard & chases White Magic/Bard abilities with 20% Damage Reduction Barrier 1 and 1000 HP Stock to party"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Astrologer Mode II to user\nDual Awoken Astrologer Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with [single-target ATK/MAG -15% & DEF -50%, Quick Cast 1 to party] or [single-target ATK/MAG -15% & DEF -70%, Instant Cast 1 to party] with at least 0/4 T members"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Critical Damage +50%, Quick ATB 1 & Instant Cast 1 to party, Dual Awoken Astrologer Mode I to user, Damage +3% to T members\nDual Awoken Astrologer Mode I: Quick White Magic/Bard & chases White Magic/Bard abilities with 20% Damage Reduction Barrier 1 and 1000 HP Stock to party"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Astrologer Mode II to user\nDual Awoken Astrologer Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with [single-target ATK/MAG -15% & DEF -50%, Quick Cast 1 to party] or [single-target ATK/MAG -15% & DEF -70%, Instant Cast 1 to party] with at least 0/4 T members"
     }
   ]

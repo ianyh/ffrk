@@ -2,25 +2,36 @@
   "id": "20290025",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20290025/20290025_256.png",
   "character": "Luneth",
-  "name": "Awoken Cloud Runner (Dual Shift)",
+  "name": "Awoken Cloud Runner",
   "name_jp": "覚醒雲を駆ける戦士",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "III",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Luneth)]",
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Luneth)] and [Wind Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Luneth)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Luneth)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Luneth)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Luneth)]"
     }
   ]

@@ -2,25 +2,36 @@
   "id": "20890017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890017/20890017_256.png",
   "character": "Shadow",
-  "name": "Awoken Assassin Lord (Dual Shift)",
+  "name": "Awoken Assassin Lord",
   "name_jp": "覚醒ロードオブアサシン",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "VI",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Shadow)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Shadow)], [Dark Resonance +5% Boost] and [Physical Blink Stacking 2] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Shadow)], [Dark Resonance +5% Boost] and [Physical Blink Stacking 2] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Shadow)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Shadow)], [Dark Resonance +5% Boost] and [Physical Blink Stacking 2] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Shadow)]"
     }
   ]

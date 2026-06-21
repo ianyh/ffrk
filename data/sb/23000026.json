@@ -2,32 +2,44 @@
   "id": "23000026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23000026/23000026_256.png",
   "character": "Ward",
-  "name": "Burst Break: Ward (Break Arte)",
+  "name": "Burst Break: Ward (Break Glint)",
   "name_jp": "烈破・ウォード",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "VIII",
   "elements": [
-    "Ice",
-    "NE",
-    "Earth",
-    "NE",
     "Water",
+    "Ice",
+    "Earth",
+    "Fire",
+    "Lightning",
+    "Wind",
+    "Holy",
+    "Dark",
+    "Poison",
     "NE"
   ],
   "type": "PHY",
-  "target": "All enemies",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "One Ice/NE or Earth/NE or Water/NE group attack (8.00) capped at 99,999 based on EnIce or EnEarth or EnWater. Grants [Instant ATB 1] to user.",
+  "effects": "One single attack (8.00) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Ward], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Ice with Secondary Stacking]/[Attach Earth with Secondary Stacking].",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Ward], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Ice with Secondary Stacking]/[Attach Earth with Secondary Stacking]."
+    },
+    {
+      "name": "Break Arte",
       "text": "One Ice/NE or Earth/NE or Water/NE group attack (8.00) capped at 99,999 based on EnIce or EnEarth or EnWater. Grants [Instant ATB 1] to user."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Ward], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Ice with Secondary Stacking]/[Attach Earth with Secondary Stacking]."
+    },
+    {
+      "name": "Break Arte",
       "text": "One Ice/NE or Earth/NE or Water/NE group attack (8.00) capped at 99,999 based on EnIce or EnEarth or EnWater. Grants [Instant ATB 1] to user."
     }
   ]

@@ -2,28 +2,44 @@
   "id": "22270033",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270033/22270033_256.png",
   "character": "Braska",
-  "name": "Burst Break: Braska (Break Arte)",
+  "name": "Burst Break: Braska (Break Glint)",
   "name_jp": "烈破・ブラスカ",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "X",
   "elements": [
     "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
     "NE"
   ],
   "type": "SUM",
-  "target": "All enemies",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "effects": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Braska], [Instant ATB 1], [Attach Fire with Secondary Stacking] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One group attack (26.50) capped at 99,999. Grants [Instant ATB 1] to user."
     }
   ]

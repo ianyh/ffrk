@@ -2,25 +2,36 @@
   "id": "22120019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120019/22120019_256.png",
   "character": "Minwu",
-  "name": "Awoken Seal of Heaven (Dual Shift)",
+  "name": "Awoken Seal of Heaven",
   "name_jp": "覚醒天命の解印",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "II",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken White Magic Mode II (Minwu)], removes [Dual Awoken White Magic Mode I (Minwu)]",
+  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu)] and [White Magic Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu)] and [White Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken White Magic Mode II (Minwu)], removes [Dual Awoken White Magic Mode I (Minwu)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken White Magic Mode I (Minwu)] and [White Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken White Magic Mode II (Minwu)], removes [Dual Awoken White Magic Mode I (Minwu)]"
     }
   ]

@@ -2,25 +2,38 @@
   "id": "23050010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23050010/23050010_256.png",
   "character": "Montblanc",
-  "name": "Awoken Trinity Combo (Dual Shift)",
+  "name": "Awoken Trinity Combo",
   "name_jp": "覚醒トリニティコンボ",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "FFT",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] & Dual Awoken Clan Leader Mode II to user\nDual Awoken Clan Leader Mode II: Instant Black Magic/Dancer & chases a Black Magic/Dancer ability with Single-target Prismatic Imperil & [Single-target DEF/RES/MND -50%] or [MAG/MND/DEF/RES +15% to party] with at least 0/4 Job Synergy members",
+  "effects": "Seven single attacks at Cap Break Level 1, grants ATK/MAG/MND +30%, Protect, Shell, Haste, 30% Stoneskin & Fire/Ice/Lightning Ability Damage +3% to party, grants Dual Awoken Clan Leader Mode I & 250 SB Points to user\nDual Awoken Clan Leader Mode I: Triplecast Black Magic/Dancer, Quick Black Magic/Dancer & chases 2 Black Magic/Dancer abilities with single-target Fire/Ice/Lightning/NE Overflow magic attack, Weakness Damage +30% for 1 turn to party",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants ATK/MAG/MND +30%, Protect, Shell, Haste, 30% Stoneskin & Fire/Ice/Lightning Ability Damage +3% to party, grants Dual Awoken Clan Leader Mode I & 250 SB Points to user\nDual Awoken Clan Leader Mode I: Triplecast Black Magic/Dancer, Quick Black Magic/Dancer & chases 2 Black Magic/Dancer abilities with single-target Fire/Ice/Lightning/NE Overflow magic attack, Weakness Damage +30% for 1 turn to party"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] & Dual Awoken Clan Leader Mode II to user\nDual Awoken Clan Leader Mode II: Instant Black Magic/Dancer & chases a Black Magic/Dancer ability with Single-target Prismatic Imperil & [Single-target DEF/RES/MND -50%] or [MAG/MND/DEF/RES +15% to party] with at least 0/4 Job Synergy members"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks at Cap Break Level 1, grants ATK/MAG/MND +30%, Protect, Shell, Haste, 30% Stoneskin & Fire/Ice/Lightning Ability Damage +3% to party, grants Dual Awoken Clan Leader Mode I & 250 SB Points to user\nDual Awoken Clan Leader Mode I: Triplecast Black Magic/Dancer, Quick Black Magic/Dancer & chases 2 Black Magic/Dancer abilities with single-target Fire/Ice/Lightning/NE Overflow magic attack, Weakness Damage +30% for 1 turn to party"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] & Dual Awoken Clan Leader Mode II to user\nDual Awoken Clan Leader Mode II: Instant Black Magic/Dancer & chases a Black Magic/Dancer ability with Single-target Prismatic Imperil & [Single-target DEF/RES/MND -50%] or [MAG/MND/DEF/RES +15% to party] with at least 0/4 Job Synergy members"
     }
   ]

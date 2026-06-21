@@ -2,25 +2,44 @@
   "id": "20140029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140029/20140029_256.png",
   "character": "Tyro",
-  "name": "Awoken Arbiter's Apocrypha (Dual Shift)",
+  "name": "Awoken Arbiter's Apocrypha",
   "name_jp": "覚醒禁書「調停者」",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "Core",
-  "elements": [],
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
   "type": "NAT",
-  "target": "Self",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Record Keeper Mode II: Tyro] to the user, Grants [Weakness +15% Boost 1]/[ATK, DEF, MAG and RES +15% (25s)], [Weakness +50% Boost 1] and [Instant Cast 1] to all allies if there are 0-3/4+ Core or Beyond allies, removes [Dual Awoken Record Keeper Mode I: Tyro]",
+  "effects": "Seven single hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [ATK, DEF, MAG, RES and MND +50% (25s)], [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Keeper Mode I: Tyro] and [Ability Resonance +3% Boost] to the user, Grants [Ability Resonance +2% Boost] to all Core or Beyond allies",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [ATK, DEF, MAG, RES and MND +50% (25s)], [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Keeper Mode I: Tyro] and [Ability Resonance +3% Boost] to the user, Grants [Ability Resonance +2% Boost] to all Core or Beyond allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Record Keeper Mode II: Tyro] to the user, Grants [Weakness +15% Boost 1]/[ATK, DEF, MAG and RES +15% (25s)], [Weakness +50% Boost 1] and [Instant Cast 1] to all allies if there are 0-3/4+ Core or Beyond allies, removes [Dual Awoken Record Keeper Mode I: Tyro]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single hybrid attacks (0.90 or 3.05 each) capped at 19999, Grants [ATK, DEF, MAG, RES and MND +50% (25s)], [Conditional Attach Element From Party], [Damage Cap +10000], [Dual Awoken Record Keeper Mode I: Tyro] and [Ability Resonance +3% Boost] to the user, Grants [Ability Resonance +2% Boost] to all Core or Beyond allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Record Keeper Mode II: Tyro] to the user, Grants [Weakness +15% Boost 1]/[ATK, DEF, MAG and RES +15% (25s)], [Weakness +50% Boost 1] and [Instant Cast 1] to all allies if there are 0-3/4+ Core or Beyond allies, removes [Dual Awoken Record Keeper Mode I: Tyro]"
     }
   ]

@@ -2,25 +2,36 @@
   "id": "20220015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20220015/20220015_256.png",
   "character": "Cyan",
-  "name": "Awoken Bushido Sky (Dual Shift)",
+  "name": "Awoken Bushido Sky",
   "name_jp": "覚醒必殺剣・空",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "VI",
-  "elements": [],
-  "type": "NAT",
-  "target": "All allies",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cyan)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cyan)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000] and [Dual Awoken Samurai Mode I (Cyan)] to the user, grants [VI Resonance +3% Boost] to all FFVI allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II (Cyan)]"
     }
   ]

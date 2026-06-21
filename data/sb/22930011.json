@@ -22,12 +22,20 @@
     {
       "name": "Entry",
       "text": "Ten single hybrid attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Apex Punishing Meteor level 0/1, casts the last ability used by any ally twice, default ability (PHY: single, 1.50 physical), removes Arcane Dyad Empowered: Gogo (VI) from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Protean Mode (Fire, Ice, Earth, Wind)], [Damage Cap +10000], [Arcane Dyad Empowered: Gogo (VI)], [Apex Punishing Meteor Damage Tracker] and [Apex Punishing Meteor Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Ten single hybrid attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Apex Punishing Meteor level 0/1, casts the last ability used by any ally twice, default ability (PHY: single, 1.50 physical), removes Arcane Dyad Empowered: Gogo (VI) from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Protean Mode (Fire, Ice, Earth, Wind)], [Damage Cap +10000], [Arcane Dyad Empowered: Gogo (VI)], [Apex Punishing Meteor Damage Tracker] and [Apex Punishing Meteor Level]"
     }
   ]
 }

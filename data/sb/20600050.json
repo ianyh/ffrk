@@ -2,25 +2,37 @@
   "id": "20600050",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600050/20600050_256.png",
   "character": "Lightning",
-  "name": "Awoken Requiem of the Goddess (Dual Shift)",
+  "name": "Awoken Requiem of the Goddess",
   "name_jp": "覚醒女神の鎮魂歌",
   "tier": "DASB",
   "sb_version": "DASB3",
   "realm": "XIII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Lightning",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1], [Smart Ether 3] & Dual Awoken Sublime Thunder Mode II to the user, removes Dual Awoken Sublime Thunder Mode I\nDual Awoken Sublime Thunder Mode II: When status is removed, grants [ATK +80%] & chases Lightning/Holy abilities with 10 single-target Lightning/Holy/NE physical attacks (0.28 each) for 8 seconds",
+  "effects": "Seven single-target Lightning/Holy/NE physical attacks (0.9 each) capped at 19999, grants [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)], [Lightning/Holy Resonance 5% Boost], & Dual Awoken Sublime Thunder Mode I to the user\nDual Awoken Sublime Thunder Mode I: Lightning/Holy Ability Boost, Triplecast Lightning/Holy, Quick Lightning/Holy & chases 1/2/3 Lightning/Holy abilities with Lightning/Holy Ability Damage +10/20/30%",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single-target Lightning/Holy/NE physical attacks (0.9 each) capped at 19999, grants [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)], [Lightning/Holy Resonance 5% Boost], & Dual Awoken Sublime Thunder Mode I to the user\nDual Awoken Sublime Thunder Mode I: Lightning/Holy Ability Boost, Triplecast Lightning/Holy, Quick Lightning/Holy & chases 1/2/3 Lightning/Holy abilities with Lightning/Holy Ability Damage +10/20/30%"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Smart Ether 3] & Dual Awoken Sublime Thunder Mode II to the user, removes Dual Awoken Sublime Thunder Mode I\nDual Awoken Sublime Thunder Mode II: When status is removed, grants [ATK +80%] & chases Lightning/Holy abilities with 10 single-target Lightning/Holy/NE physical attacks (0.28 each) for 8 seconds"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single-target Lightning/Holy/NE physical attacks (0.9 each) capped at 19999, grants [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)], [Lightning/Holy Resonance 5% Boost], & Dual Awoken Sublime Thunder Mode I to the user\nDual Awoken Sublime Thunder Mode I: Lightning/Holy Ability Boost, Triplecast Lightning/Holy, Quick Lightning/Holy & chases 1/2/3 Lightning/Holy abilities with Lightning/Holy Ability Damage +10/20/30%"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Smart Ether 3] & Dual Awoken Sublime Thunder Mode II to the user, removes Dual Awoken Sublime Thunder Mode I\nDual Awoken Sublime Thunder Mode II: When status is removed, grants [ATK +80%] & chases Lightning/Holy abilities with 10 single-target Lightning/Holy/NE physical attacks (0.28 each) for 8 seconds"
     }
   ]

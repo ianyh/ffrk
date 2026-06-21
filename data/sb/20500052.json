@@ -2,30 +2,44 @@
   "id": "20500052",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500052/20500052_256.png",
   "character": "Quistis",
-  "name": "Burst Break: Quistis (Break Arte)",
+  "name": "Burst Break: Quistis (Break Glint)",
   "name_jp": "烈破・キスティス",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "VIII",
   "elements": [
-    "Poison",
-    "NE",
     "Water",
+    "Poison",
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Holy",
+    "Dark",
     "NE"
   ],
   "type": "BLK",
-  "target": "All enemies",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "One Poison/NE or Water/NE group attack (26.50) capped at 99,999 based on EnPoison or EnWater. Grants [Instant ATB 1] to user.",
+  "effects": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Quistis], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Quistis], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One Poison/NE or Water/NE group attack (26.50) capped at 99,999 based on EnPoison or EnWater. Grants [Instant ATB 1] to user."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (26.50) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Quistis], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]/[Attach Poison with Secondary Stacking] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One Poison/NE or Water/NE group attack (26.50) capped at 99,999 based on EnPoison or EnWater. Grants [Instant ATB 1] to user."
     }
   ]

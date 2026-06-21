@@ -2,28 +2,33 @@
   "id": "23320026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23320026/23320026_256.png",
   "character": "Wedge",
-  "name": "War-Awoken Star Cyclone (Weapon Skill)",
+  "name": "War-Awoken Star Cyclone",
   "name_jp": "戦醒スターサイクロン",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "Core",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
+  "elements": [],
   "type": "NAT",
-  "target": "Single enemy",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Wind/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Wind Boost\nWS Blue: Dualcast Wind 3, Instant Wind 3 & Weakess Damage +30% for 3 turns to user\nWS Gold: Wind Boost +50% to all allies",
+  "effects": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30% & ATB Speed x1.1 to Wind Abilities; Ends after using 8 Wind abilities\nTP Max: AOE Wind/NE hybrid attack at True Cap Break Level 1",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30% & ATB Speed x1.1 to Wind Abilities; Ends after using 8 Wind abilities\nTP Max: AOE Wind/NE hybrid attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Wind/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Wind Boost\nWS Blue: Dualcast Wind 3, Instant Wind 3 & Weakess Damage +30% for 3 turns to user\nWS Gold: Wind Boost +50% to all allies"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode, +500 ATK & +500 MAG to user\nTactical Awoken Mode: Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30% & ATB Speed x1.1 to Wind Abilities; Ends after using 8 Wind abilities\nTP Max: AOE Wind/NE hybrid attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Wind/NE piercing hybrid attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least 0/10% Wind Boost\nWS Blue: Dualcast Wind 3, Instant Wind 3 & Weakess Damage +30% for 3 turns to user\nWS Gold: Wind Boost +50% to all allies"
     }
   ]

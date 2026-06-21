@@ -2,25 +2,33 @@
   "id": "20960027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960027/20960027_256.png",
   "character": "Y'shtola",
-  "name": "Awoken Goddess's Mercy (Dual Shift)",
+  "name": "Awoken Goddess's Mercy",
   "name_jp": "覚醒女神の慈悲",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "XIV",
   "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "type": "WHT",
+  "target": "All allies",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Guardian Mode II (Y'shtola)]",
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Guardian Mode I (Y'shtola)] and [White Magic Healing Resonance Boost +5%] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Guardian Mode I (Y'shtola)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Guardian Mode II (Y'shtola)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Guardian Mode I (Y'shtola)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Guardian Mode II (Y'shtola)]"
     }
   ]

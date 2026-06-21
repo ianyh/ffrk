@@ -2,25 +2,37 @@
   "id": "22670028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670028/22670028_256.png",
   "character": "Cloud of Darkness",
-  "name": "Awoken Wrath Particle Beam (Dual Shift)",
+  "name": "Awoken Wrath Particle Beam",
   "name_jp": "覚醒報復式 波動砲",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "III",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Dark",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Apparition Mode II (Cloud of Darkness)], removes [Dual Awoken Apparition Mode I (Cloud of Darkness)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Apparition Mode I (Cloud of Darkness)] and [Lightning Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Apparition Mode I (Cloud of Darkness)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Apparition Mode II (Cloud of Darkness)], removes [Dual Awoken Apparition Mode I (Cloud of Darkness)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Apparition Mode I (Cloud of Darkness)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Apparition Mode II (Cloud of Darkness)], removes [Dual Awoken Apparition Mode I (Cloud of Darkness)]"
     }
   ]

@@ -19,11 +19,19 @@
     {
       "name": "Entry",
       "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Strago (Water)], [Apex Lore Damage Tracker] and [Apex Lore Level]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Strago (Water)], [Apex Lore Damage Tracker] and [Apex Lore Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Strago (Water)], [Apex Lore Damage Tracker] and [Apex Lore Level]"
+    },
+    {
+      "name": "Engaged",
       "text": "Grants [Attach Water with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Strago (Water)], [Apex Lore Damage Tracker] and [Apex Lore Level]"
     }
   ]

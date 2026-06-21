@@ -20,12 +20,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Ice Reaper level 0/1, removes Arcane Dyad Empowered: Kurasame from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 or 3.15/3.50 each) capped at 9999/19999, followed by one single attack (10.00/11.00 or 34.60/38.06) capped at 99999 at Ice Reaper level 0/1, removes Arcane Dyad Empowered: Kurasame from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
     }
   ]
 }

@@ -2,30 +2,33 @@
   "id": "20270026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270026/20270026_256.png",
   "character": "Firion",
-  "name": "Blood Weapon (II)",
+  "name": "Blood Weapon (II) (Engaged)",
   "name_jp": "ブラッドウェポン【II】",
   "tier": "ADSB",
   "sb_version": "ADSB1",
   "realm": "II",
-  "elements": [
-    "Holy",
-    "Ice",
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Blood Weapon (II) level 0/1, removes Arcane Dyad Empowered: Firion from the user",
+  "effects": "Grants [Tri-Element Mode (Fire, Ice, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Firion], [Blood Weapon (II) Damage Tracker] and [Blood Weapon (II) Level]",
   "description": [
     {
       "name": "Entry",
+      "text": "Grants [Tri-Element Mode (Fire, Ice, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Firion], [Blood Weapon (II) Damage Tracker] and [Blood Weapon (II) Level]"
+    },
+    {
+      "name": "II",
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Blood Weapon (II) level 0/1, removes Arcane Dyad Empowered: Firion from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Grants [Tri-Element Mode (Fire, Ice, Holy)], [Damage Cap +10000], [Arcane Dyad Empowered: Firion], [Blood Weapon (II) Damage Tracker] and [Blood Weapon (II) Level]"
+    },
+    {
+      "name": "II",
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Blood Weapon (II) level 0/1, removes Arcane Dyad Empowered: Firion from the user"
     }
   ]

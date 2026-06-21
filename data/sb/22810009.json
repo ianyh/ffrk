@@ -2,25 +2,36 @@
   "id": "22810009",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810009/22810009_256.png",
   "character": "Nine",
-  "name": "Awoken Class Zero Basher-in-Chief (Dual Shift)",
+  "name": "Awoken Class Zero Basher-in-Chief",
   "name_jp": "覚醒ブッコミ隊長",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "Type-0",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Nine)]",
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Nine)] and [Wind Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Nine)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Nine)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Nine)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Nine)]"
     }
   ]

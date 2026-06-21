@@ -2,28 +2,33 @@
   "id": "20060035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20060035/20060035_256.png",
   "character": "Cecil (Dark Knight)",
-  "name": "War-Awoken Eclipse Blade (Weapon Skill)",
+  "name": "War-Awoken Eclipse Blade",
   "name_jp": "戦醒エクリプスブレイド",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "IV",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Hand of Vengeance (max 50%) & Quick Dark to user",
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & ATB Speed x1.1 to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE physical attack at True Cap Break Level 1",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & ATB Speed x1.1 to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Hand of Vengeance (max 50%) & Quick Dark to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & ATB Speed x1.1 to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Dark/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Dark\nWS Blue: Lv.2 En-Dark Stack to user\nWS Gold: During Tactical Awoken Mode, Hand of Vengeance (max 50%) & Quick Dark to user"
     }
   ]

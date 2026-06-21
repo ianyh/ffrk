@@ -2,34 +2,44 @@
   "id": "20400086",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400086/20400086_256.png",
   "character": "Bartz",
-  "name": "Burst Break: Bartz (Break Arte)",
+  "name": "Burst Break: Bartz (Break Glint)",
   "name_jp": "烈破・バッツ",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "V",
   "elements": [
-    "Water",
-    "NE",
-    "Wind",
-    "NE",
-    "Earth",
-    "NE",
     "Fire",
+    "Water",
+    "Wind",
+    "Earth",
+    "Ice",
+    "Lightning",
+    "Holy",
+    "Dark",
+    "Poison",
     "NE"
   ],
   "type": "PHY",
-  "target": "All enemies",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "One Water/NE or Wind/NE or Earth/NE or Fire/NE single attack (8.00) capped at 99,999 based on EnWater or EnWind or EnEarth or EnFire.",
+  "effects": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Bartz], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Wind with Secondary Stacking]/[Attach Earth with Secondary Stacking].",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Bartz], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Wind with Secondary Stacking]/[Attach Earth with Secondary Stacking]."
+    },
+    {
+      "name": "Break Arte",
       "text": "One Water/NE or Wind/NE or Earth/NE or Fire/NE single attack (8.00) capped at 99,999 based on EnWater or EnWind or EnEarth or EnFire."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Bartz], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Wind with Secondary Stacking]/[Attach Earth with Secondary Stacking]."
+    },
+    {
+      "name": "Break Arte",
       "text": "One Water/NE or Wind/NE or Earth/NE or Fire/NE single attack (8.00) capped at 99,999 based on EnWater or EnWind or EnEarth or EnFire."
     }
   ]

@@ -20,12 +20,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Technique - Last Rites level 0/1, removes Arcane Dyad Empowered: Ravus from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Lightning, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Ravus], [Technique - Last Rites Damage Tracker] and [Technique - Last Rites Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10 each) capped at 9999/19999, followed by one single attack (10.00/11.00) capped at 99999 at Technique - Last Rites level 0/1, removes Arcane Dyad Empowered: Ravus from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Lightning, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Ravus], [Technique - Last Rites Damage Tracker] and [Technique - Last Rites Level]"
     }
   ]
 }

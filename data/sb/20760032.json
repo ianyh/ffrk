@@ -2,28 +2,44 @@
   "id": "20760032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20760032/20760032_256.png",
   "character": "Barret",
-  "name": "Burst Break: Barret (Break Arte)",
+  "name": "Burst Break: Barret (Break Glint)",
   "name_jp": "烈破・バレット",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "VII",
   "elements": [
     "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
     "NE"
   ],
   "type": "PHY",
-  "target": "All enemies",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "One group Overflow ranged physical attack, grants Instant ATB 1 to user",
+  "effects": "One single Overflow ranged attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged physical attacks (max 5 chases)\n",
   "description": [
     {
       "name": "Entry",
+      "text": "One single Overflow ranged attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged physical attacks (max 5 chases)\n"
+    },
+    {
+      "name": "Break Arte",
       "text": "One group Overflow ranged physical attack, grants Instant ATB 1 to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single Overflow ranged attack, grants En-Fire Super Stack, Burst Strike & Instant ATB 1 to user\nBurst Strike: After using Fire abilities, chases with 6 single-target Fire/NE ranged physical attacks (max 5 chases)\n"
+    },
+    {
+      "name": "Break Arte",
       "text": "One group Overflow ranged physical attack, grants Instant ATB 1 to user"
     }
   ]

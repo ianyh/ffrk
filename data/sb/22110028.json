@@ -2,28 +2,33 @@
   "id": "22110028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110028/22110028_256.png",
   "character": "Freya",
-  "name": "War-Awoken Dragon Ride (Weapon Skill)",
+  "name": "War-Awoken Dragon Ride",
   "name_jp": "戦醒ドラゴンライド",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "IX",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Wind/NE piercing jump attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold with at least 0/4 Dragoon/IX members\nWS Blue: Instant Physical to user\nWS Gold: Instant Physical to all allies",
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30% & ATB Speed x1.1 to Wind Abilities; Ends after using 8 Wind abilities\nTP Max: AOE Wind/NE jump attack at True Cap Break Level 1",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30% & ATB Speed x1.1 to Wind Abilities; Ends after using 8 Wind abilities\nTP Max: AOE Wind/NE jump attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Wind/NE piercing jump attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold with at least 0/4 Dragoon/IX members\nWS Blue: Instant Physical to user\nWS Gold: Instant Physical to all allies"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30% & ATB Speed x1.1 to Wind Abilities; Ends after using 8 Wind abilities\nTP Max: AOE Wind/NE jump attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Wind/NE piercing jump attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold with at least 0/4 Dragoon/IX members\nWS Blue: Instant Physical to user\nWS Gold: Instant Physical to all allies"
     }
   ]

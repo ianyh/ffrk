@@ -2,28 +2,33 @@
   "id": "20100061",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100061/20100061_256.png",
   "character": "Terra",
-  "name": "War-Awoken Scorching Flare Spike (Weapon Skill)",
+  "name": "War-Awoken Scorching Flare Spike",
   "name_jp": "戦醒灼熱フレアスパイク",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "VI",
-  "elements": [
-    "Fire",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Fire/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire\nWS Blue: Lv.2 En-Fire Stack to user\nWS Gold: During Tactical Awoken Mode, chases Fire abilities with 10 single-target Fire/NE magic attacks (max 5 chases) to user",
+  "effects": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Fire Ability Boost, Triplecast Fire, Unlimited Fire Hones, Cap Break Level 1 to Fire Abilities, Fire Ability Damage +30% & 20% DEF/RES Pierce to Fire Abilities; Ends after using 8 Fire abilities\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Fire Ability Boost, Triplecast Fire, Unlimited Fire Hones, Cap Break Level 1 to Fire Abilities, Fire Ability Damage +30% & 20% DEF/RES Pierce to Fire Abilities; Ends after using 8 Fire abilities\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Fire/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire\nWS Blue: Lv.2 En-Fire Stack to user\nWS Gold: During Tactical Awoken Mode, chases Fire abilities with 10 single-target Fire/NE magic attacks (max 5 chases) to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Fire Ability Boost, Triplecast Fire, Unlimited Fire Hones, Cap Break Level 1 to Fire Abilities, Fire Ability Damage +30% & 20% DEF/RES Pierce to Fire Abilities; Ends after using 8 Fire abilities\nTP Max: AOE Fire/NE magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Fire/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Fire Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Fire\nWS Blue: Lv.2 En-Fire Stack to user\nWS Gold: During Tactical Awoken Mode, chases Fire abilities with 10 single-target Fire/NE magic attacks (max 5 chases) to user"
     }
   ]

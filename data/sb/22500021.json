@@ -2,25 +2,37 @@
   "id": "22500021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22500021/22500021_256.png",
   "character": "Angeal",
-  "name": "Awoken Unleashed Wrath (Dual Shift)",
+  "name": "Awoken Unleashed Wrath",
   "name_jp": "覚醒憤怒の解放",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "VII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Wind",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1], [Linked Materia Mode II (Wind, Holy)] and [Dual Awoken Pride Mode II: Angeal v2] to the user",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [ATK and MAG +30%, DEF and RES +25% (25s)]/[ATK and MND +30%, DEF and RES +25% (25s)] to all allies with 0-3/4+ Knight allies in the party, grants [Damage Cap +10000], [Dual Awoken Pride Mode I: Angeal v2] and [(Wind/Holy) Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [ATK and MAG +30%, DEF and RES +25% (25s)]/[ATK and MND +30%, DEF and RES +25% (25s)] to all allies with 0-3/4+ Knight allies in the party, grants [Damage Cap +10000], [Dual Awoken Pride Mode I: Angeal v2] and [(Wind/Holy) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Linked Materia Mode II (Wind, Holy)] and [Dual Awoken Pride Mode II: Angeal v2] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [ATK and MAG +30%, DEF and RES +25% (25s)]/[ATK and MND +30%, DEF and RES +25% (25s)] to all allies with 0-3/4+ Knight allies in the party, grants [Damage Cap +10000], [Dual Awoken Pride Mode I: Angeal v2] and [(Wind/Holy) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Linked Materia Mode II (Wind, Holy)] and [Dual Awoken Pride Mode II: Angeal v2] to the user"
     }
   ]

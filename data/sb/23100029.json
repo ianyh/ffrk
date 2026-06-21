@@ -2,25 +2,37 @@
   "id": "23100029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100029/23100029_256.png",
   "character": "Queen",
-  "name": "Awoken Austere Judge (Dual Shift)",
+  "name": "Awoken Austere Judge",
   "name_jp": "覚醒シリアスジャッジ",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "Type-0",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Instant ATB 1 & Dual Awoken Acumen Mode II to user\nDual Awoken Acumen Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick ATB 2 and Instant Lightning 2 to user",
+  "effects": "7 single attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Dual Awoken Acumen Mode I & Lightning Ability Damage +5% to user\nDual Awoken Acumen Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to user",
   "description": [
     {
       "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Dual Awoken Acumen Mode I & Lightning Ability Damage +5% to user\nDual Awoken Acumen Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Acumen Mode II to user\nDual Awoken Acumen Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick ATB 2 and Instant Lightning 2 to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, En-Lightning, En-Lightning Stack, Cap Break Level 1, Dual Awoken Acumen Mode I & Lightning Ability Damage +5% to user\nDual Awoken Acumen Mode I: Lightning Ability Boost, Triplecast Lightning & chases 1/2/3/4+ Lightning abilities with Deadly Strikes +5/10/15/20% to user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Acumen Mode II to user\nDual Awoken Acumen Mode II: Lightning Ability Boost, Instant Lightning & chases a Lightning ability with Quick ATB 2 and Instant Lightning 2 to user"
     }
   ]

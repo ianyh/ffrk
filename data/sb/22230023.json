@@ -2,25 +2,36 @@
   "id": "22230023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22230023/22230023_256.png",
   "character": "Desch",
-  "name": "Awoken Bolt of the Ancients (Dual Shift)",
+  "name": "Awoken Bolt of the Ancients",
   "name_jp": "覚醒古代の雷閃",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "III",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Dual Awoken Lightning Mode II (Desch v2)] and [Instant ATB 1] to the user",
+  "effects": "Seven single attacks (3.05 each), grants [MAG and MND +30%, RES +25% (25s)] to all allies, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Desch v2)], [Lightning Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each), grants [MAG and MND +30%, RES +25% (25s)] to all allies, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Desch v2)], [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Dual Awoken Lightning Mode II (Desch v2)] and [Instant ATB 1] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each), grants [MAG and MND +30%, RES +25% (25s)] to all allies, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Desch v2)], [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Dual Awoken Lightning Mode II (Desch v2)] and [Instant ATB 1] to the user"
     }
   ]

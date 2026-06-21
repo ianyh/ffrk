@@ -20,12 +20,20 @@
     {
       "name": "Entry",
       "text": "20 single-target Water/Holy/NE summon magic attacks & single-target Water/Holy/NE Overflow summon magic attack, removes True Arcane Augment Mode"
+    },
+    {
+      "name": "Engaged",
+      "text": "En-Water, En-Water Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Cleansing Light if at least 100001/300001 damage is dealt"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "20 single-target Water/Holy/NE summon magic attacks & single-target Water/Holy/NE Overflow summon magic attack, removes True Arcane Augment Mode"
+    },
+    {
+      "name": "Engaged",
+      "text": "En-Water, En-Water Stack, Cap Break Level 1 & True Arcane Augment Mode to user\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Cleansing Light if at least 100001/300001 damage is dealt"
     }
   ]
 }

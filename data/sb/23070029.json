@@ -2,29 +2,33 @@
   "id": "23070029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23070029/23070029_256.png",
   "character": "Marcus",
-  "name": "War-Awoken Are You Serious? (Weapon Skill)",
+  "name": "War-Awoken Are You Serious?",
   "name_jp": "戦醒本気っスか？",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "IX",
-  "elements": [
-    "Wind",
-    "Poison",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Wind/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Fire Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Wind/Bio\nWS Blue: Imperil Wind/Bio 30% to all targets\nWS Gold: DeProtect 20% to all targets",
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Wind/Bio Ability Boost, Triplecast Wind/Bio, Unlimited Wind/Bio Hones, Cap Break Level 1 to Wind/Bio Abilities, Wind/Bio Ability Damage +30% & ATB Speed x1.1 to Wind/Bio Abilities; Ends after using 8 Wind/Bio abilities\nTP Max: AOE Wind/NE or Bio/NE physical attack at True Cap Break Level 1 under En-Wind or En-Bio",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Wind/Bio Ability Boost, Triplecast Wind/Bio, Unlimited Wind/Bio Hones, Cap Break Level 1 to Wind/Bio Abilities, Wind/Bio Ability Damage +30% & ATB Speed x1.1 to Wind/Bio Abilities; Ends after using 8 Wind/Bio abilities\nTP Max: AOE Wind/NE or Bio/NE physical attack at True Cap Break Level 1 under En-Wind or En-Bio"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Wind/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Fire Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Wind/Bio\nWS Blue: Imperil Wind/Bio 30% to all targets\nWS Gold: DeProtect 20% to all targets"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Wind/Bio Ability Boost, Triplecast Wind/Bio, Unlimited Wind/Bio Hones, Cap Break Level 1 to Wind/Bio Abilities, Wind/Bio Ability Damage +30% & ATB Speed x1.1 to Wind/Bio Abilities; Ends after using 8 Wind/Bio abilities\nTP Max: AOE Wind/NE or Bio/NE physical attack at True Cap Break Level 1 under En-Wind or En-Bio"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Wind/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind/Fire Abilities, and Weapon Skill Blue/Gold if target has at least 0/40% Imperil Wind/Bio\nWS Blue: Imperil Wind/Bio 30% to all targets\nWS Gold: DeProtect 20% to all targets"
     }
   ]

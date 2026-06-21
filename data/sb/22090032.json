@@ -2,29 +2,33 @@
   "id": "22090032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090032/22090032_256.png",
   "character": "Jecht",
-  "name": "War-Awoken Jecht Impact (Weapon Skill)",
+  "name": "War-Awoken Jecht Impact",
   "name_jp": "戦醒ジェクトインパクト",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "X",
-  "elements": [
-    "Dark",
-    "Fire",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Dark/Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Fire Abilities, and Weapon Skill Blue/Gold with at least 0/4 Sharpshooter/X members\nWS Blue: During Tactical Mode, Deadly Strikes +30% to user\nWS Gold: Deadly Strikes +20% to all allies",
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark/Fire Ability Boost, Triplecast Dark/Fire, Unlimited Dark/Fire Hones, Cap Break Level 1 to Dark/Fire Abilities, Dark/Fire Ability Damage +30% & ATB Speed x1.1 to Dark/Fire Abilities; Ends after using 8 Dark/Fire abilities\nTP Max: AOE Dark/NE or Fire/NE ranged physical attack at True Cap Break Level 1 under En-Dark or En-Fire",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark/Fire Ability Boost, Triplecast Dark/Fire, Unlimited Dark/Fire Hones, Cap Break Level 1 to Dark/Fire Abilities, Dark/Fire Ability Damage +30% & ATB Speed x1.1 to Dark/Fire Abilities; Ends after using 8 Dark/Fire abilities\nTP Max: AOE Dark/NE or Fire/NE ranged physical attack at True Cap Break Level 1 under En-Dark or En-Fire"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Dark/Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Fire Abilities, and Weapon Skill Blue/Gold with at least 0/4 Sharpshooter/X members\nWS Blue: During Tactical Mode, Deadly Strikes +30% to user\nWS Gold: Deadly Strikes +20% to all allies"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark/Fire Ability Boost, Triplecast Dark/Fire, Unlimited Dark/Fire Hones, Cap Break Level 1 to Dark/Fire Abilities, Dark/Fire Ability Damage +30% & ATB Speed x1.1 to Dark/Fire Abilities; Ends after using 8 Dark/Fire abilities\nTP Max: AOE Dark/NE or Fire/NE ranged physical attack at True Cap Break Level 1 under En-Dark or En-Fire"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Dark/Fire/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Fire Abilities, and Weapon Skill Blue/Gold with at least 0/4 Sharpshooter/X members\nWS Blue: During Tactical Mode, Deadly Strikes +30% to user\nWS Gold: Deadly Strikes +20% to all allies"
     }
   ]

@@ -2,25 +2,39 @@
   "id": "20460012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20460012/20460012_256.png",
   "character": "Ricard",
-  "name": "Awoken Wyvern's Roar (Dual Shift)",
+  "name": "Awoken Wyvern's Roar",
   "name_jp": "覚醒竜翼竜哮",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "II",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "Water",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1], [Dual Awoken Deist Dragoon Mode II (Ricard)] to the user, removes [Dual Deist Awoken Dragoon Mode I (Ricard)] from the user",
+  "effects": "Seven single ranged jump attacks (0.60 each) capped at 19999, grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)], [Dual Awoken Deist Dragoon Mode I (Ricard)], and [Dragoon Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.60 each) capped at 19999, grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)], [Dual Awoken Deist Dragoon Mode I (Ricard)], and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Dual Awoken Deist Dragoon Mode II (Ricard)] to the user, removes [Dual Deist Awoken Dragoon Mode I (Ricard)] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.60 each) capped at 19999, grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Damage Cap +10000], [Quad Element Mode III (Lightning, Wind, Water, Dark)], [Dual Awoken Deist Dragoon Mode I (Ricard)], and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Dual Awoken Deist Dragoon Mode II (Ricard)] to the user, removes [Dual Deist Awoken Dragoon Mode I (Ricard)] from the user"
     }
   ]

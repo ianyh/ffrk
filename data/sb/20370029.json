@@ -2,25 +2,36 @@
   "id": "20370029",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370029/20370029_256.png",
   "character": "Vivi",
-  "name": "Awoken Balefire Pyre (Dual Shift)",
+  "name": "Awoken Balefire Pyre",
   "name_jp": "覚醒未来への篝火",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "IX",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II: Vivi], removes [Dual Awoken Fire Mode I: Vivi]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I: Vivi], [Fire Resonance +5% Boost], [Dual Veiled Power Mode], [Balefire Pyre Mode] and Faint Beacon +3 to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I: Vivi], [Fire Resonance +5% Boost], [Dual Veiled Power Mode], [Balefire Pyre Mode] and Faint Beacon +3 to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II: Vivi], removes [Dual Awoken Fire Mode I: Vivi]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I: Vivi], [Fire Resonance +5% Boost], [Dual Veiled Power Mode], [Balefire Pyre Mode] and Faint Beacon +3 to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II: Vivi], removes [Dual Awoken Fire Mode I: Vivi]"
     }
   ]

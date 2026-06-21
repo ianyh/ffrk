@@ -2,25 +2,37 @@
   "id": "20370035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20370035/20370035_256.png",
   "character": "Vivi",
-  "name": "Awoken Freezing Shock (Dual Shift)",
+  "name": "Awoken Freezing Shock",
   "name_jp": "覚醒凍てつく雷撃",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "IX",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Life Mode II: Vivi]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [Ice/Lightning Ability +15% Boost 6]/[Ice/Lightning Ability +30% Boost 6] to all allies if 0-3/4+ allies have any Attach Ice or Attach Lightning, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Life Mode I: Vivi] and [(Ice/Lightning) Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Ice/Lightning Ability +15% Boost 6]/[Ice/Lightning Ability +30% Boost 6] to all allies if 0-3/4+ allies have any Attach Ice or Attach Lightning, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Life Mode I: Vivi] and [(Ice/Lightning) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Life Mode II: Vivi]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [Ice/Lightning Ability +15% Boost 6]/[Ice/Lightning Ability +30% Boost 6] to all allies if 0-3/4+ allies have any Attach Ice or Attach Lightning, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Life Mode I: Vivi] and [(Ice/Lightning) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Life Mode II: Vivi]"
     }
   ]

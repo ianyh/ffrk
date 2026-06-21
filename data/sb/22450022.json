@@ -2,25 +2,36 @@
   "id": "22450022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450022/22450022_256.png",
   "character": "Noel",
-  "name": "Awoken Meteor Javelin (Dual Shift)",
+  "name": "Awoken Meteor Javelin",
   "name_jp": "覚醒メテオジャベリン",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "XIII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Noel)]",
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Noel)] and [Ice Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Noel)] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Noel)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Noel)] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Noel)]"
     }
   ]

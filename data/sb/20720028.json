@@ -2,25 +2,36 @@
   "id": "20720028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720028/20720028_256.png",
   "character": "Strago",
-  "name": "Awoken Lore (Dual Shift)",
+  "name": "Awoken Lore",
   "name_jp": "覚醒覚えた技",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "VI",
-  "elements": [],
-  "type": "NAT",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Strago)] to the user, removes [Dual Awoken Water Mode I (Strago)] from the user",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Strago)] and [Water Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Strago)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Strago)] to the user, removes [Dual Awoken Water Mode I (Strago)] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Strago)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Strago)] to the user, removes [Dual Awoken Water Mode I (Strago)] from the user"
     }
   ]

@@ -2,25 +2,37 @@
   "id": "22680015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680015/22680015_256.png",
   "character": "Prishe",
-  "name": "Awoken Nullifying Dropkick (Dual Shift)",
+  "name": "Awoken Nullifying Dropkick",
   "name_jp": "覚醒崑崙八象脚",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XI",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Lightning",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1], [Dual Awoken Talent Mode II (Prishe)] and [Twin Element Mode II (Ice, Lightning) v2]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Talent Mode I (Prishe)] and [(Ice/Lightning) Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Talent Mode I (Prishe)] and [(Ice/Lightning) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Dual Awoken Talent Mode II (Prishe)] and [Twin Element Mode II (Ice, Lightning) v2]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Talent Mode I (Prishe)] and [(Ice/Lightning) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Dual Awoken Talent Mode II (Prishe)] and [Twin Element Mode II (Ice, Lightning) v2]"
     }
   ]

@@ -16,12 +16,20 @@
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Eight], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Ice Damage Cap +20000 (Tactical)], [Ice 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice 166% ATB Quick Cycle (Tactical)], [Ice Quick Cast (Tactical)] to user if Level 3+ EnIce, grants [Attach Ice 3 with Stacking] to user if not."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Eight], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Ice Damage Cap +20000 (Tactical)], [Ice 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice 166% ATB Quick Cycle (Tactical)], [Ice Quick Cast (Tactical)] to user if Level 3+ EnIce, grants [Attach Ice 3 with Stacking] to user if not."
     }
   ]
 }

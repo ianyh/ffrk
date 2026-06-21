@@ -2,25 +2,36 @@
   "id": "22270021",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270021/22270021_256.png",
   "character": "Braska",
-  "name": "Awoken Wandering Flame (Dual Shift)",
+  "name": "Awoken Wandering Flame",
   "name_jp": "覚醒彷徨の炎",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "X",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1], [Magical +50% 1], [Summoning Smart Ether 2], and [Dual Awoken Summoning Mode II (Braska II)] to the user, grants [Magical +50% 1] to Yuna",
+  "effects": "Seven single attacks (? each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Braska II)], [Summoning Resonance +3%] to the user, grants [MAG and MND +30%, DEF and RES +25% (25s)] to all allies",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (? each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Braska II)], [Summoning Resonance +3%] to the user, grants [MAG and MND +30%, DEF and RES +25% (25s)] to all allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Magical +50% 1], [Summoning Smart Ether 2], and [Dual Awoken Summoning Mode II (Braska II)] to the user, grants [Magical +50% 1] to Yuna"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (? each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Braska II)], [Summoning Resonance +3%] to the user, grants [MAG and MND +30%, DEF and RES +25% (25s)] to all allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1], [Magical +50% 1], [Summoning Smart Ether 2], and [Dual Awoken Summoning Mode II (Braska II)] to the user, grants [Magical +50% 1] to Yuna"
     }
   ]

@@ -2,28 +2,33 @@
   "id": "20890031",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890031/20890031_256.png",
   "character": "Shadow",
-  "name": "War-Awoken Regret Shadow (Weapon Skill)",
+  "name": "War-Awoken Regret Shadow",
   "name_jp": "戦醒リグレットシャドウ",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "VI",
-  "elements": [
-    "Dark",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Dark;\nWS Blue: Grants [Lv.2 En-Dark Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Dualcast Dark 5] to user",
+  "effects": "Grants Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & ATB Speed x1.1 to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE physical attack at True Cap Break Level 1",
   "description": [
     {
       "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & ATB Speed x1.1 to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Dark;\nWS Blue: Grants [Lv.2 En-Dark Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Dualcast Dark 5] to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark Ability Boost, Triplecast Dark, Unlimited Dark Hones, Cap Break Level 1 to Dark Abilities, Dark Ability Damage +30% & ATB Speed x1.1 to Dark Abilities; Ends after using 8 Dark abilities\nTP Max: AOE Dark/NE physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Dark;\nWS Blue: Grants [Lv.2 En-Dark Stack] to user\nWS Gold: Grants [During Tactical Awoken Mode, Dualcast Dark 5] to user"
     }
   ]

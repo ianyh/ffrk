@@ -2,25 +2,38 @@
   "id": "20530027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530027/20530027_256.png",
   "character": "Edgar",
-  "name": "Awoken Trinity Boost (Dual Shift)",
+  "name": "Awoken Trinity Boost",
   "name_jp": "覚醒トリニティブースト",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "VI",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Machine Mania Mode II (Edgar)] to the user",
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Damage Cap +10000], [Dual Awoken Machine Mania Mode I (Edgar)] and [Machinist Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Damage Cap +10000], [Dual Awoken Machine Mania Mode I (Edgar)] and [Machinist Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Machine Mania Mode II (Edgar)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Damage Cap +10000], [Dual Awoken Machine Mania Mode I (Edgar)] and [Machinist Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Machine Mania Mode II (Edgar)] to the user"
     }
   ]

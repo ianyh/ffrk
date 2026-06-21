@@ -2,25 +2,33 @@
   "id": "22350010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22350010/22350010_256.png",
   "character": "Edward",
-  "name": "Awoken Mirage Song (Dual Shift)",
+  "name": "Awoken Mirage Song",
   "name_jp": "覚醒ミラージュソング",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "IV",
   "elements": [],
   "type": "NAT",
-  "target": "Self",
+  "target": "All allies",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Bard Mode II (Edward)]",
+  "effects": "Grants [ATK, DEF, MAG and RES +30% (25s)], [Instant Cast 1] and [200% ATB 1], grants [Dual Awoken Bard Mode I (Edward)] to the user, grants [IV Resonance +3% Boost] to all FF4 allies",
   "description": [
     {
       "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (25s)], [Instant Cast 1] and [200% ATB 1], grants [Dual Awoken Bard Mode I (Edward)] to the user, grants [IV Resonance +3% Boost] to all FF4 allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Bard Mode II (Edward)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (25s)], [Instant Cast 1] and [200% ATB 1], grants [Dual Awoken Bard Mode I (Edward)] to the user, grants [IV Resonance +3% Boost] to all FF4 allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Bard Mode II (Edward)]"
     }
   ]

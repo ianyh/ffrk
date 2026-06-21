@@ -2,25 +2,37 @@
   "id": "20940028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20940028/20940028_256.png",
   "character": "Krile",
-  "name": "Awoken Cleansing (Dual Shift)",
+  "name": "Awoken Cleansing",
   "name_jp": "覚醒てんちほうかい",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "V",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Fire",
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Successor Mode II (Krile)], removes [Dual Awoken Successor Mode I (Krile)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Earth)], [Damage Cap +10000], [Dual Awoken Successor Mode I (Krile)] and [Fire/Earth Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Earth)], [Damage Cap +10000], [Dual Awoken Successor Mode I (Krile)] and [Fire/Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Successor Mode II (Krile)], removes [Dual Awoken Successor Mode I (Krile)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Fire, Earth)], [Damage Cap +10000], [Dual Awoken Successor Mode I (Krile)] and [Fire/Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Successor Mode II (Krile)], removes [Dual Awoken Successor Mode I (Krile)]"
     }
   ]

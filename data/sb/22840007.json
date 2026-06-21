@@ -2,25 +2,33 @@
   "id": "22840007",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22840007/22840007_256.png",
   "character": "Aemo",
-  "name": "Awoken Angel Feathers (Dual Shift)",
+  "name": "Awoken Angel Feathers",
   "name_jp": "覚醒エンジェルフェザー",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "Beyond",
   "elements": [],
   "type": "NAT",
-  "target": "Self",
+  "target": "All enemies",
   "lensable": false,
-  "effects": "Dual Shift: Instant ATB 1 & Dual Awoken Time Traveler Mode II to user\nDual Awoken Time Traveler Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with DEF/RES/MND -70% to all targets, ATK/MAG/DEF/RES +30% & Weakness Damage +30% for 3 turns to party",
+  "effects": "Causes DEF/RES/MND -70%, grants ATK/MAG/DEF/RES +30% & Quick Cast to party, grants Dual Awoken Time Traveler Mode I to user, grants Damage +3% to Core/Beyond members\nDual Awoken Time Traveler Mode I: Dualcast White Magic/Bard & Quick White Magic/Bard",
   "description": [
     {
       "name": "Entry",
+      "text": "Causes DEF/RES/MND -70%, grants ATK/MAG/DEF/RES +30% & Quick Cast to party, grants Dual Awoken Time Traveler Mode I to user, grants Damage +3% to Core/Beyond members\nDual Awoken Time Traveler Mode I: Dualcast White Magic/Bard & Quick White Magic/Bard"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Dual Shift: Instant ATB 1 & Dual Awoken Time Traveler Mode II to user\nDual Awoken Time Traveler Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with DEF/RES/MND -70% to all targets, ATK/MAG/DEF/RES +30% & Weakness Damage +30% for 3 turns to party"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Causes DEF/RES/MND -70%, grants ATK/MAG/DEF/RES +30% & Quick Cast to party, grants Dual Awoken Time Traveler Mode I to user, grants Damage +3% to Core/Beyond members\nDual Awoken Time Traveler Mode I: Dualcast White Magic/Bard & Quick White Magic/Bard"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Dual Shift: Instant ATB 1 & Dual Awoken Time Traveler Mode II to user\nDual Awoken Time Traveler Mode II: Instant White Magic/Bard & chases a White Magic/Bard ability with DEF/RES/MND -70% to all targets, ATK/MAG/DEF/RES +30% & Weakness Damage +30% for 3 turns to party"
     }
   ]

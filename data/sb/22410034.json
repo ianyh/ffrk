@@ -2,29 +2,33 @@
   "id": "22410034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410034/22410034_256.png",
   "character": "Cid Raines",
-  "name": "War-Awoken Seraphic End (Weapon Skill)",
+  "name": "War-Awoken Seraphic End",
   "name_jp": "戦醒セラフィックエンド",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "XIII",
-  "elements": [
-    "Dark",
-    "Holy",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Holy Abilities, and Weapon Skill Blue/Gold when the user has at least Lv.0/2 En-Dark/Holy;\nWS Blue: [Lv.2 En-Dark/Holy to user]\nWS Gold: [Instant Magic 3 & Sorcery Damage +30% for 3 turns to party]",
+  "effects": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark/Holy Ability Boost, Triplecast Dark/Holy, Unlimited Dark/Holy Hones, Cap Break Level 1 to Dark/Holy Abilities, Dark/Holy Ability Damage +30% & ATB Speed x1.1 to Dark/Holy Abilities; Ends after using 8 Dark/Holy abilities\nTP Max: AOE Dark/NE or Holy/NE magic attack at True Cap Break Level 1 under En-Dark or En-Holy",
   "description": [
     {
       "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark/Holy Ability Boost, Triplecast Dark/Holy, Unlimited Dark/Holy Hones, Cap Break Level 1 to Dark/Holy Abilities, Dark/Holy Ability Damage +30% & ATB Speed x1.1 to Dark/Holy Abilities; Ends after using 8 Dark/Holy abilities\nTP Max: AOE Dark/NE or Holy/NE magic attack at True Cap Break Level 1 under En-Dark or En-Holy"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Holy Abilities, and Weapon Skill Blue/Gold when the user has at least Lv.0/2 En-Dark/Holy;\nWS Blue: [Lv.2 En-Dark/Holy to user]\nWS Gold: [Instant Magic 3 & Sorcery Damage +30% for 3 turns to party]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Grants Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Dark/Holy Ability Boost, Triplecast Dark/Holy, Unlimited Dark/Holy Hones, Cap Break Level 1 to Dark/Holy Abilities, Dark/Holy Ability Damage +30% & ATB Speed x1.1 to Dark/Holy Abilities; Ends after using 8 Dark/Holy abilities\nTP Max: AOE Dark/NE or Holy/NE magic attack at True Cap Break Level 1 under En-Dark or En-Holy"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "One single piercing attack at True Cap Break Level 1, grants [Instant ATB 1] & [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Holy Abilities, and Weapon Skill Blue/Gold when the user has at least Lv.0/2 En-Dark/Holy;\nWS Blue: [Lv.2 En-Dark/Holy to user]\nWS Gold: [Instant Magic 3 & Sorcery Damage +30% for 3 turns to party]"
     }
   ]

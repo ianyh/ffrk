@@ -20,12 +20,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Might of the Void level 0/1, removes Arcane Dyad Empowered: Exdeath from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Holy, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Exdeath], [Might of the Void Damage Tracker] and [Might of the Void Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50 each) capped at 9999/19999, followed by one single attack (34.60/38.06) capped at 99999 at Might of the Void level 0/1, removes Arcane Dyad Empowered: Exdeath from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Holy, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Exdeath], [Might of the Void Damage Tracker] and [Might of the Void Level]"
     }
   ]
 }

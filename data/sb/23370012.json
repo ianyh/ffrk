@@ -21,12 +21,20 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Elementillery level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Cater from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], and [Imperil Lightning 10% (15s)], grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)] and [Buff Lightning 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Cater], [Apex Elementillery Damage Tracker] and [Apex Elementillery Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Elementillery level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Cater from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], and [Imperil Lightning 10% (15s)], grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)] and [Buff Lightning 10% (15s)] to all allies, grants [Damage Cap +10000], [Arcane Dyad Empowered: Cater], [Apex Elementillery Damage Tracker] and [Apex Elementillery Level]"
     }
   ]
 }

@@ -2,25 +2,33 @@
   "id": "23150010",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23150010/23150010_256.png",
   "character": "Alma",
-  "name": "Awoken Holy Seal (Dual Shift)",
+  "name": "Awoken Holy Seal",
   "name_jp": "覚醒聖印の目覚め",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "FFT",
   "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "type": "WHT",
+  "target": "All allies",
   "lensable": false,
-  "effects": "Instant ATB 1 & Dual Awoken Love Mode II to user\nDual Awoken Love Mode II: Instant White Magic & chases a White Magic ability with h60 heal, Guts and Instant Cast 1 to party",
+  "effects": "h105 heal at Cap Break Level 1, 100% Raise, Haste, Regenga & High Quick Cast 2 to user, Cap Break Level 1, Dual Awoken Love Mode I & Heal +5% to user\nDual Awoken Love Mode I: Quick White Magic & chases White Magic abilities with h25 heal and 20% Damage Reduction Barrier 1 to party",
   "description": [
     {
       "name": "Entry",
+      "text": "h105 heal at Cap Break Level 1, 100% Raise, Haste, Regenga & High Quick Cast 2 to user, Cap Break Level 1, Dual Awoken Love Mode I & Heal +5% to user\nDual Awoken Love Mode I: Quick White Magic & chases White Magic abilities with h25 heal and 20% Damage Reduction Barrier 1 to party"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Love Mode II to user\nDual Awoken Love Mode II: Instant White Magic & chases a White Magic ability with h60 heal, Guts and Instant Cast 1 to party"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "h105 heal at Cap Break Level 1, 100% Raise, Haste, Regenga & High Quick Cast 2 to user, Cap Break Level 1, Dual Awoken Love Mode I & Heal +5% to user\nDual Awoken Love Mode I: Quick White Magic & chases White Magic abilities with h25 heal and 20% Damage Reduction Barrier 1 to party"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Love Mode II to user\nDual Awoken Love Mode II: Instant White Magic & chases a White Magic ability with h60 heal, Guts and Instant Cast 1 to party"
     }
   ]

@@ -2,25 +2,36 @@
   "id": "20970028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970028/20970028_256.png",
   "character": "Rikku",
-  "name": "Awoken Machina Sabotage (Dual Shift)",
+  "name": "Awoken Machina Sabotage",
   "name_jp": "覚醒マキナブレイク",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "X",
-  "elements": [],
-  "type": "NAT",
-  "target": "All allies",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Rikku)] to the user, removes [Dual Awoken Water Mode I (Rikku)] from the user",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Rikku)] and [Water Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Rikku)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Rikku)] to the user, removes [Dual Awoken Water Mode I (Rikku)] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Rikku)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Rikku)] to the user, removes [Dual Awoken Water Mode I (Rikku)] from the user"
     }
   ]

@@ -2,36 +2,36 @@
   "id": "20670032",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20670032/20670032_256.png",
   "character": "Zell",
-  "name": "Burst Break: Zell (Break Arte)",
+  "name": "Burst Break: Zell (Break Glint)",
   "name_jp": "烈破・ゼル",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "VIII",
   "elements": [
     "Fire",
-    "Ice",
-    "Lightning",
-    "Earth",
-    "Wind",
-    "Water",
-    "Holy",
-    "Dark",
-    "Poison",
     "NE"
   ],
   "type": "PHY",
-  "target": "Single enemy",
+  "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Zell], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking].",
+  "effects": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Zell], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Zell], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]."
     }
   ]

@@ -2,25 +2,36 @@
   "id": "20100039",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100039/20100039_256.png",
   "character": "Terra",
-  "name": "Awoken Tornado Combo (Dual Shift)",
+  "name": "Awoken Tornado Combo",
   "name_jp": "覚醒トルネドコンボ",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "VI",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Zephyr Mode II (Terra)], removes [Dual Awoken Zephyr Mode I (Terra)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Zephyr Mode I (Terra)] and [Wind Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Zephyr Mode I (Terra)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Zephyr Mode II (Terra)], removes [Dual Awoken Zephyr Mode I (Terra)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Zephyr Mode I (Terra)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Zephyr Mode II (Terra)], removes [Dual Awoken Zephyr Mode I (Terra)]"
     }
   ]

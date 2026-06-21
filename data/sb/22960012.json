@@ -2,25 +2,33 @@
   "id": "22960012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960012/22960012_256.png",
   "character": "Aria",
-  "name": "Awoken Maiden of Water (Dual Shift)",
+  "name": "Awoken Maiden of Water",
   "name_jp": "覚醒水の巫女",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "III",
   "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "type": "WHT",
+  "target": "All allies",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Maiden Mode II (Aria)]",
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Maiden Mode I (Aria)] and [White Magic Healing Resonance Boost +5%] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Maiden Mode I (Aria)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Maiden Mode II (Aria)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Maiden Mode I (Aria)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Maiden Mode II (Aria)]"
     }
   ]

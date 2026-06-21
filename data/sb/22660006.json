@@ -2,25 +2,36 @@
   "id": "22660006",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22660006/22660006_256.png",
   "character": "Reynn",
-  "name": "Awoken Champions of Ice (Dual Shift)",
+  "name": "Awoken Champions of Ice",
   "name_jp": "覚醒セイヴァー・氷",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "Beyond",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants smart ether 1, [Instant ATB 1], [Dual Awoken Ice Mode II (Reynn)] to the user",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Ice Resonance +5% Boost], and [Dual Awoken Ice Mode I (Reynn)] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Ice Resonance +5% Boost], and [Dual Awoken Ice Mode I (Reynn)] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants smart ether 1, [Instant ATB 1], [Dual Awoken Ice Mode II (Reynn)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Ice with Stacking], [Damage Cap +10000], [Ice Resonance +5% Boost], and [Dual Awoken Ice Mode I (Reynn)] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants smart ether 1, [Instant ATB 1], [Dual Awoken Ice Mode II (Reynn)] to the user"
     }
   ]

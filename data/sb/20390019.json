@@ -2,25 +2,37 @@
   "id": "20390019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390019/20390019_256.png",
   "character": "Fran",
-  "name": "Awoken Feral Strike (Dual Shift)",
+  "name": "Awoken Feral Strike",
   "name_jp": "覚醒乱命割殺掌",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XII",
-  "elements": [],
-  "type": "NAT",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Fran)] to the user, removes [Dual Awoken Ice Mode I (Fran)] from the user",
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Ice Mode I (Fran)] and [(Ice/Lightning) Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Ice Mode I (Fran)] and [(Ice/Lightning) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Fran)] to the user, removes [Dual Awoken Ice Mode I (Fran)] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Ice Mode I (Fran)] and [(Ice/Lightning) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Fran)] to the user, removes [Dual Awoken Ice Mode I (Fran)] from the user"
     }
   ]

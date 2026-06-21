@@ -2,25 +2,36 @@
   "id": "20560019",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20560019/20560019_256.png",
   "character": "Maria",
-  "name": "Awoken Sagittarius LXIV (Dual Shift)",
+  "name": "Awoken Sagittarius LXIV",
   "name_jp": "覚醒サジタリウス64",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "II",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Maria)], removes [Dual Awoken Earth Mode I (Maria)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Maria)] and [Earth Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Maria)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Maria)], removes [Dual Awoken Earth Mode I (Maria)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Maria)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Maria)], removes [Dual Awoken Earth Mode I (Maria)]"
     }
   ]

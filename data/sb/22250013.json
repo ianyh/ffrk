@@ -2,25 +2,33 @@
   "id": "22250013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250013/22250013_256.png",
   "character": "Cait Sith",
-  "name": "Awoken Exciting Jackpot (Dual Shift)",
+  "name": "Awoken Exciting Jackpot",
   "name_jp": "覚醒痛快ジャックポット",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "VII",
   "elements": [],
   "type": "NAT",
-  "target": "Self",
+  "target": "All allies",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Fortune-Teller Mode II (Cait Sith)] to the user",
+  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to the target, grants [HP Stock (6000)] and [Quick Cast 3] to all allies, grants [Dual Awoken Fortune-Teller Mode I (Cait Sith)] to the user, grants [VII Resonance +3% Boost] to all VII allies",
   "description": [
     {
       "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to the target, grants [HP Stock (6000)] and [Quick Cast 3] to all allies, grants [Dual Awoken Fortune-Teller Mode I (Cait Sith)] to the user, grants [VII Resonance +3% Boost] to all VII allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fortune-Teller Mode II (Cait Sith)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to the target, grants [HP Stock (6000)] and [Quick Cast 3] to all allies, grants [Dual Awoken Fortune-Teller Mode I (Cait Sith)] to the user, grants [VII Resonance +3% Boost] to all VII allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fortune-Teller Mode II (Cait Sith)] to the user"
     }
   ]

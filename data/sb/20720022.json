@@ -2,25 +2,37 @@
   "id": "20720022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720022/20720022_256.png",
   "character": "Strago",
-  "name": "Awoken Twin Mage (Dual Shift)",
+  "name": "Awoken Twin Mage",
   "name_jp": "覚醒トワイスメイジ",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "VI",
-  "elements": [],
-  "type": "NAT",
-  "target": "All allies",
+  "elements": [
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [40% Damage Reduction Barrier 1], grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Strago)] to the user, removes [Dual Awoken Wind Mode I (Strago)] removes from the user",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Strago)] and [Wind Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Strago)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [40% Damage Reduction Barrier 1], grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Strago)] to the user, removes [Dual Awoken Wind Mode I (Strago)] removes from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Strago)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [40% Damage Reduction Barrier 1], grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Strago)] to the user, removes [Dual Awoken Wind Mode I (Strago)] removes from the user"
     }
   ]

@@ -2,25 +2,38 @@
   "id": "22590013",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590013/22590013_256.png",
   "character": "Matoya",
-  "name": "Awoken Inner Eye (Dual Shift)",
+  "name": "Awoken Inner Eye",
   "name_jp": "覚醒真眼の魔女",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "I",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Witch Mode II (Matoya)] to the user",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Resonance +5% Boost], [Dual Awoken Witch Mode I (Matoya)] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Resonance +5% Boost], [Dual Awoken Witch Mode I (Matoya)] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Witch Mode II (Matoya)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Resonance +5% Boost], [Dual Awoken Witch Mode I (Matoya)] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Witch Mode II (Matoya)] to the user"
     }
   ]

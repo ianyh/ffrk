@@ -2,7 +2,7 @@
   "id": "23460027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460027/23460027_256.png",
   "character": "Lunafreya",
-  "name": "Burst Break: Lunafreya (Break Arte)",
+  "name": "Burst Break: Lunafreya (Break Glint)",
   "name_jp": "烈破・ルナフレーナ",
   "tier": "Buster",
   "sb_version": "Buster1",
@@ -16,11 +16,19 @@
     {
       "name": "Entry",
       "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
       "text": ""
     }
   ]

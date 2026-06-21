@@ -2,25 +2,36 @@
   "id": "22370017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22370017/22370017_256.png",
   "character": "Gabranth",
-  "name": "Awoken Avenger (Dual Shift)",
+  "name": "Awoken Avenger",
   "name_jp": "覚醒悲哀",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Gabranth)], removes [Dual Awoken Dark Mode I (Gabranth)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Gabranth)] and [Dark Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Gabranth)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Gabranth)], removes [Dual Awoken Dark Mode I (Gabranth)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Gabranth)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Gabranth)], removes [Dual Awoken Dark Mode I (Gabranth)]"
     }
   ]

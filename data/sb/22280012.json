@@ -2,25 +2,37 @@
   "id": "22280012",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22280012/22280012_256.png",
   "character": "Wol",
-  "name": "Awoken Sudden Smite (Dual Shift)",
+  "name": "Awoken Sudden Smite",
   "name_jp": "覚醒サドンスマイト",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "I",
-  "elements": [],
-  "type": "NAT",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Cosmic Warrior Mode II (Wol)] to the user, removes [Dual Awoken Cosmic Warrior Mode I (Wol)] from the user",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Cosmic Warrior Mode I (Wol)], [Twin Element Mode II (Earth, Holy)] and [(Earth/Holy) Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Cosmic Warrior Mode I (Wol)], [Twin Element Mode II (Earth, Holy)] and [(Earth/Holy) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Cosmic Warrior Mode II (Wol)] to the user, removes [Dual Awoken Cosmic Warrior Mode I (Wol)] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grant [Damage Cap +10000], [Dual Awoken Cosmic Warrior Mode I (Wol)], [Twin Element Mode II (Earth, Holy)] and [(Earth/Holy) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Cosmic Warrior Mode II (Wol)] to the user, removes [Dual Awoken Cosmic Warrior Mode I (Wol)] from the user"
     }
   ]

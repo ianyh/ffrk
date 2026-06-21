@@ -2,25 +2,36 @@
   "id": "22360017",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22360017/22360017_256.png",
   "character": "Shantotto",
-  "name": "Awoken Play Rough (Dual Shift)",
+  "name": "Awoken Play Rough",
   "name_jp": "覚醒ブチ切れ",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XI",
-  "elements": [],
-  "type": "NAT",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Witch Mode II: Shantotto] to the user, removes [Dual Awoken Witch Mode I: Shantotto] from the user",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Witch Mode I: Shantotto] and [Witch Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Witch Mode I: Shantotto] and [Witch Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Witch Mode II: Shantotto] to the user, removes [Dual Awoken Witch Mode I: Shantotto] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Witch Mode I: Shantotto] and [Witch Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Witch Mode II: Shantotto] to the user, removes [Dual Awoken Witch Mode I: Shantotto] from the user"
     }
   ]

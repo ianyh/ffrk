@@ -20,12 +20,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Knight of the Round level 0/1/2, removes Arcane Dyad Empowered: Biggs from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Earth with Stacking], [Instant Cast 2], [Arcane Dyad Empowered: Biggs], [Knight of the Round Damage Tracker] and [Knight of the Round Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (1.00/1.10/1.20 each) capped at 9999/19999/29999, followed by one single attack (10.00/11.00/12.00) capped at 99999 at Knight of the Round level 0/1/2, removes Arcane Dyad Empowered: Biggs from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Earth with Stacking], [Instant Cast 2], [Arcane Dyad Empowered: Biggs], [Knight of the Round Damage Tracker] and [Knight of the Round Level]"
     }
   ]
 }

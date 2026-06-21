@@ -2,25 +2,36 @@
   "id": "23170014",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23170014/23170014_256.png",
   "character": "Kelger",
-  "name": "Awoken True Lupine Attack (Dual Shift)",
+  "name": "Awoken True Lupine Attack",
   "name_jp": "覚醒ルパインアタック",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "V",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Kelger)], removes [Dual Awoken Ninja Mode I (Kelger)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Kelger)] and [Ninja Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Kelger)] and [Ninja Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Kelger)], removes [Dual Awoken Ninja Mode I (Kelger)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Kelger)] and [Ninja Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Kelger)], removes [Dual Awoken Ninja Mode I (Kelger)]"
     }
   ]

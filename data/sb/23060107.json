@@ -27,12 +27,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Nameless Historia level 0/1/2, removes Arcane Dyad Empowered: Dr. Mog from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Historical Covenant Follow-Up], [Nameless Historia Ability Tracker], [Nameless Historia Level] and [Arcane Dyad Empowered: Dr. Mog]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Nameless Historia level 0/1/2, removes Arcane Dyad Empowered: Dr. Mog from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Historical Covenant Follow-Up], [Nameless Historia Ability Tracker], [Nameless Historia Level] and [Arcane Dyad Empowered: Dr. Mog]"
     }
   ]
 }

@@ -19,12 +19,20 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Catastrophe level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Barret from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Fifteen single ranged attacks (0.01 each), causes [DEF, RES and MND -50% (8s)], causes [Imperil Fire 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF7 allies are alive, grants [Quick Cast 1] to all allies, grants [Arcane Dyad Empowered: Barret], [Catastrophe Ability Tracker] and [Catastrophe Level] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Catastrophe level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Barret from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Fifteen single ranged attacks (0.01 each), causes [DEF, RES and MND -50% (8s)], causes [Imperil Fire 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF7 allies are alive, grants [Quick Cast 1] to all allies, grants [Arcane Dyad Empowered: Barret], [Catastrophe Ability Tracker] and [Catastrophe Level] to the user"
     }
   ]
 }

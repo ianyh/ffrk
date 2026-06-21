@@ -2,25 +2,36 @@
   "id": "20800028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800028/20800028_256.png",
   "character": "Ingus",
-  "name": "Awoken Monolith Sword (Dual Shift)",
+  "name": "Awoken Monolith Sword",
   "name_jp": "覚醒モノリスソード",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "III",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Earth Mode II: Ingus v2] to the user",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I: Ingus v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I: Ingus v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Earth Mode II: Ingus v2] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I: Ingus v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Earth Mode II: Ingus v2] to the user"
     }
   ]

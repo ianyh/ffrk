@@ -2,25 +2,37 @@
   "id": "20720042",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720042/20720042_256.png",
   "character": "Strago",
-  "name": "Awoken Tidal Tornado (Dual Shift)",
+  "name": "Awoken Tidal Tornado",
   "name_jp": "覚醒タイダルトルネード",
   "tier": "DASB",
   "sb_version": "DASB3",
   "realm": "VI",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Dual Awoken Blue Mage Mode II & Instant ATB 1 to user\nDual Awoken Blue Mage Mode II: Water/Wind Ability Boost, Instant Water/Wind & chases a Water/Wind ability with [Water/Wind Damage +20% & Quick Cast 2] or [MAG/MND/DEF/RES +15% for 8 seconds, Prismatic Damage +20% & Quick Cast 2] to party with at least 0/4 Mage I members",
+  "effects": "7 single attacks at Cap Break Level 1, MAG & MND +50%, Water/Wind Damage +30%, Cap Break Level 1, Dual Awoken Blue Mage Mode I & Water/Wind Ability Damage +5% to user\nDual Awoken Blue Mage Mode I: Water/Wind Ability Boost, Triplecast Water/Wind & Quick Cast",
   "description": [
     {
       "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, MAG & MND +50%, Water/Wind Damage +30%, Cap Break Level 1, Dual Awoken Blue Mage Mode I & Water/Wind Ability Damage +5% to user\nDual Awoken Blue Mage Mode I: Water/Wind Ability Boost, Triplecast Water/Wind & Quick Cast"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Dual Awoken Blue Mage Mode II & Instant ATB 1 to user\nDual Awoken Blue Mage Mode II: Water/Wind Ability Boost, Instant Water/Wind & chases a Water/Wind ability with [Water/Wind Damage +20% & Quick Cast 2] or [MAG/MND/DEF/RES +15% for 8 seconds, Prismatic Damage +20% & Quick Cast 2] to party with at least 0/4 Mage I members"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "7 single attacks at Cap Break Level 1, MAG & MND +50%, Water/Wind Damage +30%, Cap Break Level 1, Dual Awoken Blue Mage Mode I & Water/Wind Ability Damage +5% to user\nDual Awoken Blue Mage Mode I: Water/Wind Ability Boost, Triplecast Water/Wind & Quick Cast"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Dual Awoken Blue Mage Mode II & Instant ATB 1 to user\nDual Awoken Blue Mage Mode II: Water/Wind Ability Boost, Instant Water/Wind & chases a Water/Wind ability with [Water/Wind Damage +20% & Quick Cast 2] or [MAG/MND/DEF/RES +15% for 8 seconds, Prismatic Damage +20% & Quick Cast 2] to party with at least 0/4 Mage I members"
     }
   ]

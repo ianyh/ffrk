@@ -2,25 +2,36 @@
   "id": "20110034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110034/20110034_256.png",
   "character": "Cloud",
-  "name": "Awoken Finishing Touch (Dual Shift)",
+  "name": "Awoken Finishing Touch",
   "name_jp": "覚醒画龍点睛",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "VII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cloud)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cloud)] and [Wind Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cloud)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cloud)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cloud)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cloud)]"
     }
   ]

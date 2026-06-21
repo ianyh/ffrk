@@ -2,25 +2,36 @@
   "id": "22130022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130022/22130022_256.png",
   "character": "Leila",
-  "name": "Awoken Pirate's Gaze (Dual Shift)",
+  "name": "Awoken Pirate's Gaze",
   "name_jp": "覚醒パイレーツゲイザー",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "II",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Leila)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Leila)] and [Water Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Leila)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Leila)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Leila)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Leila)]"
     }
   ]

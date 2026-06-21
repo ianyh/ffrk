@@ -19,12 +19,20 @@
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Stonega level 0/1/2, removes Arcane Dyad Empowered: Onion Knight (Earth) from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Onion Knight (Earth)], [Apex Stonega Damage Tracker] and [Apex Stonega Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Apex Stonega level 0/1/2, removes Arcane Dyad Empowered: Onion Knight (Earth) from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Earth with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Onion Knight (Earth)], [Apex Stonega Damage Tracker] and [Apex Stonega Level]"
     }
   ]
 }

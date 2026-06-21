@@ -2,25 +2,36 @@
   "id": "23200016",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23200016/23200016_256.png",
   "character": "Ignis",
-  "name": "Awoken Sagefire (Dual Shift)",
+  "name": "Awoken Sagefire",
   "name_jp": "覚醒賢者の炎",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XV",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Ignis)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Ignis)], and [Fire Resonance +5%] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Ignis)], and [Fire Resonance +5%] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Ignis)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Ignis)], and [Fire Resonance +5%] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Ignis)]"
     }
   ]

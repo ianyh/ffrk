@@ -2,25 +2,37 @@
   "id": "20820023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820023/20820023_256.png",
   "character": "Seifer",
-  "name": "Awoken Problem Child (Dual Shift)",
+  "name": "Awoken Problem Child",
   "name_jp": "覚醒問題児の悪あがき",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "VIII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Sorceress's Knight Mode II (Seifer v2)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer v2)] and [Dark/Fire Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer v2)] and [Dark/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Sorceress's Knight Mode II (Seifer v2)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer v2)] and [Dark/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Sorceress's Knight Mode II (Seifer v2)]"
     }
   ]

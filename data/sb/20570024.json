@@ -2,25 +2,38 @@
   "id": "20570024",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570024/20570024_256.png",
   "character": "Steiner",
-  "name": "Awoken Steiner Rush (Dual Shift)",
+  "name": "Awoken Steiner Rush",
   "name_jp": "覚醒盲進スタイナー",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "IX",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II (Steiner)], removes [Dual Awoken Spellblade Mode I (Steiner)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Tri-Element Mode II (Fire, Ice, Lightning)], [Dual Awoken Spellblade Mode I (Steiner)], [Spellblade Resonance +5% Boost] and [Instant Cast 1] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Tri-Element Mode II (Fire, Ice, Lightning)], [Dual Awoken Spellblade Mode I (Steiner)], [Spellblade Resonance +5% Boost] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II (Steiner)], removes [Dual Awoken Spellblade Mode I (Steiner)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Tri-Element Mode II (Fire, Ice, Lightning)], [Dual Awoken Spellblade Mode I (Steiner)], [Spellblade Resonance +5% Boost] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II (Steiner)], removes [Dual Awoken Spellblade Mode I (Steiner)]"
     }
   ]

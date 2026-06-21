@@ -2,25 +2,37 @@
   "id": "22410027",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410027/22410027_256.png",
   "character": "Cid Raines",
-  "name": "Awoken Wings of Despair (Dual Shift)",
+  "name": "Awoken Wings of Despair",
   "name_jp": "覚醒絶望に染まる翼",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "XIII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Ambitious Commander Mode II (Cid Raines)] to the user",
+  "effects": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user."
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ambitious Commander Mode II (Cid Raines)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19,999. Grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Double Crystarium Mode II (Holy, Dark)], [Dual Awoken Ambitious Commander Mode I (Cid Raines)], [Dark/Holy Resonance +5% Boost] to user."
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Ambitious Commander Mode II (Cid Raines)] to the user"
     }
   ]

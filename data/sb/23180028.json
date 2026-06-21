@@ -2,36 +2,36 @@
   "id": "23180028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23180028/23180028_256.png",
   "character": "King",
-  "name": "Burst Break: King (Break Arte)",
+  "name": "Burst Break: King (Break Glint)",
   "name_jp": "烈破・キング",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "Type-0",
   "elements": [
-    "Fire",
-    "Ice",
     "Lightning",
-    "Earth",
-    "Wind",
-    "Water",
-    "Holy",
-    "Dark",
-    "Poison",
     "NE"
   ],
   "type": "PHY",
-  "target": "Single enemy",
+  "target": "All enemies",
   "lensable": false,
-  "effects": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: King], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking].",
+  "effects": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Instant ATB 1] to user.",
   "description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: King], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
       "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: King], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]."
     }
   ]

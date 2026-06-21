@@ -16,12 +16,20 @@
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ward], [ATK +500 (25s) (Tactical)] to user. Grants [200% ATB 1] to user, Laguna, and Kiros if Laguna or Kiros is alive."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999, ranged. Grants [Water, Ice, Earth Damage Cap +20000 (Tactical)], [Water, Ice, Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants Deadly Strikes +20% (15s)] to all allies if 4+ Dragoon allies are alive or Kiros or Laguna is alive, grants [Water, Ice, Earth Ability +50% Boost (Tactical)], [Water, Ice, Earth 142% ATB Quick Cycle (Tactical)] to user if not."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Ward], [ATK +500 (25s) (Tactical)] to user. Grants [200% ATB 1] to user, Laguna, and Kiros if Laguna or Kiros is alive."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999, ranged. Grants [Water, Ice, Earth Damage Cap +20000 (Tactical)], [Water, Ice, Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants Deadly Strikes +20% (15s)] to all allies if 4+ Dragoon allies are alive or Kiros or Laguna is alive, grants [Water, Ice, Earth Ability +50% Boost (Tactical)], [Water, Ice, Earth 142% ATB Quick Cycle (Tactical)] to user if not."
     }
   ]
 }

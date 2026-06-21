@@ -2,25 +2,36 @@
   "id": "20770030",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770030/20770030_256.png",
   "character": "Hope",
-  "name": "Awoken Reflecting Arc (Dual Shift)",
+  "name": "Awoken Reflecting Arc",
   "name_jp": "覚醒Rブーメラン",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "XIII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with 2 single-target Holy/NE Overflow summon magic attacks, Holy Ability Damage +50% for 2 turns to user",
+  "effects": "7 single-target Holy/NE summon magic attacks at Cap Break Level 1, MAG & MND +50%, Holy Damage +30%, Cap Break Level 1, Dual Awoken Holy Mode I & Holy Ability Damage +5% to user\nDual Awoken Holy Mode I: Holy Ability Boost, Triplecast Holy & Quick Holy",
   "description": [
     {
       "name": "Entry",
+      "text": "7 single-target Holy/NE summon magic attacks at Cap Break Level 1, MAG & MND +50%, Holy Damage +30%, Cap Break Level 1, Dual Awoken Holy Mode I & Holy Ability Damage +5% to user\nDual Awoken Holy Mode I: Holy Ability Boost, Triplecast Holy & Quick Holy"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with 2 single-target Holy/NE Overflow summon magic attacks, Holy Ability Damage +50% for 2 turns to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "7 single-target Holy/NE summon magic attacks at Cap Break Level 1, MAG & MND +50%, Holy Damage +30%, Cap Break Level 1, Dual Awoken Holy Mode I & Holy Ability Damage +5% to user\nDual Awoken Holy Mode I: Holy Ability Boost, Triplecast Holy & Quick Holy"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Holy Mode II to user\nDual Awoken Holy Mode II: Holy Ability Boost, Instant Holy & chases a Holy ability with 2 single-target Holy/NE Overflow summon magic attacks, Holy Ability Damage +50% for 2 turns to user"
     }
   ]

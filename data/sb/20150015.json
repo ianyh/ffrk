@@ -19,12 +19,20 @@
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Aurochs Reels level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Wakka from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Water], [Quick Cast 3], [SB Gauge +25% Boost 3], [Arcane Dyad Empowered: Wakka], [Apex Aurochs Reels Ability Tracker] and [Apex Aurochs Reels Level]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Ten single ranged attacks (1.00/1.10 each) capped at 9999/19999, followed by one single ranged attack (10.00/11.00) capped at 99999 at Apex Aurochs Reels level 0/1, grants [Instant Cast 1] to all allies, removes Arcane Dyad Empowered: Wakka from the user"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Attach Water], [Quick Cast 3], [SB Gauge +25% Boost 3], [Arcane Dyad Empowered: Wakka], [Apex Aurochs Reels Ability Tracker] and [Apex Aurochs Reels Level]"
     }
   ]
 }

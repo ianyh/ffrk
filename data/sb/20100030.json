@@ -2,28 +2,33 @@
   "id": "20100030",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100030/20100030_256.png",
   "character": "Terra",
-  "name": "Trance (Terra)",
+  "name": "Trance (Terra) (Engaged)",
   "name_jp": "トランス【ティナ】",
   "tier": "ADSB",
   "sb_version": "ADSB2",
   "realm": "VI",
-  "elements": [
-    "Wind",
-    "NE"
-  ],
-  "type": "BLK",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": true,
-  "effects": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Trance (Terra) level 0/1/2, removes Arcane Dyad Empowered: Terra (Wind) from the user",
+  "effects": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Terra (Wind)], [Trance (Terra) Damage Tracker] and [Trance (Terra) Level]",
   "description": [
     {
       "name": "Entry",
+      "text": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Terra (Wind)], [Trance (Terra) Damage Tracker] and [Trance (Terra) Level]"
+    },
+    {
+      "name": "Terra",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Trance (Terra) level 0/1/2, removes Arcane Dyad Empowered: Terra (Wind) from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Grants [Attach Wind with Stacking], [Damage Cap +10000], [Arcane Dyad Empowered: Terra (Wind)], [Trance (Terra) Damage Tracker] and [Trance (Terra) Level]"
+    },
+    {
+      "name": "Terra",
       "text": "Twenty single attacks (3.15/3.50/3.85 each) capped at 9999/19999/29999, followed by one single attack (34.60/38.06/41.52) capped at 99999 at Trance (Terra) level 0/1/2, removes Arcane Dyad Empowered: Terra (Wind) from the user"
     }
   ]

@@ -2,25 +2,36 @@
   "id": "22820018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820018/22820018_256.png",
   "character": "Shelke",
-  "name": "Awoken Transparent Glimmer (Dual Shift)",
+  "name": "Awoken Transparent Glimmer",
   "name_jp": "覚醒無式・連閃",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "VII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Stormborn Mode II (Shelke)]",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Stormborn Mode I (Shelke)] and [Celerity/Support Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Stormborn Mode I (Shelke)] and [Celerity/Support Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Stormborn Mode II (Shelke)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Stormborn Mode I (Shelke)] and [Celerity/Support Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Stormborn Mode II (Shelke)]"
     }
   ]

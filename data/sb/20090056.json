@@ -2,25 +2,38 @@
   "id": "20090056",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090056/20090056_256.png",
   "character": "Rydia",
-  "name": "Awoken Feymarch Frontier (Dual Shift)",
+  "name": "Awoken Feymarch Frontier",
   "name_jp": "覚醒幻獣界への越境",
   "tier": "DASB",
   "sb_version": "DASB4",
   "realm": "IV",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Water",
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Instant ATB 1 & Dual Awoken Summoning Mode II to user\nDual Awoken Summoning Mode II: Summoning Ability Boost, Instant Summoning & chases a Summoning ability with 8 single-target Water/Earth/Holy/NE summon magic attacks (1.50 each) and single-target Water/Earth/Holy/NE summon magic attack (7.50) capped at 99999, Summoning Ability Damage +30% for 3 turns & Smart Ether 3 to user",
+  "effects": "7 single-target summon magic attacks (3.05 each) capped at 19999, MAG & MND +50%, Water/Earth/Holy Damage +30%, Cap Break Level 1, Dual Awoken Summoning Mode I & Summoning Ability Damage +5% to user\nDual Awoken Summoning Mode I: Summoning Ability Boost, Triplecast Summoning & Quick Summoning",
   "description": [
     {
       "name": "Entry",
+      "text": "7 single-target summon magic attacks (3.05 each) capped at 19999, MAG & MND +50%, Water/Earth/Holy Damage +30%, Cap Break Level 1, Dual Awoken Summoning Mode I & Summoning Ability Damage +5% to user\nDual Awoken Summoning Mode I: Summoning Ability Boost, Triplecast Summoning & Quick Summoning"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Summoning Mode II to user\nDual Awoken Summoning Mode II: Summoning Ability Boost, Instant Summoning & chases a Summoning ability with 8 single-target Water/Earth/Holy/NE summon magic attacks (1.50 each) and single-target Water/Earth/Holy/NE summon magic attack (7.50) capped at 99999, Summoning Ability Damage +30% for 3 turns & Smart Ether 3 to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "7 single-target summon magic attacks (3.05 each) capped at 19999, MAG & MND +50%, Water/Earth/Holy Damage +30%, Cap Break Level 1, Dual Awoken Summoning Mode I & Summoning Ability Damage +5% to user\nDual Awoken Summoning Mode I: Summoning Ability Boost, Triplecast Summoning & Quick Summoning"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Instant ATB 1 & Dual Awoken Summoning Mode II to user\nDual Awoken Summoning Mode II: Summoning Ability Boost, Instant Summoning & chases a Summoning ability with 8 single-target Water/Earth/Holy/NE summon magic attacks (1.50 each) and single-target Water/Earth/Holy/NE summon magic attack (7.50) capped at 99999, Summoning Ability Damage +30% for 3 turns & Smart Ether 3 to user"
     }
   ]

@@ -16,12 +16,20 @@
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Bartz (Earth)], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ally 200% ATB 1 Follow-Up (Tactical)] to user/[Earth Ability FFV Boost (Tactical)] to user if there are 0-2/3+ FFV allies in the party."
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Bartz (Earth)], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Earth Damage Cap +20000 (Tactical)], [Earth Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Earth Ally 200% ATB 1 Follow-Up (Tactical)] to user/[Earth Ability FFV Boost (Tactical)] to user if there are 0-2/3+ FFV allies in the party."
     }
   ]
 }

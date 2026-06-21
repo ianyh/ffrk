@@ -2,25 +2,38 @@
   "id": "20880020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880020/20880020_256.png",
   "character": "Lulu",
-  "name": "Awoken Triple Trick (Dual Shift)",
+  "name": "Awoken Triple Trick",
   "name_jp": "覚醒トリプルトリック",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "X",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Ice",
+    "Water",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Buff Ice 30% (5s)], [Buff Lightning 30% (5s)], [Buff Water 30% (5s)], [Instant ATB 1] and [Dual Awoken Wisdom Mode II (Lulu)], removes [Dual Awoken Wisdom Mode I (Lulu)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Triple Sphere Mode II (Ice, Lightning, Water)], [Damage Cap +10000], [Dual Awoken Wisdom Mode I (Lulu)] and [Ice/Water/Lightning Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Triple Sphere Mode II (Ice, Lightning, Water)], [Damage Cap +10000], [Dual Awoken Wisdom Mode I (Lulu)] and [Ice/Water/Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Buff Ice 30% (5s)], [Buff Lightning 30% (5s)], [Buff Water 30% (5s)], [Instant ATB 1] and [Dual Awoken Wisdom Mode II (Lulu)], removes [Dual Awoken Wisdom Mode I (Lulu)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Triple Sphere Mode II (Ice, Lightning, Water)], [Damage Cap +10000], [Dual Awoken Wisdom Mode I (Lulu)] and [Ice/Water/Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Buff Ice 30% (5s)], [Buff Lightning 30% (5s)], [Buff Water 30% (5s)], [Instant ATB 1] and [Dual Awoken Wisdom Mode II (Lulu)], removes [Dual Awoken Wisdom Mode I (Lulu)]"
     }
   ]

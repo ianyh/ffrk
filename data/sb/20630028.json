@@ -2,25 +2,36 @@
   "id": "20630028",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630028/20630028_256.png",
   "character": "Golbez",
-  "name": "Awoken Twin Moon (Dual Shift)",
+  "name": "Awoken Twin Moon",
   "name_jp": "覚醒双月",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "IV",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Golbez II)]",
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Golbez)] and [Dark Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Golbez)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Golbez II)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Golbez)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Golbez II)]"
     }
   ]

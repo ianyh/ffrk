@@ -2,25 +2,36 @@
   "id": "22030018",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22030018/22030018_256.png",
   "character": "Fang",
-  "name": "Awoken Whirlwind (Dual Shift)",
+  "name": "Awoken Whirlwind",
   "name_jp": "覚醒エアリアルレイヴ",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XIII",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Mode II (Fang)], removes [Dual Awoken Dragoon Mode I (Fang)]",
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang)] and [Dragoon Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Mode II (Fang)], removes [Dual Awoken Dragoon Mode I (Fang)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Dragoon Mode I (Fang)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant ATB 1] and [Dual Awoken Dragoon Mode II (Fang)], removes [Dual Awoken Dragoon Mode I (Fang)]"
     }
   ]

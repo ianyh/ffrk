@@ -2,28 +2,33 @@
   "id": "20770034",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770034/20770034_256.png",
   "character": "Hope",
-  "name": "War-Awoken Heaven's Judgement (Weapon Skill)",
+  "name": "War-Awoken Heaven's Judgement",
   "name_jp": "戦醒天穹の審判",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "XIII",
-  "elements": [
-    "Holy",
-    "NE"
-  ],
-  "type": "SUM",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Holy/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, Holy Ability Damage +40% & Instant Holy to user",
+  "effects": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Holy Ability Boost, Triplecast Holy, Unlimited Holy Hones, Cap Break Level 1 to Holy Abilities, Holy Ability Damage +30% & 20% DEF/RES Pierce to Holy Abilities; Ends after using 8 Holy abilities\nTP Max: AOE Holy/NE summon magic attack at True Cap Break Level 1",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Holy Ability Boost, Triplecast Holy, Unlimited Holy Hones, Cap Break Level 1 to Holy Abilities, Holy Ability Damage +30% & 20% DEF/RES Pierce to Holy Abilities; Ends after using 8 Holy abilities\nTP Max: AOE Holy/NE summon magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Holy/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, Holy Ability Damage +40% & Instant Holy to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 MAG to user\nTactical Awoken Mode: Holy Ability Boost, Triplecast Holy, Unlimited Holy Hones, Cap Break Level 1 to Holy Abilities, Holy Ability Damage +30% & 20% DEF/RES Pierce to Holy Abilities; Ends after using 8 Holy abilities\nTP Max: AOE Holy/NE summon magic attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Holy/NE piercing summon magic attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Holy Abilities, and Weapon Skill Blue/Gold with at least Lv.0/2 En-Holy\nWS Blue: Lv.2 En-Holy Stack to user\nWS Gold: During Tactical Awoken Mode, Holy Ability Damage +40% & Instant Holy to user"
     }
   ]

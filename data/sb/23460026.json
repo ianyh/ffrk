@@ -2,7 +2,7 @@
   "id": "23460026",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460026/23460026_256.png",
   "character": "Lunafreya",
-  "name": "War-Awoken Final Duty (Weapon Skill)",
+  "name": "War-Awoken Final Duty",
   "name_jp": "戦醒最期の使命",
   "tier": "TASB",
   "sb_version": "TASB1",
@@ -16,11 +16,19 @@
     {
       "name": "Entry",
       "text": ""
+    },
+    {
+      "name": "Weapon Skill",
+      "text": ""
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Weapon Skill",
       "text": ""
     }
   ]

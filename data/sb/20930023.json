@@ -2,25 +2,37 @@
   "id": "20930023",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930023/20930023_256.png",
   "character": "Faris",
-  "name": "Awoken Essence of Flame (Dual Shift)",
+  "name": "Awoken Essence of Flame",
   "name_jp": "覚醒炎の心「勇気」",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "V",
-  "elements": [],
-  "type": "NAT",
+  "elements": [
+    "Wind",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Thief Mode II: Faris] to the user, removes [Dual Awoken Thief Mode I: Faris] from the user",
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Thief Mode I: Faris], [Twin Element Mode II (Fire, Wind)] and [Wind/Fire Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Thief Mode I: Faris], [Twin Element Mode II (Fire, Wind)] and [Wind/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Thief Mode II: Faris] to the user, removes [Dual Awoken Thief Mode I: Faris] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Thief Mode I: Faris], [Twin Element Mode II (Fire, Wind)] and [Wind/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Thief Mode II: Faris] to the user, removes [Dual Awoken Thief Mode I: Faris] from the user"
     }
   ]

@@ -2,25 +2,36 @@
   "id": "22620015",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620015/22620015_256.png",
   "character": "Vayne",
-  "name": "Awoken Relentless Drive (Dual Shift)",
+  "name": "Awoken Relentless Drive",
   "name_jp": "覚醒不撓邁進",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "XII",
-  "elements": [],
+  "elements": [
+    "Dark",
+    "NE"
+  ],
   "type": "NAT",
-  "target": "All allies",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Vayne)], removes [Dual Awoken Darkness Mode I (Vayne)]",
+  "effects": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I (Vayne)] and [Darkness Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I (Vayne)] and [Darkness Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Vayne)], removes [Dual Awoken Darkness Mode I (Vayne)]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I (Vayne)] and [Darkness Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Vayne)], removes [Dual Awoken Darkness Mode I (Vayne)]"
     }
   ]

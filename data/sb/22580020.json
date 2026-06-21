@@ -2,25 +2,38 @@
   "id": "22580020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22580020/22580020_256.png",
   "character": "Master",
-  "name": "Awoken Empty Fist (Dual Shift)",
+  "name": "Awoken Empty Fist",
   "name_jp": "覚醒無手の頂",
   "tier": "DASB",
   "sb_version": "DASB2",
   "realm": "I",
-  "elements": [],
-  "type": "NAT",
-  "target": "Self",
+  "elements": [
+    "Earth",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1], [Dual Awoken Monk Mode II (Master v2)] to the user",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Rousing Charge Mode II (Fire, Lightning, Earth)], [Monk Resonance +5% Boost], [Dual Awoken Monk Mode I (Master v2)] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Rousing Charge Mode II (Fire, Lightning, Earth)], [Monk Resonance +5% Boost], [Dual Awoken Monk Mode I (Master v2)] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1], [Dual Awoken Monk Mode II (Master v2)] to the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Rousing Charge Mode II (Fire, Lightning, Earth)], [Monk Resonance +5% Boost], [Dual Awoken Monk Mode I (Master v2)] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1], [Dual Awoken Monk Mode II (Master v2)] to the user"
     }
   ]

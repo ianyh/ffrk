@@ -2,28 +2,44 @@
   "id": "22120035",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22120035/22120035_256.png",
   "character": "Minwu",
-  "name": "Burst Break: Minwu (Break Arte)",
+  "name": "Burst Break: Minwu (Break Glint)",
   "name_jp": "烈破・ミンウ",
   "tier": "Buster",
   "sb_version": "Buster1",
   "realm": "II",
   "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
     "Holy",
+    "Dark",
+    "Poison",
     "NE"
   ],
   "type": "WHT",
   "target": "Single enemy",
   "lensable": false,
-  "effects": "One single Overflow attack, grants [Instant ATB 1] to user",
+  "effects": "One single Overflow attack, grants En-Holy Super Stack, Burst Strike & [Instant ATB 1] to user\nBurst Strike: After using Holy abilities, chases with 6 single-target Holy/NE white magic attacks (max 5 chases)",
   "description": [
     {
       "name": "Entry",
+      "text": "One single Overflow attack, grants En-Holy Super Stack, Burst Strike & [Instant ATB 1] to user\nBurst Strike: After using Holy abilities, chases with 6 single-target Holy/NE white magic attacks (max 5 chases)"
+    },
+    {
+      "name": "Break Arte",
       "text": "One single Overflow attack, grants [Instant ATB 1] to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "One single Overflow attack, grants En-Holy Super Stack, Burst Strike & [Instant ATB 1] to user\nBurst Strike: After using Holy abilities, chases with 6 single-target Holy/NE white magic attacks (max 5 chases)"
+    },
+    {
+      "name": "Break Arte",
       "text": "One single Overflow attack, grants [Instant ATB 1] to user"
     }
   ]

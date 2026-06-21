@@ -2,25 +2,33 @@
   "id": "23270020",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23270020/23270020_256.png",
   "character": "Sice",
-  "name": "War-Awoken Venom Reaper (Weapon Skill)",
+  "name": "War-Awoken Venom Reaper",
   "name_jp": "戦醒ヴェノムリーパー",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "Type-0",
   "elements": [],
-  "type": "PHY",
-  "target": "Single enemy",
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Dark/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Bio Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark/Bio\nWS Blue: Lv.3 En-Dark/Bio Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 to Dark/Bio Abilities, Dark/Bio Ability Damage +50% & Quick Dark/Bio to user",
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark/Bio Ability Boost, Triplecast Dark/Bio, Unlimited Dark/Bio Hones, Cap Break Level 1 to Dark/Bio Abilities, Dark/Bio Ability Damage +30% & ATB Speed x1.1 to Dark/Bio Abilities; Ends after using 8 Dark/Bio abilities\nTP Max: AOE Dark/NE or Bio/NE physical attack at True Cap Break Level 1 under En-Dark or En-Bio",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark/Bio Ability Boost, Triplecast Dark/Bio, Unlimited Dark/Bio Hones, Cap Break Level 1 to Dark/Bio Abilities, Dark/Bio Ability Damage +30% & ATB Speed x1.1 to Dark/Bio Abilities; Ends after using 8 Dark/Bio abilities\nTP Max: AOE Dark/NE or Bio/NE physical attack at True Cap Break Level 1 under En-Dark or En-Bio"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Dark/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Bio Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark/Bio\nWS Blue: Lv.3 En-Dark/Bio Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 to Dark/Bio Abilities, Dark/Bio Ability Damage +50% & Quick Dark/Bio to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Dark/Bio Ability Boost, Triplecast Dark/Bio, Unlimited Dark/Bio Hones, Cap Break Level 1 to Dark/Bio Abilities, Dark/Bio Ability Damage +30% & ATB Speed x1.1 to Dark/Bio Abilities; Ends after using 8 Dark/Bio abilities\nTP Max: AOE Dark/NE or Bio/NE physical attack at True Cap Break Level 1 under En-Dark or En-Bio"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Dark/Bio/NE piercing physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Dark/Bio Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Dark/Bio\nWS Blue: Lv.3 En-Dark/Bio Stack to user\nWS Gold: During Tactical Awoken Mode, Cap Break Level 3 to Dark/Bio Abilities, Dark/Bio Ability Damage +50% & Quick Dark/Bio to user"
     }
   ]

@@ -2,25 +2,36 @@
   "id": "20650022",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650022/20650022_256.png",
   "character": "Galuf",
-  "name": "Awoken Laws of Nature (Dual Shift)",
+  "name": "Awoken Laws of Nature",
   "name_jp": "覚醒天理人情",
   "tier": "DASB",
   "sb_version": "DASB1",
   "realm": "V",
-  "elements": [],
-  "type": "NAT",
-  "target": "All allies",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "Grants [Last Stand], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Galuf)] to the user, removes [Dual Awoken Earth Mode I (Galuf)] from the user",
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Galuf)] and [Earth Resonance +5% Boost] to the user",
   "description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Galuf)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Last Stand], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Galuf)] to the user, removes [Dual Awoken Earth Mode I (Galuf)] from the user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Galuf)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Shift",
       "text": "Grants [Last Stand], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Galuf)] to the user, removes [Dual Awoken Earth Mode I (Galuf)] from the user"
     }
   ]

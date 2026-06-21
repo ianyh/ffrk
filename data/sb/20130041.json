@@ -2,28 +2,33 @@
   "id": "20130041",
   "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20130041/20130041_256.png",
   "character": "Tidus",
-  "name": "War-Awoken Azure Shot (Weapon Skill)",
+  "name": "War-Awoken Azure Shot",
   "name_jp": "戦醒アズールシュート",
   "tier": "TASB",
   "sb_version": "TASB1",
   "realm": "X",
-  "elements": [
-    "Water",
-    "NE"
-  ],
-  "type": "PHY",
-  "target": "Single enemy",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "Single-target Water/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Water Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Water\nWS Blue: Lv.2 En-Water Stack to user\nWS Gold: 500 SB Points to user",
+  "effects": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Water Ability Boost, Triplecast Water, Unlimited Water Hones, Cap Break Level 1 to Water Abilities, Water Ability Damage +30% & 20% DEF/RES Pierce to Water Abilities; Ends after using 8 Water abilities\nTP Max: AOE Water/NE ranged physical attack at True Cap Break Level 1",
   "description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Water Ability Boost, Triplecast Water, Unlimited Water Hones, Cap Break Level 1 to Water Abilities, Water Ability Damage +30% & 20% DEF/RES Pierce to Water Abilities; Ends after using 8 Water abilities\nTP Max: AOE Water/NE ranged physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Water/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Water Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Water\nWS Blue: Lv.2 En-Water Stack to user\nWS Gold: 500 SB Points to user"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
+      "text": "Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Water Ability Boost, Triplecast Water, Unlimited Water Hones, Cap Break Level 1 to Water Abilities, Water Ability Damage +30% & 20% DEF/RES Pierce to Water Abilities; Ends after using 8 Water abilities\nTP Max: AOE Water/NE ranged physical attack at True Cap Break Level 1"
+    },
+    {
+      "name": "Weapon Skill",
       "text": "Single-target Water/NE piercing ranged physical attack at True Cap Break Level 1, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & 30% DEF/RES Pierce to Water Abilities, and Weapon Skill Blue/Gold with at least Lv.0/3 En-Water\nWS Blue: Lv.2 En-Water Stack to user\nWS Gold: 500 SB Points to user"
     }
   ]

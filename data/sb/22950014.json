@@ -20,12 +20,20 @@
     {
       "name": "Entry",
       "text": "20 single-target physical attacks (1.00/1.10/1.20 each) & single-target physical attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode"
+    },
+    {
+      "name": "Engaged",
+      "text": "Twin Element Mode II, Cap Break Level 1 & True Arcane Augment Mode to user\nTwin Element Mode II: En-Earth Stack or En-Holy Stack\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Unyielding Blade if at least 100001/300001 damage is dealt"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "20 single-target physical attacks (1.00/1.10/1.20 each) & single-target physical attack (10.00/11.00/12.00) capped at 99999, removes True Arcane Augment Mode"
+    },
+    {
+      "name": "Engaged",
+      "text": "Twin Element Mode II, Cap Break Level 1 & True Arcane Augment Mode to user\nTwin Element Mode II: En-Earth Stack or En-Holy Stack\nTrue Arcane Augment Mode: Cap Break Level 1/2 for Apex Unyielding Blade if at least 100001/300001 damage is dealt"
     }
   ]
 }
