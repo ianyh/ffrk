@@ -55,18 +55,18 @@ class SoulBreak():
 
     def encoded(self):
         return dict({
-            "description": [d.encoded() for d in self.description()],
-            "card_description": [d.encoded() for d in self.card_description()]
+            "description": [d.encoded() for d in self.get_description()],
+            "card_description": [d.encoded() for d in self.get_card_description()]
         }, **self.sb_rows[0])
 
-    def description(self) -> list[DescriptionSection]:
-        return [s for s in self.ordered_sections(is_card=False) if s is not None]
+    def get_description(self) -> list[DescriptionSection]:
+        return [s for s in self.get_ordered_sections(is_card=False) if s is not None]
 
-    def card_description(self) -> list[DescriptionSection]:
-        return [s for s in self.ordered_sections(is_card=True) if s is not None]
+    def get_card_description(self) -> list[DescriptionSection]:
+        return [s for s in self.get_ordered_sections(is_card=True) if s is not None]
 
-    def ordered_sections(self, is_card: bool) -> list[DescriptionSection]:
-        primary_sections = self.sections()
+    def get_ordered_sections(self, is_card: bool) -> list[DescriptionSection]:
+        primary_sections = self.get_sections()
         collected_sections: list[DescriptionSection] = []
         # take the defined key ordering to populate the list of known sections
         for key in self.section_key_ordering(is_card):
@@ -92,14 +92,14 @@ class SoulBreak():
         # if there are other sb_rows, we just take the entry for each
         secondary_entries = []
         for secondary in self.secondaries():
-            secondary_entry = SoulBreak(self.data, [secondary]).sections().get("entry")
+            secondary_entry = SoulBreak(self.data, [secondary]).get_sections().get("entry")
             if secondary_entry:
                 secondary_entries.append(DescriptionSection(secondary_label(secondary["name"]), secondary_entry.entry))
         collected_sections.extend([s for s in secondary_entries if s is not None])
 
         return collected_sections
     
-    def sections(self) -> Dict[str, DescriptionSection]:
+    def get_sections(self) -> Dict[str, DescriptionSection]:
         entry_effects = self.sb_rows[0]["effects"]
         sections = {
             "entry": DescriptionSection("Entry", entry_effects)

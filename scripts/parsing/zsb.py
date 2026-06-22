@@ -29,47 +29,57 @@ class ZSB(SoulBreak):
             "other",
             "other_status"
         ]
-    
-    def sections(self) -> Dict[str, DescriptionSection]:
-        sections: dict[str, DescriptionSection] = {
-            "entry": DescriptionSection("Entry", self.sb["effects"])
-        }
 
+    def get_ha_plus_sections(self) -> SubsectionDescriptionSection:
         # try to find the upgraded has
         ha_sections: list[DescriptionSection] = []
         sb_name = self.sb["name"]
         has: list[dict] = list(filter(lambda h: h["Source"] == sb_name, self.data.readers["ua_abilities"]))
         for ha in has:
-                ha_sections.append(DescriptionSection(ha["Name"], ha["Effects"]))
-        sections["ha+"] = SubsectionDescriptionSection("ha+", "", ha_sections)
+            ha_sections.append(DescriptionSection(ha["Name"], ha["Effects"]))
+        return SubsectionDescriptionSection("ha+", "", ha_sections)
 
-        sb_statuses = extract_statuses(self.sb["effects"])
-
-        # try to find the character specific mode
-        zenith_mode_name = next((status for status in sb_statuses if status.startswith("Zenith Mode: ")), None)
-        zenith_mode = self.data.status_with_name(zenith_mode_name)
-        if zenith_mode_name is not None and zenith_mode is not None:
+    def get_zenith_sections(self) -> Dict[str, DescriptionSection]:
+        sections: Dict[str, DescriptionSection] = {}
+        # try to find the mode itself
+        zenith_mode = self.data.status_in_effects_by_prefix(self.sb["effects"], "Zenith Mode:")
+        if zenith_mode is not None:
+            zenith_mode_name = zenith_mode["Common Name"]
             sections["mode"] = DescriptionSection(zenith_mode_name, zenith_mode["Effects"])
 
             # if we have the character specific mode then try to extract a spirit attack
-            zenith_mode_actions = extract_with_prefix(zenith_mode["Effects"], "Spirit Attack")
-            spirit_attack_name = zenith_mode_actions[0] if len(zenith_mode_actions) > 0 else None
-            if spirit_attack_name:
-                spirit_attack = self.data.other_with_name(spirit_attack_name)
-                if spirit_attack is not None:
-                    sections["spirit_attack"] = DescriptionSection(spirit_attack["Name"], spirit_attack["Effects"])
+            spirit_attack = self.data.other_in_effects_by_prefix(zenith_mode["Effects"], "Spirit Attack")
+            if spirit_attack is not None:
+                sections["spirit_attack"] = DescriptionSection(spirit_attack["Name"], spirit_attack["Effects"])
+
+            # grab any other effects that might come from the mode
+            spirit_attack_name = spirit_attack["Name"] if spirit_attack is not None else None
             others = [other for other in self.data.others_with_source(zenith_mode_name) if other["Name"] != spirit_attack_name]
             if others:
                 sections["other"] = SubsectionDescriptionSection("other", "", [DescriptionSection(o["Name"], o["Effects"]) for o in others])
-        else:
-            print(f"zenith mode not found: {zenith_mode} {zenith_mode_name}")
-        
-        # add sections for each non-mode status
+        return sections
+
+    def get_remaining_statuses(self, sections: Dict[str, DescriptionSection]) -> SubsectionDescriptionSection:
+        zenith_mode_name = sections["mode"].name if "mode" in sections else None
         other_statuses: list[DescriptionSection] = []
-        for status_name in [s for s in sb_statuses if s != zenith_mode_name]:
+        for status_name in extract_statuses(self.sb["effects"], excluding=zenith_mode_name):
             status_details = self.data.status_with_name(status_name)
             if status_details:
                 other_statuses.append(DescriptionSection(status_name, status_details["Effects"]))
-        sections["other_status"] = SubsectionDescriptionSection("other_status", "", other_statuses)
+        return SubsectionDescriptionSection("other_status", "", other_statuses)
+    
+    def get_sections(self) -> Dict[str, DescriptionSection]:
+        sections: dict[str, DescriptionSection] = {
+            "entry": DescriptionSection("Entry", self.sb["effects"])
+        }
+
+        # try to find the upgraded has
+        sections["ha+"] = self.get_ha_plus_sections()
+
+        # try to find the character specific mode details (mode, spirit attack, anything else related)
+        sections.update(self.get_zenith_sections())
+        
+        # add sections for each non-mode status
+        sections["other_status"] = self.get_remaining_statuses(sections)
             
         return sections

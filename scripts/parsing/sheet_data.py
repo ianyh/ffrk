@@ -8,12 +8,12 @@ ELEMENT_SPLIT = r'\s*(?:,\s*(?:and|or)\s*|,\s*|/\s*|\s+(?:and|or)\s+)\s*'
 
 
 STATUS_RE = re.compile(r"\[([^\]]+)\]")
-def extract_statuses(text: str) -> list[str]:
+def extract_statuses(text: str, excluding: str | None = None) -> list[str]:
     """List the [bracketed] status names in `text`, first-seen order, de-duped."""
     seen, out = set(), []
     for name in STATUS_RE.findall(text):
         name = name.strip()
-        if name and name not in seen:
+        if name and name not in seen and name != excluding:
             seen.add(name)
             out.append(name)
     return out
@@ -60,6 +60,16 @@ class SheetData():
         for name in CSV_NAMES:
             csv_path = csv_dir / f"{name}.csv"
             self.readers[name] = list(csv.DictReader(open(csv_path, encoding="utf-8")))
+
+    def status_in_effects_by_prefix(self, effects: str, prefix: str) -> dict | None:
+        extracted_names = extract_with_prefix(effects, prefix)
+        status_name = extracted_names[0] if len(extracted_names) == 1 else None
+        return self.status_with_name(status_name) if status_name else None
+
+    def other_in_effects_by_prefix(self, effects: str, prefix: str) -> dict | None:
+        extracted_names = extract_with_prefix(effects, prefix)
+        other_name = extracted_names[0] if len(extracted_names) == 1 else None
+        return self.other_with_name(other_name) if other_name else None
 
     def others_with_source(self, source) -> list[dict]:
         return [other for other in self.readers["other"] if other["Source"] == source]

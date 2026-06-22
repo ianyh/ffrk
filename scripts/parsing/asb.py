@@ -21,7 +21,7 @@ class ASB(SoulBreak):
             "chase"
         ]
 
-    def sections(self) -> Dict[str, DescriptionSection]:
+    def get_sections(self) -> Dict[str, DescriptionSection]:
         sections: dict[str, DescriptionSection] = {
             "entry": DescriptionSection("Entry", self.sb["effects"])
         }
@@ -41,7 +41,5 @@ class ASB(SoulBreak):
             for other in others:
                 others_sections.append(DescriptionSection(other["Name"], other["Effects"]))
             sections["other"] = SubsectionDescriptionSection("other", "", others_sections)
-        else:
-            print(f"accel mode not found: {accel_mode} {accel_mode_name}")
             
         return sections
