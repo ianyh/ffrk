@@ -38,7 +38,8 @@ class Parser():
                 "type": row["Type"],
                 "target": row["Target"],
                 "lensable": row["Anima"] != "",
-                "effects": row["Effects"]
+                "effects": row["Effects"],
+                "verified": row["✓"] == "✓",
             }
             try:
                 sb_rows_by_char_tier_version[(sb["character"], sb["tier"], sb["sb_version"])].append(sb)
