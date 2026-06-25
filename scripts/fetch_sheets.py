@@ -39,7 +39,8 @@ def main():
         "other": 2001933731,
         "status": 1899148923,
         "cf_commands": 712869111,
-        "ua_abilities": 1801274757
+        "ua_abilities": 1801274757,
+        "synchro_commands": 13552509,
     }
 
     for name, gid in GIDS.items():

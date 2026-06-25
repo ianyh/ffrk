@@ -47,6 +47,7 @@ CSV_NAMES = [
     "other",
     "status",
     "cf_commands",
+    "synchro_commands",
     "ua_abilities"
 ]
 class SheetData():
