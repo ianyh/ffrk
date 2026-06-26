@@ -34,6 +34,8 @@ class DescriptionSection():
     name: str
     entry: str
     duration: str | None = field(default=None, kw_only=True)
+    condition: str | None = field(default=None, kw_only=True)
+    slot: str | None = field(default=None, kw_only=True)
 
     def encoded(self):
         encoded = {
@@ -42,6 +44,10 @@ class DescriptionSection():
         }
         if self.duration is not None:
             encoded["duration"] = self.duration
+        if self.condition is not None:
+            encoded["condition"] = self.condition
+        if self.slot is not None:
+            encoded["slot"] = self.slot
         return encoded
 
 

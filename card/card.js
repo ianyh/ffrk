@@ -63,7 +63,12 @@ function buildDesc(data) {
     } else {
       const sec = el('span', alt ? 'section alt' : 'section');
       alt = !alt;
-      if (seg.name) sec.append(el('span', 'term', seg.name + ':'), ' ');
+      if (seg.name) {
+        const condition = !!seg.condition ? ` (${seg.condition})` : "";
+        const slot = !!seg.slot ? `${seg.slot} | ` : "";
+        const seg_name = `${slot} ${seg.name}${condition}:`;
+        sec.append(el('span', 'term', seg_name), ' ');
+      }
       appendRich(sec, seg.text || '');
       desc.append(sec, ' ');  // wrap opportunity; the visible gap is .section's margin
     }
