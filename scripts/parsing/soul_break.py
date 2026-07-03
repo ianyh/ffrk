@@ -198,20 +198,48 @@ class SoulBreak():
     def get_card_description(self) -> list[DescriptionSection]:
         return [s for s in self.get_ordered_sections(is_card=True) if s is not None]
 
+    def secondary_sections(self) -> list[DescriptionSection]:
+        """Each secondary row (e.g. a DASB "(Dual Shift)" row): its entry, labeled
+        by its qualifier, followed by the statuses/follow-ups its effects grant,
+        expanded recursively.
+
+        `seen` is seeded with the statuses the primary row already grants directly
+        so we don't re-expand them here — e.g. a Dual Shift that swaps Mode I ->
+        Mode II still names Mode I (when removing it), but Mode I belongs to the
+        primary. Surfaced under the placeable "secondary" ordering key."""
+        sections: list[DescriptionSection] = []
+        seen: set = set(extract_statuses(self.sb["effects"]))
+        for secondary in self.secondaries():
+            effects = secondary["effects"]
+            sections.append(DescriptionSection(secondary_label(secondary["name"]), effects))
+            sections.extend(self.expand_effects(effects, seen))
+        return sections
+
     def get_ordered_sections(self, is_card: bool) -> list[DescriptionSection]:
         primary_sections = self.get_sections()
+        # Secondary rows become a placeable "secondary" section: a tier may put it
+        # anywhere in section_key_ordering (e.g. above the primary's expanded
+        # statuses). If it doesn't, the section trails at the very end as before.
+        secondaries = self.secondary_sections()
+        if secondaries:
+            primary_sections["secondary"] = SubsectionDescriptionSection("secondary", "", secondaries)
+
         collected_sections: list[DescriptionSection] = []
         # take the defined key ordering to populate the list of known sections
         for key in self.section_key_ordering(is_card):
             try:
                 section = primary_sections.pop(key)
-                if isinstance(section, SubsectionDescriptionSection):
-                    collected_sections.extend(section.entries)
-                else:
-                    collected_sections.append(section)
             except KeyError:
                 # lack of presence is fine because it could be an optional field
                 continue
+            if isinstance(section, SubsectionDescriptionSection):
+                collected_sections.extend(section.entries)
+            else:
+                collected_sections.append(section)
+
+        # An un-placed secondary always trails (card and non-card alike), matching
+        # the previous behavior; pull it out before the arbitrary-order leftovers.
+        trailing_secondary = primary_sections.pop("secondary", None)
 
         # if this is not a card we can take the rest of them in arbitrary order
         # otherwise we ignore to keep the card description tightened
@@ -222,13 +250,8 @@ class SoulBreak():
                 else:
                     collected_sections.append(other_section)
 
-        # if there are other sb_rows, we just take the entry for each
-        secondary_entries = []
-        for secondary in self.secondaries():
-            secondary_entry = SoulBreak(self.data, [secondary]).get_sections().get("entry")
-            if secondary_entry:
-                secondary_entries.append(DescriptionSection(secondary_label(secondary["name"]), secondary_entry.entry))
-        collected_sections.extend([s for s in secondary_entries if s is not None])
+        if trailing_secondary is not None:
+            collected_sections.extend(trailing_secondary.entries)
 
         return collected_sections
     
