@@ -2,14 +2,15 @@
 """
 Convert the soul break details sheet into the site's data file.
 
-Reads data/raw/item_details.csv (downloaded by fetch_sheets.py) and writes
-data/all.json, the single file the site consumes. Rows are de-duplicated by ID,
+Reads data/raw/item_details.csv (downloaded by fetch_sheets.py) and writes the
+site's data into the ffrk-json submodule: data/json/all.json (the search index)
+plus one data/json/sb/<id>.json per soul break. Rows are de-duplicated by ID,
 keeping the last occurrence, matching the source spreadsheet's own precedence.
 """
 import argparse
 import json
 import re
-from parsing import SheetData, ELEMENT_SPLIT, ZSB, ASB, SoulBreak
+from parsing import SheetData, ELEMENT_SPLIT, ZSB, ASB, AASB, SASB, CASB, DASB, SoulBreak
 from pathlib import Path
 from typing import Dict
 
@@ -59,6 +60,14 @@ class Parser():
                 return ZSB(self.sheet_data, sb_rows)
             case "ASB":
                 return ASB(self.sheet_data, sb_rows)
+            case "AASB":
+                return AASB(self.sheet_data, sb_rows)
+            case "SASB":
+                return SASB(self.sheet_data, sb_rows)
+            case "CASB":
+                return CASB(self.sheet_data, sb_rows)
+            case "DASB":
+                return DASB(self.sheet_data, sb_rows)
             case _:
                 return SoulBreak(self.sheet_data, sb_rows)
 
