@@ -73,13 +73,13 @@ def main():
     )
     parser.add_argument(
         "--output", type=Path,
-        default=base_path / "data" / "all.json",
-        help="Output JSON file (default: data/all.json)",
+        default=base_path / "data" / "json" / "all.json",
+        help="Output JSON file (default: data/json/all.json)",
     )
     parser.add_argument(
         "--sb-dir", type=Path,
-        default=base_path / "data" / "sb",
-        help="Per-soul-break JSON dir, one <id>.json each (default: data/sb)",
+        default=base_path / "data" / "json" / "sb",
+        help="Per-soul-break JSON dir, one <id>.json each (default: data/json/sb)",
     )
     args = parser.parse_args()
 

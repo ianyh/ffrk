@@ -83,7 +83,7 @@
       $empty.style.display = 'block';
     } else {
       Promise.all(ids.map(id =>
-        fetch(`/data/sb/${id}.json`)
+        fetch(`/data/json/sb/${id}.json`)
           .then(r => (r.ok ? r.json() : null))
           .catch(() => null)
       )).then(results => {

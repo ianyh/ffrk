@@ -53,7 +53,7 @@ function attr(value) {
 let cachedItems = null;
 async function loadItems(origin) {
   if (cachedItems) return cachedItems;
-  const resp = await fetch(`${origin}/data/all.json`, { cf: { cacheTtl: 3600, cacheEverything: true } });
+  const resp = await fetch(`${origin}/data/json/all.json`, { cf: { cacheTtl: 3600, cacheEverything: true } });
   const data = await resp.json();
   const store = {};
   for (const item of data.items) store[item.id] = item;

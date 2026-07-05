@@ -37,7 +37,7 @@ OUT_DIR = BASE / "data" / "og"
 
 
 def serve(root, port):
-    """Background static server so the page can fetch /data/all.json + /card/*."""
+    """Background static server so the page can fetch /data/json/all.json + /card/*."""
     handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=str(root))
     socketserver.TCPServer.allow_reuse_address = True  # avoid TIME_WAIT bind clashes
     httpd = socketserver.TCPServer(("127.0.0.1", port), handler)
@@ -66,7 +66,7 @@ def main():
     p.add_argument("--out", type=Path, default=OUT_DIR)
     args = p.parse_args()
 
-    items = json.loads((BASE / "data" / "all.json").read_text())["items"]
+    items = json.loads((BASE / "data" / "json" / "all.json").read_text())["items"]
     by_id = {it["id"]: it for it in items}
 
     if args.id:

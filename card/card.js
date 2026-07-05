@@ -119,6 +119,6 @@ function buildCard(sb) {
 }
 
 async function loadItems() {
-  const data = await fetch('/data/all.json').then(r => r.json());
+  const data = await fetch('/data/json/all.json').then(r => r.json());
   return data.items;
 }
