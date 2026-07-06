@@ -10,6 +10,9 @@ merge:
 render ID:
     uv run ./scripts/render_card.py --id {{ID}} --show
 
+run:
+    ./scripts/dev.sh
+
 render-all:
     uv run ./scripts/render_card.py
 
