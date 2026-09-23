@@ -1,0 +1,744 @@
+<title>Magicite Loadout Lab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap">
+<style>
+  :root {
+    --ground: #eceff0;
+    --surface: #fbfcfc;
+    --sunken: #e3e8e9;
+    --ink: #111a1e;
+    --muted: #5c6b73;
+    --faint: #879099;
+    --rule: #d2dadd;
+    --rule-strong: #b6c2c6;
+    --accent: #0b7a87;
+    --accent-soft: #d8ecef;
+    --warm: #b0592c;
+    --warm-soft: #f5e3d8;
+    --viz-1: #0b9aa8;
+    --viz-2: #c25a22;
+    --track: #dde3e5;
+    --shadow: 0 1px 2px rgba(17,26,30,.06);
+    --field: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #0d1316; --surface: #141c20; --sunken: #101718;
+      --ink: #e2e9ec; --muted: #8b9ca4; --faint: #6d7c84;
+      --rule: #222e33; --rule-strong: #33434a;
+      --accent: #49c2d1; --accent-soft: #123037;
+      --warm: #df8a60; --warm-soft: #33211a;
+      --viz-1: #1a9aa8; --viz-2: #c06531;
+      --track: #1d282d;
+      --shadow: 0 1px 2px rgba(0,0,0,.4);
+      --field: #0f1619;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #0d1316; --surface: #141c20; --sunken: #101718;
+    --ink: #e2e9ec; --muted: #8b9ca4; --faint: #6d7c84;
+    --rule: #222e33; --rule-strong: #33434a;
+    --accent: #49c2d1; --accent-soft: #123037;
+    --warm: #df8a60; --warm-soft: #33211a;
+    --viz-1: #1a9aa8; --viz-2: #c06531;
+    --track: #1d282d;
+    --shadow: 0 1px 2px rgba(0,0,0,.4);
+    --field: #0f1619;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--ground); color: var(--ink);
+    font-family: Archivo, "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px; line-height: 1.5; -webkit-font-smoothing: antialiased;
+  }
+  code, .mono { font-family: "JetBrains Mono", ui-monospace, Menlo, monospace; }
+
+  .wrap { max-width: 78rem; margin: 0 auto; padding: 1.75rem 1.25rem 4rem;
+          display: flex; flex-direction: column; gap: 1.25rem; }
+
+  header.top { display: flex; flex-wrap: wrap; align-items: baseline; gap: .5rem 1rem;
+               padding-bottom: .9rem; border-bottom: 2px solid var(--rule-strong); }
+  h1 { margin: 0; font-size: 1.5rem; font-weight: 700; letter-spacing: -.02em; }
+  header.top p { margin: 0; font-size: .85rem; color: var(--muted); }
+
+  .cols { display: grid; grid-template-columns: minmax(0,19rem) minmax(0,1fr); gap: 1.25rem; align-items: start; }
+  @media (max-width: 62rem) { .cols { grid-template-columns: minmax(0,1fr); } }
+
+  .card { background: var(--surface); border: 1px solid var(--rule); border-radius: 3px;
+          box-shadow: var(--shadow); }
+  .card > h2 { margin: 0; padding: .7rem .9rem; font-size: .72rem; font-weight: 600;
+               text-transform: uppercase; letter-spacing: .09em; color: var(--muted);
+               background: var(--sunken); border-bottom: 1px solid var(--rule); border-radius: 3px 3px 0 0; }
+  .card > .pad { padding: .9rem; display: flex; flex-direction: column; gap: .85rem; }
+
+  .side { display: flex; flex-direction: column; gap: 1.25rem; }
+
+  /* ---- fields ---- */
+  .seg { display: flex; gap: 0; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; }
+  .seg button { flex: 1; appearance: none; border: 0; background: var(--field); color: var(--muted);
+                font: inherit; font-size: .82rem; font-weight: 600; padding: .4rem .3rem; cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--rule-strong); }
+  .seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+  :root[data-theme="dark"] .seg button[aria-pressed="true"],
+  :root:not([data-theme="light"]) .seg button[aria-pressed="true"] { color: #08141a; }
+
+  .field { display: grid; grid-template-columns: 1fr auto; gap: .2rem .6rem; align-items: baseline; }
+  .field label { font-size: .78rem; color: var(--muted); }
+  .field output { font-family: "JetBrains Mono", monospace; font-size: .82rem; font-weight: 700;
+                  font-variant-numeric: tabular-nums; }
+  .field input[type=range] { grid-column: 1 / -1; width: 100%; accent-color: var(--accent); margin: 0; }
+  .field .hint { grid-column: 1 / -1; font-size: .7rem; color: var(--faint); }
+
+  /* ---- roster ---- */
+  .roster { display: flex; flex-direction: column; gap: .35rem; }
+  .mag { display: grid; grid-template-columns: auto 1fr auto; gap: .55rem; align-items: center;
+         padding: .42rem .55rem; border: 1px solid var(--rule); border-radius: 3px; background: var(--field); }
+  .mag.off { opacity: .42; }
+  .mag input[type=checkbox] { accent-color: var(--accent); margin: 0; }
+  .mag .nm { font-size: .82rem; font-weight: 600; min-width: 0; }
+  .mag .dv { font-size: .7rem; color: var(--muted); font-weight: 400; display: block; }
+  .mag .mainbtn { appearance: none; border: 1px solid var(--rule-strong); background: transparent;
+                  color: var(--faint); font: inherit; font-size: .62rem; font-weight: 700; letter-spacing: .06em;
+                  text-transform: uppercase; padding: .16rem .38rem; border-radius: 2px; cursor: pointer; }
+  .mag .mainbtn[aria-pressed="true"] { background: var(--warm-soft); border-color: var(--warm); color: var(--warm); }
+  .rosterwarn { font-size: .74rem; color: var(--warm); }
+
+  /* ---- allocation ---- */
+  .allochead { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: .5rem; }
+  .slotcount { font-family: "JetBrains Mono", monospace; font-size: .8rem; font-weight: 700; }
+  .slotcount b { font-size: 1.1rem; }
+  .slotcount.full { color: var(--warm); }
+  .btn { appearance: none; border: 1px solid var(--accent); background: var(--accent); color: #fff;
+         font: inherit; font-size: .78rem; font-weight: 600; padding: .34rem .7rem; border-radius: 3px; cursor: pointer; }
+  :root[data-theme="dark"] .btn, :root:not([data-theme="light"]) .btn { color: #08141a; }
+  .btn.ghost { background: transparent; color: var(--accent); }
+
+  table.alloc { width: 100%; border-collapse: collapse; font-size: .84rem; }
+  table.alloc th { text-align: left; font-size: .66rem; text-transform: uppercase; letter-spacing: .07em;
+                   color: var(--faint); font-weight: 600; padding: 0 .5rem .35rem; }
+  table.alloc th.r, table.alloc td.r { text-align: right; }
+  table.alloc td { padding: .38rem .5rem; border-top: 1px solid var(--rule); vertical-align: middle; }
+  table.alloc tr.dim td { opacity: .45; }
+  .pname { font-weight: 600; }
+  .ppool { font-size: .68rem; color: var(--faint); font-family: "JetBrains Mono", monospace; }
+  .lvin { width: 3.4rem; font: inherit; font-family: "JetBrains Mono", monospace; font-size: .78rem;
+          padding: .15rem .3rem; border: 1px solid var(--rule-strong); border-radius: 2px;
+          background: var(--field); color: var(--ink); text-align: right; }
+  .stepper { display: inline-flex; align-items: center; gap: .25rem; }
+  .stepper button { appearance: none; width: 1.45rem; height: 1.45rem; border: 1px solid var(--rule-strong);
+                    background: var(--field); color: var(--ink); font: inherit; font-size: .9rem; line-height: 1;
+                    border-radius: 2px; cursor: pointer; }
+  .stepper button:disabled { opacity: .3; cursor: default; }
+  .stepper .n { font-family: "JetBrains Mono", monospace; font-weight: 700; min-width: 1.1rem; text-align: center;
+                font-variant-numeric: tabular-nums; }
+  .marg { display: grid; grid-template-columns: 1fr 3.3rem; gap: .45rem; align-items: center; }
+  .bar { height: 7px; background: var(--track); border-radius: 4px; overflow: hidden; }
+  .bar i { display: block; height: 100%; background: var(--viz-1); border-radius: 4px; }
+  .bar i.def { background: var(--viz-2); }
+  .mval { font-family: "JetBrains Mono", monospace; font-size: .74rem; font-variant-numeric: tabular-nums;
+          text-align: right; color: var(--muted); }
+  .mval.best { color: var(--viz-1); font-weight: 700; }
+
+  /* ---- results ---- */
+  .out { display: grid; grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr)); gap: .8rem; }
+  .stat { padding: .7rem .8rem; border: 1px solid var(--rule); border-radius: 3px; background: var(--field); }
+  .stat .k { font-size: .66rem; text-transform: uppercase; letter-spacing: .07em; color: var(--faint); }
+  .stat .v { font-family: "JetBrains Mono", monospace; font-size: 1.32rem; font-weight: 700;
+             letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+  .stat .s { font-size: .7rem; color: var(--muted); }
+  .stat.hero { background: var(--accent-soft); border-color: var(--accent); }
+  .stat.hero .v { color: var(--accent); font-size: 1.6rem; }
+
+  .breakdown { display: flex; flex-direction: column; gap: .3rem; }
+  .brow { display: grid; grid-template-columns: 10.5rem 1fr 4.2rem; gap: .5rem; align-items: center; font-size: .78rem; }
+  .brow .bk { color: var(--muted); }
+  .brow .bv { font-family: "JetBrains Mono", monospace; text-align: right; font-variant-numeric: tabular-nums; }
+  .brow .bar i { background: var(--accent); }
+
+  .note { font-size: .78rem; color: var(--muted); margin: 0; }
+  .note code { font-size: .74rem; }
+  .warnflag { font-size: .78rem; color: var(--warm); margin: 0; }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Magicite Loadout Lab</h1>
+    <p>Exact client mechanics — halving stacks, the soft-capped damage curve, per-pool saturation.</p>
+  </header>
+
+  <div class="cols">
+    <div class="side">
+      <section class="card">
+        <h2>Scenario</h2>
+        <div class="pad">
+          <div class="seg modeseg" role="group" aria-label="Damage type">
+            <button type="button" data-mode="phys">Physical</button>
+            <button type="button" data-mode="magic">Magic</button>
+          </div>
+          <div class="field">
+            <label for="f-stat">Attacker <span id="statname">ATK</span> (buffed)</label>
+            <output id="o-stat"></output>
+            <input id="f-stat" type="range" min="400" max="4000" step="10">
+            <span class="hint" id="h-stat"></span>
+          </div>
+          <div id="critwrap" style="display:contents">
+            <div class="field">
+              <label for="f-crit">Crit rate before Precise Strikes</label>
+              <output id="o-crit"></output>
+              <input id="f-crit" type="range" min="0" max="100" step="5">
+            </div>
+            <div class="field">
+              <label for="f-cdmg">Crit damage from outside magicite</label>
+              <output id="o-cdmg"></output>
+              <input id="f-cdmg" type="range" min="0" max="200" step="5">
+              <span class="hint">Soul-break buffs, record materia, Tyro&rsquo;s MA. Additive — does not pool with magicite Deadly Strikes.</span>
+            </div>
+            <div class="field">
+              <span class="hint" id="critsum" style="grid-column:1/-1"></span>
+            </div>
+          </div>
+          <div class="field">
+            <label for="f-hp">Party HP remaining</label>
+            <output id="o-hp"></output>
+            <input id="f-hp" type="range" min="0" max="100" step="5">
+            <span class="hint">Drives Surging Power (up) and Hand of Vengeance (down).</span>
+          </div>
+          <div class="field">
+            <label for="f-spd">Attacker SPD</label>
+            <output id="o-spd"></output>
+            <input id="f-spd" type="range" min="80" max="400" step="2">
+            <span class="hint" id="h-spd"></span>
+          </div>
+          <div class="field">
+            <label>ATB speed</label>
+            <output id="o-atb"></output>
+            <div class="seg atbseg" role="group" aria-label="ATB speed" style="grid-column:1/-1;margin-top:.15rem">
+              <button type="button" data-atb="100">100%</button>
+              <button type="button" data-atb="125">125%</button>
+              <button type="button" data-atb="200">200%</button>
+              <button type="button" data-atb="300">300%</button>
+              <button type="button" data-atb="0">Instant</button>
+            </div>
+            <span class="hint">Fast Act does <b>not</b> touch this — no materia or talisman effect hooks ATB.</span>
+          </div>
+          <div class="field">
+            <label for="f-castms">Ability cast time</label>
+            <output id="o-castms"></output>
+            <input id="f-castms" type="range" min="1" max="3500" step="50">
+          </div>
+          <div class="field">
+            <label>Cast speed buff</label>
+            <output id="o-qc"></output>
+            <div class="seg qcseg" role="group" aria-label="Cast speed buff" style="grid-column:1/-1;margin-top:.15rem">
+              <button type="button" data-qc="100">None</button>
+              <button type="button" data-qc="200">Quick &times;2</button>
+              <button type="button" data-qc="300">High &times;3</button>
+              <button type="button" data-qc="0">Instant</button>
+            </div>
+          </div>
+          <div class="field">
+            <label for="f-qcup">Uptime of that buff</label>
+            <output id="o-qcup"></output>
+            <input id="f-qcup" type="range" min="0" max="100" step="5">
+            <span class="hint" id="h-cycle"></span>
+          </div>
+          <div class="field">
+            <label for="f-seal">Magicite carrying the element seal</label>
+            <output id="o-seal"></output>
+            <input id="f-seal" type="range" min="0" max="5" step="1">
+            <span class="hint">Each seals +15 into the same pool as Empower.</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Roster — pick 5, one main</h2>
+        <div class="pad">
+          <div class="roster" id="roster"></div>
+          <p class="rosterwarn" id="rosterwarn" hidden></p>
+          <p class="note" id="totalstat"></p>
+        </div>
+      </section>
+    </div>
+
+    <div class="side">
+      <section class="card">
+        <h2>Result</h2>
+        <div class="pad">
+          <div class="out" id="out"></div>
+          <div class="breakdown" id="breakdown"></div>
+          <p class="warnflag" id="mainflag" hidden></p>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Inheritance slots</h2>
+        <div class="pad">
+          <div class="allochead">
+            <span class="slotcount" id="slotcount"></span>
+            <span style="display:flex;gap:.4rem">
+              <button class="btn" type="button" id="solve">Optimise damage</button>
+              <button class="btn ghost" type="button" id="clear">Clear</button>
+            </span>
+          </div>
+          <div style="overflow-x:auto">
+            <table class="alloc">
+              <thead>
+                <tr><th>Passive</th><th class="r">Lv</th><th class="r">Max</th><th class="r">Slots</th><th>Marginal value of one more</th></tr>
+              </thead>
+              <tbody id="allocbody"></tbody>
+            </table>
+          </div>
+          <p class="note"><b>Max</b> is how many copies you can actually field. The Lv 28 Empower exists for Fire, Earth, Lightning and Water only, one apiece — set it to 0 on an element you do not have one for. Both Empower rows feed the same pool, and <code>T()</code> sorts descending, so the Lv 28 always occupies the top slot.</p>
+          <p class="note">Marginal value is the change in damage-per-time from adding one more copy, given everything else currently selected. Defensive picks (orange) are scored against damage taken, not damage dealt.</p>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <p class="note">All arithmetic mirrors <code>battle.js</code>: pooling via <code>calculateEffectValueOfTalismanMateria</code> (sorted descending, each successive value halved, then ceiled); the soft-capped base term from <code>DamageCalculator</code>; the ATB bar as <code>max(floor(4500 − SPD/0.15), 1)</code> ms, advanced by <code>atbTimeFactor</code> while the cast bar advanced separately by <code>castTimeFactor</code>, which is the product of the status factor (Quick Cast 200, High Quick Cast 300) and Fast Act; stat grants as <code>floor(total_params × T/100)</code> with <code>total_params = main + Σ floor(sub/4)</code>.</p>
+  <p class="note">There is deliberately no enemy-DEF control. Every figure is a ratio of two damages taken against the same target, and DEF enters both through the same <code>min((stat/def)^0.5, 1000)</code> term, so it cancels — and the cap never binds at realistic stats. It would change the absolute damage, but not any number shown here.</p>
+  <p class="note">Every figure here is the <b>magicite contribution</b> — damage with this loadout divided by damage with no magicite equipped. That includes the crit term, which counts only the Deadly and Precise Strikes the magicite supply, not the base 150% crit factor or your external buffs. It is therefore fair to compare the physical and magic numbers to each other, but neither is an absolute DPS figure, and a physical and a magic character with the same number are not dealing the same damage.</p>
+  <p class="note">Boons are applied at battle start as <code>setBoost(param, amount, {isBoostAmount: true})</code>. In <code>ActorParamHolder</code> percentage boosts multiply the base stat and flat amounts are summed on afterwards — <code>s = floor(base × rate) + flat</code> — so a Boon never benefits from your in-battle ATK buffs. Past the freeze point the base damage term is frozen and the only remaining stat dependence is <code>(stat/def)^0.5</code>, which is why a Boon is still worth a few percent rather than nothing.</p>
+  <p class="note">The action cycle counts ATB plus cast only. Animation and action lockout are not on either of those clocks, so at Instant ATB with a near-zero cast time the throughput figure is optimistic — Fast Act cannot speed up something the cast bar does not govern.</p>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ---------- exact client mechanics ---------- */
+  function T(vals) {
+    if (!vals.length) return 0;
+    var s = vals.slice().sort(function (a, b) { return b - a; });
+    var sum = 0;
+    for (var i = 0; i < s.length; i++) sum += s[i] / Math.pow(2, i);
+    return Math.ceil(sum);
+  }
+  var DMG = {
+    phys:  { p: 1.30, maxBasic: 6000, atten: 806,  maxAtten: 7400, label: "ATK" },
+    magic: { p: 1.15, maxBasic: 3000, atten: 1056, maxAtten: 3920, label: "MAG" }
+  };
+  var RC2 = 0.05, RATIO_POW = 0.5, MAX_RATIO = 1000;
+  // Enemy DEF cancels out of every figure this tool reports: each one is a ratio of two
+  // damages at the same DEF, and the ratio term is min((stat/def)^0.5, 1000) in both. The
+  // cap never binds at realistic stats, so any constant gives identical results.
+  var REF_DEF = 500;
+  function baseTerm(stat, mode) {
+    var c = DMG[mode], V = Math.min(Math.pow(stat, c.p), c.maxBasic);
+    if (V >= c.maxBasic) V = Math.min(Math.pow(c.maxBasic, Math.pow(Math.pow(stat / c.atten, 2), RC2)), c.maxAtten);
+    return V;
+  }
+  function rawDamage(stat, mode, def) {
+    return baseTerm(stat, mode) * Math.min(Math.pow(stat / def, RATIO_POW), MAX_RATIO);
+  }
+  function ceil2(x) { return Math.ceil(x * 100) / 100; }
+
+  /* ---------- roster ---------- */
+  var MAGICITE = [
+    { id: "wbz",    name: "Warring Bahamut ZERO", hi: 321, div: "Surging Power 15",            seed: { surge: 15 } },
+    { id: "shin",   name: "Shinryu Celestia",     hi: 308, div: "Deadly Strikes 15 / sorcery 15", seed: { critdmg: 15, sorcery: 15 } },
+    { id: "ark",    name: "Ark",                  hi: 321, div: "Health + Healing Boon 15",    seed: {}, ultra: "SB Gauge +150 to all allies" },
+    { id: "atomos", name: "Atomos",               hi: 308, div: "Fast Act 15",                 seed: { cast: 15 }, ultra: "LB Gauge +250, one random ally" },
+    { id: "crus",   name: "Crusader",             hi: 321, div: "Hand of Vengeance 15 + flat 15", seed: { hov: 15, elem: 15 } },
+    { id: "neo",    name: "Neo Bahamut",          hi: 301, div: "Surging Power 15",            seed: { surge: 15 } }
+  ];
+  var BY_ID = {};
+  MAGICITE.forEach(function (m) { BY_ID[m.id] = m; });
+
+  /* ---------- inheritable candidates ---------- */
+  var CAND = [
+    { key: "emp28",   name: "Empower \u2014 Ultra Gigas", pool: "elem", lv: 28, side: "dmg", cap: 1 },
+    { key: "emp",     name: "Empower <element>",  pool: "elem",     lv: 24, side: "dmg" },
+    { key: "boon",    name: "Attack Boon",        pool: "stat",     lv: 24, side: "dmg", magicName: "Magic Boon" },
+    { key: "deadly",  name: "Deadly Strikes",     pool: "critdmg",  lv: 14, side: "dmg", physOnly: true },
+    { key: "precise", name: "Precise Strikes",    pool: "critrate", lv: 14, side: "dmg", physOnly: true },
+    { key: "fast",    name: "Fast Act",           pool: "cast",     lv: 14, side: "dmg" },
+    { key: "ward",    name: "Blade Ward",         pool: "ward",     lv: 12, side: "def", magicName: "Spell Ward" },
+    { key: "dampen",  name: "Dampen <element>",   pool: "dampen",   lv: 24, side: "def" }
+  ];
+  var SLOTS = 10;
+
+  /* ---------- state ---------- */
+  var S = {
+    mode: "phys", stat: 1500, crit: 100, cdmg: 50, hp: 100, seal: 5,
+    spd: 130, atb: 100, castms: 1650, qc: 200, qcup: 60,
+    roster: ["wbz", "shin", "ark", "atomos", "crus"], main: "ark",
+    lv: {}, alloc: {}, cap: {}
+  };
+  CAND.forEach(function (c) {
+    S.lv[c.key] = c.lv; S.alloc[c.key] = 0;
+    S.cap[c.key] = (c.cap === undefined) ? SLOTS : c.cap;
+  });
+
+  try {
+    var saved = JSON.parse(localStorage.getItem("magicite-lab") || "null");
+    if (saved && saved.mode) {
+      Object.keys(S).forEach(function (k) { if (saved[k] !== undefined) S[k] = saved[k]; });
+    }
+  } catch (e) { /* private mode, blocked storage — defaults are fine */ }
+  if (!DMG[S.mode]) S.mode = "phys";
+  function save() {
+    try { localStorage.setItem("magicite-lab", JSON.stringify(S)); } catch (e) {}
+  }
+
+  /* ---------- model ---------- */
+  function totalStat() {
+    var main = BY_ID[S.main];
+    var t = (main && S.roster.indexOf(S.main) >= 0) ? main.hi : 0;
+    S.roster.forEach(function (id) {
+      if (id === S.main) return;
+      t += Math.floor(BY_ID[id].hi / 4);
+    });
+    return t;
+  }
+  function pools(alloc) {
+    var p = { elem: [], stat: [], critdmg: [], critrate: [], cast: [], surge: [], hov: [], sorcery: [], ward: [], dampen: [] };
+    for (var i = 0; i < S.seal; i++) p.elem.push(15);
+    S.roster.forEach(function (id) {
+      var seed = BY_ID[id].seed;
+      Object.keys(seed).forEach(function (k) {
+        if (k === "critdmg" && S.mode !== "phys") return;
+        if (k === "sorcery" && S.mode !== "magic") return;
+        p[k].push(seed[k]);
+      });
+    });
+    CAND.forEach(function (c) {
+      var n = alloc[c.key] || 0;
+      for (var i = 0; i < n; i++) p[c.pool].push(S.lv[c.key]);
+    });
+    return p;
+  }
+  function evaluate(alloc) {
+    var p = pools(alloc), hp = S.hp / 100;
+    var elem = 1 + T(p.elem) / 100;
+    var grant = Math.floor(totalStat() * T(p.stat) / 100);
+    var d0 = rawDamage(S.stat, S.mode, REF_DEF);
+    var statM = d0 > 0 ? rawDamage(S.stat + grant, S.mode, REF_DEF) / d0 : 1;
+    var crit = 1, critFactor = 0, critRate = 0;
+    if (S.mode === "phys") {
+      critRate   = Math.min(1, S.crit / 100 + T(p.critrate) / 100);
+      critFactor = 150 + S.cdmg + T(p.critdmg);       // base 150 + external (additive) + talisman pool
+      // every other term here is "vs no magicite equipped" — make crit the same, or physical
+      // would carry a flat baseline (x2.00 at capped crit) that magic has no counterpart for.
+      var r0 = Math.min(1, S.crit / 100);             // no magicite: no Precise Strikes
+      var f0 = 150 + S.cdmg;                          // no magicite: no Deadly Strikes pool
+      var withMag = (1 - critRate) + critRate * (critFactor / 100);
+      var noMag   = (1 - r0) + r0 * (f0 / 100);
+      crit = noMag > 0 ? withMag / noMag : 1;
+    }
+    var sorcery = S.mode === "magic" ? 1 + T(p.sorcery) / 100 : 1;
+    var surge = 1 + ceil2(T(p.surge) * hp) / 100;
+    var hov = 1 + Math.floor(Math.pow(1 - hp, 3) * T(p.hov)) / 100;
+    var f = 1 + T(p.cast) / 100;                    // Fast Act, multiplies onto the status factor
+    var atbMs = S.atb === 0 ? 0 : Math.max(Math.floor(4500 - S.spd / 0.15), 1) / (S.atb / 100);
+    function cyc(statusPct, fa) {
+      if (statusPct === 0) return atbMs;            // Instant Cast — no cast bar at all
+      return atbMs + S.castms / ((statusPct / 100) * fa);
+    }
+    var up = S.qcup / 100;
+    var cycleNow  = up * cyc(S.qc, f) + (1 - up) * cyc(100, f);
+    var cycleBase = up * cyc(S.qc, 1) + (1 - up) * cyc(100, 1);
+    var thru = cycleNow > 0 ? cycleBase / cycleNow : 1;
+    var dmg = elem * statM * crit * sorcery * surge * hov;
+    var taken = Math.max(0, 1 - T(p.dampen) / 100) * Math.max(0, 1 - T(p.ward) / 100);
+    return { dmg: dmg, dps: dmg * thru, taken: taken, thru: thru, grant: grant,
+             critFactor: critFactor, critRate: critRate, atbMs: atbMs, cycleNow: cycleNow, castF: f,
+             parts: { elem: elem, stat: statM, crit: crit, sorcery: sorcery, surge: surge, hov: hov, cast: thru }, p: p };
+  }
+  function used(alloc) {
+    return CAND.reduce(function (n, c) { return n + (alloc[c.key] || 0); }, 0);
+  }
+  function active(c) { return !(c.physOnly && S.mode !== "phys"); }
+  function capOf(c) {
+    var v = S.cap[c.key];
+    return (v === undefined || v === null) ? SLOTS : Math.max(0, Math.min(SLOTS, v));
+  }
+  function atCap(c, alloc) { return (alloc[c.key] || 0) >= capOf(c); }
+  function marginal(c, alloc) {
+    if (!active(c)) return null;
+    if (used(alloc) >= SLOTS) return null;
+    if (atCap(c, alloc)) return null;
+    var next = Object.assign({}, alloc);
+    next[c.key] = (next[c.key] || 0) + 1;
+    var a = evaluate(alloc), b = evaluate(next);
+    return c.side === "dmg" ? b.dps / a.dps - 1 : (a.taken > 0 ? 1 - b.taken / a.taken : 0);
+  }
+  function optimise() {
+    var alloc = {};
+    CAND.forEach(function (c) { alloc[c.key] = 0; });
+    for (var s = 0; s < SLOTS; s++) {
+      var best = null, bestG = 1e-9;
+      CAND.forEach(function (c) {
+        if (c.side !== "dmg" || !active(c) || atCap(c, alloc)) return;
+        var g = marginal(c, alloc);
+        if (g !== null && g > bestG) { bestG = g; best = c; }
+      });
+      if (!best) break;
+      alloc[best.key]++;
+    }
+    S.alloc = alloc;
+  }
+
+  /* ---------- rendering ---------- */
+  function nameOf(c) { return (S.mode === "magic" && c.magicName) ? c.magicName : c.name; }
+  var $ = function (id) { return document.getElementById(id); };
+
+  function renderRoster() {
+    var host = $("roster");
+    host.innerHTML = "";
+    MAGICITE.forEach(function (m) {
+      var on = S.roster.indexOf(m.id) >= 0;
+      var row = document.createElement("div");
+      row.className = "mag" + (on ? "" : " off");
+      var cb = document.createElement("input");
+      cb.type = "checkbox"; cb.checked = on; cb.id = "mg-" + m.id;
+      cb.setAttribute("aria-label", m.name);
+      cb.addEventListener("change", function () {
+        var i = S.roster.indexOf(m.id);
+        if (i >= 0) S.roster.splice(i, 1); else S.roster.push(m.id);
+        if (S.roster.indexOf(S.main) < 0) S.main = S.roster[0];
+        render();
+      });
+      var lab = document.createElement("label");
+      lab.className = "nm"; lab.htmlFor = "mg-" + m.id;
+      lab.innerHTML = m.name + '<span class="dv">' + m.div + "</span>";
+      var mb = document.createElement("button");
+      mb.type = "button"; mb.className = "mainbtn"; mb.textContent = "Main";
+      mb.setAttribute("aria-pressed", String(S.main === m.id));
+      mb.disabled = !on;
+      mb.addEventListener("click", function () { S.main = m.id; render(); });
+      row.appendChild(cb); row.appendChild(lab); row.appendChild(mb);
+      host.appendChild(row);
+    });
+    var warn = $("rosterwarn");
+    if (S.roster.length !== 5) {
+      warn.hidden = false;
+      warn.textContent = S.roster.length + " selected — a party holds exactly 5 (1 main + 4 subs).";
+    } else { warn.hidden = true; }
+    $("totalstat").innerHTML = "total_params." + DMG[S.mode].label.toLowerCase() +
+      " = <b class='mono'>" + totalStat() + "</b> — main at full value, subs at floor(stat/4).";
+  }
+
+  function renderAlloc(res) {
+    var body = $("allocbody");
+    body.innerHTML = "";
+    var margs = {}, maxAbs = 0;
+    CAND.forEach(function (c) {
+      var g = marginal(c, S.alloc);
+      margs[c.key] = g;
+      if (g !== null && g > maxAbs) maxAbs = g;
+    });
+    var bestKey = null, bestVal = 1e-9;
+    CAND.forEach(function (c) {
+      if (c.side === "dmg" && margs[c.key] !== null && margs[c.key] > bestVal) { bestVal = margs[c.key]; bestKey = c.key; }
+    });
+
+    CAND.forEach(function (c) {
+      var tr = document.createElement("tr");
+      if (!active(c)) tr.className = "dim";
+      var td1 = document.createElement("td");
+      td1.innerHTML = '<span class="pname">' + nameOf(c) + "</span>" +
+        '<span class="ppool"> · ' + (active(c) ? c.pool : "n/a — magic cannot crit") + "</span>";
+      var td2 = document.createElement("td"); td2.className = "r";
+      var lv = document.createElement("input");
+      lv.type = "number"; lv.className = "lvin"; lv.min = "1"; lv.max = "40";
+      lv.value = S.lv[c.key]; lv.disabled = !active(c);
+      lv.setAttribute("aria-label", nameOf(c) + " level");
+      lv.addEventListener("change", function () {
+        var v = parseInt(lv.value, 10);
+        S.lv[c.key] = isNaN(v) ? c.lv : Math.max(1, Math.min(40, v));
+        render();
+      });
+      td2.appendChild(lv);
+
+      var tdc = document.createElement("td"); tdc.className = "r";
+      var cap = document.createElement("input");
+      cap.type = "number"; cap.className = "lvin"; cap.min = "0"; cap.max = String(SLOTS);
+      cap.value = capOf(c); cap.disabled = !active(c);
+      cap.setAttribute("aria-label", nameOf(c) + " copies owned");
+      cap.addEventListener("change", function () {
+        var v = parseInt(cap.value, 10);
+        S.cap[c.key] = isNaN(v) ? SLOTS : Math.max(0, Math.min(SLOTS, v));
+        if (S.alloc[c.key] > S.cap[c.key]) S.alloc[c.key] = S.cap[c.key];
+        render();
+      });
+      tdc.appendChild(cap);
+
+      var td3 = document.createElement("td"); td3.className = "r";
+      var st = document.createElement("span"); st.className = "stepper";
+      var minus = document.createElement("button");
+      minus.type = "button"; minus.textContent = "−";
+      minus.setAttribute("aria-label", "Remove one " + nameOf(c));
+      minus.disabled = !active(c) || !S.alloc[c.key];
+      minus.addEventListener("click", function () { S.alloc[c.key]--; render(); });
+      var n = document.createElement("span");
+      n.className = "n"; n.textContent = S.alloc[c.key] || 0;
+      var plus = document.createElement("button");
+      plus.type = "button"; plus.textContent = "+";
+      plus.setAttribute("aria-label", "Add one " + nameOf(c));
+      plus.disabled = !active(c) || used(S.alloc) >= SLOTS || atCap(c, S.alloc);
+      plus.addEventListener("click", function () { S.alloc[c.key] = (S.alloc[c.key] || 0) + 1; render(); });
+      st.appendChild(minus); st.appendChild(n); st.appendChild(plus);
+      td3.appendChild(st);
+
+      var td4 = document.createElement("td");
+      var g = margs[c.key];
+      if (g === null) {
+        var why = !active(c) ? "—" : (capOf(c) === 0 ? "none owned"
+                  : atCap(c, S.alloc) ? "all " + capOf(c) + " used" : "slots full");
+        td4.innerHTML = '<span class="mval">' + why + "</span>";
+      } else {
+        var pct = maxAbs > 0 ? Math.max(1.5, (g / maxAbs) * 100) : 0;
+        td4.innerHTML =
+          '<span class="marg"><span class="bar"><i class="' + (c.side === "def" ? "def" : "") +
+          '" style="width:' + pct.toFixed(1) + '%"></i></span>' +
+          '<span class="mval' + (c.key === bestKey ? " best" : "") + '">' +
+          (g >= 0 ? "+" : "") + (g * 100).toFixed(2) + "%</span></span>";
+      }
+      tr.appendChild(td1); tr.appendChild(td2); tr.appendChild(tdc); tr.appendChild(td3); tr.appendChild(td4);
+      body.appendChild(tr);
+    });
+
+    var u = used(S.alloc);
+    var sc = $("slotcount");
+    sc.className = "slotcount" + (u >= SLOTS ? " full" : "");
+    sc.innerHTML = "<b>" + u + "</b> / " + SLOTS + " slots used";
+  }
+
+  function renderOut(res) {
+    var L = DMG[S.mode].label;
+    $("out").innerHTML =
+      tile("Damage per time", res.dps.toFixed(3) + "×", "relative to no passives", true) +
+      tile("Damage per hit", res.dmg.toFixed(3) + "×", "before cast-speed throughput") +
+      tile("Damage taken", (res.taken * 100).toFixed(0) + "%", "from defensive picks") +
+      tile(L + " granted", "+" + res.grant, "flat, from Boons");
+
+    var parts = [
+      ["Element pool (g)", res.parts.elem],
+      [L + " boons", res.parts.stat],
+      ["Critical (magicite share)", res.parts.crit],
+      ["Sorcery modifier", res.parts.sorcery],
+      ["Surging Power", res.parts.surge],
+      ["Hand of Vengeance", res.parts.hov],
+      ["Cast throughput", res.parts.cast]
+    ].filter(function (r) { return Math.abs(r[1] - 1) > 1e-9; });
+    var max = parts.reduce(function (m, r) { return Math.max(m, r[1]); }, 1);
+    $("breakdown").innerHTML = parts.map(function (r) {
+      var w = max > 1 ? ((r[1] - 1) / (max - 1)) * 100 : 0;
+      return '<div class="brow"><span class="bk">' + r[0] + "</span>" +
+        '<span class="bar"><i style="width:' + Math.max(1.5, w).toFixed(1) + '%"></i></span>' +
+        '<span class="bv">' + r[1].toFixed(3) + "×</span></div>";
+    }).join("");
+
+    var mf = $("mainflag"), main = BY_ID[S.main];
+    if (main && main.ultra) {
+      mf.hidden = false;
+      mf.textContent = "Main slot — " + main.name + " Ultra Skill: " + main.ultra + " (not counted in the damage figure).";
+    } else { mf.hidden = true; }
+  }
+  function tile(k, v, s, hero) {
+    return '<div class="stat' + (hero ? " hero" : "") + '"><div class="k">' + k +
+      '</div><div class="v">' + v + '</div><div class="s">' + s + "</div></div>";
+  }
+
+  function render() {
+    if (used(S.alloc) > SLOTS) {
+      var over = used(S.alloc) - SLOTS;
+      for (var i = CAND.length - 1; i >= 0 && over > 0; i--) {
+        var k = CAND[i].key;
+        while (S.alloc[k] > 0 && over > 0) { S.alloc[k]--; over--; }
+      }
+    }
+    CAND.forEach(function (c) {
+      if (!active(c)) S.alloc[c.key] = 0;
+      if (S.alloc[c.key] > capOf(c)) S.alloc[c.key] = capOf(c);
+    });
+
+    var L = DMG[S.mode].label;
+    $("statname").textContent = L;
+    document.querySelectorAll(".modeseg button").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.dataset.mode === S.mode));
+    });
+    $("f-stat").value = S.stat; $("o-stat").textContent = S.stat;
+    $("f-crit").value = S.crit; $("o-crit").textContent = S.crit + "%";
+    $("f-cdmg").value = S.cdmg; $("o-cdmg").textContent = "+" + S.cdmg + "%";
+    $("f-hp").value = S.hp;     $("o-hp").textContent = S.hp + "%";
+    $("f-spd").value = S.spd; $("o-spd").textContent = S.spd;
+    $("f-castms").value = S.castms; $("o-castms").textContent = (S.castms / 1000).toFixed(2) + "s";
+    $("f-qcup").value = S.qcup; $("o-qcup").textContent = S.qcup + "%";
+    $("o-qc").textContent = S.qc === 0 ? "Instant" : S.qc === 100 ? "none" : "\u00d7" + (S.qc / 100).toFixed(0);
+    document.querySelectorAll(".qcseg button").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(Number(b.dataset.qc) === S.qc));
+    });
+    var rawAtb = Math.max(Math.floor(4500 - S.spd / 0.15), 1);
+    $("h-spd").textContent = "ATB bar = max(floor(4500 \u2212 SPD/0.15), 1) = " + (rawAtb / 1000).toFixed(2) + "s at 100%";
+    $("o-atb").textContent = S.atb === 0 ? "Instant" : S.atb + "%";
+    document.querySelectorAll(".atbseg button").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(Number(b.dataset.atb) === S.atb));
+    });
+    $("f-seal").value = S.seal; $("o-seal").textContent = S.seal + " / 5";
+    $("critwrap").hidden = S.mode !== "phys";
+
+    var c = DMG[S.mode];
+    var frozen = c.atten * Math.pow(Math.log(c.maxAtten) / Math.log(c.maxBasic), 1 / (2 * RC2));
+    if (S.mode === "phys") {
+      var cp = pools(S.alloc);
+      var mag = T(cp.critdmg), pr = T(cp.critrate);
+      var rate = Math.min(100, S.crit + pr);
+      $("critsum").innerHTML = "crit factor <b class='mono'>150</b> base + <b class='mono'>" + S.cdmg +
+        "</b> external + <b class='mono'>" + mag + "</b> magicite = <b class='mono'>" +
+        (150 + S.cdmg + mag) + "%</b> on a crit, at <b class='mono'>" + rate + "%</b> crit rate" +
+        (pr ? " (incl. +" + pr + " from Precise Strikes)" : "");
+    }
+    var where = S.stat < c.atten ? "below the attenuation point — stat is worth ~" + (c.p + 0.5).toFixed(2) + " exponent"
+      : S.stat >= frozen ? "past the freeze point (" + Math.round(frozen) + ") — base term is capped, exponent 0.50"
+      : "inside the attenuation band (" + c.atten + "–" + Math.round(frozen) + ")";
+    $("h-stat").innerHTML = where +
+      " \u00b7 enter the <b>fully buffed</b> figure \u2014 Boon grants are flat and land <i>after</i> percentage buffs "
+      + "(<code>s = floor(base \u00d7 rate) + flat</code>), so they are not multiplied by them.";
+
+    var res = evaluate(S.alloc);
+    var castPart = Math.max(0, res.cycleNow - res.atbMs);
+    var share = res.cycleNow > 0 ? castPart / res.cycleNow : 0;
+    var qcTxt = S.qc === 0 ? "Instant" : S.qc === 100 ? "no buff" : "\u00d7" + (S.qc / 100).toFixed(0);
+    $("h-cycle").innerHTML = "average cycle = " + (res.atbMs / 1000).toFixed(2) + "s ATB + " +
+      (castPart / 1000).toFixed(2) + "s cast = <b class='mono'>" + (res.cycleNow / 1000).toFixed(2) +
+      "s</b> \u2014 cast is " + Math.round(share * 100) + "% of it. Fast Act (\u00d7" +
+      res.castF.toFixed(2) + ") multiplies onto " + qcTxt + ", so it saves less when the buff is up.";
+    renderRoster();
+    renderOut(res);
+    renderAlloc(res);
+    save();
+  }
+
+  /* ---------- wiring ---------- */
+  document.querySelectorAll(".modeseg button").forEach(function (b) {
+    b.addEventListener("click", function () {
+      if (!DMG[b.dataset.mode]) return;          // never let a stray button clobber the mode
+      S.mode = b.dataset.mode; render();
+    });
+  });
+  [["f-stat", "stat"], ["f-crit", "crit"], ["f-cdmg", "cdmg"], ["f-hp", "hp"], ["f-spd", "spd"], ["f-castms", "castms"], ["f-qcup", "qcup"], ["f-seal", "seal"]]
+    .forEach(function (pair) {
+      $(pair[0]).addEventListener("input", function (e) { S[pair[1]] = parseInt(e.target.value, 10); render(); });
+    });
+  document.querySelectorAll(".atbseg button").forEach(function (b) {
+    b.addEventListener("click", function () { S.atb = Number(b.dataset.atb); render(); });
+  });
+  document.querySelectorAll(".qcseg button").forEach(function (b) {
+    b.addEventListener("click", function () { S.qc = Number(b.dataset.qc); render(); });
+  });
+  $("solve").addEventListener("click", function () { optimise(); render(); });
+  $("clear").addEventListener("click", function () {
+    CAND.forEach(function (c) { S.alloc[c.key] = 0; }); render();
+  });
+
+  if (used(S.alloc) === 0) optimise();
+  render();
+})();
+</script>
