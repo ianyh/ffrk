@@ -199,6 +199,19 @@
             <input id="f-stat" type="range" min="400" max="4000" step="10">
             <span class="hint" id="h-stat"></span>
           </div>
+          <div id="mixwrap" style="display:contents">
+            <div class="field">
+              <label for="f-statmnd">Second attacker MND</label>
+              <output id="o-statmnd"></output>
+              <input id="f-statmnd" type="range" min="400" max="4000" step="10">
+            </div>
+            <div class="field">
+              <label for="f-mixw">Share of party damage from MAG</label>
+              <output id="o-mixw"></output>
+              <input id="f-mixw" type="range" min="0" max="100" step="5">
+              <span class="hint">Weights the two halves; the rest comes from the MND attacker.</span>
+            </div>
+          </div>
           <div id="critwrap" style="display:contents">
             <div class="field">
               <label for="f-crit">Crit rate before Precise Strikes</label>
