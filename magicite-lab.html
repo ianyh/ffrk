@@ -283,6 +283,7 @@
           <div class="roster" id="roster"></div>
           <p class="rosterwarn" id="rosterwarn" hidden></p>
           <p class="note" id="totalstat"></p>
+          <p class="note">The Ultra Gigas (Antlion / Sand Worm / Mimic Queen / Cooler Mammoth) carries an innate Empower 28 but has <b>no Diversion and no seal slots</b> — so it trades a seal and a Diversion for the top of the element pool. Only the one matching your element is worth fielding, which is why there is a single generic entry.</p>
         </div>
       </section>
     </div>
@@ -315,7 +316,7 @@
               <tbody id="allocbody"></tbody>
             </table>
           </div>
-          <p class="note"><b>Lock</b> pins a row at its current count: <b>Optimise</b> fills only the unlocked slots around it, and <b>Clear</b> leaves locked rows alone. Lock one Blade Ward and one Spell Ward, then optimise, and the remaining eight slots are solved for damage. <b>Max</b> is how many copies you can actually field. The Lv 28 Empower exists for Fire, Earth, Lightning and Water only, one apiece — set it to 0 on an element you do not have one for. Both Empower rows feed the same pool, and <code>T()</code> sorts descending, so the Lv 28 always occupies the top slot.</p>
+          <p class="note"><b>Lock</b> pins a row at its current count: <b>Optimise</b> fills only the unlocked slots around it, and <b>Clear</b> leaves locked rows alone. Lock one Blade Ward and one Spell Ward, then optimise, and the remaining eight slots are solved for damage. <b>Max</b> is how many copies you can actually field. The Lv 28 Empower exists for Fire, Earth, Lightning and Water only, one apiece — set it to 0 on an element you do not have one for. Fielding the Ultra Gigas itself supplies that 28 innately, so this row is disabled while it is in the roster. Both Empower rows feed the same pool, and <code>T()</code> sorts descending, so the Lv 28 always occupies the top slot.</p>
           <p class="note">Marginal value is the change in damage-per-time from adding one more copy, given everything else currently selected. Defensive picks (orange) are scored against damage taken, not damage dealt. Blade Ward and Spell Ward gate on the <i>incoming</i> attack type, so both are available to any team — pick whichever matches what the boss deals. Dampen is elemental and cuts either.</p>
         </div>
       </section>
@@ -369,7 +370,10 @@
     { id: "ark",    name: "Ark",                  hi: 321, df: 275, hp: 6390, div: "Health + Healing Boon 15",    seed: { sHp: 15, healR: 15 }, ultra: "SB Gauge +150 to all allies" },
     { id: "atomos", name: "Atomos",               hi: 308, df: 268, hp: 6212, div: "Fast Act 15",                 seed: { cast: 15 }, ultra: "LB Gauge +250, one random ally" },
     { id: "crus",   name: "Crusader",             hi: 321, df: 275, hp: 6390, div: "Hand of Vengeance 15 + flat 15", seed: { hov: 15, elem: 15 }, drain: { df: 70, mnd: 30 } },
-    { id: "neo",    name: "Neo Bahamut",          hi: 301, df: 260, hp: 6023, div: "Surging Power 15",            seed: { surge: 15 } }
+    { id: "neo",    name: "Neo Bahamut",          hi: 301, df: 260, hp: 6023, div: "Surging Power 15",            seed: { surge: 15 } },
+    { id: "gigas",  name: "Ultra Gigas (your element)", hi: 321, df: 275, hp: 6390,
+      div: "Empower 28 innate \u00b7 no Diversion, no seal slots", seed: { elem: 28 }, noSeal: true,
+      ultra: "399,999 fixed damage + Infusion to all allies" }
   ];
   var BY_ID = {};
   MAGICITE.forEach(function (m) { BY_ID[m.id] = m; });
@@ -454,10 +458,13 @@
     var base = totalOf(prop);
     return Math.max(Math.floor(base - base * drainOf(kind) / 100), 0);
   }
+  function sealMax() {
+    return S.roster.filter(function (id) { return !BY_ID[id].noSeal; }).length;
+  }
   function pools(alloc) {
     var p = { elem: [], stat: [], critdmg: [], critrate: [], cast: [], surge: [], hov: [], sorcery: [], wardP: [], wardM: [], dampen: [],
                sDef: [], sRes: [], sMnd: [], sHp: [], healR: [] };
-    for (var i = 0; i < S.seal; i++) p.elem.push(15);
+    for (var i = 0; i < Math.min(S.seal, sealMax()); i++) p.elem.push(15);
     S.roster.forEach(function (id) {
       var seed = BY_ID[id].seed;
       Object.keys(seed).forEach(function (k) {
@@ -534,6 +541,8 @@
   }
   function active(c) { return !(c.physOnly && S.mode !== "phys"); }
   function capOf(c) {
+    // The Lv 28 Empower exists once per element; fielding the Gigas spends that copy.
+    if (c.key === "emp28" && S.roster.indexOf("gigas") >= 0) return 0;
     var v = S.cap[c.key];
     return (v === undefined || v === null) ? SLOTS : Math.max(0, Math.min(SLOTS, v));
   }
@@ -687,8 +696,10 @@
       var td4 = document.createElement("td");
       var g = margs[c.key];
       if (g === null) {
-        var why = !active(c) ? "—" : (capOf(c) === 0 ? "none owned"
-                  : atCap(c, S.alloc) ? "all " + capOf(c) + " used" : "slots full");
+        var why = !active(c) ? "—"
+                  : (c.key === "emp28" && S.roster.indexOf("gigas") >= 0) ? "innate on the Gigas"
+                  : capOf(c) === 0 ? "none owned"
+                  : atCap(c, S.alloc) ? "all " + capOf(c) + " used" : "slots full";
         td4.innerHTML = '<span class="mval">' + why + "</span>";
       } else {
         var pct = maxAbs > 0 ? Math.max(1.5, (g / maxAbs) * 100) : 0;
@@ -787,7 +798,12 @@
     document.querySelectorAll(".atbseg button").forEach(function (b) {
       b.setAttribute("aria-pressed", String(Number(b.dataset.atb) === S.atb));
     });
-    $("f-seal").value = S.seal; $("o-seal").textContent = S.seal + " / 5";
+    var smax = sealMax();
+    if (S.seal > smax) S.seal = smax;
+    $("f-seal").max = String(smax);
+    $("f-seal").value = S.seal;
+    $("o-seal").textContent = S.seal + " / " + smax +
+      (smax < S.roster.length ? "  (Gigas carries none)" : "");
     [["f-pdef","pdef"],["f-pres","pres"],["f-pmnd","pmnd"],["f-php","php"]].forEach(function (q) {
       $(q[0]).value = S[q[1]];
     });
