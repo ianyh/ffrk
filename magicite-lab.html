@@ -335,6 +335,7 @@
 
   /* ---------- exact client mechanics ---------- */
   function T(vals) {
+    vals = vals.filter(function (v) { return typeof v === "number" && isFinite(v); });
     if (!vals.length) return 0;
     var s = vals.slice().sort(function (a, b) { return b - a; });
     var sum = 0;
@@ -408,7 +409,18 @@
   try {
     var saved = JSON.parse(localStorage.getItem("magicite-lab") || "null");
     if (saved && saved.mode) {
-      Object.keys(S).forEach(function (k) { if (saved[k] !== undefined) S[k] = saved[k]; });
+      Object.keys(S).forEach(function (k) {
+        if (saved[k] === undefined) return;
+        if (S[k] && typeof S[k] === "object" && !Array.isArray(S[k])) {
+          // per-passive maps: copy only keys we still know about, keeping defaults
+          // for any passive added since the save was written.
+          Object.keys(saved[k]).forEach(function (kk) {
+            if (S[k][kk] !== undefined) S[k][kk] = saved[k][kk];
+          });
+        } else {
+          S[k] = saved[k];
+        }
+      });
     }
   } catch (e) { /* private mode, blocked storage — defaults are fine */ }
   if (!DMG[S.mode]) S.mode = "phys";
@@ -456,7 +468,9 @@
     });
     CAND.forEach(function (c) {
       var n = alloc[c.key] || 0;
-      for (var i = 0; i < n; i++) p[c.pool].push(S.lv[c.key]);
+      var lvl = S.lv[c.key];
+      if (typeof lvl !== "number" || !isFinite(lvl)) lvl = S.lv[c.key] = c.lv;
+      for (var i = 0; i < n; i++) p[c.pool].push(lvl);
     });
     return p;
   }
