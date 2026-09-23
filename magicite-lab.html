@@ -133,6 +133,18 @@
   .stepper button:disabled { opacity: .3; cursor: default; }
   .stepper .n { font-family: "JetBrains Mono", monospace; font-weight: 700; min-width: 1.1rem; text-align: center;
                 font-variant-numeric: tabular-nums; }
+  .baserow { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: .4rem; margin-top: .2rem; }
+  .baserow label { display: flex; flex-direction: column; gap: .15rem; font-size: .66rem; color: var(--faint); }
+  .baserow .lvin { width: 100%; text-align: right; }
+
+  .lockbtn { appearance: none; border: 1px solid var(--rule-strong); background: var(--field);
+             color: var(--faint); font: inherit; font-size: .6rem; font-weight: 700; letter-spacing: .06em;
+             text-transform: uppercase; padding: .2rem .4rem; border-radius: 2px; cursor: pointer;
+             margin-left: .4rem; vertical-align: middle; }
+  .lockbtn[aria-pressed="true"] { background: var(--warm-soft); border-color: var(--warm); color: var(--warm); }
+  .lockbtn:disabled { opacity: .3; cursor: default; }
+  tr.locked .pname { color: var(--warm); }
+
   .marg { display: grid; grid-template-columns: 1fr 3.3rem; gap: .45rem; align-items: center; }
   .bar { height: 7px; background: var(--track); border-radius: 4px; overflow: hidden; }
   .bar i { display: block; height: 100%; background: var(--viz-1); border-radius: 4px; }
@@ -247,6 +259,16 @@
             <span class="hint" id="h-cycle"></span>
           </div>
           <div class="field">
+            <label style="grid-column:1/-1">Party baseline, for the support passives</label>
+            <div class="baserow" style="grid-column:1/-1">
+              <label for="f-pdef">DEF<input id="f-pdef" class="lvin" type="number" min="1" max="9999"></label>
+              <label for="f-pres">RES<input id="f-pres" class="lvin" type="number" min="1" max="9999"></label>
+              <label for="f-pmnd">MND<input id="f-pmnd" class="lvin" type="number" min="1" max="9999"></label>
+              <label for="f-php">Max HP<input id="f-php" class="lvin" type="number" min="1" max="99999"></label>
+            </div>
+            <span class="hint" id="h-base"></span>
+          </div>
+          <div class="field">
             <label for="f-seal">Magicite carrying the element seal</label>
             <output id="o-seal"></output>
             <input id="f-seal" type="range" min="0" max="5" step="1">
@@ -293,8 +315,8 @@
               <tbody id="allocbody"></tbody>
             </table>
           </div>
-          <p class="note"><b>Max</b> is how many copies you can actually field. The Lv 28 Empower exists for Fire, Earth, Lightning and Water only, one apiece — set it to 0 on an element you do not have one for. Both Empower rows feed the same pool, and <code>T()</code> sorts descending, so the Lv 28 always occupies the top slot.</p>
-          <p class="note">Marginal value is the change in damage-per-time from adding one more copy, given everything else currently selected. Defensive picks (orange) are scored against damage taken, not damage dealt.</p>
+          <p class="note"><b>Lock</b> pins a row at its current count: <b>Optimise</b> fills only the unlocked slots around it, and <b>Clear</b> leaves locked rows alone. Lock one Blade Ward and one Spell Ward, then optimise, and the remaining eight slots are solved for damage. <b>Max</b> is how many copies you can actually field. The Lv 28 Empower exists for Fire, Earth, Lightning and Water only, one apiece — set it to 0 on an element you do not have one for. Both Empower rows feed the same pool, and <code>T()</code> sorts descending, so the Lv 28 always occupies the top slot.</p>
+          <p class="note">Marginal value is the change in damage-per-time from adding one more copy, given everything else currently selected. Defensive picks (orange) are scored against damage taken, not damage dealt. Blade Ward and Spell Ward gate on the <i>incoming</i> attack type, so both are available to any team — pick whichever matches what the boss deals. Dampen is elemental and cuts either.</p>
         </div>
       </section>
     </div>
@@ -339,39 +361,47 @@
   function ceil2(x) { return Math.ceil(x * 100) / 100; }
 
   /* ---------- roster ---------- */
+  // hi = the stat matching the mode (Ultra Attack ATK / Ultra Magic MAG); df = DEF = RES = MND
   var MAGICITE = [
-    { id: "wbz",    name: "Warring Bahamut ZERO", hi: 321, div: "Surging Power 15",            seed: { surge: 15 } },
-    { id: "shin",   name: "Shinryu Celestia",     hi: 308, div: "Deadly Strikes 15 / sorcery 15", seed: { critdmg: 15, sorcery: 15 } },
-    { id: "ark",    name: "Ark",                  hi: 321, div: "Health + Healing Boon 15",    seed: {}, ultra: "SB Gauge +150 to all allies" },
-    { id: "atomos", name: "Atomos",               hi: 308, div: "Fast Act 15",                 seed: { cast: 15 }, ultra: "LB Gauge +250, one random ally" },
-    { id: "crus",   name: "Crusader",             hi: 321, div: "Hand of Vengeance 15 + flat 15", seed: { hov: 15, elem: 15 } },
-    { id: "neo",    name: "Neo Bahamut",          hi: 301, div: "Surging Power 15",            seed: { surge: 15 } }
+    { id: "wbz",    name: "Warring Bahamut ZERO", hi: 321, df: 275, hp: 6390, div: "Surging Power 15",            seed: { surge: 15 } },
+    { id: "shin",   name: "Shinryu Celestia",     hi: 308, df: 268, hp: 6212, div: "Deadly Strikes 15 / sorcery 15", seed: { critdmg: 15, sorcery: 15 } },
+    { id: "ark",    name: "Ark",                  hi: 321, df: 275, hp: 6390, div: "Health + Healing Boon 15",    seed: { sHp: 15, healR: 15 }, ultra: "SB Gauge +150 to all allies" },
+    { id: "atomos", name: "Atomos",               hi: 308, df: 268, hp: 6212, div: "Fast Act 15",                 seed: { cast: 15 }, ultra: "LB Gauge +250, one random ally" },
+    { id: "crus",   name: "Crusader",             hi: 321, df: 275, hp: 6390, div: "Hand of Vengeance 15 + flat 15", seed: { hov: 15, elem: 15 }, drain: { df: 70, mnd: 30 } },
+    { id: "neo",    name: "Neo Bahamut",          hi: 301, df: 260, hp: 6023, div: "Surging Power 15",            seed: { surge: 15 } }
   ];
   var BY_ID = {};
   MAGICITE.forEach(function (m) { BY_ID[m.id] = m; });
 
   /* ---------- inheritable candidates ---------- */
   var CAND = [
-    { key: "emp28",   name: "Empower \u2014 Ultra Gigas", pool: "elem", lv: 28, side: "dmg", cap: 1 },
-    { key: "emp",     name: "Empower <element>",  pool: "elem",     lv: 24, side: "dmg" },
-    { key: "boon",    name: "Attack Boon",        pool: "stat",     lv: 24, side: "dmg", magicName: "Magic Boon" },
-    { key: "deadly",  name: "Deadly Strikes",     pool: "critdmg",  lv: 14, side: "dmg", physOnly: true },
-    { key: "precise", name: "Precise Strikes",    pool: "critrate", lv: 14, side: "dmg", physOnly: true },
-    { key: "fast",    name: "Fast Act",           pool: "cast",     lv: 14, side: "dmg" },
-    { key: "ward",    name: "Blade Ward",         pool: "ward",     lv: 12, side: "def", magicName: "Spell Ward" },
-    { key: "dampen",  name: "Dampen <element>",   pool: "dampen",   lv: 24, side: "def" }
+    { key: "emp28",   name: "Empower \u2014 Ultra Gigas", pool: "elem", lv: 28, side: "dmg", metric: "dmg", cap: 1 },
+    { key: "emp",     name: "Empower <element>",  pool: "elem",     lv: 24, side: "dmg", metric: "dmg" },
+    { key: "boon",    name: "Attack Boon",        pool: "stat",     lv: 24, side: "dmg", metric: "dmg", magicName: "Magic Boon" },
+    { key: "deadly",  name: "Deadly Strikes",     pool: "critdmg",  lv: 14, side: "dmg", metric: "dmg", physOnly: true },
+    { key: "precise", name: "Precise Strikes",    pool: "critrate", lv: 14, side: "dmg", metric: "dmg", physOnly: true },
+    { key: "fast",    name: "Fast Act",           pool: "cast",     lv: 14, side: "dmg", metric: "dmg" },
+    { key: "wardp",   name: "Blade Ward",         pool: "wardP",    lv: 12, side: "def", metric: "takenP" },
+    { key: "wardm",   name: "Spell Ward",         pool: "wardM",    lv: 12, side: "def", metric: "takenM" },
+    { key: "dampen",  name: "Dampen <element>",   pool: "dampen",   lv: 24, side: "def", metric: "takenP" },
+    { key: "dboon",   name: "Defense Boon",       pool: "sDef",     lv: 24, side: "def", metric: "takenP" },
+    { key: "rboon",   name: "Resistance Boon",    pool: "sRes",     lv: 24, side: "def", metric: "takenM" },
+    { key: "hboon",   name: "Health Boon",        pool: "sHp",      lv: 12, side: "def", metric: "hp" },
+    { key: "healb",   name: "Healing Boon",       pool: "healR",    lv: 18, side: "def", metric: "heal" },
+    { key: "mboon",   name: "Mind Boon",          pool: "sMnd",     lv: 24, side: "def", metric: "heal" }
   ];
   var SLOTS = 10;
 
   /* ---------- state ---------- */
   var S = {
     mode: "phys", stat: 1500, crit: 100, cdmg: 50, hp: 100, seal: 5,
+    pdef: 600, pres: 600, pmnd: 600, php: 12000,
     spd: 130, atb: 100, castms: 1650, qc: 200, qcup: 60,
     roster: ["wbz", "shin", "ark", "atomos", "crus"], main: "ark",
-    lv: {}, alloc: {}, cap: {}
+    lv: {}, alloc: {}, cap: {}, lock: {}
   };
   CAND.forEach(function (c) {
-    S.lv[c.key] = c.lv; S.alloc[c.key] = 0;
+    S.lv[c.key] = c.lv; S.alloc[c.key] = 0; S.lock[c.key] = false;
     S.cap[c.key] = (c.cap === undefined) ? SLOTS : c.cap;
   });
 
@@ -387,17 +417,34 @@
   }
 
   /* ---------- model ---------- */
-  function totalStat() {
+  // total_params = main at full value + floor(sub/4) each  (verified against a live payload)
+  function totalOf(prop) {
     var main = BY_ID[S.main];
-    var t = (main && S.roster.indexOf(S.main) >= 0) ? main.hi : 0;
+    var t = (main && S.roster.indexOf(S.main) >= 0) ? main[prop] : 0;
     S.roster.forEach(function (id) {
       if (id === S.main) return;
-      t += Math.floor(BY_ID[id].hi / 4);
+      t += Math.floor(BY_ID[id][prop] / 4);
     });
     return t;
   }
+  function totalStat() { return totalOf("hi"); }
+  // Crusader's World's End drains the magicite's own DEF/RES by 70% and MND by 30%
+  // (TALISMAN.DECREASE_TALISMAN_TOTAL_STATUS, resolved before the Boons read the pool).
+  function drainOf(kind) {
+    var pct = 0;
+    S.roster.forEach(function (id) {
+      var d = BY_ID[id].drain;
+      if (d && d[kind]) pct = Math.max(pct, d[kind]);
+    });
+    return pct;
+  }
+  function drained(prop, kind) {
+    var base = totalOf(prop);
+    return Math.max(Math.floor(base - base * drainOf(kind) / 100), 0);
+  }
   function pools(alloc) {
-    var p = { elem: [], stat: [], critdmg: [], critrate: [], cast: [], surge: [], hov: [], sorcery: [], ward: [], dampen: [] };
+    var p = { elem: [], stat: [], critdmg: [], critrate: [], cast: [], surge: [], hov: [], sorcery: [], wardP: [], wardM: [], dampen: [],
+               sDef: [], sRes: [], sMnd: [], sHp: [], healR: [] };
     for (var i = 0; i < S.seal; i++) p.elem.push(15);
     S.roster.forEach(function (id) {
       var seed = BY_ID[id].seed;
@@ -445,8 +492,26 @@
     var cycleBase = up * cyc(S.qc, 1) + (1 - up) * cyc(100, 1);
     var thru = cycleNow > 0 ? cycleBase / cycleNow : 1;
     var dmg = elem * statM * crit * sorcery * surge * hov;
-    var taken = Math.max(0, 1 - T(p.dampen) / 100) * Math.max(0, 1 - T(p.ward) / 100);
-    return { dmg: dmg, dps: dmg * thru, taken: taken, thru: thru, grant: grant,
+    var damp   = Math.max(0, 1 - T(p.dampen) / 100);
+    // Incoming damage scales as (enemyATK / ourDEF^1.2)^0.7, so our DEF enters at ^-0.84.
+    var defT = drained("df", "df"), mndT = drained("df", "mnd");
+    var gDef = Math.floor(defT * T(p.sDef) / 100);
+    var gRes = Math.floor(defT * T(p.sRes) / 100);
+    var gMnd = Math.floor(mndT * T(p.sMnd) / 100);
+    var gHp  = Math.floor(totalOf("hp") * T(p.sHp) / 100);
+    var defM = Math.pow((S.pdef + gDef) / S.pdef, -0.84);
+    var resM = Math.pow((S.pres + gRes) / S.pres, -0.84);
+    var takenP = Math.max(0, 1 - T(p.wardP) / 100) * damp * defM;   // incoming PHY/NAT
+    var takenM = Math.max(0, 1 - T(p.wardM) / 100) * damp * resM;   // incoming BLK/WHT/BLU/SUM/NAT
+    // heal = factor * (5 + MND^0.75 / 256 * 100)   [DamageCalculator.HEAL a:5 b:100]
+    function healPow(m) { return 5 + Math.pow(m, 0.75) / 256 * 100; }
+    var healOut  = healPow(S.pmnd + gMnd) / healPow(S.pmnd);
+    var healRecv = 1 + T(p.healR) / 100;
+    var heal = healOut * healRecv;
+    var hpM  = (S.php + gHp) / S.php;
+    return { dmg: dmg, dps: dmg * thru, takenP: takenP, takenM: takenM, thru: thru, grant: grant,
+             heal: heal, healOut: healOut, healRecv: healRecv, hp: hpM,
+             gDef: gDef, gRes: gRes, gMnd: gMnd, gHp: gHp, defDrain: drainOf("df"), mndDrain: drainOf("mnd"),
              critFactor: critFactor, critRate: critRate, atbMs: atbMs, cycleNow: cycleNow, castF: f,
              parts: { elem: elem, stat: statM, crit: crit, sorcery: sorcery, surge: surge, hov: hov, cast: thru }, p: p };
   }
@@ -466,15 +531,25 @@
     var next = Object.assign({}, alloc);
     next[c.key] = (next[c.key] || 0) + 1;
     var a = evaluate(alloc), b = evaluate(next);
-    return c.side === "dmg" ? b.dps / a.dps - 1 : (a.taken > 0 ? 1 - b.taken / a.taken : 0);
+    if (c.metric === "dmg") return b.dps / a.dps - 1;
+    if (c.metric === "heal" || c.metric === "hp") {   // bigger is better
+      return a[c.metric] > 0 ? b[c.metric] / a[c.metric] - 1 : 0;
+    }
+    return a[c.metric] > 0 ? 1 - b[c.metric] / a[c.metric] : 0;   // smaller is better
   }
   function optimise() {
+    // Locked rows keep exactly the count they have; the optimiser fills what is left.
     var alloc = {};
-    CAND.forEach(function (c) { alloc[c.key] = 0; });
-    for (var s = 0; s < SLOTS; s++) {
+    CAND.forEach(function (c) {
+      alloc[c.key] = (S.lock[c.key] && active(c)) ? Math.min(S.alloc[c.key] || 0, capOf(c)) : 0;
+    });
+    for (var i = CAND.length - 1; i >= 0 && used(alloc) > SLOTS; i--) {
+      while (alloc[CAND[i].key] > 0 && used(alloc) > SLOTS) alloc[CAND[i].key]--;
+    }
+    while (used(alloc) < SLOTS) {
       var best = null, bestG = 1e-9;
       CAND.forEach(function (c) {
-        if (c.side !== "dmg" || !active(c) || atCap(c, alloc)) return;
+        if (c.side !== "dmg" || !active(c) || S.lock[c.key] || atCap(c, alloc)) return;
         var g = marginal(c, alloc);
         if (g !== null && g > bestG) { bestG = g; best = c; }
       });
@@ -541,6 +616,7 @@
     CAND.forEach(function (c) {
       var tr = document.createElement("tr");
       if (!active(c)) tr.className = "dim";
+      else if (S.lock[c.key]) tr.className = "locked";
       var td1 = document.createElement("td");
       td1.innerHTML = '<span class="pname">' + nameOf(c) + "</span>" +
         '<span class="ppool"> · ' + (active(c) ? c.pool : "n/a — magic cannot crit") + "</span>";
@@ -585,6 +661,14 @@
       plus.addEventListener("click", function () { S.alloc[c.key] = (S.alloc[c.key] || 0) + 1; render(); });
       st.appendChild(minus); st.appendChild(n); st.appendChild(plus);
       td3.appendChild(st);
+      var lk = document.createElement("button");
+      lk.type = "button"; lk.className = "lockbtn"; lk.textContent = S.lock[c.key] ? "Locked" : "Lock";
+      lk.setAttribute("aria-pressed", String(!!S.lock[c.key]));
+      lk.setAttribute("aria-label", "Lock " + nameOf(c) + " at " + (S.alloc[c.key] || 0) + " slots");
+      lk.title = "Keep this count when optimising";
+      lk.disabled = !active(c);
+      lk.addEventListener("click", function () { S.lock[c.key] = !S.lock[c.key]; render(); });
+      td3.appendChild(lk);
 
       var td4 = document.createElement("td");
       var g = margs[c.key];
@@ -607,16 +691,21 @@
     var u = used(S.alloc);
     var sc = $("slotcount");
     sc.className = "slotcount" + (u >= SLOTS ? " full" : "");
-    sc.innerHTML = "<b>" + u + "</b> / " + SLOTS + " slots used";
+    var lockedN = CAND.reduce(function (n, c) { return n + (S.lock[c.key] ? (S.alloc[c.key] || 0) : 0); }, 0);
+    sc.innerHTML = "<b>" + u + "</b> / " + SLOTS + " slots used" +
+      (lockedN ? ' <span style="color:var(--warm)">\u00b7 ' + lockedN + " locked</span>" : "");
   }
 
   function renderOut(res) {
     var L = DMG[S.mode].label;
     $("out").innerHTML =
-      tile("Damage per time", res.dps.toFixed(3) + "×", "relative to no passives", true) +
-      tile("Damage per hit", res.dmg.toFixed(3) + "×", "before cast-speed throughput") +
-      tile("Damage taken", (res.taken * 100).toFixed(0) + "%", "from defensive picks") +
-      tile(L + " granted", "+" + res.grant, "flat, from Boons");
+      tile("Damage × from magicite", res.dps.toFixed(3) + "×", "per unit time, vs no magicite", true) +
+      tile("Per-hit ×", res.dmg.toFixed(3) + "×", "before cast-speed throughput") +
+      tile("Phys taken", (res.takenP * 100).toFixed(0) + "%", "incoming PHY / NAT") +
+      tile("Magic taken", (res.takenM * 100).toFixed(0) + "%", "incoming BLK / WHT / SUM") +
+      tile(L + " granted", "+" + res.grant, "flat, from Boons") +
+      tile("Healing", res.heal.toFixed(3) + "\u00d7", "output \u00d7 received") +
+      tile("Max HP", res.hp.toFixed(3) + "\u00d7", "+" + res.gHp + " flat");
 
     var parts = [
       ["Element pool (g)", res.parts.elem],
@@ -649,10 +738,13 @@
   function render() {
     if (used(S.alloc) > SLOTS) {
       var over = used(S.alloc) - SLOTS;
-      for (var i = CAND.length - 1; i >= 0 && over > 0; i--) {
-        var k = CAND[i].key;
-        while (S.alloc[k] > 0 && over > 0) { S.alloc[k]--; over--; }
-      }
+      [false, true].forEach(function (pass) {          // shed unlocked slots first
+        for (var i = CAND.length - 1; i >= 0 && over > 0; i--) {
+          var k = CAND[i].key;
+          if (!!S.lock[k] !== pass) continue;
+          while (S.alloc[k] > 0 && over > 0) { S.alloc[k]--; over--; }
+        }
+      });
     }
     CAND.forEach(function (c) {
       if (!active(c)) S.alloc[c.key] = 0;
@@ -682,6 +774,9 @@
       b.setAttribute("aria-pressed", String(Number(b.dataset.atb) === S.atb));
     });
     $("f-seal").value = S.seal; $("o-seal").textContent = S.seal + " / 5";
+    [["f-pdef","pdef"],["f-pres","pres"],["f-pmnd","pmnd"],["f-php","php"]].forEach(function (q) {
+      $(q[0]).value = S[q[1]];
+    });
     $("critwrap").hidden = S.mode !== "phys";
 
     var c = DMG[S.mode];
@@ -703,6 +798,11 @@
       + "(<code>s = floor(base \u00d7 rate) + flat</code>), so they are not multiplied by them.";
 
     var res = evaluate(S.alloc);
+    var dTxt = res.defDrain ? " (drained " + res.defDrain + "% by Crusader)" : "";
+    var mTxt = res.mndDrain ? " (drained " + res.mndDrain + "%)" : "";
+    $("h-base").innerHTML = "magicite pools \u2014 DEF/RES <b class='mono'>" + drained("df","df") +
+      "</b>" + dTxt + ", MND <b class='mono'>" + drained("df","mnd") + "</b>" + mTxt +
+      ", HP <b class='mono'>" + totalOf("hp") + "</b>";
     var castPart = Math.max(0, res.cycleNow - res.atbMs);
     var share = res.cycleNow > 0 ? castPart / res.cycleNow : 0;
     var qcTxt = S.qc === 0 ? "Instant" : S.qc === 100 ? "no buff" : "\u00d7" + (S.qc / 100).toFixed(0);
@@ -733,9 +833,17 @@
   document.querySelectorAll(".qcseg button").forEach(function (b) {
     b.addEventListener("click", function () { S.qc = Number(b.dataset.qc); render(); });
   });
+  [["f-pdef","pdef"],["f-pres","pres"],["f-pmnd","pmnd"],["f-php","php"]].forEach(function (q) {
+    $(q[0]).addEventListener("change", function (e) {
+      var v = parseInt(e.target.value, 10);
+      S[q[1]] = (isNaN(v) || v < 1) ? 1 : v;
+      render();
+    });
+  });
   $("solve").addEventListener("click", function () { optimise(); render(); });
   $("clear").addEventListener("click", function () {
-    CAND.forEach(function (c) { S.alloc[c.key] = 0; }); render();
+    CAND.forEach(function (c) { if (!S.lock[c.key]) S.alloc[c.key] = 0; });
+    render();
   });
 
   if (used(S.alloc) === 0) optimise();
