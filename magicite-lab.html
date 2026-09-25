@@ -284,6 +284,12 @@
             <span class="hint" id="h-base"></span>
           </div>
           <div class="field">
+            <label for="f-elemlv">Your element attack level</label>
+            <output id="o-elemlv"></output>
+            <input id="f-elemlv" type="range" min="0" max="6" step="1">
+            <span class="hint" id="h-elemlv"></span>
+          </div>
+          <div class="field">
             <label for="f-seal">Magicite carrying the element seal</label>
             <output id="o-seal"></output>
             <input id="f-seal" type="range" min="0" max="5" step="1">
@@ -388,15 +394,20 @@
   /* ---------- roster ---------- */
   // hi = the stat matching the mode (Ultra Attack ATK / Ultra Magic MAG); df = DEF = RES = MND
   var MAGICITE = [
-    { id: "wbz",    name: "Warring Bahamut ZERO", hi: 321, df: 275, hp: 6390, div: "Surging Power 15",            seed: { surge: 15 } },
-    { id: "shin",   name: "Shinryu Celestia",     hi: 308, df: 268, hp: 6212, div: "Deadly Strikes 15 / sorcery 15", seed: { critdmg: 15, sorcery: 15 } },
-    { id: "ark",    name: "Ark",                  hi: 321, df: 275, hp: 6390, div: "Health + Healing Boon 15",    seed: { sHp: 15, healR: 15 }, ultra: "SB Gauge +150 to all allies" },
-    { id: "atomos", name: "Atomos",               hi: 308, df: 268, hp: 6212, div: "Fast Act 15",                 seed: { cast: 15 }, ultra: "LB Gauge +250, one random ally" },
-    { id: "crus",   name: "Crusader",             hi: 321, df: 275, hp: 6390, div: "Hand of Vengeance 15 + tagged flat 15", seed: { hov: 15, doomsday: 15 }, drain: { df: 70, mnd: 30 } },
-    { id: "neo",    name: "Neo Bahamut",          hi: 301, df: 260, hp: 6023, div: "Surging Power 15",            seed: { surge: 15 } },
-    { id: "gigas",  name: "Ultra Gigas (your element)", hi: 321, df: 275, hp: 6390,
+    { id: "wbz",    name: "Warring Bahamut ZERO", hi: 321, df: 275, mn: 275, hp: 6390, div: "Surging Power 15",            seed: { surge: 15 } },
+    { id: "shin",   name: "Shinryu Celestia",     hi: 308, df: 268, mn: 268, hp: 6212, div: "Deadly Strikes 15 / sorcery 15", seed: { critdmg: 15, sorcery: 15 } },
+    { id: "ark",    name: "Ark",                  hi: 321, df: 275, mn: 275, hp: 6390, div: "Health + Healing Boon 15",    seed: { sHp: 15, healR: 15 }, ultra: "SB Gauge +150 to all allies" },
+    { id: "atomos", name: "Atomos",               hi: 308, df: 268, mn: 268, hp: 6212, div: "Fast Act 15",                 seed: { cast: 15 }, ultra: "LB Gauge +250, one random ally" },
+    { id: "crus",   name: "Crusader",             hi: 321, df: 275, mn: 275, hp: 6390, div: "Hand of Vengeance 15 + tagged flat 15", seed: { hov: 15, doomsday: 15 }, drain: { df: 70, mnd: 30 } },
+    { id: "neo",    name: "Neo Bahamut",          hi: 301, df: 260, mn: 260, hp: 6023, div: "Surging Power 15",            seed: { surge: 15 } },
+    { id: "gigas",  name: "Ultra Gigas (your element)", hi: 321, df: 275, mn: 275, hp: 6390,
       div: "Empower 28 innate \u00b7 no Diversion, no seal slots", seed: { elem: 28 }, noSeal: true,
-      ultra: "399,999 fixed damage + Infusion to all allies" }
+      ultra: "399,999 fixed damage + Infusion to all allies" },
+    // Lich Paradox — stats and passives read straight from a live battle payload
+    // (id 161000403, rarity 7, 【攻契】リッチ・パラドックス・聖). DEF/RES 296 but MND 321.
+    { id: "lich",   name: "Lich Paradox", hi: 353, df: 296, mn: 321, hp: 6782,
+      div: "Health + Healing Boon 15 \u00b7 element-level damage",
+      seed: { sHp: 15, healR: 15 }, elemLvFactors: [5, 7, 9, 11, 13, 15] }
   ];
   var BY_ID = {};
   MAGICITE.forEach(function (m) { BY_ID[m.id] = m; });
@@ -424,7 +435,7 @@
   var S = {
     mode: "phys", stat: 1500, crit: 100, cdmg: 50, hp: 100, seal: 5,
     pdef: 600, pres: 600, pmnd: 600, php: 12000,
-    spd: 130, atb: 100, castms: 1650, qc: 200, qcup: 60,
+    spd: 130, atb: 100, castms: 1650, qc: 200, qcup: 60, elemlv: 0,
     statmnd: 1500, mixw: 50,
     roster: ["wbz", "shin", "ark", "atomos", "crus"], main: "ark",
     lv: {}, alloc: {}, cap: {}, lock: {}
@@ -487,9 +498,12 @@
   }
   function pools(alloc) {
     var p = { elem: [], stat: [], critdmg: [], critrate: [], cast: [], surge: [], hov: [], sorcery: [], wardP: [], wardM: [], dampen: [],
-               sDef: [], sRes: [], sMnd: [], sHp: [], healR: [], doomsday: [] };
+               sDef: [], sRes: [], sMnd: [], sHp: [], healR: [], doomsday: [], elemLv: [] };
     for (var i = 0; i < Math.min(S.seal, sealMax()); i++) p.elem.push(15);
     S.roster.forEach(function (id) {
+      // type 42: factor = damageFactors[level - 1], clamped to the last entry; inert below level 1
+      var fx = BY_ID[id].elemLvFactors;
+      if (fx && S.elemlv >= 1) p.elemLv.push(fx[Math.min(S.elemlv, fx.length) - 1]);
       var seed = BY_ID[id].seed;
       Object.keys(seed).forEach(function (k) {
         if (k === "critdmg" && S.mode !== "phys") return;
@@ -509,9 +523,9 @@
     var p = pools(alloc), hp = S.hp / 100;
     // Untagged element pool, then each damageFactorTag pool multiplies in separately
     // (battle.js: g += T(O); for each tag g *= (100 + T(M[tag])) / 100).
-    var elem = (1 + T(p.elem) / 100) * (1 + T(p.doomsday) / 100);
+    var elem = (1 + T(p.elem) / 100) * (1 + T(p.doomsday) / 100) * (1 + T(p.elemLv) / 100);
     // White magic's offensive stat is MND, which Crusader drains by 30%.
-    var statTotal = (S.mode === "white") ? drained("df", "mnd") : totalStat();
+    var statTotal = (S.mode === "white") ? drained("mn", "mnd") : totalStat();
     var statPool  = (S.mode === "white") ? p.sMnd : p.stat;
     var grant = Math.floor(statTotal * T(statPool) / 100);
     function statMul(stat, g) {
@@ -519,7 +533,7 @@
       return d > 0 ? rawDamage(stat + g, S.mode, REF_DEF) / d : 1;
     }
     var statM = statMul(S.stat, grant);
-    var grantMnd = Math.floor(drained("df", "mnd") * T(p.sMnd) / 100);
+    var grantMnd = Math.floor(drained("mn", "mnd") * T(p.sMnd) / 100);
     var statMnd  = statMul(S.statmnd, grantMnd);
     var crit = 1, critFactor = 0, critRate = 0;
     if (S.mode === "phys") {
@@ -558,7 +572,7 @@
     }
     var damp   = Math.max(0, 1 - T(p.dampen) / 100);
     // Incoming damage scales as (enemyATK / ourDEF^1.2)^0.7, so our DEF enters at ^-0.84.
-    var defT = drained("df", "df"), mndT = drained("df", "mnd");
+    var defT = drained("df", "df"), mndT = drained("mn", "mnd");
     var gDef = Math.floor(defT * T(p.sDef) / 100);
     var gRes = Math.floor(defT * T(p.sRes) / 100);
     var gMnd = Math.floor(mndT * T(p.sMnd) / 100);
@@ -850,6 +864,12 @@
     document.querySelectorAll(".atbseg button").forEach(function (b) {
       b.setAttribute("aria-pressed", String(Number(b.dataset.atb) === S.atb));
     });
+    $("f-elemlv").value = S.elemlv;
+    $("o-elemlv").textContent = S.elemlv === 0 ? "none" : "level " + S.elemlv;
+    $("h-elemlv").textContent = S.roster.indexOf("lich") < 0
+      ? "Only Lich Paradox reads this (TALISMAN type 42); inert below level 1."
+      : "Lich adds +" + (S.elemlv >= 1 ? [5,7,9,11,13,15][Math.min(S.elemlv,6)-1] : 0) +
+        "% at this level \u2014 its own multiplier, not the Empower pool.";
     var smax = sealMax();
     if (S.seal > smax) S.seal = smax;
     $("f-seal").max = String(smax);
@@ -887,7 +907,7 @@
     var dTxt = res.defDrain ? " (drained " + res.defDrain + "% by Crusader)" : "";
     var mTxt = res.mndDrain ? " (drained " + res.mndDrain + "%)" : "";
     $("h-base").innerHTML = "magicite pools \u2014 DEF/RES <b class='mono'>" + drained("df","df") +
-      "</b>" + dTxt + ", MND <b class='mono'>" + drained("df","mnd") + "</b>" + mTxt +
+      "</b>" + dTxt + ", MND <b class='mono'>" + drained("mn","mnd") + "</b>" + mTxt +
       ", HP <b class='mono'>" + totalOf("hp") + "</b>";
     var castPart = Math.max(0, res.cycleNow - res.atbMs);
     var share = res.cycleNow > 0 ? castPart / res.cycleNow : 0;
@@ -909,7 +929,7 @@
       S.mode = b.dataset.mode; render();
     });
   });
-  [["f-stat", "stat"], ["f-crit", "crit"], ["f-cdmg", "cdmg"], ["f-hp", "hp"], ["f-spd", "spd"], ["f-statmnd", "statmnd"], ["f-mixw", "mixw"], ["f-castms", "castms"], ["f-qcup", "qcup"], ["f-seal", "seal"]]
+  [["f-stat", "stat"], ["f-crit", "crit"], ["f-cdmg", "cdmg"], ["f-hp", "hp"], ["f-spd", "spd"], ["f-elemlv", "elemlv"], ["f-statmnd", "statmnd"], ["f-mixw", "mixw"], ["f-castms", "castms"], ["f-qcup", "qcup"], ["f-seal", "seal"]]
     .forEach(function (pair) {
       $(pair[0]).addEventListener("input", function (e) { S[pair[1]] = parseInt(e.target.value, 10); render(); });
     });
